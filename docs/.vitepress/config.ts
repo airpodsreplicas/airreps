@@ -31,14 +31,14 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Get Started', link: '/introduction' }
+      { text: 'Introduction', link: '/introduction' }
     ],
 
     sidebar: [
       {
-        text: 'Introduction',
         items: [
-          { text: 'placeholder', link: '/placeholder' },
+          { text: 'Introduction', link: 'introduction#airreps-ultimate-guide' },
+          { text: 'Get Started', link: 'introduction#get-started' },
         ]
       }
     ],
