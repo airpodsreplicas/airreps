@@ -25,7 +25,7 @@ export default defineConfig({
 
     footer: {
       message: "Released under the GPLv3 License.",
-      copyright: "© Copyright 2023 AirReps. All Rights Reserved.",
+      copyright: `© Copyright ${new Date().getFullYear()} AirReps. All Rights Reserved.`,
     },
 
     nav: [
