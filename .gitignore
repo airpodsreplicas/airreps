@@ -18,6 +18,7 @@
 
 # VitePress build cache
 /docs/.vitepress/cache
+/docs/.vitepress/dist
 
 # ========================
 # System related files
