@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/airreps/',
   lang: 'en-US',
   title: "AirReps Ultimate Guide",
   description: "The products you want, just cheaper.",
