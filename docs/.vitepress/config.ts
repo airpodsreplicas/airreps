@@ -46,6 +46,10 @@ export default defineConfig({
       { icon: 'discord', link: 'https://airreps.link/discord' }
     ],
 
+    socialLinks: [
+      { icon: 'reddit', link: 'https://airreps.link/reddit' }
+    ],
+
     search: {
       provider: 'local'
     }
