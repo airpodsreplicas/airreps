@@ -8,11 +8,9 @@ hero:
   tagline: A community for the discussion and exploration of AirPods clones.
   actions:
     - theme: brand
-      text: Get Started
+      text: Read the Ultimate Guide
       link: introduction/getting-started
     - theme: alt
-      text: Join our Community
-      link: https://airreps.link/discord
 
 features:
   - title: Team of helpers
