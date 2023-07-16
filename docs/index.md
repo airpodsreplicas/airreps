@@ -10,14 +10,16 @@ hero:
     - theme: brand
       text: Read the Ultimate Guide
       link: introduction/getting-started
-    - theme: alt
 
 features:
-  - title: Team of helpers
+  - icon: 🙌
+    title: Team of helpers
     details: We have a team of dedicated helpers, that can answer almost any question you might have! 
-  - title: Up to date
+  - icon: 🆙  
+    title: Up to date
     details: All our resources, guides, and apps are always kept up to date, by our big dedicated staff team!
-  - title: Trusted seller list
+  - icon: 🌟  
+    title: Trusted seller list
     details: Sellers that has the latest products, the best support, the latest features, and more! All this completely non-profit. 
 ---
 
