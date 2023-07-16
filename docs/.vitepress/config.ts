@@ -48,7 +48,12 @@ export default defineConfig({
     ],
 
     search: {
-      provider: 'local'
+      provider: 'algolia',
+      options: {
+        appId: 'PROJNMA8TO',
+        apiKey: '37640f53e8d6a5b32878335837780508',
+        indexName: 'AirReps'
+      }
     }
   }
 })
