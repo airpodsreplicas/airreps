@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/airreps/',
   lang: 'en-US',
   title: "AirReps",
   description: "A community for the discussion and exploration of AirPods clones.",
