@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'en-US',
-  title: "AirReps Ultimate Guide",
-  description: "The products you want, just cheaper.",
+  title: "AirReps",
+  description: "A community for the discussion and exploration of AirPods clones.",
 
   lastUpdated: true,
   cleanUrls: true,
@@ -43,8 +43,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'https://airreps.link/discord' },
-      { icon: 'reddit', link: 'https://airreps.link/reddit' }
+      { icon: 'discord', link: 'https://airreps.link/discord' }
     ],
 
     search: {
