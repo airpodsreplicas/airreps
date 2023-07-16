@@ -4,9 +4,6 @@
   "description": "The AirReps Repository containing the Ultimate Guide and other resources!",
   "repository": "https://github.com/TowyTowy/airreps.git",
   "author": "AirReps",
-  "engines": {
-    "node": "16"
-  },
   "license": "GPL-3.0-or-later",
   "scripts": {
     "docs:dev": "vitepress dev docs",
