@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "AirReps Ultimate Guide"
-  text: "The products you want, just cheaper."
-  tagline: The most learnful AirPods replica community.
+  name: "AirReps"
+  text: "AirPods replicas."
+  tagline: A community for the discussion and exploration of AirPods clones.
   actions:
     - theme: brand
       text: Get Started
@@ -15,11 +15,11 @@ hero:
       link: https://airreps.link/discord
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Team of helpers
+    details: We have a team of dedicated helpers, that can answer almost any question you might have! 
+  - title: Up to date
+    details: All our resources, guides, and apps are always kept up to date, by our big dedicated staff team!
+  - title: Trusted seller list
+    details: Sellers that has the latest products, the best support, the latest features, and more! All this completely non-profit. 
 ---
 
