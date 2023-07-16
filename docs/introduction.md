@@ -20,10 +20,10 @@ Let us take you on a comprehensive journey through the world of replica AirPods,
 ## Get Started
 To begin your journey into the world of replica AirPods, we recommend starting with the following sections:
 
-1. [FAQ](/links): Explore the top recommended replica AirPods.
+1. [FAQ](/faq): Explore the top recommended replica AirPods.
 2. [Version Info](/versioninfo): Learn about the features and performance of replica AirPods.
-3. [Links](#links): Get insights into purchasing replica AirPods and finding reliable sellers.
-4. [Troubleshooting](#troubleshooting): Find solutions to common issues with replica AirPods.
+3. [Links](/links): Get insights into purchasing replica AirPods and finding reliable sellers.
+4. [Troubleshooting](/troubleshooting): Find solutions to common issues with replica AirPods.
 
 Feel free to navigate through the sections using the links provided or use the table of contents on the right-hand side of the page for easy access.
 
