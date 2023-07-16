@@ -1,0 +1,27 @@
+# ========================
+# Node.js related files
+# ========================
+
+# Dependency directories
+/node_modules
+
+# ========================
+# IDEs and editors
+# ========================
+
+# JetBrains IDEs (e.g., WebStorm, IntelliJ)
+/.idea
+
+# ========================
+# VitePress related files
+# ========================
+
+# VitePress build cache
+/docs/.vitepress/cache
+
+# ========================
+# System related files
+# ========================
+
+# File created by Mac OSX
+.DS_STORE
