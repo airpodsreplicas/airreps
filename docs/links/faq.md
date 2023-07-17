@@ -4,7 +4,7 @@
 A: It is not possible to guarantee the quality of a unit, as it can vary even among units from the same seller. However, the sellers mentioned in the original text are generally known for offering good quality products.
 
 ## Q: How do I contact sellers?
-A: To contact sellers, you can join the AirReps [Discord Server](https://airreps.link/discord) server and obtain their WhatsApp numbers, as they are not publicly available. Alternatively, you can use AliExpress to message them by clicking "Contact Supplier".
+A: To contact sellers, you can join the AirReps [Discord](https://airreps.link/discord) and obtain their WhatsApp numbers, as they are not publicly available. Alternatively, you can use AliExpress to message them by clicking "Contact Supplier".
 
 ## Q: Is the minimum order more than one unit?
 A: If you would like to order only one unit, you can click "Buy Sample" on the product page. Alternatively, you can contact the seller and request that they create an order for a single unit for you.
