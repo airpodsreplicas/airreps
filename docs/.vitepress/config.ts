@@ -12,6 +12,31 @@ export default defineConfig({
 
   head: [
     ["link", { rel: "icon", sizes: "any", href: "/favicon.ico" }],
+    ['meta', { name: 'theme-color', content: '#EC645D' }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "AirReps Ultimate Guide" }],
+    ["meta", { name: "application-name", content: "AirReps Ultimate Guide" }],
+    ["meta", { name: "msapplication-TileColor", content: "#000000" }],
+    ["meta", { name: "theme-color", content: "#EC645D" }],
+    ["meta", { name: "viewport", content: "width=device-width, initial-scale=1" }],
+    ["meta", { property: "og:title", content: "AirReps | Ultimate Guide" }],
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:url", content: "https://airpodsreplicas.com/" }],
+    ["meta", { property: "og:description", content: "A community for the discussion and exploration of AirPods clones." }],
+    ["meta", { property: "og:image", content: "https://airpodsreplicas.com/logo.png" }],
+    ["meta", { property: "og:image:width", content: "800" }],
+    ["meta", { property: "og:image:height", content: "800" }],
+    ["meta", { property: "og:image:alt", content: "AirReps | Ultimate Guide" }],
+    ["meta", { property: "og:image:type", content: "image/png" }],
+    ["meta", { property: "twitter:card", content: "summary_large_image" }],
+    ["meta", { property: "twitter:url", content: "https://airpodsreplicas.com/" }],
+    ["meta", { property: "twitter:title", content: "AirReps | Ultimate Guide" }],
+    ["meta", { property: "twitter:description", content: "A community for the discussion and exploration of AirPods clones." }],
+    ["meta", { property: "twitter:image", content: "https://airpodsreplicas.com/logo.png" }],
+    ["meta", { property: "twitter:image:alt", content: "AirReps | Ultimate Guide" }],
+    ["meta", { property: "owner", content: "AirReps" }],
+    ["meta", { property: "author", content: "AirReps" }]
   ],
 
   themeConfig: {
