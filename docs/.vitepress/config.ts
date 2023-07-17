@@ -116,13 +116,13 @@ export default defineConfig({
         text: 'Links',
         collapsed: false,
         items: [
-          { text: 'Info', link: '/links#info' },
-          { text: 'AirPods 3', link: '/links#airpods-2' },
-          { text: 'AirPods 2', link: '/links#airpods-pro-gen-2' },
-          { text: 'AirPods Pro', link: '/links#airpods-pro' },
-          { text: 'AirPods Pro 2', link: '/links#airpods-max' },
-          { text: 'AirPods Max', link: '/links#airpods-3' },
-          { text: 'FAQ', link: '/links#faq' },
+          { text: 'Info', link: '/links/info' },
+          { text: 'AirPods 3', link: '/links/airpods-2' },
+          { text: 'AirPods 2', link: '/links/airpods-pro-gen-2' },
+          { text: 'AirPods Pro', link: '/links/airpods-pro' },
+          { text: 'AirPods Pro 2', link: '/links/airpods-max' },
+          { text: 'AirPods Max', link: '/links/airpods-3' },
+          { text: 'FAQ', link: '/links/faq' },
         ]
       },
       {
