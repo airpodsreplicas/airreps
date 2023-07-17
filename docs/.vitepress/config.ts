@@ -23,16 +23,16 @@ export default defineConfig({
     ["meta", { property: "og:title", content: "AirReps | Ultimate Guide" }],
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:url", content: "https://airpodsreplicas.com/" }],
-    ["meta", { property: "og:description", content: "A community for the discussion and exploration of AirPods clones." }],
+    ["meta", { property: "og:description", content: "A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!" }],
     ["meta", { property: "og:image", content: "https://airpodsreplicas.com/logo.png" }],
-    ["meta", { property: "og:image:width", content: "800" }],
-    ["meta", { property: "og:image:height", content: "800" }],
+    ["meta", { property: "og:image:width", content: "400" }],
+    ["meta", { property: "og:image:height", content: "400" }],
     ["meta", { property: "og:image:alt", content: "AirReps | Ultimate Guide" }],
     ["meta", { property: "og:image:type", content: "image/png" }],
     ["meta", { property: "twitter:card", content: "summary_large_image" }],
     ["meta", { property: "twitter:url", content: "https://airpodsreplicas.com/" }],
     ["meta", { property: "twitter:title", content: "AirReps | Ultimate Guide" }],
-    ["meta", { property: "twitter:description", content: "A community for the discussion and exploration of AirPods clones." }],
+    ["meta", { property: "twitter:description", content: "A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!" }],
     ["meta", { property: "twitter:image", content: "https://airpodsreplicas.com/logo.png" }],
     ["meta", { property: "twitter:image:alt", content: "AirReps | Ultimate Guide" }],
     ["meta", { property: "owner", content: "AirReps" }],
@@ -56,7 +56,33 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Introduction', link: '/introduction/overview' }
+      {
+        text: 'Ultimate Guide',
+        items: [
+          { text: 'Overview', link: '/introduction/overview' },
+          { text: 'Sellers', link: '/introduction/sellers' },
+          { text: 'Packaging', link: '/introduction/packaging' },
+          { text: 'Connectivity', link: '/introduction/connectivity' },
+          { text: 'Battery Life', link: '/introduction/battery-life' },
+          { text: 'Features', link: '/introduction/features' },
+          { text: 'ANC Explained', link: '/introduction/anc-explained' },
+          { text: 'Build Quality', link: '/introduction/build-quality' },
+          { text: 'Sound Quality', link: '/introduction/sound-quality' },
+          { text: 'FAQ', link: '/introduction/faq' },
+        ]
+      },
+      {
+        text: 'Links',
+        items: [
+          { text: 'Info', link: '/links/info' },
+          { text: 'AirPods 3', link: '/links/airpods-3' },
+          { text: 'AirPods 2', link: '/links/airpods-2' },
+          { text: 'AirPods Pro', link: '/links/airpods-pro' },
+          { text: 'AirPods Pro 2', link: '/links/airpods-pro-2' },
+          { text: 'AirPods Max', link: '/links/airpods-max' },
+          { text: 'FAQ', link: '/links/faq' },
+        ]
+      }
     ],
 
     sidebar: [
@@ -78,7 +104,7 @@ export default defineConfig({
       },
       {
         text: 'AirReps Dictionary',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'W2C', link: '/dictionary/w2c' },
           { text: 'Reps/Clones: Replicas', link: '/dictionary/reps-clones' },
@@ -93,7 +119,7 @@ export default defineConfig({
       },
       {
         text: 'Version Info',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'General', link: '/version-info/general' },
           { text: 'AirPods 3', link: '/version-info/airpods-3' },
@@ -106,7 +132,7 @@ export default defineConfig({
       },
       {
         text: 'Ordering',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'AliExpress/AliBaba', link: '/ordering/aliexpress-alibaba' },
           { text: 'QC & LC', link: '/ordering/qc-lc' },
@@ -114,7 +140,7 @@ export default defineConfig({
       },
       {
         text: 'Links',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Info', link: '/links/info' },
           { text: 'AirPods 3', link: '/links/airpods-3' },
@@ -128,13 +154,9 @@ export default defineConfig({
       {
         items: [
           { text: 'Useful Apps', link: '/useful-apps' },
+          { text: 'Troubleshooting', link: '/troubleshooting' }
         ]
-      },
-      {
-        items: [
-          { text: 'Troubleshooting', link: '/troubleshooting' },
-        ]
-      },
+      }
     ],
 
     socialLinks: [
