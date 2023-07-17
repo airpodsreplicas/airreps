@@ -26,6 +26,8 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 
 5. **Shipping Timer**: On your Order page on AliExpress, there will be a shipping countdown timer that will automatically confirm delivery after a certain number of days. If the timer is about to expire and you haven't received your order, make sure to click "Extend Shipping Time" to give yourself an additional 15 days. Only click "Order Received" once you have received your order and confirmed that it is in good working condition.
 
-## Buying from HiCity
+## Why can I only pay with Wise or Bitcoin!?
 
-If you want to purchase from HiCity, consider buying through his [official website](https://hicitypods.com/) instead of AliExpress. This is because HiCity is not allowed to sell AirPods with Apple markings on AliExpress. Please note that there is no corporation-backed buyer guarantee when purchasing from HiCity's official website, but he has demonstrated in the past that he is trustworthy.
+At present, the majority of our sellers accept payments via Wise - a reputable international money transfer service, or through various forms of cryptocurrencies, including Bitcoin. This preference has emerged due to past issues with PayPal, which was previously closed following complaints related to Apple's trademarks.
+However, it's worth noting that there may be changes on the horizon. HiCity, one of our prominent sellers, is considering the inclusion of credit card payments in the near future.
+In the meantime, if you're looking for alternatives that already accept credit card payments, consider using either Jenny's Alibaba or BESChan's Weidian link with an agent, both platforms allows you to pay with a credit card respectively.
