@@ -12,13 +12,13 @@ The No-logo box is white and has a similar shape to the original AirPods box. It
 
 The Apple logo box mirrors the packaging of legitimate AirPods, featuring the traditional "AirPods" text and Apple logos. The manuals and charging cable inside bear Apple markings. However, requesting an "Apple box" could increase the risk of product seizure at customs, leading to fines or destruction of the product. To mitigate this risk, many sellers use a double box technique, hiding the actual Apple box inside a generic headphone-shaped box.
 
-![Apple Logo Box](/media/applelogobox.jpg)
+![Apple Logo Box](/media/applebox.jpg)
 
 ::: danger
 Requesting an "Apple box" can lead to product seizure at customs. Many sellers use a double box technique to reduce this risk.
 :::
 
-## Double Box
+## Double/Decoy Box
 
 Considered by many as the superior option among the three, this packaging incorporates a clever strategy of utilizing discreet packaging that resembles ordinary earbuds. However, concealed within this unassuming packaging is the Apple Logo Box, as previously explained. By adopting this astute packaging approach, the potential risks associated with customs authorities seizing the product are significantly reduced, while enabling you to successfully obtain the Apple Logo Box without undue complications.
 
