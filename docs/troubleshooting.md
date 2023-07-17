@@ -26,7 +26,7 @@ Follow these steps to perform a soft reset on your AirPods Pro Replicas:
 - Open the lid and hold the back button for a few seconds, until the light flashes, then close the lid. Don't worry if your light doesn't flash the same as in the image.
 - Wait a full 1 minute, then turn on Bluetooth, open the lid and try to reconnect.
 - If it doesn't work, take the pods out and put them back in. Close the lid and wait for the light to turn off. Then open it and try again. It can take 3-4 **SOFT RESETS** to work. If it doesn't try a **HARD RESET** (see below)
-![How to soft reset your AirPods](/airpodssoftreset.png)
+![How to soft reset your AirPods](/media/airpodssoftreset.png)
 
 #### **Hard Reset**
 Follow these steps to perform a hard reset on your AirPods Pro Replicas:
