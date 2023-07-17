@@ -87,7 +87,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'AirReps Ultimate Guide',
+        text: 'Ultimate Guide',
         collapsed: false,
         items: [
           { text: 'Overview', link: '/introduction/overview' },
@@ -134,13 +134,13 @@ export default defineConfig({
         text: 'Ordering',
         collapsed: true,
         items: [
-          { text: 'AliExpress/AliBaba', link: '/ordering/aliexpress-alibaba' },
+          { text: 'AliExpress/Alibaba', link: '/ordering/aliexpress-alibaba' },
           { text: 'QC & LC', link: '/ordering/qc-lc' },
         ]
       },
       {
         text: 'Links',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: 'Info', link: '/links/info' },
           { text: 'AirPods 3', link: '/links/airpods-3' },
