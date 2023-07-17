@@ -87,7 +87,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'AirReps Ultimate Guide',
+        text: 'Ultimate Guide',
         collapsed: false,
         items: [
           { text: 'Overview', link: '/introduction/overview' },
