@@ -78,7 +78,7 @@ export default defineConfig({
       },
       {
         text: 'AirReps Dictionary',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'W2C', link: '/dictionary/w2c' },
           { text: 'Reps/Clones: Replicas', link: '/dictionary/reps-clones' },
@@ -93,7 +93,7 @@ export default defineConfig({
       },
       {
         text: 'Version Info',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'General', link: '/version-info/general' },
           { text: 'AirPods 3', link: '/version-info/airpods-3' },
@@ -106,7 +106,7 @@ export default defineConfig({
       },
       {
         text: 'Ordering',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'AliExpress/AliBaba', link: '/ordering/aliexpress-alibaba' },
           { text: 'QC & LC', link: '/ordering/qc-lc' },
@@ -114,7 +114,7 @@ export default defineConfig({
       },
       {
         text: 'Links',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Info', link: '/links/info' },
           { text: 'AirPods 3', link: '/links/airpods-3' },
@@ -128,13 +128,9 @@ export default defineConfig({
       {
         items: [
           { text: 'Useful Apps', link: '/useful-apps' },
+          { text: 'Troubleshooting', link: '/troubleshooting' }
         ]
-      },
-      {
-        items: [
-          { text: 'Troubleshooting', link: '/troubleshooting' },
-        ]
-      },
+      }
     ],
 
     socialLinks: [
