@@ -31,16 +31,89 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Introduction', link: '/introduction' }
+      { text: 'Introduction', link: '/introduction/overview' }
     ],
 
     sidebar: [
       {
+        text: 'AirReps Ultimate Guide',
+        collapsed: false,
         items: [
-          { text: 'Introduction', link: 'introduction#airreps-ultimate-guide' },
-          { text: 'Get Started', link: 'introduction#get-started' },
+          { text: 'Overview', link: 'introduction/overview' },
+          { text: 'Sellers', link: 'introduction/sellers' },
+          { text: 'Packaging', link: 'introduction/packaging' },
+          { text: 'Connectivity', link: 'introduction/connectivity' },
+          { text: 'Battery Life', link: 'introduction/battery-life' },
+          { text: 'Features', link: 'introduction/features' },
+          { text: 'ANC Explained', link: 'introduction/anc-explained' },
+          { text: 'Build Quality', link: 'introduction/build-quality' },
+          { text: 'Sound Quality', link: 'introduction/sound-quality' },
+          { text: 'FAQ', link: 'introduction/faq' },
+        ],
+      },
+      {
+        text: 'AirReps Dictionary',
+        collapsed: false,
+        items: [
+          { text: 'W2C', link: 'airreps-dictionary#w2c' },
+          { text: 'Reps/Clones: Replicas', link: 'airreps-dictionary#reps-clones' },
+          { text: 'Knockoffs', link: 'airreps-dictionary#knockoffs' },
+          { text: 'GP: Guinea Pig', link: 'airreps-dictionary#gp' },
+          { text: 'QC: Quality Control', link: 'airreps-dictionary#qc' },
+          { text: 'LC: Legit Check', link: 'airreps-dictionary#lc' },
+          { text: 'Agent: Freight agent/shipping forwarder', link: 'airreps-dictionary#agent' },
+          { text: 'Markings', link: 'airreps-dictionary#markings' },
+          { text: 'Transparency Mode', link: 'airreps-dictionary#transparency-mode' },
         ]
-      }
+      },
+      {
+        text: 'Version Info',
+        collapsed: false,
+        items: [
+          { text: 'General', link: 'version-info#general' },
+          { text: 'AirPods 3', link: 'version-info#airpods-3' },
+          { text: 'AirPods 2', link: 'version-info#airpods-2' },
+          { text: 'AirPods Pro', link: 'version-info#airpods-pro' },
+          { text: 'AirPods Pro 2', link: 'version-info#airpods-pro-2' },
+          { text: 'AirPods Max', link: 'version-info#airpods-max' },
+          { text: 'FAQ', link: 'version-info#faq' },
+        ]
+      },
+      {
+        text: 'Ordering',
+        collapsed: false,
+        items: [
+          { text: 'AliExpress/AliBaba', link: 'ordering#aliexpress-alibaba' },
+          { text: 'QC & LC', link: 'ordering#qc-lc' },
+        ]
+      },
+      {
+        text: 'Links',
+        collapsed: false,
+        items: [
+          { text: 'Info', link: 'links#info' },
+          { text: 'AirPods 3', link: 'links#airpods-2' },
+          { text: 'AirPods 2', link: 'links#airpods-pro-gen-2' },
+          { text: 'AirPods Pro', link: 'links#airpods-pro' },
+          { text: 'AirPods Pro 2', link: 'links#airpods-max' },
+          { text: 'AirPods Max', link: 'links#airpods-3' },
+          { text: 'FAQ', link: 'links#faq' },
+        ]
+      },
+      {
+        text: 'Useful Apps',
+        collapsed: false,
+        items: [
+          { text: 'General', link: 'useful-apps#general' },
+        ]
+      },
+      {
+        text: 'Troubleshooting',
+        collapsed: false,
+        items: [
+          { text: 'General', link: 'troubleshooting#general' },
+        ]
+      },
     ],
 
     socialLinks: [

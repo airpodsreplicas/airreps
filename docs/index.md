@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Read the Ultimate Guide
-      link: introduction
+      link: introduction/overview
 
 features:
   - icon: 🙌
