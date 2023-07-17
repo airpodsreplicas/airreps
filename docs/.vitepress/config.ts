@@ -140,7 +140,7 @@ export default defineConfig({
       },
       {
         text: 'Links',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: 'Info', link: '/links/info' },
           { text: 'AirPods 3', link: '/links/airpods-3' },
