@@ -126,17 +126,13 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Useful Apps',
-        collapsed: false,
         items: [
-          { text: 'General', link: '/useful-apps#general' },
+          { text: 'Useful Apps', link: 'useful-apps' },
         ]
       },
       {
-        text: 'Troubleshooting',
-        collapsed: false,
         items: [
-          { text: 'General', link: '/troubleshooting#general' },
+          { text: 'Troubleshooting', link: 'troubleshooting' },
         ]
       },
     ],
