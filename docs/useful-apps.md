@@ -2,7 +2,7 @@
 
 Updating the firmware on your reps can often add new features, such as spatial audio, or improve their stability. In order to do this, you can use a variety of apps that are available for download. However, please note that **most of these apps are only available for Android devices**.
 
-Below are apps that can be downloaded to aid you, alongside what versions and chipsets of reps they support. If you have problems in installing the non-Play Store apps, make sure to enable 'Install from unknown sources' in your settings (in the Security or Accessibility section). For more information on how to use these apps and avoid problems, visit our [Discord Server](https://airreps.link/discord).
+Below are apps that can be downloaded to aid you, alongside what versions and chipsets of reps they support. If you have problems in installing the non-Play Store apps, make sure to enable 'Install from unknown sources' in your settings (in the Security or Accessibility section). For more information on how to use these apps and avoid problems, visit our [Discord](https://airreps.link/discord).
 
 ## **Airoha**
 - [AirReps156X (ANDROID)](https://airreps.link/update/)
