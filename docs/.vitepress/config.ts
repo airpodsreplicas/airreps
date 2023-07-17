@@ -56,7 +56,33 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Introduction', link: '/introduction/overview' }
+      {
+        text: 'Ultimate Guide',
+        items: [
+          { text: 'Overview', link: '/introduction/overview' },
+          { text: 'Sellers', link: '/introduction/sellers' },
+          { text: 'Packaging', link: '/introduction/packaging' },
+          { text: 'Connectivity', link: '/introduction/connectivity' },
+          { text: 'Battery Life', link: '/introduction/battery-life' },
+          { text: 'Features', link: '/introduction/features' },
+          { text: 'ANC Explained', link: '/introduction/anc-explained' },
+          { text: 'Build Quality', link: '/introduction/build-quality' },
+          { text: 'Sound Quality', link: '/introduction/sound-quality' },
+          { text: 'FAQ', link: '/introduction/faq' },
+        ]
+      },
+      {
+        text: 'Links',
+        items: [
+          { text: 'Info', link: '/links/info' },
+          { text: 'AirPods 3', link: '/links/airpods-3' },
+          { text: 'AirPods 2', link: '/links/airpods-2' },
+          { text: 'AirPods Pro', link: '/links/airpods-pro' },
+          { text: 'AirPods Pro 2', link: '/links/airpods-pro-2' },
+          { text: 'AirPods Max', link: '/links/airpods-max' },
+          { text: 'FAQ', link: '/links/faq' },
+        ]
+      }
     ],
 
     sidebar: [
