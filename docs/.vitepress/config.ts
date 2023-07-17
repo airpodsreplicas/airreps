@@ -108,8 +108,8 @@ export default defineConfig({
         text: 'Ordering',
         collapsed: false,
         items: [
-          { text: 'AliExpress/AliBaba', link: '/ordering#aliexpress-alibaba' },
-          { text: 'QC & LC', link: '/ordering#qc-lc' },
+          { text: 'AliExpress/AliBaba', link: '/ordering/aliexpress-alibaba' },
+          { text: 'QC & LC', link: '/ordering/qc-lc' },
         ]
       },
       {
