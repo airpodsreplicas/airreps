@@ -8,3 +8,11 @@ After reading this guide, you will likely find that purchasing replica AirPods i
 ::: tip Looking for Purchase Links?
 If you are just looking for links to purchase AirPods replicas, [Click HERE to go to the link section](/links/info).
 :::
+
+::: warning Disclaimer
+Please note, the information contained in this guide is intended for informational and educational purposes only. Our aim is to provide a comprehensive resource to help users make informed decisions, as well as to prevent unkowingly buying replica AirPods second-hand. We are however not responsible for how this information is used.
+
+This guide is not intended to infringe upon any copyrights or to endorse any form of copyright violation. All products, brands, and logos mentioned are the property of their respective owners.
+
+Use the information at your own risk. We disclaim any liability for any damages or losses, direct or indirect, that may result from use of or reliance on information contained in this guide.
+:::
