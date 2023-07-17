@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "AirReps h"
+  name: "AirReps"
   text: "AirPods replicas."
   tagline: A community for the discussion and exploration of AirPods clones.
   actions:
