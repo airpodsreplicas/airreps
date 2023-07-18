@@ -1,0 +1,15 @@
+name: Labels
+
+labels:
+  - name: bug
+    color: F04124
+    description: Indicates a bug or error in the code.
+  - name: feature
+    color: 36A64F
+    description: Indicates a new feature or enhancement request.
+  - name: documentation
+    color: 0075CA
+    description: Indicates documentation-related tasks or improvements.
+  - name: help wanted
+    color: 008672
+    description: Indicates that help is needed from the community.

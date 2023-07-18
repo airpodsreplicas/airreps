@@ -1,0 +1,21 @@
+name: Stale Issues
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  stale-issues:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check for stale issues
+        uses: actions/stale@v4
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          stale-issue-message: 'This issue is being automatically closed due to inactivity. Feel free to reopen if needed.'
+          stale-pr-message: 'This pull request is being automatically closed due to inactivity. Feel free to reopen if needed.'
+          days-before-stale: 30
+          days-before-close: 7
+          exempt-issue-labels: 'in-progress, documentation'
+          exempt-branches: 'main, development'

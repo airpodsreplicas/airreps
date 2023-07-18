@@ -1,6 +1,6 @@
-<h1 style="text-align:center;">AirReps Ultimate Guide</h1>
+<h1 align="center">AirReps Ultimate Guide</h1>
 
-<div style="text-align:center;">
+<div align="center">
 <a href="https://airreps.link/discord">
 <img src="https://img.shields.io/discord/657235952116170794.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Discord Server">
 </a>
@@ -12,7 +12,7 @@
 </a>
 </div>
 
-<h2 style="text-align:center;">The AirReps Repository containing the Ultimate Guide and other resources!</h2>
+<h2 align="center">The AirReps Repository containing the Ultimate Guide and other resources!</h2>
 
 ## Table of Contents
 1. [Contributing](#contributing)
@@ -28,8 +28,8 @@
 <p>If you encounter any problems with the guide, or if you have a suggestion for a new feature or improvement, please let us know by creating an issue. To make this process easier, we have templates for bug reports and feature requests. Please use the appropriate template when creating your issue:</p>
 
 <ul>
-  <li>Use <a href=".github/ISSUE_TEMPLATE/bug_report.md"><strong>Bug Report</strong></a> for reporting any errors or problems you encounter.</li>
-  <li>Use <a href=".github/ISSUE_TEMPLATE/feature_request.md"><strong>Feature Request</strong></a> for suggesting new features or improvements.</li>
+  <li>Use <a href="https://github.com/TowyTowy/airreps/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title="><strong>Bug Report</strong></a> for reporting any errors or problems you encounter.</li>
+  <li>Use <a href="https://github.com/TowyTowy/airreps/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title="><strong>Feature Request</strong></a> for suggesting new features or improvements.</li>
 </ul>
 
 <h2 id="contact">Contact</h2>
