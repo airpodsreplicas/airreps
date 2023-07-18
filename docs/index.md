@@ -23,3 +23,4 @@ features:
     details: Sellers that has the latest products, the best support, the latest features and more! All this completely community picked and non-profit. 
 ---
 
+<Contributor></Contributor>
