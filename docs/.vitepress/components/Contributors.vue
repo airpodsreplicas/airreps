@@ -23,8 +23,8 @@ onMounted(async () => {
   <div class="contributors-container">
     <hr class="divider" />
     <h2 id="contributors" style="font-size: 24px; line-height: 32px; letter-spacing: -.02em; font-weight: 600">Contributors</h2>
-    <div class="users" flex="~ wrap gap2" justify-center>
-      <a v-for="{ name, avatar } of contributors" :key="name" :href="`https://github.com/${name}`" m-0 rel="noopener noreferrer" :aria-label="`${name} on GitHub`" :data-tooltip="name" data-position="top" class="tooltip">
+    <div class="users">
+      <a v-for="{ name, avatar } of contributors" :key="name" :href="`https://github.com/${name}`" target="_blank" rel="noopener noreferrer" :aria-label="`${name} on GitHub`" :data-tooltip="name" data-position="top" class="tooltip">
         <img class="user" loading="lazy" :src="avatar" width="50" height="50" :alt="`${name}'s avatar`" />
       </a>
     </div>
