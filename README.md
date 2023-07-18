@@ -1,6 +1,6 @@
-<h1 style="text-align:center;">AirReps Ultimate Guide</h1>
+<h1 align="center">AirReps Ultimate Guide</h1>
 
-<div style="text-align:center;">
+<div align="center">
 <a href="https://airreps.link/discord">
 <img src="https://img.shields.io/discord/657235952116170794.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Discord Server">
 </a>
@@ -12,7 +12,7 @@
 </a>
 </div>
 
-<h2 style="text-align:center;">The AirReps Repository containing the Ultimate Guide and other resources!</h2>
+<h2 align="center">The AirReps Repository containing the Ultimate Guide and other resources!</h2>
 
 ## Table of Contents
 1. [Contributing](#contributing)
