@@ -14,11 +14,6 @@
 
 <h2 align="center">The AirReps Repository containing the Ultimate Guide and other resources!</h2>
 
-## Table of Contents
-1. [Contributing](#contributing)
-2. [Reporting Bugs or Requesting Features](#reporting-bugs-or-requesting-features)
-3. [Contact](#contact)
-
 <h2 id="contributing">Contributing</h2>
 
 <p>We welcome contributions to this guide! If you have updates, corrections, or new information to add, please check out our <a href="CONTRIBUTING.md"><strong>Contributing Guidelines</strong></a>.</p>
