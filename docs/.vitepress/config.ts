@@ -45,7 +45,7 @@ export default defineConfig({
     outline: [2, 3],
 
     editLink: {
-      pattern: "/contributing",
+      pattern: "https://github.com/TowyTowy/airreps/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
 
