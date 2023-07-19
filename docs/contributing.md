@@ -95,7 +95,7 @@ Follow these steps to create a pull request to propose merging your changes into
 1. With all your changes committed and pushed to your remote branch, it's time to create a pull request.
 2. Go to your forked repository on GitHub's website.
 3. Click on `New pull request`. You'll be redirected to the original repository's page.
-4. Ensure the base repository is `TowyTowy/airreps` and the head repository is `<your_username>/airreps`.
+4. Ensure the base repository is `base: main` and the head repository is `<your_username>/<your_branch_name>`.
 5. Review your changes and fill out the form, *for reference, you can check out this [exemplary pull request](https://github.com/TowyTowy/airreps/pull/20).* Finally click on `Create pull request`.
 6. After you submit your pull request, CloudFlare will attempt to build your changes to detect any issues. If there are no issues, a repository contributor will review your changes and either merge them or request further changes.
 
