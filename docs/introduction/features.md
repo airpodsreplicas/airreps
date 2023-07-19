@@ -1,3 +1,7 @@
+---
+description: Learn about the features of AirPods replicas, including supported features like name changing and GPS, in-ear sensor functionality, tap and force touch controls, microphone quality, and LED indications. 
+---
+
 # Features
 
 AirPods replicas offer a variety of features that mimic those of the original AirPods.

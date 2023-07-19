@@ -1,3 +1,7 @@
+---
+description: Explore the different versions of AirPods Max replicas and their associated sellers. Find official stores and direct links to purchase AirPods Max replicas.
+---
+
 # AirPods Max
 
 | Version | Seller    | Official Store                                                                                      | Direct Link                                  |

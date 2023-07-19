@@ -1,3 +1,7 @@
+---
+description: Learn about the sound quality of AirPods replicas. Find out about the rating, variations, and custom EQ settings, as well as recommended genres, delay, and common sound issues.
+---
+
 # Sound Quality
 
 Assessing the sound quality of AirPods replicas can help you determine their performance relative to the original AirPods.

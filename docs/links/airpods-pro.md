@@ -1,3 +1,7 @@
+---
+description: Discover different versions of AirPods Pro replicas from various sellers. Find official stores and direct links to purchase AirPods Pro replicas.
+---
+
 # AirPods Pro
 
 | Version             | Seller    | Official Store                                                                                      | Direct Link                               |

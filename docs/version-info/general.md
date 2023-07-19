@@ -1,3 +1,7 @@
+---
+description: Explore a summary of missing features for various AirPods models, including AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro, and AirPods Max. Discover the specific features that are not available in each model and understand the common features they all share. Please note that newer versions do not necessarily imply better models.
+---
+
 # General
 
 This table provides a summary of the most notable missing features for various AirPods models based on specific versions.

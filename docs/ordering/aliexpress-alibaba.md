@@ -1,3 +1,7 @@
+---
+description: Learn about the process of ordering AirPods replicas from various sellers, including tips on buying from AliExpress/Alibaba, payment methods, taxes, product box options, order confirmation, and shipping timers. Understand why Wise or Bitcoin are the preferred payment methods and explore potential alternatives for credit card payments.
+---
+
 # Ordering
 
 ## Buying from AliExpress/Alibaba

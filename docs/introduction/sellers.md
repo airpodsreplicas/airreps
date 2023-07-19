@@ -1,3 +1,7 @@
+---
+description: Get information about purchasing from AirPods replica sellers. Understand the differences between verified and unverified sellers, and learn about the practices of resellers.
+---
+
 # Sellers
 
 ## Understanding Sellers

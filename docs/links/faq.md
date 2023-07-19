@@ -1,3 +1,7 @@
+---
+description: Get answers to frequently asked questions about purchasing AirPods replicas, including unit quality, contacting sellers, shipping delays, payment issues, and more.
+---
+
 # FAQ
 
 ## Q: Will I get a good quality unit?

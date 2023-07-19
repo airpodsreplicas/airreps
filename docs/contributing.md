@@ -1,3 +1,7 @@
+---
+description: Learn how to contribute to the AirReps project by following this step-by-step guide. Fork and clone the repository, set up your development environment, make changes, and submit a pull request for review. Start contributing today!
+---
+
 # Contributing Guidelines
 
 We're delighted by your interest in contributing to our project. To streamline your contribution process, we have provided a detailed, step-by-step guide below.

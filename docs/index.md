@@ -2,6 +2,8 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+title: 'Home'
+
 hero:
   name: "AirReps"
   text: "AirPods replicas."

@@ -1,3 +1,7 @@
+---
+description: Learn about Active Noise Cancellation (ANC) technology, its different implementations (Feedback, Feedforward, and Hybrid), and how it's used in AirPods and their replicas.
+---
+
 # Active Noise Cancellation (ANC) Explained
 
 Active Noise Cancellation (ANC) is a technology designed to create a sensation of "cancelled noise". It achieves this by generating an "anti-noise" that counteracts the sound waves of ambient noise, creating a cancellation effect. While ANC aims to reduce as much external noise as possible, few headsets provide a completely noiseless experience.
