@@ -22,7 +22,7 @@
 
 .tooltip::before {
     content: attr(data-tooltip);
-    background: #000;
+    background: #272727;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
@@ -66,9 +66,19 @@
 
 hr.divider {
     border: none;
-    border-top: 0.4px solid #252525;
-    width: 100%;
+    width: 70%;
     margin-top: 40px;
     margin-bottom: 20px;
+    border-top: 0.4px solid #d7d7d7;
 }
 
+.dark hr.divider {
+    border-top: 0.4px solid #252525;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -.02em;
+    font-weight: 600;
+}
