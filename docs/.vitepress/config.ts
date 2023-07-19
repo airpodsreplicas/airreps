@@ -131,6 +131,11 @@ export default defineConfig({
           { text: 'Useful Apps', link: '/useful-apps' },
           { text: 'Troubleshooting', link: '/troubleshooting' }
         ]
+      },
+      {
+        items: [
+          { text: 'Contributing', link: '/contributing' }
+        ]
       }
     ],
 
