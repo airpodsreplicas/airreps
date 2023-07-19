@@ -1,3 +1,7 @@
+---
+description: The FAQ section answers common queries about AirPods replicas, including sound quality comparisons, settings changes, compatibility with real AirPods cases, the availability of AirPods Max replicas, and more.
+---
+
 # Frequently Asked Questions (FAQ)
 
 ## Do AirPods Pro sound better than AirPods 2 and 3?

@@ -1,3 +1,7 @@
+---
+description: Understand 'QC' or Quality Control, a crucial step to verify the quality of a product in online communities, often through pictures.
+---
+
 # QC: Quality Control [PICS]
 
 "QC" stands for Quality Control. In online communities, "QC PICS" refers to pictures used to verify the quality of a purchased product.

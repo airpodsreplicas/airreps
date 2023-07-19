@@ -1,3 +1,7 @@
+---
+description: Explore the different versions of AirPods 2 replicas, including their chip, features, and missing features. Click on the version hyperlinks to find reviews for each model. Please note that some models are discontinued.
+---
+
 # AirPods 2
 
 Click the hyper-link on the 'Version' column to find reviews for the given model.

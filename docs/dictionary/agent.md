@@ -1,3 +1,7 @@
+---
+description: Learn about the role of an 'Agent' in facilitating safe purchases from international sellers, including real-world examples.
+---
+
 # Agent: Freight agent/shipping forwarder
 
 An "Agent" is a third party who helps facilitate the safe purchase of a product from a seller, often located in China, to the buyer. They act as a representative for the buyer, ensuring that the product is not faulty or damaged and that the buyer receives exactly what they expect to receive.

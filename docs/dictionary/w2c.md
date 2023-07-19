@@ -1,3 +1,7 @@
+---
+description: Understand 'W2C', an acronym often used in online communities to inquire or provide information on where to purchase a particular product.
+---
+
 # W2C: Where To Cop/Where To Buy
 
 "W2C" is a term often used when seeking the source or seller of a particular product. It essentially means, "Where can I buy this item?"

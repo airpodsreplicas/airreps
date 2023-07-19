@@ -1,3 +1,7 @@
+---
+description: Explore different versions of AirPods Pro Gen 2 replicas from various sellers. Find official stores and direct links to purchase AirPods Pro Gen 2 replicas.
+---
+
 # AirPods Pro Gen 2
 
 | Version                     | Seller    | Official Store                                                                                      | Direct Link                                 |

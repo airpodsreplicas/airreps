@@ -1,3 +1,7 @@
+---
+description: Explore the different versions of AirPods Pro replicas, including their chip, features, and missing features. Click on the version hyperlinks to find reviews for each model.
+---
+
 # AirPods Pro
 
 Click the hyper-link on the 'Version' column to find reviews for the given model.
