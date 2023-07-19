@@ -6,21 +6,24 @@ We're delighted by your interest in contributing to our project. To streamline y
 For ease of managing your contributions, we recommend using [GitHub Desktop](https://desktop.github.com/), a GUI-based GitHub client.
 :::
 
-## Cloning and Branching the Repository
+## Forking and Cloning the Repository
 
-Follow these steps to clone the repository, create a new branch, and set up your local development environment:
+Follow these steps to fork the repository, clone it, create a new branch, and set up your local development environment:
 
-1. Open [GitHub Desktop](https://desktop.github.com/).
-2. In the top menu of GitHub Desktop, navigate to `Add` > `Clone Repository...` > `URL`.
-3. Enter the following URL: `https://github.com/TowyTowy/airreps.git`. This action will start the cloning process.
-4. Upon completion of the cloning process, navigate to `Current Branch`, then select `New Branch`. Here, input a descriptive name for your new branch.
+1. Go to the GitHub page of the project [by clicking here](https://github.com/TowyTowy/airreps)
+2. Click on `Fork` in the top right corner. This will create a copy of the repository in your GitHub account
+3. Open [GitHub Desktop](https://desktop.github.com/).
+4. In the top menu of GitHub Desktop, navigate to `File` > `Clone Repository...`.
+5. In the GitHub.com category, you should see the repository that you cloned., 
+6. To clone the repository, click on `Clone`.
+7. Upon completion of the cloning process, navigate to `Current Branch`, then select `New Branch`. Here, input a descriptive name for your new branch.
 
 ::: warning
 The main branch is a protected branch. As such, direct editing is not allowed. Always create a new branch for your changes.
 :::
 
-5. Navigate to the `airreps` directory in your local environment.
-6. Open the project in an Integrated Development Environment (IDE) of your choice. We recommend [Visual Studio Code](https://code.visualstudio.com/), a feature-rich, free IDE.
+8. Navigate to the `airreps` directory in your local environment.
+9. Open the project in an Integrated Development Environment (IDE) of your choice. We recommend [Visual Studio Code](https://code.visualstudio.com/), a feature-rich, free IDE.
 
 ## Setting Up the Development Environment
 
@@ -63,7 +66,7 @@ This method lets you work directly with markdown files, although it might not ac
 Keep in mind that Vitepress offers additional features not available in standard markdown. Therefore, this method may not precisely reflect the final formatting when viewed on the actual documentation website.
 :::
 
-# Submitting Changes
+## Submitting Changes
 
 Once you've made changes, follow the steps below to submit them for review:
 
@@ -85,15 +88,15 @@ If the output displays `Command failed` or any other error message, there is an 
 If you've committed all the files, well done! Your next step will be to push your changes to GitHub and create a Pull Request.
 :::
 
-# Creating a Pull Request
+## Creating a Pull Request
 
-Congratulations on reaching the final step! A pull request is a proposal to merge your changes into the main branch. Here's how to create one.
+Follow these steps to create a pull request to propose merging your changes into the main branch:
 
-1. With all your changes pushed to your remote branch, it's time to create a pull request.
-2. In GitHub Desktop, navigate to `Current Branch` > `Pull Requests`.
-3. Click on `Create a pull request`. This will open a webpage in your browser.
-4. Fill out the form provided. It might seem daunting at first, but a handy pull request template is there to guide you through the process.
-5. For reference, you can check out this [exemplary pull request](https://github.com/TowyTowy/airreps/pull/20).
+1. With all your changes committed and pushed to your remote branch, it's time to create a pull request.
+2. Go to your forked repository on GitHub's website.
+3. Click on `New pull request`. You'll be redirected to the original repository's page.
+4. Ensure the base repository is `TowyTowy/airreps` and the head repository is `<your_username>/airreps`.
+5. Review your changes and fill out the form, *for reference, you can check out this [exemplary pull request](https://github.com/TowyTowy/airreps/pull/20).* Finally click on `Create pull request`.
 6. After you submit your pull request, CloudFlare will attempt to build your changes to detect any issues. If there are no issues, a repository contributor will review your changes and either merge them or request further changes.
 
 After a successful merge, your GitHub profile will automatically be included in the `Contributors` section located at the bottom of our home page. Should you prefer your profile to be omitted from this section for any reason, please reach out to a member of our staff for assistance with profile removal.

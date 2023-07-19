@@ -20,6 +20,6 @@ If you find a bug or have a suggestion for improvement, please create a new issu
 
 ## Contributions without Coding
 
-Even if you're not comfortable with coding, you can still contribute to the project. If you have an idea for improvement or spot an error, simply create a new issue and describe what you've found or what you propose. This can be anything from spotting a typo, suggesting a new idea, or proposing a better way to organize content. Every contribution, no matter how small, is valued and appreciated!
+Even if you're not comfortable coding, you can still contribute to the project. If you have an idea for improvement or spot an error, simply create a new issue and describe what you've found or what you propose. This can be anything from spotting a typo, suggesting a new idea, or proposing a better way to organize content. Every contribution, no matter how small, is valued and appreciated!
 
 Thank you again for your contribution. We look forward to working with you!
