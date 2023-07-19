@@ -22,7 +22,7 @@
 
 .tooltip::before {
     content: attr(data-tooltip);
-    background: #000;
+    background: #272727;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
