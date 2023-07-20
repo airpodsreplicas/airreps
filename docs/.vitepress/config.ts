@@ -89,7 +89,6 @@ export default defineConfig({
           { text: 'LC: Legit Check', link: '/dictionary/legit-check' },
           { text: 'Agent: Freight agent/shipping forwarder', link: '/dictionary/agent' },
           { text: 'Markings', link: '/dictionary/markings' },
-          { text: 'Transparency Mode', link: '/dictionary/transparency-mode' },
         ]
       },
       {
