@@ -9,7 +9,7 @@ Updating the firmware on your reps can often add new features, such as spatial a
 Below are apps that can be downloaded to aid you, alongside what versions and chipsets of reps they support. If you have problems in installing the non-Play Store apps, make sure to enable 'Install from unknown sources' in your settings (in the Security or Accessibility section). For more information on how to use these apps and avoid problems, visit our [Discord](https://airreps.link/discord).
 
 ## **Airoha**
-- [AirReps156X (ANDROID)](https://airreps.link/update/)
+- [AirReps156X (ANDROID)](https://play.google.com/store/apps/details?id=com.airoha.utapp.sdk&hl=en_GB)
 - [AirReps156X (ANDROID APK)](https://airreps.link/updateapk)
 
 ## **Tigerbuilder**
