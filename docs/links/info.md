@@ -8,7 +8,7 @@ description: Access verified links to purchase AirPods replicas from trustworthy
 This list is kept up to date. Higher version almost always equals better.
 :::
 
-The following list contains links to verified sellers only. If you know of any sellers that are trustworthy and deserve verification, please inform an Ultimate Guide author or write a review about their product. To ensure the quality and authenticity of your AirPods, we recommend only purchasing from these verified sellers.
+The following list contains links to verified sellers only. If you know of any sellers that are trustworthy and deserve verification, please inform an Ultimate Guide author or write a review about their product and publish it to the AirReps forums. To ensure the quality and authenticity of your AirPods, we recommend only purchasing from these verified sellers.
 
 ## Choose the product you want to view links for
 

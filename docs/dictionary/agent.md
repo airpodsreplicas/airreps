@@ -6,7 +6,7 @@ description: Learn about the role of an 'Agent' in facilitating safe purchases f
 
 An "Agent" is a third party who helps facilitate the safe purchase of a product from a seller, often located in China, to the buyer. They act as a representative for the buyer, ensuring that the product is not faulty or damaged and that the buyer receives exactly what they expect to receive.
 
-We recommend the agent named [PandaBuy](https://airreps.link/pandabuy/)
+We recommend the agent named [SugarGoo](https://airreps.link/sugargoo/)
 ## Usage Examples
 
 Here are some examples of how "Agent" can be used:
