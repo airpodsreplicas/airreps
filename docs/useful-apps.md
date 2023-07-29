@@ -11,10 +11,11 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 ## **Airoha**
 - [AirReps156X (ANDROID)](https://play.google.com/store/apps/details?id=com.airoha.utapp.sdk&hl=en_GB)
 - [AirReps156X (ANDROID APK)](https://airreps.link/updateapk)
+- [Airoha MT2822UT Beta (iOS)](https://testflight.apple.com/join/4wMFVNU0)
 
 ## **Tigerbuilder**
 - [FlyCC (ANDROID)](https://airreps.link/flycc)
-- [FlyCC (IOS)](https://airreps.link/iflycc)
+- [FlyCC (iOS)](https://airreps.link/iflycc)
 - [CloudCC* (ANDROID)](https://airreps.link/cloudcc)
 
 ## **BES**
