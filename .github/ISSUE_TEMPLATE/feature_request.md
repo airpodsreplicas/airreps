@@ -1,17 +1,35 @@
----
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: 'enhancement'
-assignees: ''
+description: Suggest an idea for this project
+title: "[Feature] Short Description"
+labels: enhancement
+body:
+- type: textarea
+  attributes:
+  label: Feature description
+  description: A clear and concise description of what you want to happen. Do NOT combine multiple feature requests into one issue. Open new issues for EACH request.
+  validations:
+  required: true
+- type: textarea
+  attributes:
+  label: Why is this feature needed? Please justify and explain.
+  description: A clear and concise explanation justifying why this feature is needed. Ex. I'm always frustrated when [...]
+  validations:
+  required: true
+- type: textarea
+  attributes:
+  label: Screenshots and Additional Info
+  description: |
+  Provide any relevant additional information such as screenshots, log files, or other details here.
 
----
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+      Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+  validations:
+  required: false
+- type: checkboxes
+  attributes:
+  label: Checklist
+  description: Before submitting your feature request.
+  options:
+    - label: I have made a separate issue for each feature I am requesting.
+      required: true
+    - label: I have searched the issues and this feature has not been requested.
+      required: true

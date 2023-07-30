@@ -1,27 +1,46 @@
----
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: 'bug'
-assignees: ''
+description: Create a report to help us improve
+title: "[BUG] Short Description"
+labels: bug
+body:
+- type: textarea
+  attributes:
+  label: Current Behavior
+  description: A clear and concise description of what you're experiencing. Do NOT combine multiple bugs into one issue. If you have multiple bugs to report please open separate issues for EACH bug.
+  validations:
+  required: true
+- type: textarea
+  attributes:
+  label: Expected Behavior
+  description: A clear and concise description of what you expected to happen.
+  validations:
+  required: true
+- type: textarea
+  attributes:
+  label: Steps To Reproduce
+  description: Steps to reproduce the behavior.
+  placeholder: |
+  1. Go to ...
+  2. Click on ...
+  3. Scroll to ...
+  4. See error ...
+  validations:
+  required: true
+- type: textarea
+  attributes:
+  label: Screenshots and Additional Info
+  description: |
+  Provide any relevant additional information such as screenshots, log files, or other details here.
 
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context**
-Add any other context about the problem here.
+      Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+  validations:
+  required: false
+- type: checkboxes
+  attributes:
+  label: Checklist
+  description: Before submitting your bug report.
+  options:
+    - label: I have made a separate issue for each bug that I am reporting.
+      required: true
+    - label: I have searched the issues and this bug has not been reported.
+      required: true
