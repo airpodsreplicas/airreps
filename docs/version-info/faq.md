@@ -2,7 +2,7 @@
 description: Get answers to frequently asked questions about replica AirPods, including determining the version of a clone, checking the chip in AirPods, verifying the authenticity of AirPods, and comparing different models. Find valuable insights to make an informed purchasing decision.
 ---
 
-## FAQ
+# FAQ (Version Info)
 
 ::: details Why might similar communities have newer products than this guide?
 The products listed in this guide are the highest quality and are carefully selected to meet our standards. We update the list every day to ensure that only the best products are included. Other communities may have lower standards and may include products that are not as high-quality. It is also possible that they use a different naming scheme for their products, which could make it appear as though they have newer products than this guide.

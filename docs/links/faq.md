@@ -2,7 +2,7 @@
 description: Get answers to frequently asked questions about purchasing AirPods replicas, including unit quality, contacting sellers, shipping delays, payment issues, and more.
 ---
 
-# FAQ
+# FAQ (Links)
 
 ::: details Will I get a good quality unit?
 It is not possible to guarantee the quality of a unit, as it can vary even among units from the same seller. However, the sellers mentioned in the original text are generally known for offering good quality products.
