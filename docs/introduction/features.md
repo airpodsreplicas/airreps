@@ -10,6 +10,10 @@ AirPods replicas offer a variety of features that mimic those of the original Ai
 
 All current models of AirPods replicas support name changing, GPS (iOS only), and changing tap controls (iOS and macOS only). Some models also support Spatial Audio, Audio Share, and Live Listen (all iOS only). Certain AirPods Pro models support transparency mode (iOS only), and newer models support Active Noise Cancelling (ANC). However, the ANC on these replicas may not be as effective as on the original AirPods and might require time to perfect.
 
+::: details Can the settings be changed using an Android device?
+If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufactueres also have [their own Android apps](https://airpodsreplicas.com/useful-apps) that makes it possible to change these settings and more on Android devices.
+:::
+
 ## In-Ear Sensors
 
 The in-ear sensors on the replicas pause the music almost instantly (around 1 second delay*) when removed from the ears. The "beep" sound on inserting the AirPods is the correct Apple sound, though its quality may be lower on some models or batches.
@@ -36,6 +40,3 @@ LEDs on AirPods replicas only turn on when resetting or malfunctioning. Refer to
 
 \* The exact delay for the in-ear sensors may vary depending on the batch.
 
-::: details Can the settings be changed using an Android device?
-If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufactueres also have [their own Android apps](https://airpodsreplicas.com/useful-apps) that makes it possible to change these settings and more on Android devices.
-:::
