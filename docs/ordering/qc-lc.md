@@ -28,4 +28,4 @@ We will not cover the text on the AirPods that includes certifications and seria
 
 4. **Spatial Audio**: On AirPods Pro, look for a "Spatial Audio" toggle in the AirPods settings (this requires iOS 14 or higher and an iPhone 7 or newer). If the toggle is present and the demo works as expected, your AirPods are likely authentic.
 
-For additional help, join the [AirReps Discord server](https://airreps.info/discord) to get advice and support from the AirReps community.
+For additional help, join the [AirReps Discord](https://airreps.info/discord) to get advice and support from the AirReps community.

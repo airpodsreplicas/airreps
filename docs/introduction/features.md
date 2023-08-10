@@ -35,3 +35,7 @@ LEDs on AirPods replicas only turn on when resetting or malfunctioning. Refer to
 :::
 
 \* The exact delay for the in-ear sensors may vary depending on the batch.
+
+::: details Can the settings be changed using an Android device?
+If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufactueres also have [their own Android apps](https://airpodsreplicas.com/useful-apps) that makes it possible to change these settings and more on Android devices.
+:::

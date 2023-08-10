@@ -37,3 +37,11 @@ For AirPods Pro replicas, avoid forcibly removing the ear tips as it could damag
 ::: warning
 For AirPods Pro replicas, handle the pods carefully to avoid damage. Do not forcibly remove the ear tips.
 :::
+
+::: details Can fake AirPods be charged in a real case or vice versa?
+No, fake AirPods should not be charged in a real case. Doing so may cause the fake AirPods to break soon after. It is also not recommended to charge real AirPods in a fake case.
+:::
+
+::: details Will AirPods cases fit on clones?
+All soft silicone protective cases will fit, but hard plastic cases may not fit most clones (mostly older models as they are slightly bigger than the originals). Some hard cases may fit, but may not come off or affect the button if it sticks out slightly.
+:::
