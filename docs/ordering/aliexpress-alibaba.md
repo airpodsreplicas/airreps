@@ -30,7 +30,7 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 
 5. **Shipping Timer**: On your Order page on AliExpress, there will be a shipping countdown timer that will automatically confirm delivery after a certain number of days. If the timer is about to expire and you haven't received your order, make sure to click "Extend Shipping Time" to give yourself an additional 15 days. Only click "Order Received" once you have received your order and confirmed that it is in good working condition.
 
-##FAQ
+## FAQ
 
 ::: details Why can I only pay with Wise or Bitcoin!?
 At present, the majority of our sellers accept payments via Wise - a reputable international money transfer service, or through various forms of cryptocurrencies, including Bitcoin. This preference has emerged due to past issues with PayPal, which was previously closed following complaints related to Apple's trademarks.
