@@ -73,8 +73,7 @@ export default defineConfig({
           { text: 'Features', link: '/introduction/features' },
           { text: 'ANC Explained', link: '/introduction/anc-explained' },
           { text: 'Build Quality', link: '/introduction/build-quality' },
-          { text: 'Sound Quality', link: '/introduction/sound-quality' },
-          { text: 'FAQ', link: '/introduction/faq' },
+          { text: 'Sound Quality', link: '/introduction/sound-quality' }
         ],
       },
       {
@@ -88,7 +87,7 @@ export default defineConfig({
           { text: 'QC: Quality Control', link: '/dictionary/quality-control' },
           { text: 'LC: Legit Check', link: '/dictionary/legit-check' },
           { text: 'Agent: Freight agent/shipping forwarder', link: '/dictionary/agent' },
-          { text: 'Markings', link: '/dictionary/markings' },
+          { text: 'Markings', link: '/dictionary/markings' }
         ]
       },
       {
@@ -100,8 +99,7 @@ export default defineConfig({
           { text: 'AirPods 2', link: '/version-info/airpods-2' },
           { text: 'AirPods Pro', link: '/version-info/airpods-pro' },
           { text: 'AirPods Pro 2', link: '/version-info/airpods-pro-2' },
-          { text: 'AirPods Max', link: '/version-info/airpods-max' },
-          { text: 'FAQ', link: '/version-info/faq' },
+          { text: 'AirPods Max', link: '/version-info/airpods-max' }
         ]
       },
       {
@@ -109,7 +107,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'AliExpress/Alibaba', link: '/ordering/aliexpress-alibaba' },
-          { text: 'QC & LC', link: '/ordering/qc-lc' },
+          { text: 'QC & LC', link: '/ordering/qc-lc' }
         ]
       },
       {
@@ -121,8 +119,7 @@ export default defineConfig({
           { text: 'AirPods 2', link: '/links/airpods-2' },
           { text: 'AirPods Pro', link: '/links/airpods-pro' },
           { text: 'AirPods Pro 2', link: '/links/airpods-pro-2' },
-          { text: 'AirPods Max', link: '/links/airpods-max' },
-          { text: 'FAQ', link: '/links/faq' },
+          { text: 'AirPods Max', link: '/links/airpods-max' }
         ]
       },
       {
