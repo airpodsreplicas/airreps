@@ -22,7 +22,7 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 - [HBluetooth (iOS)](https://airreps.link/hbluetooth)
 
 ## **HR**
-- [BullSuper (ANDROID)](https://airreps.link/bullsuperhr)
+- <font-awesome-icon :icon="['fab', 'google-play']" style="color: #3C3C42;" /> [BullSuper (ANDROID)](https://airreps.link/bullsuperhr)
 
 ## **Huilian**
 - [HuiAirPodsControl (ANDROID)](https://airreps.link/airpodscontrol)
