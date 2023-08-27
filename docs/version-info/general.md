@@ -4,6 +4,10 @@ description: Explore a summary of missing features for various AirPods models, i
 
 # General
 
+::: tip
+Each original AirPods iteration is marked with a distinct version number for every subsequent replica release, all originating from v1.0. As each new iteration emerges, it receives a unique name, emphasizing its enhanced features.
+:::
+
 This table provides a summary of the most notable missing features for various AirPods models based on specific versions.
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
