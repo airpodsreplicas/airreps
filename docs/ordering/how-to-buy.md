@@ -4,7 +4,19 @@ description: Learn about the process of ordering AirPods replicas from various s
 
 # Ordering
 
-## Buying from AliExpress/Alibaba
+## How to buy
+
+We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info), most of them have their own websites accepting various payment methods such as Credit Card, Wise, and Bitcoin.
+
+AirReps recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
+
+Ordering is simple, choose the product you want and check out.
+
+::: tip
+When paying with Wise a manual review from the seller is needed, therefore it can take up for 24 hours before your order goes through.
+:::
+
+## Information about AliExpress/Alibaba
 
 When purchasing from AliExpress, keep in mind that customer service, refunds, and returns may not be as robust as with larger, more established retailers like Amazon. Your payment information is encrypted through AliPay, making purchases safe, but be aware of potential limitations on refunds and returns. *Buy at your own risk.*
 
@@ -32,10 +44,8 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 
 ## FAQ
 
-::: details Why can I only pay with Wise or Bitcoin!?
-At present, the majority of our sellers accept payments via Wise - a reputable international money transfer service, or through various forms of cryptocurrencies, including Bitcoin. This preference has emerged due to past issues with PayPal, which was previously closed following complaints related to Apple's trademarks.
-However, it's worth noting that there may be changes on the horizon. HiCity, one of our prominent sellers, is considering the inclusion of credit card payments in the near future.
-In the meantime, if you're looking for alternatives that already accept credit card payments, consider using either Jenny's Alibaba or BESChan's Weidian link with an agent, both platforms allows you to pay with a credit card respectively.
+::: details Why can I only pay with Bitcoin or Wise?
+You can oftentimes only pay with Bitcoin or Wise due to the preferred security and anonymity these payment methods offer in the replica products market. While some sellers, like HiCity, have reintroduced credit card options, many still solely rely on Bitcoin and Wise for transactions. This choice prioritizes the safety and discretion of sellers.
 :::
 
 ::: details Why are there so few AliExpress/Alibaba links?

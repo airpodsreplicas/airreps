@@ -106,7 +106,7 @@ export default defineConfig({
         text: 'Ordering',
         collapsed: true,
         items: [
-          { text: 'AliExpress/Alibaba', link: '/ordering/aliexpress-alibaba' },
+          { text: 'How to buy', link: '/ordering/how-to-buy' },
           { text: 'QC & LC', link: '/ordering/qc-lc' }
         ]
       },
