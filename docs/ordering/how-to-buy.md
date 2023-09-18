@@ -4,7 +4,7 @@ description: Learn about the process of ordering AirPods replicas from various s
 
 # Ordering
 
-## How to buy
+## How to Buy
 
 We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info), most of them have their own websites accepting various payment methods such as Credit Card, Wise, and Bitcoin.
 
