@@ -5,6 +5,10 @@
   "repository": "https://github.com/TowyTowy/airreps.git",
   "author": "AirReps",
   "license": "GPL-3.0-or-later",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -12,6 +16,6 @@
     "audit": "npx eslint ."
   },
   "dependencies": {
-    "vitepress": "^1.0.0-beta.6"
+    "vitepress": "^1.0.0-rc.20"
   }
 }
