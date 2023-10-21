@@ -106,7 +106,7 @@ export default defineConfig({
         text: 'Ordering',
         collapsed: true,
         items: [
-          { text: 'Ordering', link: '/ordering/how-to-buy' },
+          { text: 'How to buy', link: '/ordering/how-to-buy' },
           { text: 'QC & LC', link: '/ordering/qc-lc' }
         ]
       },
