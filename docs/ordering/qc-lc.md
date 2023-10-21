@@ -2,7 +2,7 @@
 description: Learn how to quality check your AirPods replicas or identify authentic AirPods. Explore methods to check for design flaws, such as the LED light, hinge color, and button alignment. Discover software differences, including Bluetooth pop-up, device settings, about page, and spatial audio. Get additional support and advice from the AirReps community on the Discord server.
 ---
 
-# QC and LC
+# QC & LC
 
 Welcome! If you're here, you're likely looking to quality check your replica AirPods or considering purchasing authentic ones. This section will guide you on discerning between retail and replica AirPods, from simple to advanced methods. If a deal seems too good to be true, it probably is.
 
