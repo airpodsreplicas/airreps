@@ -16,6 +16,6 @@
     "audit": "npx eslint ."
   },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.22"
+    "vitepress": "^1.0.0-rc.25"
   }
 }
