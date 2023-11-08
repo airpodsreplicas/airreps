@@ -29,7 +29,7 @@ We recommend the following steps:
 2. **Taxes**: We recommend only trusted sellers who take care of VAT/Taxes beforehand for European buyers, so you won't have to pay VAT when the package arrives in the EU.
 
 ::: warning
-This information applies when ordering from sellers other than the HiCity or Jenny Airreps website. If you order from those websites, you don't need to worry about customs declarations or the box type, as they will be handled automatically.
+This information applies when ordering from sellers other than the HiCity or Jenny AirReps website. If you order from those websites, you don't need to worry about customs declarations or the box type, as they will be handled automatically.
 :::
 
 3. **Product Box**: For a box with Apple logos, request a "with Apple box" instead of a "no logo box." However, this carries a higher risk of the package being seized at customs and you not receiving a refund. We don't recommend this option, as the AirPods inside are identical regardless of the box. If you want to take the risk, you can request a box with Apple logos.
@@ -45,7 +45,7 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ## FAQ
 
 ::: details Why can I only pay with Bitcoin or Wise?
-You can oftentimes only pay with Bitcoin or Wise due to the preferred security and anonymity these payment methods offer in the replica products market. While some sellers, like HiCity, have reintroduced credit card options, many still solely rely on Bitcoin and Wise for transactions. This choice prioritizes the safety and discretion of sellers.
+You can oftentimes only pay with Bitcoin or Wise due to the preferred security and anonymity these payment methods offer in the replica products market. While some sellers, like HiCity and Earhive, have reintroduced credit card options, some still solely rely on Bitcoin and Wise for transactions. This choice prioritizes the safety and discretion of sellers.
 :::
 
 ::: details Why are there so few AliExpress/Alibaba links?
