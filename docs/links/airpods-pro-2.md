@@ -6,6 +6,7 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
 
 | Version                     | Seller    | Official Store                                                                                      | Direct Link                                 |
 |-----------------------------|-----------|-----------------------------------------------------------------------------------------------------|---------------------------------------------|
+| V5.2 (Huilian)              | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Buy now](https://airreps.link/hcprov52hl) |
 | V5.2 (TigerBuilder)         | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Buy now](https://airreps.link/hcpro2v52tb) |
 | V5.2 (TigerBuilder)         | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Buy now](https://airreps.link/jenny)       |
 | V5.2 (TigerBuilder)         | *Earhive* | [Earhive](https://airreps.link/earhive)                                                                      | [Buy now](https://airreps.link/earhive)     |
