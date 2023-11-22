@@ -13,7 +13,7 @@ jobs:
 
       - name: Combine Markdown Files
         run: |
-          find . -name "*.md" -exec cat {} + > combined.md
+          find ./docs -name "*.md" -exec cat {} + > combined.md
           echo "Combined Markdown files into combined.md"
 
       - name: Change markdown arrays to csv
