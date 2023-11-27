@@ -4,11 +4,11 @@
 <a href="https://airreps.link/discord">
 <img src="https://img.shields.io/discord/657235952116170794.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Discord Server">
 </a>
-<a href="https://github.com/TowyTowy/airreps/issues">
-<img src="https://img.shields.io/github/issues/TowyTowy/airreps.svg?style=for-the-badge" alt="Issues">
+<a href="https://github.com/AirPodsReplicas/AirReps/issues">
+<img src="https://img.shields.io/github/issues/AirPodsReplicas/AirReps.svg?style=for-the-badge" alt="Issues">
 </a>
-<a href="https://github.com/TowyTowy/airreps/pulls">
-<img src="https://img.shields.io/github/issues-pr/TowyTowy/airreps.svg?style=for-the-badge" alt="Pull Requests">
+<a href="https://github.com/AirPodsReplicas/AirReps/pulls">
+<img src="https://img.shields.io/github/issues-pr/AirPodsReplicas/AirReps.svg?style=for-the-badge" alt="Pull Requests">
 </a>
 </div>
 
@@ -23,8 +23,8 @@
 <p>If you encounter any problems with the guide, or if you have a suggestion for a new feature or improvement, please let us know by creating an issue. To make this process easier, we have templates for bug reports and feature requests. Please use the appropriate template when creating your issue:</p>
 
 <ul>
-  <li>Use <a href="https://github.com/TowyTowy/airreps/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title="><strong>Bug Report</strong></a> for reporting any errors or problems you encounter.</li>
-  <li>Use <a href="https://github.com/TowyTowy/airreps/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title="><strong>Feature Request</strong></a> for suggesting new features or improvements.</li>
+  <li>Use <a href="https://github.com/AirPodsReplicas/AirReps/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title="><strong>Bug Report</strong></a> for reporting any errors or problems you encounter.</li>
+  <li>Use <a href="https://github.com/AirPodsReplicas/AirReps/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title="><strong>Feature Request</strong></a> for suggesting new features or improvements.</li>
 </ul>
 
 <h2 id="contact">Contact</h2>

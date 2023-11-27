@@ -5,7 +5,7 @@ const contributors = ref([]);
 
 onMounted(async () => {
   try {
-    const response = await fetch("https://api.github.com/repos/TowyTowy/airreps/contributors");
+    const response = await fetch("https://api.github.com/repos/AirPodsReplicas/AirReps/contributors");
     if (response.ok) {
       const data = await response.json();
       contributors.value = data.map((contributor) => ({

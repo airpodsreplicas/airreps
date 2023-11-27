@@ -14,7 +14,7 @@ For ease of managing your contributions, we recommend using [GitHub Desktop](htt
 
 Follow these steps to fork the repository, clone it, create a new branch, and set up your local development environment:
 
-1. Go to the GitHub page of the project [by clicking here](https://github.com/TowyTowy/airreps)
+1. Go to the GitHub page of the project [by clicking here](https://github.com/AirPodsReplicas/AirReps)
 2. Click on `Fork` in the top right corner. This will create a copy of the repository in your GitHub account
 3. Open [GitHub Desktop](https://desktop.github.com/).
 4. In the top menu of GitHub Desktop, navigate to `File` > `Clone Repository...`.
@@ -100,7 +100,7 @@ Follow these steps to create a pull request to propose merging your changes into
 2. Go to your forked repository on GitHub's website.
 3. Click on `New pull request`. You'll be redirected to the original repository's page.
 4. Ensure the base repository is `base: main` and the head repository is `<your_username>/<your_branch_name>`.
-5. Review your changes and fill out the form, *for reference, you can check out this [exemplary pull request](https://github.com/TowyTowy/airreps/pull/20).* Finally click on `Create pull request`.
+5. Review your changes and fill out the form, *for reference, you can check out this [exemplary pull request](https://github.com/AirPodsReplicas/AirReps/pull/20).* Finally click on `Create pull request`.
 6. After you submit your pull request, CloudFlare will attempt to build your changes to detect any issues. If there are no issues, a repository contributor will review your changes and either merge them or request further changes.
 
 After a successful merge, your GitHub profile will automatically be included in the `Contributors` section located at the bottom of our home page. Should you prefer your profile to be omitted from this section for any reason, please reach out to a member of our staff for assistance with profile removal.
