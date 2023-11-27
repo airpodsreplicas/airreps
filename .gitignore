@@ -26,3 +26,11 @@
 
 # File created by Mac OSX
 .DS_STORE
+
+# ========================
+# Dependency management
+# ========================
+
+# Yarn: lock file and error log
+yarn-error.log
+.yarn/install-state.gz
