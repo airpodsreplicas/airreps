@@ -2,7 +2,7 @@
   "name": "airreps",
   "version": "1.0.0",
   "description": "The AirReps Repository containing the Ultimate Guide and other resources!",
-  "repository": "https://github.com/TowyTowy/airreps.git",
+  "repository": "https://github.com/AirPodsReplicas/AirReps.git",
   "author": "AirReps",
   "license": "GPL-3.0-or-later",
   "type": "module",
@@ -16,6 +16,7 @@
     "audit": "npx eslint ."
   },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.25"
-  }
+    "vitepress": "^1.0.0-rc.31"
+  },
+  "packageManager": "yarn@4.0.2"
 }
