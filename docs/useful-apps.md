@@ -26,3 +26,5 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 
 ## **Huilian**
 - [HuiAirPodsControl (ANDROID)](https://airreps.link/airpodscontrol)
+- [StarFun (ANDROID)](https://airreps.link/starfun)
+- [StarFun (iOS)](https://airreps.link/istarfun)
