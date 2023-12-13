@@ -21,7 +21,8 @@ jobs:
           cat combined.md | tr -s ' ' | sed 's/ \?| \?/;/g' | sed 's/;-\+.*-\+;//' | sed 's/^;/\["/' | sed 's/;/","/g' | sed 's/,"$/\]/g' | sed ':a;N;$!ba;s/]\n\n\[/]\n[/g' > tmp_combined.md && cat tmp_combined.md > combined.md && rm tmp_combined.md
 
       - name: Upload Combined File as Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@3
         with:
+          retention-days: 90
           path: combined.md
 
