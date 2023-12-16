@@ -22,10 +22,10 @@ When exploring options for fake AirPods, it's essential to discern between mere 
 
 The market for AirPods fakes is vast, but not all replicas are created equal. We provide you with the necessary tools and knowledge to identify which AirPods copies are worth your investment. (View the [Version Info](https://airpodsreplicas.com/version-info/general) section) By understanding the key features and common pitfalls associated with fake AirPods, you can make a purchase that balances cost with quality.
 
-Our commitment is to keep you informed and ahead of the curve in the ever-evolving market of AirPods replicas. With the latest updates, tips, and community-driven support available through our [Discord channel](https://airreps.link/discord), you'll have everything you need to make a well-informed decision about which AirPods copy suits your needs best, or how to distinguish these replicas from real so you can avoid getting scammed, e.g. when buying second-hand.
+Our commitment is to keep you informed and ahead of the curve in the ever-evolving market of Apple AirPods replicas. With the latest updates, tips, and community-driven support available through our [Discord channel](https://airreps.link/discord), you'll have everything you need to make a well-informed decision about which AirPods copy suits your needs best, or how to distinguish these replicas from real so you can avoid getting scammed, e.g. when buying second-hand.
 
 ::: warning Disclaimer
-Please note, the information contained in this guide is intended for informational and educational purposes only. Our aim is to provide a comprehensive resource to help users make informed decisions, as well as to prevent unkowingly buying replica AirPods second-hand. We are however not responsible for how this information is used.
+Please note, the information contained in this guide is intended for informational and educational purposes only. Our aim is to provide a comprehensive resource to help users make informed decisions, as well as to prevent unkowingly buying replica Apple AirPods second-hand. We are however not responsible for how this information is used.
 
 This guide is not intended to infringe upon any copyrights or to endorse any form of copyright violation. All products, brands, and logos mentioned are the property of their respective owners.
 
