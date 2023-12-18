@@ -1,43 +1,53 @@
-name: Generate sitemap
-
-on:
+name: Generate Sitemap from Markdown Files
+'on':
   push:
-    branches: [ main ]
-    paths: [ 'docs/**.md' ]
-
+    branches:
+      - main
+    paths:
+      - docs/**/*.md
 jobs:
-  sitemap_job:
+  generate-sitemap:
     runs-on: ubuntu-latest
-    name: Generate a sitemap
     steps:
-      - name: Checkout the repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Generate the sitemap
-        id: sitemap
-        uses: cicirello/generate-sitemap@v1
-        with:
-          base-url-path: https://airpodsreplicas.com/
-          sitemap-path: /docs/public
-
-      - name: Output stats
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Install sitemap generator
         run: |
-          echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
-          echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
-          echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+          sudo apt-get update
+          sudo apt-get install xmlstarlet -y
+      - name: Generate sitemap.xml
+        run: |
+          cat <<EOF > sitemap.xml
+          <?xml version="1.0" encoding="utf-8"?>
+          <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+          $(find docs -name '*.md' | while read file; do
+            filename=$(basename "$file" | sed 's/\.md//g')
+            title=$(basename "$file")
+            url="https://airpodsreplicas.com/$filename"
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5.0.2
+            cat <<ENTRY
+            <url>
+             <loc>$url</loc>
+             <lastmod>$(date -Iseconds)</lastmod>
+             <changefreq>daily</changefreq>
+             <priority>0.8</priority>
+            </url>
+          ENTRY
+          done)
+          </urlset>
+          EOF
+
+      - name: Commit sitemap.xml to docs/public
+        run: |
+          mv sitemap.xml docs/public
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add .
+          git commit -m "🏗️ chore(sitemap.xml): update sitemap.xml" || true
+          git push
+
+      - name: Upload sitemap.xml as an artifact
+        uses: actions/upload-artifact@v3
         with:
-          title: "Automated sitemap update"
-          body: >
-            Automated changes. Sitemap updated by 
-            the [generate-sitemap](https://github.com/cicirello/generate-sitemap) 
-            GitHub action.
-          commit-message: "Automated sitemap update."
-          author: Vincent A. Cicirello <cicirello@users.noreply.github.com>
-          committer: Vincent A. Cicirello <cicirello@users.noreply.github.com>
-          branch: create-pull-request/sitemap
-          delete-branch: true
+          name: sitemap
+          path: sitemap.xml
