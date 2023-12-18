@@ -851,7 +851,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "airreps@workspace:."
   dependencies:
-    vitepress: "npm:^1.0.0-rc.31"
+    vitepress: "npm:^1.0.0-rc.32"
   languageName: unknown
   linkType: soft
 
@@ -2230,7 +2230,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vitepress@npm:^1.0.0-rc.31":
+"vitepress@npm:^1.0.0-rc.32":
   version: 1.0.0-rc.32
   resolution: "vitepress@npm:1.0.0-rc.32"
   dependencies:
