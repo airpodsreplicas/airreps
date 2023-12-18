@@ -14,5 +14,5 @@ description: Discover the different versions of AirPods 3 and their associated s
 | V1              | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Buy now](http://airreps.link/jenny)     |
 
 ::: tip
-Some websites providing credit cards may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. Currently all sellers offering credit card payments ships ["no-logo boxes"](https://airpodsreplicas.com/introduction/packaging#no-logo-box). 
+Some websites providing credit cards may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. Currently, all sellers offering credit card payments ships ["no-logo boxes"](https://airpodsreplicas.com/introduction/packaging#no-logo-box). 
 :::
