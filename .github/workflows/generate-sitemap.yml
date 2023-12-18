@@ -1,10 +1,12 @@
 name: Generate Sitemap from Markdown Files
-'on':
+
+on:
   push:
     branches:
       - main
     paths:
       - docs/**/*.md
+
 jobs:
   generate-sitemap:
     runs-on: ubuntu-latest
@@ -21,29 +23,42 @@ jobs:
 
       - name: Generate sitemap.xml
         run: |
-          cat <<EOF > sitemap.xml
-          <?xml version="1.0" encoding="utf-8"?>
-          <urlset
-                  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-                  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+          # Function to generate sitemap entries for each .md file
+          generate_sitemap_entries() {
+              local dir="$1"
+              local base_dir="$2"
           
-          $(find docs -name '*.md' | while read file; do
-            filename=$(basename "$file" | sed 's/\.md//g')
-            title=$(basename "$file")
-            url="https://airpodsreplicas.com/$filename"
+              # Use find to get all .md files in the given directory and its subdirectories
+              find "$dir" -type f -name "*.md" | while read -r entry; do
+              # Remove the file extension (.md) from the entry
+              file_name="${entry%.md}"
+          
+              # Print the sitemap entry for the .md file
+              echo "            <url>"
+              echo "                <loc>https://airpodsreplicas.com/${file_name#$base_dir/}</loc>"
+              echo "                <lastmod>$(date -Iseconds)</lastmod>"
+              echo "                <priority>0.8</priority>"
+              echo "            </url>"
+              done
+          }
 
-            cat <<ENTRY
-            <url>
-             <loc>$url</loc>
-             <lastmod>$(date -Iseconds)</lastmod>
-             <priority>0.8</priority>
-            </url>
-          ENTRY
-          done)
-          
-          
+          root_directory="docs"
+          base_directory=$(basename "$root_directory")
+
+          # Generate the sitemap entries and save to variable
+          sitemap_entries=$(generate_sitemap_entries "$root_directory" "$base_directory")
+
+          # Create the sitemap.xml file
+          cat <<EOF > sitemap.xml
+          <?xml version="1.0" encoding="UTF-8"?>
+          <urlset
+              xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+              http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+          $sitemap_entries
+
           </urlset>
           EOF
 
@@ -55,9 +70,3 @@ jobs:
           git add .
           git commit -m "🏗️ chore(sitemap.xml): update sitemap.xml" || true
           git push
-
-      - name: Upload sitemap.xml as an artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: sitemap
-          path: sitemap.xml
