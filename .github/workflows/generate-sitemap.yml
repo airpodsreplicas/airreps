@@ -44,7 +44,7 @@ jobs:
           git config --global user.name "GitHub Actions"
           git add .
           git commit -m "🏗️ chore(sitemap.xml): update sitemap.xml" || true
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/airpodsreplicas/airreps.git HEAD:main
+          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/airpodsreplicas/airreps.git HEAD:main
 
       - name: Upload sitemap.xml as an artifact
         uses: actions/upload-artifact@v3
