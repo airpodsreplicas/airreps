@@ -4,7 +4,7 @@ description: Explore the different versions of AirPods 3 replicas, including the
 
 # AirPods 3
 
-Click the hyper-link on the 'Version' column to find reviews for the given model.
+Click the hyperlink on the 'Version' column to find reviews for the given model.
 
 | Version                                                              | Chip         | Has Features                                                                                                                                                                    | Missing Features                                                        |
 |----------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
