@@ -1,11 +1,4 @@
 # ========================
-# Node.js related files
-# ========================
-
-# Dependency directories
-/node_modules
-
-# ========================
 # IDEs and editors
 # ========================
 
@@ -28,9 +21,10 @@
 .DS_STORE
 
 # ========================
-# Dependency management
+# Node.js related files
 # ========================
 
-# Yarn: lock file and error log
-yarn-error.log
-.yarn/install-state.gz
+# Dependency directories
+/node_modules
+.yarn/
+
