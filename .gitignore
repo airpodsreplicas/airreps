@@ -21,12 +21,10 @@
 .DS_STORE
 
 # ========================
-# Dependency management
+# Node.js related files
 # ========================
 
-# Yarn: lock file and error log
-yarn-error.log
+# Dependency directories
+/node_modules
 .yarn/
-.pnp.cjs
-.pnp.loader.mjs
 
