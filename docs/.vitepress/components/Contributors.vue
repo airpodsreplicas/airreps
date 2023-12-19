@@ -8,7 +8,7 @@ onMounted(async () => {
     const response = await fetch("https://api.github.com/repos/AirPodsReplicas/AirReps/contributors");
     if (response.ok) {
       const data = await response.json();
-      contributors.value = data.map((contributor) => ({
+      contributors.value = data.filter(contributor => contributor.login !== 'actions-user').map((contributor) => ({
         name: contributor.login,
         avatar: contributor.avatar_url,
       }));
