@@ -16,10 +16,8 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
 
-      - name: Install sitemap generator
-        run: |
-          sudo apt-get update
-          sudo apt-get install xmlstarlet -y
+      - name: Download xmlint
+        run: sudo apt-get install libxml2-utils
 
       - name: Generate sitemap.xml
         run: |
@@ -61,6 +59,8 @@ jobs:
 
           </urlset>
           EOF
+          
+          xmllint --format sitemap.xml -o sitemap_formatted.xml && mv sitemap_formatted.xml sitemap.xml
 
       - name: Commit sitemap.xml to docs/public
         run: |
