@@ -17,6 +17,10 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 
 **TB** - The TB earbuds is known for its white, tougher case that is more sweatproof than the HR model. It also features a ST gyroscope, similar to the V4.7 and Retail versions, which provides excellent spatial audio. The battery life of the TB model is 8 hours without ANC, and 6 hours with ANC turned on. Tuned to be bass heavy. TB have significant better ANC over Huilian (average 33.6db, peak 39db).
 
+::: warning
+Numerous individuals have reported an issue with this version, noting that this exact version encounters a 100% Volume bug on macOS. Currently, there is no available solution. We are proactively communicating with verified sellers to stay informed about any advancements related to this matter.
+:::
+
 **HR** - The HR earbuds has a yellowish, softer case that is less sweatproof than the TB model.  The battery life of the HR model is 7 hours without ANC, and 5 hours with ANC turned on. Tuned to be bass heavy. HR also has the best transparency & ANC performance (average 34.2db, peak 39db), although it is similar to TB in most situations. 
 
 **Huilian** - The Huilian earbuds is the middle of the pack case, firmer than HR but softer than TB and equiped with 1:1 hinge. However due to Huilian chipset, ANC is significantly worse than the other two model - 5.2TB & 5.2HR (average 30-32 DB, peak 38db). The battery life of the Huilian model is 6 hours without ANC, and 4.5 hours with ANC turned on.

@@ -36,4 +36,6 @@ Some older batches might have a faint clicking sound in one ear when no audio is
 
 ::: warning
 Some older batches might have a faint clicking sound or uneven sound between the ears. Check the troubleshooting section for fixes.
+
+Also, the current AirPods Pro 2 5.2TB version has a 100% Volume bug on macOS. Unfortunately, no solution is available at the moment. We are actively engaging with verified sellers to stay updated on any developments regarding this issue.
 :::
