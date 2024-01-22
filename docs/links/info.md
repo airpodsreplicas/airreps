@@ -28,8 +28,8 @@ It is not possible to guarantee the quality of a unit, as it can vary even among
 To contact sellers, you can join the AirReps Discord: https://airreps.link/discord and obtain their WhatsApp numbers, as they are not publicly available. Alternatively, you can use AliExpress to message them by clicking "Contact Supplier".
 :::
 
-::: details Is the minimum order more than one unit?
-If you would like to order only one unit, you can click "Buy Sample" on the product page. Alternatively, you can contact the seller and request that they create an order for a single unit for you.
+::: details Which is the best vendor?
+The best vendor cannot be definitively determined as it varies based on your needs and the platform you choose to purchase from. Vendors typically offer similar products, for example, the 'Pro 2 V5.2 TB' from Jenny is identical to the one from HiCity. However, differences arise in aspects such as support, shipping times, and the platforms through which the purchases are made.
 :::
 
 ::: details I ordered x days ago and my package hasn't arrived yet. What should I do?
