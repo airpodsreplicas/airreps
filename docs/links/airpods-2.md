@@ -8,8 +8,8 @@ description: Explore the different versions of AirPods 2 and their associated se
 |---------|-----------|------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | V3E     | *Earhive* | [Earhive](https://airreps.link/earhive)                                                              | [Buy now](https://airreps.link/earhive) |
 | V3E     | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Buy now](https://airreps.link/hcv3md)  |
-| V3E     | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Buy now](https://airreps.info/jenny)   |
-| V3U     | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Buy now](http://airreps.info/jenny)    |
+| V3E     | *Jenny*   | [Jenny's Store](https://airreps.link/jenny)                                                          | [Buy now](https://airreps.info/jenny)   |
+| V3U     | *Jenny*   | [Jenny's Store](https://airreps.link/jenny)                                                          | [Buy now](http://airreps.info/jenny)    |
 | V3E     | *BESChan* | [Weidian](https://airreps.link/beschan) (To be used with [SugarGoo](https://airreps.link/sugargoo/)) | [Buy now](https://airreps.link/beschan) |
 
 ::: tip
