@@ -17,7 +17,9 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Download xmlint
-        run: sudo apt-get install libxml2-utils
+        run: |
+          sudo apt-get update
+          sudo apt-get install libxml2-utils
 
       - name: Generate sitemap.xml
         run: |
