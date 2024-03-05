@@ -13,7 +13,18 @@ jobs:
 
       - name: Combine Markdown Files
         run: |
-          find ./docs -name "*.md" -exec cat {} + > combined.md
+          cat ./docs/introduction/overview.md ./docs/introduction/sellers.md ./docs/introduction/packaging.md ./docs/introduction/connectivity.md ./docs/introduction/battery-life.md ./docs/introduction/features.md ./docs/introduction/anc-explained.md ./docs/introduction/build-quality.md ./docs/introduction/sound-quality.md > combined.md
+          echo "Introduction files into combined.md"
+          cat ./docs/dictionary/w2c.md ./docs/dictionary/reps-clones.md ./docs/dictionary/knockoffs.md ./docs/dictionary/guinea-pig.md ./docs/dictionary/quality-control.md ./docs/dictionary/legit-check.md ./docs/dictionary/agent.md ./docs/dictionary/markings.md >> combined.md
+          echo "Dictionnary files into combined.md"
+          cat ./docs/version-info/general.md ./docs/version-info/airpods-3.md ./docs/version-info/airpods-2.md ./docs/version-info/airpods-pro.md ./docs/version-info/airpods-pro-2.md ./docs/version-info/airpods-max.md >> combined.md
+          echo "Version info into combined.md"
+          cat ./docs/ordering/how-to-buy.md ./docs/ordering/qc-lc.md >> combined.md
+          echo "Ordering into combined.md"
+          cat ./docs/links/info.md ./docs/links/airpods-3.md ./docs/links/airpods-2.md ./docs/links/airpods-pro.md ./docs/links/airpods-pro-2.md ./docs/links/airpods-max.md >> combined.md
+          echo "Links into combined.md"
+          cat ./docs/useful-apps.md ./docs/troubleshooting.md ./docs/contributing.md >> combined.md
+          echo "Extra into combined.md"
           echo "Combined Markdown files into combined.md"
 
       - name: Change markdown arrays to jsonl
