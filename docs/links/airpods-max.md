@@ -7,7 +7,7 @@ description: Explore the different versions of AirPods Max replicas and their as
 | Version | Seller    | Official Store                                                                                       | Direct Link                                  |
 |---------|-----------|------------------------------------------------------------------------------------------------------|----------------------------------------------|
 | V2      | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Buy now](https://airreps.link/jenny)        |
-| V2 Metal | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian](https://airreps.link/hicityw)                                                             | [Buy now](https://airreps.link/hcmaxv2)      |
+| V2 Metal | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian Link](https://airreps.link/hicityw)                                                             | [Buy now](https://airreps.link/hcmaxv2)      |
 | V2      | *Earhive* | [Earhive](https://earhive.com)                                                              | [Buy now](https://airreps.link/earhive)      |
 
 ::: tip
@@ -15,5 +15,5 @@ Some websites or Alibaba links providing credit card payments may have discrete 
 :::
 
 ::: tip
-Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with platforms like [SugarGoo](https://airreps.link/sugargoo) or [PandaBuy](https://airreps.link/pandabuy).
+Choosing a Weidian Link link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with platforms like [SugarGoo](https://airreps.link/sugargoo) or [PandaBuy](https://airreps.link/pandabuy).
 :::

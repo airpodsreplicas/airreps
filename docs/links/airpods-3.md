@@ -7,7 +7,7 @@ description: Discover the different versions of AirPods 3 and their associated s
 | Version         | Seller    | Official Store                                                                                       | Direct Link                                          |
 |-----------------|-----------|------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | V1E             | *Earhive* | [Earhive](https://earhive.com)                                                              | [Buy now](https://airreps.link/earhive)              |
-| V1E             | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian](https://airreps.link/hicityw)                                                             | [Buy now](https://hicitypods.com/product/gen-3-v1e/) |
+| V1E             | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian Link](https://airreps.link/hicityw)                                                             | [Buy now](https://hicitypods.com/product/gen-3-v1e/) |
 | V1E             | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Buy now](https://airreps.link/jenny)                |
 | V1.2 (Upgraded) | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Buy now](http://airreps.link/jenny)                 |
 | V1              | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Buy now](http://airreps.link/jenny)                 |
@@ -17,5 +17,5 @@ Some websites or Alibaba links providing credit card payments may have discrete 
 :::
 
 ::: tip
-Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with platforms like [SugarGoo](https://airreps.link/sugargoo) or [PandaBuy](https://airreps.link/pandabuy).
+Choosing a Weidian Link link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with platforms like [SugarGoo](https://airreps.link/sugargoo) or [PandaBuy](https://airreps.link/pandabuy).
 :::
