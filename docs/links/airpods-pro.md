@@ -6,19 +6,19 @@ description: Discover different versions of AirPods Pro replicas from various se
 
 | Version             | Seller    | Official Store                                                                                      | Direct Link                               |
 |---------------------|-----------|-----------------------------------------------------------------------------------------------------|-------------------------------------------|
-| V4.9 (TigerBuilder) | *Earhive* | [Earhive](https://earhive.com)                                                                      | [Buy now](https://airreps.link/earhive)     |
-| V4.9 (TigerBuilder) | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian Link](https://airreps.link/hicityw)                                                            | [Buy now](https://airreps.link/hcv49tb)   |
-| V4.9 (HR)           | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian Link](https://airreps.link/hicityw)                                                            | [Buy now](https://airreps.link/hcv49hr)   |
-| V4.9 (TigerBuilder) | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Buy now](https://airreps.info/jenny)     |
-| V4.9 (HR)           | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Buy now](https://airreps.info/jenny)     |
-| V4.8                | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian Link](https://airreps.link/hicityw)                                                            | [Buy now](https://airreps.link/hcv48)     |
-| V4.7                | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Buy now](https://airreps.info/jenny)     |
-| V4.7                | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian Link](https://airreps.link/hicityw)                                                            | [Buy now](https://airreps.link/hcv47)     |
-| V4.5 (TB)           | *Earhive* | [Earhive](https://earhive.com)                                                                      | [Buy now](https://airreps.link/earhive)     |
-| V4.5 (HR)           | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Buy now](https://airreps.info/jenny)     |
-| V4.5 (Hulian)       | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Buy now](https://airreps.info/jenny)     |
-| V4.5                | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian Link](https://airreps.link/hicityw)                                                            | [Buy now](https://airreps.link/hcv45d)    |
-| V4                  | *HiCity*  | [HiCity's Store](https://hicitypods.com) │ [Weidian Link](https://airreps.link/hicityw)                                                            | [Buy now](https://airreps.link/hcv4blued) |
+| V4.9 (TigerBuilder) | *Earhive* | [Earhive](https://earhive.com)                                                                      | [Website](https://airreps.link/earhive)     |
+| V4.9 (TigerBuilder) | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv49tb)│[Weidian](https://airreps.link/hicityw)    |
+| V4.9 (HR)           | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv49hr)│[Weidian](https://airreps.link/hicityw)    |
+| V4.9 (TigerBuilder) | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny)     |
+| V4.9 (HR)           | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny)     |
+| V4.8                | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv48)│[Weidian](https://airreps.link/hicityw)      |
+| V4.7                | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny)     |
+| V4.7                | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv47)│[Weidian](https://airreps.link/hicityw)      |
+| V4.5 (TB)           | *Earhive* | [Earhive](https://earhive.com)                                                                      | [Website](https://airreps.link/earhive)     |
+| V4.5 (HR)           | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny)     |
+| V4.5 (Hulian)       | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny)     |
+| V4.5                | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv45d)│[Weidian](https://airreps.link/hicityw)     |
+| V4                  | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv4blued)│[Weidian](https://airreps.link/hicityw)  |
 
 
 ::: tip
@@ -26,5 +26,5 @@ Some websites or Alibaba links providing credit card payments may have discrete 
 :::
 
 ::: tip
-Choosing a Weidian Link link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with platforms like [SugarGoo](https://airreps.link/sugargoo) or [PandaBuy](https://airreps.link/pandabuy).
+Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with platforms like [SugarGoo](https://airreps.link/sugargoo) or [PandaBuy](https://airreps.link/pandabuy).
 :::
