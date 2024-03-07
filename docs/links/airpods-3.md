@@ -7,7 +7,7 @@ description: Discover the different versions of AirPods 3 and their associated s
 | Version         | Seller    | Official Store                                                                                       | Direct Link                                          |
 |-----------------|-----------|------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | V1E             | *Earhive* | [Earhive](https://earhive.com)                                                              | [Website](https://airreps.link/earhive)              |
-| V1E             | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Website](https://hicitypods.com/product/gen-3-v1e/)│[Weidian](https://airreps.link/hicityw) |
+| V1E             | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Website](https://hicitypods.com/product/gen-3-v1e/) │ [Weidian](https://airreps.link/hicityw) |
 | V1E             | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.link/jenny)                |
 | V1.2 (Upgraded) | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](http://airreps.link/jenny)                 |
 | V1              | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](http://airreps.link/jenny)                 |

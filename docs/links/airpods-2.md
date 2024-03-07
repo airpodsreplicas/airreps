@@ -7,7 +7,7 @@ description: Explore the different versions of AirPods 2 and their associated se
 | Version | Seller    | Official Store                                                                                       | Direct Link                             |
 |---------|-----------|------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | V3E     | *Earhive* | [Earhive](https://earhive.com)                                                              | [Website](https://airreps.link/earhive) |
-| V3E     | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Website](https://airreps.link/hcv3md)│[Weidian](https://airreps.link/hicityw)  |
+| V3E     | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Website](https://airreps.link/hcv3md) │ [Weidian](https://airreps.link/hicityw)  |
 | V3E     | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.info/jenny)   |
 | V3U     | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](http://airreps.info/jenny)    |
 
