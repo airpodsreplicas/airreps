@@ -19,7 +19,7 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
 | V4.2                | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                              | [Website](https://airreps.link/hcpv42) │ [Weidian](https://airreps.link/hicityw)      |
 
 ::: tip
-Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. Currently, all sellers offering credit card payments ships ["no-logo boxes"](https://airpodsreplicas.com/introduction/packaging#no-logo-box). 
+Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. 
 :::
 
 ::: tip
