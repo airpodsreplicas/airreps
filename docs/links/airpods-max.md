@@ -6,9 +6,9 @@ description: Explore the different versions of AirPods Max replicas and their as
 
 | Version | Seller    | Official Store                                                                                       | Direct Link                                  |
 |---------|-----------|------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| V2      | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.link/jenny)        |
+| V2 Metal | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.link/jenny)        |
 | V2 Metal | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Website](https://airreps.link/hcmaxv2) │ [Weidian](https://airreps.link/hicityw)      |
-| V2      | *Earhive* | [Earhive](https://earhive.com)                                                              | [Website](https://airreps.link/earhive)      |
+| V2 Metal | *Earhive* | [Earhive](https://earhive.com)                                                              | [Website](https://airreps.link/earhive)      |
 
 ::: tip
 Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. 
