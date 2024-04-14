@@ -8,8 +8,8 @@ description: Explore the different versions of AirPods 2 and their associated se
 |---------|-----------|------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | V3E     | *Earhive* | [Earhive](https://earhive.com)                                                              | [Website](https://airreps.link/earhive) │ [Alibaba](https://airreps.link/earhiveab) |
 | V3E     | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Website](https://airreps.link/hcv3md) │ [Weidian](https://airreps.link/hicityw)  |
-| V3E     | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.info/jenny)   |
-| V3U     | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](http://airreps.info/jenny)    |
+| V3E     | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.info/jenny) │ [Alibaba](https://airreps.link/jennyab)   |
+| V3U     | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](http://airreps.info/jenny) │ [Alibaba](https://airreps.link/jennyab)    |
 
 ::: tip
 Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. 

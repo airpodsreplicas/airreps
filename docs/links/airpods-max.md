@@ -7,7 +7,7 @@ description: Explore the different versions of AirPods Max replicas and their as
 | Version | Seller    | Official Store                                                                                       | Direct Link                                  |
 |---------|-----------|------------------------------------------------------------------------------------------------------|----------------------------------------------|
 | V2 Metal | *Earhive* | [Earhive](https://earhive.com)                                                              | [Website](https://airreps.link/earhive) │ [Alibaba](https://airreps.link/earhiveab)      |
-| V2 Metal | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.link/jenny)        |
+| V2 Metal | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.link/jenny) │ [Alibaba](https://airreps.link/jennyab)        |
 | V2 Metal | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Website](https://airreps.link/hcmaxv2) │ [Weidian](https://airreps.link/hicityw)      |
 
 ::: tip
