@@ -19,6 +19,7 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 
 ## **HR**
 - [BullSuper (ANDROID)](https://airreps.link/bullsuperhr)
+- [G&Link (iOS)](https://airreps.link/gnlink)
 
 ## **Huilian**
 - [HuiAirPodsControl (ANDROID)](https://airreps.link/airpodscontrol)
