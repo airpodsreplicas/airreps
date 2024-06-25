@@ -29,5 +29,5 @@ Alibaba orders are not shipped with Apple boxes, use one of the websites or Weid
 
 
 ::: tip
-Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with agent platforms.
+Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with agent platforms. If you're looking for an agent, we recommend [MuleBuy](https://airreps.link/mulebuy)
 :::
