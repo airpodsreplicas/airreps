@@ -34,8 +34,11 @@ jobs:
       - name: Enable Corepack
         run: corepack enable
 
-      - name: Set Yarn Version
+      - name: Prepare Yarn with Corepack
         run: corepack prepare yarn@${{ secrets.YARN_VERSION }} --activate
+
+      - name: Check Yarn version
+        run: yarn --version
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
