@@ -29,12 +29,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ secrets.NPM_CONFIG_NODE_VERSION }}
-          cache: 'yarn'
-
+      
       - name: Enable Corepack
-        run: |
-          corepack enable
-          corepack prepare yarn@${{ secrets.YARN_VERSION }} --activate
+        run: corepack enable
+
+      - name: Prepare Yarn with Corepack
+        run: corepack prepare yarn@${{ secrets.YARN_VERSION }} --activate
 
       - name: Check Yarn version
         run: yarn --version
