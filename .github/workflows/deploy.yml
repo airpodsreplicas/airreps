@@ -31,8 +31,11 @@ jobs:
           node-version: ${{ secrets.NPM_CONFIG_NODE_VERSION }}
           cache: yarn
 
-      - name: Setup Yarn
-        run: npm install -g yarn@${{ secrets.YARN_VERSION }}
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Set Yarn Version
+        run: corepack prepare yarn@${{ secrets.YARN_VERSION }} --activate
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
