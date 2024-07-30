@@ -10,6 +10,10 @@ Understanding the connectivity of AirPods replicas can help you make an informed
 
 The iOS popup appears almost instantly on some AirPods replicas, although the speed may vary based on the seller and batch. In some cases, the popup may appear faster than on original AirPods.
 
+## macOS Connectivity
+
+Newer clones work flawlessly with macOS, wheras this was not the case with previous models. We recommend choosing the "TB" model, if you plan on using your Apple AirPods replicas with your MacBook or iMac.
+
 ## Range
 
 The range of most AirPods replicas matches that of the original AirPods, around 10 meters. However, obstructions like thick walls can affect this range.
