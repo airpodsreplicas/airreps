@@ -8,7 +8,7 @@ AirPods replicas offer a variety of features that mimic those of the original Ai
 
 ## Supported Features
 
-All current models of AirPods replicas support name changing, GPS (iOS only), and changing tap controls (iOS and macOS only). Some models also support Spatial Audio, Audio Share, and Live Listen (all iOS only). Certain AirPods Pro models support transparency mode (iOS only), and newer models support Active Noise Cancelling (ANC). However, the ANC on these replicas may not be as effective as on the original AirPods and might require time to perfect.
+All current models of AirPods replicas support name changing, GPS, and changing tap controls (iOS and macOS only). Some models also support Spatial Audio, Audio Share, and Live Listen (all iOS and macOS only). Certain AirPods Pro models support transparency mode, and newer models support Active Noise Cancelling (ANC). However, the ANC on these replicas may not be entirely as effective as on the original AirPods and might require time to perfect.
 
 ::: details Can the settings be changed using an Android device?
 If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufactueres also have [their own Android apps](https://airpodsreplicas.com/useful-apps) that makes it possible to change these settings and more on Android devices.
@@ -24,19 +24,9 @@ The tap controls or Force Touch controls on the replicas are functional but migh
 
 ## Microphone Quality
 
-The microphone quality on the replicas is usable, but not as good as on the original AirPods. However, the mic quality on the latest AirPods 2 replicas, the V3M/V3U, is very comparable to that on the original AirPods.
+The microphone quality on the replicas is usable and is very comparable to that on the original AirPods. They are good enough for calls, but like the Apple AirPods is not anything impressive due to their small form factor.
 
 ::: tip
 The latest AirPods 2 replicas (V3M/V3U) have microphone quality comparable to the original AirPods.
 :::
-
-## LEDs
-
-Some models of AirPods replicas have red/blue/green LEDs that only turn on when resetting or malfunctioning. These LEDs will never come on during normal use. If the pods disconnect from each other and the LEDs turn on, refer to the Troubleshooting section and perform a pairing reset.
-
-::: warning
-LEDs on AirPods replicas only turn on when resetting or malfunctioning. Refer to the Troubleshooting section if this happens.
-:::
-
-\* The exact delay for the in-ear sensors may vary depending on the batch.
 

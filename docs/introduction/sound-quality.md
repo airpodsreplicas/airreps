@@ -32,7 +32,7 @@ The delay is around 50-150 ms depending on the version, barely noticeable. For r
 
 ## Sound Issues
 
-Some older batches might have a faint clicking sound in one ear when no audio is playing, which should disappear when audio is played. There's currently no known fix for this. Some batches may also have one ear louder than the other; this can be fixed in settings or physically for a better effect, as described in the troubleshooting section at [https://airreps.info/lrfix](https://airreps.info/lrfix).
+In some rare cases on mostly older models some units may have one ear louder than the other; this can be fixed in settings or physically for a better effect, as described in the troubleshooting section at [https://airreps.info/lrfix](https://airreps.info/lrfix).
 
 ::: warning
 Some older batches might have a faint clicking sound or uneven sound between the ears. Check the troubleshooting section for fixes.

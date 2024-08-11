@@ -6,14 +6,14 @@ description: Learn about the process of ordering AirPods replicas from various s
 
 ## How to Buy
 
-We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as Credit Card, Wise, and Bitcoin.
+We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as Credit Card, Wise, PayPal, and Bitcoin.
 
 AirReps recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
 Ordering is simple: choose the product you want and check out.
 
 ::: tip
-When paying with Wise, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
+When paying with Wise and sometimes PayPal, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
 :::
 
 ## Information about AliExpress/Alibaba
@@ -24,23 +24,21 @@ Ensure you're satisfied with your purchase by thoroughly researching a seller be
 
 We recommend the following steps:
 
-1. **Payment Method**: Choose a credit card or debit card that offers chargeback protection. If the seller is unable or unwilling to issue a refund, you can dispute the transaction and potentially get your money back through the chargeback process.
+1. **Taxes**: We recommend only trusted sellers who take care of VAT/Taxes beforehand for European buyers, so you won't have to pay VAT when the package arrives in the EU.
 
-2. **Taxes**: We recommend only trusted sellers who take care of VAT/Taxes beforehand for European buyers, so you won't have to pay VAT when the package arrives in the EU.
+2. **Product Box**: For a box with Apple logos, request a "with Apple box" instead of a "no logo box." However, this carries a higher risk of the package being seized at customs and you not receiving a refund. We don't recommend this option, as the AirPods inside are identical regardless of the box. If you want to take the risk, you can request a box with Apple logos.
 
 ::: warning
 This information applies when ordering from sellers other than the HiCity or Jenny AirReps website. If you order from those websites, you don't need to worry about customs declarations or the box type, as they will be handled automatically.
 :::
 
-3. **Product Box**: For a box with Apple logos, request a "with Apple box" instead of a "no logo box." However, this carries a higher risk of the package being seized at customs and you not receiving a refund. We don't recommend this option, as the AirPods inside are identical regardless of the box. If you want to take the risk, you can request a box with Apple logos.
-
-4. **Order Confirmation**: After you purchase, go to your order page and check the name of your product (e.g. Pro Airoha white). Click "Contact Supplier" to message the seller and confirm they are sending the correct product. Don't ask about specific features or details like "Is this v2.5 with an Airoha chip?" as the sellers may not use these names.
+3. **Order Confirmation** (Optional): After you purchase, go to your order page and check the name of your product (e.g. Pro 2 V5.2 TB). Click "Contact Supplier" to message the seller and confirm they are sending the correct product. Don't ask about specific features or details like "Is this v5.2 with an Airoha chip?" as the sellers may not use these names.
 
 ::: tip
 Let the sellers know that you are from the AirReps community. This will ensure they provide you with excellent service and uphold our community's standards. Plus, it gives us leverage to advocate for future buyers like you.
 :::
 
-5. **Shipping Timer**: On your Order page on AliExpress, there will be a shipping countdown timer that will automatically confirm delivery after a certain number of days. If the timer is about to expire and you haven't received your order, make sure to click "Extend Shipping Time" to give yourself an additional 15 days. Only click "Order Received" once you have received your order and confirmed it is in good working condition.
+4. **Shipping Timer**: On your Order page on AliExpress, there will be a shipping countdown timer that will automatically confirm delivery after a certain number of days. If the timer is about to expire and you haven't received your order, make sure to click "Extend Shipping Time" to give yourself an additional 15 days. Only click "Order Received" once you have received your order and confirmed it is in good working condition.
 
 ## FAQ
 
