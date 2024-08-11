@@ -18,7 +18,9 @@ This section was once more detailed, but as replicas have become more sophistica
 
 3. **Cable Alignment**: Ensure that the cable fits snugly and fully into the case, as shown in this [picture](https://cdn.airreps.info/airreps/images/flushwithcase.png). If the cable protrudes even slightly, it's likely a replica.
 
-4. **Markings**: To verify the authenticity of your AirPods, one of the most reliable methods is to inspect the regulatory markings located on the inner upper part of the AirPods case. These markings vary by region and can help determine whether the AirPods are genuine. Here’s a detailed breakdown:
+4. **Software**: : A key indicator of a replica is the absence or malfunction of the "Find My Precision Feature." When you pair the AirPods with your phone and access the "Find My" app, genuine AirPods should support precision finding. If the option is missing or doesn't function properly, it's a strong sign that the AirPods are not authentic.
+
+5. **Markings**: To verify the authenticity of your AirPods, one of the most reliable methods is to inspect the regulatory markings located on the inner upper part of the AirPods case. These markings vary by region and can help determine whether the AirPods are genuine. Here’s a detailed breakdown:
 
 | **Region**         | **Country/Area**      | **Regulatory Mark**                                      |
 |--------------------|-----------------------|----------------------------------------------------------|

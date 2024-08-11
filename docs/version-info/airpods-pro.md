@@ -32,4 +32,11 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 
 **HiCity Flying Tiger V4.5:** The HiCity Flying Tiger V4.5 has more advanced ANC technology, which blocks out more DB of external noise, but has slightly more static than the other models. Its battery life is better than the Dongguan HR, but not as long as the Tigerbuilder, lasting around 6 hours without ANC. This makes it the best all-around option for those who want a balance of performance and battery life.
 
-Please note that older pro clone models have been removed from the list as we do not encourage anyone to buy older versions than these.
+::: tip
+Older pro clone models have been removed from the list as we do not encourage anyone to buy older versions than these.
+:::
+
+**Please note** that the following models are **discontinued**:
+
+- **V3.9**
+- **V3.8**

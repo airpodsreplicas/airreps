@@ -14,3 +14,7 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 | [V1.6](https://www.reddit.com/r/AirReps/search?q=max%20v1.6&restrict_sr=1)    | Bluetrum 8892E   | Hybrid Active Noise Cancelling, Transparency Mode, Plastic Construction, Improved Build Quality, Digital Crown Controls, Audio Share, About Page, Metal Housing   | Retail AirPods Max ANC, Better Transparency Mode, Multi-Device Connect, Spatial Audio, and More Subtle Details...                |
 | [V1.5](https://www.reddit.com/r/AirReps/search?q=max%20v1.5&restrict_sr=1)    | Bluetrum 8892E   | Hybrid Active Noise Cancelling, Transparency Mode, Plastic Construction, Improved Build Quality, Digital Crown Controls, Audio Share, About Page                  | Retail AirPods Max ANC, Metal Housing, Better Transparency Mode, Multi-Device Connect, Spatial Audio, and More Subtle Details... |
 | [V1 P9 Max](https://www.reddit.com/r/AirReps/search?q=max%20p9&restrict_sr=1) | Unknown Bluetrum | Plastic Construction, Mesh Headband                                                                                                                               | ANC, Metal Housing and General Build Quality, Transparency Mode, Multi-Device Connect, Spatial Audio, and More Subtle Details... |
+
+**Please note** that the following models are **discontinued**:
+
+- **V1.6**

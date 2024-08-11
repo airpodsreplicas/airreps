@@ -12,3 +12,7 @@ Click the hyperlink on the 'Version' column to find reviews for the given model.
 | [V1E](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1)   | Airoha 1562E | Multi-Device Connect, General Stability, Improved Sound, Full Spatial Audio, Head Tracking, Improved Build Quality, Improved Wireless Charging, 7-8 hours battery life, MagSafe | Minor details, 1:1 hinge,    iCloud Connect                             |
 | [V1.2](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | HUILIAN A10  | Everything the other versions have, Improved Sound, Full Spatial Audio, Head Tracking, Improved Build Quality, Improved Wireless Charging, 7-8 hours battery life, MagSafe      | Multi-Device Connect, General Stability, 1:1 hinge, iCloud Connect      |
 | [V1](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1)     | AIROHA 1562M | Everything the other versions have, Improved Sound, Improved Build Quality, Improved Wireless Charging, 8-9 hours battery life, General Stability                               | Multi-Device Connect, Spatial Audio, MagSafe, 1:1 hinge, iCloud Connect |
+
+**Please note** that the following models are **discontinued**:
+
+- **V1**

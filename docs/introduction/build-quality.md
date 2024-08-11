@@ -8,7 +8,7 @@ Understanding the build quality of AirPods replicas can help you evaluate their 
 
 ## Weight
 
-The case and pods generally have a good weight to them. Some models might even match the accurate weight of the original AirPods.
+The case and pods generally have a good weight to them. Most models match the accurate weight of the original AirPods.
 
 ## Hinge
 
@@ -28,7 +28,7 @@ All the latest models have reverse magnets, ensuring the lid stays open when nee
 
 ## LED Diffuser
 
-Some models include an LED diffuser to dim the LED.
+Newer models include an LED diffuser to dim the LED.
 
 ## Ear Tips (AirPods Pro Replicas)
 
