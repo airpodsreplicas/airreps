@@ -28,7 +28,10 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 
 ## V5.3 VS V5.2 (worth the 10 bucks update?)
 
-**Updated F10.2-> F11 speaker (minor update)
-**Updated the battery(kinda) - no change in capacity though
-**Support multiple device up to 3 unit
-**Adaptive is working but doesnt really perform very well, I would say only 5% improvement from 5.2tb
+Updated F10.2-> F11 speaker (minor update)
+
+Updated the battery(kinda) - no change in capacity though
+
+Support multiple device up to 3 unit
+
+Adaptive is working but doesnt really perform very well, I would say only 5% improvement from 5.2tb
