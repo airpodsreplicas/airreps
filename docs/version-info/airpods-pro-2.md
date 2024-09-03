@@ -32,4 +32,4 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 
 **Please note** that the following models are **discontinued**:
 
-- **V5.2Huilian**
+- **V5.2 Huilian**
