@@ -14,10 +14,6 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 | [V5.0](https://www.reddit.com/r/AirReps/search?q=v5.0&restrict_sr=1) | Huilian 247B             | Active Noise Cancelling, Better transparency Mode, Metal Vents, Volume Control, Force Touch Controls, About Page,, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, iOS 16 Support                                                                     |  USB-C, Proper ANC, Perfect Spatial Audio, iCloud Connect and many small details...                                                                                                     |
 | [V4.2](https://www.reddit.com/r/AirReps/search?q=v4.2&restrict_sr=1) | Bluetrum                 | USB-C, Active Noise Cancelling, transparency Mode, Metal Vents, Volume Control, Force Touch Controls, About Page, Spatial Audio (no head-tracking - HiCity V4.2 only), Case Speaker                                                                                                                        |  Stable sound quality, Proper ANC, Improved SFX, Better transparency Mode, Multi-Device Connect, iCloud Connect, Spatial Audio, Accurate Case SFX and more noticeable details... |
 
-**Please note** that the following models are **discontinued**:
-
-- **V5.2Huilian**
-
 ## V5.2 Version Differences:
 
 **TB** - The TB earbuds is known for its white, tougher case that is more sweatproof than the HR model. It also features a ST gyroscope, similar to the V4.7 and Retail versions, which provides excellent spatial audio. The battery life of the TB model is 8 hours without ANC, and 6 hours with ANC turned on. Tuned to be bass heavy. TB have significant better ANC over Huilian (average 33.6db, peak 39db).
@@ -33,3 +29,7 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 - The battery has been updated, but without any increase in capacity.
 - The device now supports connection to up to three devices simultaneously.
 - Adaptive ANC functionality has been improved, but the performance gain is marginal, estimated at only a 5% improvement over Version 5.2.
+
+**Please note** that the following models are **discontinued**:
+
+- **V5.2Huilian**
