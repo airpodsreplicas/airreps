@@ -16,3 +16,6 @@ Click the hyperlink on the 'Version' column to find reviews for the given model.
 **Please note** that the following models are **discontinued**:
 
 - **V1**
+- **V1.2**
+- **V1.2U**
+- **V1.3**
