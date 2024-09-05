@@ -33,3 +33,5 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 **Please note** that the following models are **discontinued**:
 
 - **V5.2 Huilian**
+- **V5.1 Huilian**
+- **V5 Huilian**
