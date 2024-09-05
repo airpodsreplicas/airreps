@@ -38,5 +38,8 @@ Older pro clone models have been removed from the list as we do not encourage an
 
 **Please note** that the following models are **discontinued**:
 
+- **V4.8**
+- **V4.7**
+- **V4.5**
 - **V3.9**
 - **V3.8**
