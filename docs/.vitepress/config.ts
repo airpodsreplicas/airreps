@@ -95,8 +95,9 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'General', link: '/version-info/general' },
-          { text: 'AirPods 3', link: '/version-info/airpods-3' },
           { text: 'AirPods 2', link: '/version-info/airpods-2' },
+          { text: 'AirPods 3', link: '/version-info/airpods-3' },
+          { text: 'AirPods 4', link: '/version-info/airpods-4' },
           { text: 'AirPods Pro', link: '/version-info/airpods-pro' },
           { text: 'AirPods Pro 2', link: '/version-info/airpods-pro-2' },
           { text: 'AirPods Max', link: '/version-info/airpods-max' }
@@ -115,8 +116,9 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Info', link: '/links/info' },
-          { text: 'AirPods 3', link: '/links/airpods-3' },
           { text: 'AirPods 2', link: '/links/airpods-2' },
+          { text: 'AirPods 3', link: '/links/airpods-3' },
+          { text: 'AirPods 4', link: '/links/airpods-4' },
           { text: 'AirPods Pro', link: '/links/airpods-pro' },
           { text: 'AirPods Pro 2', link: '/links/airpods-pro-2' },
           { text: 'AirPods Max', link: '/links/airpods-max' }

@@ -12,8 +12,9 @@ The following list contains links to verified sellers only. If you know of any s
 
 ## Choose the product you want to view links for
 
-- [AirPods 3](airpods-3)
 - [AirPods 2](airpods-2.md)
+- [AirPods 3](airpods-3.md)
+- [AirPods 4](airpods-4.md)
 - [AirPods Pro](airpods-pro.md)
 - [AirPods Pro 2](airpods-pro-2.md)
 - [AirPods Max](airpods-max.md)
