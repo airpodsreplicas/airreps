@@ -10,9 +10,8 @@ description: Explore the different versions of AirPods Max replicas and their as
 | V2 Metal | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                          | [Website](https://airreps.link/jenny)    |
 | V2 Metal | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                             | [Website](https://airreps.link/hcmaxv2) │ [Weidian](https://airreps.link/hicityw)      |
 
-::: note
-The AirPods Max replicas are available in a range of colors. For detailed options, please refer to the respective sellers' websites.
-:::
+> [!NOTE]
+> The AirPods Max replicas are available in a range of colors. For detailed options, please refer to the respective sellers' websites.
 
 ::: tip
 Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. 
