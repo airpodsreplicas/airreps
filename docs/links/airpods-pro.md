@@ -8,13 +8,10 @@ description: Discover different versions of AirPods Pro replicas from various se
 |---------------------|-----------|-----------------------------------------------------------------------------------------------------|-------------------------------------------|
 | V4.9 (TigerBuilder) | *Earhive* | [Earhive](https://earhive.com)                                                                      | [Website](https://airreps.link/earhive) │ [Alibaba](https://airreps.link/earhiveab)     |
 | V4.9 (TigerBuilder) | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv49tb) │ [Weidian](https://airreps.link/hicityw)    |
-| V4.9 (HR)           | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv49hr) │ [Weidian](https://airreps.link/hicityw)    |
-| V4.9 (TigerBuilder) | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny) │ [Alibaba](https://airreps.link/jennyab)     |
+V4.9 (TigerBuilder) | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny) │ [Alibaba](https://airreps.link/jennyab)     |
 | V4.9 (HR)           | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny) │ [Alibaba](https://airreps.link/jennyab)     |
-| V4.8                | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv48) │ [Weidian](https://airreps.link/hicityw)      |
 | V4.5 (TB)           | *Earhive* | [Earhive](https://earhive.com)                                                                      | [Website](https://airreps.link/earhive) │ [Alibaba](https://airreps.link/earhiveab)     |
 | V4.5 (HR)           | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny) │ [Alibaba](https://airreps.link/jennyab)     |
-| V4.5 (Hulian)       | *Jenny*   | [Jenny's Store](https://jenny.airreps.info)                                                         | [Website](https://airreps.info/jenny) │ [Alibaba](https://airreps.link/jennyab)     |
 | V4.5                | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv45d) │ [Weidian](https://airreps.link/hicityw)     |
 | V4                  | *HiCity*  | [HiCity's Store](https://hicitypods.com)                                                            | [Website](https://airreps.link/hcv4blued) │ [Weidian](https://airreps.link/hicityw)  |
 
