@@ -13,7 +13,7 @@ description: Discover the different versions of the new AirPods 4 and their asso
 Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. 
 :::
 
-::: tip
+::: important
 Alibaba orders are not shipped with Apple boxes, use one of the websites or Weidian links instead.
 :::
 
