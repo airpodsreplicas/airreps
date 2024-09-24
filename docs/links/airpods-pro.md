@@ -32,53 +32,13 @@ description: Discover different versions of AirPods Pro replicas from various se
     </td>
   </tr>
   <tr>
-    <td><strong>V4.9</strong> (HR)</td>
-    <td>
-      <a href="https://earhive.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhiveab">Alibaba</a>
-    </td>
-    <td>
-      <a href="https://hicitypods.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
-    </td>
-    <td>
-      <a href="https://jenny.airreps.info">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyab">Alibaba</a>
-    </td>
-  </tr>
-  <tr>
     <td><strong>V4.5</strong> (TB)</td>
     <td>
       <a href="https://earhive.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhiveab">Alibaba</a>
     </td>
-    <td>
-      <a href="https://hicitypods.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
-    </td>
-    <td>
-      <a href="https://jenny.airreps.info">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyab">Alibaba</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>V4.5</strong> (HR)</td>
-    <td>
-      <a href="https://earhive.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhiveab">Alibaba</a>
-    </td>
-    <td>
-      <a href="https://hicitypods.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
-    </td>
+     <td style="text-align: center;">-</td>
     <td>
       <a href="https://jenny.airreps.info">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -87,21 +47,13 @@ description: Discover different versions of AirPods Pro replicas from various se
   </tr>
   <tr>
     <td><strong>V4</strong></td>
-    <td>
-      <a href="https://earhive.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhiveab">Alibaba</a>
-    </td>
+    <td style="text-align: center;">-</td>
     <td>
       <a href="https://hicitypods.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
-    <td>
-      <a href="https://jenny.airreps.info">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyab">Alibaba</a>
-    </td>
+     <td style="text-align: center;">-</td>
   </tr>
 </table>
 

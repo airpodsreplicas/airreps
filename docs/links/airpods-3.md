@@ -32,17 +32,9 @@ description: Discover the different versions of AirPods 3 and their associated s
     </td>
   </tr>
   <tr>
-    <td><strong>V1.2 (Upgraded)</strong></td>
-    <td>
-      <a href="https://earhive.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhiveab">Alibaba</a>
-    </td>
-    <td>
-      <a href="https://hicitypods.com/product/gen-3-v1e/">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
-    </td>
+    <td><strong>V1.2+</strong></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
     <td>
       <a href="http://airreps.link/jenny">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
