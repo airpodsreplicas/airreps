@@ -15,60 +15,37 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
+          fetch-depth: 0
 
       - name: Download xmlint
         run: |
           sudo apt-get update
           sudo apt-get install libxml2-utils
 
-      - name: Generate sitemap.xml
+      - name: Generate the sitemap
+        id: sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          path-to-root: docs
+          base-url-path: https://airpodsreplicas.com/
+          additional-extensions: md
+          exclude-paths: /.vitepress /public
+
+      - name: Output stats
         run: |
-          # Function to generate sitemap entries for each .md file
-          generate_sitemap_entries() {
-              local dir="$1"
-              local base_dir="$2"
-          
-              # Use find to get all .md files in the given directory and its subdirectories
-              find "$dir" -type f -name "*.md" | while read -r entry; do
-              # Remove the file extension (.md) from the entry
-              file_name="${entry%.md}"
-          
-              # Print the sitemap entry for the .md file
-              echo "            <url>"
-              echo "                <loc>https://airpodsreplicas.com/${file_name#$base_dir/}</loc>"
-              echo "                <lastmod>$(date -Iseconds)</lastmod>"
-              echo "                <priority>0.8</priority>"
-              echo "            </url>"
-              done
-          }
+          echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
+          echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
+          echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
 
-          root_directory="docs"
-          base_directory=$(basename "$root_directory")
-
-          # Generate the sitemap entries and save to variable
-          sitemap_entries=$(generate_sitemap_entries "$root_directory" "$base_directory")
-
-          # Create the sitemap.xml file
-          cat <<EOF > sitemap.xml
-          <?xml version="1.0" encoding="UTF-8"?>
-          <urlset
-              xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-              xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-              http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-          $sitemap_entries
-
-          </urlset>
-          EOF
-          
-          xmllint --format sitemap.xml -o sitemap_formatted.xml && mv sitemap_formatted.xml sitemap.xml
+      - name: Format XML
+        run: |
+          xmllint --format docs/sitemap.xml -o docs/sitemap_formatted.xml && mv docs/sitemap_formatted.xml docs/sitemap.xml
 
       - name: Commit sitemap.xml to docs/public
         run: |
-          mv sitemap.xml docs/public
+          mv docs/sitemap.xml docs/public
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git add .
-          git commit -m "🏗️ chore(sitemap.xml): update sitemap.xml" || true
+          git commit -m "🏗️ (sitemap.xml): update sitemap.xml" || true
           git push
