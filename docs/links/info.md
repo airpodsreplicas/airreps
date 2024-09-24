@@ -44,3 +44,7 @@ If you have tracking information that is in Chinese, you can copy the tracking n
 ::: details My card is not working. What should I do?
 If your card is not working, you should contact the seller and ask if they will accept a different form of payment. Keep in mind that some alternative payment methods, such as Wise, do not offer buyer protection. If the seller is unable to accept a different form of payment, you can try using a different card or purchasing from a different seller.
 :::
+
+::: tip
+Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. 
+:::

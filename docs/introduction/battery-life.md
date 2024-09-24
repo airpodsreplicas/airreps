@@ -31,5 +31,5 @@ Battery level readings on iOS devices may not always be accurate. Use specific a
 AirPods replicas support wireless charging, but use caution when using this feature. Prolonged wireless charging (longer than the 1-2 hours it takes to fully charge the replicas) could lead to overheating and a very small risk of melting. Fast charging (using a cable or wirelessly) may also damage the replicas, so exercise caution if you plan to use this feature.
 
 ::: danger
-Be careful when using wireless charging for extended periods or fast charging, as it could lead to overheating, melting, or damage to the replicas.
+Be careful when using wireless charging for extended periods or fast charging, as it <ins>could</ins> lead to overheating, melting, or damage to the replicas. However, this mostly applies to older replicas.
 :::
