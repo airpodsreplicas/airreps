@@ -1,188 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9     http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://airpodsreplicas.com/contributing</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/contributing.md</loc>
+    <lastmod>2023-12-19T14:56:03+00:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/dictionary/w2c</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/index.md</loc>
+    <lastmod>2024-09-25T15:06:43+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/dictionary/guinea-pig</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/troubleshooting.md</loc>
+    <lastmod>2024-07-30T16:02:38+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/dictionary/knockoffs</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/useful-apps.md</loc>
+    <lastmod>2024-06-18T15:38:39+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/dictionary/agent</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/dictionary/agent.md</loc>
+    <lastmod>2023-12-18T21:16:50+00:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/dictionary/reps-clones</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/dictionary/guinea-pig.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/dictionary/legit-check</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/dictionary/knockoffs.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/dictionary/quality-control</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/dictionary/legit-check.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/dictionary/markings</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/dictionary/markings.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/troubleshooting</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/dictionary/quality-control.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/index</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/dictionary/reps-clones.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/links/airpods-pro-2</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/dictionary/w2c.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/links/info</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/anc-explained.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/links/airpods-4</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/battery-life.md</loc>
+    <lastmod>2024-09-24T11:41:46+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/links/airpods-3</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/build-quality.md</loc>
+    <lastmod>2024-08-11T14:42:49+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/links/airpods-max</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/connectivity.md</loc>
+    <lastmod>2024-07-30T16:05:43+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/links/airpods-pro</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/features.md</loc>
+    <lastmod>2024-08-11T14:19:06+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/links/airpods-2</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/overview.md</loc>
+    <lastmod>2023-12-16T18:22:04+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/useful-apps</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/packaging.md</loc>
+    <lastmod>2023-07-19T19:05:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/version-info/general</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/sellers.md</loc>
+    <lastmod>2023-12-16T18:28:39+01:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/version-info/airpods-pro-2</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/introduction/sound-quality.md</loc>
+    <lastmod>2024-09-09T22:18:03+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/version-info/airpods-4</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/links/airpods-2.md</loc>
+    <lastmod>2024-09-24T11:41:46+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/version-info/airpods-3</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/links/airpods-3.md</loc>
+    <lastmod>2024-09-24T12:23:50+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/version-info/airpods-max</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/links/airpods-4.md</loc>
+    <lastmod>2024-09-24T11:41:46+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/version-info/airpods-pro</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/links/airpods-max.md</loc>
+    <lastmod>2024-09-24T12:23:50+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/version-info/airpods-2</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/links/airpods-pro-2.md</loc>
+    <lastmod>2024-09-24T12:23:50+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/ordering/qc-lc</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/links/airpods-pro.md</loc>
+    <lastmod>2024-09-24T12:23:50+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/ordering/how-to-buy</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/links/info.md</loc>
+    <lastmod>2024-09-24T11:41:46+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/connectivity</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/ordering/how-to-buy.md</loc>
+    <lastmod>2024-08-11T14:19:06+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/build-quality</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/ordering/qc-lc.md</loc>
+    <lastmod>2024-08-11T14:42:49+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/sellers</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/version-info/airpods-2.md</loc>
+    <lastmod>2023-12-18T16:31:50+00:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/packaging</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/version-info/airpods-3.md</loc>
+    <lastmod>2024-09-04T03:08:21+08:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/battery-life</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/version-info/airpods-4.md</loc>
+    <lastmod>2024-09-09T21:44:56+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/sound-quality</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/version-info/airpods-max.md</loc>
+    <lastmod>2024-08-11T14:42:49+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/features</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/version-info/airpods-pro-2.md</loc>
+    <lastmod>2024-09-17T06:45:32+02:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/overview</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/version-info/airpods-pro.md</loc>
+    <lastmod>2024-09-05T16:29:46+08:00</lastmod>
   </url>
   <url>
-    <loc>https://airpodsreplicas.com/introduction/anc-explained</loc>
-    <lastmod>2024-09-24T10:24:17+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://airpodsreplicas.com/version-info/general.md</loc>
+    <lastmod>2024-09-09T21:44:56+02:00</lastmod>
   </url>
 </urlset>
