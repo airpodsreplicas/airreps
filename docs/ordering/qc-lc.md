@@ -22,21 +22,21 @@ This section was once more detailed, but as replicas have become more sophistica
 
 5. **Markings**: To verify the authenticity of your AirPods, one of the most reliable methods is to inspect the regulatory markings located on the inner upper part of the AirPods case. These markings vary by region and can help determine whether the AirPods are genuine. Here’s a detailed breakdown:
 
-| **Region**         | **Country/Area**      | **Regulatory Mark**                                      |
-|--------------------|-----------------------|----------------------------------------------------------|
-| **USA**            | United States         | FCC ID, "Designed by Apple in California"                |
-| **Europe**         | EU Countries          | CE (Conformité Européenne), WEEE                         |
-| **Asia**           | China                 | CCC (China Compulsory Certificate)                       |
-|                    | South Korea           | KC (Korea Certification)                                 |
-|                    | Japan                 | MIC (Ministry of Internal Affairs and Communications)    |
-|                    | India                 | BIS (Bureau of Indian Standards)                         |
-| **Oceania**        | Australia, New Zealand| RCM (Regulatory Compliance Mark)                         |
-| **Canada**         | Canada                | IC (Industry Canada)                                     |
-| **Middle East**    | Saudi Arabia          | SASO (Saudi Standards, Metrology and Quality Organization)|
-|                    | UAE                   | ESMA (Emirates Authority for Standardization and Metrology)|
-| **Latin America**  | Brazil                | Anatel (National Telecommunications Agency)              |
-|                    | Mexico                | IFT (Instituto Federal de Telecomunicaciones)            |
-| **Russia and CIS** | Russia, CIS countries | EAC (Eurasian Conformity)                                |
+| **Region**         | **Country/Area**       | **Regulatory Mark**                                         |
+|--------------------|------------------------|-------------------------------------------------------------|
+| **USA**            | United States          | FCC ID, "Designed by Apple in California"                   |
+| **Europe**         | EU Countries           | CE (Conformité Européenne), WEEE                            |
+| **Asia**           | China                  | CCC (China Compulsory Certificate)                          |
+|                    | South Korea            | KC (Korea Certification)                                    |
+|                    | Japan                  | MIC (Ministry of Internal Affairs and Communications)       |
+|                    | India                  | BIS (Bureau of Indian Standards)                            |
+| **Oceania**        | Australia, New Zealand | RCM (Regulatory Compliance Mark)                            |
+| **Canada**         | Canada                 | IC (Industry Canada)                                        |
+| **Middle East**    | Saudi Arabia           | SASO (Saudi Standards, Metrology and Quality Organization)  |
+|                    | UAE                    | ESMA (Emirates Authority for Standardization and Metrology) |
+| **Latin America**  | Brazil                 | Anatel (National Telecommunications Agency)                 |
+|                    | Mexico                 | IFT (Instituto Federal de Telecomunicaciones)               |
+| **Russia and CIS** | Russia, CIS countries  | EAC (Eurasian Conformity)                                   |
 
 
 For additional help, join the [AirReps Discord](https://airreps.info/discord) to get advice and support from the AirReps community.
