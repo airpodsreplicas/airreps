@@ -32,6 +32,24 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
     </td>
   </tr>
   <tr>
+  <td><strong>V5.3</strong> (Huilian)</td>
+    <td>
+      <a href="https://earhive.com">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhiveab">Alibaba</a>
+    </td>
+    <td>
+      <a href="https://hicitypods.com">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/hicityw">Weidian</a>
+    </td>
+    <td>
+      <a href="https://jenny.airreps.info">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyab">Alibaba</a>
+    </td>
+  </tr>
+  <tr>
     <td><strong>V5.2</strong> (TigerBuilder)</td>
     <td>
       <a href="https://earhive.com">Website</a>

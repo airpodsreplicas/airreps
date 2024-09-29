@@ -13,11 +13,11 @@ This table provides a summary of the most notable missing features for various A
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AirPods Gen 4 | **V1**   | Coming soon                                                                                                                                              |
-| AirPods Gen 3 | **V1E**  | iCloud Connect, Find My Network Availability, Improved SFX                                                                                               |
-| AirPods Gen 2 | **V3E**  | iCloud Connect, Find My Network Availability, Improved SFX                                                                                               |
-| AirPods Pro 2 | **V5.2** | 1:1 Noise Cancelling (it's fairly close already), Find My Network Availability, Improved SFX                                                             |
-| AirPods Pro   | **V4.9** | 1:1 Noise Cancelling (it's fairly close already), Find My Network Availability, Improved SFX                                                             |
-| AirPods Max   | **V2**   | 1:1 Active Noise Cancelling and transparency Mode, Polished Features, iCloud Connect, Microphone Improvement, Improved SFX, Find My Network Availability |
+| AirPods Gen 3 | **V1E**  | iCloud Connect, Find My Network Availability                                                                                                             |
+| AirPods Gen 2 | **V3E**  | iCloud Connect, Find My Network Availability                                                                                                             |
+| AirPods Pro 2 | **V5.3** | 1:1 Noise Cancelling (it's fairly close already), Find My Network Availability                                                                           |
+| AirPods Pro   | **V4.9** | 1:1 Noise Cancelling (it's fairly close already), Find My Network Availability                                                                           |
+| AirPods Max   | **V2**   | 1:1 Active Noise Cancelling and transparency Mode, iCloud Connect, Microphone Improvement, Find My Network Availability                                  |
 
 **All Have:**
 
