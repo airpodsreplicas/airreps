@@ -16,7 +16,9 @@ description: Discover the different versions of the new AirPods 4 and their asso
   <tr>
     <td><strong>V1</strong></td>
     <td>
-      <i>Coming soon</i>
+      <a href="https://earhive.com">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhiveab">Alibaba</a>
     </td>
     <td>
       <i>Coming soon</i>
