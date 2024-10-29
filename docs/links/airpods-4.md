@@ -14,20 +14,27 @@ description: Discover the different versions of the new AirPods 4 and their asso
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><strong>V1</strong></td>
-    <td>
-      <a href="https://earhive.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhiveab">Alibaba</a>
-    </td>
-    <td>
-      <i>Coming soon</i>
-    </td>
-    <td>
-      <i>Coming soon</i>
+    <td><strong>V2</strong></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">
+      <a href="https://jenny.airreps.info">Website</a><br>
+            <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyab">Alibaba</a>
     </td>
   </tr>
+  <tr>
+    <td><strong>V1</strong></td>
+    <td style="text-align: center;">
+      <a href="https://earhive.com">Website</a><br>
+            <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhiveab">Alibaba</a>
+    </td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+  </tr>
 </table>
+
 
 
 > [!IMPORTANT]
