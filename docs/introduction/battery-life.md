@@ -8,7 +8,7 @@ Understanding the battery life of AirPods replicas can help you manage your expe
 
 ## Average Battery Life
 
-The average battery life of AirPods replicas is around 5 hours per charge with normal use at a normal volume (75%). The AirPods case can fully charge the pods 2-3 times on average after a full charge. For example, the newest Pro 2 V5.3 TB units average around 9-10 hours of use per charge of the case. 
+The average battery life of AirPods replicas is around 5 hours per charge with normal use at a normal volume (75%). The AirPods case can fully charge the pods 2-3 times on average after a full charge. For example, the newest Pro 2 V5.3 TB units average around 9-10 hours of use per charge of the unit. 
 
 ## Battery Life Variations
 
