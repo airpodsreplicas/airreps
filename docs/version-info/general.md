@@ -54,14 +54,7 @@ It is not possible to determine the version of a clone without actually using it
 :::
 
 ::: details How can I determine the chip in my AirPods?
-To check the chip in your AirPods, you can try downloading the Airoha Headset app and attempting to connect your AirPods to it. If they connect, then they are using an Airoha chip. You can also [download the AirReps 156X Airoha app on Android](https://play.google.com/store/apps/details?id=com.airoha.utapp.sdk) and use it to connect your AirPods. The app will provide information about the chipset in your AirPods, but only if they are using an Airoha chip. If your AirPods do not connect to either of these apps, you can use the following method:
-
-Check the audio codec of your AirPods. To do this you need to use an Android 8.1 or Higher but lower than 10 device, or Mac.
-
-- Android Method: [Here](https://airreps.info/androidcodeccheck)
-- Mac OS Method: [Here](https://airreps.info/maccodeccheck)
-
-At the moment, it is hard to tell from the codec, as most chipsets now support AAC, but if it has SBC you can be sure the reps are using a lower-end chipset.
+To identify the chip in your AirPods clones, refer to this list of [useful apps](https://airpodsreplicas.com/useful-apps). Test each app individually to determine which one your AirPods connect to. This will help you quickly identify the manufacturer and chipset. Note that if your AirPods are very low-tier, they may not connect to any of the apps. In such cases, they likely use the Jieli chipset.
 :::
 
 ::: details How can I determine if my AirPods are real?
