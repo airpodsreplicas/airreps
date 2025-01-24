@@ -12,7 +12,7 @@ This table provides a summary of the most notable missing features for various A
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AirPods Gen 4 | **V2**   | iCloud Connect, Find My Network                                                                                                                                          |
+| AirPods Gen 4 | **V2**   | Find My Network                                                                                                                                          |
 | AirPods Gen 3 | **V1E**  | iCloud Connect, Find My Network                                                                                                            |
 | AirPods Gen 2 | **V3E**  | iCloud Connect, Find My Network                                                                                                              |
 | AirPods Pro 2 | **V5.3** | 1:1 Noise Cancelling (it's fairly close already), Find My Network                                                                            |
