@@ -146,7 +146,7 @@ export default defineConfig({
         link: 'https://reddit.com/r/airreps',
         ariaLabel: 'Reddit'
       },
-      { icon: 'youtube', link: 'https://www.youtube.com/@AirRepsCommunity' }
+      { icon: 'youtube', link: 'https://www.youtube.com/@AirReps' }
     ],
 
     search: {
