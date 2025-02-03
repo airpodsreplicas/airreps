@@ -30,14 +30,6 @@ Currently, no available replicas support connecting to multiple devices at once 
 AirPods replicas do not support multi-device connectivity through iCloud Connect.
 :::
 
-## iOS Audio Playback
-
-Certain batches or units of AirPods replicas may face issues playing audio on iOS, often due to Apple WatchOS 7+. This can cause iOS to direct all audio output to the watch instead of the AirPods. Models V3M, V4.5, and newer versions have addressed this issue. The fix for this issue can be found in the Troubleshooting section.
-
-::: tip
-Models V3M, V4.5, and newer have addressed the iOS audio playback issue caused by Apple WatchOS 7+.
-:::
-
 ## Initial Connectivity with iOS Devices
 
 In some cases, AirPods replicas may not connect to iOS devices initially. However, a fix often exists for this issue. Please refer to the Troubleshooting section for more information.
