@@ -35,7 +35,7 @@ jobs:
           cat ultimateguide.md | tr -s ' ' | sed 's/ \?| \?/;/g' | sed 's/;-\+.*-\+;//' | sed 's/^;/\["/' | sed 's/;/","/g' | sed 's/,"$/\]/g' | sed ':a;N;$!ba;s/]\n\n\[/]\n[/g' > tmp_ultimateguide.md && cat tmp_ultimateguide.md > ultimateguide.md && rm tmp_ultimateguide.md
 
       - name: Upload Combined File as Artifact
-        uses: actions/upload-artifact@v3.1.3
+        uses: actions/upload-artifact@v4
         with:
           retention-days: 90
           path: ultimateguide.md
