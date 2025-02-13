@@ -16,7 +16,7 @@ Ordering is simple: choose the product you want and check out.
 When paying with Wise and sometimes PayPal, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
 :::
 
-# Paying with AliPay
+## Paying with AliPay
 
 ### Why Use AliPay?
 Multiple of our trusted sellers have started accepting AliPay payments. This makes it easy for anyone to pay using a card without KYC or similar verification steps.
@@ -53,7 +53,8 @@ That's it! Your payment is now processed. 🎉
 #### Prefer video?
 See just how easy it is in this video:
 
-[![Watch the video](https://img.youtube.com/vi/QTtptEJPIWs/0.jpg)](https://youtu.be/QTtptEJPIWs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
+
 
 Enjoy seamless shopping with AliPay! 🚀
 
