@@ -16,6 +16,49 @@ Ordering is simple: choose the product you want and check out.
 When paying with Wise and sometimes PayPal, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
 :::
 
+# Paying with AliPay
+
+### Why Use AliPay?
+Multiple of our trusted sellers have started accepting AliPay payments. This makes it easy for anyone to pay using a card without KYC or similar verification steps.
+
+## How to Pay with AliPay on an AirReps Store
+
+### Step 1: Download the AliPay App
+To get started, download the AliPay app on your phone:
+- Open your App Store (iOS) or Play Store (Android).
+- Search for **AliPay**.
+- Tap **Download** and wait for the installation to complete.
+
+### Step 2: Create an Account
+- Open the AliPay app.
+- Sign up using your **phone number**, **email**, or **Apple account**.
+- Follow the on-screen instructions to complete registration.
+
+### Step 3: Place Your Order
+- Visit the AirReps store and **add your items to the cart**.
+- Choose **AliPay**.
+- Click **Place Order**.
+
+### Step 4: Scan the QR Code
+- On the payment page, a **QR code** will be displayed.
+- Open the AliPay app and tap **Scan**.
+- Scan the QR code shown on the website.
+
+### Step 5: Add Your Payment Method
+- If you haven't added a card yet, you will need to do so at this step.
+- Follow the prompts to complete your payment.
+
+That's it! Your payment is now processed. 🎉
+
+#### Prefer video?
+See just how easy it is in this video:
+
+[![Watch the video](https://img.youtube.com/vi/QTtptEJPIWs/0.jpg)](https://youtu.be/QTtptEJPIWs)
+
+Enjoy seamless shopping with AliPay! 🚀
+
+
+
 ## Information about AliExpress/Alibaba
 
 When purchasing from AliExpress, keep in mind that customer service, refunds, and returns may not be as robust as with larger, more established retailers like Amazon. Your payment information is encrypted through AliPay, making purchases safe, but be aware of potential limitations on refunds and returns. *Buy at your own risk.*
