@@ -56,8 +56,6 @@ See just how easy it is in this video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
 
-Enjoy seamless shopping with AliPay! 🚀
-
 
 
 ## Information about AliExpress/Alibaba
