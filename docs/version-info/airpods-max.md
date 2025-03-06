@@ -19,3 +19,9 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 **Please note** that the following models are **discontinued**:
 
 - **V1.6**
+
+## V2 & V2.5 Version Differences:
+
+**V2 TB** - Sound wise, V2 is not that much differences and support EQ adjustment. The shell is firmer and support firmware updates - future proof.
+
+**V2.5** - Known for having better ANC,  transparency should be better as well. Better headband than V2, market as support firmware update but haven't received any firmware updates.
