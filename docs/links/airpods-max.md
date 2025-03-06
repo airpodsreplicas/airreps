@@ -13,6 +13,16 @@ description: Explore the different versions of AirPods Max replicas and their as
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
+    <tr>
+  <td><strong>V2.5 </strong></td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+      <a href="https://jenny.airreps.info">Website</a>
+    </td>
+   </tr>
   <tr>
     <td><strong>V2 Metal</strong></td>
     <td>
@@ -27,16 +37,6 @@ description: Explore the different versions of AirPods Max replicas and their as
       <a href="https://jenny.airreps.info">Website</a>
     </td>
   </tr>
-  <tr>
-  <td><strong>V2.5 </strong></td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-      <a href="https://jenny.airreps.info">Website</a>
-    </td>
-   </tr>
 </table>
 
 
