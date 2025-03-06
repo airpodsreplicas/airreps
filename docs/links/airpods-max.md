@@ -27,7 +27,7 @@ description: Explore the different versions of AirPods Max replicas and their as
       <a href="https://jenny.airreps.info">Website</a>
     </td>
   </tr>
-  <tr></tr>
+  <tr>
   <td><strong>V2.5 </strong></td>
     <td>
     </td>
