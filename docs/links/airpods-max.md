@@ -35,6 +35,8 @@ description: Explore the different versions of AirPods Max replicas and their as
     </td>
     <td>
       <a href="https://jenny.airreps.info">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
   </tr>
 </table>

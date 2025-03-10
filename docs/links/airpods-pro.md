@@ -29,6 +29,8 @@ description: Discover different versions of AirPods Pro replicas from various se
       <a href="https://jenny.airreps.info">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
   </tr>
   <tr>
@@ -43,6 +45,8 @@ description: Discover different versions of AirPods Pro replicas from various se
       <a href="https://jenny.airreps.info">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
   </tr>
   <tr>
