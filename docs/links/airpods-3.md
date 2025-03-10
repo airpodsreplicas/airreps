@@ -41,6 +41,8 @@ description: Discover the different versions of AirPods 3 and their associated s
       <a href="https://airreps.link/jenny">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
   </tr>
 </table>
