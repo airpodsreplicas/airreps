@@ -19,6 +19,8 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
       <a href="https://earhive.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhiveab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://hicitypods.com">Website</a>
@@ -39,6 +41,8 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
       <a href="https://earhive.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhiveab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://hicitypods.com">Website</a>
@@ -59,6 +63,8 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
       <a href="https://earhive.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhiveab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://hicitypods.com">Website</a>
@@ -79,6 +85,8 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
       <a href="https://earhive.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhiveab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://hicitypods.com">Website</a>
@@ -99,6 +107,8 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
       <a href="https://earhive.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhiveab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://hicitypods.com">Website</a>
@@ -131,6 +141,8 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
       <a href="https://earhive.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhiveab">Alibaba</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://hicitypods.com">Website</a>

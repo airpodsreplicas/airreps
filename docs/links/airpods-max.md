@@ -29,6 +29,8 @@ description: Explore the different versions of AirPods Max replicas and their as
     <td><strong>V2 Metal</strong></td>
     <td>
       <a href="https://earhive.com">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://hicitypods.com">Website</a>
