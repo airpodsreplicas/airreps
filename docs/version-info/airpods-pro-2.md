@@ -34,7 +34,7 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 **Huilian** - The Huilian earbuds is the middle of the pack case, firmer than HR but softer than TB and equiped with 1:1 hinge. However due to Huilian chipset, ANC is significantly worse than the other two model - 5.2TB & 5.2HR (average 30-32 DB, peak 38db). The battery life of the Huilian model is 6 hours without ANC, and 4.5 hours with ANC turned on.
 
 
-## Version 5.3 vs Version 5.2: Is the Upgrade Justified?
+## Version 5.3TB vs Version 5.2TB: Is the Upgrade Justified?
 
 - The speaker has been upgraded from F10.2 to F11, though the change is relatively minor.
 - The battery has been updated, but without any increase in capacity.
