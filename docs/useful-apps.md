@@ -25,3 +25,6 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 - [HuiAirPodsControl (ANDROID)](https://airreps.link/airpodscontrol)
 - [StarFun (ANDROID)](https://airreps.link/starfun)
 - [StarFun (iOS)](https://airreps.link/istarfun)
+
+## **V2.5/KKX**
+- [KKX (ANDROID)](https://airreps.link/kkx)
