@@ -18,8 +18,6 @@ description: Discover different versions of AirPods Pro replicas from various se
     <td>
       <a href="https://earhive.com">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhiveab">Alibaba</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
@@ -39,8 +37,6 @@ description: Discover different versions of AirPods Pro replicas from various se
     <td><strong>V4.5</strong> (TB)</td>
     <td>
       <a href="https://earhive.com">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhiveab">Alibaba</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
