@@ -28,8 +28,6 @@ description: Discover the different versions of AirPods 3 and their associated s
     <td>
       <a href="https://jenny.airreps.info">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyab">Alibaba</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
   </tr>
@@ -39,8 +37,6 @@ description: Discover the different versions of AirPods 3 and their associated s
     <td style="text-align: center;">-</td>
     <td>
       <a href="https://airreps.link/jenny">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyab">Alibaba</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
