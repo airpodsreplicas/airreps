@@ -13,6 +13,24 @@ description: Discover the different versions of the new AirPods 4 and their asso
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
+   <tr>
+    <td><strong>V2 HR</strong></td>
+        <td>
+      <a href="https://earhive.com">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
+    </td>
+        <td>
+      <a href="https://hicitypods.com">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/hicityw">Weidian</a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://jenny.airreps.info">Website</a><br>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyw">Weidian</a>
+    </td>
+  </tr>
   <tr>
     <td><strong>V2 TB</strong></td>
         <td>
