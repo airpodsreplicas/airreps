@@ -73,7 +73,7 @@ jobs:
 
               try {
                   // Retrieve the vector store using the stored ID from environment variables
-                  const vector = await openai.beta.vectorStores.retrieve(process.env.VECTOR_STORE_ID);
+                  const vector = await openai.vectorStores.retrieve(process.env.VECTOR_STORE_ID);
                   if (!vector) {
                       console.warn('Vector store not found; cannot create link to uploaded file.');
                       process.exit(1);
@@ -97,7 +97,7 @@ jobs:
                   }
 
                   // Create a link between the uploaded file and the vector store
-                  await openai.beta.vectorStores.files.create(vector.id, { file_id: upload.id });
+                  await openai.vectorStores.files.create(vector.id, { file_id: upload.id });
                   console.log('Successfully linked uploaded file to vector store.');
 
               } catch (error) {
