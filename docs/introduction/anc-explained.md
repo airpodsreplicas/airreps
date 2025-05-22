@@ -4,7 +4,7 @@ description: Learn about Active Noise Cancellation (ANC) technology, its differe
 
 # Active Noise Cancellation (ANC) Explained
 
-Active Noise Cancellation (ANC) is a technology designed to create a sensation of "cancelled noise". It achieves this by generating an "anti-noise" that counteracts the sound waves of ambient noise, creating a cancellation effect. While ANC aims to reduce as much external noise as possible, few headsets provide a completely noiseless experience.
+Active Noise Cancellation (ANC) is a technology that reduces unwanted background noise by generating sound waves that cancel out ambient noise. It works by creating "anti-noise" that counteracts incoming sound waves, effectively reducing what you hear. While ANC significantly reduces external noise, it rarely eliminates it completely.
 
 There are three different implementations of ANC: Feedback, Feedforward, and Hybrid. Each comes with its own advantages and disadvantages.
 
@@ -22,9 +22,9 @@ However, since it doesn't hear the anti-noise it produces, feedforward ANC lacks
 
 ## Hybrid ANC
 
-Hybrid ANC combines feedback and feedforward ANC by using both internal and external microphones. It provides the benefits of both methods without their disadvantages. Hybrid ANC suppresses noise over a broader range, adapts to sudden changes in noise, and isn't sensitive to the placement of the headset.
+Hybrid ANC combines feedback and feedforward ANC by using both internal and external microphones. It provides the benefits of both methods while minimizing their disadvantages. Hybrid ANC suppresses noise over a broader range, adapts to sudden changes in noise, and isn't sensitive to the placement of the headset.
 
-However, the use of two microphones often results in a higher cost. The technology behind hybrid ANC is more complex and requires more expertise, making it more expensive overall. The retail AirPods Pro, for example, use hybrid ANC, contributing to their high price. This technology is also being replicated in the AirPods clone market. For example, HiCity's newly released v5.3 TB (featuring the Airoha 1571AM chipset) replicates the hybrid ANC effect for a full and authentic noise-canceling experience.
+However, the use of two microphones increases manufacturing costs and complexity. The technology requires more expertise to implement properly. Original AirPods Pro use hybrid ANC, contributing to their higher price. Many current AirPods replicas now also implement hybrid ANC using advanced chipsets. For example, the v5.3 TB (featuring the Airoha 1571AM chipset) replicates the hybrid ANC effect for a full and authentic noise-canceling experience.
 
 ::: tip
 Hybrid ANC, while more expensive, combines the benefits of both feedback and feedforward ANC, providing a more comprehensive noise-canceling experience.

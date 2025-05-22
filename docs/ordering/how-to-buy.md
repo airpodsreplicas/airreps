@@ -18,40 +18,11 @@ When paying with Wise and sometimes PayPal, a manual review from the seller is n
 
 ## Paying with AliPay
 
-### Why Use AliPay?
-Multiple of our trusted sellers have started accepting AliPay payments. This makes it easy for anyone to pay using a card without KYC or similar verification steps.
+Many trusted sellers now accept AliPay, allowing easy card payments without KYC verification.
 
-## How to Pay with AliPay on an AirReps Store
+**Quick Setup:** Download the AliPay app, create an account with your phone/email, then add a payment method.
 
-### Step 1: Download the AliPay App
-To get started, download the AliPay app on your phone:
-- Open your App Store (iOS) or Play Store (Android).
-- Search for **AliPay**.
-- Tap **Download** and wait for the installation to complete.
-
-### Step 2: Create an Account
-- Open the AliPay app.
-- Sign up using your **phone number**, **email**, or **Apple account**.
-- Follow the on-screen instructions to complete registration.
-
-### Step 3: Place Your Order
-- Visit the AirReps store and **add your items to the cart**.
-- Choose **AliPay**.
-- Click **Place Order**.
-
-### Step 4: Scan the QR Code
-- On the payment page, a **QR code** will be displayed.
-- Open the AliPay app and tap **Scan**.
-- Scan the QR code shown on the website.
-
-### Step 5: Add Your Payment Method
-- If you haven't added a card yet, you will need to do so at this step.
-- Follow the prompts to complete your payment.
-
-That's it! Your payment is now processed. 🎉
-
-#### Prefer video?
-See just how easy it is in this video:
+**To Pay:** Place your order, select AliPay, then scan the displayed QR code with the AliPay app to complete payment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
@@ -84,10 +55,10 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 
 ## FAQ
 
-::: details Why can I only pay with Bitcoin or Wise?
-You can oftentimes only pay with Bitcoin or Wise due to the preferred security and anonymity these payment methods offer in the replica products market. While some sellers, like HiCity and Earhive, have reintroduced credit card options, some still solely rely on Bitcoin and Wise for transactions. This choice prioritizes the safety and discretion of sellers.
+::: details What payment methods do trusted sellers accept?
+Most trusted sellers now accept multiple payment methods including Credit Cards, Wise, PayPal, AliPay, and Bitcoin. Different sellers may have slight variations in their accepted methods, but the majority offer flexible payment options to accommodate various preferences. Check the specific seller's website for their current payment options.
 :::
 
 ::: details Why are there so few AliExpress/Alibaba links?
-There used to be many more links to AliExpress and Alibaba stores, but Apple started aggressively cracking down on these, making it nearly impossible to maintain them. As a result, the sellers opened their own websites, which are more secure and robust. However, a few Alibaba links do remain; if this is important to you, you can order there.
+There used to be many more links to AliExpress and Alibaba stores, but Apple started aggressively cracking down on these, making it nearly impossible to maintain them. As a result, the sellers opened their own websites, which are more secure and robust.
 :::
