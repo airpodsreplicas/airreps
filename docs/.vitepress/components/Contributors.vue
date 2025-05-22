@@ -21,7 +21,6 @@ onMounted(async () => {
 
 <template>
   <div class="contributors-container">
-    <hr class="divider" />
     <h2>Contributors</h2>
     <div class="users">
       <a v-for="{ name, avatar } of contributors" :key="name" :href="`https://github.com/${name}`" target="_blank" rel="noopener noreferrer" :aria-label="`${name} on GitHub`" :data-tooltip="name" data-position="top" class="tooltip">
