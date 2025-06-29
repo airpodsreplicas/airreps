@@ -20,11 +20,11 @@ jobs:
           echo "Introduction files into ultimateguide.md"
           cat ./docs/dictionary/w2c.md ./docs/dictionary/reps-clones.md ./docs/dictionary/knockoffs.md ./docs/dictionary/guinea-pig.md ./docs/dictionary/quality-control.md ./docs/dictionary/legit-check.md ./docs/dictionary/agent.md ./docs/dictionary/markings.md >> ultimateguide.md
           echo "Dictionnary files into ultimateguide.md"
-          cat ./docs/version-info/general.md ./docs/version-info/airpods-3.md ./docs/version-info/airpods-2.md ./docs/version-info/airpods-pro.md ./docs/version-info/airpods-pro-2.md ./docs/version-info/airpods-max.md >> ultimateguide.md
+          cat ./docs/version-info/general.md ./docs/version-info/airpods-3.md ./docs/version-info/airpods-2.md ./docs/version-info/airpods-4.md ./docs/version-info/airpods-pro.md ./docs/version-info/airpods-pro-2.md ./docs/version-info/airpods-max.md >> ultimateguide.md
           echo "Version info into ultimateguide.md"
           cat ./docs/ordering/how-to-buy.md ./docs/ordering/qc-lc.md >> ultimateguide.md
           echo "Ordering into ultimateguide.md"
-          cat ./docs/links/info.md ./docs/links/airpods-3.md ./docs/links/airpods-2.md ./docs/links/airpods-pro.md ./docs/links/airpods-pro-2.md ./docs/links/airpods-max.md >> ultimateguide.md
+          cat ./docs/links/info.md ./docs/links/airpods-3.md ./docs/links/airpods-2.md ./docs/links/airpods-4.md ./docs/links/airpods-pro.md ./docs/links/airpods-pro-2.md ./docs/links/airpods-max.md >> ultimateguide.md
           echo "Links into ultimateguide.md"
           cat ./docs/useful-apps.md ./docs/troubleshooting.md ./docs/contributing.md >> ultimateguide.md
           echo "Extra into ultimateguide.md"
@@ -32,7 +32,10 @@ jobs:
 
       - name: Change markdown arrays to jsonl
         run : |
-          cat ultimateguide.md | tr -s ' ' | sed 's/ \?| \?/;/g' | sed 's/;-\+.*-\+;//' | sed 's/^;/\["/' | sed 's/;/","/g' | sed 's/,"$/\]/g' | sed ':a;N;$!ba;s/]\n\n\[/]\n[/g' > tmp_ultimateguide.md && cat tmp_ultimateguide.md > ultimateguide.md && rm tmp_ultimateguide.md
+          cat ultimateguide.md | tr -s ' ' | sed 's/ \?| \?/;/g' | sed 's/;-\+.*-\+;//' | sed 's/^;/\["/' | sed 's/;/","/g' | sed 's/,"$/\]/g' > tmp_ultimateguide.md
+          # Remove empty lines between JSON arrays
+          sed '/^\[/N;s/\]\n\n\[/\]\n\[/g' tmp_ultimateguide.md > ultimateguide.md
+          rm tmp_ultimateguide.md
 
       - name: Upload Combined File as Artifact
         uses: actions/upload-artifact@v4
