@@ -30,4 +30,4 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 - [KKX (ANDROID)](https://airreps.link/kkx)
 
 ## **V2.5/KKV8 Gen2**
-- [KK (ANDROID)]([https://airreps.link/kkx](https://airreps.link/kkv8))
+- [KK (ANDROID)](https://airreps.link/kkv8)
