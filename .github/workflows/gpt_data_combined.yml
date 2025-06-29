@@ -95,7 +95,7 @@ jobs:
                   const file = files.find(f => f.filename === 'ultimateguide.md');
                   if (file) {
                       console.log('Found existing file:', file.filename);
-                      await openai.files.del(file.id);
+                      await openai.files.delete(file.id);
                       console.log('Deleted existing file:', file.filename);
                   }
 
