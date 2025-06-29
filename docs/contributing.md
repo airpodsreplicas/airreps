@@ -45,7 +45,7 @@ npm install
 ```
 
 ::: tip
-You can also use your preferred terminal or command-line tool. Just navigate to the `airreps` directory and run the command there.
+You can also use your preferred terminal or command-line tool. Just navigate to the `airreps` directory and run the command in that directory.
 :::
 
 3. Start the documentation development server:
