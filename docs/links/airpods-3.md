@@ -16,17 +16,17 @@ description: Discover the different versions of AirPods 3 and their associated s
   <tr>
     <td><strong>V1E</strong></td>
     <td>
-      <a href="https://earhive.com">Website</a>
+      <a href="https://earhive.com/product/gen-3-v1e/">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://hicitypods.com">Website</a>
+      <a href="https://hicitypods.com/product/gen3-v1e/">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://jenny.airreps.info">Website</a>
+      <a href="https://jenny.airreps.info/product/gen-3-v1e/">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -36,7 +36,7 @@ description: Discover the different versions of AirPods 3 and their associated s
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://airreps.link/jenny">Website</a>
+      <a href="https://jenny.airreps.info/product/gen-3-v1-2/">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
