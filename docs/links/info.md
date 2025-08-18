@@ -50,5 +50,5 @@ Some websites or Alibaba links providing credit card payments may have discrete 
 :::
 
 ::: tip
-Recommended agent: [RizzitGo](https://rizzitgo.com/?rno=airreps) — a simple purchasing agent you can use to place orders and pay by card. If the checkout shows a generic product image, focus on the version number and listing details.
+Recommended agent: [RizzitGo](https://rizzitgo.com/?rno=airreps) — use only for Weidian orders when a seller requires that platform. All trusted sellers' official websites ship direct; prefer buying there when available. If the checkout shows a generic product image, focus on the version number and listing details.
 :::
