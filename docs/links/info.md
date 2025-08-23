@@ -48,7 +48,3 @@ If your card is not working, you should contact the seller and ask if they will 
 ::: tip
 Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. 
 :::
-
-::: tip
-Recommended agent: [RizzitGo](https://rizzitgo.com/?rno=airreps) — use only for Weidian orders when a seller requires that platform. All trusted sellers' official websites ship direct; prefer buying there when available. If the checkout shows a generic product image, focus on the version number and listing details.
-:::
