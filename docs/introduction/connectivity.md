@@ -12,7 +12,7 @@ The iOS popup appears almost instantly on some AirPods replicas, although the sp
 
 ## macOS Connectivity
 
-Newer clones work flawlessly with macOS, wheras this was not the case with previous models. We recommend choosing the "TB" model, if you plan on using your Apple AirPods replicas with your MacBook or iMac.
+  Only a few newer clones flawlessly with macOS, wheras this is not always case with other manufacturers. We recommend choosing the "HuiLian" model, if you plan on using your Apple AirPods replicas with your MacBook or iMac. This is due to other clones not having iCloud switching for seamless iOS integration,   or/and have their volume stuck to 100% on MacOS (TB/HR/HR+).
 
 ## Range
 
