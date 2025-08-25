@@ -15,10 +15,18 @@ description: Discover the different versions of the new AirPods 4 and their asso
   </tr>
    <tr>
     <td><strong>V3 TB</strong></td>
-         <td style="text-align: center;">-</td>
-        <td style="text-align: center;">-</td>
+         <td>
+      <a href="https://airreps.link/e4v3tb">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
+    </td>
+        <td>
+      <a href="https://airreps.link/hc4v3tb">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/hicityw">Weidian</a>
+    </td>
     <td style="text-align: center;">
-      <a href="https://jenny.airreps.info/product/gen-4-v3-tb/">Website</a><br>
+      <a href="https://airreps.link/j4v3tb">Website</a><br>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -27,12 +35,12 @@ description: Discover the different versions of the new AirPods 4 and their asso
     <td><strong>V2 HR</strong></td>
          <td style="text-align: center;">-</td>
         <td>
-      <a href="https://hicitypods.com/product/gen-4-v2-hr/">Website</a>
+      <a href="https://airreps.link/hc4v2hr">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td style="text-align: center;">
-      <a href="https://jenny.airreps.info/product/gen-4-v2-hr/">Website</a><br>
+      <a href="https://airreps.link/j4v2hr">Website</a><br>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -40,17 +48,17 @@ description: Discover the different versions of the new AirPods 4 and their asso
   <tr>
     <td><strong>V2 TB</strong></td>
         <td>
-      <a href="https://earhive.com/product/gen-4-v2-tb/">Website</a>
+      <a href="https://airreps.link/e4v2tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
         <td>
-      <a href="https://hicitypods.com/product/gen4-v2-tb/">Website</a>
+      <a href="https://airreps.link/hc4v2tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td style="text-align: center;">
-      <a href="https://jenny.airreps.info/product/gen-4-v2-tb/">Website</a><br>
+      <a href="https://airreps.link/j4v2tb">Website</a><br>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -58,17 +66,17 @@ description: Discover the different versions of the new AirPods 4 and their asso
     <tr>
     <td><strong>V2 Huilian</strong></td>
         <td>
-      <a href="https://earhive.com/product/gen-4-v2-huilian/">Website</a>
+      <a href="https://airreps.link/e4v2hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
         <td>
-      <a href="https://hicitypods.com/product/gen-4-v2-huilian/">Website</a>
+      <a href="https://airreps.link/hc4v2hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td style="text-align: center;">
-      <a href="https://jenny.airreps.info/product/gen-4-v2-huilian/">Website</a><br>
+      <a href="https://airreps.link/j4v2hl">Website</a><br>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>

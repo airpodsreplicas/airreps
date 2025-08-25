@@ -16,17 +16,17 @@ description: Explore the different versions of AirPods 2 and their associated se
   <tr>
     <td><strong>V3E</strong></td>
     <td>
-      <a href="https://earhive.com/product/gen-2-v3e/">Website</a>
+      <a href="https://airreps.link/e2v3e">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://hicitypods.com/product/gen2-v3e/">Website</a>
+      <a href="https://airreps.link/hcgen2v3e">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hcv3md">Weidian</a>
+      <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://jenny.airreps.info/product/gen-2-v3e/">Website</a>
+      <a href="https://airreps.link/j2v3e">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>

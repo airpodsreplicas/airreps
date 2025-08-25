@@ -16,17 +16,17 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
   <tr>
     <td><strong>V5.3</strong> (HR)</td>
     <td>
-      <a href="https://earhive.com/product/pro-2-v5-3-hr-2/">Website</a>
+      <a href="https://airreps.link/eprov53hr2">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://hicitypods.com/product/pro-2-v5-3-hr-2/">Website</a>
+      <a href="https://airreps.link/hcprov53hr2">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://jenny.airreps.info/product/pro-2-v5-3-hr-2/">Website</a>
+      <a href="https://airreps.link/jprov53hr2">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -34,17 +34,17 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
   <tr>
     <td><strong>V5.3</strong> (TigerBuilder)</td>
     <td>
-      <a href="https://earhive.com/product/pro-2-v5-3-tb/">Website</a>
+      <a href="https://airreps.link/eprov53tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://hicitypods.com/product/pro-2-v5-3-tb/">Website</a>
+      <a href="https://airreps.link/hcprov53tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://jenny.airreps.info/product/pro-2-v5-3-tb/">Website</a>
+      <a href="https://airreps.link/jprov53tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -52,17 +52,17 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
   <tr>
   <td><strong>V5.3</strong> (Huilian)</td>
     <td>
-      <a href="https://earhive.com/product/pro-2-v5-3-huilian/">Website</a>
+      <a href="https://airreps.link/eprov53hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://hicitypods.com/product/pro-2-v5-3-huilian/">Website</a>
+      <a href="https://airreps.link/hcprov53hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://jenny.airreps.info/product/v5-3-huilian/">Website</a>
+      <a href="https://airreps.link/jprov53hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -70,17 +70,17 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
   <tr>
     <td><strong>V5.2</strong> (TigerBuilder)</td>
     <td>
-      <a href="https://earhive.com/product/pro-2-v5-2-tb/">Website</a>
+      <a href="https://airreps.link/eprov52tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://hicitypods.com/product/pro2-v5-2-tb/">Website</a>
+      <a href="https://airreps.link/hcprov52tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://jenny.airreps.info/product/v5-2tb/">Website</a>
+      <a href="https://airreps.link/jprov52tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -88,13 +88,13 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
   <tr>
     <td><strong>V5.2</strong> (Huilian)</td>
     <td>
-      <a href="https://earhive.com/product/pro-2-v5-2-huilian/">Website</a>
+      <a href="https://airreps.link/eprov52hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://jenny.airreps.info/product/pro-2-v5-2-huilian/">Website</a>
+      <a href="https://airreps.link/jprov52hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -104,7 +104,7 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://jenny.airreps.info/product/pro-2-v5-2-hr/">Website</a>
+      <a href="https://airreps.link/jprov52hr">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -112,17 +112,17 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
   <tr>
     <td><strong>V4.2</strong></td>
     <td>
-      <a href="https://earhive.com/product/pro-2-v4-2/">Website</a>
+      <a href="https://airreps.link/eprov42">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://hicitypods.com/product/pro-v4-2/">Website</a>
+      <a href="https://airreps.link/hcprov42">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://jenny.airreps.info/product/pro-2-v4-2/">Website</a>
+      <a href="https://airreps.link/jprov42">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>

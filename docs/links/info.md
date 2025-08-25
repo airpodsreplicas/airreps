@@ -19,6 +19,12 @@ The following list contains links to verified sellers only. If you know of any s
 - [AirPods Pro 2](airpods-pro-2.md)
 - [AirPods Max](airpods-max.md)
 
+## Trusted sellers (official websites)
+
+- **Earhive**: https://earhive.com
+- **HiCity**: https://hicitypods.com
+- **Jenny**: https://jenny.airreps.info
+
 ## FAQ
 
 ::: details Will I get a good quality unit?

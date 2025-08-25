@@ -13,6 +13,28 @@ description: Explore the different versions of AirPods Max replicas and their as
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
+  <tr>
+    <td><strong>V3</strong></td>
+    <td>
+    </td>
+    <td>
+      <a href="https://airreps.link/hcmaxv3p">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/hicityw">Weidian</a>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>V3 (Metal)</strong></td>
+    <td>
+    </td>
+    <td>
+      <div style="text-align: center;">-</div>
+    </td>
+    <td>
+    </td>
+  </tr>
     <tr>
   <td><strong>V2.5</strong></td>
     <td>

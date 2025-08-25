@@ -29,7 +29,7 @@ description: Discover different versions of AirPods Pro replicas from various se
     <td><strong>V4</strong></td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://hicitypods.com/product/pro-v4/">Website</a>
+      <a href="https://airreps.link/hcprov4">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
