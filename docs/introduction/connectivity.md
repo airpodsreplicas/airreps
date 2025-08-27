@@ -24,7 +24,7 @@ Some AirPods replicas may have better latency than original AirPods, resulting i
 
 ## Multi-Device Connectivity
 
-Currently, no available replicas support connecting to multiple devices at once using iCloud Connect.
+Currently, most replicas support connecting to multiple devices at once. But only HuiLian models can connect to several Apple devices using iCloud Connect.
 
 ::: warning
 AirPods replicas do not support multi-device connectivity through iCloud Connect.
