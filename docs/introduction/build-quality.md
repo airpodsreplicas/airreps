@@ -13,10 +13,11 @@ The case and pods generally have a good weight to them. Most models match the ac
 ## Hinge
 
 Some models use a plastic hinge with metallic paint, while others employ a real metal hinge. Some plastic hinges may feel cheap, squeak, move, and lack solidity. While usable, they are noticeable compared to the original AirPods. Metal hinges feel significantly superior.
+It is important to know that all replicas sold in AirReps have metal hinges. Some units (such as HuiLian and HR**+** use a near perfect copy of the Apple hinge). As for now, HR+ does have some alignements issues, so the price difference might not be justified.
 
 ## Text
 
-The "Designed by Apple" text on the back uses a similar font to the original. The text inside the case and buds looks similar but doesn't say the same thing as the original AirPods. Some batches have real serial numbers, while others do not. The text may not be straight in some batches, or might be a lighter or darker grey than the original AirPods. The text quality varies by seller.
+The "Designed by Apple" text on the back uses a similar font to the original. The text inside the case and buds looks similar but doesn't say the same thing as the original AirPods. Some batches have real serial numbers, while others do not. The text may not be straight in some batches, or might be a lighter or darker grey than the original AirPods. The text quality varies by seller. The TB units do tend to use a darker font compared to reatail AirPods, but the text stays close enough.
 
 ## Back Button
 
@@ -32,7 +33,7 @@ Newer models include an LED diffuser to dim the LED.
 
 ## Ear Tips (AirPods Pro Replicas)
 
-For AirPods Pro replicas, avoid forcibly removing the ear tips as it could damage the pods. To remove the ear tips, twist and pull them off. When handling the pods, hold them by the tip and not by the stem to prevent damage.
+For AirPods Pro replicas, avoid forcibly removing the ear tips as it could damage the pods. To remove the ear tips, twist and pull them off. When handling the pods, hold them by the tip and not by the stem to prevent damage. You may use the /eartip command in the Discord server to learn more.
 
 ::: warning
 For AirPods Pro replicas, handle the pods carefully to avoid damage. Do not forcibly remove the ear tips.
