@@ -30,7 +30,7 @@ Realtek 8763ESE does support OTA.
 
 ## V3 Overview
 
-Whilst advertised as V3, this model uses the same chip as the V2, and is compared to V1.5 buy sellers, implying an almost non existential upgrade. As for now, the metal version hasn't come out yet, so the V3P can be regarded as a re-release of the V2 Plastic.
+Whilst advertised as V3, this model uses the same chip as the V2, and is compared to V1.5 by sellers, implying an almost non existential upgrade. As for now, the metal version hasn't come out yet, so the V3P can be regarded as a re-release of the V2 Plastic.
 
 > [!NOTE]
 > A full-metal Tigerbuilder V3 variant is planned.
