@@ -1,37 +1,49 @@
 ---
-description: Airreps Incompatibility with iCloud Connect
+description: Airreps Incompatibility with MacOS Volume Adjustment
 ---
 
-# **MacOS volume Adjustment Bug**
-The volume control issue occurs because AirPods replicas don’t always fully support Apple’s Bluetooth and iCloud systems. Unlike real AirPods, these clones use cheaper Bluetooth chips that don’t work perfectly with macOS or iOS devices. As a result, the volume control function often doesn’t work as expected. Though by adjusting some settings, you can work around this bug and get volume control back.
+# **MacOS Volume Adjustment Bug**
+
+If you're using your AirReps on MacOS, you may notice that volume control doesn’t work through the system’s native controls. This happens because most replica AirPods don’t fully integrate with MacOS.
+To regain control, you can use **Background Music**, a **free** and **open-source** app that lets you adjust volume for individual apps. The only downside is that the volume gestures on the earbuds won’t work, as the native MacOS volume control functionality is unavailable.
 
 **PS: This bug isn't present on clones that use the Huilian chipset.**
 
-## **Step 1**: Open **Audio MIDI Setup**
+### **Step 1: Download Background Music**
 
-Click on the Finder logo in the left corner of your dock.
-Open the **"Others"** folder
+1. **Visit the GitHub Release Page:**
+   Go to the official release page for *Background Music* on GitHub:  
+   [BackgroundMusic Releases](https://github.com/kyleneideck/BackgroundMusic/releases/)
 
-Find and click on **Audio MIDI Setup**.
+2. **Download the `.pkg` Installer:**
+   On the release page, find the **BackgroundMusic-x.x.x.pkg** file. Click the link to download the `.pkg` file to your Mac.
 
-## **Step 2**: Select Your **AirReps**
+### **Step 2: Install Background Music**
 
-In the Audio MIDI Setup window, you’ll see a list of audio devices on the left.
+1. After the download is complete, locate the **BackgroundMusic-x.x.x.pkg** file in your **Downloads** folder.
 
-Find and click on your **AirReps** in the list of available audio devices.
+2. Double-click the `.pkg` file to begin the installation.
 
-## **Step 3**: Change Output Channel
+3. **Follow the On-Screen Instructions:**
 
-Under the Format section (on the right side of the window), you will see a drop-down menu for the sample rate.
+   * Click **Continue** on the introductory screen.
+   * Review and agree to the license agreement.
+   * Choose the installation destination (usually, your Mac’s main hard drive).
+   * Click **Install** and enter your administrator password when prompted.
 
-By default, it may be set to 32kHz or higher.
+4. **Finish the Installation:**
+   After the installation is complete, exit the installer and delete it from your Downloads folder.
 
-Change the output channel from 32kHz to **16kHz**. This reduces the audio quality slightly but allows you to control the volume.
+### **Step 3: Launch Background Music**
 
-## **Step 4**: Test the Volume Control
+1. **Open Background Music:**
+   Once installed, you can find **Background Music** by searching for it in Spotlight or in your **Applications** folder.
 
-Close the Audio MIDI Setup window.
+### **Step 4: Adjust the Volume**
 
-Try adjusting the volume using the volume keys on your Mac or through the Sound settings in the menu bar.
+**Adjust App-Specific Volumes:**
 
-You should now be able to control the volume properly, although audio quality might be a bit reduced.
+Click the Background Music icon in the menu bar.
+
+You will see a list of all running applications with audio output. Adjust the volume slider for the app that's playing audio, such as your music or video player.
+
