@@ -2,15 +2,10 @@
 description: Encountering issues with your AirPods Pro replicas? Check out this troubleshooting guide to find solutions for common issues such as opening AirPods, macOS compatibility, audio/video pausing, connectivity problems, sound quality, and more.
 ---
 
-# Troubleshooting
-
-## **Common Issues**
+# **Common Issues**
 
 #### **Opening AirPods Pro Replicas**
 You may receive miss-marketed AirPod Pro clones when ordering on sites like AliExpress from unverified sellers. You can use the app for the chipset to verify that you received the correct chipset, it is often not enough proof to show the app. You may need to open the AirPods and take a picture of the chipset as proof. Here's how you can do this, without damaging the AirPods: [https://airreps.link/approtrdwn](https://airreps.link/approtrdwn)
-
-#### **macOS Incompatibility with AirPods Pro Replicas**
-One common issue with some AirPods Pro replicas is their compatibility with macOS. This issue is caused by the replicas' inability to fully support iCloud, resulting in iCloud verification failure. The issue can be fixed by first forgetting the AirPods on any iCloud device (iOS, iPadOS, WatchOS, etc) you have connected to before. This issue should not appear on newer AirPods Pro clones.
 
 #### **Audio/Video Pausing Frequently with AirPods Pro Replicas**
 Frequent pausing of audio or video while using AirPods Pro replicas is a common issue, often caused by the in-ear detection sensors. This issue can also occur if the AirPods do not fit securely in your ear. To fix this issue, you can either choose other ear tips (on pros) or turn off in-ear detection through settings.
