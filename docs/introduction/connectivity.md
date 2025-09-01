@@ -12,7 +12,7 @@ The iOS popup appears almost instantly on some AirPods replicas, although the sp
 
 ## macOS Connectivity
 
-  Only a few newer clones work flawlessly with macOS, whereas this is not always case with other manufacturers. We recommend choosing the "HuiLian" model, if you plan on using your replicas with your MacBook or iMac. This is due to other clones not having iCloud switching for seamless iOS integration, or/and have their volume stuck to 100% on MacOS (TB/HR/HR+).
+  Only a few newer clones work flawlessly with macOS, whereas this is not always case with other manufacturers. We recommend choosing the "HuiLian" model, if you plan on using your replicas with your MacBook or iMac. This is due to other clones not having iCloud switching for seamless iOS integration, or/and have their volume stuck to 100% on MacOS (TB/HR/HR+). However, we’ve partially addressed the volume issue by using the **BackgroundMusic** app to adjust volume manually. The only caveat is that on TB/HR/HR+ models, the volume gestures on the AirPods will not work due to the limitations of said app. For more details, visit [Our troubleshooting guide](https://airpodsreplicas.com/troubleshooting/MacOS-volume-adjustment-bug).
 
 ## Range
 
