@@ -26,7 +26,7 @@ jobs:
           echo "Ordering into ultimateguide.md"
           cat ./docs/links/info.md ./docs/links/airpods-3.md ./docs/links/airpods-2.md ./docs/links/airpods-4.md ./docs/links/airpods-pro.md ./docs/links/airpods-pro-2.md ./docs/links/airpods-max.md >> ultimateguide.md
           echo "Links into ultimateguide.md"
-          cat ./docs/useful-apps.md ./docs/troubleshooting.md ./docs/contributing.md >> ultimateguide.md
+          cat ./docs/useful-apps.md ./docs/troubleshooting/AirReps-Incompatibility-with-iCloud.md ./docs/troubleshooting/MacOS-volume-adjustment-bug.md ./docs/troubleshooting/other-common-bugs.md ./docs/contributing.md >> ultimateguide.md
           echo "Extra into ultimateguide.md"
           echo "Combined Markdown files into ultimateguide.md"
 
