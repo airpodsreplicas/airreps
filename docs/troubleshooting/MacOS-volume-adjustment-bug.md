@@ -9,7 +9,7 @@ To regain control, you can use **Background Music**, a **free** and **open-sourc
 
 **PS: This bug isn't present on clones that use the Huilian chipset.**
 
-### **Step 1: Download Background Music**
+## **Step 1: Download Background Music**
 
 1. **Visit the GitHub Release Page:**
    Go to the official release page for *Background Music* on GitHub:  
@@ -18,7 +18,7 @@ To regain control, you can use **Background Music**, a **free** and **open-sourc
 2. **Download the `.pkg` Installer:**
    On the release page, find the **BackgroundMusic-x.x.x.pkg** file. Click the link to download the `.pkg` file to your Mac.
 
-### **Step 2: Install Background Music**
+## **Step 2: Install Background Music**
 
 1. After the download is complete, locate the **BackgroundMusic-x.x.x.pkg** file in your **Downloads** folder.
 
@@ -34,12 +34,12 @@ To regain control, you can use **Background Music**, a **free** and **open-sourc
 4. **Finish the Installation:**
    After the installation is complete, exit the installer and delete it from your Downloads folder.
 
-### **Step 3: Launch Background Music**
+## **Step 3: Launch Background Music**
 
 1. **Open Background Music:**
    Once installed, you can find **Background Music** by searching for it in Spotlight or in your **Applications** folder.
 
-### **Step 4: Adjust the Volume**
+## **Step 4: Adjust the Volume**
 
 **Adjust App-Specific Volumes:**
 
