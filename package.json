@@ -16,7 +16,7 @@
     "audit": "npx eslint ."
   },
   "dependencies": {
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.4"
   },
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.9.4"
 }
