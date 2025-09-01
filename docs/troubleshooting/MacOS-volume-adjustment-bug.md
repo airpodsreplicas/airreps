@@ -1,5 +1,5 @@
 ---
-description: Airreps Incompatibility with MacOS Volume Adjustment
+description: AirReps Incompatibility with MacOS Volume Adjustment
 ---
 
 # **MacOS Volume Adjustment Bug**
