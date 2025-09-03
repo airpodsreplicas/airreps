@@ -11,7 +11,9 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 ## **Tigerbuilder**
 - [FlyCC (ANDROID)](https://airreps.link/flycc)
 - [FlyCC (IOS)](https://airreps.link/iflycc)
-- [CloudCC* (ANDROID)](https://airreps.link/cloudcc)
+- [CloudCC (ANDROID)](https://airreps.link/cloudcc) 
+:::warning **CloudCC** has been deprecated since TigerBuilder integrated OTA functionality into FlyCC. It should only be used as a workaround if you encounter the storage permission issue.
+:::
 
 ## **BES**
 - [Behool (ANDROID)](https://airreps.link/behoolcleaned)
@@ -22,7 +24,6 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 - [G&Link (iOS)](https://airreps.link/gnlink)
 
 ## **Huilian**
-- [HuiAirPodsControl (ANDROID)](https://airreps.link/airpodscontrol)
 - [StarFun (ANDROID)](https://airreps.link/starfun)
 - [StarFun (iOS)](https://airreps.link/istarfun)
 
