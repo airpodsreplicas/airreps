@@ -6,7 +6,7 @@ description: Learn about the process of ordering AirPods replicas from various s
 
 ## How to Buy
 
-We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as Credit Card, Wise, PayPal, and Bitcoin.
+We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as  [Credit Card](#credit-card-note)*, Wise, PayPal, and Bitcoin.
 
 AirReps recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
@@ -58,7 +58,15 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ::: details What payment methods do trusted sellers accept?
 Most trusted sellers now accept multiple payment methods including Credit Cards, Wise, PayPal, AliPay, and Bitcoin. Different sellers may have slight variations in their accepted methods, but the majority offer flexible payment options to accommodate various preferences. Check the specific seller's website for their current payment options.
 :::
+<span id="credit-card-note"></span>
+::: details Why am I redirected to a crypto website when paying via Credit Card?
+Trusted sellers use a secure crypto payment gateaway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
+
+**Note: you may be prompted to complete a routine ID check (KYC) to comply with local regulations.**
+:::
 
 ::: details Why are there so few AliExpress/Alibaba links?
 There used to be many more links to AliExpress and Alibaba stores, but Apple started aggressively cracking down on these, making it nearly impossible to maintain them. As a result, the sellers opened their own websites, which are more secure and robust.
 :::
+
+
