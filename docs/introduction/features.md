@@ -16,12 +16,14 @@ If you use Android, you can make all your touch settings changes on an iPhone at
 
 ## In-Ear Sensors
 
-The in-ear sensors on the replicas pause the music almost instantly (around 1 second delay*) when removed from the ears. The "beep" sound on inserting the AirPods is the correct Apple sound, though its quality may be lower on some models or batches.
+The in-ear sensors on the replicas pause the music almost instantly (around 1 second delay*) when removed from the ears. The "beep" sound when inserting the AirPods is a close imitation rather than the exact Apple sound. Only HR and Huilian models feature near identical sound effects, while other models or batches use a good quality copy that doesn't differ much from the original, though its quality may be lower on some models or batches.
 
 ## Tap and Force Touch Controls
 
 The tap controls or Force Touch controls on the replicas are functional but might take some getting used to. For 2nd generation replicas, a firm tap is required, not a soft touch like on original AirPods. For Pro models, only a light push or squeeze is needed, not a touch.
-
+:::info **Fun Fact**
+5.3TB are the first and only AirReps to feature a force sensor configuration that closely matches the originals, providing the same experience at a much lower cost.
+:::
 ## Microphone Quality
 
 The microphone quality on the replicas is usable and is very comparable to that on the original AirPods. They are good enough for calls, but like the Apple AirPods is not anything impressive due to their small form factor.
