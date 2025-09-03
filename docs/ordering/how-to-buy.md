@@ -60,7 +60,7 @@ Most trusted sellers now accept multiple payment methods including Credit Cards,
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
-We use a secure crypto payment gateaway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
+Trusted sellers use a secure crypto payment gateaway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
 
 **Note: you may be prompted to complete a routine ID check (KYC) to comply with local regulations.**
 :::
