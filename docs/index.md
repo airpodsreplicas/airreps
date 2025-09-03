@@ -16,7 +16,7 @@ hero:
 features:
   - icon: 🤝
     title: Team of helpers
-    details: We have a team of dedicated helpers, that can answer almost any question you might have! 
+    details: We have a team of dedicated helpers that can answer almost any question you might have! 
   - icon: ⏰
     title: Up to date
     details: All our resources, guides, and apps are always kept up to date, by our big dedicated staff team!
