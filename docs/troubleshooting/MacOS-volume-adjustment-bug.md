@@ -47,3 +47,6 @@ Click the Background Music icon in the menu bar.
 
 You will see a list of all running applications with audio output. Adjust the volume slider for the app that's playing audio, such as your music or video player.
 
+:::tip
+You can add **BackgroundMusic** to run at startup by going to **System Settings > General > Login Items**, clicking the **+** icon, selecting **Applications**, and then double-clicking **BackgroundMusic**.
+:::
