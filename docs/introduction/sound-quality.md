@@ -19,12 +19,12 @@ Since AirPods Pro seal into the ear, they may sound significantly better than Ai
 Sound quality can vary depending on the version, chip, and batch. Many models emphasize bass without being overpowering. Mids are pronounced, but highs could be improved. Note that the EQ can vary by seller, and you can adjust it using your music player's settings.
 
 ::: tip
-The EQ can vary by seller. Adjust it using your music player's settings for optimal sound quality.
+The EQ can vary by seller. Use **FlyCC**, **BullSuper**, or **Starfun** to adjust it for **TigerBuilder**, **HR**, and **Huilian** devices respectively.
 :::
 
 ## Custom EQ Settings
 
-If you're not satisfied with the sound of your AirPods replicas, join our Discord server. Many community members post their own EQ settings, which might yield a sound you prefer.
+If you're not satisfied with the sound of your AirPods replicas, join our [Discord server](https://discord.gg/airreps). Many community members share their own EQ settings, which may help you achieve a sound you prefer. You’ll find most of these presets pinned in the **#help-and-advice** channel.
 
 ## Delay
 

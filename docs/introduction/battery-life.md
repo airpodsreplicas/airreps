@@ -26,9 +26,11 @@ The battery levels on iOS devices may not always be accurate, though this issue 
 Battery level readings on iOS devices may not always be accurate. Android users can use specific apps for more precise monitoring.
 :::
 
-## Wireless Charging
+## Wireless/Fast Charging
 
-AirPods replicas support wireless charging, but use caution with this feature. Avoid leaving them on a wireless charger for longer than 2-3 hours, and monitor the temperature during charging. Remove the case if it becomes warm. Fast charging, whether wired or wireless, should be used with caution as it may cause overheating in some models, particularly older versions.
+AirReps support both wireless and wired fast charging, but older models can overheat or even get damaged if left on the charger for too long, especially when using wireless charging. To stay safe, avoid charging for more than 2–3 hours at a time, and unplug them if the case starts to feel warm.
+
+Newer models like **5.3TB**, **5.3HR+**, and the upcoming **5.4Huilian** handle fast charging much better and are safe to use with both wired and wireless chargers.
 
 ::: danger
 Extended wireless charging or fast charging may cause overheating in some models, particularly older versions. Always monitor temperature during wireless charging.
