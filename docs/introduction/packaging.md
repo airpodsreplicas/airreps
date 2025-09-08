@@ -40,14 +40,6 @@ Always ask for photos if the quality of the box is important to you.
 
 The box or packaging might arrive slightly dented or creased due to handling by international and local couriers, not the seller.
 
-::: warning
-Packaging may arrive slightly dented or creased due to courier handling.
-:::
-
 ## Charging Cable
 
 The included charging cable may not support data transfer like many other USB cables. Sellers often use cables with dummy pins instead of real working pins to cut costs.
-
-::: warning
-The included charging cable may not support data transfer as sellers often use cables with dummy pins to save costs.
-:::

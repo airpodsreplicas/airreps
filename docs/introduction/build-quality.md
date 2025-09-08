@@ -13,7 +13,7 @@ The case and pods generally have a good weight to them. Most models match the ac
 ## Hinge
 
 Some models use a plastic hinge with metallic paint, while others employ a real metal hinge. Some plastic hinges may feel cheap, squeak, move, and lack solidity. While usable, they are noticeable compared to the original AirPods. Metal hinges feel significantly superior.
-It is important to know that all replicas sold in AirReps have metal hinges. Some units (such as HuiLian and HR<b>+</b> use a near perfect copy of the Apple hinge). As for now, HR+ does have some alignements issues, so the price difference might not be justified.
+It is important to know that all replicas sold in AirReps have metal hinges. Some units (such as Huilian and HR<b>+</b>) use a near‑perfect copy of the Apple hinge. As of now, HR+ does have some alignment issues, so the price difference might not be justified.
 
 ## Text
 
