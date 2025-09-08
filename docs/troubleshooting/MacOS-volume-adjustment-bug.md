@@ -1,11 +1,11 @@
 ---
-description: AirReps Incompatibility with MacOS Volume Adjustment
+description: AirReps incompatibility with macOS volume adjustment
 ---
 
-# **MacOS Volume Adjustment Bug**
+# **macOS Volume Adjustment Bug**
 
-If you're using your AirReps on MacOS, you may notice that volume control doesn’t work through the system’s native controls. This happens because most replica AirPods don’t fully integrate with MacOS.
-To regain control, you can use **Background Music**, a **free** and **open-source** app that lets you adjust volume for individual apps. The only downside is that the volume gestures on the earbuds won’t work, as the native MacOS volume control functionality is unavailable.
+If you're using your AirReps on macOS, you may notice that volume control doesn’t work through the system’s native controls. This happens because most replica AirPods don’t fully integrate with macOS.
+To regain control, you can use **Background Music**, a **free** and **open‑source** app that lets you adjust volume for individual apps. The only downside is that the volume gestures on the earbuds won’t work, as the native macOS volume control functionality is unavailable.
 
 **PS: This bug isn't present on clones that use the Huilian chipset.**
 
