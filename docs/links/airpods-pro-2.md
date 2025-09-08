@@ -14,6 +14,16 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
     <th>Jenny</th>
   </tr>
   <tr>
+    <td><strong>V5.4</strong> (Huilian)</td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <a href="https://airreps.link/jprov54hl">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyw">Weidian</a>
+    </td>
+  </tr>
+  <tr>
     <td><strong>V5.3</strong> (HR)</td>
     <td>
       <a href="https://airreps.link/eprov53hr2">Website</a>
