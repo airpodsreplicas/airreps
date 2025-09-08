@@ -4,9 +4,13 @@ description: Learn about the process of ordering AirPods replicas from various s
 
 # Ordering
 
+::: info
+Looking to buy fake AirPods? This guide explains safe sourcing and quality checks for replicas.
+:::
+
 ## How to Buy
 
-We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as  [Credit Card](#credit-card-note)*, Wise, PayPal, and Bitcoin.
+We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as  [Credit Card](#credit-card-note), Wise, PayPal, and Bitcoin.
 
 AirReps recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
