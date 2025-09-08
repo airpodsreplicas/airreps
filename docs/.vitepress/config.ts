@@ -82,6 +82,7 @@ export default defineConfig({
         items: [
           { text: 'W2C', link: '/dictionary/w2c' },
           { text: 'Reps/Clones: Replicas', link: '/dictionary/reps-clones' },
+          { text: 'Fake AirPods', link: '/dictionary/fake-airpods' },
           { text: 'Knockoffs', link: '/dictionary/knockoffs' },
           { text: 'GP: Guinea Pig', link: '/dictionary/guinea-pig' },
           { text: 'QC: Quality Control', link: '/dictionary/quality-control' },
