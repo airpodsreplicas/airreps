@@ -17,6 +17,7 @@ The following list contains links to verified sellers only. If you know of any s
 - [AirPods 4](airpods-4.md)
 - [AirPods Pro](airpods-pro.md)
 - [AirPods Pro 2](airpods-pro-2.md)
+- [AirPods Pro 3](airpods-pro-3.md)
 - [AirPods Max](airpods-max.md)
 
 ## Trusted sellers (official websites)
