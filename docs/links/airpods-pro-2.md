@@ -15,7 +15,11 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
   </tr>
   <tr>
     <td><strong>V5.4</strong> (Huilian)</td>
-    <td style="text-align: center;">-</td>
+    <td>
+      <a href="https://earhive.com/product/pro-2-v5-4-huilian/">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
+    </td>
     <td style="text-align: center;">-</td>
     <td>
       <a href="https://airreps.link/jprov54hl">Website</a>
