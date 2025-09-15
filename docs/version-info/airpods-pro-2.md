@@ -2,6 +2,9 @@
 description: Explore the different versions of AirPods Pro 2 replicas, including their chip, features, and missing features. Click on the version hyperlinks to find reviews for each model.
 ---
 
+> [!IMPORTANT]
+> All AirPods Pro 2 replicas are missing the following features: Find My network supprot, native firmare update, Hearing test duntion, Hearing Aid function, Conversation Boost.
+
 # AirPods Pro 2
 
 Click the hyper-link on the 'Version' column to find reviews for the given model.
