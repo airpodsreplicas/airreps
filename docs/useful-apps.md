@@ -16,7 +16,6 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 :::
 
 ## **BES**
-- [Behool (ANDROID)](https://airreps.link/behoolcleaned)
 - [HBluetooth (iOS)](https://airreps.link/hbluetooth)
 
 ## **HR**
