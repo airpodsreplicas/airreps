@@ -39,9 +39,12 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Wise** | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Bank Transfer** | ✅ | ❌ | ❌ |
+| **Weidian (through agent)** | ✅ | ✅ | ✅ |
 
 ::: tip
 When paying with Wise or Bank Transfer, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
+
+For Weidian orders, you'll need to use an agent. We recommend [OOPBuy](https://airreps.link/oopbuy), which accepts Credit Cards and other payment methods.
 :::
 
 ## FAQ
@@ -71,5 +74,5 @@ If your card is not working, you should contact the seller and ask if they will 
 :::
 
 ::: tip
-Some websites or Alibaba links providing credit card payments may have discrete website branding, look after the version number you want. You can safely ignore the images of generic products. This is done in order to comply with the copyright policies some credit card payment gateways may have. 
+Some seller websites providing credit card payments may have discrete website branding. Look for the version number you want - you can safely ignore generic product images. This is done to comply with copyright policies that some credit card payment gateways may have. 
 :::
