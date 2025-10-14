@@ -129,7 +129,7 @@ export default defineConfig({
       },
       {
         text: 'Troubleshooting',
-        collapsed: false,
+        collapsed: true,
         items:  [
           {text: 'AirReps Incompatibility with iCloud', link: '/troubleshooting/AirReps-Incompatibility-with-iCloud'},
           {text: 'MacOS Volume adjustment bug', link: '/troubleshooting/MacOS-volume-adjustment-bug'},

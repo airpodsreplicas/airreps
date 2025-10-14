@@ -10,14 +10,14 @@ Looking to buy fake AirPods? This guide explains safe sourcing and quality check
 
 ## How to Buy
 
-We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as  [Credit Card](#credit-card-note), Wise, PayPal, and Bitcoin.
+We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as [Credit Card](#credit-card-note), AliPay, Revolut, Wise, Bitcoin, and Bank Transfer (Earhive only).
 
 AirReps recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
 Ordering is simple: choose the product you want and check out.
 
 ::: tip
-When paying with Wise and sometimes PayPal, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
+When paying with Wise or Bank Transfer, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
 :::
 
 ## Paying with AliPay
@@ -60,7 +60,7 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Most trusted sellers now accept multiple payment methods including Credit Cards, Wise, PayPal, AliPay, and Bitcoin. Different sellers may have slight variations in their accepted methods, but the majority offer flexible payment options to accommodate various preferences. Check the specific seller's website for their current payment options.
+Most trusted sellers now accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, and Bitcoin. Additionally, Earhive accepts Bank Transfer. PayPal is currently not supported by any seller. Different sellers may have slight variations in their accepted methods. For a detailed breakdown, check the [payment methods table](https://airpodsreplicas.com/links/info#payment-methods) or the specific seller's website.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?

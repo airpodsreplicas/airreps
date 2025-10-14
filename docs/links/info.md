@@ -26,6 +26,24 @@ The following list contains links to verified sellers only. If you know of any s
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
+## Payment Methods
+
+All trusted sellers accept multiple payment methods for your convenience:
+
+| Payment Method | Earhive | HiCity | Jenny |
+|----------------|---------|--------|-------|
+| **Credit / Debit Card** | ✅ | ✅ | ✅ |
+| **AliPay** | ✅ | ❌ | ✅ |
+| **PayPal** | ❌ | ❌ | ❌ |
+| **Revolut** | ✅ | ✅ | ✅ |
+| **Wise** | ✅ | ✅ | ✅ |
+| **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
+| **Bank Transfer** | ✅ | ❌ | ❌ |
+
+::: tip
+When paying with Wise or Bank Transfer, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
+:::
+
 ## FAQ
 
 ::: details Will I get a good quality unit?

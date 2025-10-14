@@ -77,9 +77,6 @@ description: Explore the different versions of AirPods Max replicas and their as
 > [!NOTE]
 > The AirPods Max replicas are available in a range of colors. For detailed options, please refer to the respective sellers' websites.
 
-> [!IMPORTANT]
-> Alibaba orders are not shipped with Apple boxes, use one of the websites or Weidian links instead if you wish to receive your AirPods with a [branded box.](https://airpodsreplicas.com/introduction/packaging#apple-logo-box)
-
 ::: tip
 Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with agent platforms. For a reliable agent, we recommend [OOPBuy](https://airreps.link/oopbuy).
 :::

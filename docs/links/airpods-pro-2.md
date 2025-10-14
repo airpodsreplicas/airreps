@@ -1,8 +1,8 @@
 ---
-description: Explore different versions of AirPods Pro Gen 2 replicas from various sellers. Find official stores and direct links to purchase AirPods Pro Gen 2 replicas.
+description: Explore different versions of AirPods Pro 2 replicas from various sellers. Find official stores and direct links to purchase AirPods Pro 2 replicas.
 ---
 
-# AirPods Pro Gen 2
+# AirPods Pro 2
 
 #### Versions and Sellers
 
@@ -148,9 +148,6 @@ description: Explore different versions of AirPods Pro Gen 2 replicas from vario
 </table>
 
 
-
-> [!IMPORTANT]
-> Alibaba orders are not shipped with Apple boxes, use one of the websites or Weidian links instead if you wish to receive your AirPods with a [branded box.](https://airpodsreplicas.com/introduction/packaging#apple-logo-box)
 
 ::: tip
 Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with agent platforms. For a reliable agent, we recommend [OOPBuy](https://airreps.link/oopbuy).
