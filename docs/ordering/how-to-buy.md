@@ -10,14 +10,14 @@ Looking to buy fake AirPods? This guide explains safe sourcing and quality check
 
 ## How to Buy
 
-We recommend always sticking to [trusted sellers](https://airpodsreplicas.com/links/info); most of them have their own websites accepting various payment methods such as [Credit Card](#credit-card-note), AliPay, Revolut, Wise, Bitcoin, and Bank Transfer. Additionally, all sellers have Weidian storefronts accessible through agents like [OOPBuy](https://airreps.link/oopbuy).
+We recommend always purchasing from [trusted sellers](https://airpodsreplicas.com/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), AliPay, Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [OOPBuy](https://airreps.link/oopbuy).
 
 AirReps recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
 Ordering is simple: choose the product you want and check out.
 
 ::: tip
-When paying with Wise or Bank Transfer, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
+Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours before your order is processed.
 :::
 
 ## Paying with AliPay
@@ -60,13 +60,13 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Most trusted sellers now accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents (like [OOPBuy](https://airreps.link/oopbuy)). PayPal is currently not supported by any seller. Different sellers may have slight variations in their accepted methods. For a detailed breakdown, check the [payment methods table](https://airpodsreplicas.com/links/info#payment-methods) or the specific seller's website.
+Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers also have Weidian storefronts accessible through agents like [OOPBuy](https://airreps.link/oopbuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](https://airpodsreplicas.com/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
 Trusted sellers use a secure crypto payment gateaway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
 
-**Note: you may be prompted to complete a routine ID check (KYC) to comply with local regulations.**
+**Note: You may be prompted to complete a routine ID check (KYC) to comply with local regulations.**
 :::
 
 ::: details Why are there so few AliExpress/Alibaba links?

@@ -42,9 +42,9 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
 
 ::: tip
-When paying with Wise or Bank Transfer, a manual review from the seller is needed; therefore, it can take up to 24 hours before your order goes through.
+Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours to process.
 
-For Weidian orders, you'll need to use an agent. We recommend [OOPBuy](https://airreps.link/oopbuy), which accepts Credit Cards and other payment methods.
+For Weidian orders, you'll need to use an agent. We recommend [OOPBuy](https://airreps.link/oopbuy), which accepts Credit Cards and multiple payment methods.
 :::
 
 ## FAQ
