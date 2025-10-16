@@ -14,8 +14,17 @@ description: Explore the different versions of AirPods Max replicas and their as
     <th>Jenny</th>
   </tr>
   <tr>
+    <td><strong>V3 (Metal)</strong></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+  </tr>
+  <tr>
     <td><strong>V3P</strong></td>
     <td>
+      <a href="https://airreps.link/emaxv3p">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://airreps.link/hcmaxv3p">Website</a>
@@ -29,18 +38,11 @@ description: Explore the different versions of AirPods Max replicas and their as
     </td>
   </tr>
   <tr>
-    <td><strong>V3 (Metal)</strong></td>
+    <td><strong>V2.5</strong></td>
     <td>
-    </td>
-    <td>
-      <div style="text-align: center;">-</div>
-    </td>
-    <td>
-    </td>
-  </tr>
-    <tr>
-  <td><strong>V2.5</strong></td>
-    <td>
+      <a href="https://airreps.link/emaxv25">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
       <a href="https://airreps.link/hcmaxv25">Website</a>
@@ -52,7 +54,7 @@ description: Explore the different versions of AirPods Max replicas and their as
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
-   </tr>
+  </tr>
   <tr>
     <td><strong>V2 Metal</strong></td>
     <td>

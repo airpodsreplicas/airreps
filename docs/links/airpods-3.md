@@ -21,7 +21,7 @@ description: Discover the different versions of AirPods 3 and their associated s
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/f">Website</a>
+      <a href="https://airreps.link/hcgen3v1e">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
