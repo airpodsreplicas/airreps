@@ -2,13 +2,14 @@
   "name": "airreps",
   "version": "1.0.0",
   "description": "The AirReps Repository containing the Ultimate Guide and other resources!",
-  "repository": "https://github.com/AirPodsReplicas/AirReps.git",
-  "author": "AirReps",
   "license": "GPL-3.0-or-later",
-  "type": "module",
-  "engines": {
-    "node": ">=18.0.0"
+  "author": "AirReps",
+  "homepage": "https://github.com/AirPodsReplicas/AirReps#readme",
+  "repository": "https://github.com/AirPodsReplicas/AirReps.git",
+  "bugs": {
+    "url": "https://github.com/AirPodsReplicas/AirReps/issues"
   },
+  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -16,7 +17,6 @@
     "audit": "npx eslint ."
   },
   "dependencies": {
-    "vitepress": "^1.6.4"
-  },
-  "packageManager": "yarn@4.9.4"
+    "vitepress": "^2.0.0-alpha.12"
+  }
 }
