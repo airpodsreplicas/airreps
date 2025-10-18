@@ -29,24 +29,23 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ secrets.NPM_CONFIG_NODE_VERSION }}
-      
-      - name: Enable Corepack
-        run: corepack enable
 
-      - name: Prepare Yarn with Corepack
-        run: corepack prepare yarn@${{ secrets.YARN_VERSION }} --activate
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
 
-      - name: Check Yarn version
-        run: yarn --version
+      - name: Check Bun version
+        run: bun --version
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
 
       - name: Install dependencies
-        run: yarn install
+        run: bun install
 
       - name: Build VitePress site
-        run: yarn run docs:build
+        run: bun run docs:build
 
       - name: List build directory contents
         run: ls -la docs/.vitepress/dist
@@ -68,7 +67,9 @@ jobs:
         uses: actions/deploy-pages@v4
 
 env:
-  API_KEY: ${{ secrets.API_KEY }}
-  APP_ID: ${{ secrets.APP_ID }}
   NPM_CONFIG_NODE_VERSION: ${{ secrets.NPM_CONFIG_NODE_VERSION }}
-  YARN_VERSION: ${{ secrets.YARN_VERSION }}
+  APP_ID: ${{ secrets.APP_ID }}
+  API_KEY: ${{ secrets.API_KEY }}
+  INDEX_NAME: ${{ secrets.INDEX_NAME }}
+  ASSISTANT_ID: ${{ secrets.ASSISTANT_ID }}
+  ASSISTANT_INDEX_NAME: ${{ secrets.ASSISTANT_INDEX_NAME }}
