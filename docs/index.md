@@ -2,7 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: 'Home'
+title: 'AirReps'
 
 hero:
   name: "AirReps"
