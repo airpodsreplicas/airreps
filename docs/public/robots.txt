@@ -1,2 +1,3 @@
 User-agent: *
 Sitemap: https://airpodsreplicas.com/sitemap.xml
+# Algolia-Crawler-Verif: D3F2A44E9868FC75
