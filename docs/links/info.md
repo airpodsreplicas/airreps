@@ -34,7 +34,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 |----------------|---------|--------|-------|
 | **Credit / Debit Card** | ✅ | ✅ | ✅ |
 | **AliPay** | ✅ | ❌ | ✅ |
-| **PayPal** | ❌ | ❌ | ❌ |
+| **PayPal** | ✅ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | **Wise** | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |

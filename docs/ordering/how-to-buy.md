@@ -60,7 +60,7 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers also have Weidian storefronts accessible through agents like [OOPBuy](https://airreps.link/oopbuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](https://airpodsreplicas.com/links/info#payment-methods) for a detailed breakdown.
+Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. Earhive also accepts PayPal. All sellers have Weidian storefronts accessible through agents like [OOPBuy](https://airreps.link/oopbuy). Payment options may vary by seller—see the [payment methods table](https://airpodsreplicas.com/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
