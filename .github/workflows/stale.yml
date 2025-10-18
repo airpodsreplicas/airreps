@@ -1,21 +1,30 @@
-name: Stale Issues
-
-on:
+name: Close Stale Issues and PRs
+'on':
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: 0 0 * * *
 jobs:
-  stale-issues:
+  stale:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check for stale issues
-        uses: actions/stale@v4
+      - uses: actions/stale@v9.0.0
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          stale-issue-message: 'This issue is being automatically closed due to inactivity. Feel free to reopen if needed.'
-          stale-pr-message: 'This pull request is being automatically closed due to inactivity. Feel free to reopen if needed.'
           days-before-stale: 30
-          days-before-close: 7
-          exempt-issue-labels: 'in-progress, documentation'
-          exempt-branches: 'main, development'
+          days-before-close: 5
+          stale-issue-message: >-
+            This issue has been automatically flagged as stale due to a lack of
+            recent updates. It will be closed if no further activity is
+            observed. We appreciate your contributions.
+          stale-pr-message: >-
+            This pull request has been automatically flagged as stale due to a
+            lack of recent updates. It will be closed if no further activity is
+            observed. We appreciate your contributions.
+          close-issue-message: >-
+            This issue has been closed due to inactivity. Please feel free to
+            reopen if further action is required or additional information is
+            provided.
+          close-pr-message: >-
+            This pull request has been closed due to inactivity. Please feel
+            free to reopen if further action is required or additional
+            information is provided.
+          exempt-issue-labels: in-progress
+          exempt-pr-labels: in-progress
