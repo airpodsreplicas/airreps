@@ -1,4 +1,3 @@
-<img width="1464" height="216" alt="image" src="https://github.com/user-attachments/assets/9cad0486-5037-48a9-acab-3ae8b8cb547c" />---
 description: Explore the different versions of AirPods Max replicas, including their chip, features, and missing features. Click on the version hyperlinks to find reviews for each model.
 ---
 
