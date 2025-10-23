@@ -1,3 +1,4 @@
+---
 description: Explore the different versions of AirPods Max replicas, including their chip, features, and missing features. Click on the version hyperlinks to find reviews for each model.
 ---
 
