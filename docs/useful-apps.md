@@ -12,7 +12,7 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 - [FlyCC (ANDROID)](https://airreps.link/flycc)
 - [FlyCC (IOS)](https://airreps.link/iflycc)
 - [CloudCC (ANDROID)](https://airreps.link/cloudcc)
-- [Airoha156x](https://airreps.link/airoha156x)  
+- [Airoha156x (ANDROID)](https://airreps.link/airoha156x)  
 :::warning **CloudCC** has been deprecated since TigerBuilder integrated OTA functionality into FlyCC. It should only be used as a workaround if you encounter the storage permission issue.
 :::
 :::tip Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE)
