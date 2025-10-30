@@ -38,7 +38,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Revolut** | ✅ | ✅ | ✅ |
 | **Wise** | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
-| **Bank Transfer** | ✅ | ❌ | ✅ |
+| **Bank Transfer** | ✅ | ✅ | ✅ |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
 
 ::: tip
