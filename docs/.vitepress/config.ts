@@ -133,7 +133,8 @@ export default defineConfig({
         items:  [
           {text: 'AirReps Incompatibility with iCloud', link: '/troubleshooting/AirReps-Incompatibility-with-iCloud'},
           {text: 'Other Common Bugs', link: '/troubleshooting/other-common-bugs'},
-        ]   
+          {text: 'Volume Slider is Ineffective on MacOS', link: '/troubleshooting/macOS-volume-slider-fixup'},
+        ] 
       },
       {
         items: [
