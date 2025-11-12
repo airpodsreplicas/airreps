@@ -1,10 +1,14 @@
 ---
-description: A workaround for the macOS's quirk of unable to control volume output using system's built in volume slider bar.
+description: A workaround for the Intel version of macOS's quirk of unable to control volume output using system's built in volume slider bar.
 ---
 
 # The Problem: Volume Slider Bar won't work.
 
-This is one of the most well-known problem on macOS, where the volume slider bar that control audio volume just simply won't work, but only acts as a switch (happened to most replicas out there, though some were unaffected). While Apple themselves would never look into the problem, we can circumvent around this with an [open sourced tool](https://github.com/briankendall/proxy-audio-device).
+This is one of the most well-known problem on the **Intel** version of macOS, where the volume slider bar that control audio volume just simply won't work, but only acts as a switch (happened to most replicas out there, though some were unaffected). While Apple themselves would never look into the problem, we can circumvent around this with an [open sourced tool](https://github.com/briankendall/proxy-audio-device).
+
+::: warn
+This guide is meant for those that have Intel-based Macs (i3, i5, i7; not M series chip). If your Apple Silicon (M series chip) Mac won't play audio with your current AirReps, check out the [Common Bugs](https://airpodsreplicas.com/troubleshooting/other-common-bugs) section.
+:::
 
 ## **Prerequisite**
 
@@ -51,13 +55,16 @@ Don't be tempted to click off this tutorial, most people like you can set them u
 
 - `Proxy device name`: Name of the output, you can leave them as is.
 - `Proxied device`: Audio source (select your AirRep's name)
-- `Buffer size`: Permitted time to process audio (oversimplified) (**leave them as is**, as 512 is sufficient for the majorities)
+- `Buffer size`: Permitted time for macOS to process audio (oversimplified) (please **leave them as is**, as 512 is sufficient for the majorities)
 - `Proxy device is active`: How the software working in the background. This is where it gets tricky, but it boils down to these option:
-    + If those don't mind the audio cut off (short duration sounds), pick `When proxied device is active`
+    + If you don't mind the audio cut off (short duration sounds), pick `When proxied device is active`
     + For most people, pick `When user is not idle`
     + For people who want consistent audio, or gaming, pick `Always`.
 
 3. Finally, navigate to Control Center > Sound > the ">" icon, and pick the newly created audio device (`Proxy Audio Device` by default).
+
+![pick audio device](/volume_fix/change-audio-device.gif)
+
 
 ## **Side-effects**
 
