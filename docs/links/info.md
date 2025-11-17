@@ -36,7 +36,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **AliPay** | ✅ | ❌ | ✅ |
 | **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
-| **Wise** | ✅ | ✅ | ✅ |
+| [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Bank Transfer** | ✅ | ✅ | ✅ |
