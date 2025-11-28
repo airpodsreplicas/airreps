@@ -31,7 +31,7 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 
 ## **Huilian**
 
-|[![StarFun (Android)](/app_icon/starfun.png)](https://google.com) StarFun (Android)|[![StarFun (iOS)](/app_icon/starfun.png)](https://airreps.link/istarfun) StarFun (iOS)|
+|[![StarFun (Android)](/app_icon/starfun.png)](https://airreps.link/starfun) StarFun (Android)|[![StarFun (iOS)](/app_icon/starfun.png)](https://airreps.link/istarfun) StarFun (iOS)|
 |---|---|
 
 ## **V2.5/KKX**
