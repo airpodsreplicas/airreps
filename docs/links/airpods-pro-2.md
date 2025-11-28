@@ -14,7 +14,7 @@ description: Explore different versions of AirPods Pro 2 replicas from various s
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><strong>V5.4</strong> (Huilian)</td>
+    <td><span class="version-badge">V5.4 (Huilian)</span></td>
     <td>
       <a href="https://airreps.link/eprov54hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -32,7 +32,7 @@ description: Explore different versions of AirPods Pro 2 replicas from various s
     </td>
   </tr>
   <tr>
-    <td><strong>V5.3</strong> (HR)</td>
+    <td><span class="version-badge">V5.3 (HR)</span></td>
     <td>
       <a href="https://airreps.link/eprov53hr2">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -50,7 +50,7 @@ description: Explore different versions of AirPods Pro 2 replicas from various s
     </td>
   </tr>
   <tr>
-    <td><strong>V5.3</strong> (TigerBuilder)</td>
+    <td><span class="version-badge">V5.3 (TB)</span></td>
     <td>
       <a href="https://airreps.link/eprov53tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -68,7 +68,7 @@ description: Explore different versions of AirPods Pro 2 replicas from various s
     </td>
   </tr>
   <tr>
-  <td><strong>V5.3</strong> (Huilian)</td>
+  <td><span class="version-badge">V5.3 (Huilian)</span></td>
     <td>
       <a href="https://airreps.link/eprov53hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -86,7 +86,7 @@ description: Explore different versions of AirPods Pro 2 replicas from various s
     </td>
   </tr>
   <tr>
-    <td><strong>V5.2</strong> (TigerBuilder)</td>
+    <td><span class="version-badge">V5.2 (TB)</span></td>
     <td>
       <a href="https://airreps.link/eprov52tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -104,7 +104,7 @@ description: Explore different versions of AirPods Pro 2 replicas from various s
     </td>
   </tr>
   <tr>
-    <td><strong>V5.2</strong> (Huilian)</td>
+    <td><span class="version-badge">V5.2 (Huilian)</span></td>
     <td>
       <a href="https://airreps.link/eprov52hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -118,7 +118,7 @@ description: Explore different versions of AirPods Pro 2 replicas from various s
     </td>
   </tr>
   <tr>
-    <td><strong>V5.2</strong> (HR)</td>
+    <td><span class="version-badge">V5.2 (HR)</span></td>
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
@@ -128,7 +128,7 @@ description: Explore different versions of AirPods Pro 2 replicas from various s
     </td>
   </tr>
   <tr>
-    <td><strong>V4.2</strong></td>
+    <td><span class="version-badge">V4.2</span></td>
     <td>
       <a href="https://airreps.link/eprov42">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">

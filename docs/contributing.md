@@ -27,7 +27,7 @@ The main branch is a protected branch. As such, direct editing is not allowed. A
 :::
 
 8. Navigate to the `airreps` directory in your local environment.
-9. Open the project in an Integrated Development Environment (IDE) of your choice. We recommend [Visual Studio Code](https://code.visualstudio.com/), a feature-rich, free IDE.
+9. Open the project in an Integrated Development Environment (IDE) of your choice. We recommend [Visual Studio Code](https://code.visualstudio.com/), a feature-rich, free IDE. You can also use AI-powered IDEs like [Cursor](https://cursor.com/) or [Google's Antigravity](https://antigravity.google), which can make contributing much easier by helping with code suggestions and documentation.
 
 ## Setting Up the Development Environment
 

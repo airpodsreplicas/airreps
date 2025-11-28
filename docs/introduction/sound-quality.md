@@ -1,5 +1,5 @@
 ---
-description: Learn about the sound quality of AirPods replicas. Find out about the rating, variations, and custom EQ settings, as well as recommended genres, delay, and common sound issues.
+description: Learn about the sound quality of AirPods replicas. Find out about the rating, variations, and custom EQ settings, as well as recommended genres, and delay.
 ---
 
 # Sound Quality
@@ -8,10 +8,10 @@ Assessing the sound quality of AirPods replicas can help you determine their per
 
 ## Sound Quality Rating
 
-The best widely available AirPods 2, AirPods 3, AirPods 4, AirPods Pro and Pro 2 replicas score about 8-9/10 in sound quality when compared to the original AirPods.
+The best widely available AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, and AirPods Pro 3 replicas score about 8-9/10 in sound quality when compared to the original AirPods.
 
 ::: details Do AirPods Pro sound better than AirPods 4?
-Since AirPods Pro seal into the ear, they may sound significantly better than AirPods 2/3, which are shaped to let outside noise in. However, the AirPods 2/3 clones do sound closer to the original than the AirPods Pro clones at this point. It is recommended to choose the shape and fit that is preferred.
+Since AirPods Pro seal into the ear, they may sound significantly better than AirPods 2/3, which are shaped to let outside noise in. It is recommended to choose the shape and fit that is preferred.
 :::
 
 ## Sound Quality Variations
@@ -29,11 +29,3 @@ If you're not satisfied with the sound of your AirPods replicas, join our [Disco
 ## Delay
 
 The delay is around 50-150 ms depending on the version, barely noticeable. For reference, the original AirPods have a delay of between 140-200 ms.
-
-## Sound Issues
-
-In some rare cases on mostly older models some units may have one ear louder than the other; this can be fixed in settings or physically for a better effect, as described in the troubleshooting section at [https://airreps.info/lrfix](https://airreps.info/lrfix).
-
-::: warning
-Some older batches might have a faint clicking sound or uneven sound between the ears. Check the troubleshooting section for fixes.
-:::

@@ -14,7 +14,7 @@ description: Explore the different versions of AirPods Max replicas and their as
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><strong>V3 (Metal)</strong></td>
+    <td><span class="version-badge">V3 (Metal)</span></td>
     <td>
       <a href="https://airreps.link/emaxv3tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -32,7 +32,7 @@ description: Explore the different versions of AirPods Max replicas and their as
     </td>
   </tr>
   <tr>
-    <td><strong>V3P</strong></td>
+    <td><span class="version-badge">V3P</span></td>
     <td>
       <a href="https://airreps.link/emaxv3p">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -50,7 +50,7 @@ description: Explore the different versions of AirPods Max replicas and their as
     </td>
   </tr>
   <tr>
-    <td><strong>V2.5</strong></td>
+    <td><span class="version-badge">V2.5</span></td>
     <td>
       <a href="https://airreps.link/emaxv25">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -68,7 +68,7 @@ description: Explore the different versions of AirPods Max replicas and their as
     </td>
   </tr>
   <tr>
-    <td><strong>V2 Metal</strong></td>
+    <td><span class="version-badge">V2 Metal</span></td>
     <td>
       <a href="https://airreps.link/emaxv2tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">

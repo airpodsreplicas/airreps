@@ -1,5 +1,5 @@
 ---
-description: Access verified links to purchase AirPods replicas from trustworthy sellers. Choose the product you're interested in, such as AirPods 3, AirPods 2, AirPods Pro, AirPods Pro 2, or AirPods Max, to view the corresponding links.
+description: Access verified links to purchase AirPods replicas from trustworthy sellers. Choose the product you're interested in, such as AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, AirPods Pro 3, or AirPods Max, to view the corresponding links.
 ---
 
 # Links
@@ -67,11 +67,19 @@ Shipping from China can sometimes take a while. Tracking information may disappe
 :::
 
 ::: details My tracking information is in Chinese. What should I do?
-If you have tracking information that is in Chinese, you can copy the tracking number and paste it into the website 17Track: https://www.17track.net/. This will allow you to see updates in English. Alternatively, you can open the tracking updates on a computer and paste them into Google Translate to see them in a different language.
+If you have tracking information that is in Chinese, you can copy the tracking number and paste it into the website [17Track](https://www.17track.net/). This will allow you to see updates in English. Alternatively, you can open the tracking updates on a computer and paste them into Google Translate to see them in a different language.
 :::
 
 ::: details My card is not working. What should I do?
 If your card is not working, you should contact the seller and ask if they will accept a different form of payment. Keep in mind that some alternative payment methods, such as Wise, do not offer buyer protection. If the seller is unable to accept a different form of payment, you can try using a different card or purchasing from a different seller.
+:::
+
+::: details Why am I redirected to a crypto website when paying via Credit Card?
+Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
+
+**Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
+
+**Alternative:** If you want to avoid any possibility of KYC verification, consider using [OOPBuy](https://airreps.link/oopbuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. OOPBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures.
 :::
 
 ::: tip

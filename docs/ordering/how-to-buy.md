@@ -10,9 +10,9 @@ Looking to buy fake AirPods? This guide explains safe sourcing and quality check
 
 ## How to Buy
 
-We recommend always purchasing from [trusted sellers](https://airpodsreplicas.com/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), AliPay, Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [OOPBuy](https://airreps.link/oopbuy).
+We recommend always purchasing from [trusted sellers](https://airpodsreplicas.com/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [OOPBuy](https://airreps.link/oopbuy).
 
-AirReps recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
+The AirReps community recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
 Ordering is simple: choose the product you want and check out.
 
@@ -64,9 +64,11 @@ Trusted sellers accept multiple payment methods including Credit Cards, AliPay, 
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
-Trusted sellers use a secure crypto payment gateaway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
+Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
 
-**Note: You may be prompted to complete a routine ID check (KYC) to comply with local regulations.**
+**Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
+
+**Alternative:** If you want to avoid any possibility of KYC verification, consider using [OOPBuy](https://airreps.link/oopbuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. OOPBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures.
 :::
 
 ::: details Why are there so few AliExpress/Alibaba links?

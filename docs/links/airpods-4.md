@@ -14,7 +14,7 @@ description: Discover the different versions of the new AirPods 4 and their asso
     <th>Jenny</th>
   </tr>
    <tr>
-    <td><strong>V3 TB</strong></td>
+    <td><span class="version-badge">V3 TB</span></td>
          <td>
       <a href="https://airreps.link/e4v3tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -32,7 +32,7 @@ description: Discover the different versions of the new AirPods 4 and their asso
     </td>
   </tr>
    <tr>
-    <td><strong>V2 HR</strong></td>
+    <td><span class="version-badge">V2 HR</span></td>
          <td style="text-align: center;">-</td>
         <td>
       <a href="https://airreps.link/hc4v2hr">Website</a>
@@ -46,7 +46,7 @@ description: Discover the different versions of the new AirPods 4 and their asso
     </td>
   </tr>
   <tr>
-    <td><strong>V2 TB</strong></td>
+    <td><span class="version-badge">V2 TB</span></td>
         <td>
       <a href="https://airreps.link/e4v2tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -64,7 +64,7 @@ description: Discover the different versions of the new AirPods 4 and their asso
     </td>
   </tr>
     <tr>
-    <td><strong>V2 Huilian</strong></td>
+    <td><span class="version-badge">V2 Huilian</span></td>
         <td>
       <a href="https://airreps.link/e4v2hl">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -82,7 +82,7 @@ description: Discover the different versions of the new AirPods 4 and their asso
     </td>
   </tr>
   <tr>
-    <td><strong>V1</strong></td>
+    <td><span class="version-badge">V1</span></td>
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>

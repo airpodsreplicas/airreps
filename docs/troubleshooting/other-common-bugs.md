@@ -1,26 +1,34 @@
 ---
-description: Encountering issues with your AirPods Pro replicas? Check out this troubleshooting guide to find solutions for common issues such as opening AirPods, macOS compatibility, audio/video pausing, connectivity problems, sound quality, and more.
+description: Encountering issues with your AirPods replicas? Check out this troubleshooting guide to find solutions for common issues such as opening AirPods, macOS compatibility, audio/video pausing, connectivity problems, sound quality, and more.
 ---
 
 # **Common Issues**
 
-#### **Opening AirPods Pro Replicas**
-You may receive miss-marketed AirPod Pro clones when ordering on sites like AliExpress from unverified sellers. You can use the app for the chipset to verify that you received the correct chipset, it is often not enough proof to show the app. You may need to open the AirPods and take a picture of the chipset as proof. Here's how you can do this, without damaging the AirPods: [https://airreps.link/approtrdwn](https://airreps.link/approtrdwn)
+::: tip
+Most newer models sold through the [trusted sellers](/links/info) have addressed these issues long ago. If you're experiencing problems, ensure you have the latest version from a verified seller.
+:::
 
-#### **Audio/Video Pausing Frequently with AirPods Pro Replicas**
-Frequent pausing of audio or video while using AirPods Pro replicas is a common issue, often caused by the in-ear detection sensors. This issue can also occur if the AirPods do not fit securely in your ear. To fix this issue, you can either choose other ear tips (on pros) or turn off in-ear detection through settings.
+#### **Opening AirPods Replicas**
+You may receive miss-marketed AirPods clones when ordering on sites like AliExpress from unverified sellers. You can use the app for the chipset to verify that you received the correct chipset, it is often not enough proof to show the app. You may need to open the AirPods and take a picture of the chipset as proof. Here's how you can do this, without damaging the AirPods:
 
-#### **AirPods Pro Replicas Remain Connected After Closing the Charging Case**
-Some users of AirPods Pro replicas may experience an issue where the AirPods remain connected to their device even after closing the charging case. This is typically caused by a malfunction with the magnets and hall sensor inside the case, which are responsible for detecting the position of the AirPods. To fix this issue, follow the steps outlined in the following YouTube tutorial: [https://youtu.be/kv5Ixw_YY2E](https://youtu.be/kv5Ixw_YY2E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
-#### **Bad Sound Quality or Bass Issues with AirPods Pro Replicas on iOS**
-Some users of AirPods Pro replicas may experience issues with the sound quality or bass on iOS devices. This is typically caused by the "Headphone Accommodations" feature, which is enabled by default on iOS. To fix this issue, go to Settings > Accessibility > Audio / Visual > Headphone Accommodations and turn it off.
+#### **Audio/Video Pausing Frequently with AirPods Replicas**
+Frequent pausing of audio or video while using AirPods replicas is a common issue, often caused by the in-ear detection sensors (on Pro models). This issue can also occur if the AirPods do not fit securely in your ear. To fix this issue, you can either choose other ear tips (on Pro models) or turn off in-ear detection through settings.
 
-#### **Resetting Pairing on AirPods Pro Replicas**
-If you are experiencing issues with only one of your AirPods Pro replicas working properly, and the pod is slowly flashing every time you open the charging case, you can try resetting the pairing. This is a simple process that can help resolve the issue. To reset the pairing on your AirPods Pro replicas, hold the back pairing button for 2-3 seconds while the pods are in the case.
+#### **AirPods Replicas Remain Connected After Closing the Charging Case**
+Some users of AirPods replicas may experience an issue where the AirPods remain connected to their device even after closing the charging case. This is typically caused by a malfunction with the magnets and hall sensor inside the case, which are responsible for detecting the position of the AirPods. To fix this issue, follow the steps outlined in the following YouTube tutorial:
 
-#### **Soft Reset for AirPods Pro Replicas**
-Follow these steps to perform a soft reset on your AirPods Pro Replicas:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
+
+#### **Bad Sound Quality or Bass Issues with AirPods Replicas on iOS**
+Some users of AirPods replicas may experience issues with the sound quality or bass on iOS devices. This is typically caused by the "Headphone Accommodations" feature, which is enabled by default on iOS. To fix this issue, go to Settings > Accessibility > Audio / Visual > Headphone Accommodations and turn it off.
+
+#### **Resetting Pairing on AirPods Replicas**
+If you are experiencing issues with only one of your AirPods replicas working properly, and the pod is slowly flashing every time you open the charging case, you can try resetting the pairing. This is a simple process that can help resolve the issue. To reset the pairing on your AirPods replicas, hold the back pairing button for 2-3 seconds while the pods are in the case.
+
+#### **Soft Reset for AirPods Replicas**
+Follow these steps to perform a soft reset on your AirPods replicas:
 ![How to soft reset your AirPods](/airpodssoftreset.png)
 - Forget your device from Bluetooth settings, then turn off Bluetooth.
 - Open the lid and hold the back button for a few seconds, until the light flashes, then close the lid. Don't worry if your light doesn't flash the same as in the image.
@@ -28,8 +36,8 @@ Follow these steps to perform a soft reset on your AirPods Pro Replicas:
 - If it doesn't work, take the pods out and put them back in. Close the lid and wait for the light to turn off. Then open it and try again. It can take 3-4 **SOFT RESETS** to work. If it doesn't try a **HARD RESET** (see below image)
 
 #### **Hard Reset**
-Follow these steps to perform a hard reset on your AirPods Pro Replicas:
-- Forget your AirPod device from Bluetooth settings.
+Follow these steps to perform a hard reset on your AirPods replicas:
+- Forget your AirPods device from Bluetooth settings.
 - Remove the pods from the case for several hours to let the battery fully drain. Leave the case open. It's important to not have any residual charge left, so leave it out for at least one full day or more if required.
 - Once it's drained, put the pods back in the case and charge the case.
 - Now, do a **SOFT RESET**. It can take 3-4 **SOFT RESETS** to work
@@ -50,7 +58,7 @@ To troubleshoot connectivity issues with AirPods, try the following steps:
 **THIS ISSUE HAS BEEN FIXED ON THE LATEST FIRMWARE/VERSION OF THE CLONES, UPDATE YOUR V3M/V4.5 IF YOU'RE EXPERIENCING THIS**
 If you're using WatchOS and experiencing issues with your AirPods clones, such as connection problems or freezing on your phone, there are two ways to fix this. Credit goes to SykadeLick#4034 on Discord for identifying the issue.
 - Power off your Apple Watch or put it in airplane mode. Your AirPods should now function correctly.
-- With your AirPods Pro in your ears, go to Settings > Bluetooth on your iOS device. Tap the info button next to your AirPods in the list of devices. Tap Ear Tip Fit Test. Tap Continue, then tap the Play button. Your AirPods Pro should now function correctly.
+- With your AirPods Pro (or Pro 2/Pro 3) in your ears, go to Settings > Bluetooth on your iOS device. Tap the info button next to your AirPods in the list of devices. Tap Ear Tip Fit Test. Tap Continue, then tap the Play button. Your AirPods should now function correctly.
 
 ## **None of these fixed it?**
 It is possible that your AirPods arrived faulty or are now damaged beyond repair. You can try performing soft and hard resets, such as leaving the device uncharged for a period of time or playing music rather than forgetting it, in an attempt to fix the issue. If none of these methods work, your best option is to contact the seller and request a refund or replacement.

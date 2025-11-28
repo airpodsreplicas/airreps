@@ -1,23 +1,28 @@
 ---
-description: Explore a summary of missing features for various AirPods models, including AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro, and AirPods Max. Discover the specific features that are not available in each model and understand the common features they all share. Please note that newer versions do not necessarily imply better models.
+description: Explore a summary of missing features for various AirPods models, including AirPods Pro 3, AirPods Gen 4, AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro, and AirPods Max. Discover the specific features that are not available in each model and understand the common features they all share. Please note that newer versions do not necessarily imply better models.
 ---
 
 # General
 
-::: tip
-Each original AirPods iteration is marked with a distinct version number for every subsequent replica release, all originating from v1.0. As each new iteration emerges, it receives a unique name, emphasizing its enhanced features.
+::: tip About Version Numbers
+This version numbering system was designed by the AirReps community to simplify product identification across different manufacturers. When new AirPods models are released (like AirPods Pro 2 or Pro 3), the version numbering continues from previous numbers rather than starting from scratch. 
+
+Manufacturers like TigerBuilder and Huilian use their own product names (such as "377super"), which can make it difficult to compare products across different manufacturers. Our community naming scheme solves this by providing a standardized version number that makes it easy to find comparable products across manufacturers without having to remember dozens of different names.
+
+**Note:** Manufacturers are not the same as sellers. You cannot buy directly from manufacturers—you purchase from sellers who source products from these manufacturers.
 :::
 
 This table provides a summary of the most notable missing features for various AirPods models based on specific versions.
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AirPods Gen 4 | **V2**   | Find My Network                                                                                                                                          |
-| AirPods Gen 3 | **V1E**  | iCloud Connect, Find My Network                                                                                                            |
-| AirPods Gen 2 | **V3E**  | iCloud Connect, Find My Network                                                                                                              |
-| AirPods Pro 2 | **V5.3** | 1:1 Noise Cancelling (it's fairly close already), Find My Network                                                                            |
-| AirPods Pro   | **V4.9** | 1:1 Noise Cancelling (it's fairly close already), Find My Network                                                                            |
-| AirPods Max   | **V2**   | 1:1 Active Noise Cancelling and transparency Mode, iCloud Connect, Microphone Improvement, Find My Network                                  |
+| AirPods Pro 3 | <span class="version-badge">V6</span>   | Heartrate sensor, Higher-end build quality, Nodding gestures, Find My Network                                                                           |
+| AirPods Gen 4 | <span class="version-badge">V3</span>   | Find My Network, Accurate Case SFX and more noticeable details                                                                           |
+| AirPods Pro 2 | <span class="version-badge">V5.4</span> | Perfect Spatial Audio, Find My Network                                                                                                     |
+| AirPods Gen 3 | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
+| AirPods Max   | <span class="version-badge">V3</span>   | Multi-Device Connect, Retail AirPods Max ANC, Better Transparency Mode, and More Subtle details                                            |
+| AirPods Pro   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (it's fairly close already), Find My Network                                                                            |
+| AirPods Gen 2 | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
 
 **All Have:**
 
@@ -38,7 +43,11 @@ All models are missing the following feature:
 ## FAQ
 
 ::: details Are AirPods Max reps available?
-AirPods Max replicas have been released, but are not fully polished yet. Jenny and HiCity have recently started selling AirPods Max replicas using the Airoha 1561M. The current price is $120, but prices are expected to decrease in the future as factories continue to develop these replicas. For updates, visit r/AirReps and the AirReps Discord.
+AirPods Max replicas are now available and have become well-rounded replicas. Jenny and HiCity sell AirPods Max replicas using the Airoha 1561M. Prices have stabilized. For updates, visit the [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) and the [AirReps Discord](https://discord.com/invite/airreps).
+:::
+
+::: details Are AirPods Pro 3 reps available?
+AirPods Pro 3 replicas are available, but only mid-end versions have been released so far. There are no high-end versions from brands like TigerBuilder yet. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
 :::
 
 ::: details Why might similar communities have newer products than this guide?

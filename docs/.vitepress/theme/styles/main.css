@@ -82,3 +82,32 @@ h2 {
     letter-spacing: -.02em;
     font-weight: 600;
 }
+
+/* Version Badges */
+.version-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25em 0.6em;
+    font-size: 0.85em;
+    font-weight: 600;
+    line-height: 1;
+    color: #EC645D;
+    background-color: rgba(236, 100, 93, 0.1);
+    border: 1px solid rgba(236, 100, 93, 0.3);
+    border-radius: 4px;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.dark .version-badge {
+    color: #EC645D;
+    background-color: rgba(236, 100, 93, 0.15);
+    border-color: rgba(236, 100, 93, 0.4);
+}
+
+/* Make badges in tables slightly smaller */
+table .version-badge {
+    font-size: 0.8em;
+    padding: 0.15em 0.5em;
+}

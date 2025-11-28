@@ -14,7 +14,7 @@ description: Discover the different versions of AirPods 3 and their associated s
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><strong>V1E</strong></td>
+    <td><span class="version-badge">V1E</span></td>
     <td>
       <a href="https://airreps.link/e3v1e">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
@@ -32,7 +32,7 @@ description: Discover the different versions of AirPods 3 and their associated s
     </td>
   </tr>
   <tr>
-    <td><strong>V1.2+</strong></td>
+    <td><span class="version-badge">V1.2+</span></td>
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>

@@ -22,7 +22,7 @@ features:
     details: All our resources, guides, and apps are always kept up to date, by our big dedicated staff team!
   - icon: 💸  
     title: Trusted seller list
-    details: Sellers that has the latest products, the best support, the latest features and more! All this completely community picked and non-profit. 
+    details: Sellers that have the latest products, the best support, the latest features and more! All this completely community picked and non-profit. 
 ---
 
 <Contributor></Contributor>

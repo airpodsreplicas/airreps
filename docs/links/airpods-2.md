@@ -14,7 +14,7 @@ description: Explore the different versions of AirPods 2 and their associated se
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><strong>V3E</strong></td>
+    <td><span class="version-badge">V3E</span></td>
     <td>
       <a href="https://airreps.link/e2v3e">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">

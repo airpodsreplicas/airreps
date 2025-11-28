@@ -8,11 +8,11 @@ Understanding the connectivity of AirPods replicas can help you make an informed
 
 ## iOS Popup
 
-The iOS popup appears almost instantly on some AirPods replicas, although the speed may vary based on the seller and batch. In some cases, the popup may appear faster than on original AirPods.
+The iOS popup appears almost instantly on AirPods replicas, although the speed may vary based on the seller and batch. In some cases, the popup may appear faster than on original AirPods.
 
 ## macOS Connectivity
 
-  Only a few newer clones work flawlessly with macOS, whereas this is not always case with other manufacturers. We recommend choosing the "Huilian" model if you plan on using your replicas with your MacBook or iMac. This is due to other clones not having iCloud switching for seamless iOS integration, or/and having their volume stuck at 100% on macOS (TB).However we've partially addressed the issue using a third party FOSS app, the only caveat is that on TB models the volume gestures on the AirPods will not work due to the limitations of said method. For more details, visit [our troubleshooting guide](https://airpodsreplicas.com/troubleshooting/macOS-volume-slider-fixup).
+  Only a few newer clones work flawlessly with macOS, whereas this is not always the case with other manufacturers. We recommend choosing the "Huilian" model if you plan on using your replicas with your MacBook or iMac. This is due to other clones not having iCloud switching for seamless iOS integration, or having their volume stuck at 100% on macOS (TB). However, we've partially addressed the issue using a third party FOSS app, the only caveat is that on TB models the volume gestures on the AirPods will not work due to the limitations of said method. For more details, visit [our troubleshooting guide](https://airpodsreplicas.com/troubleshooting/macOS-volume-slider-fixup).
 
 ## Range
 

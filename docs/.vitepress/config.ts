@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { redirectPlugin } from './plugins/redirect'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -9,6 +10,10 @@ export default defineConfig({
 
   lastUpdated: true,
   cleanUrls: true,
+
+  vite: {
+    plugins: [redirectPlugin()]
+  },
 
   head: [
     ["link", { rel: "icon", sizes: "any", href: "/favicon.ico" }],
@@ -73,23 +78,9 @@ export default defineConfig({
           { text: 'Features', link: '/introduction/features' },
           { text: 'ANC Explained', link: '/introduction/anc-explained' },
           { text: 'Build Quality', link: '/introduction/build-quality' },
-          { text: 'Sound Quality', link: '/introduction/sound-quality' }
+          { text: 'Sound Quality', link: '/introduction/sound-quality' },
+          { text: 'Dictionary', link: '/introduction/dictionary' }
         ],
-      },
-      {
-        text: 'AirReps Dictionary',
-        collapsed: true,
-        items: [
-          { text: 'W2C', link: '/dictionary/w2c' },
-          { text: 'Reps/Clones: Replicas', link: '/dictionary/reps-clones' },
-          { text: 'Fake AirPods', link: '/dictionary/fake-airpods' },
-          { text: 'Knockoffs', link: '/dictionary/knockoffs' },
-          { text: 'GP: Guinea Pig', link: '/dictionary/guinea-pig' },
-          { text: 'QC: Quality Control', link: '/dictionary/quality-control' },
-          { text: 'LC: Legit Check', link: '/dictionary/legit-check' },
-          { text: 'Agent: Freight agent/shipping forwarder', link: '/dictionary/agent' },
-          { text: 'Markings', link: '/dictionary/markings' }
-        ]
       },
       {
         text: 'Version Info',
