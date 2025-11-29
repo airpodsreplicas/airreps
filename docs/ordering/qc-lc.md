@@ -22,7 +22,7 @@ This section was once more detailed, but as replicas have become more sophistica
 
 3. **Cable Alignment**: Ensure that the cable fits snugly and fully into the case, as shown in the picture below. If the cable protrudes even slightly, it's likely a replica.
 
-![Cable Alignment](/qc-lc/cable-alignment.png)
+![Cable Alignment](/qc-lc/cable-alignment.jpg)
 
 4. **Software - Find My Network**: A key indicator of a replica is the absence of "Find My Network" (Precision Finding). When you pair the AirPods with your phone and access the "Find My" app, genuine AirPods should support precision finding. If the option is missing or doesn't function properly, it's a strong sign that the AirPods are not authentic. **Note:** All current replica models are missing Find My Network functionality.
 
