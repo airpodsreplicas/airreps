@@ -29,23 +29,23 @@ export default defineConfig({
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:url", content: "https://airpodsreplicas.com/" }],
     ["meta", { property: "og:description", content: "A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!" }],
-    ["meta", { property: "og:image", content: "https://airpodsreplicas.com/logo.png" }],
+    ["meta", { property: "og:image", content: "https://airpodsreplicas.com/logo.webp" }],
     ["meta", { property: "og:image:width", content: "400" }],
     ["meta", { property: "og:image:height", content: "400" }],
     ["meta", { property: "og:image:alt", content: "AirReps | Ultimate Guide" }],
-    ["meta", { property: "og:image:type", content: "image/png" }],
+    ["meta", { property: "og:image:type", content: "image/webp" }],
     ["meta", { property: "twitter:card", content: "summary_large_image" }],
     ["meta", { property: "twitter:url", content: "https://airpodsreplicas.com/" }],
     ["meta", { property: "twitter:title", content: "AirReps | Ultimate Guide" }],
     ["meta", { property: "twitter:description", content: "A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!" }],
-    ["meta", { property: "twitter:image", content: "https://airpodsreplicas.com/logo.png" }],
+    ["meta", { property: "twitter:image", content: "https://airpodsreplicas.com/logo.webp" }],
     ["meta", { property: "twitter:image:alt", content: "AirReps | Ultimate Guide" }],
     ["meta", { property: "owner", content: "AirReps" }],
     ["meta", { property: "author", content: "AirReps" }]
   ],
 
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/logo.webp',
 
     outline: [2, 3],
 
