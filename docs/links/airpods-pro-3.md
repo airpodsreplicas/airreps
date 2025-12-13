@@ -15,13 +15,21 @@ description: AirPods Pro 3 replicas now available! Find the latest AirPods Pro 3
   </tr>
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
-    <td style="text-align: center;">-</td>
+    <td>
+      <a href="https://airreps.link/eprov6tb">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/earhivew">Weidian</a>
+    </td>
     <td>
       <a href="https://airreps.link/hcprov6tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
-    <td style="text-align: center;">-</td>
+    <td>
+      <a href="https://airreps.link/jprov6tb">Website</a>
+      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
+      <a href="https://airreps.link/jennyw">Weidian</a>
+    </td>
   </tr>
   <tr>
     <td><span class="version-badge">V6 (Huilian)</span></td>
