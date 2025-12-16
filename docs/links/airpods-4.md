@@ -81,12 +81,6 @@ description: Discover the different versions of the new AirPods 4 and their asso
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
   </tr>
-  <tr>
-    <td><span class="version-badge">V1</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-  </tr>
 </table>
 
 

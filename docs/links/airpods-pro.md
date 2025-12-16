@@ -14,18 +14,6 @@ description: Discover different versions of AirPods Pro replicas from various se
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V4.9 (TB)</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V4.5 (TB)</span></td>
-    <td style="text-align: center;">-</td>
-     <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-  </tr>
-  <tr>
     <td><span class="version-badge">V4</span></td>
     <td style="text-align: center;">-</td>
     <td>
