@@ -74,11 +74,7 @@ description: Explore the different versions of AirPods Max replicas and their as
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
-    <td>
-      <a href="https://airreps.link/hcmaxv2tb">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
-    </td>
+    <td style="text-align: center;">-</td>
     <td>
       <a href="https://airreps.link/jmaxv2tb">Website</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
