@@ -1,12 +1,25 @@
 ---
-description: Poznaj różne wersje AirPods Pro 3-klonów, w tym ich chip, funkcje i brakujące funkcje. Kliknij linki wersji, aby znaleźć recenzje każdego modelu.
+description: Poznaj różne wersje klonów AirPods Pro 3, w tym ich chip, funkcje i brakujące funkcje. Kliknij linki wersji, aby znaleźć recenzje każdego modelu.
+translationStatus: machine-translated
 ---
 
 # AirPods Pro 3
 
-Kliknij hiperłącze w kolumnie 'Wersja' aby znaleźć recenzje danego modelu.
+::: tip
+AirPods Pro 3 to najnowsza linia produktów. Producenci aktywnie rozwijają nowe wersje z ulepszonymi funkcjami. Wersje high-end od marek takich jak TigerBuilder są oczekiwane w przyszłości.
+:::
 
-| Wersja | Chip | Posiada Funkcje | Brakujące Funkcje |
-|---------|------|--------------|------------------|
-| [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1) | Airoha 1563E / Huilian 247 | USB-C, tryb Transparency, Kontrola głośności, Kontrola Force Touch, Strona Informacje, Ulepszone SFX, Prawdziwe Spatial Audio, Głośnik etui, Hey Siri, Prawie 1:1 projekt zawiasu, God ANC, Pro 3 Popup, iOS 26 Support, Live Translżeion (tylko Huilian), iCloud Connect (tylko Huilian) | Pulssensor, Højere byggekvalitet, Nikkebevægelser, Sieć Znajdź Mój |
-| [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) | Bluetrum 8922 | Anstændig ANC, tryb Transparency, Pro 3 Popup, iOS 26 Support | Pulssensor, Højere byggekvalitet, Nikkebevægelser |
+Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu.
+
+| Wersja                                                                    | Chip             | Posiada Funkcje                                                                                                                                                                 | Brakujące Funkcje                                                                |
+|----------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| [<span class="version-badge">V6 (Huilian)</span>](https://www.reddit.com/r/AirReps/search?q=pro%203%20v6&restrict_sr=1) | Huilian | USB-C, Aktywna Redukcja Szumów, tryb Transparency, Adaptive Audio, Conversation Awareness, Live Translation, iCloud Connect, Spatial Audio (ze Śledzeniem Głowy), Głośnik etui, Strona Informacje, 6-8 godzin baterii | Czujnik pulsu, Wyższa jakość wykonania, Gesty kiwania głową, Sieć Znajdź Mój |
+
+## Przegląd V6
+
+Wersja V6 to pierwsza znacząca wersja klonu AirPods Pro 3, oparta na chipsecie Huilian. Oferuje większość kluczowych funkcji oryginalnych AirPods Pro 3, w tym Live Translation i iCloud Connect. Jakość ANC jest przyzwoita, ale nie dorównuje jeszcze modelom Pro 2 high-end.
+
+**Oczekiwane przyszłe wersje:**
+- Wersje TigerBuilder z chipsetem Airoha (lepsze ANC)
+- Wersje HR z ulepszonym tryb Transparency
+- Ulepszone wersje z lepszą jakością wykonania
