@@ -458,7 +458,8 @@ export default defineConfig({
           pt: { placeholder: 'Pesquisar', translations: { button: { buttonText: 'Pesquisar' } } },
           es: { placeholder: 'Buscar', translations: { button: { buttonText: 'Buscar' } } },
           da: { placeholder: 'Søg', translations: { button: { buttonText: 'Søg' } } },
-          fr: { placeholder: 'Rechercher', translations: { button: { buttonText: 'Rechercher' } } }
+          fr: { placeholder: 'Rechercher', translations: { button: { buttonText: 'Rechercher' } } },
+          pl: { placeholder: 'Szukaj', translations: { button: { buttonText: 'Szukaj' } } }
         }
       }
     }
