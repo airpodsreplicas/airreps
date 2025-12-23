@@ -250,52 +250,84 @@ export default defineConfig({
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
     ["meta", { name: "theme-color", content: "#EC645D" }],
     ["meta", { name: "viewport", content: "width=device-width, initial-scale=1" }],
-    ["meta", { property: "og:title", content: "AirReps | Ultimate Guide" }],
-    ["meta", { property: "og:type", content: "website" }],
-    ["meta", { property: "og:url", content: "https://airpodsreplicas.com/" }],
-    ["meta", { property: "og:description", content: "A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!" }],
-    ["meta", { property: "og:image", content: "https://airpodsreplicas.com/logo.webp" }],
-    ["meta", { property: "og:image:width", content: "400" }],
-    ["meta", { property: "og:image:height", content: "400" }],
-    ["meta", { property: "og:image:alt", content: "AirReps | Ultimate Guide" }],
-    ["meta", { property: "og:image:type", content: "image/webp" }],
-    ["meta", { property: "twitter:card", content: "summary_large_image" }],
-    ["meta", { property: "twitter:url", content: "https://airpodsreplicas.com/" }],
-    ["meta", { property: "twitter:title", content: "AirReps | Ultimate Guide" }],
-    ["meta", { property: "twitter:description", content: "A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!" }],
-    ["meta", { property: "twitter:image", content: "https://airpodsreplicas.com/logo.webp" }],
-    ["meta", { property: "twitter:image:alt", content: "AirReps | Ultimate Guide" }],
     ["meta", { property: "owner", content: "AirReps" }],
     ["meta", { property: "author", content: "AirReps" }]
   ],
 
-  // Dynamically inject hreflang tags into every page for multi-language SEO
+  // Dynamically inject hreflang tags and localized OG meta into every page
   transformHead: ({ pageData }) => {
     const { relativePath } = pageData
     // Remove locale prefix from path to get base path
     let basePath = relativePath.replace(/\.md$/, '')
     if (basePath === 'index') basePath = ''
 
-    // Check if current page is in a locale
+    // Detect current locale
+    let currentLocale = 'en'
     const locales = ['es', 'pt', 'da', 'fr']
     for (const locale of locales) {
       if (basePath.startsWith(`${locale}/`)) {
+        currentLocale = locale
         basePath = basePath.replace(`${locale}/`, '')
         break
       }
     }
 
-    // Always ensure leading slash, but handle root index correctly
+    // Localized OG metadata with flag emojis
+    const ogMeta: Record<string, { title: string; description: string }> = {
+      en: {
+        title: '🎧 AirReps | Ultimate Guide',
+        description: 'A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!'
+      },
+      es: {
+        title: '🇪🇸 AirReps | Guía Definitiva',
+        description: 'Una comunidad para la discusión y exploración de clones de AirPods. Descubre alternativas asequibles y consulta nuestra Guía Definitiva para información detallada. ¡Comienza a explorar el mundo de los clones de AirPods hoy!'
+      },
+      pt: {
+        title: '🇧🇷 AirReps | Guia Definitivo',
+        description: 'Uma comunidade para discussão e exploração de clones de AirPods. Descubra alternativas acessíveis e confira nosso Guia Definitivo para insights detalhados. Comece a explorar o mundo dos clones de AirPods hoje!'
+      },
+      da: {
+        title: '🇩🇰 AirReps | Ultimativ Guide',
+        description: 'Et fællesskab for diskussion og udforskning af AirPods-kloner. Opdag overkommelige alternativer og tjek vores Ultimative Guide for detaljerede indsigter. Begynd at udforske verden af AirPods-kloner i dag!'
+      },
+      fr: {
+        title: '🇫🇷 AirReps | Guide Ultime',
+        description: 'Une communauté pour la discussion et l\'exploration des clones AirPods. Découvrez des alternatives abordables et consultez notre Guide Ultime pour des informations détaillées. Commencez à explorer le monde des clones AirPods dès aujourd\'hui!'
+      }
+    }
+
+    const meta = ogMeta[currentLocale] || ogMeta.en
     const canonicalBase = basePath ? `/${basePath}` : ''
+    const localePrefix = currentLocale === 'en' ? '' : `/${currentLocale}`
+    const pageUrl = `https://airpodsreplicas.com${localePrefix}${canonicalBase}`
 
     return [
+      // Hreflang tags for SEO
       ['link', { rel: 'alternate', hreflang: 'en', href: `https://airpodsreplicas.com${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'es', href: `https://airpodsreplicas.com/es${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'pt', href: `https://airpodsreplicas.com/pt${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'da', href: `https://airpodsreplicas.com/da${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'fr', href: `https://airpodsreplicas.com/fr${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'x-default', href: `https://airpodsreplicas.com${canonicalBase}` }],
-      ['link', { rel: 'canonical', href: `https://airpodsreplicas.com/${relativePath.replace(/\.md$/, '').replace(/index$/, '')}` }]
+      ['link', { rel: 'canonical', href: pageUrl }],
+      // Localized Open Graph meta tags
+      ['meta', { property: 'og:title', content: meta.title }],
+      ['meta', { property: 'og:type', content: 'website' }],
+      ['meta', { property: 'og:url', content: pageUrl }],
+      ['meta', { property: 'og:description', content: meta.description }],
+      ['meta', { property: 'og:image', content: 'https://airpodsreplicas.com/logo.webp' }],
+      ['meta', { property: 'og:image:width', content: '400' }],
+      ['meta', { property: 'og:image:height', content: '400' }],
+      ['meta', { property: 'og:image:alt', content: meta.title }],
+      ['meta', { property: 'og:image:type', content: 'image/webp' }],
+      ['meta', { property: 'og:locale', content: currentLocale === 'en' ? 'en_US' : currentLocale === 'pt' ? 'pt_BR' : currentLocale === 'es' ? 'es_ES' : currentLocale === 'da' ? 'da_DK' : 'fr_FR' }],
+      // Localized Twitter meta tags
+      ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
+      ['meta', { property: 'twitter:url', content: pageUrl }],
+      ['meta', { property: 'twitter:title', content: meta.title }],
+      ['meta', { property: 'twitter:description', content: meta.description }],
+      ['meta', { property: 'twitter:image', content: 'https://airpodsreplicas.com/logo.webp' }],
+      ['meta', { property: 'twitter:image:alt', content: meta.title }]
     ]
   },
 
