@@ -10,7 +10,8 @@ const contributorsTitles: Record<string, string> = {
   'es-ES': 'Colaboradores',
   'pt-BR': 'Colaboradores',
   'da-DK': 'Bidragydere',
-  'fr-FR': 'Contributeurs'
+  'fr-FR': 'Contributeurs',
+  'pl-PL': 'Współtwórcy'
 };
 
 const title = computed(() => contributorsTitles[lang.value] || 'Contributors');

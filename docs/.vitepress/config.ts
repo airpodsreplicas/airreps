@@ -184,6 +184,22 @@ const translations: Record<string, {
     },
     footer: { message: 'Publié sous Licence GPLv3.', copyright: `© Copyright ${new Date().getFullYear()} AirReps. Tous Droits Réservés.` },
     editLink: 'Modifier cette page sur GitHub'
+  },
+  pl: {
+    nav: { home: 'Strona główna', ultimateGuide: 'Kompletny Przewodnik', links: 'Linki' },
+    sidebar: {
+      ultimateGuide: 'Kompletny Przewodnik', overview: 'Przegląd', sellers: 'Sprzedawcy',
+      packaging: 'Opakowanie', connectivity: 'Łączność', batteryLife: 'Żywotność Baterii',
+      features: 'Funkcje', ancExplained: 'ANC Wyjaśnione', buildQuality: 'Jakość Wykonania',
+      soundQuality: 'Jakość Dźwięku', dictionary: 'Słownik', versionInfo: 'Info o Wersjach',
+      general: 'Ogólne', ordering: 'Zamawianie', howToBuy: 'Jak Kupić', qcLc: 'QC & LC',
+      links: 'Linki', info: 'Info', troubleshooting: 'Rozwiązywanie Problemów',
+      icloudIncompatibility: 'Niekompatybilność z iCloud',
+      otherBugs: 'Inne Częste Błędy', macosVolume: 'Głośność na MacOS',
+      usefulApps: 'Przydatne Aplikacje', contributing: 'Współtworzenie'
+    },
+    footer: { message: 'Wydane na licencji GPLv3.', copyright: `© Copyright ${new Date().getFullYear()} AirReps. Wszelkie Prawa Zastrzeżone.` },
+    editLink: 'Edytuj tę stronę na GitHub'
   }
 }
 
@@ -263,7 +279,7 @@ export default defineConfig({
 
     // Detect current locale
     let currentLocale = 'en'
-    const locales = ['es', 'pt', 'da', 'fr']
+    const locales = ['es', 'pt', 'da', 'fr', 'pl']
     for (const locale of locales) {
       if (basePath.startsWith(`${locale}/`)) {
         currentLocale = locale
@@ -293,6 +309,10 @@ export default defineConfig({
       fr: {
         title: '🇫🇷 AirReps | Guide Ultime',
         description: 'Une communauté pour la discussion et l\'exploration des clones AirPods. Découvrez des alternatives abordables et consultez notre Guide Ultime pour des informations détaillées. Commencez à explorer le monde des clones AirPods dès aujourd\'hui!'
+      },
+      pl: {
+        title: '🇵🇱 AirReps | Kompletny Przewodnik',
+        description: 'Społeczność do dyskusji i odkrywania klonów AirPods. Odkryj przystępne cenowo alternatywy i sprawdź nasz Kompletny Przewodnik po szczegółowe informacje. Zacznij odkrywać świat klonów AirPods już dziś!'
       }
     }
 
@@ -308,6 +328,7 @@ export default defineConfig({
       ['link', { rel: 'alternate', hreflang: 'pt', href: `https://airpodsreplicas.com/pt${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'da', href: `https://airpodsreplicas.com/da${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'fr', href: `https://airpodsreplicas.com/fr${canonicalBase}` }],
+      ['link', { rel: 'alternate', hreflang: 'pl', href: `https://airpodsreplicas.com/pl${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'x-default', href: `https://airpodsreplicas.com${canonicalBase}` }],
       ['link', { rel: 'canonical', href: pageUrl }],
       // Localized Open Graph meta tags
@@ -320,7 +341,7 @@ export default defineConfig({
       ['meta', { property: 'og:image:height', content: '400' }],
       ['meta', { property: 'og:image:alt', content: meta.title }],
       ['meta', { property: 'og:image:type', content: 'image/webp' }],
-      ['meta', { property: 'og:locale', content: currentLocale === 'en' ? 'en_US' : currentLocale === 'pt' ? 'pt_BR' : currentLocale === 'es' ? 'es_ES' : currentLocale === 'da' ? 'da_DK' : 'fr_FR' }],
+      ['meta', { property: 'og:locale', content: currentLocale === 'en' ? 'en_US' : currentLocale === 'pt' ? 'pt_BR' : currentLocale === 'es' ? 'es_ES' : currentLocale === 'da' ? 'da_DK' : currentLocale === 'pl' ? 'pl_PL' : 'fr_FR' }],
       // Localized Twitter meta tags
       ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
       ['meta', { property: 'twitter:url', content: pageUrl }],
@@ -395,6 +416,19 @@ export default defineConfig({
         footer: { message: translations.fr.footer.message, copyright: translations.fr.footer.copyright },
         docFooter: { prev: 'Page précédente', next: 'Page suivante' },
         outline: { label: 'Sur cette page' }
+      }
+    },
+    pl: {
+      label: 'Polski',
+      lang: 'pl-PL',
+      description: 'Społeczność do dyskusji i odkrywania klonów AirPods.',
+      themeConfig: {
+        nav: getNav('pl'),
+        sidebar: getSidebar('pl'),
+        editLink: { pattern: "https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path", text: translations.pl.editLink },
+        footer: { message: translations.pl.footer.message, copyright: translations.pl.footer.copyright },
+        docFooter: { prev: 'Poprzednia strona', next: 'Następna strona' },
+        outline: { label: 'Na tej stronie' }
       }
     }
   },
