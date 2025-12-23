@@ -1,14 +1,14 @@
 ---
-description: Opdag forskellige versioner af AirPods Pro-kopier fra forskellige sælgere. Find officielle butikker og direkte links til at købe AirPods Pro-kopier.
+description: Opdag różne wersje AirPods Pro-klonów od różnych sprzedawców. Znajdź oficjalne sklepy i bezpośrednie linki do zakupu AirPods Pro-klonów.
 ---
 
 # AirPods Pro
 
-#### Versioner og Sælgere
+#### Wersje i Sprzedawcy
 
 <table>
   <tr>
-    <th>Version</th>
+    <th>Wersja</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -17,7 +17,7 @@ description: Opdag forskellige versioner af AirPods Pro-kopier fra forskellige s
     <td><span class="version-badge">V4</span></td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://airreps.link/hcprov4">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov4">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
@@ -27,5 +27,5 @@ description: Opdag forskellige versioner af AirPods Pro-kopier fra forskellige s
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [OOPBuy](https://airreps.link/oopbuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [OOPBuy](https://airreps.link/oopbuy).
 :::

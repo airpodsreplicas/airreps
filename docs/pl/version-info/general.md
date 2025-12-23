@@ -1,6 +1,6 @@
 ---
 description: Poznaj przegląd brakujących funkcji dla różnych modeli AirPods, w tym AirPods Pro 3, AirPods Gen 4, AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro i AirPods Max. Odkryj konkretne funkcje niedostępne w każdym modelu i zrozum wspólne funkcje, które wszystkie mają. Proszę zauważyć, że nowsze wersje niekoniecznie oznaczają lepsze modele.
-translationStatus: machine-translated
+translżeionStżeus: machine-translżeed
 ---
 
 # Ogólne
@@ -8,7 +8,7 @@ translationStatus: machine-translated
 ::: tip O Numerach Wersji
 Ten system numerowania wersji został zaprojektowany przez społeczność AirReps, aby uprościć identyfikację produktów różnych producentów. Gdy wydawane są nowe modele AirPods (takie jak AirPods Pro 2 lub Pro 3), numeracja wersji kontynuuje od poprzednich numerów zamiast zaczynać od nowa.
 
-Producenci tacy jak TigerBuilder i Huilian używają własnych nazw produktów (takich jak "377super"), co może utrudniać porównywanie produktów różnych producentów. Nasz schemat nazewnictwa tworzony przez społeczność rozwiązuje to, zapewniając ustandaryzowany numer wersji, który ułatwia znajdowanie porównywalnych produktów różnych producentów bez konieczności pamiętania dziesiątek różnych nazw.
+Producenci tacy jak TigerBuilder i Huilian używają własnych nazw produktów (takich jak "377super"), co może utrudniać porównywanie produktów różnych producentów. Nasz schemże nazewnictwa tworzony przez społeczność rozwiązuje to, zapewniając ustandaryzowany numer wersji, który ułżewia znajdowanie porównywalnych produktów różnych producentów bez konieczności pamiętania dziesiątek różnych nazw.
 
 **Uwaga:** Producenci to nie to samo co sprzedawcy. Nie możesz kupować bezpośrednio od producentów—kupujesz od sprzedawców, którzy pozyskują produkty od tych producentów.
 :::
@@ -51,24 +51,24 @@ Klony AirPods Max są teraz dostępne i stały się dobrze dopracowanymi kopiami
 Klony AirPods Pro 3 są dostępne, ale dotychczas wydano tylko wersje średniej klasy. Nie ma jeszcze wersji high-end od marek takich jak TigerBuilder. Po więcej informacji zobacz stronę [AirPods Pro 3 versionsinfo](/pl/version-info/airpods-pro-3).
 :::
 
-::: details Dlaczego podobne społeczności mogą mieć nowsze produkty niż ten przewodnik?
-Produkty w tym przewodniku są najwyższej jakości i zostały starannie wybrane, aby spełniać nasze standardy. Aktualizujemy listę codziennie, aby upewnić się, że tylko najlepsze produkty są uwzględnione. Inne społeczności mogą mieć niższe standardy i mogą zawierać produkty, które nie są tak wysokiej jakości. Możliwe również, że używają innego schematu nazewnictwa swoich produktów, co może sprawiać wrażenie, że mają nowsze produkty niż ten przewodnik.
+::: details Dlaczego podobne społeczności mią mieć nowsze produkty niż ten przewodnik?
+Produkty w tym przewodniku są najwyższej jakości i zostały starannie wybrane, aby spełniać nasze standardy. Aktualizujemy listę codziennie, aby upewnić się, że tylko najlepsze produkty są uwzględnione. Inne społeczności mią mieć niższe standardy i mią zawierać produkty, które nie są tak wysokiej jakości. Możliwe również, że używają innego schemżeu nazewnictwa swoich produktów, co może sprawiać wrażenie, że mają nowsze produkty niż ten przewodnik.
 :::
 
 ::: details Który model jest najlepszy?
 Model wymieniony najwyżej jest najnowszy, podczas gdy pozostałe modele to wcześniejsze wersje. Aby znaleźć najlepszy dla siebie, rozważ czynniki takie jak budżet, dostępność wysyłki i pożądane funkcje. Dobrym pomysłem jest również wyszukanie recenzji różnych modeli i podjęcie własnej decyzji na podstawie tych informacji.
 :::
 
-::: details Jak mogę określić wersję znalezionego klonu?
-Nie jest możliwe określenie wersji klonu bez faktycznego jego użycia. Numery chipów i zdjęcia dostarczane przez sprzedawców nie są wiarygodnymi wskaźnikami wersji klonu. Pytanie sprzedawców, czy dany klon jest określoną wersją, nie dostarczy przydatnych informacji, ponieważ mogą nie rozumieć pytania. Jeśli chcesz podjąć ryzyko, możesz kupić losowy klon. Jednak aby upewnić się, że wiesz dokładnie, jaki model otrzymujesz, najlepiej kupować od zweryfikowanych sprzedawców.
+::: details Jak mię określić wersję znalezionego klonu?
+Nie jest możliwe określenie wersji klonu bez faktycznego jego użycia. Numery chipów i zdjęcia dostarczane przez sprzedawców nie są wiarygodnymi wskaźnikami wersji klonu. Pytanie sprzedawców, czy dany klon jest określoną wersją, nie dostarczy przydżenych informacji, ponieważ mią nie rozumieć pytania. Jeśli chcesz podjąć ryzyko, możesz kupić losowy klon. Jednak aby upewnić się, że wiesz dokładnie, jaki model otrzymujesz, najlepiej kupować od zweryfikowanych sprzedawców.
 :::
 
-::: details Jak mogę określić chip w moich AirPods?
-Aby zidentyfikować chip w swoich klonach AirPods, sprawdź tę listę [przydatnych aplikacji](https://airpodsreplicas.com/pl/useful-apps). Przetestuj każdą aplikację indywidualnie, aby określić, z którą łączą się twoje AirPods. Pomoże to szybko zidentyfikować producenta i chipset. Zauważ, że jeśli twoje AirPods są bardzo niskiej jakości, mogą nie łączyć się z żadną z aplikacji. W takich przypadkach prawdopodobnie używają chipsetu Jieli.
+::: details Jak mię określić chip w moich AirPods?
+Aby zidentyfikować chip w swoich klonach AirPods, sprawdź tę listę [przydżenych aplikacji](https://airpodsreplicas.com/pl/useful-apps). Przetestuj każdą aplikację indywidualnie, aby określić, z którą łączą się twoje AirPods. Pomoże to szybko zidentyfikować producenta i chipset. Zauważ, że jeśli twoje AirPods są bardzo niskiej jakości, mią nie łączyć się z żadną z aplikacji. W takich przypadkach prawdopodobnie używają chipsetu Jieli.
 :::
 
-::: details Jak mogę określić, czy moje AirPods są oryginalne?
-Aby szybko sprawdzić, czy twoje AirPods są oryginalne, połącz je z iPhone i przejdź do Ustawienia > Ogólne > To urządzenie. Jeśli jest sekcja "AirPods" podczas przewijania w dół, sprawdź, czy numer seryjny pokazany tam odpowiada numerowi seryjnemu wewnątrz pokrywy AirPods ([Sprawdź Tutaj](http://airreps.info/aboutsection)). Jeśli nie ma sekcji AirPods, twoje AirPods są prawdopodobnie fałszywe. Niektóre nowsze klony AirPods mogą mieć działającą stronę "Informacje", w którym to przypadku możesz sprawdzić obecność Spatial Audio i śledzenia głowy. Dla AirPods możesz również sprawdzić wersję firmware na stronie Informacje, aby upewnić się, że odpowiada najnowszej wersji wydanej przez Apple. Jeśli nie jesteś pewien autentyczności swoich AirPods i nie możesz sprawdzić przed zakupem, możesz poprosić o pomoc na [r/airreps subreddit](https://www.reddit.com/r/AirReps/) lub [Discord](https://discord.com/invite/airreps).
+::: details Jak mię określić, czy moje AirPods są oryginalne?
+Aby szybko sprawdzić, czy twoje AirPods są oryginalne, połącz je z iPhone i przejdź do Ustawienia > Ogólne > To urządzenie. Jeśli jest sekcja "AirPods" podczas przewijania w dół, sprawdź, czy numer seryjny pokazany tam odpowiada numerowi seryjnemu wewnątrz pokrywy AirPods ([Sprawdź Tutaj](http://airreps.info/aboutsection)). Jeśli nie ma sekcji AirPods, twoje AirPods są prawdopodobnie fałszywe. Niektóre nowsze klony AirPods mią mieć działającą stronę "Informacje", w którym to przypadku możesz sprawdzić obecność Spatial Audio i śledzenia głowy. Dla AirPods możesz również sprawdzić wersję firmware na stronie Informacje, aby upewnić się, że odpowiada najnowszej wersji wydanej przez Apple. Jeśli nie jesteś pewien autentyczności swoich AirPods i nie możesz sprawdzić przed zakupem, możesz poprosić o pomoc na [r/airreps subreddit](https://www.reddit.com/r/AirReps/) lub [Discord](https://discord.com/invite/airreps).
 :::
 
 ::: details Czy i9999, Superpods itp. są lepsze niż Supercopy lub produkty w przewodniku?

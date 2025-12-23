@@ -1,14 +1,14 @@
 ---
-description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskellige sælgere. Find officielle butikker og direkte links til at købe AirPods Pro 2-kopier.
+description: Poznaj różne wersje AirPods Pro 2-klonów od różnych sprzedawców. Znajdź oficjalne sklepy i bezpośrednie linki do zakupu AirPods Pro 2-klonów.
 ---
 
 # AirPods Pro 2
 
-#### Versioner og Sælgere
+#### Wersje i Sprzedawcy
 
 <table>
   <tr>
-    <th>Version</th>
+    <th>Wersja</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -16,17 +16,17 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
   <tr>
     <td><span class="version-badge">V5.4 (Huilian)</span></td>
     <td>
-      <a href="https://airreps.link/eprov54hl">Hjemmeside</a>
+      <a href="https://airreps.link/eprov54hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov54hl">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov54hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov54hl">Hjemmeside</a>
+      <a href="https://airreps.link/jprov54hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -34,17 +34,17 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
   <tr>
     <td><span class="version-badge">V5.3 (HR)</span></td>
     <td>
-      <a href="https://airreps.link/eprov53hr2">Hjemmeside</a>
+      <a href="https://airreps.link/eprov53hr2">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov53hr2">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov53hr2">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov53hr2">Hjemmeside</a>
+      <a href="https://airreps.link/jprov53hr2">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -52,17 +52,17 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
   <tr>
     <td><span class="version-badge">V5.3 (TB)</span></td>
     <td>
-      <a href="https://airreps.link/eprov53tb">Hjemmeside</a>
+      <a href="https://airreps.link/eprov53tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov53tb">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov53tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov53tb">Hjemmeside</a>
+      <a href="https://airreps.link/jprov53tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -70,17 +70,17 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
   <tr>
   <td><span class="version-badge">V5.3 (Huilian)</span></td>
     <td>
-      <a href="https://airreps.link/eprov53hl">Hjemmeside</a>
+      <a href="https://airreps.link/eprov53hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov53hl">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov53hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov53hl">Hjemmeside</a>
+      <a href="https://airreps.link/jprov53hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -88,17 +88,17 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
   <tr>
     <td><span class="version-badge">V5.2 (TB)</span></td>
     <td>
-      <a href="https://airreps.link/eprov52tb">Hjemmeside</a>
+      <a href="https://airreps.link/eprov52tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov52tb">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov52tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov52tb">Hjemmeside</a>
+      <a href="https://airreps.link/jprov52tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -106,13 +106,13 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
   <tr>
     <td><span class="version-badge">V5.2 (Huilian)</span></td>
     <td>
-      <a href="https://airreps.link/eprov52hl">Hjemmeside</a>
+      <a href="https://airreps.link/eprov52hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://airreps.link/jprov52hl">Hjemmeside</a>
+      <a href="https://airreps.link/jprov52hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -122,7 +122,7 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://airreps.link/jprov52hr">Hjemmeside</a>
+      <a href="https://airreps.link/jprov52hr">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -130,17 +130,17 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
   <tr>
     <td><span class="version-badge">V4.2</span></td>
     <td>
-      <a href="https://airreps.link/eprov42">Hjemmeside</a>
+      <a href="https://airreps.link/eprov42">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov42">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov42">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov42">Hjemmeside</a>
+      <a href="https://airreps.link/jprov42">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -150,5 +150,5 @@ description: Udforsk forskellige versioner af AirPods Pro 2-kopier fra forskelli
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [OOPBuy](https://airreps.link/oopbuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [OOPBuy](https://airreps.link/oopbuy).
 :::

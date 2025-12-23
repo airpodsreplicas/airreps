@@ -1,14 +1,14 @@
 ---
-description: Opdag de forskellige versioner af de nye AirPods 4 og deres tilknyttede sælgere. Find officielle butikker og direkte links til at købe AirPods 4-kopier.
+description: Opdag różne wersje af de nye AirPods 4 i deres doknyttede sprzedawcae. Znajdź oficjalne sklepy i bezpośrednie linki do zakupu AirPods 4-klonów.
 ---
 
 # AirPods 4
 
-#### Versioner og Sælgere
+#### Wersje i Sprzedawcy
 
 <table>
   <tr>
-    <th>Version</th>
+    <th>Wersja</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -16,17 +16,17 @@ description: Opdag de forskellige versioner af de nye AirPods 4 og deres tilknyt
    <tr>
     <td><span class="version-badge">V3 TB</span></td>
          <td>
-      <a href="https://airreps.link/e4v3tb">Hjemmeside</a>
+      <a href="https://airreps.link/e4v3tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
         <td>
-      <a href="https://airreps.link/hc4v3tb">Hjemmeside</a>
+      <a href="https://airreps.link/hc4v3tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td style="text-align: center;">
-      <a href="https://airreps.link/j4v3tb">Hjemmeside</a><br>
+      <a href="https://airreps.link/j4v3tb">Strona</a><br>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -35,12 +35,12 @@ description: Opdag de forskellige versioner af de nye AirPods 4 og deres tilknyt
     <td><span class="version-badge">V2 HR</span></td>
          <td style="text-align: center;">-</td>
         <td>
-      <a href="https://airreps.link/hc4v2hr">Hjemmeside</a>
+      <a href="https://airreps.link/hc4v2hr">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td style="text-align: center;">
-      <a href="https://airreps.link/j4v2hr">Hjemmeside</a><br>
+      <a href="https://airreps.link/j4v2hr">Strona</a><br>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -48,17 +48,17 @@ description: Opdag de forskellige versioner af de nye AirPods 4 og deres tilknyt
   <tr>
     <td><span class="version-badge">V2 TB</span></td>
         <td>
-      <a href="https://airreps.link/e4v2tb">Hjemmeside</a>
+      <a href="https://airreps.link/e4v2tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
         <td>
-      <a href="https://airreps.link/hc4v2tb">Hjemmeside</a>
+      <a href="https://airreps.link/hc4v2tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td style="text-align: center;">
-      <a href="https://airreps.link/j4v2tb">Hjemmeside</a><br>
+      <a href="https://airreps.link/j4v2tb">Strona</a><br>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -66,17 +66,17 @@ description: Opdag de forskellige versioner af de nye AirPods 4 og deres tilknyt
     <tr>
     <td><span class="version-badge">V2 Huilian</span></td>
         <td>
-      <a href="https://airreps.link/e4v2hl">Hjemmeside</a>
+      <a href="https://airreps.link/e4v2hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
         <td>
-      <a href="https://airreps.link/hc4v2hl">Hjemmeside</a>
+      <a href="https://airreps.link/hc4v2hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td style="text-align: center;">
-      <a href="https://airreps.link/j4v2hl">Hjemmeside</a><br>
+      <a href="https://airreps.link/j4v2hl">Strona</a><br>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -86,5 +86,5 @@ description: Opdag de forskellige versioner af de nye AirPods 4 og deres tilknyt
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [OOPBuy](https://airreps.link/oopbuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [OOPBuy](https://airreps.link/oopbuy).
 :::

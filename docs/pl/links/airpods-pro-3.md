@@ -1,14 +1,14 @@
 ---
-description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pro 3 kopi-versioner og links til betroede sælgere.
+description: AirPods Pro 3-klonów er nu dogængelige! Znajdź de nyeste AirPods Pro 3 kopi-versioner i linki do betroede sprzedawcae.
 ---
 
 # AirPods Pro 3
 
-#### Versioner og Sælgere
+#### Wersje i Sprzedawcy
 
 <table>
   <tr>
-    <th>Version</th>
+    <th>Wersja</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -16,17 +16,17 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
     <td>
-      <a href="https://airreps.link/eprov6tb">Hjemmeside</a>
+      <a href="https://airreps.link/eprov6tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov6tb">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov6tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov6tb">Hjemmeside</a>
+      <a href="https://airreps.link/jprov6tb">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -34,17 +34,17 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
   <tr>
     <td><span class="version-badge">V6 (Huilian)</span></td>
     <td>
-      <a href="https://airreps.link/eprov6hl">Hjemmeside</a>
+      <a href="https://airreps.link/eprov6hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov6hl">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov6hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov6hl">Hjemmeside</a>
+      <a href="https://airreps.link/jprov6hl">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -52,17 +52,17 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
   <tr>
     <td><span class="version-badge">V5.5</span></td>
     <td>
-      <a href="https://airreps.link/eprov55">Hjemmeside</a>
+      <a href="https://airreps.link/eprov55">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov55">Hjemmeside</a>
+      <a href="https://airreps.link/hcprov55">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/jprov55">Hjemmeside</a>
+      <a href="https://airreps.link/jprov55">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -72,5 +72,5 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [OOPBuy](https://airreps.link/oopbuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [OOPBuy](https://airreps.link/oopbuy).
 :::

@@ -1,14 +1,14 @@
 ---
-description: Udforsk de forskellige versioner af AirPods 2 og deres tilknyttede sælgere. Find officielle butikker og direkte links til at købe AirPods 2-kopier.
+description: Poznaj różne wersje AirPods 2 i deres doknyttede sprzedawcae. Znajdź oficjalne sklepy i bezpośrednie linki do zakupu AirPods 2-klonów.
 ---
 
 # AirPods 2
 
-#### Versioner og Sælgere
+#### Wersje i Sprzedawcy
 
 <table>
   <tr>
-    <th>Version</th>
+    <th>Wersja</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -16,17 +16,17 @@ description: Udforsk de forskellige versioner af AirPods 2 og deres tilknyttede 
   <tr>
     <td><span class="version-badge">V3E</span></td>
     <td>
-      <a href="https://airreps.link/e2v3e">Hjemmeside</a>
+      <a href="https://airreps.link/e2v3e">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/earhivew">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/hcgen2v3e">Hjemmeside</a>
+      <a href="https://airreps.link/hcgen2v3e">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/hicityw">Weidian</a>
     </td>
     <td>
-      <a href="https://airreps.link/j2v3e">Hjemmeside</a>
+      <a href="https://airreps.link/j2v3e">Strona</a>
       <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
       <a href="https://airreps.link/jennyw">Weidian</a>
     </td>
@@ -36,5 +36,5 @@ description: Udforsk de forskellige versioner af AirPods 2 og deres tilknyttede 
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [OOPBuy](https://airreps.link/oopbuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [OOPBuy](https://airreps.link/oopbuy).
 :::
