@@ -1,0 +1,59 @@
+name: Translation Request
+description: Request a translation update for a specific page
+title: "[Translation] Update needed for: "
+labels: ["translation", "help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to request translation updates when English content has changed.
+        
+  - type: dropdown
+    id: language
+    attributes:
+      label: Target Language
+      description: Which language needs to be updated?
+      options:
+        - Portuguese (pt)
+        - Spanish (es)
+        - Danish (da)
+        - French (fr)
+        - All languages
+    validations:
+      required: true
+      
+  - type: input
+    id: page
+    attributes:
+      label: Page to Translate
+      description: Path to the page that needs translation (relative to docs/)
+      placeholder: "e.g., introduction/overview.md"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: changes
+    attributes:
+      label: Changes Made in English
+      description: Describe what changed in the English version that needs to be reflected in the translation
+      placeholder: |
+        - Added new section about XYZ
+        - Updated pricing information
+        - Fixed typo in paragraph 3
+    validations:
+      required: true
+      
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any additional context that might help translators
+    validations:
+      required: false
+      
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      options:
+        - label: I have verified the English version is up to date
+          required: true

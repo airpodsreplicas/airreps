@@ -1,0 +1,73 @@
+name: Translation Sync Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      # Only trigger on English content changes (root-level docs, not locale subdirectories)
+      - 'docs/*.md'
+      - 'docs/introduction/**/*.md'
+      - 'docs/version-info/**/*.md'
+      - 'docs/ordering/**/*.md'
+      - 'docs/links/**/*.md'
+      - 'docs/troubleshooting/**/*.md'
+
+jobs:
+  check-translations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      
+      - name: Get changed English files
+        id: changed
+        run: |
+          # Get files changed in the last commit, excluding locale directories
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' | grep -v -E '^docs/(pt|es|da|fr)/' || true)
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          
+          # Count files for the title
+          COUNT=$(echo "$FILES" | grep -c . || echo "0")
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+      
+      - name: Create translation reminder issue
+        if: steps.changed.outputs.count != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const files = `${{ steps.changed.outputs.files }}`.split('\n').filter(Boolean);
+            if (files.length === 0) return;
+            
+            const fileList = files.map(f => `- \`${f}\``).join('\n');
+            const body = `## 🌐 English content updated
+
+The following files were modified and may need translation updates:
+
+${fileList}
+
+### Languages needing update
+- [ ] Portuguese (\`/pt/\`)
+- [ ] Spanish (\`/es/\`)
+- [ ] Danish (\`/da/\`)
+- [ ] French (\`/fr/\`)
+
+### How to update translations
+1. Open the corresponding file in each locale directory
+2. Apply the same changes made to the English version
+3. Check off the language above when complete
+
+---
+*This issue was automatically created by the translation sync workflow.*`;
+            
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[Translation] Sync needed: ${files.length} file(s) updated`,
+              body,
+              labels: ['translation', 'help wanted']
+            });
+            
+            console.log(`Created translation issue for ${files.length} file(s)`);

@@ -5,7 +5,13 @@ on:
     branches:
       - main
     paths:
-      - docs/**/*.md
+      # Only trigger on English content changes (excluding locale directories)
+      - 'docs/*.md'
+      - 'docs/introduction/**/*.md'
+      - 'docs/version-info/**/*.md'
+      - 'docs/ordering/**/*.md'
+      - 'docs/links/**/*.md'
+      - 'docs/troubleshooting/**/*.md'
 
 jobs:
   combine-markdown:
@@ -19,14 +25,14 @@ jobs:
           # Clear output file
           > ultimateguide.md
           
-          # Function to add files from a directory
+          # Function to add files from a directory (English only)
           add_files_from_dir() {
             local dir="$1"
             local description="$2"
             
             if [ -d "$dir" ]; then
               echo "Adding $description files..."
-              find "$dir" -name "*.md" -type f | sort | while read -r file; do
+              find "$dir" -name "*.md" -type f ! -path "*/pt/*" ! -path "*/es/*" ! -path "*/da/*" ! -path "*/fr/*" | sort | while read -r file; do
                 echo "  - Adding: $file"
                 cat "$file" >> ultimateguide.md
               done
@@ -35,9 +41,8 @@ jobs:
             fi
           }
           
-          # Add files in logical order
+          # Add files in logical order (English content only)
           add_files_from_dir "docs/introduction" "Introduction"
-          add_files_from_dir "docs/dictionary" "Dictionary"
           add_files_from_dir "docs/version-info" "Version Info"
           add_files_from_dir "docs/ordering" "Ordering"
           add_files_from_dir "docs/links" "Links"
