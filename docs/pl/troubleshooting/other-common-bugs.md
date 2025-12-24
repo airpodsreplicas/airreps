@@ -27,7 +27,7 @@ Wykonaj poniższe kroki, aby wykonać twardy reset na swoich klonach AirPods:
 ## **Otwieranie Klonów AirPods**
 Możesz otrzymać błędnie oznakowane klony AirPods przy zamawianiu ze stron jak AliExpress od niezweryfikowanych sprzedawców. Możesz użyć aplikacji dla chipsetu, aby zweryfikować, że otrzymałeś prawidłowy chipset, często pokazanie aplikacji nie wystarczy jako dowód. Może być konieczne otwarcie AirPods i zrobienie zdjęcia chipsetu jako dowodu. Oto jak to zrobić bez uszkadzania AirPods:
 
-<p><em>🎬 Ten film jest po angielsku. Możesz włączyć automatyczne napisy YouTube, jeśli potrzebujesz.</em></p>
+<p><em>🎬 Ten film jest po angielsku. Możesz włączyć automatycznie przetłumaczone napisy YouTube, jeśli potrzebujesz.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Audio/Wideo Często Się Zatrzymuje z Klonami AirPods**
@@ -36,7 +36,7 @@ Częste zatrzymywanie się audio lub wideo podczas używania klonów AirPods to 
 ## **Klony AirPods Pozostają Połączone Po Zamknięciu Etui**
 Niektórzy użytkownicy klonów AirPods mogą doświadczyć problemu, gdzie AirPods pozostają połączone z urządzeniem nawet po zamknięciu etui ładującego. Jest to zwykle spowodowane nieprawidłowym działaniem magnesów i czujnika Halla wewnątrz etui, które są odpowiedzialne za wykrywanie pozycji AirPods. Aby rozwiązać ten problem, wykonaj kroki opisane w następującym samouczku YouTube:
 
-<p><em>🎬 Ten film jest po angielsku. Możesz włączyć automatyczne napisy YouTube, jeśli potrzebujesz.</em></p>
+<p><em>🎬 Ten film jest po angielsku. Możesz włączyć automatycznie przetłumaczone napisy YouTube, jeśli potrzebujesz.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Słaba Jakość Dźwięku lub Problemy z Basem na iOS**

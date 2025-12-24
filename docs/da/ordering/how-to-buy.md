@@ -28,7 +28,7 @@ Mange betroede sælgere accepterer nu AliPay, hvilket giver nemme kortbetalinger
 
 **Sådan Betaler Du:** Placer din ordre, vælg AliPay, scan derefter den viste QR-kode med AliPay-appen for at fuldføre betalingen.
 
-<p><em>🎬 Denne video er på engelsk. Du kan aktivere YouTubes automatiske undertekster, hvis du har brug for det.</em></p>
+<p><em>🎬 Denne video er på engelsk. Du kan aktivere YouTubes automatisk oversatte undertekster, hvis du har brug for det.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
 

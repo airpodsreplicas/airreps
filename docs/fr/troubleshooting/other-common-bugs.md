@@ -26,7 +26,7 @@ Suivez ces étapes pour effectuer une réinitialisation dure sur vos répliques 
 ## **Ouvrir les Répliques d'AirPods**
 Vous pouvez recevoir des clones d'AirPods mal étiquetés lors de commandes sur des sites comme AliExpress auprès de vendeurs non vérifiés. Vous pouvez utiliser l'application pour le chipset pour vérifier que vous avez reçu le bon chipset, mais souvent montrer l'application ne suffit pas comme preuve. Vous devrez peut-être ouvrir les AirPods et prendre une photo du chipset comme preuve. Voici comment vous pouvez le faire, sans endommager les AirPods :
 
-<p><em>🎬 Cette vidéo est en anglais. Vous pouvez activer les sous-titres automatiques de YouTube si nécessaire.</em></p>
+<p><em>🎬 Cette vidéo est en anglais. Vous pouvez activer les sous-titres traduits automatiquement de YouTube si nécessaire.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **L'Audio/Vidéo se Met Fréquemment en Pause avec les Répliques d'AirPods**
@@ -35,7 +35,7 @@ La pause fréquente de l'audio ou de la vidéo lors de l'utilisation de répliqu
 ## **Les Répliques d'AirPods Restent Connectées Après Fermeture du Boîtier de Charge**
 Certains utilisateurs de répliques d'AirPods peuvent rencontrer un problème où les AirPods restent connectés à leur appareil même après avoir fermé le boîtier de charge. C'est généralement causé par un dysfonctionnement des aimants et du capteur Hall à l'intérieur du boîtier, qui sont responsables de détecter la position des AirPods. Pour résoudre ce problème, suivez les étapes décrites dans le tutoriel YouTube suivant :
 
-<p><em>🎬 Cette vidéo est en anglais. Vous pouvez activer les sous-titres automatiques de YouTube si nécessaire.</em></p>
+<p><em>🎬 Cette vidéo est en anglais. Vous pouvez activer les sous-titres traduits automatiquement de YouTube si nécessaire.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Mauvaise Qualité Sonore ou Problèmes de Basses avec les Répliques d'AirPods sur iOS**

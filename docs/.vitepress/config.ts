@@ -200,6 +200,22 @@ const translations: Record<string, {
     },
     footer: { message: 'Wydane na licencji GPLv3.', copyright: `© Copyright ${new Date().getFullYear()} AirReps. Wszelkie Prawa Zastrzeżone.` },
     editLink: 'Edytuj tę stronę na GitHub'
+  },
+  ru: {
+    nav: { home: 'Главная', ultimateGuide: 'Полное Руководство', links: 'Ссылки' },
+    sidebar: {
+      ultimateGuide: 'Полное Руководство', overview: 'Обзор', sellers: 'Продавцы',
+      packaging: 'Упаковка', connectivity: 'Подключение', batteryLife: 'Время Работы Батареи',
+      features: 'Функции', ancExplained: 'ANC Объяснение', buildQuality: 'Качество Сборки',
+      soundQuality: 'Качество Звука', dictionary: 'Словарь', versionInfo: 'Информация о Версиях',
+      general: 'Общее', ordering: 'Заказ', howToBuy: 'Как Купить', qcLc: 'QC и LC',
+      links: 'Ссылки', info: 'Информация', troubleshooting: 'Устранение Неполадок',
+      icloudIncompatibility: 'Несовместимость с iCloud',
+      otherBugs: 'Другие Частые Ошибки', macosVolume: 'Громкость на MacOS',
+      usefulApps: 'Полезные Приложения', contributing: 'Участие'
+    },
+    footer: { message: 'Выпущено под лицензией GPLv3.', copyright: `© Copyright ${new Date().getFullYear()} AirReps. Все Права Защищены.` },
+    editLink: 'Редактировать на GitHub'
   }
 }
 
@@ -222,7 +238,7 @@ export default defineConfig({
       // Add locale alternates (hreflang) for each page
       return items.map(item => {
         // Determine if this is a locale page or root
-        const locales = ['es', 'pt', 'da', 'fr']
+        const locales = ['es', 'pt', 'da', 'fr', 'ru']
         const isLocalePage = locales.some(l => item.url.startsWith(`/${l}/`))
 
         // Find the base path (without locale prefix)
@@ -241,6 +257,7 @@ export default defineConfig({
           { lang: 'pt', url: `https://airpodsreplicas.com/pt${basePath}` },
           { lang: 'da', url: `https://airpodsreplicas.com/da${basePath}` },
           { lang: 'fr', url: `https://airpodsreplicas.com/fr${basePath}` },
+          { lang: 'ru', url: `https://airpodsreplicas.com/ru${basePath}` },
           { lang: 'x-default', url: `https://airpodsreplicas.com${basePath}` }
         ]
 
@@ -279,7 +296,7 @@ export default defineConfig({
 
     // Detect current locale
     let currentLocale = 'en'
-    const locales = ['es', 'pt', 'da', 'fr', 'pl']
+    const locales = ['es', 'pt', 'da', 'fr', 'pl', 'ru']
     for (const locale of locales) {
       if (basePath.startsWith(`${locale}/`)) {
         currentLocale = locale
@@ -313,6 +330,10 @@ export default defineConfig({
       pl: {
         title: '🇵🇱 AirReps | Kompletny Przewodnik',
         description: 'Społeczność do dyskusji i odkrywania klonów AirPods. Odkryj przystępne cenowo alternatywy i sprawdź nasz Kompletny Przewodnik po szczegółowe informacje. Zacznij odkrywać świat klonów AirPods już dziś!'
+      },
+      ru: {
+        title: '🇷🇺 AirReps | Полное Руководство',
+        description: 'Сообщество для обсуждения и изучения клонов AirPods. Откройте для себя доступные альтернативы и ознакомьтесь с нашим Полным Руководством для подробной информации. Начните исследовать мир клонов AirPods уже сегодня!'
       }
     }
 
@@ -329,6 +350,7 @@ export default defineConfig({
       ['link', { rel: 'alternate', hreflang: 'da', href: `https://airpodsreplicas.com/da${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'fr', href: `https://airpodsreplicas.com/fr${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'pl', href: `https://airpodsreplicas.com/pl${canonicalBase}` }],
+      ['link', { rel: 'alternate', hreflang: 'ru', href: `https://airpodsreplicas.com/ru${canonicalBase}` }],
       ['link', { rel: 'alternate', hreflang: 'x-default', href: `https://airpodsreplicas.com${canonicalBase}` }],
       ['link', { rel: 'canonical', href: pageUrl }],
       // Localized Open Graph meta tags
@@ -341,7 +363,7 @@ export default defineConfig({
       ['meta', { property: 'og:image:height', content: '400' }],
       ['meta', { property: 'og:image:alt', content: meta.title }],
       ['meta', { property: 'og:image:type', content: 'image/webp' }],
-      ['meta', { property: 'og:locale', content: currentLocale === 'en' ? 'en_US' : currentLocale === 'pt' ? 'pt_BR' : currentLocale === 'es' ? 'es_ES' : currentLocale === 'da' ? 'da_DK' : currentLocale === 'pl' ? 'pl_PL' : 'fr_FR' }],
+      ['meta', { property: 'og:locale', content: currentLocale === 'en' ? 'en_US' : currentLocale === 'pt' ? 'pt_BR' : currentLocale === 'es' ? 'es_ES' : currentLocale === 'da' ? 'da_DK' : currentLocale === 'pl' ? 'pl_PL' : currentLocale === 'ru' ? 'ru_RU' : 'fr_FR' }],
       // Localized Twitter meta tags
       ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
       ['meta', { property: 'twitter:url', content: pageUrl }],
@@ -376,7 +398,8 @@ export default defineConfig({
         editLink: { pattern: "https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path", text: translations.pt.editLink },
         footer: { message: translations.pt.footer.message, copyright: translations.pt.footer.copyright },
         docFooter: { prev: 'Página anterior', next: 'Próxima página' },
-        outline: { label: 'Nesta página' }
+        outline: { label: 'Nesta página' },
+        returnToTopLabel: 'Voltar ao topo'
       }
     },
     es: {
@@ -389,7 +412,8 @@ export default defineConfig({
         editLink: { pattern: "https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path", text: translations.es.editLink },
         footer: { message: translations.es.footer.message, copyright: translations.es.footer.copyright },
         docFooter: { prev: 'Página anterior', next: 'Página siguiente' },
-        outline: { label: 'En esta página' }
+        outline: { label: 'En esta página' },
+        returnToTopLabel: 'Volver arriba'
       }
     },
     da: {
@@ -402,7 +426,8 @@ export default defineConfig({
         editLink: { pattern: "https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path", text: translations.da.editLink },
         footer: { message: translations.da.footer.message, copyright: translations.da.footer.copyright },
         docFooter: { prev: 'Forrige side', next: 'Næste side' },
-        outline: { label: 'På denne side' }
+        outline: { label: 'På denne side' },
+        returnToTopLabel: 'Tilbage til toppen'
       }
     },
     fr: {
@@ -415,7 +440,8 @@ export default defineConfig({
         editLink: { pattern: "https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path", text: translations.fr.editLink },
         footer: { message: translations.fr.footer.message, copyright: translations.fr.footer.copyright },
         docFooter: { prev: 'Page précédente', next: 'Page suivante' },
-        outline: { label: 'Sur cette page' }
+        outline: { label: 'Sur cette page' },
+        returnToTopLabel: 'Retour en haut'
       }
     },
     pl: {
@@ -428,7 +454,22 @@ export default defineConfig({
         editLink: { pattern: "https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path", text: translations.pl.editLink },
         footer: { message: translations.pl.footer.message, copyright: translations.pl.footer.copyright },
         docFooter: { prev: 'Poprzednia strona', next: 'Następna strona' },
-        outline: { label: 'Na tej stronie' }
+        outline: { label: 'Na tej stronie' },
+        returnToTopLabel: 'Powrót na górę'
+      }
+    },
+    ru: {
+      label: 'Русский',
+      lang: 'ru-RU',
+      description: 'Сообщество для обсуждения и изучения клонов AirPods.',
+      themeConfig: {
+        nav: getNav('ru'),
+        sidebar: getSidebar('ru'),
+        editLink: { pattern: "https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path", text: translations.ru.editLink },
+        footer: { message: translations.ru.footer.message, copyright: translations.ru.footer.copyright },
+        docFooter: { prev: 'Предыдущая страница', next: 'Следующая страница' },
+        outline: { label: 'На этой странице' },
+        returnToTopLabel: 'Вернуться наверх'
       }
     }
   },
@@ -459,7 +500,8 @@ export default defineConfig({
           es: { placeholder: 'Buscar', translations: { button: { buttonText: 'Buscar' } } },
           da: { placeholder: 'Søg', translations: { button: { buttonText: 'Søg' } } },
           fr: { placeholder: 'Rechercher', translations: { button: { buttonText: 'Rechercher' } } },
-          pl: { placeholder: 'Szukaj', translations: { button: { buttonText: 'Szukaj' } } }
+          pl: { placeholder: 'Szukaj', translations: { button: { buttonText: 'Szukaj' } } },
+          ru: { placeholder: 'Поиск', translations: { button: { buttonText: 'Поиск' } } }
         }
       }
     }

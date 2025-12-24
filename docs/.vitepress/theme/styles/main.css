@@ -111,3 +111,10 @@ table .version-badge {
     font-size: 0.8em;
     padding: 0.15em 0.5em;
 }
+
+/* Responsive YouTube embeds */
+iframe[src*="youtube"] {
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}

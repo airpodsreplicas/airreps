@@ -26,7 +26,7 @@ Følg disse trin for at udføre en hård nulstilling på dine AirPods-kopier:
 ## **Åbning af AirPods-kopier**
 Du kan modtage fejlmarkedsførte AirPods-kloner, når du bestiller på sider som AliExpress fra ikke-verificerede sælgere. Du kan bruge appen til chipsettet for at verificere, at du modtog det korrekte chipset, det er ofte ikke nok bevis at vise appen. Du skal muligvis åbne AirPods og tage et billede af chipsettet som bevis. Her er hvordan du kan gøre dette uden at beskadige AirPods:
 
-<p><em>🎬 Denne video er på engelsk. Du kan aktivere YouTubes automatiske undertekster, hvis du har brug for det.</em></p>
+<p><em>🎬 Denne video er på engelsk. Du kan aktivere YouTubes automatisk oversatte undertekster, hvis du har brug for det.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Lyd/Video Pauser Hyppigt med AirPods-kopier**
@@ -35,7 +35,7 @@ Hyppig pause af lyd eller video, mens du bruger AirPods-kopier, er et almindelig
 ## **AirPods-kopier Forbliver Tilsluttet Efter Lukning af Opladningsetuiet**
 Nogle brugere af AirPods-kopier kan opleve et problem, hvor AirPods forbliver forbundet til deres enhed, selv efter lukning af opladningsetuiet. Dette skyldes typisk en fejlfunktion med magneterne og hall-sensoren inde i etuiet, som er ansvarlige for at detektere positionen af AirPods. For at løse dette problem, følg trinene beskrevet i følgende YouTube-tutorial:
 
-<p><em>🎬 Denne video er på engelsk. Du kan aktivere YouTubes automatiske undertekster, hvis du har brug for det.</em></p>
+<p><em>🎬 Denne video er på engelsk. Du kan aktivere YouTubes automatisk oversatte undertekster, hvis du har brug for det.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Dårlig Lydkvalitet eller Basproblemer med AirPods-kopier på iOS**

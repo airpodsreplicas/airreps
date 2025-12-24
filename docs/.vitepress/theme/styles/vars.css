@@ -9,3 +9,13 @@
 .dark {
     --vp-c-bg: #151515;
 }
+
+/* Fix DocSearch button dark mode */
+.dark .DocSearch-Button {
+    background-color: #252525;
+    color: #888;
+}
+
+.dark .DocSearch-Button .DocSearch-Search-Icon {
+    color: #888;
+}

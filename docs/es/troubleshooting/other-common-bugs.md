@@ -26,7 +26,7 @@ Sigue estos pasos para realizar un reinicio duro en tus réplicas de AirPods:
 ## **Abriendo Réplicas de AirPods**
 Puedes recibir clones de AirPods mal etiquetados al ordenar en sitios como AliExpress de vendedores no verificados. Puedes usar la app del chipset para verificar que recibiste el chipset correcto, a menudo no es suficiente mostrar la app. Puede que necesites abrir los AirPods y tomar una foto del chipset como prueba. Aquí te mostramos cómo hacer esto, sin dañar los AirPods:
 
-<p><em>🎬 Este video está en inglés. Puedes activar los subtítulos automáticos de YouTube si lo necesitas.</em></p>
+<p><em>🎬 Este video está en inglés. Puedes activar los subtítulos traducidos automáticamente de YouTube si lo necesitas.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Audio/Video Pausándose Frecuentemente con Réplicas de AirPods**
@@ -35,7 +35,7 @@ Las pausas frecuentes de audio o video mientras usas réplicas de AirPods es un 
 ## **Las Réplicas de AirPods Permanecen Conectadas Después de Cerrar el Estuche de Carga**
 Algunos usuarios de réplicas de AirPods pueden experimentar un problema donde los AirPods permanecen conectados a su dispositivo incluso después de cerrar el estuche de carga. Esto típicamente es causado por un mal funcionamiento de los imanes y el sensor hall dentro del estuche, que son responsables de detectar la posición de los AirPods. Para solucionar este problema, sigue los pasos descritos en el siguiente tutorial de YouTube:
 
-<p><em>🎬 Este video está en inglés. Puedes activar los subtítulos automáticos de YouTube si lo necesitas.</em></p>
+<p><em>🎬 Este video está en inglés. Puedes activar los subtítulos traducidos automáticamente de YouTube si lo necesitas.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Mala Calidad de Sonido o Problemas de Bajos con Réplicas de AirPods en iOS**

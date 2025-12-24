@@ -29,7 +29,7 @@ Wielu zaufanych sprzedawców akceptuje teraz AliPay, umożliwiając łatwe płat
 
 **Jak Płacić:** Złóż zamówienie, wybierz AliPay, następnie zeskanuj wyświetlony kod QR aplikacją AliPay, aby dokończyć płatność.
 
-<p><em>🎬 Ten film jest po angielsku. Możesz włączyć automatyczne napisy YouTube, jeśli potrzebujesz.</em></p>
+<p><em>🎬 Ten film jest po angielsku. Możesz włączyć automatycznie przetłumaczone napisy YouTube, jeśli potrzebujesz.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
 

@@ -28,7 +28,7 @@ Muitos vendedores confiáveis agora aceitam o AliPay, permitindo pagamentos fác
 
 **Como Pagar:** Faça seu pedido, selecione AliPay e escaneie o código QR exibido com o app AliPay para concluir o pagamento.
 
-<p><em>🎬 Este vídeo está em inglês. Você pode ativar as legendas automáticas do YouTube se necessário.</em></p>
+<p><em>🎬 Este vídeo está em inglês. Você pode ativar as legendas traduzidas automaticamente do YouTube se necessário.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
 ## Informações sobre AliExpress/Alibaba
