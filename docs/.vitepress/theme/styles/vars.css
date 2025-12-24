@@ -8,6 +8,7 @@
 
 .dark {
     --vp-c-bg: #151515;
+    --vp-c-gutter: #222;
 }
 
 /* Fix DocSearch button dark mode */
