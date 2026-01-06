@@ -3,6 +3,7 @@
 layout: home
 
 title: 'AirReps'
+description: 'AirReps-fællesskabets centrum for diskussioner om AirPods-kopier. Få hjælp, find betroede sælgere og udforsk vores Ultimative Guide.'
 
 hero:
   name: "AirReps"

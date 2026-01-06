@@ -4,6 +4,7 @@ layout: home
 translationStatus: machine-translated
 
 title: 'AirReps'
+description: 'Центр сообщества AirReps для обсуждения реплик AirPods. Получите помощь, найдите проверенных продавцов и изучите наше Полное Руководство.'
 
 hero:
   name: "AirReps"

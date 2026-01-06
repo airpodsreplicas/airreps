@@ -289,7 +289,7 @@ export default defineConfig({
 
   // Dynamically inject hreflang tags and localized OG meta into every page
   transformHead: ({ pageData }) => {
-    const { relativePath } = pageData
+    const { relativePath, frontmatter } = pageData
     // Remove locale prefix from path to get base path
     let basePath = relativePath.replace(/\.md$/, '')
     if (basePath === 'index') basePath = ''
@@ -305,39 +305,58 @@ export default defineConfig({
       }
     }
 
-    // Localized OG metadata with flag emojis
-    const ogMeta: Record<string, { title: string; description: string }> = {
+    // Flag emojis for each locale
+    const localeFlags: Record<string, string> = {
+      en: '🎧',
+      es: '🇪🇸',
+      pt: '🇧🇷',
+      da: '🇩🇰',
+      fr: '🇫🇷',
+      pl: '🇵🇱',
+      ru: '🇷🇺'
+    }
+
+    // Default OG metadata with flag emojis (used as fallback)
+    const ogMetaDefaults: Record<string, { title: string; description: string }> = {
       en: {
-        title: '🎧 AirReps | Ultimate Guide',
+        title: 'AirReps | Ultimate Guide',
         description: 'A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!'
       },
       es: {
-        title: '🇪🇸 AirReps | Guía Definitiva',
+        title: 'AirReps | Guía Definitiva',
         description: 'Una comunidad para la discusión y exploración de clones de AirPods. Descubre alternativas asequibles y consulta nuestra Guía Definitiva para información detallada. ¡Comienza a explorar el mundo de los clones de AirPods hoy!'
       },
       pt: {
-        title: '🇧🇷 AirReps | Guia Definitivo',
+        title: 'AirReps | Guia Definitivo',
         description: 'Uma comunidade para discussão e exploração de clones de AirPods. Descubra alternativas acessíveis e confira nosso Guia Definitivo para insights detalhados. Comece a explorar o mundo dos clones de AirPods hoje!'
       },
       da: {
-        title: '🇩🇰 AirReps | Ultimativ Guide',
+        title: 'AirReps | Ultimativ Guide',
         description: 'Et fællesskab for diskussion og udforskning af AirPods-kloner. Opdag overkommelige alternativer og tjek vores Ultimative Guide for detaljerede indsigter. Begynd at udforske verden af AirPods-kloner i dag!'
       },
       fr: {
-        title: '🇫🇷 AirReps | Guide Ultime',
+        title: 'AirReps | Guide Ultime',
         description: 'Une communauté pour la discussion et l\'exploration des clones AirPods. Découvrez des alternatives abordables et consultez notre Guide Ultime pour des informations détaillées. Commencez à explorer le monde des clones AirPods dès aujourd\'hui!'
       },
       pl: {
-        title: '🇵🇱 AirReps | Kompletny Przewodnik',
+        title: 'AirReps | Kompletny Przewodnik',
         description: 'Społeczność do dyskusji i odkrywania klonów AirPods. Odkryj przystępne cenowo alternatywy i sprawdź nasz Kompletny Przewodnik po szczegółowe informacje. Zacznij odkrywać świat klonów AirPods już dziś!'
       },
       ru: {
-        title: '🇷🇺 AirReps | Полное Руководство',
+        title: 'AirReps | Полное Руководство',
         description: 'Сообщество для обсуждения и изучения клонов AirPods. Откройте для себя доступные альтернативы и ознакомьтесь с нашим Полным Руководством для подробной информации. Начните исследовать мир клонов AirPods уже сегодня!'
       }
     }
 
-    const meta = ogMeta[currentLocale] || ogMeta.en
+    const defaults = ogMetaDefaults[currentLocale] || ogMetaDefaults.en
+    const flag = localeFlags[currentLocale] || '🎧'
+
+    // Use page-specific frontmatter if available, otherwise fall back to locale defaults
+    const pageTitle = frontmatter.title
+      ? `${flag} ${frontmatter.title} | AirReps`
+      : `${flag} ${defaults.title}`
+    const pageDescription = frontmatter.description || defaults.description
+
     const canonicalBase = basePath ? `/${basePath}` : ''
     const localePrefix = currentLocale === 'en' ? '' : `/${currentLocale}`
     const pageUrl = `https://airpodsreplicas.com${localePrefix}${canonicalBase}`
@@ -354,23 +373,23 @@ export default defineConfig({
       ['link', { rel: 'alternate', hreflang: 'x-default', href: `https://airpodsreplicas.com${canonicalBase}` }],
       ['link', { rel: 'canonical', href: pageUrl }],
       // Localized Open Graph meta tags
-      ['meta', { property: 'og:title', content: meta.title }],
+      ['meta', { property: 'og:title', content: pageTitle }],
       ['meta', { property: 'og:type', content: 'website' }],
       ['meta', { property: 'og:url', content: pageUrl }],
-      ['meta', { property: 'og:description', content: meta.description }],
+      ['meta', { property: 'og:description', content: pageDescription }],
       ['meta', { property: 'og:image', content: 'https://airpodsreplicas.com/logo.webp' }],
       ['meta', { property: 'og:image:width', content: '400' }],
       ['meta', { property: 'og:image:height', content: '400' }],
-      ['meta', { property: 'og:image:alt', content: meta.title }],
+      ['meta', { property: 'og:image:alt', content: pageTitle }],
       ['meta', { property: 'og:image:type', content: 'image/webp' }],
       ['meta', { property: 'og:locale', content: currentLocale === 'en' ? 'en_US' : currentLocale === 'pt' ? 'pt_BR' : currentLocale === 'es' ? 'es_ES' : currentLocale === 'da' ? 'da_DK' : currentLocale === 'pl' ? 'pl_PL' : currentLocale === 'ru' ? 'ru_RU' : 'fr_FR' }],
       // Localized Twitter meta tags
       ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
       ['meta', { property: 'twitter:url', content: pageUrl }],
-      ['meta', { property: 'twitter:title', content: meta.title }],
-      ['meta', { property: 'twitter:description', content: meta.description }],
+      ['meta', { property: 'twitter:title', content: pageTitle }],
+      ['meta', { property: 'twitter:description', content: pageDescription }],
       ['meta', { property: 'twitter:image', content: 'https://airpodsreplicas.com/logo.webp' }],
-      ['meta', { property: 'twitter:image:alt', content: meta.title }]
+      ['meta', { property: 'twitter:image:alt', content: pageTitle }]
     ]
   },
 

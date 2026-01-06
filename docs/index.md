@@ -3,6 +3,7 @@
 layout: home
 
 title: 'AirReps'
+description: 'The AirReps community hub for AirPods replica discussions. Get help, find trusted sellers, and explore our Ultimate Guide.'
 
 hero:
   name: "AirReps"
