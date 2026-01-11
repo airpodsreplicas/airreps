@@ -352,7 +352,7 @@ export default defineConfig({
     const flag = localeFlags[currentLocale] || '🎧'
 
     // Use page-specific frontmatter if available, otherwise fall back to locale defaults
-    const pageTitle = frontmatter.title
+    const pageTitle = frontmatter.title && frontmatter.title !== 'AirReps'
       ? `${flag} ${frontmatter.title} | AirReps`
       : `${flag} ${defaults.title}`
     const pageDescription = frontmatter.description || defaults.description
