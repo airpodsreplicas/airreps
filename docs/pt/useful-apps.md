@@ -39,7 +39,3 @@ Abaixo estão os apps que podem ser baixados para ajudá-lo, juntamente com as v
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android) |
 |---|
 
-## **V2.5/KKV8 Gen2**
-
-| [![KK (Android)](/app_icon/kk.png)](https://airreps.link/kkv8) KK (Android) |
-|---|
