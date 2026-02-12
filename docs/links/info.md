@@ -41,6 +41,21 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Bank Transfer** | ✅ | ✅ | ✅ |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
+| **Skrill** | ❌ | ✅ | ❌ |
+| **Trustly** | ❌ | ✅ | ❌ |
+| **Afterpay** | ❌ | ✅ | ❌ |
+| **Satispay** | ❌ | ✅ | ❌ |
+| **MBWAY** | ❌ | ✅ | ❌ |
+| **Multibanco** | ❌ | ✅ | ❌ |
+| **Swish** | ❌ | ✅ | ❌ |
+| **Zip** | ❌ | ✅ | ❌ |
+| **PIX** | ❌ | ✅ | ❌ |
+| **Boleto** | ❌ | ✅ | ❌ |
+| **Mercado Pago** | ❌ | ✅ | ❌ |
+| **Blik** | ❌ | ✅ | ❌ |
+| **PayU** | ❌ | ✅ | ❌ |
+| **Bancontact** | ❌ | ✅ | ❌ |
+| **EPS** | ❌ | ✅ | ❌ |
 
 ::: tip
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours to process.

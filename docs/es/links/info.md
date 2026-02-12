@@ -41,6 +41,21 @@ Todos los vendedores de confianza aceptan múltiples métodos de pago para tu co
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Transferencia Bancaria** | ✅ | ✅ | ✅ |
 | **Weidian (mediante agente)** | ✅ | ✅ | ✅ |
+| **Skrill** | ❌ | ✅ | ❌ |
+| **Trustly** | ❌ | ✅ | ❌ |
+| **Afterpay** | ❌ | ✅ | ❌ |
+| **Satispay** | ❌ | ✅ | ❌ |
+| **MBWAY** | ❌ | ✅ | ❌ |
+| **Multibanco** | ❌ | ✅ | ❌ |
+| **Swish** | ❌ | ✅ | ❌ |
+| **Zip** | ❌ | ✅ | ❌ |
+| **PIX** | ❌ | ✅ | ❌ |
+| **Boleto** | ❌ | ✅ | ❌ |
+| **Mercado Pago** | ❌ | ✅ | ❌ |
+| **Blik** | ❌ | ✅ | ❌ |
+| **PayU** | ❌ | ✅ | ❌ |
+| **Bancontact** | ❌ | ✅ | ❌ |
+| **EPS** | ❌ | ✅ | ❌ |
 
 ::: tip
 Los pagos vía Wise o Transferencia Bancaria requieren revisión manual por el vendedor, lo cual puede tomar hasta 24 horas para procesar.

@@ -42,6 +42,21 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod Płatności dla Twojej wygody:
 | **Bitcoin / Krypto** | ✅ | ✅ | ✅ |
 | **Przelew Bankowy** | ✅ | ✅ | ✅ |
 | **Weidian (przez agenta)** | ✅ | ✅ | ✅ |
+| **Skrill** | ❌ | ✅ | ❌ |
+| **Trustly** | ❌ | ✅ | ❌ |
+| **Afterpay** | ❌ | ✅ | ❌ |
+| **Satispay** | ❌ | ✅ | ❌ |
+| **MBWAY** | ❌ | ✅ | ❌ |
+| **Multibanco** | ❌ | ✅ | ❌ |
+| **Swish** | ❌ | ✅ | ❌ |
+| **Zip** | ❌ | ✅ | ❌ |
+| **PIX** | ❌ | ✅ | ❌ |
+| **Boleto** | ❌ | ✅ | ❌ |
+| **Mercado Pago** | ❌ | ✅ | ❌ |
+| **Blik** | ❌ | ✅ | ❌ |
+| **PayU** | ❌ | ✅ | ❌ |
+| **Bancontact** | ❌ | ✅ | ❌ |
+| **EPS** | ❌ | ✅ | ❌ |
 
 ::: tip
 Płatności przez Wise lub Przelew Bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może zająć do 24 godzin do przetworzenia.

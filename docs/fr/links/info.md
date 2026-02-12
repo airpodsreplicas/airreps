@@ -41,6 +41,21 @@ Tous les vendeurs de confiance acceptent plusieurs méthodes de paiement pour vo
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Virement Bancaire** | ✅ | ✅ | ✅ |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
+| **Skrill** | ❌ | ✅ | ❌ |
+| **Trustly** | ❌ | ✅ | ❌ |
+| **Afterpay** | ❌ | ✅ | ❌ |
+| **Satispay** | ❌ | ✅ | ❌ |
+| **MBWAY** | ❌ | ✅ | ❌ |
+| **Multibanco** | ❌ | ✅ | ❌ |
+| **Swish** | ❌ | ✅ | ❌ |
+| **Zip** | ❌ | ✅ | ❌ |
+| **PIX** | ❌ | ✅ | ❌ |
+| **Boleto** | ❌ | ✅ | ❌ |
+| **Mercado Pago** | ❌ | ✅ | ❌ |
+| **Blik** | ❌ | ✅ | ❌ |
+| **PayU** | ❌ | ✅ | ❌ |
+| **Bancontact** | ❌ | ✅ | ❌ |
+| **EPS** | ❌ | ✅ | ❌ |
 
 ::: tip
 Les paiements via Wise ou Virement Bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures à traiter.

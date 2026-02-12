@@ -41,6 +41,21 @@ Alle betroede sælgere accepterer flere betalingsmetoder for din bekvemmelighed:
 | **Bitcoin / Krypto** | ✅ | ✅ | ✅ |
 | **Bankoverførsel** | ✅ | ✅ | ✅ |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
+| **Skrill** | ❌ | ✅ | ❌ |
+| **Trustly** | ❌ | ✅ | ❌ |
+| **Afterpay** | ❌ | ✅ | ❌ |
+| **Satispay** | ❌ | ✅ | ❌ |
+| **MBWAY** | ❌ | ✅ | ❌ |
+| **Multibanco** | ❌ | ✅ | ❌ |
+| **Swish** | ❌ | ✅ | ❌ |
+| **Zip** | ❌ | ✅ | ❌ |
+| **PIX** | ❌ | ✅ | ❌ |
+| **Boleto** | ❌ | ✅ | ❌ |
+| **Mercado Pago** | ❌ | ✅ | ❌ |
+| **Blik** | ❌ | ✅ | ❌ |
+| **PayU** | ❌ | ✅ | ❌ |
+| **Bancontact** | ❌ | ✅ | ❌ |
+| **EPS** | ❌ | ✅ | ❌ |
 
 ::: tip
 Betalinger via Wise eller Bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer at behandle.
