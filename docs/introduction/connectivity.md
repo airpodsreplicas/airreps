@@ -1,5 +1,5 @@
 ---
-description: Explore the connectivity features of AirPods replicas, including iOS popup speed, range, latency, lack of multi-device connectivity, macOS compatibility, iOS audio playback issues, and initial connectivity with iOS devices.
+description: "Connectivity details: iOS popup, macOS issues, range, latency, and multi-device support."
 ---
 
 # Connectivity

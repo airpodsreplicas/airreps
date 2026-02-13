@@ -1,5 +1,5 @@
 ---
-description: Learn how to quality check your AirPods replicas or identify authentic AirPods. Explore methods to check for design flaws, such as hinge color, button alignment, and cable alignment. Discover software differences, including Find My Network, device settings, about page, and spatial audio. Get additional support and advice from the AirReps community on the Discord server.
+description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
 ---
 
 # QC & LC

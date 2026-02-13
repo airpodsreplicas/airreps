@@ -1,5 +1,5 @@
 ---
-description: Learn about Active Noise Cancellation (ANC) technology, its different implementations (Feedback, Feedforward, and Hybrid), and how it's used in AirPods and their replicas.
+description: Everything about ANC tech in AirPods replicas. Explaining Feedback, Feedforward, and Hybrid noise cancellation.
 ---
 
 # Active Noise Cancellation (ANC) Explained

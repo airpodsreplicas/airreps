@@ -238,7 +238,7 @@ export default defineConfig({
       // Add locale alternates (hreflang) for each page
       return items.map(item => {
         // Determine if this is a locale page or root
-        const locales = ['es', 'pt', 'da', 'fr', 'ru']
+        const locales = ['es', 'pt', 'da', 'fr', 'ru', 'pl']
         const isLocalePage = locales.some(l => item.url.startsWith(`/${l}/`))
 
         // Find the base path (without locale prefix)
@@ -258,6 +258,7 @@ export default defineConfig({
           { lang: 'da', url: `https://airpodsreplicas.com/da${basePath}` },
           { lang: 'fr', url: `https://airpodsreplicas.com/fr${basePath}` },
           { lang: 'ru', url: `https://airpodsreplicas.com/ru${basePath}` },
+          { lang: 'pl', url: `https://airpodsreplicas.com/pl${basePath}` },
           { lang: 'x-default', url: `https://airpodsreplicas.com${basePath}` }
         ]
 
@@ -287,9 +288,9 @@ export default defineConfig({
     ["meta", { property: "author", content: "AirReps" }]
   ],
 
-  // Dynamically inject hreflang tags and localized OG meta into every page
+  // Dynamically inject hreflang tags, localized OG meta, and JSON-LD into every page
   transformHead: ({ pageData }) => {
-    const { relativePath, frontmatter } = pageData
+    const { relativePath, frontmatter, title, description } = pageData
     // Remove locale prefix from path to get base path
     let basePath = relativePath.replace(/\.md$/, '')
     if (basePath === 'index') basePath = ''
@@ -361,6 +362,72 @@ export default defineConfig({
     const localePrefix = currentLocale === 'en' ? '' : `/${currentLocale}`
     const pageUrl = `https://airpodsreplicas.com${localePrefix}${canonicalBase}`
 
+    // OG Image Path
+    // Use the generated OG image for the specific page
+    const ogImageSlug = relativePath.replace(/\.md$/, '')
+    const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageSlug}.png`
+
+    // JSON-LD Schema
+    const schema = {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://airpodsreplicas.com/#website",
+          "url": "https://airpodsreplicas.com",
+          "name": "AirReps",
+          "description": defaults.description,
+          "publisher": {
+            "@type": "Organization",
+            "name": "AirReps",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://airpodsreplicas.com/logo.webp"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": `${pageUrl}/#breadcrumb`,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": `https://airpodsreplicas.com${localePrefix}/`
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": frontmatter.title || 'Page',
+              "item": pageUrl
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "@id": `${pageUrl}/#article`,
+          "headline": pageTitle,
+          "description": pageDescription,
+          "image": ogImageUrl,
+          "author": {
+            "@type": "Organization",
+            "name": "AirReps"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "AirReps",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://airpodsreplicas.com/logo.webp"
+            }
+          },
+          "datePublished": new Date().toISOString(), // Fallback, could use git timestamp if available
+          "dateModified": new Date().toISOString()
+        }
+      ]
+    }
+
     return [
       // Hreflang tags for SEO
       ['link', { rel: 'alternate', hreflang: 'en', href: `https://airpodsreplicas.com${canonicalBase}` }],
@@ -374,22 +441,24 @@ export default defineConfig({
       ['link', { rel: 'canonical', href: pageUrl }],
       // Localized Open Graph meta tags
       ['meta', { property: 'og:title', content: pageTitle }],
-      ['meta', { property: 'og:type', content: 'website' }],
+      ['meta', { property: 'og:type', content: 'article' }], // Changed from website to article for guides
       ['meta', { property: 'og:url', content: pageUrl }],
       ['meta', { property: 'og:description', content: pageDescription }],
-      ['meta', { property: 'og:image', content: 'https://airpodsreplicas.com/logo.webp' }],
-      ['meta', { property: 'og:image:width', content: '400' }],
-      ['meta', { property: 'og:image:height', content: '400' }],
+      ['meta', { property: 'og:image', content: ogImageUrl }],
+      ['meta', { property: 'og:image:width', content: '1200' }],
+      ['meta', { property: 'og:image:height', content: '630' }],
       ['meta', { property: 'og:image:alt', content: pageTitle }],
-      ['meta', { property: 'og:image:type', content: 'image/webp' }],
+      ['meta', { property: 'og:image:type', content: 'image/png' }],
       ['meta', { property: 'og:locale', content: currentLocale === 'en' ? 'en_US' : currentLocale === 'pt' ? 'pt_BR' : currentLocale === 'es' ? 'es_ES' : currentLocale === 'da' ? 'da_DK' : currentLocale === 'pl' ? 'pl_PL' : currentLocale === 'ru' ? 'ru_RU' : 'fr_FR' }],
       // Localized Twitter meta tags
       ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
       ['meta', { property: 'twitter:url', content: pageUrl }],
       ['meta', { property: 'twitter:title', content: pageTitle }],
       ['meta', { property: 'twitter:description', content: pageDescription }],
-      ['meta', { property: 'twitter:image', content: 'https://airpodsreplicas.com/logo.webp' }],
-      ['meta', { property: 'twitter:image:alt', content: pageTitle }]
+      ['meta', { property: 'twitter:image', content: ogImageUrl }],
+      ['meta', { property: 'twitter:image:alt', content: pageTitle }],
+      // JSON-LD
+      ['script', { type: 'application/ld+json' }, JSON.stringify(schema)]
     ]
   },
 

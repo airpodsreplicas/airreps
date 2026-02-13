@@ -1,5 +1,5 @@
 ---
-description: An overview of the build quality of AirPods replicas, including aspects such as weight, hinge type, text accuracy, back button, lid and magnets, LED diffuser, and handling tips for AirPods Pro replicas.
+description: "Build quality deep dive: Weight, hinge, text accuracy, magnets, and LED diffusers."
 ---
 
 # Build Quality

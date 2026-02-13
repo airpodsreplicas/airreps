@@ -1,5 +1,5 @@
 ---
-description: A guide to understanding the battery life of AirPods replicas, including variations in life span, battery level accuracy, and precautions for wireless charging.
+description: Battery life expectations, variations by model, and charging safety tips.
 ---
 
 # Battery Life

@@ -1,5 +1,5 @@
 ---
-description: Learn about the sound quality of AirPods replicas. Find out about the rating, variations, and custom EQ settings, as well as recommended genres, and delay.
+description: Sound quality ratings, EQ settings, and realistic expectations for AirPods replicas.
 ---
 
 # Sound Quality

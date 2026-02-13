@@ -1,5 +1,6 @@
 ---
-description: A workaround for the Intel version of macOS's quirk of unable to control volume output using system's built in volume slider bar.
+title: Volume Slider is Ineffective on MacOS
+description: Fix the macOS volume slider issue on Intel Macs. A simple workaround to regain control over your audio output.
 ---
 
 # The Problem: Volume Slider Bar won't work.

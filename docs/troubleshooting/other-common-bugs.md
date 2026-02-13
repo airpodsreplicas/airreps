@@ -1,5 +1,5 @@
 ---
-description: Encountering issues with your AirPods replicas? Check out this troubleshooting guide to find solutions for common issues such as opening AirPods, macOS compatibility, audio/video pausing, connectivity problems, sound quality, and more.
+description: "Troubleshooting guide for common AirPods replica issues: connectivity, audio pausing, reset procedures, and hardware checks."
 ---
 
 # **Common Issues**

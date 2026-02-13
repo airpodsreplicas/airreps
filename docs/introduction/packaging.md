@@ -1,5 +1,5 @@
 ---
-description: Learn about the different types of packaging used for AirPods replicas, including No-logo box, Apple Logo box, and Double/Decoy box. Understand the potential risks and benefits of each packaging type.
+description: "Packaging types explained: No-logo, Apple Logo, and Double/Decoy boxes. Risks and quality details."
 ---
 
 # Packaging
