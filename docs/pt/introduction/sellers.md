@@ -1,5 +1,5 @@
 ---
-description: Obtenha informações sobre como comprar de vendedores de réplicas de AirPods. Entenda as diferenças entre vendedores verificados e não verificados e aprenda sobre as práticas de revendedores.
+description: "Como comprar: vendedores verificados e práticas seguras."
 ---
 
 # Vendedores

@@ -1,6 +1,6 @@
 ---
 title: Kompletny Przewodnik
-description: Kompletny Przewodnik AirReps dostarcza szczegółowych informacji o zakupie i używaniu klonów AirPods. Dowiedz się o najlepszych klonach AirPods, jak je kupować i jak rozwiązywać problemy.
+description: "Kompletny przewodnik po zakupie, używaniu i rozwiązywaniu problemów z klonami AirPods."
 ---
 
 # Kompletny Przewodnik AirReps

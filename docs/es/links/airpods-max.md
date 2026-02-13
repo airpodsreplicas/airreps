@@ -1,5 +1,5 @@
 ---
-description: Explora las diferentes versiones de réplicas de AirPods Max y sus vendedores asociados. Encuentra tiendas oficiales y enlaces directos para comprar réplicas de AirPods Max.
+description: "Versiones de réplicas de AirPods Max y enlaces a vendedores confiables."
 ---
 
 # AirPods Max

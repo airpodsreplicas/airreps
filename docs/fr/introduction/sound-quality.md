@@ -1,5 +1,5 @@
 ---
-description: Découvrez la qualité sonore des répliques d'AirPods. Renseignez-vous sur l'évaluation, les variations et les paramètres d'égaliseur personnalisés, ainsi que les genres recommandés et la latence.
+description: "Qualité sonore : évaluation, égaliseur et latence."
 ---
 
 # Qualité Sonore

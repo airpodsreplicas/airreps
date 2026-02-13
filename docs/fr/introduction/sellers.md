@@ -1,5 +1,5 @@
 ---
-description: Obtenez des informations sur l'achat auprès de vendeurs de répliques d'AirPods. Comprenez les différences entre les vendeurs vérifiés et non vérifiés, et découvrez les pratiques des revendeurs.
+description: "Acheter des répliques : vendeurs vérifiés VS non vérifiés et pratiques."
 ---
 
 # Vendeurs

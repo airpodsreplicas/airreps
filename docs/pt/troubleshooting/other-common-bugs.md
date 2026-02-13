@@ -1,5 +1,5 @@
 ---
-description: Enfrentando problemas com suas réplicas de AirPods? Confira este guia de solução de problemas para encontrar soluções para problemas comuns, como abrir os AirPods, compatibilidade com macOS, pausa frequente de áudio/vídeo, problemas de conectividade, qualidade de som e muito mais.
+description: "Solução de problemas comuns: conexão, áudio e reset."
 ---
 
 # **Problemas Comuns**

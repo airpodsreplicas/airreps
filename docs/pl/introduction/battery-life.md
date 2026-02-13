@@ -1,5 +1,5 @@
 ---
-description: Przewodnik po zrozumieniu żywotności baterii klonów AirPods, w tym wariacje żywotności, dokładność poziomu baterii i środki ostrożności przy ładowaniu bezprzewodowym.
+description: "Żywotność baterii, dokładność wskazań i ładowanie bezprzewodowe w klonach."
 translationStatus: machine-translated
 ---
 

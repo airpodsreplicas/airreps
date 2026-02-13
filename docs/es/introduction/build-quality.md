@@ -1,5 +1,5 @@
 ---
-description: Una visión general de la calidad de construcción de las réplicas de AirPods, incluyendo aspectos como peso, tipo de bisagra, precisión del texto, botón trasero, tapa e imanes, difusor LED y consejos de manejo para réplicas de AirPods Pro.
+description: "Calidad de construcción de réplicas: Peso, bisagra, textos, imanes y manejo de AirPods Pro."
 ---
 
 # Calidad de Construcción

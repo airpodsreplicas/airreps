@@ -1,5 +1,5 @@
 ---
-description: Explore diferentes versões de réplicas de AirPods Pro 2 de vários vendedores. Encontre lojas oficiais e links diretos para comprar réplicas de AirPods Pro 2.
+description: "Vendedores verificados e links para réplicas AirPods Pro 2."
 ---
 
 # AirPods Pro 2

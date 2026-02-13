@@ -1,5 +1,5 @@
 ---
-description: Dowiedz się o procesie zamawiania klonów AirPods od różnych sprzedawców, w tym wskazówki dotyczące zakupów z AliExpress/Alibaba, metody płatności, podatki, opcje pudełka produktu, potwierdzenie zamówienia i czasy wysyłki. Poznaj różne metody płatności, w tym kartę kredytową, AliPay, Revolut, Wise, Bitcoin, przelew bankowy i Weidian przez agentów.
+description: "Jak bezpiecznie zamawiać: płatności, wysyłka i unikanie oszustw."
 translationStatus: machine-translated
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Explorez les fonctionnalités de connectivité des répliques d'AirPods, incluant la vitesse du popup iOS, la portée, la latence, l'absence de connectivité multi-appareils, la compatibilité macOS, les problèmes de lecture audio iOS et la connectivité initiale avec les appareils iOS.
+description: "Connectivité : iOS, macOS, portée et latence."
 ---
 
 # Connectivité

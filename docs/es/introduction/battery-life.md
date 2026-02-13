@@ -1,5 +1,5 @@
 ---
-description: Una guía para entender la duración de batería de las réplicas de AirPods, incluyendo variaciones en vida útil, precisión del nivel de batería y precauciones para carga inalámbrica.
+description: "Guía sobre duración de batería, precisión de niveles y carga inalámbrica en réplicas."
 ---
 
 # Duración de Batería

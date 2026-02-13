@@ -1,5 +1,5 @@
 ---
-description: Poznaj różne wersje klonów AirPods Max, w tym ich chip, funkcje i brakujące funkcje. Kliknij linki wersji, aby znaleźć recenzje każdego modelu.
+description: "Wersje klonów AirPods Max, ich chipy i linki do zaufanych sprzedawców."
 translationStatus: machine-translated
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Explore as diferentes versões das novas réplicas de AirPods 4, incluindo seus chips, recursos e recursos ausentes. Clique nos links das versões para encontrar análises de cada modelo.
+description: "Versões de réplicas AirPods 4, chips e melhores vendedores."
 ---
 
 # AirPods 4

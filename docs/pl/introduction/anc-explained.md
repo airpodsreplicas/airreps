@@ -1,5 +1,5 @@
 ---
-description: Dowiedz się o technologii Aktywnej Redukcji Szumów (ANC), jej różnych implementacjach (Feedback, Feedforward i Hybrydowa) oraz jak jest wykorzystywana w AirPods i ich klonach.
+description: "Czym jest ANC: Feedback, Feedforward i Hybrid w klonach AirPods."
 translationStatus: machine-translated
 ---
 

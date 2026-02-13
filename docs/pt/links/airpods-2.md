@@ -1,5 +1,5 @@
 ---
-description: Explore as diferentes versões dos AirPods 2 e seus respectivos vendedores. Encontre lojas oficiais e links diretos para comprar réplicas de AirPods 2.
+description: "Vendedores verificados e links para réplicas AirPods 2."
 ---
 
 # AirPods 2

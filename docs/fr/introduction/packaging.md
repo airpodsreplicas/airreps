@@ -1,5 +1,5 @@
 ---
-description: Découvrez les différents types d'emballage utilisés pour les répliques d'AirPods, incluant la boîte sans logo, la boîte avec logo Apple et la boîte double/leurre. Comprenez les risques et avantages potentiels de chaque type d'emballage.
+description: "Types d'emballage : sans logo, Apple, et double boîte."
 ---
 
 # Emballage

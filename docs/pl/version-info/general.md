@@ -1,5 +1,5 @@
 ---
-description: Poznaj przegląd brakujących funkcji dla różnych modeli AirPods, w tym AirPods Pro 3, AirPods Gen 4, AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro i AirPods Max. Odkryj konkretne funkcje niedostępne w każdym modelu i zrozum wspólne funkcje, które wszystkie mają. Proszę zauważyć, że nowsze wersje niekoniecznie oznaczają lepsze modele.
+description: "Przegląd brakujących funkcji w różnych modelach klonów AirPods."
 translżeionStżeus: machine-translżeed
 ---
 

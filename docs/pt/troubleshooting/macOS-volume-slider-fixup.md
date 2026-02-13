@@ -1,5 +1,5 @@
 ---
-description: Uma solução alternativa para a peculiaridade da versão Intel do macOS que impossibilita o controle da saída de volume usando a barra deslizante de volume integrada do sistema.
+description: "Correção do volume dos AirPods no macOS (Intel)."
 ---
 
 # O Problema: A Barra Deslizante de Volume não funciona.

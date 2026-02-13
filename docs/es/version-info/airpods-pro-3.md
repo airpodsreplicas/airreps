@@ -1,5 +1,5 @@
 ---
-description: Explora las diferentes versiones de réplicas de AirPods Pro 3, incluyendo su chip, características y características faltantes. Haz clic en los hipervínculos de versión para encontrar reseñas de cada modelo.
+description: "Versiones, chips y características de réplicas de AirPods Pro 3. Reseñas y enlaces a modelos recomendados."
 ---
 
 # AirPods Pro 3

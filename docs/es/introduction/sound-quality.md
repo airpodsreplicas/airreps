@@ -1,5 +1,5 @@
 ---
-description: Aprende sobre la calidad de sonido de las réplicas de AirPods. Descubre la calificación, variaciones y configuraciones de EQ personalizadas, así como géneros recomendados y retraso.
+description: "Calidad de sonido en réplicas: Calificación, EQ y configuraciones recomendadas."
 ---
 
 # Calidad de Sonido

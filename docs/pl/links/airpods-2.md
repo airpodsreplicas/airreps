@@ -1,5 +1,5 @@
 ---
-description: Poznaj różne wersje AirPods 2 i deres doknyttede sprzedawcae. Znajdź oficjalne sklepy i bezpośrednie linki do zakupu AirPods 2-klonów.
+description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods 2."
 ---
 
 # AirPods 2

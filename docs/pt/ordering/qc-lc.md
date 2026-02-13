@@ -1,5 +1,5 @@
 ---
-description: Aprenda como fazer o controle de qualidade de suas réplicas de AirPods ou identificar AirPods autênticos. Explore métodos para verificar falhas de design, como cor da dobradiça, alinhamento dos botões e alinhamento do cabo. Descubra diferenças de software, incluindo a rede Find My, configurações do dispositivo, página "Sobre" e áudio espacial. Obtenha suporte e conselhos adicionais da comunidade AirReps no servidor do Discord.
+description: "Verificação de qualidade e autenticidade. Defeitos e software."
 ---
 
 # QC & LC (Controle de Qualidade e Verificação de Legitimidade)

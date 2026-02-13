@@ -1,5 +1,5 @@
 ---
-description: Masz problemy z klonami AirPods? Sprawdź ten przewodnik rozwiązywania problemów, aby znaleźć rozwiązania typowych problemów, takich jak otwieranie AirPods, kompatybilność z macOS, pauza audio/wideo, problemy z połączeniem, jakość dźwięku i więcej.
+description: "Rozwiązywanie problemów: łączność, pauzowanie dźwięku, resetowanie i inne."
 translationStatus: machine-translated
 ---
 

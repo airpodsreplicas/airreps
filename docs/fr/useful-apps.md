@@ -1,5 +1,5 @@
 ---
-description: Vous cherchez des applications pour mettre à jour le firmware de vos répliques d'AirPods ? Consultez cette liste d'applications utiles classées par chipsets, notamment Airoha, Tigerbuilder, BES, HR et Huilian. Veuillez noter que la plupart de ces applications ne sont disponibles que pour les appareils Android.
+description: "Applications de mise à jour firmware pour Android : Airoha, Tigerbuilder, BES, HR et Huilian."
 ---
 
 # Applications Utiles

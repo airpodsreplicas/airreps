@@ -1,5 +1,5 @@
 ---
-description: Explora las características de conectividad de las réplicas de AirPods, incluyendo velocidad del popup de iOS, alcance, latencia, falta de conectividad multi-dispositivo, compatibilidad con macOS, problemas de reproducción de audio en iOS y conectividad inicial con dispositivos iOS.
+description: "Conectividad en réplicas: iOS, macOS, alcance, latencia y conexión multi-dispositivo."
 ---
 
 # Conectividad

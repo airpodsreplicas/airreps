@@ -1,5 +1,5 @@
 ---
-description: Un aperçu de la qualité de fabrication des répliques d'AirPods, incluant des aspects tels que le poids, le type de charnière, la précision du texte, le bouton arrière, le couvercle et les aimants, le diffuseur LED et les conseils de manipulation pour les répliques d'AirPods Pro.
+description: "Qualité de fabrication : poids, charnière, texte et aimants."
 ---
 
 # Qualité de Fabrication

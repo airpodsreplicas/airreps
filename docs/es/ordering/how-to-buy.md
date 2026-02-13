@@ -1,5 +1,5 @@
 ---
-description: Aprende sobre el proceso de ordenar réplicas de AirPods de varios vendedores, incluyendo consejos sobre comprar en AliExpress/Alibaba, métodos de pago, impuestos, opciones de caja del producto, confirmación de pedido y tiempos de envío. Explora varios métodos de pago incluyendo Tarjetas de Crédito, AliPay, Revolut, Wise, Bitcoin, Transferencia Bancaria y Weidian a través de agentes.
+description: "Cómo ordenar de forma segura: AliPay, Wise, Bitcoin, agentes y envío."
 ---
 
 # Pedidos

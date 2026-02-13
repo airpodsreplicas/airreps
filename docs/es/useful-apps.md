@@ -1,5 +1,5 @@
 ---
-description: ¿Buscas apps para actualizar el firmware de tus réplicas de AirPods? Revisa esta lista de apps útiles categorizadas por chipsets, incluyendo Airoha, Tigerbuilder, BES, HR y Huilian. Ten en cuenta que la mayoría de estas apps solo están disponibles para dispositivos Android.
+description: "Apps para actualizar firmware en Android: Airoha, Tigerbuilder, BES, HR y Huilian."
 ---
 
 # Apps Útiles

@@ -1,5 +1,5 @@
 ---
-description: Uma visão geral da qualidade de construção das réplicas de AirPods, incluindo aspectos como peso, tipo de dobradiça, precisão do texto, botão traseiro, tampa e ímãs, difusor de LED e dicas de manuseio para réplicas de AirPods Pro.
+description: "Qualidade de construção: peso, dobradiça, textos e ímãs."
 ---
 
 # Qualidade de Construção

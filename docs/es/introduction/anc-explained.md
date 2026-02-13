@@ -1,5 +1,5 @@
 ---
-description: Aprende sobre la tecnología de Cancelación Activa de Ruido (ANC), sus diferentes implementaciones (Retroalimentación, Alimentación Directa e Híbrida), y cómo se usa en AirPods y sus réplicas.
+description: "Tecnología ANC: Diferencias entre Retroalimentación, Alimentación Directa e Híbrida en réplicas."
 ---
 
 # Cancelación Activa de Ruido (ANC) Explicada

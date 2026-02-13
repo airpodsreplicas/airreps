@@ -1,5 +1,5 @@
 ---
-description: Rozwiązanie problemu z wersją Intel macOS dotyczącego kontrolowania wyjścia głośności za pomocą wbudowanego suwaka głośności systemu.
+description: "Naprawa sterowania głośnością AirPods na macOS (Intel)."
 translationStatus: machine-translated
 ---
 

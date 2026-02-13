@@ -1,5 +1,5 @@
 ---
-description: Les répliques d'AirPods Pro 3 sont maintenant disponibles ! Trouvez les dernières versions de répliques d'AirPods Pro 3 et les liens vers les vendeurs de confiance.
+description: "Vendeurs vérifiés et liens pour les répliques d'AirPods Pro 3."
 ---
 
 # AirPods Pro 3

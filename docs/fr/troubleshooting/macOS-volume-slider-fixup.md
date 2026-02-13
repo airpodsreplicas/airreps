@@ -1,5 +1,5 @@
 ---
-description: Une solution de contournement pour le problème de la version Intel de macOS où le curseur de volume intégré au système ne fonctionne pas pour contrôler le volume de sortie.
+description: "Correction du contrôle du volume des AirPods sur macOS (Intel)."
 ---
 
 # Le Problème : Le Curseur de Volume ne fonctionne pas.

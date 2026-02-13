@@ -1,5 +1,5 @@
 ---
-description: Poznaj różne wersje klonów AirPods 3, w tym ich chip, funkcje i brakujące funkcje. Kliknij linki wersji, aby znaleźć recenzje każdego modelu.
+description: "Wersje klonów AirPods 3, ich chipy i linki do zaufanych sprzedawców."
 translationStatus: machine-translated
 ---
 

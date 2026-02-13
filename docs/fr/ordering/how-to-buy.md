@@ -1,5 +1,5 @@
 ---
-description: Apprenez le processus de commande de répliques d'AirPods auprès de divers vendeurs, incluant des conseils sur l'achat depuis AliExpress/Alibaba, les méthodes de paiement, les taxes, les options de boîte de produit, la confirmation de commande et les délais d'expédition. Explorez les différentes méthodes de paiement incluant Cartes de Crédit, AliPay, Revolut, Wise, Bitcoin, Virement Bancaire et Weidian via agents.
+description: "Commander en sécurité : Paiements, expédition et éviter les arnaques."
 ---
 
 # Commander

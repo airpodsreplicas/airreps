@@ -1,5 +1,5 @@
 ---
-description: Essential firmware update apps for AirPods replicas. Support for Airoha, Tigerbuilder, BES, HR, and Huilian chipsets.
+description: "Essential firmware update apps for AirPods replicas. Support for Airoha, Tigerbuilder, BES, HR, and Huilian."
 ---
 
 # Useful Apps

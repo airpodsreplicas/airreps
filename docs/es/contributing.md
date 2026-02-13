@@ -1,5 +1,5 @@
 ---
-description: Aprende cómo contribuir al proyecto AirReps siguiendo esta guía paso a paso. Haz fork y clona el repositorio, configura tu entorno de desarrollo, realiza cambios y envía una solicitud de pull para revisión. ¡Comienza a contribuir hoy!
+description: "Guía para contribuir al proyecto AirReps: Fork, cambios y Pull Request."
 ---
 
 # Guía de Contribución

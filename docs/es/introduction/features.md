@@ -1,5 +1,5 @@
 ---
-description: Aprende sobre las características de las réplicas de AirPods, incluyendo funciones soportadas como cambio de nombre y GPS, funcionalidad del sensor en el oído, controles táctiles y de presión, calidad del micrófono e indicaciones LED.
+description: "Características: Cambio de nombre, GPS, sensores, controles táctiles y micrófono."
 ---
 
 # Características

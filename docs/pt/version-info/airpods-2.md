@@ -1,5 +1,5 @@
 ---
-description: Explore as diferentes versões das réplicas de AirPods 2, incluindo seus chips, recursos e recursos ausentes. Clique nos links das versões para encontrar análises para cada modelo. Observe que alguns modelos foram descontinuados.
+description: "Versões, chips e detalhes das réplicas AirPods 2."
 ---
 
 # AirPods 2

@@ -1,5 +1,5 @@
 ---
-description: Explorez les différentes versions de répliques d'AirPods 2, incluant leur puce, fonctionnalités et fonctionnalités manquantes. Cliquez sur les hyperliens de version pour trouver des avis pour chaque modèle. Veuillez noter que certains modèles sont abandonnés.
+description: "Versions des répliques AirPods 2, puces et avis."
 ---
 
 # AirPods 2

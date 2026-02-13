@@ -1,5 +1,5 @@
 ---
-description: Poznaj możliwości łączności klonów AirPods, w tym szybkość wyskakującego okna iOS, zasięg, opóźnienie, brak połączenia wielourządzeniowego, kompatybilność z macOS, problemy z odtwarzaniem dźwięku iOS i początkowe połączenie z urządzeniami iOS.
+description: "Łączność: iOS popup, macOS, zasięg, opóźnienia i brak multipoint."
 translationStatus: machine-translated
 ---
 

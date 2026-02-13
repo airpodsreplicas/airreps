@@ -1,5 +1,5 @@
 ---
-description: Poznaj różne rodzaje opakowań używanych dla klonów AirPods, w tym pudełko bez logo, pudełko z logo Apple i pudełko podwójne/przynęta. Zrozum potencjalne ryzyko i korzyści każdego rodzaju opakowania.
+description: "Rodzaje opakowań: bez logo, z logo Apple, podwójne pudełko. Ryzyko i korzyści."
 translationStatus: machine-translated
 ---
 

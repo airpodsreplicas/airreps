@@ -1,5 +1,5 @@
 ---
-description: Przegląd jakości wykonania klonów AirPods, w tym aspekty takie jak waga, typ zawiasu, dokładność tekstu, tylny przycisk, pokrywa i magnesy, dyfuzor LED oraz wskazówki dotyczące obsługi klonów AirPods Pro.
+description: "Jakość wykonania: waga, zawiasy, napisy, magnesy i dyfuzor LED."
 translationStatus: machine-translated
 ---
 

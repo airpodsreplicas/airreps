@@ -4,7 +4,7 @@ layout: home
 translationStatus: machine-translated
 
 title: 'AirReps'
-description: 'O centro da comunidade AirReps para discussões sobre réplicas de AirPods. Obtenha ajuda, encontre vendedores confiáveis e explore nosso Guia Definitivo.'
+description: "Comunidade AirReps: Ajuda, vendedores e guia definitivo."
 
 hero:
   name: "AirReps"

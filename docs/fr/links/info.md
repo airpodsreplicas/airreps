@@ -1,5 +1,5 @@
 ---
-description: Accédez à des liens vérifiés pour acheter des répliques d'AirPods auprès de vendeurs de confiance. Choisissez le produit qui vous intéresse, comme les AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, AirPods Pro 3 ou AirPods Max, pour voir les liens correspondants.
+description: "Annuaire des vendeurs vérifiés pour tous les modèles d'AirPods."
 ---
 
 # Liens

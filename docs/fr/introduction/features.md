@@ -1,5 +1,5 @@
 ---
-description: Découvrez les fonctionnalités des répliques d'AirPods, incluant les fonctionnalités supportées comme le changement de nom et le GPS, le fonctionnement du capteur intra-auriculaire, les commandes tactiles et de pression, la qualité du microphone et les indications LED.
+description: "Fonctionnalités : Renommage, GPS, capteurs et micros."
 ---
 
 # Fonctionnalités

@@ -1,5 +1,5 @@
 ---
-description: Explorez un résumé des fonctionnalités manquantes pour divers modèles d'AirPods, incluant AirPods Pro 3, AirPods Gen 4, AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro et AirPods Max. Découvrez les fonctionnalités spécifiques non disponibles dans chaque modèle et comprenez les fonctionnalités communes qu'ils partagent tous. Veuillez noter que les versions plus récentes n'impliquent pas nécessairement de meilleurs modèles.
+description: "Résumé des fonctionnalités manquantes sur les répliques."
 ---
 
 # Général

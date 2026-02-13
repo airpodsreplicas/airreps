@@ -1,6 +1,6 @@
 ---
 title: Guía Definitiva
-description: La Guía Definitiva de AirReps proporciona información detallada sobre la compra y uso de réplicas de AirPods. Aprende sobre las mejores réplicas de AirPods, cómo comprarlas y cómo solucionar cualquier problema que puedas encontrar.
+description: "La Guía Definitiva de AirReps: compra, uso y solución de problemas para las mejores réplicas de AirPods."
 ---
 
 # Guía Definitiva de AirReps

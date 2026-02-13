@@ -1,5 +1,5 @@
 ---
-description: Poznaj różne wersje klonów AirPods 2, w tym ich chip, funkcje i brakujące funkcje. Kliknij linki wersji, aby znaleźć recenzje każdego modelu. Proszę zauważyć, że niektóre modele są wycofane.
+description: "Wersje klonów AirPods 2, ich chipy i linki do zaufanych sprzedawców."
 translationStatus: machine-translated
 ---
 

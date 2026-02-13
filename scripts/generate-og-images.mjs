@@ -208,12 +208,8 @@ async function main() {
     const outFilePath = path.join(outDir, `${relPath}.png`);
     fs.ensureDirSync(path.dirname(outFilePath));
 
+    // Description is now manually shortened in frontmatter
     let description = data.description || '';
-
-    // Truncate description to max 110 characters for cleaner look
-    if (description.length > 110) {
-      description = description.substring(0, 107) + '...';
-    }
 
     await generateOgImage(title, description, outFilePath);
   }

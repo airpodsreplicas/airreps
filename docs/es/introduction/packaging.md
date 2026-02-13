@@ -1,5 +1,5 @@
 ---
-description: Aprende sobre los diferentes tipos de embalaje utilizados para las réplicas de AirPods, incluyendo caja sin logo, caja con logo de Apple y caja doble/señuelo. Comprende los riesgos y beneficios potenciales de cada tipo de embalaje.
+description: "Tipos de embalaje en réplicas: Sin logo, con logo de Apple, y caja doble. Riesgos y beneficios."
 ---
 
 # Embalaje

@@ -1,5 +1,5 @@
 ---
-description: Szukasz aplikacji do aktualizacji firmware'u swoich klonów AirPods? Sprawdź tę listę przydatnych aplikacji skategoryzowanych według chipsetów, w tym Airoha, Tigerbuilder, BES, HR i Huilian. Proszę zauważyć, że większość tych aplikacji jest dostępna tylko dla urządzeń Android.
+description: "Aplikacje do aktualizacji firmware'u na Androida: Airoha, Tigerbuilder, BES."
 translationStatus: machine-translated
 ---
 

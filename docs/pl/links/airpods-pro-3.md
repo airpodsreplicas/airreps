@@ -1,5 +1,5 @@
 ---
-description: AirPods Pro 3-klonów er nu dogængelige! Znajdź de nyeste AirPods Pro 3 kopi-versioner i linki do betroede sprzedawcae.
+description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro 3."
 ---
 
 # AirPods Pro 3

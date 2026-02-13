@@ -1,5 +1,5 @@
 ---
-description: ¡Ya están disponibles las réplicas de AirPods Pro 3! Encuentra las últimas versiones de réplicas de AirPods Pro 3 y enlaces de vendedores de confianza.
+description: "Últimas versiones de réplicas de AirPods Pro 3 y enlaces a vendedores confiables."
 ---
 
 # AirPods Pro 3

@@ -1,5 +1,5 @@
 ---
-description: Vous rencontrez des problèmes avec vos répliques d'AirPods ? Consultez ce guide de dépannage pour trouver des solutions aux problèmes courants tels que l'ouverture des AirPods, la compatibilité macOS, la pause audio/vidéo, les problèmes de connectivité, la qualité sonore et plus encore.
+description: "Dépannage : connexion, audio, batterie et réinitialisation."
 ---
 
 # **Problèmes Courants**

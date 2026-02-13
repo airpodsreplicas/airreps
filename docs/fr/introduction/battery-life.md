@@ -1,5 +1,5 @@
 ---
-description: Un guide pour comprendre l'autonomie de la batterie des répliques d'AirPods, incluant les variations de durée de vie, la précision du niveau de batterie et les précautions pour la charge sans fil.
+description: "Autonomie, précision de la batterie et charge sans fil."
 ---
 
 # Autonomie de la Batterie

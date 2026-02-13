@@ -1,5 +1,5 @@
 ---
-description: Dowiedz się o jakości dźwięku klonów AirPods. Poznaj ocenę, wariacje i niestandardowe ustawienia EQ, a także zalecane gatunki i opóźnienie.
+description: "Jakość dźwięku: oceny, ustawienia EQ, opóźnienia i rekomendacje."
 translationStatus: machine-translated
 ---
 

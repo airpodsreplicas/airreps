@@ -1,6 +1,6 @@
 ---
 title: Guide Ultime
-description: Le Guide Ultime AirReps fournit des informations détaillées sur l'achat et l'utilisation de répliques d'AirPods. Découvrez les meilleures répliques d'AirPods, comment les acheter et comment résoudre les problèmes que vous pourriez rencontrer.
+description: "Guide complet : achat, utilisation et dépannage des répliques."
 ---
 
 # Guide Ultime AirReps

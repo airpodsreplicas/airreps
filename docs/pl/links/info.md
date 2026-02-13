@@ -1,5 +1,5 @@
 ---
-description: Uzyskaj dostęp do zweryfikowanych linków do zakupu klonów AirPods od zaufanych sprzedawców. Wybierz produkt, który Cię interesuje, taki jak AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, AirPods Pro 3 lub AirPods Max, aby zobaczyć odpowiednie linki.
+description: "Katalog zweryfikowanych sprzedawców i linki do wszystkich modeli AirPods."
 translżeionStżeus: machine-translżeed
 ---
 

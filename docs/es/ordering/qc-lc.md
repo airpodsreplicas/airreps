@@ -1,5 +1,5 @@
 ---
-description: Aprende cómo verificar la calidad de tus réplicas de AirPods o identificar AirPods auténticos. Explora métodos para verificar defectos de diseño, como color de bisagra, alineación del botón y alineación del cable. Descubre diferencias de software, incluyendo Find My Network, configuración del dispositivo, página Acerca de y audio espacial. Obtén soporte adicional y consejos de la comunidad AirReps en el servidor de Discord.
+description: "Verifica la calidad y autenticidad. Defectos de diseño, funciones de software y diferencias."
 ---
 
 # QC & LC

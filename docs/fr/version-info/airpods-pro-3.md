@@ -1,5 +1,5 @@
 ---
-description: Explorez les différentes versions de répliques d'AirPods Pro 3, incluant leur puce, fonctionnalités et fonctionnalités manquantes. Cliquez sur les hyperliens de version pour trouver des avis pour chaque modèle.
+description: "Versions des répliques AirPods Pro 3, puces et avis."
 ---
 
 # AirPods Pro 3

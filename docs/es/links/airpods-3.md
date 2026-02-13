@@ -1,5 +1,5 @@
 ---
-description: Descubre las diferentes versiones de AirPods 3 y sus vendedores asociados. Encuentra tiendas oficiales y enlaces directos para comprar réplicas de AirPods 3.
+description: "Versiones de réplicas de AirPods 3 y enlaces a vendedores confiables."
 ---
 
 # AirPods 3

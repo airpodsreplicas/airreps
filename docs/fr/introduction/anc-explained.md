@@ -1,5 +1,5 @@
 ---
-description: Découvrez la technologie de Réduction Active du Bruit (ANC), ses différentes implémentations (Feedback, Feedforward et Hybride), et comment elle est utilisée dans les AirPods et leurs répliques.
+description: "Technologie ANC : Feedback, Feedforward et Hybride dans les répliques."
 ---
 
 # Réduction Active du Bruit (ANC) Expliquée

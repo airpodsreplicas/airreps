@@ -1,5 +1,5 @@
 ---
-description: Aprenda sobre a qualidade do som das réplicas de AirPods. Informe-se sobre a classificação, variações e configurações de EQ personalizadas, bem como gêneros recomendados e atraso.
+description: "Qualidade de som: avaliações, EQ e recomendações."
 ---
 
 # Qualidade do Som

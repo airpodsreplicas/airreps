@@ -1,5 +1,5 @@
 ---
-description: Dowiedz się jak sprawdzić jakość swoich klonów AirPods lub zidentyfikować oryginalne AirPods. Poznaj metody sprawdzania wad projektowych, takich jak kolor zawiasu, wyrównanie przycisku i wyrównanie kabla. Odkryj różnice w oprogramowaniu, w tym sieć Znajdź Mój, ustawienia urządzenia, stronę informacji i dźwięk przestrzenny. Uzyskaj dodatkowe wsparcie i porady od społeczności AirReps na serwerze Discord.
+description: "Sprawdzanie jakości i autentyczności. Wady konstrukcyjne i różnice w oprogramowaniu."
 translationStatus: machine-translated
 ---
 

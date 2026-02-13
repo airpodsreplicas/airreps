@@ -1,5 +1,5 @@
 ---
-description: Ищете приложения для обновления прошивки на ваших репликах AirPods? Ознакомьтесь с этим списком полезных приложений, классифицированных по чипсетам, включая Airoha, Tigerbuilder, BES, HR и Huilian. Обратите внимание, что большинство этих приложений доступны только для устройств Android.
+description: "Приложения для обновления прошивки на Android: Airoha, Tigerbuilder, BES, HR и Huilian."
 translationStatus: machine-translated
 ---
 

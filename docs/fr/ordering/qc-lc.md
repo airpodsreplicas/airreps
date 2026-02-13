@@ -1,5 +1,5 @@
 ---
-description: Apprenez à vérifier la qualité de vos répliques d'AirPods ou à identifier les AirPods authentiques. Explorez les méthodes pour détecter les défauts de conception, comme la couleur de la charnière, l'alignement du bouton et l'alignement du câble. Découvrez les différences logicielles, incluant le réseau Localiser, les paramètres de l'appareil, la page À propos et l'audio spatial. Obtenez un support et des conseils supplémentaires de la communauté AirReps sur le serveur Discord.
+description: "Contrôle qualité et authenticité. Défauts visuels et logiciels."
 ---
 
 # QC & LC

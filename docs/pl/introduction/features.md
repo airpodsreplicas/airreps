@@ -1,5 +1,5 @@
 ---
-description: Dowiedz się o funkcjach klonów AirPods, w tym obsługiwanych funkcjach jak zmiana nazwy i GPS, funkcjonalność czujników w uchu, sterowanie dotykowe i force touch, jakość mikrofonu i wskaźniki LED.
+description: "Funkcje: zmiana nazwy, GPS, czujniki ucha, dotyk i mikrofon."
 translationStatus: machine-translated
 ---
 

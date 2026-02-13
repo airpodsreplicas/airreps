@@ -1,5 +1,5 @@
 ---
-description: Poznaj różne wersje AirPods Pro 2-klonów od różnych sprzedawców. Znajdź oficjalne sklepy i bezpośrednie linki do zakupu AirPods Pro 2-klonów.
+description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro 2."
 ---
 
 # AirPods Pro 2

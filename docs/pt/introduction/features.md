@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre os recursos das réplicas de AirPods, incluindo recursos suportados como alteração de nome e GPS, funcionalidade do sensor intra-auricular, controles de toque e pressão, qualidade do microfone e indicações de LED. 
+description: "Recursos: troca de nome, GPS, sensores e comandos de toque." 
 ---
 
 # Recursos

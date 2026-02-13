@@ -1,5 +1,5 @@
 ---
-description: Aprenda sobre a tecnologia de Cancelamento de Ruído Ativo (ANC), suas diferentes implementações (Feedback, Feedforward e Híbrida) e como ela é usada nos AirPods e suas réplicas.
+description: "O que é ANC: Feedback, Feedforward e Híbrido em réplicas."
 ---
 
 # Cancelamento de Ruído Ativo (ANC) Explicado

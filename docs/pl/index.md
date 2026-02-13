@@ -3,7 +3,7 @@
 layout: home
 
 title: 'AirReps'
-description: 'Centrum społeczności AirReps dla dyskusji o replikach AirPods. Uzyskaj pomoc, znajdź zaufanych sprzedawców i poznaj nasz Kompletny Przewodnik.'
+description: "Społeczność AirReps: Pomoc, zaufani sprzedawcy i przewodnik po klonach."
 
 hero:
   name: "AirReps"
