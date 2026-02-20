@@ -18,7 +18,7 @@
     "audit": "npx eslint ."
   },
   "dependencies": {
-    "vitepress": "^2.0.0-alpha.12"
+    "vitepress": "^1.6.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.2",
