@@ -15,20 +15,19 @@
     "docs:build": "npm run generate-og && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "generate-og": "node scripts/generate-og-images.mjs",
-    "audit": "npx eslint ."
+    "lint": "biome check --files-ignore-unknown=true --diagnostic-level=error --no-errors-on-unmatched docs scripts",
+    "lint:fix": "biome check --write --unsafe --no-errors-on-unmatched --files-ignore-unknown=true docs scripts"
   },
   "dependencies": {
     "vitepress": "^2.0.0-alpha.16"
   },
   "devDependencies": {
-    "@eslint/js": "^9.39.2",
+    "@biomejs/biome": "^2.4.4",
     "@resvg/resvg-js": "^2.6.2",
-    "eslint": "^9.39.2",
-    "eslint-plugin-vue": "^10.6.2",
     "fs-extra": "^11.3.3",
     "gray-matter": "^4.0.3",
     "satori": "^0.19.2",
     "satori-html": "^0.3.2",
-    "typescript-eslint": "^8.50.1"
+    "ultracite": "^7.2.3"
   }
 }
