@@ -18,6 +18,8 @@ body:
         - Spanish (es)
         - Danish (da)
         - French (fr)
+        - Polish (pl)
+        - Russian (ru)
         - All languages
     validations:
       required: true
