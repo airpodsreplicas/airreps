@@ -58,7 +58,7 @@ jobs:
           echo "📊 Total size: $(wc -l < ultimateguide.md) lines"
 
       - name: Change markdown arrays to jsonl
-        run : |
+        run: |
           cat ultimateguide.md | tr -s ' ' | sed 's/ \?| \?/;/g' | sed 's/;-\+.*-\+;//' | sed 's/^;/\["/' | sed 's/;/","/g' | sed 's/,"$/\]/g' > tmp_ultimateguide.md
           # Remove empty lines between JSON arrays
           sed '/^\[/N;s/\]\n\n\[/\]\n\[/g' tmp_ultimateguide.md > ultimateguide.md
@@ -70,19 +70,16 @@ jobs:
           retention-days: 90
           path: ultimateguide.md
 
-      - name: Use Node
-        uses: actions/setup-node@v4
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
         with:
-          node-version: '20'
+          bun-version: latest
 
-      - name: Enable Corepack
-        run: corepack enable
-
-      - name: Install Dependencies
-        run: yarn add openai
+      - name: Install dependencies
+        run: bun install
 
       - name: Upload Combined File to OpenAI Assistant
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           VECTOR_STORE_ID: ${{ secrets.VECTOR_STORE_ID }}
-        run: node .github/scripts/upload-to-openai.js
+        run: bun .github/scripts/upload-to-openai.js
