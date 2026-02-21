@@ -23,7 +23,7 @@ We provide the knowledge and tools to distinguish between cheap imitations and q
 Our community-driven approach through [Discord](https://airreps.link/discord) ensures you stay informed with the latest updates and can make well-informed decisions about which AirPods replicas suit your needs. This guide also helps you distinguish replicas from authentic AirPods when buying second-hand, preventing potential scams.
 
 ::: warning Disclaimer
-Please note, the information contained in this guide is intended for informational and educational purposes only. Our aim is to provide a comprehensive resource to help users make informed decisions, as well as to prevent unknowingly buying replica Apple AirPods second-hand. We are however not responsible for how this information is used.
+Please note, the information contained in this guide is intended for informational and educational purposes only. Our aim is to provide a comprehensive resource to help users make informed decisions, as well as to prevent unknowingly buying replica Apple AirPods second-hand. We are, however, not responsible for how this information is used.
 
 This guide is not intended to infringe upon any copyrights or to endorse any form of copyright violation. All products, brands, and logos mentioned are the property of their respective owners.
 
