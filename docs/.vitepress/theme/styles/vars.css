@@ -1,22 +1,22 @@
 :root {
-    --vp-c-brand-1: #EC645D;
-    --vp-c-brand-2: #D94A41;
-    --vp-c-brand-3: #EC645D;
-    --vp-home-hero-name-color: transparent;
-    --vp-home-hero-name-background: linear-gradient(120deg, #5CA9BE, #EC645D);
+  --vp-c-brand-1: #ec645d;
+  --vp-c-brand-2: #d94a41;
+  --vp-c-brand-3: #ec645d;
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #5ca9be, #ec645d);
 }
 
 .dark {
-    --vp-c-bg: #151515;
-    --vp-c-gutter: #222;
+  --vp-c-bg: #151515;
+  --vp-c-gutter: #222;
 }
 
 /* Fix DocSearch button dark mode */
 .dark .DocSearch-Button {
-    background-color: #252525;
-    color: #888;
+  color: #888;
+  background-color: #252525;
 }
 
 .dark .DocSearch-Button .DocSearch-Search-Icon {
-    color: #888;
+  color: #888;
 }
