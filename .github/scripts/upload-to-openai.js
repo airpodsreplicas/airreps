@@ -7,7 +7,8 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 async function uploadToOpenAI() {
   // Check for required environment variables
-  if (!process.env.OPENAI_API_KEY || !process.env.VECTOR_STORE_ID) {
+  const hasRequiredEnv = process.env.OPENAI_API_KEY && process.env.VECTOR_STORE_ID;
+  if (!hasRequiredEnv) {
     console.error('❌ Missing required environment variables.');
     console.error('   Required: OPENAI_API_KEY, VECTOR_STORE_ID');
     process.exit(1);
