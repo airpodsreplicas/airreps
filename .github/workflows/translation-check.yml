@@ -24,7 +24,7 @@ jobs:
         id: changed
         run: |
           # Get files changed in the last commit, excluding locale directories
-          FILES=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' | grep -v -E '^docs/(pt|es|da|fr)/' || true)
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' | grep -v -E '^docs/(pt|es|da|fr|pl|ru)/' || true)
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
@@ -40,28 +40,34 @@ jobs:
           script: |
             const files = `${{ steps.changed.outputs.files }}`.split('\n').filter(Boolean);
             if (files.length === 0) return;
-            
-            const fileList = files.map(f => `- \`${f}\``).join('\n');
-            const body = `## 🌐 English content updated
 
-The following files were modified and may need translation updates:
+            const fileList = files.map((f) => `- \`${f}\``).join('\n');
+            const body = [
+              '## 🌐 English content updated',
+              '',
+              'The following files were modified and may need translation updates:',
+              '',
+              fileList,
+              '',
+              '### Translation status',
+              'Check off each language when its translation has been updated.',
+              '',
+              '- [ ] Portuguese (`/pt/`)',
+              '- [ ] Spanish (`/es/`)',
+              '- [ ] Danish (`/da/`)',
+              '- [ ] French (`/fr/`)',
+              '- [ ] Polish (`/pl/`)',
+              '- [ ] Russian (`/ru/`)',
+              '',
+              '### How to update translations',
+              '1. Open the corresponding file in each locale directory (e.g. `pt/`, `es/`, …).',
+              '2. Apply the same changes that were made to the English version.',
+              '3. Check off the language above when that locale is done.',
+              '',
+              '---',
+              '*This issue was automatically created by the translation sync workflow.*'
+            ].join('\n');
 
-${fileList}
-
-### Languages needing update
-- [ ] Portuguese (\`/pt/\`)
-- [ ] Spanish (\`/es/\`)
-- [ ] Danish (\`/da/\`)
-- [ ] French (\`/fr/\`)
-
-### How to update translations
-1. Open the corresponding file in each locale directory
-2. Apply the same changes made to the English version
-3. Check off the language above when complete
-
----
-*This issue was automatically created by the translation sync workflow.*`;
-            
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -69,5 +75,5 @@ ${fileList}
               body,
               labels: ['translation', 'help wanted']
             });
-            
+
             console.log(`Created translation issue for ${files.length} file(s)`);
