@@ -42,6 +42,7 @@ translationStatus: machine-translated
 | **Bitcoin / Криптовалюта** | ✅ | ✅ | ✅ |
 | **Банковский перевод** | ✅ | ✅ | ✅ |
 | **Weidian (через агента)** | ✅ | ✅ | ✅ |
+| **Alibaba** | ✅ | ❌ | ❌ |
 | **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Afterpay** | ❌ | ✅ | ❌ |

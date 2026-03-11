@@ -41,6 +41,7 @@ Tous les vendeurs de confiance acceptent plusieurs méthodes de paiement pour vo
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Virement Bancaire** | ✅ | ✅ | ✅ |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
+| **Alibaba** | ✅ | ❌ | ❌ |
 | **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Afterpay** | ❌ | ✅ | ❌ |

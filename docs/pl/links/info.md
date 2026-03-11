@@ -42,6 +42,7 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod Płatności dla Twojej wygody:
 | **Bitcoin / Krypto** | ✅ | ✅ | ✅ |
 | **Przelew Bankowy** | ✅ | ✅ | ✅ |
 | **Weidian (przez agenta)** | ✅ | ✅ | ✅ |
+| **Alibaba** | ✅ | ❌ | ❌ |
 | **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Afterpay** | ❌ | ✅ | ❌ |

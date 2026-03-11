@@ -41,6 +41,7 @@ Todos os vendedores confiáveis aceitam múltiplos métodos de pagamento para su
 | **Bitcoin / Cripto** | ✅ | ✅ | ✅ |
 | **Transferência Bancária** | ✅ | ✅ | ✅ |
 | **Weidian (via agente)** | ✅ | ✅ | ✅ |
+| **Alibaba** | ✅ | ❌ | ❌ |
 | **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Afterpay** | ❌ | ✅ | ❌ |

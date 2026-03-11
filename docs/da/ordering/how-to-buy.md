@@ -72,6 +72,6 @@ Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle kredi
 **Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, overvej at bruge [OOPBuy](https://airreps.link/oopbuy), en agentplatform der køber produkter fra sælgere på dine vegne og giver kvalitetskontrol (QC) billeder før forsendelse. OOPBuy bruger almindelige betalingsbehandlere, der accepterer kredit- og debitkort og **kræver aldrig KYC-verifikation** eller identitetstjek. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden nogen KYC-krav, mens du stadig får den ekstra sikkerhed ved QC-billeder.
 :::
 
-::: details Hvorfor er der så få AliExpress/Alibaba-links?
-Der plejede at være mange flere links til AliExpress- og Alibaba-butikker, men Apple begyndte aggressivt at slå ned på disse, hvilket gjorde det næsten umuligt at vedligeholde dem. Som resultat åbnede sælgerne deres egne hjemmesider, som er mere sikre og robuste.
+::: details Bemærkning om Alibaba-links og emballage
+Apple slår aggressivt ned på replika-links på platforme som AliExpress og Alibaba. Selvom sælgere (som Earhive) lejlighedsvis tilbyder Alibaba-links til køb, skal du være opmærksom på, at **ordrer afgivet via Alibaba altid vil ankomme i neutral emballage (ingen Apple-logo boks)** for at undgå told- og ophavsretsproblemer. Sælgernes direkte websteder og Weidian-butikker er generelt mere sikre og tilbyder flere æble-lignende emballagemuligheder.
 :::

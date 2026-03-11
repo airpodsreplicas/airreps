@@ -17,55 +17,67 @@ translationStatus: machine-translated
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
     <td>
-      <a href="https://airreps.link/eprov6tb">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/eprov6tb">Сайт</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov6tb">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcprov6tb">Сайт</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/jprov6tb">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jprov6tb">Сайт</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td><span class="version-badge">V6 (Huilian)</span></td>
     <td>
-      <a href="https://airreps.link/eprov6hl">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/eprov6hl">Сайт</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov6hl">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcprov6hl">Сайт</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/jprov6hl">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jprov6hl">Сайт</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td><span class="version-badge">V5.5</span></td>
     <td>
-      <a href="https://airreps.link/eprov55">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/eprov55">Сайт</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov55">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcprov55">Сайт</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/jprov55">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jprov55">Сайт</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
 </table>

@@ -12,6 +12,11 @@ The No-logo box is white and has a similar shape to the original AirPods box. It
 
 <img src="/nologobox.jpg" alt="No-Logo Box" width="300px"/>
 
+::: warning
+If you order using an **Alibaba** link, your replicas will **always** be shipped in a neutral, No-Logo box to avoid customs seizures and copyright strikes. Apple-branded boxes are not available through Alibaba.
+:::
+
+
 ## Apple Logo Box
 
 The Apple logo box mirrors the packaging of legitimate AirPods, featuring the traditional "AirPods" text and Apple logos. The manuals and charging cable inside bear Apple markings. However, requesting an "Apple box" could increase the risk of product seizure at customs, leading to fines or destruction of the product. To mitigate this risk, many sellers use a double box technique, hiding the actual Apple box inside a generic headphone-shaped box.

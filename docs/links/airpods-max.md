@@ -16,65 +16,79 @@ description: Verified AirPods Max replica versions and trusted seller links.
   <tr>
     <td><span class="version-badge">V3 (Metal)</span></td>
     <td>
-      <a href="https://airreps.link/emaxv3tb">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/emaxv3tb">Website</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcmaxv3tb">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcmaxv3tb">Website</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/jmaxv3tb">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jmaxv3tb">Website</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td><span class="version-badge">V3P</span></td>
     <td>
-      <a href="https://airreps.link/emaxv3p">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/emaxv3p">Website</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcmaxv3p">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcmaxv3p">Website</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/jmaxv3p">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jmaxv3p">Website</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td><span class="version-badge">V2.5</span></td>
     <td>
-      <a href="https://airreps.link/emaxv25">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/emaxv25">Website</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://airreps.link/jmaxv25">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jmaxv25">Website</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td><span class="version-badge">V2 Metal</span></td>
     <td>
-      <a href="https://airreps.link/emaxv2tb">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/emaxv2tb">Website</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://airreps.link/jmaxv2tb">Website</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jmaxv2tb">Website</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
 </table>

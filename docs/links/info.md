@@ -41,6 +41,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Bank Transfer** | ✅ | ✅ | ✅ |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
+| **Alibaba** | ✅ | ❌ | ❌ |
 | **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Afterpay** | ❌ | ✅ | ❌ |

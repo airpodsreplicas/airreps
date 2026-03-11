@@ -16,55 +16,67 @@ description: "Últimas versiones de réplicas de AirPods Pro 3 y enlaces a vende
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
     <td>
-      <a href="https://airreps.link/eprov6tb">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/eprov6tb">Sitio Web</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov6tb">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcprov6tb">Sitio Web</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/jprov6tb">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jprov6tb">Sitio Web</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td><span class="version-badge">V6 (Huilian)</span></td>
     <td>
-      <a href="https://airreps.link/eprov6hl">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/eprov6hl">Sitio Web</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov6hl">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcprov6hl">Sitio Web</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/jprov6hl">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jprov6hl">Sitio Web</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td><span class="version-badge">V5.5</span></td>
     <td>
-      <a href="https://airreps.link/eprov55">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/eprov55">Sitio Web</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcprov55">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcprov55">Sitio Web</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/jprov55">Sitio Web</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/jprov55">Sitio Web</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
 </table>

@@ -12,6 +12,11 @@ La caja sin logo es blanca y tiene una forma similar a la caja original de AirPo
 
 <img src="/nologobox.jpg" alt="Caja Sin Logo" width="300px"/>
 
+::: warning
+Si pides usando un enlace de **Alibaba**, tus réplicas **siempre** se enviarán en una caja neutral sin logotipo para evitar incautaciones en la aduana y problemas de derechos de autor. Las cajas con la marca de Apple no están disponibles a través de Alibaba.
+:::
+
+
 ## Caja con Logo de Apple
 
 La caja con logo de Apple replica el embalaje de AirPods legítimos, con el tradicional texto "AirPods" y logos de Apple. Los manuales y cable de carga dentro llevan marcas de Apple. Sin embargo, solicitar una "caja de Apple" podría aumentar el riesgo de decomiso del producto en aduanas, llevando a multas o destrucción del producto. Para mitigar este riesgo, muchos vendedores usan una técnica de caja doble, escondiendo la caja de Apple real dentro de una caja genérica con forma de auriculares.

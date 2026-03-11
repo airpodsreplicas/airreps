@@ -12,6 +12,10 @@ No-logo æsken er hvid og har en lignende form som den originale AirPods-æske. 
 
 <img src="/nologobox.jpg" alt="No-Logo Æske" width="300px"/>
 
+::: warning
+Hvis du bestiller ved hjælp af et **Alibaba**-link, vil dine replikaer **altid** blive sendt i en neutral kasse uden logo for at undgå toldbeslaglæggelser og ophavsretsstrejker. Apple-brandede kasser er ikke tilgængelige via Alibaba.
+:::
+
 ## Apple Logo Æske
 
 Apple logo-æsken afspejler emballagen af ægte AirPods med den traditionelle "AirPods" tekst og Apple-logoer. Manualerne og opladerkablet indeni bærer Apple-mærkning. Dog kan anmodning om en "Apple-æske" øge risikoen for produktbeslaglæggelse i tolden, hvilket kan føre til bøder eller ødelæggelse af produktet. For at mindske denne risiko bruger mange sælgere en dobbelt-æske teknik, hvor den faktiske Apple-æske skjules inde i en generisk hovedtelefonformet æske.

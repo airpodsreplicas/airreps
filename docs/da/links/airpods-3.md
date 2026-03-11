@@ -16,19 +16,23 @@ description: Opdag de forskellige versioner af AirPods 3 og deres tilknyttede s√
   <tr>
     <td><span class="version-badge">V1E</span></td>
     <td>
-      <a href="https://airreps.link/e3v1e">Hjemmeside</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/e3v1e">Hjemmeside</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcgen3v1e">Hjemmeside</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcgen3v1e">Hjemmeside</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/j3v1e">Hjemmeside</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/j3v1e">Hjemmeside</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
   <tr>
@@ -36,9 +40,10 @@ description: Opdag de forskellige versioner af AirPods 3 og deres tilknyttede s√
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://airreps.link/j3v12">Hjemmeside</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/j3v12">Hjemmeside</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
 </table>

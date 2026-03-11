@@ -72,8 +72,8 @@ Les vendeurs de confiance utilisent une passerelle de paiement crypto sécurisé
 **Alternative :** Si vous voulez éviter toute possibilité de vérification KYC, envisagez d'utiliser [OOPBuy](https://airreps.link/oopbuy), une plateforme d'agent qui achète des produits auprès des vendeurs en votre nom et fournit des photos de contrôle qualité (QC) avant l'expédition. OOPBuy utilise des processeurs de paiement réguliers qui acceptent les cartes de crédit et de débit et **ne nécessitent jamais de vérification KYC** ni de contrôles d'identité. C'est une excellente option si vous préférez utiliser votre carte sans exigences KYC tout en bénéficiant de l'assurance supplémentaire des photos QC.
 :::
 
-::: details Pourquoi y a-t-il si peu de liens AliExpress/Alibaba ?
-Il y avait beaucoup plus de liens vers les boutiques AliExpress et Alibaba, mais Apple a commencé à réprimer agressivement celles-ci, rendant presque impossible leur maintien. En conséquence, les vendeurs ont ouvert leurs propres sites web, qui sont plus sécurisés et robustes.
+::: details Remarque sur les liens et l'emballage Alibaba
+Apple sévit agressivement contre les liens de répliques sur des plateformes comme AliExpress et Alibaba. Bien que les vendeurs (comme Earhive) proposent occasionnellement des liens Alibaba pour l'achat, sachez que **les commandes passées via Alibaba seront toujours livrées dans un emballage neutre (sans logo Apple)** pour éviter les problèmes de douane et de droits d'auteur. Les sites directs des vendeurs et les boutiques Weidian sont généralement plus sûrs et offrent plus d'options d'emballage de type Apple.
 :::
 
 

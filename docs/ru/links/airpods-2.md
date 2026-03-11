@@ -17,19 +17,23 @@ translationStatus: machine-translated
   <tr>
     <td><span class="version-badge">V3E</span></td>
     <td>
-      <a href="https://airreps.link/e2v3e">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/earhivew">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/e2v3e">Сайт</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/hcgen2v3e">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcgen2v3e">Сайт</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
     <td>
-      <a href="https://airreps.link/j2v3e">Сайт</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/jennyw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/j2v3e">Сайт</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
     </td>
   </tr>
 </table>

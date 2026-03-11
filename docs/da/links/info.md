@@ -41,6 +41,7 @@ Alle betroede sælgere accepterer flere betalingsmetoder for din bekvemmelighed:
 | **Bitcoin / Krypto** | ✅ | ✅ | ✅ |
 | **Bankoverførsel** | ✅ | ✅ | ✅ |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
+| **Alibaba** | ✅ | ❌ | ❌ |
 | **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Afterpay** | ❌ | ✅ | ❌ |

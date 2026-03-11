@@ -117,3 +117,27 @@ iframe[src*="youtube"] {
   height: auto;
   aspect-ratio: 16 / 9;
 }
+
+/* Block Buttons Layout */
+.link-column {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.link-column a {
+    background: var(--vp-c-default-soft);
+    padding: 4px 6px;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none !important;
+    line-height: 1.2;
+    transition: background-color 0.2s;
+    border: 1px solid var(--vp-c-divider);
+}
+
+.link-column a:hover {
+    background: var(--vp-c-default-mute);
+}

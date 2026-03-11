@@ -71,8 +71,8 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 **Alternative:** If you want to avoid any possibility of KYC verification, consider using [OOPBuy](https://airreps.link/oopbuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. OOPBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures.
 :::
 
-::: details Why are there so few AliExpress/Alibaba links?
-There used to be many more links to AliExpress and Alibaba stores, but Apple started aggressively cracking down on these, making it nearly impossible to maintain them. As a result, the sellers opened their own websites, which are more secure and robust.
+::: details Note on Alibaba links and packaging
+Apple aggressively cracks down on replica links on platforms like AliExpress and Alibaba. While sellers (like Earhive) occasionally offer Alibaba links for purchasing, please be aware that **orders placed through Alibaba will always come with neutral packaging (no Apple logo box)** to avoid customs and copyright issues. Sellers' direct websites and Weidian stores are generally more secure and offer more Apple-like packaging options.
 :::
 
 

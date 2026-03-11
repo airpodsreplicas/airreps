@@ -17,9 +17,10 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro."
     <td><span class="version-badge">V4</span></td>
     <td style="text-align: center;">-</td>
     <td>
-      <a href="https://airreps.link/hcprov4">Strona</a>
-      <hr style="margin: 5px 0; height: 1px; border: none; background-color: #ccc;">
-      <a href="https://airreps.link/hicityw">Weidian</a>
+      <div class="link-column">
+        <a href="https://airreps.link/hcprov4">Strona</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
     </td>
      <td style="text-align: center;">-</td>
   </tr>
