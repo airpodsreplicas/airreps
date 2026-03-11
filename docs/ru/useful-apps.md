@@ -1,5 +1,6 @@
 ---
 description: "Основные приложения для обновления прошивки реплик AirPods. Поддержка Airoha, Tigerbuilder, BES, HR и Huilian."
+translationStatus: machine-translated
 ---
 
 # Полезные приложения

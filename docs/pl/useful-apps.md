@@ -1,5 +1,6 @@
 ---
 description: "Podstawowe aplikacje do aktualizacji firmware'u dla replik AirPods. Obsługa Airoha, Tigerbuilder, BES, HR i Huilian."
+translationStatus: machine-translated
 ---
 
 # Przydatne aplikacje
