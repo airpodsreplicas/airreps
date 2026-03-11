@@ -1,5 +1,5 @@
 ---
-description: "Apps para actualizar firmware en Android: Airoha, Tigerbuilder, BES, HR y Huilian."
+description: "Aplicaciones esenciales para actualizar el firmware de réplicas de AirPods. Compatibilidad con Airoha, Tigerbuilder, BES, HR y Huilian."
 ---
 
 # Apps Útiles
@@ -38,4 +38,3 @@ A continuación hay apps que puedes descargar para ayudarte, junto con qué vers
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android) |
 |---|
-

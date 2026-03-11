@@ -1,12 +1,12 @@
 ---
-description: "Apps de firmware para Android: Airoha, Tigerbuilder, BES."
+description: "Aplicativos essenciais para atualização de firmware de réplicas de AirPods. Suporta Airoha, Tigerbuilder, BES, HR e Huilian."
 ---
 
 # Apps Úteis
 
-Atualizar o firmware em seus clones pode frequentemente adicionar novos recursos, como áudio espacial, ou melhorar sua estabilidade. Para fazer isso, você pode usar uma variedade de apps que estão disponíveis para download. No entanto, por favor note que **a maioria desses apps estão disponíveis apenas para dispositivos Android**.
+Atualizar o firmware das suas réplicas pode frequentemente adicionar novos recursos, como áudio espacial, ou melhorar sua estabilidade. Para fazer isso, você pode usar uma variedade de apps que estão disponíveis para download. No entanto, por favor note que **a maioria desses apps está disponível apenas para dispositivos Android**.
 
-Abaixo estão os apps que podem ser baixados para ajudá-lo, juntamente com as versões e chipsets de clones que eles suportam. Se você tiver problemas ao instalar os aplicativos fora da Play Store, certifique-se de ativar 'Instalar de fontes desconhecidas' em suas configurações (na seção Segurança ou Acessibilidade). Para mais informações sobre como usar esses apps e evitar problemas, visite nosso [Discord](https://airreps.link/discord).
+Abaixo estão os apps que podem ser baixados para ajudá-lo, juntamente com as versões e chipsets de réplicas que eles suportam. Se você tiver problemas ao instalar os aplicativos fora da Play Store, certifique-se de ativar 'Instalar de fontes desconhecidas' em suas configurações (na seção Segurança ou Acessibilidade). Para mais informações sobre como usar esses apps e evitar problemas, visite nosso [Discord](https://airreps.link/discord).
 
 ## **Tigerbuilder**
 
@@ -14,9 +14,9 @@ Abaixo estão os apps que podem ser baixados para ajudá-lo, juntamente com as v
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | [![Airoha156x (Android)](/app_icon/airoha156x.png)](https://airreps.link/airoha156x) Airoha156x (Android) |
 
-:::warning **CloudCC** foi descontinuado desde que o TigerBuilder integrou a funcionalidade OTA no FlyCC. Ele deve ser usado apenas como um recurso alternativo se você encontrar o problema de permissão de armazenamento.
+:::warning **CloudCC** foi descontinuado desde que o TigerBuilder integrou a funcionalidade OTA no FlyCC. Deve ser usado apenas como uma solução alternativa se você encontrar o problema de permissão de armazenamento.
 :::
-:::tip Airoha156x deve ser usado apenas para modificar as configurações do equalizador em AirPods Max V2 (Airoha 1561M) e V3 (Airoha 1562AE)
+:::tip Airoha156x deve ser usado apenas para modificar as configurações do equalizador nos AirPods Max V2 (Airoha 1561M) e V3 (Airoha 1562AE)
 :::
 
 ## **BES**
@@ -38,4 +38,3 @@ Abaixo estão os apps que podem ser baixados para ajudá-lo, juntamente com as v
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android) |
 |---|
-

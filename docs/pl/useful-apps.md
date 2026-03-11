@@ -1,13 +1,13 @@
 ---
-description: "Aplikacje do aktualizacji firmware'u na Androida: Airoha, Tigerbuilder, BES."
+description: "Podstawowe aplikacje do aktualizacji firmware'u dla replik AirPods. Obsługa Airoha, Tigerbuilder, BES, HR i Huilian."
 translationStatus: machine-translated
 ---
 
-# Przydatne Aplikacje
+# Przydatne aplikacje
 
-Aktualizacja firmware'u twoich klonów może często dodawać nowe funkcje, takie jak spatial audio, lub poprawiać ich stabilność. Aby to zrobić, możesz używać różnych aplikacji dostępnych do pobrania. Zauważ jednak, że **większość tych aplikacji jest dostępna tylko dla urządzeń Android**.
+Aktualizacja firmware'u twoich klonów może często dodać nowe funkcje, takie jak spatial audio, lub poprawić ich stabilność. Aby to zrobić, możesz używać różnych aplikacji dostępnych do pobrania. Zauważ jednak, że **większość tych aplikacji jest dostępna tylko dla urządzeń Android**.
 
-Poniżej znajdziesz aplikacje, które można pobrać, aby ci pomóc, wraz z wersjami i chipsetami klonów, które obsługują. Jeśli masz problemy z instalacją aplikacji, które nie są z Play Store, upewnij się, że włączyłeś 'Instaluj z nieznanych źródeł' w ustawieniach (w sekcji Bezpieczeństwo lub Dostępność). Aby uzyskać więcej informacji o używaniu tych aplikacji i unikaniu problemów, odwiedź nasz [Discord](https://airreps.link/discord).
+Poniżej znajdziesz aplikacje, które można pobrać, aby ci pomóc, wraz z wersjami i chipsetami klonów, które obsługują. Jeśli masz problemy z instalacją aplikacji spoza Sklepu Play, upewnij się, że włączyłeś 'Instaluj z nieznanych źródeł' w ustawieniach (w sekcji Bezpieczeństwo lub Dostępność). Aby uzyskać więcej informacji o używaniu tych aplikacji i unikaniu problemów, odwiedź nasz [Discord](https://airreps.link/discord).
 
 ## **Tigerbuilder**
 
@@ -39,4 +39,3 @@ Poniżej znajdziesz aplikacje, które można pobrać, aby ci pomóc, wraz z wers
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android) |
 |---|
-
