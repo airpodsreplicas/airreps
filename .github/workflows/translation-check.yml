@@ -77,8 +77,15 @@ jobs:
           CHANGED_FILES: ${{ steps.changed.outputs.files }}
         run: bun .github/scripts/translate-docs.mjs
 
-      - name: Create translation pull request
+      - name: Detect locale file changes
         if: steps.changed.outputs.count != '0'
+        id: locale_changes
+        run: |
+          COUNT=$(git status --porcelain -- docs/es docs/pt docs/da docs/fr docs/pl docs/ru | grep -c . || true)
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Create translation pull request
+        if: steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'
         id: create_pr
         uses: peter-evans/create-pull-request@v7
         with:
@@ -110,3 +117,15 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           PR_URL: ${{ steps.create_pr.outputs.pull-request-url }}
         run: gh pr merge --auto --squash "$PR_URL"
+
+      - name: Close stale translation pull request
+        if: steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          PR_NUMBER=$(gh pr list --state open --head automation/translation-sync --json number --jq '.[0].number')
+          if [ -n "$PR_NUMBER" ]; then
+            gh pr close "$PR_NUMBER" --delete-branch --comment "Closing automatically because the latest translation sync found no remaining locale changes."
+          else
+            echo "No open translation PR to close."
+          fi
