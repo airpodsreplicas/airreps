@@ -91,11 +91,12 @@ async function translateDocument(openai, sourcePath, targetPath, locale, languag
 
   const response = await openai.chat.completions.create({
     model: process.env.TRANSLATION_MODEL || process.env.OPENAI_TRANSLATION_MODEL || 'openai/gpt-5-mini',
+    temperature: 0.2,
     messages: [
       {
         role: 'system',
         content:
-          'You translate documentation files. Return only the translated markdown with no code fences or commentary. Preserve the original markdown structure exactly: frontmatter keys, headings, emphasis, lists, tables, links, image paths, code fences, HTML tags, and blank-line structure. Translate only user-facing natural language. Keep brand names, file paths, URLs, and slash commands unchanged. Do not add or remove sections.',
+          'You translate documentation files. Return only the translated markdown with no code fences or commentary. Preserve the original markdown structure exactly: frontmatter keys, headings, emphasis, lists, tables, links, image paths, code fences, HTML tags, and blank-line structure. Never remove or rename frontmatter keys. Translate only user-facing natural language. Keep brand names, file paths, URLs, and slash commands unchanged. Keep existing wording whenever it is already correct, and minimize unrelated rewrites outside the changed English meaning. Do not add or remove sections.',
       },
       {
         role: 'user',
