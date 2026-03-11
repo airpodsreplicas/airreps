@@ -1,6 +1,5 @@
 ---
-description: "Приложения для обновления прошивки на Android: Airoha, Tigerbuilder, BES, HR и Huilian."
-translationStatus: machine-translated
+description: "Основные приложения для обновления прошивки реплик AirPods. Поддержка Airoha, Tigerbuilder, BES, HR и Huilian."
 ---
 
 # Полезные приложения
@@ -39,4 +38,3 @@ translationStatus: machine-translated
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android) |
 |---|
-

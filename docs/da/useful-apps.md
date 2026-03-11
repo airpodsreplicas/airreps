@@ -1,5 +1,5 @@
 ---
-description: Leder du efter apps til at opdatere firmwaren på dine AirPods-kopier? Tjek denne liste over nyttige apps kategoriseret efter chipsets, herunder Airoha, Tigerbuilder, BES, HR og Huilian. Bemærk venligst at de fleste af disse apps kun er tilgængelige til Android-enheder.
+description: "Nødvendige apps til firmwareopdatering af AirPods-kopier. Understøtter Airoha, Tigerbuilder, BES, HR og Huilian."
 ---
 
 # Nyttige Apps
@@ -38,4 +38,3 @@ Nedenfor finder du apps, der kan downloades for at hjælpe dig, sammen med hvilk
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android) |
 |---|
-
