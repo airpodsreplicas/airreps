@@ -1,10 +1,9 @@
-name: Translation Sync Check
+name: Translation Sync
 
 on:
   push:
     branches: [main]
     paths:
-      # Only trigger on English content changes (root-level docs, not locale subdirectories)
       - 'docs/*.md'
       - 'docs/introduction/**/*.md'
       - 'docs/version-info/**/*.md'
@@ -12,68 +11,90 @@ on:
       - 'docs/links/**/*.md'
       - 'docs/troubleshooting/**/*.md'
 
+concurrency:
+  group: translation-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
-  check-translations:
+  sync-translations:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
-      
+          fetch-depth: 0
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
       - name: Get changed English files
         id: changed
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
         run: |
-          # Get files changed in the last commit, excluding locale directories
-          FILES=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' | grep -v -E '^docs/(pt|es|da|fr|pl|ru)/' || true)
+          if [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
+            RANGE="HEAD~1 HEAD"
+          else
+            RANGE="$BEFORE_SHA $AFTER_SHA"
+          fi
+
+          FILES=$(git diff --diff-filter=AMR --name-only $RANGE -- docs | grep -E '^docs/.+\.md$' | grep -v -E '^docs/(pt|es|da|fr|pl|ru)/' || true)
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-          
-          # Count files for the title
+
           COUNT=$(echo "$FILES" | grep -c . || echo "0")
           echo "count=$COUNT" >> $GITHUB_OUTPUT
-      
-      - name: Create translation reminder issue
+
+          ALL_FILES=$(git diff --diff-filter=AMR --name-only $RANGE -- docs | grep -E '^docs/.+\.md$' || true)
+          echo "all_files<<EOF" >> $GITHUB_OUTPUT
+          echo "$ALL_FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Translate changed files
         if: steps.changed.outputs.count != '0'
-        uses: actions/github-script@v7
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          TRANSLATION_MODEL: ${{ vars.TRANSLATION_MODEL }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          OPENROUTER_HTTP_REFERER: ${{ vars.OPENROUTER_HTTP_REFERER }}
+          OPENROUTER_APP_TITLE: ${{ vars.OPENROUTER_APP_TITLE }}
+          TRANSLATION_LOCALES: ${{ vars.TRANSLATION_LOCALES }}
+          ALL_CHANGED_FILES: ${{ steps.changed.outputs.all_files }}
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+        run: bun .github/scripts/translate-docs.mjs
+
+      - name: Create translation pull request
+        if: steps.changed.outputs.count != '0'
+        uses: peter-evans/create-pull-request@v7
         with:
-          script: |
-            const files = `${{ steps.changed.outputs.files }}`.split('\n').filter(Boolean);
-            if (files.length === 0) return;
+          add-paths: |
+            docs/es
+            docs/pt
+            docs/da
+            docs/fr
+            docs/pl
+            docs/ru
+          branch: automation/translation-sync
+          delete-branch: true
+          commit-message: 'chore: sync translated docs'
+          title: '[Translations] Sync localized docs'
+          body: |
+            ## What changed
+            - Sync localized docs from the latest English changes on `main`
+            - Updated only files touched by the triggering push
 
-            const fileList = files.map((f) => `- \`${f}\``).join('\n');
-            const body = [
-              '## 🌐 English content updated',
-              '',
-              'The following files were modified and may need translation updates:',
-              '',
-              fileList,
-              '',
-              '### Translation status',
-              'Check off each language when its translation has been updated.',
-              '',
-              '- [ ] Portuguese (`/pt/`)',
-              '- [ ] Spanish (`/es/`)',
-              '- [ ] Danish (`/da/`)',
-              '- [ ] French (`/fr/`)',
-              '- [ ] Polish (`/pl/`)',
-              '- [ ] Russian (`/ru/`)',
-              '',
-              '### How to update translations',
-              '1. Open the corresponding file in each locale directory (e.g. `pt/`, `es/`, …).',
-              '2. Apply the same changes that were made to the English version.',
-              '3. Check off the language above when that locale is done.',
-              '',
-              '---',
-              '*This issue was automatically created by the translation sync workflow.*'
-            ].join('\n');
-
-            await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: `[Translation] Sync needed: ${files.length} file(s) updated`,
-              body,
-              labels: ['translation', 'help wanted']
-            });
-
-            console.log(`Created translation issue for ${files.length} file(s)`);
+            ## Changed English files
+            ${{ steps.changed.outputs.files }}
+          labels: |
+            translation
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
