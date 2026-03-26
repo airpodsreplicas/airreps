@@ -1,5 +1,5 @@
 ---
-description: Fejlfinding for almindelige problemer med AirPods-kopier: tilslutning, lydpause, nulstillingsprocedurer og hardwarekontroller.
+description: "Fejlfinding for almindelige problemer med AirPods-kopier: tilslutning, lydpause, nulstillingsprocedurer og hardwarekontroller."
 ---
 
 # **Almindelige Problemer**
