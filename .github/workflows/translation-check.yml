@@ -31,7 +31,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: main # Always checkout latest main so a surviving queued run catches all pending changes
+          ref: main # Always checkout latest main so a surviving queued run sees all pending changes
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
@@ -44,37 +44,64 @@ jobs:
       - name: Get changed English files
         id: changed
         run: |
-          # Diff from the last successful translation sync to HEAD rather than from
-          # the triggering push's before-SHA. This means whichever run survives
-          # queue-cancellation (caused by rapid pushes) still catches every
-          # accumulated English change since the previous sync — nothing is lost.
-          LAST_SYNC=$(git log --format="%H %s" HEAD | grep -m1 "chore: sync translated docs" | awk '{print $1}')
+          # Compare commit timestamps of each English doc against its locale counterparts.
+          # An English file is "stale" for a locale if it was committed more recently
+          # than the locale file (or the locale file doesn't exist yet).
+          #
+          # This is more reliable than diffing a commit range because:
+          # - It catches files missed by queue-cancelled runs (rapid pushes can replace
+          #   a queued run, dropping intermediate translations with cancel-in-progress: false)
+          # - It doesn't depend on sync commit history or before/after SHAs
+          # - It works correctly after manual locale edits
+          LOCALES="es pt da fr pl ru"
+          FILES=""
+          PROTECTED_LOCALES=""
 
-          if [ -z "$LAST_SYNC" ]; then
-            echo "No previous sync found — using root commit as base."
-            LAST_SYNC=$(git rev-list --max-parents=0 HEAD)
-          else
-            echo "Last sync commit: $LAST_SYNC"
-          fi
+          while IFS= read -r file; do
+            EN_TIME=$(git log -1 --format="%ct" -- "$file" 2>/dev/null)
+            if [ -z "$EN_TIME" ] || [ "$EN_TIME" = "0" ]; then
+              continue
+            fi
+            relative="${file#docs/}"
+            FILE_NEEDS_TRANSLATION=false
 
-          # English files changed since last sync (excluding locale dirs)
-          FILES=$(git diff --diff-filter=AMR --name-only "$LAST_SYNC" HEAD -- docs | grep -E '^docs/.+\.md$' | grep -v -E '^docs/(pt|es|da|fr|pl|ru)/' || true)
+            for locale in $LOCALES; do
+              locale_file="docs/$locale/$relative"
+              LOC_TIME=$(git log -1 --format="%ct" -- "$locale_file" 2>/dev/null)
+              LOC_TIME="${LOC_TIME:-0}"
+              if [ "$EN_TIME" -gt "$LOC_TIME" ]; then
+                FILE_NEEDS_TRANSLATION=true
+              else
+                # Locale file is at least as new as English — already up to date.
+                # Record it so the translate script skips it and preserves any
+                # hand-curated wording.
+                PROTECTED_LOCALES="${PROTECTED_LOCALES}${locale_file}"$'\n'
+              fi
+            done
+
+            if [ "$FILE_NEEDS_TRANSLATION" = "true" ]; then
+              FILES="${FILES}${file}"$'\n'
+            fi
+          done < <(find docs -maxdepth 4 -name "*.md" \
+            -not -path "docs/es/*" -not -path "docs/pt/*" \
+            -not -path "docs/da/*" -not -path "docs/fr/*" \
+            -not -path "docs/pl/*" -not -path "docs/ru/*" \
+            -not -path "*/.vitepress/*" \
+            | sort)
+
+          FILES=$(printf '%s' "$FILES" | grep -v '^$' | sort -u || true)
+          COUNT=$(echo "$FILES" | grep -c . || echo "0")
+          PROTECTED_LOCALES=$(printf '%s' "$PROTECTED_LOCALES" | grep -v '^$' | sort -u || true)
+
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-
-          COUNT=$(echo "$FILES" | grep -c . || echo "0")
           echo "count=$COUNT" >> $GITHUB_OUTPUT
-
-          # ALL files changed since last sync — locale paths here are used by the
-          # translate script to skip files that were already manually updated,
-          # protecting hand-curated translations from being overwritten.
-          ALL_FILES=$(git diff --diff-filter=AMR --name-only "$LAST_SYNC" HEAD -- docs | grep -E '^docs/.+\.md$' || true)
           echo "all_files<<EOF" >> $GITHUB_OUTPUT
-          echo "$ALL_FILES" >> $GITHUB_OUTPUT
+          echo "$PROTECTED_LOCALES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-          echo "Changed English files ($COUNT):"
+          echo "English files needing translation ($COUNT):"
           echo "$FILES"
 
       - name: Translate changed files
@@ -116,9 +143,9 @@ jobs:
           body: |
             ## What changed
             - Sync localized docs from the latest English changes on `main`
-            - Covers all English files changed since the last translation sync
+            - Covers all English files whose locale versions were out of date
 
-            ## Changed English files
+            ## Translated English files
             ${{ steps.changed.outputs.files }}
           labels: |
             translation
@@ -138,7 +165,7 @@ jobs:
         run: |
           PR_NUMBER=$(gh pr list --state open --head automation/translation-sync --json number --jq '.[0].number')
           if [ -n "$PR_NUMBER" ]; then
-            gh pr close "$PR_NUMBER" --delete-branch --comment "Closing automatically because the latest translation sync found no remaining locale changes."
+            gh pr close "$PR_NUMBER" --delete-branch --comment "Closing automatically: all locale files are already up to date."
           else
             echo "No open translation PR to close."
           fi
