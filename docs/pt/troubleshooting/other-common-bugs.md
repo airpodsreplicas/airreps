@@ -1,5 +1,5 @@
 ---
-description: "Solução de problemas comuns: conexão, áudio e reset."
+description: "Guia de solução de problemas para problemas comuns de réplicas de AirPods: conectividade, pausas de áudio, procedimentos de reset e verificações de hardware."
 ---
 
 # **Problemas Comuns**
@@ -26,7 +26,6 @@ Siga estas etapas para realizar um reset forçado em suas réplicas de AirPods:
 ## **Abrindo Réplicas de AirPods**
 Você pode receber clones de AirPods com marketing enganoso ao fazer o pedido em sites como o AliExpress de vendedores não verificados. Você pode usar o app correspondente ao chipset para verificar se recebeu o componente correto; muitas vezes, apenas mostrar o app não é prova suficiente. Pode ser necessário abrir os AirPods e tirar uma foto do chipset como prova. Veja como você pode fazer isso sem danificar os AirPods:
 
-<p><em>🎬 Este vídeo está em inglês. Você pode ativar as legendas traduzidas automaticamente do YouTube se necessário.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Áudio/Vídeo Pausando Frequentemente**
@@ -35,7 +34,6 @@ Pausas frequentes de áudio ou vídeo ao usar réplicas de AirPods é um problem
 ## **Réplicas de AirPods Permanecem Conectadas Após Fechar o Estojo**
 Alguns usuários de réplicas de AirPods podem enfrentar um problema em que os AirPods permanecem conectados ao dispositivo mesmo depois de fechar o estojo de carregamento. Isso é tipicamente causado por um mau funcionamento nos ímãs e no sensor Hall dentro do estojo, responsáveis por detectar a posição dos AirPods. Para corrigir isso, siga as etapas descritas no seguinte tutorial do YouTube:
 
-<p><em>🎬 Este vídeo está em inglês. Você pode ativar as legendas traduzidas automaticamente do YouTube se necessário.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Qualidade de Som Ruim ou Problemas de Graves no iOS**

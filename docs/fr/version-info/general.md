@@ -1,11 +1,11 @@
 ---
-description: "Résumé des fonctionnalités manquantes sur les répliques."
+description: "Un résumé des fonctionnalités manquantes pour tous les modèles de répliques d'AirPods. Comparez ce qui manque à chaque version et découvrez les fonctionnalités communes. Notez que des versions plus récentes ne signifient pas nécessairement une meilleure qualité."
 ---
 
 # Général
 
 ::: tip À propos des Numéros de Version
-Ce système de numérotation des versions a été conçu par la communauté AirReps pour simplifier l'identification des produits entre différents fabricants. Lorsque de nouveaux modèles d'AirPods sont lancés (comme AirPods Pro 2 ou Pro 3), la numérotation des versions continue à partir des numéros précédents plutôt que de repartir de zéro.
+Ce système de numérotation des versions a été conçu par la communauté AirReps pour simplifier l'identification des produits entre différents fabricants. Lorsque de nouveaux modèles d'AirPods sont lancés (comme AirPods Pro 2 ou Pro 3), la numérotation des versions continue à partir des numéros précédents plutôt que de repartir de zéro. 
 
 Les fabricants comme TigerBuilder et Huilian utilisent leurs propres noms de produits (comme « 377super »), ce qui peut rendre difficile la comparaison des produits entre différents fabricants. Notre système de nommage communautaire résout ce problème en fournissant un numéro de version standardisé qui facilite la recherche de produits comparables entre fabricants sans avoir à mémoriser des dizaines de noms différents.
 
@@ -47,7 +47,7 @@ Les répliques d'AirPods Max sont maintenant disponibles et sont devenues des r�
 :::
 
 ::: details Les répliques d'AirPods Pro 3 sont-elles disponibles ?
-Les répliques d'AirPods Pro 3 sont disponibles, mais seules des versions milieu de gamme ont été lancées jusqu'à présent. Il n'y a pas encore de versions haut de gamme de marques comme TigerBuilder. Pour plus d'informations, consultez la page [informations de version AirPods Pro 3](/fr/version-info/airpods-pro-3).
+Les répliques d'AirPods Pro 3 sont disponibles, mais seules des versions milieu de gamme ont été lancées jusqu'à présent. Il n'y a pas encore de versions haut de gamme de marques comme TigerBuilder. Pour plus d'informations, consultez la page [informations de version AirPods Pro 3](/version-info/airpods-pro-3).
 :::
 
 ::: details Pourquoi des communautés similaires pourraient-elles avoir des produits plus récents que ce guide ?
@@ -63,7 +63,7 @@ Il n'est pas possible de déterminer la version d'un clone sans l'utiliser réel
 :::
 
 ::: details Comment puis-je déterminer la puce de mes AirPods ?
-Pour identifier la puce de vos clones d'AirPods, référez-vous à cette liste d'[applications utiles](https://airpodsreplicas.com/fr/useful-apps). Testez chaque application individuellement pour déterminer à laquelle vos AirPods se connectent. Cela vous aidera à identifier rapidement le fabricant et le chipset. Notez que si vos AirPods sont de très basse qualité, ils peuvent ne se connecter à aucune des applications. Dans ce cas, ils utilisent probablement le chipset Jieli.
+Pour identifier la puce de vos clones d'AirPods, référez-vous à cette liste d'[applications utiles](https://airpodsreplicas.com/useful-apps). Testez chaque application individuellement pour déterminer à laquelle vos AirPods se connectent. Cela vous aidera à identifier rapidement le fabricant et le chipset. Notez que si vos AirPods sont de très basse qualité, ils peuvent ne se connecter à aucune des applications. Dans ce cas, ils utilisent probablement le chipset Jieli.
 :::
 
 ::: details Comment puis-je déterminer si mes AirPods sont vrais ?

@@ -1,5 +1,6 @@
 ---
-description: "Correction du contrôle du volume des AirPods sur macOS (Intel)."
+title: Le curseur de volume ne fonctionne pas sur macOS
+description: Corrige le problème du curseur de volume sur macOS sur les Mac Intel. Une solution simple pour reprendre le contrôle de la sortie audio.
 ---
 
 # Le Problème : Le Curseur de Volume ne fonctionne pas.
@@ -7,14 +8,14 @@ description: "Correction du contrôle du volume des AirPods sur macOS (Intel)."
 C'est l'un des problèmes les plus connus sur la version **Intel** de macOS, où le curseur de volume qui contrôle le volume audio ne fonctionne tout simplement pas, mais agit seulement comme un interrupteur (cela arrive à la plupart des répliques, bien que certaines ne soient pas affectées). Bien qu'Apple ne regardera jamais ce problème, nous pouvons le contourner avec un [outil open source](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Ce guide est destiné à ceux qui ont des Macs basés sur Intel (i3, i5, i7 ; pas les puces de la série M). Si votre Mac Apple Silicon (puce série M) ne lit pas l'audio avec vos AirReps actuels, consultez la section [Bugs Courants](/fr/troubleshooting/other-common-bugs.md).
+Ce guide est destiné à ceux qui ont des Macs basés sur Intel (i3, i5, i7 ; pas les puces de la série M). Si votre Mac Apple Silicon (puce série M) ne lit pas l'audio avec vos AirReps actuels, consultez la section [Bugs courants](/troubleshooting/other-common-bugs.md).
 :::
 
 ## **Prérequis**
 
 Avant le tutoriel, veuillez vous assurer que vous avez :
-- Accès `sudo` (ou que votre compte macOS a un accès administrateur)
-- L'installateur de paquets `brew` (sinon, suivez simplement cette [section](#installation-de-brew))
+- Accès `sudo` (ou que votre compte macOS dispose de droits administrateur)
+- `brew` package installer (si non, suivez simplement cette [section](#brew-installation))
 
 :::tip
 PS : utiliser `brew` est beaucoup plus facile que l'installation manuelle, mais si vous voulez éviter d'utiliser `brew`, vous pouvez lire et suivre les étapes [ici](https://github.com/briankendall/proxy-audio-device#manual-installation).
@@ -74,7 +75,7 @@ C'est... dommage en fait, vous devez naviguer vers « Centre de Contrôle » pou
 :::
 
 :::details Pas d'audio lors de la déconnexion
-L'application est conçue pour toujours se connecter au périphérique sélectionné. Vous devez manuellement resélectionner « Haut-parleur Interne » vous-même.
+L'application est conçue pour toujours se connecter au périphérique sélectionné. Vous devez manuellement resélectionner "Internal Speaker".
 :::
 
 :::details Craquement/pop ou audio unilatéral

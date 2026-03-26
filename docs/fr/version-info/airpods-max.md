@@ -1,5 +1,5 @@
 ---
-description: "Versions des répliques AirPods Max, puces et avis."
+description: "Comparer les versions des répliques des AirPods Max par puce, fonctionnalités et fonctionnalités manquantes."
 ---
 
 # AirPods Max

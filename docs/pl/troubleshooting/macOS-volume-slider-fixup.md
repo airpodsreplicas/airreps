@@ -1,6 +1,6 @@
 ---
-description: "Naprawa sterowania głośnością AirPods na macOS (Intel)."
-translationStatus: machine-translated
+title: Suwak głośności nie działa na macOS
+description: Naprawa problemu z suwakiem głośności na macOS dla komputerów Mac z Intelem. Proste obejście pozwalające odzyskać kontrolę nad wyjściem audio.
 ---
 
 # Problem: Suwak Głośności Nie Działa.
@@ -8,14 +8,14 @@ translationStatus: machine-translated
 Jest to jeden z najbardziej znanych problemów w wersji **Intel** macOS, gdzie suwak głośności kontrolujący głośność po prostu nie działa, tylko funkcjonuje jako przełącznik (dzieje się tak dla większości klonów, chociaż niektóre nie są dotknięte). Podczas gdy sam Apple nigdy nie zbadałby tego problemu, możemy go obejść za pomocą [narzędzia open source](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Ten przewodnik jest przeznaczony dla tych, którzy mają Maki oparte na Intel (i3, i5, i7; nie chipsety serii M). Jeśli Twój Mac z Apple Silicon (chipsety serii M) nie odtwarza dźwięku z aktualnymi AirReps, sprawdź sekcję [Typowe Błędy](/pl/troubleshooting/other-common-bugs.md).
+Ten przewodnik jest przeznaczony dla tych, którzy mają Maki oparte na Intel (i3, i5, i7; nie chipsety serii M). Jeśli Twój Mac z Apple Silicon (chipsety serii M) nie odtwarza dźwięku z aktualnymi AirReps, sprawdź sekcję [Common Bugs](/troubleshooting/other-common-bugs.md).
 :::
 
 ## **Wymagania Wstępne**
 
 Przed przystąpieniem do samouczka, upewnij się, że masz:
 - Dostęp `sudo` (lub Twoje konto macOS ma dostęp administracyjny)
-- Menedżer pakietów `brew` (jeśli nie, po prostu wykonaj tę [sekcję](#instalacja-brew))
+- Menedżer pakietów `brew` (jeśli nie, po prostu wykonaj tę [sekcję](#brew-installation))
 
 :::tip
 PS: użycie `brew` jest znacznie łatwiejsze niż ręczna instalacja, ale jeśli chcesz pominąć używanie `brew`, możesz przeczytać to i wykonać kroki [tutaj](https://github.com/briankendall/proxy-audio-device#manual-installation).

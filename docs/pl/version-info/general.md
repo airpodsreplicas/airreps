@@ -1,21 +1,20 @@
 ---
-description: "Przegląd brakujących funkcji w różnych modelach klonów AirPods."
-translżeionStżeus: machine-translżeed
+description: "Podsumowanie brakujących funkcji we wszystkich modelach replik AirPods. Porównaj, czego brakuje w poszczególnych wersjach, i odkryj wspólne cechy. Uwaga: nowsze wersje niekoniecznie oznaczają lepszą jakość."
 ---
 
-# Ogólne
+# General
 
-::: tip O Numerach Wersji
-Ten system numerowania wersji został zaprojektowany przez społeczność AirReps, aby uprościć identyfikację produktów różnych producentów. Gdy wydawane są nowe modele AirPods (takie jak AirPods Pro 2 lub Pro 3), numeracja wersji kontynuuje od poprzednich numerów zamiast zaczynać od nowa.
+::: tip About Version Numbers
+This version numbering system was designed by the AirReps community to simplify product identification across different manufacturers. When new AirPods models are released (like AirPods Pro 2 or Pro 3), the version numbering continues from previous numbers rather than starting from scratch. 
 
-Producenci tacy jak TigerBuilder i Huilian używają własnych nazw produktów (takich jak "377super"), co może utrudniać porównywanie produktów różnych producentów. Nasz schemże nazewnictwa tworzony przez społeczność rozwiązuje to, zapewniając ustandaryzowany numer wersji, który ułżewia znajdowanie porównywalnych produktów różnych producentów bez konieczności pamiętania dziesiątek różnych nazw.
+Manufacturers like TigerBuilder and Huilian use their own product names (such as "377super"), which can make it difficult to compare products across different manufacturers. Our community naming scheme solves this by providing a standardized version number that makes it easy to find comparable products across manufacturers without having to remember dozens of different names.
 
-**Uwaga:** Producenci to nie to samo co sprzedawcy. Nie możesz kupować bezpośrednio od producentów—kupujesz od sprzedawców, którzy pozyskują produkty od tych producentów.
+**Note:** Manufacturers are not the same as sellers. You cannot buy directly from manufacturers—you purchase from sellers who source products from these manufacturers.
 :::
 
-Ta tabela przedstawia przegląd najbardziej znaczących brakujących funkcji dla różnych modeli AirPods na podstawie konkretnych wersji.
+This table provides a summary of the most notable missing features for various AirPods models based on specific versions.
 
-| Model AirPods | Na podstawie | Brakujące Funkcje                                                                                                                                         |
+| AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AirPods Pro 3 | <span class="version-badge">V6</span>   | Czujnik pulsu, Wyższa jakość wykonania, Gesty kiwania głową, Sieć Znajdź Mój                                                                           |
 | AirPods Gen 4 | <span class="version-badge">V3</span>   | Sieć Znajdź Mój, Dokładne dźwięki etui i bardziej zauważalne detale                                                                           |
@@ -25,52 +24,52 @@ Ta tabela przedstawia przegląd najbardziej znaczących brakujących funkcji dla
 | AirPods Pro   | <span class="version-badge">V4.9</span> | 1:1 Redukcja Szumów (jest już całkiem blisko), Sieć Znajdź Mój                                                                            |
 | AirPods Gen 2 | <span class="version-badge">V3E</span>  | iCloud Connect, Sieć Znajdź Mój                                                                                                              |
 
-**Wszystkie Mają:**
+**All Have:**
 
-Wszystkie modele mają następujące funkcje:
+All models have the following features:
 
-- Zmiana nazwy
-- GPS (tylko iOS)
-- Zmiana sterowania dotykowego (tylko iOS)
+- Name Changing
+- GPS (iOS only)
+- Changing Tap Controls (iOS only)
 
-**Wszystkim Brakuje:**
+**All Missing:**
 
-Wszystkim modelom brakuje następującej funkcji:
+All models are missing the following feature:
 
-- Dostępność "Sieci Znajdź Mój"
+- "Find My Network" Availability
 
-**Uwaga:** Ta lista jest uporządkowana od nowszych do starszych modeli. Wyższy numer często, ale nie zawsze, oznacza lepszy model.
+**Note:** This list is ordered from newer to older models. A higher number does often but not always indicate a better model.
 
 ## FAQ
 
-::: details Czy klony AirPods Max są dostępne?
-Klony AirPods Max są teraz dostępne i stały się dobrze dopracowanymi kopiami. Jenny i HiCity sprzedają klony AirPods Max z Airoha 1561M. Ceny ustabilizowały się. Dla aktualizacji odwiedź [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) i [AirReps Discord](https://discord.com/invite/airreps).
+::: details Are AirPods Max reps available?
+AirPods Max replicas are now available and have become well-rounded replicas. Jenny and HiCity sell AirPods Max replicas using the Airoha 1561M. Prices have stabilized. For updates, visit the [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) and the [AirReps Discord](https://discord.com/invite/airreps).
 :::
 
-::: details Czy klony AirPods Pro 3 są dostępne?
-Klony AirPods Pro 3 są dostępne, ale dotychczas wydano tylko wersje średniej klasy. Nie ma jeszcze wersji high-end od marek takich jak TigerBuilder. Po więcej informacji zobacz stronę [AirPods Pro 3 versionsinfo](/pl/version-info/airpods-pro-3).
+::: details Are AirPods Pro 3 reps available?
+AirPods Pro 3 replicas are available, but only mid-end versions have been released so far. There are no high-end versions from brands like TigerBuilder yet. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
 :::
 
-::: details Dlaczego podobne społeczności mią mieć nowsze produkty niż ten przewodnik?
-Produkty w tym przewodniku są najwyższej jakości i zostały starannie wybrane, aby spełniać nasze standardy. Aktualizujemy listę codziennie, aby upewnić się, że tylko najlepsze produkty są uwzględnione. Inne społeczności mią mieć niższe standardy i mią zawierać produkty, które nie są tak wysokiej jakości. Możliwe również, że używają innego schemżeu nazewnictwa swoich produktów, co może sprawiać wrażenie, że mają nowsze produkty niż ten przewodnik.
+::: details Why might similar communities have newer products than this guide?
+The products listed in this guide are the highest quality and are carefully selected to meet our standards. We update the list every day to ensure that only the best products are included. Other communities may have lower standards and may include products that are not as high-quality. It is also possible that they use a different naming scheme for their products, which could make it appear as though they have newer products than this guide.
 :::
 
-::: details Który model jest najlepszy?
-Model wymieniony najwyżej jest najnowszy, podczas gdy pozostałe modele to wcześniejsze wersje. Aby znaleźć najlepszy dla siebie, rozważ czynniki takie jak budżet, dostępność wysyłki i pożądane funkcje. Dobrym pomysłem jest również wyszukanie recenzji różnych modeli i podjęcie własnej decyzji na podstawie tych informacji.
+::: details Which model is the best?
+The top-listed model is the latest one, while the other models are previous versions. To find the best one for you, consider factors such as your budget, shipping availability, and desired features. It is also a good idea to search for reviews of the different models and make your own decision based on that information.
 :::
 
-::: details Jak mię określić wersję znalezionego klonu?
-Nie jest możliwe określenie wersji klonu bez faktycznego jego użycia. Numery chipów i zdjęcia dostarczane przez sprzedawców nie są wiarygodnymi wskaźnikami wersji klonu. Pytanie sprzedawców, czy dany klon jest określoną wersją, nie dostarczy przydżenych informacji, ponieważ mią nie rozumieć pytania. Jeśli chcesz podjąć ryzyko, możesz kupić losowy klon. Jednak aby upewnić się, że wiesz dokładnie, jaki model otrzymujesz, najlepiej kupować od zweryfikowanych sprzedawców.
+::: details How can I determine the version of a clone I found?
+It is not possible to determine the version of a clone without actually using it. The chip numbers and pictures provided by sellers are not reliable indicators of a clone's version. Asking sellers if a particular clone is a certain version will not provide useful information, as they may not understand the question. If you are willing to take the risk, you can purchase a random clone. However, to ensure that you know exactly which model you are getting, it is best to purchase from verified sellers.
 :::
 
-::: details Jak mię określić chip w moich AirPods?
-Aby zidentyfikować chip w swoich klonach AirPods, sprawdź tę listę [przydżenych aplikacji](https://airpodsreplicas.com/pl/useful-apps). Przetestuj każdą aplikację indywidualnie, aby określić, z którą łączą się twoje AirPods. Pomoże to szybko zidentyfikować producenta i chipset. Zauważ, że jeśli twoje AirPods są bardzo niskiej jakości, mią nie łączyć się z żadną z aplikacji. W takich przypadkach prawdopodobnie używają chipsetu Jieli.
+::: details How can I determine the chip in my AirPods?
+To identify the chip in your AirPods clones, refer to this list of [useful apps](https://airpodsreplicas.com/useful-apps). Test each app individually to determine which one your AirPods connect to. This will help you quickly identify the manufacturer and chipset. Note that if your AirPods are very low-tier, they may not connect to any of the apps. In such cases, they likely use the Jieli chipset.
 :::
 
-::: details Jak mię określić, czy moje AirPods są oryginalne?
-Aby szybko sprawdzić, czy twoje AirPods są oryginalne, połącz je z iPhone i przejdź do Ustawienia > Ogólne > To urządzenie. Jeśli jest sekcja "AirPods" podczas przewijania w dół, sprawdź, czy numer seryjny pokazany tam odpowiada numerowi seryjnemu wewnątrz pokrywy AirPods ([Sprawdź Tutaj](http://airreps.info/aboutsection)). Jeśli nie ma sekcji AirPods, twoje AirPods są prawdopodobnie fałszywe. Niektóre nowsze klony AirPods mią mieć działającą stronę "Informacje", w którym to przypadku możesz sprawdzić obecność Spatial Audio i śledzenia głowy. Dla AirPods możesz również sprawdzić wersję firmware na stronie Informacje, aby upewnić się, że odpowiada najnowszej wersji wydanej przez Apple. Jeśli nie jesteś pewien autentyczności swoich AirPods i nie możesz sprawdzić przed zakupem, możesz poprosić o pomoc na [r/airreps subreddit](https://www.reddit.com/r/AirReps/) lub [Discord](https://discord.com/invite/airreps).
+::: details How can I determine if my AirPods are real?
+To quickly check if your AirPods are real, connect them to an iPhone and go to Settings > General > About. If there is an "AirPods" section when you scroll down, check that the serial number shown there matches the serial number on the inside of the AirPods lid ([Sprawdź Tutaj](http://airreps.info/aboutsection)). If there is no AirPods section, then your AirPods are likely fake. Some newer replica AirPods may have a functioning "About" page, in which case you can check for the presence of Spatial Audio and head tracking. For AirPods, you can also check the firmware version in the About page to ensure that it matches the latest version released by Apple. If you are unsure about the authenticity of your AirPods and cannot check before purchasing, you can ask for help on the [r/airreps subreddit](https://www.reddit.com/r/AirReps/) or [Discord](https://discord.com/invite/airreps).
 :::
 
-::: details Czy i9999, Superpods itp. są lepsze niż Supercopy lub produkty w przewodniku?
-W przeszłości te nazwy były używane do wskazywania ulepszeń lub poprawek klonów AirPods. Jednak chińscy sprzedawcy zaczęli używać tych nazw, aby sprawiały wrażenie, że oferują nowsze lub lepsze produkty, podczas gdy w rzeczywistości sprzedają te same produkty co wcześniej. W rezultacie te nazwy nie mają już żadnego znaczenia i powinny być ignorowane. Zamiast tego skup się na rzeczywistych funkcjach i jakości produktów przy podejmowaniu decyzji zakupowej.
+::: details Are i9999, Superpods, etc. better than Supercopy or the products listed in the guide?
+In the past, these names were used to indicate upgrades or improvements to replica AirPods. However, Chinese sellers have started using these names to make it appear as though they are offering newer or better products when they are actually just selling the same products as before. As a result, these names no longer carry any meaning and should be ignored. Instead, focus on the actual features and quality of the products when making a purchasing decision.
 :::

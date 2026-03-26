@@ -1,6 +1,5 @@
 ---
-description: "Wersje klonów AirPods Max, ich chipy i linki do zaufanych sprzedawców."
-translationStatus: machine-translated
+description: "Porównaj wersje replik AirPods Max według chipu, funkcji i brakujących funkcji."
 ---
 
 # AirPods Max

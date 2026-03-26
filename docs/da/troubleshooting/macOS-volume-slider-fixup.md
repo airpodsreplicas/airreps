@@ -1,5 +1,6 @@
 ---
-description: En løsning på Intel-versionen af macOS's problem med at kunne kontrollere lydstyrkeudgang ved hjælp af systemets indbyggede lydstyrkeskyder.
+title: Lydstyrkeskyderen virker ikke på macOS
+description: Ret problemet med macOS-lydstyrkeskyderen på Intel-Macs. En simpel løsning til at få kontrol over din lydudgang tilbage.
 ---
 
 # Problemet: Lydstyrkeskyderen virker ikke.
@@ -7,7 +8,7 @@ description: En løsning på Intel-versionen af macOS's problem med at kunne kon
 Dette er et af de mest kendte problemer på **Intel**-versionen af macOS, hvor lydstyrkeskyderen, der kontrollerer lydstyrken, simpelthen ikke virker, men kun fungerer som en kontakt (sker for de fleste kopier derude, selvom nogle ikke er påvirket). Mens Apple selv aldrig ville undersøge problemet, kan vi omgå dette med et [open source-værktøj](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Denne guide er beregnet til dem, der har Intel-baserede Mac'er (i3, i5, i7; ikke M-serie chip). Hvis din Apple Silicon (M-serie chip) Mac ikke afspiller lyd med dine nuværende AirReps, tjek [Almindelige Fejl](/da/troubleshooting/other-common-bugs.md) sektionen.
+Denne guide er beregnet til dem, der har Intel-baserede Mac'er (i3, i5, i7; ikke M-serie chip). Hvis din Apple Silicon (M-serie chip) Mac ikke afspiller lyd med dine nuværende AirReps, tjek [Common Bugs](/troubleshooting/other-common-bugs.md) sektionen.
 :::
 
 ## **Forudsætninger**
@@ -61,7 +62,7 @@ Bliv ikke fristet til at klikke væk fra denne tutorial, de fleste mennesker som
     + For de fleste mennesker, vælg `When user is not idle`
     + For folk der vil have konsistent lyd, eller gaming, vælg `Always`.
 
-3. Til sidst, naviger til Kontrolcenter > Lyd > ">" ikonet, og vælg den nyoprettede lydenhed (`Proxy Audio Device` som standard).
+3. Til sidst, naviger til Control Center > Sound > the ">" icon, og vælg den nyoprettede lydenhed (`Proxy Audio Device` som standard).
 
 ![vælg lydenhed](/volume_fix/change-audio-device.gif)
 
@@ -69,16 +70,16 @@ Bliv ikke fristet til at klikke væk fra denne tutorial, de fleste mennesker som
 ## **Bivirkninger**
 
 Selvom det er fint at bruge det meste af tiden, kan nogle brugere opleve disse problemer:
-::: details Intet "Lyd" ikon i topbjælken
-Dette er... uheldigt faktisk, du skal navigere til "Kontrolcenter" for at kontrollere lyden (eller bruge genvej).
+::: details Intet "Sounds" ikon på topbjælken
+Desværre skal du navigere til Control Center for at kontrollere lyden (eller bruge en tastaturgenvej).
 :::
 
 :::details Ingen lyd ved frakobling
-Appen er kun designet til altid at hænge fast på den valgte enhed. Du skal manuelt genvælge "Intern højttaler" selv.
+Appen er kun designet til altid at hænge fast på den valgte enhed. Du skal manuelt genvælge "Internal Speaker".
 :::
 
 :::details Knitren/pop eller ensidet lyd
-Du kan komme uden om dette ved at øge bufferstørrelsen / eller vælge `Always` i `Proxy Device in Active` muligheden i appen.
+Du kan undgå dette ved at øge bufferstørrelsen eller vælge `Always` i `Proxy device is active`-indstillingen i appen.
 :::
 
 ## **Afinstallation**

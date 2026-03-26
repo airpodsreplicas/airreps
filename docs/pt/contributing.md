@@ -1,5 +1,5 @@
 ---
-description: "Guia de contribuição: Fork, alterações e Pull Request."
+description: "Como contribuir para o projeto AirReps. Faça fork do repositório, configure seu ambiente, faça alterações e envie um pull request."
 ---
 
 # Diretrizes de Contribuição

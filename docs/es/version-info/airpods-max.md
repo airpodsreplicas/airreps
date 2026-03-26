@@ -1,5 +1,5 @@
 ---
-description: "Versiones de réplicas Max, chips y enlaces a vendedores recomendados."
+description: "Compara las versiones de réplicas de AirPods Max por chip, características y características faltantes."
 ---
 
 # AirPods Max
