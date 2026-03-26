@@ -1,5 +1,5 @@
 ---
-description: Udforsk de forskellige versioner af AirPods 3-kopier, herunder deres chip, funktioner og manglende funktioner. Klik på versionshyperlinks for at finde anmeldelser for hver model.
+description: "Sammenlign AirPods 3-kopier efter chip, funktioner og manglende funktioner."
 ---
 
 # AirPods 3

@@ -1,5 +1,5 @@
 ---
-description: Explore as diferentes versões das réplicas de AirPods Max, incluindo seus chips, recursos e recursos ausentes. Clique nos links das versões para encontrar análises de cada modelo.
+description: "Compare versões de réplicas AirPods Max por chip, funcionalidades e funcionalidades ausentes."
 ---
 
 # AirPods Max

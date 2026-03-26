@@ -1,5 +1,5 @@
 ---
-description: Udforsk de forskellige versioner af AirPods Max-kopier, herunder deres chip, funktioner og manglende funktioner. Klik på versionshyperlinks for at finde anmeldelser for hver model.
+description: "Sammenlign AirPods Max-kopier efter chip, funktioner og manglende funktioner."
 ---
 
 # AirPods Max

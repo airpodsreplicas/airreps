@@ -1,5 +1,5 @@
 ---
-description: Изучите различные версии реплик AirPods Max и их продавцов. Найдите официальные магазины и прямые ссылки для покупки реплик AirPods Max.
+description: "Проверенные ссылки для покупки реплик AirPods Max."
 translationStatus: machine-translated
 ---
 

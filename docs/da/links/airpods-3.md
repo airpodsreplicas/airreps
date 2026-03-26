@@ -1,5 +1,5 @@
 ---
-description: Opdag de forskellige versioner af AirPods 3 og deres tilknyttede sælgere. Find officielle butikker og direkte links til at købe AirPods 3-kopier.
+description: "Verificerede sælgerlinks til køb af AirPods 3-kopier."
 ---
 
 # AirPods 3

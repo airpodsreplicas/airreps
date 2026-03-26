@@ -1,5 +1,5 @@
 ---
-description: Udforsk de forskellige versioner af AirPods 2 og deres tilknyttede sælgere. Find officielle butikker og direkte links til at købe AirPods 2-kopier.
+description: "Verificerede sælgerlinks til køb af AirPods 2-kopier."
 ---
 
 # AirPods 2

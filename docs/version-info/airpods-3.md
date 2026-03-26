@@ -1,5 +1,5 @@
 ---
-description: Explore the different versions of AirPods 3 replicas, including their chip, features, and missing features. Click on the version hyperlinks to find reviews for each model.
+description: "Compare AirPods 3 replica versions by chip, features, and missing features."
 ---
 
 # AirPods 3

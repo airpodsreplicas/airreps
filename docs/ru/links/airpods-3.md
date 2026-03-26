@@ -1,5 +1,5 @@
 ---
-description: Откройте для себя различные версии AirPods 3 и их продавцов. Найдите официальные магазины и прямые ссылки для покупки реплик AirPods 3.
+description: "Проверенные ссылки для покупки реплик AirPods 3."
 translationStatus: machine-translated
 ---
 

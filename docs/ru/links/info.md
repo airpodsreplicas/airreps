@@ -1,5 +1,5 @@
 ---
-description: Доступ к проверенным ссылкам для покупки реплик AirPods у надёжных продавцов. Выберите интересующий вас продукт, например AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, AirPods Pro 3 или AirPods Max, чтобы просмотреть соответствующие ссылки.
+description: "Каталог проверенных продавцов и ссылки для покупки всех моделей реплик AirPods."
 translationStatus: machine-translated
 ---
 

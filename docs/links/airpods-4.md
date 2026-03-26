@@ -1,5 +1,5 @@
 ---
-description: Discover the different versions of the new AirPods 4 and their associated sellers. Find official stores and direct links to purchase AirPods 4 replicas.
+description: "Trusted seller links and purchase options for AirPods 4 replicas."
 ---
 
 # AirPods 4

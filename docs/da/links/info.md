@@ -1,5 +1,5 @@
 ---
-description: Få adgang til verificerede links til køb af AirPods-kopier fra troværdige sælgere. Vælg det produkt, du er interesseret i, såsom AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, AirPods Pro 3 eller AirPods Max, for at se de tilsvarende links.
+description: "Oversigt over verificerede sælgerlinks til alle AirPods-kopier."
 ---
 
 # Links

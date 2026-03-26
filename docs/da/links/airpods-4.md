@@ -1,5 +1,5 @@
 ---
-description: Opdag de forskellige versioner af de nye AirPods 4 og deres tilknyttede sælgere. Find officielle butikker og direkte links til at købe AirPods 4-kopier.
+description: "Verificerede sælgerlinks til køb af AirPods 4-kopier."
 ---
 
 # AirPods 4

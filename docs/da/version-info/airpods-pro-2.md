@@ -1,5 +1,5 @@
 ---
-description: Udforsk de forskellige versioner af AirPods Pro 2-kopier, herunder deres chip, funktioner og manglende funktioner. Klik på versionshyperlinks for at finde anmeldelser for hver model.
+description: "Sammenlign AirPods Pro 2-kopier efter chip, funktioner og manglende funktioner."
 ---
 
 # AirPods Pro 2

@@ -1,5 +1,5 @@
 ---
-description: Opdag forskellige versioner af AirPods Pro-kopier fra forskellige sælgere. Find officielle butikker og direkte links til at købe AirPods Pro-kopier.
+description: "Verificerede sælgerlinks til køb af AirPods Pro-kopier."
 ---
 
 # AirPods Pro

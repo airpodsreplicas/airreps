@@ -1,5 +1,5 @@
 ---
-description: Откройте для себя различные версии реплик AirPods Pro от разных продавцов. Найдите официальные магазины и прямые ссылки для покупки реплик AirPods Pro.
+description: "Проверенные ссылки для покупки реплик AirPods Pro."
 translationStatus: machine-translated
 ---
 

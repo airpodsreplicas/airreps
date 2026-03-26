@@ -1,5 +1,5 @@
 ---
-description: Изучите различные версии AirPods 2 и их продавцов. Найдите официальные магазины и прямые ссылки для покупки реплик AirPods 2.
+description: "Проверенные ссылки для покупки реплик AirPods 2."
 translationStatus: machine-translated
 ---
 

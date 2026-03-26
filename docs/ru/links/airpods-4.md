@@ -1,5 +1,5 @@
 ---
-description: Откройте для себя различные версии новых AirPods 4 и их продавцов. Найдите официальные магазины и прямые ссылки для покупки реплик AirPods 4.
+description: "Проверенные ссылки для покупки реплик AirPods 4."
 translationStatus: machine-translated
 ---
 

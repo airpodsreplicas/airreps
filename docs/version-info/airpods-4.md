@@ -1,5 +1,5 @@
 ---
-description: Explore the different versions of the new AirPods 4 replicas, including their chip, features, and missing features. Click on the version hyperlinks to find reviews for each model.
+description: "Compare AirPods 4 replica versions by chip, features, and missing features."
 ---
 
 # AirPods 4

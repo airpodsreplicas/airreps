@@ -1,5 +1,5 @@
 ---
-description: Explore a summary of missing features for various AirPods models, including AirPods Pro 3, AirPods Gen 4, AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro, and AirPods Max. Discover the specific features that are not available in each model and understand the common features they all share. Please note that newer versions do not necessarily imply better models.
+description: "A summary of missing features across all AirPods replica models. Compare what each version lacks and discover shared features. Note that newer versions don't necessarily mean better quality."
 ---
 
 # General

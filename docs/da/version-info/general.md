@@ -1,5 +1,5 @@
 ---
-description: Udforsk en oversigt over manglende funktioner for forskellige AirPods-modeller, herunder AirPods Pro 3, AirPods Gen 4, AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro og AirPods Max. Opdag de specifikke funktioner, der ikke er tilgængelige i hver model, og forstå de fælles funktioner de alle deler. Bemærk venligst at nyere versioner ikke nødvendigvis betyder bedre modeller.
+description: "Oversigt over manglende funktioner i alle AirPods-kopier. Sammenlign hvad der mangler i hver version. Nyere versioner er ikke nødvendigvis bedre."
 ---
 
 # Generelt

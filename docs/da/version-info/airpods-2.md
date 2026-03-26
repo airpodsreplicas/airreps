@@ -1,5 +1,5 @@
 ---
-description: Udforsk de forskellige versioner af AirPods 2-kopier, herunder deres chip, funktioner og manglende funktioner. Klik på versionshyperlinks for at finde anmeldelser for hver model. Bemærk venligst at nogle modeller er udgået.
+description: "Sammenlign AirPods 2-kopier efter chip, funktioner og manglende funktioner. Nogle modeller er udgået."
 ---
 
 # AirPods 2

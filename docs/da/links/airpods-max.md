@@ -1,5 +1,5 @@
 ---
-description: Udforsk de forskellige versioner af AirPods Max-kopier og deres tilknyttede sælgere. Find officielle butikker og direkte links til at købe AirPods Max-kopier.
+description: "Verificerede sælgerlinks til køb af AirPods Max-kopier."
 ---
 
 # AirPods Max

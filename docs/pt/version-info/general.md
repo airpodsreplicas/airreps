@@ -1,5 +1,5 @@
 ---
-description: Explore um resumo dos recursos ausentes para vários modelos de AirPods, incluindo AirPods Pro 3, AirPods Gen 4, AirPods Gen 3, AirPods Gen 2, AirPods Pro 2, AirPods Pro e AirPods Max. Descubra os recursos específicos que não estão disponíveis em cada modelo e entenda os recursos comuns que todos compartilham. Observe que versões mais novas não implicam necessariamente modelos melhores.
+description: "Resumo das funcionalidades ausentes em todos os modelos de réplicas AirPods. Compare o que falta em cada versão. Versões mais recentes não significam necessariamente melhor qualidade."
 ---
 
 # Geral (Resumo de Versões)
