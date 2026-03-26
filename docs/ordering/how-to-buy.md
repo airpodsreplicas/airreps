@@ -5,7 +5,7 @@ description: Securely order AirPods replicas. Payment methods, trusted sellers, 
 # Ordering
 
 ::: info
-Looking to buy fake AirPods? This guide explains safe sourcing and quality checks for replicas.
+Looking to buy AirPods replicas? This guide covers safe sourcing, payment methods, and what to check when ordering.
 :::
 
 ## How to Buy
