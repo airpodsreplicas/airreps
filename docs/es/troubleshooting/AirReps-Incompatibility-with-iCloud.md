@@ -25,7 +25,7 @@ Encuentra tus AirPods en la lista, haz clic derecho y selecciona Eliminar.
 
 Coloca tus AirPods en el estuche de carga y abre la tapa.
 
-Mantén presionado el botón de emparejamiento en la parte trasera durante 15 segundos hasta que la luz parpadee ámbar y luego blanco, después cierra el estuche.
+Mantén presionado el botón de emparejamiento en la parte trasera durante 15 segundos hasta que la luz parpadee ámbar y luego blanca. Luego cierra el estuche.
 
 ## **Paso 4**: Re-emparejar AirPods con **macOS**
 

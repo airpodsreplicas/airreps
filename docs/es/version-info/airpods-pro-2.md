@@ -5,7 +5,7 @@ description: "Versiones, chips y características de réplicas de AirPods Pro 2.
 # AirPods Pro 2
 
 ::: tip
-Los fabricantes están trasladando lentamente el enfoque de desarrollo a modelos más nuevos. Las réplicas de AirPods Pro 2 siguen siendo excelentes productos y son aún la opción más madura y completa en la línea Pro. Si te interesan los últimos desarrollos, también puedes revisar [AirPods Pro 3](/es/version-info/airpods-pro-3).
+Los fabricantes están trasladando lentamente el enfoque de desarrollo a modelos más nuevos. Las réplicas de AirPods Pro 2 siguen siendo excelentes productos y son aún la opción más madura y completa en la línea Pro. Si te interesan los últimos desarrollos, también puedes revisar [AirPods Pro 3](/version-info/airpods-pro-3).
 :::
 
 Haz clic en el hipervínculo de la columna 'Versión' para encontrar reseñas del modelo dado.

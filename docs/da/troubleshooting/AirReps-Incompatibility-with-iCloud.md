@@ -27,7 +27,7 @@ Placer dine AirPods i opladningsetuiet og åbn låget.
 
 Tryk og hold parringsknappen på bagsiden i 15 sekunder, indtil lyset blinker gult og derefter hvidt, luk derefter etuiet.
 
-## **Trin 4**: Parr AirPods igen med **macOS**
+## **Trin 4**: Par AirPods igen med **macOS**
 
 Åbn AirPods-etuiet og sørg for at det hvide lys blinker.
 

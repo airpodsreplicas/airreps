@@ -1,35 +1,34 @@
 ---
-description: AirReps Niekompatybilność z iCloud Connect
-translationStatus: machine-translated
+description: Niekompatybilność AirReps z iCloud Connect
 ---
 
-# **AirReps Niekompatybilność z iCloud Connect**
-Typowym problemem z niektórymi klonami AirPods jest ich kompatybilność z macOS. Ten problem jest spowodowany niezdolnością klonów do pełnego obsługiwania iCloud, co skutkuje błędami weryfikacji iCloud. Ten problem można łatwo rozwiązać, postępując zgodnie z poniższymi instrukcjami.
+# **AirReps Incompatibility with iCloud Connect**
+One common issue with some AirPods replicas is their compatibility with macOS. This issue is caused by the replicas' inability to fully support iCloud, resulting in iCloud verification failure. This issue can be easily fixed following the instructions below.
 
-**PS: Ten błąd nie występuje na klonach używających chipsetu Huilian.**
+**PS: This bug isn't present on clones that use the Huilian chipset.**
 
-## **Krok 1**: Zapomnij AirPods z Urządzeń iCloud
+## **Step 1**: Forget AirPods from iCloud Devices
 
-Na swoim **iPhone/iPad** (lub dowolnym urządzeniu połączonym z iCloud), przejdź do **Ustawienia > Bluetooth**.
+On your **iPhone/iPad** (or any device connected to iCloud), go to **Settings > Bluetooth**.
 
-Znajdź swoje **AirPods** na liście, dotknij ikony "i" i wybierz Zapomnij to urządzenie.
+Find your **AirPods** in the list, tap the "i" icon, and select Forget This Device.
 
-Zrób to na wszystkich innych połączonych urządzeniach Apple (iPad, Apple Watch itp.)
+Do this on any other connected Apple devices (iPad, Apple Watch, etc.)
 
-## **Krok 2**: Zapomnij **AirPods** z **macOS**
+## **Step 2**: Forget **AirPods** from **macOS**
 
-Na **macOS**, otwórz Ustawienia systemowe > Bluetooth.
+On **macOS**, open System Preferences > Bluetooth.
 
-Znajdź swoje AirPods na liście, kliknij prawym przyciskiem myszy i wybierz Usuń.
+Find your AirPods in the list, right-click, and select Remove.
 
-## **Krok 3**: **Zresetuj** swoje Klony AirPods
+## **Step 3**: **Reset** Your AirPods Replicas
 
-Umieść AirPods w etui ładującym i otwórz pokrywę.
+Place your AirPods in the charging case and open the lid.
 
-Naciśnij i przytrzymaj przycisk parowania z tyłu przez 15 sekund, aż światło zacznie migać na żółto, a potem na biało, następnie zamknij etui.
+Press and hold the pairing button on the back for 15 seconds until the light flashes amber, and then white. Then close the case.
 
-## **Krok 4**: Sparuj AirPods ponownie z **macOS**
+## **Step 4**: Re-pair AirPods with **macOS**
 
-Otwórz etui AirPods i upewnij się, że białe światło miga.
+Open the AirPods case and make sure the white light is flashing.
 
-Na macOS przejdź do **Ustawienia systemowe > Bluetooth** i wybierz Połącz obok swoich AirPods.
+On macOS, go to **System Preferences > Bluetooth** and select Connect next to your AirPods.

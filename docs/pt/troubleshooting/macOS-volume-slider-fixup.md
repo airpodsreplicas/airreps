@@ -1,5 +1,6 @@
 ---
-description: "Correção do volume dos AirPods no macOS (Intel)."
+title: Barra deslizante de volume é ineficaz no macOS
+description: Corrige o problema da barra de volume no macOS em Macs Intel. Uma solução alternativa simples para recuperar o controle da saída de áudio.
 ---
 
 # O Problema: A Barra Deslizante de Volume não funciona.
@@ -14,7 +15,7 @@ Este guia é destinado a quem possui Macs com processadores Intel (i3, i5, i7; n
 
 Antes do tutorial, certifique-se de que você:
 - Tenha acesso `sudo` (ou que sua conta no macOS tenha acesso administrativo)
-- Tenha o instalador de pacotes `brew` (se não, siga esta [seção](#instalação-do-brew))
+- Tenha o instalador de pacotes `brew` (se não, siga esta [seção](#brew-installation))
 
 :::tip
 OBS: usar o `brew` é muito mais fácil do que a instalação manual, mas se você quiser pular o uso do `brew`, pode ler e seguir os passos [aqui](https://github.com/briankendall/proxy-audio-device#manual-installation).

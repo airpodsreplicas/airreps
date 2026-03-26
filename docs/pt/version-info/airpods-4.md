@@ -1,5 +1,5 @@
 ---
-description: "Versões de réplicas AirPods 4, chips e melhores vendedores."
+description: "Compare versões de réplica do AirPods 4 por chip, recursos e recursos ausentes."
 ---
 
 # AirPods 4

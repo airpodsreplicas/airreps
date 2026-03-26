@@ -1,5 +1,5 @@
 ---
-description: "Vendeurs vérifiés et liens pour les répliques d'AirPods 2."
+description: "Vendeurs vérifiés, liens et options d'achat pour les répliques d'AirPods 2."
 ---
 
 # AirPods 2

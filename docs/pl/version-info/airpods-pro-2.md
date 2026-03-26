@@ -1,12 +1,11 @@
 ---
-description: "Wersje klonów AirPods Pro 2, ich chipy i linki do zaufanych sprzedawców."
-translationStatus: machine-translated
+description: "Porównaj wersje replik AirPods Pro 2 według chipu, funkcji i brakujących funkcji."
 ---
 
 # AirPods Pro 2
 
 ::: tip
-Producenci przechodzą powoli na nowsze modele. Klony AirPods Pro 2 pozostają doskonałymi produktami i są nadal najbardziej dojrzałą i kompletną funkcjonalnie opcją w serii Pro. Jeśli interesujesz się najnowszym rozwojem, możesz również sprawdzić [AirPods Pro 3](/pl/version-info/airpods-pro-3).
+Producenci powoli przenoszą fokus rozwoju na nowsze modele. Klony AirPods Pro 2 pozostają doskonałymi produktami i nadal są najdojrzalszą i najbardziej funkcjonalną opcją w serii Pro. Jeśli interesują Cię najnowsze zmiany, możesz również sprawdzić [AirPods Pro 3](/version-info/airpods-pro-3).
 :::
 
 Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu.
@@ -24,7 +23,7 @@ Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu.
 
 ## Różnice wersji V5.4:
 
-Ta wersja jest tylko ulepszeniem dla modeli Huilian; ma kilka ulepszeń. Wydajność ANC została poprawiona, a stabilność wydaje się być lepsza. Sprzętowo nic się nie zmieniło, poza chipsetem. Te ulepszenia wydają się być bardziej aktualizacjami firmware, które będą ograniczone do tego nowego urządzenia.
+Ta wersja jest tylko ulepszeniem dla modeli Huilian; ma kilka ulepszeń. Wydajność ANC została poprawiona, a stabilność wydaje się być lepsza. Sprzętowo nic się nie zmieniło, poza chipsetem. Te ulepszenia wydają się być bardziej aktualizacjami firmware, które będą ograniczone do tego nowego urządzenia.  
 
 
 ## Różnice wersji V5.3:
@@ -35,7 +34,7 @@ Ta wersja jest tylko ulepszeniem dla modeli Huilian; ma kilka ulepszeń. Wydajno
 
 **HR+** - Zbudowane na bazie słuchawek HR z ulepszonym etui, zawias 1:1 i uszczelnione/klejone (najlepsze wykonanie). Zawiera również jedną z lepszych jakości mikrofonu (izolowany projekt mikrofonu). ANC jest drugie po TB ze względu na starszy chipset 1562AE (34,5 dB, szczytowo 40 dB)
 
-**Huilian** - Słuchawki Huilian używają etui średniej klasy, twardsze niż HR ale miększe niż TB, i są wyposażone w zawias 1:1. Jednak ze względu na chipset Huilian, ANC jest znacznie gorsze niż dwa inne modele — 5.3TB i 5.3HR (średnio 30-32 dB, szczytowo 38 dB). Żywotność baterii modelu Huilian wynosi 6 godzin bez ANC i 4,5 godzin z włączonym ANC.
+**Huilian** - Słuchawki Huilian używają etui średniej klasy, twardsze niż HR ale miększe niż TB, i są wyposażone w zawias 1:1. Jednak ze względu na chipset Huilian, ANC jest znacznie gorsze niż dwa inne modele — 5.3TB i 5.3HR (średnio 30–32 dB, szczytowo 38 dB). Żywotność baterii modelu Huilian wynosi 6 godzin bez ANC i 4,5 godzin z włączonym ANC.
 
 
 ## Różnice wersji V5.2:
