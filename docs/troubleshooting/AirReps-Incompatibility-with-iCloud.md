@@ -25,7 +25,7 @@ Find your AirPods in the list, right-click, and select Remove.
 
 Place your AirPods in the charging case and open the lid.
 
-Press and hold the pairing button on the back for 15 seconds until the light flashes amber and then white then close the case.
+Press and hold the pairing button on the back for 15 seconds until the light flashes amber, and then white. Then close the case.
 
 ## **Step 4**: Re-pair AirPods with **macOS**
 
