@@ -76,7 +76,21 @@ async function readOptional(filePath) {
 function cleanModelOutput(text) {
   const trimmed = text.trim();
   const fenced = trimmed.match(/^```(?:markdown|md)?\n([\s\S]*?)\n```$/i);
-  return `${(fenced ? fenced[1] : trimmed).trimEnd()}\n`;
+  let content = (fenced ? fenced[1] : trimmed).trimEnd();
+
+  // Fix unquoted YAML frontmatter values that contain colons — these break the parser.
+  // Matches lines like:  key: some text: with colon
+  // but skips lines already quoted or that are just key: value with no colon in value.
+  content = content.replace(
+    /^(---\n[\s\S]*?^---)/m,
+    (frontmatter) =>
+      frontmatter.replace(
+        /^(\w[\w-]*:\s)(?!["'\[{|>])(.+:.+)$/gm,
+        (_, key, value) => `${key}"${value.replace(/"/g, '\\"')}"`,
+      ),
+  );
+
+  return `${content}\n`;
 }
 
 function getResponseText(response) {
@@ -96,7 +110,7 @@ async function translateDocument(openai, sourcePath, targetPath, locale, languag
       {
         role: 'system',
         content:
-          'You translate documentation files. Return only the translated markdown with no code fences or commentary. Preserve the original markdown structure exactly: frontmatter keys, headings, emphasis, lists, tables, links, image paths, code fences, HTML tags, and blank-line structure. Never remove or rename frontmatter keys. Translate only user-facing natural language. Keep brand names, file paths, URLs, and slash commands unchanged. Keep existing wording whenever it is already correct, and minimize unrelated rewrites outside the changed English meaning. Do not add or remove sections.',
+          'You translate documentation files. Return only the translated markdown with no code fences or commentary. Preserve the original markdown structure exactly: frontmatter keys, headings, emphasis, lists, tables, links, image paths, code fences, HTML tags, and blank-line structure. Never remove or rename frontmatter keys. Translate only user-facing natural language. Keep brand names, file paths, URLs, and slash commands unchanged. Keep existing wording whenever it is already correct, and minimize unrelated rewrites outside the changed English meaning. Do not add or remove sections. IMPORTANT: In YAML frontmatter, any value that contains a colon (:) must be wrapped in double quotes (e.g. description: "Some text: more text"). Unquoted values with colons break the YAML parser.',
       },
       {
         role: 'user',
