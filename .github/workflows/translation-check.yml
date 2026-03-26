@@ -4,6 +4,7 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 on:
+  workflow_dispatch: # Allow manual re-runs from the Actions UI
   push:
     branches: [main]
     paths:
@@ -30,6 +31,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main # Always checkout latest main so a surviving queued run catches all pending changes
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
@@ -41,17 +43,22 @@ jobs:
 
       - name: Get changed English files
         id: changed
-        env:
-          BEFORE_SHA: ${{ github.event.before }}
-          AFTER_SHA: ${{ github.sha }}
         run: |
-          if [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
-            RANGE="HEAD~1 HEAD"
+          # Diff from the last successful translation sync to HEAD rather than from
+          # the triggering push's before-SHA. This means whichever run survives
+          # queue-cancellation (caused by rapid pushes) still catches every
+          # accumulated English change since the previous sync — nothing is lost.
+          LAST_SYNC=$(git log --format="%H %s" HEAD | grep -m1 "chore: sync translated docs" | awk '{print $1}')
+
+          if [ -z "$LAST_SYNC" ]; then
+            echo "No previous sync found — using root commit as base."
+            LAST_SYNC=$(git rev-list --max-parents=0 HEAD)
           else
-            RANGE="$BEFORE_SHA $AFTER_SHA"
+            echo "Last sync commit: $LAST_SYNC"
           fi
 
-          FILES=$(git diff --diff-filter=AMR --name-only $RANGE -- docs | grep -E '^docs/.+\.md$' | grep -v -E '^docs/(pt|es|da|fr|pl|ru)/' || true)
+          # English files changed since last sync (excluding locale dirs)
+          FILES=$(git diff --diff-filter=AMR --name-only "$LAST_SYNC" HEAD -- docs | grep -E '^docs/.+\.md$' | grep -v -E '^docs/(pt|es|da|fr|pl|ru)/' || true)
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
@@ -59,10 +66,16 @@ jobs:
           COUNT=$(echo "$FILES" | grep -c . || echo "0")
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
-          ALL_FILES=$(git diff --diff-filter=AMR --name-only $RANGE -- docs | grep -E '^docs/.+\.md$' || true)
+          # ALL files changed since last sync — locale paths here are used by the
+          # translate script to skip files that were already manually updated,
+          # protecting hand-curated translations from being overwritten.
+          ALL_FILES=$(git diff --diff-filter=AMR --name-only "$LAST_SYNC" HEAD -- docs | grep -E '^docs/.+\.md$' || true)
           echo "all_files<<EOF" >> $GITHUB_OUTPUT
           echo "$ALL_FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
+
+          echo "Changed English files ($COUNT):"
+          echo "$FILES"
 
       - name: Translate changed files
         if: steps.changed.outputs.count != '0'
@@ -103,7 +116,7 @@ jobs:
           body: |
             ## What changed
             - Sync localized docs from the latest English changes on `main`
-            - Updated only files touched by the triggering push
+            - Covers all English files changed since the last translation sync
 
             ## Changed English files
             ${{ steps.changed.outputs.files }}
