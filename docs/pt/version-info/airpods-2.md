@@ -1,5 +1,5 @@
 ---
-description: "Versões, chips e detalhes das réplicas AirPods 2."
+description: "Compare as versões das réplicas AirPods 2 por chip, recursos e recursos ausentes. Alguns modelos estão descontinuados."
 ---
 
 # AirPods 2

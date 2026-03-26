@@ -1,5 +1,5 @@
 ---
-description: "Versões de réplicas AirPods 3, chips e melhores vendedores."
+description: "Compare versões de réplicas do AirPods 3 por chip, recursos e recursos ausentes."
 ---
 
 # AirPods 3

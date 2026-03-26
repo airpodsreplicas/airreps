@@ -1,5 +1,5 @@
 ---
-description: "Vendeurs vérifiés et liens pour les répliques d'AirPods Pro."
+description: "Liens de vendeurs de confiance et options d'achat pour les répliques d'AirPods Pro."
 ---
 
 # AirPods Pro

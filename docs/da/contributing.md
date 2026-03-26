@@ -1,5 +1,5 @@
 ---
-description: Lær hvordan du bidrager til AirReps-projektet ved at følge denne trin-for-trin guide. Fork og klon repositoryet, opsæt dit udviklingsmiljø, foretag ændringer og indsend en pull request til gennemgang. Begynd at bidrage i dag!
+description: "Sådan bidrager du til AirReps-projektet. Fork repoet, opsæt dit miljø, foretag ændringer, og indsend en pull request."
 ---
 
 # Retningslinjer for Bidrag

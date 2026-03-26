@@ -6,7 +6,7 @@ description: "Guia definitivo de réplicas AirPods: compra, uso e solução de p
 # Guia Definitivo AirReps
 
 ## Visão Geral
-Se você está aqui, provavelmente está interessado em adquirir um par de AirPods, mas não pode justificar o gasto de R$ 2.500+ em um produto que provavelmente durará apenas um ou dois anos antes que a bateria se esgote ou que eles se percam. É aqui que entram as réplicas de AirPods – elas oferecem funcionalidade e desempenho semelhantes a um preço mais baixo e estão se tornando cada vez mais populares. Com bons cuidados, as réplicas de AirPods normalmente duram de 3 a 4 anos.
+Se você está aqui, provavelmente está interessado em adquirir um par de AirPods, mas não pode justificar o gasto de $150+ em um produto que provavelmente durará apenas um ou dois anos antes que a bateria se esgote ou que eles se percam. É aqui que entram as réplicas de AirPods – elas oferecem funcionalidade e desempenho semelhantes a um preço mais baixo e estão se tornando cada vez mais populares. Com bons cuidados, as réplicas de AirPods normalmente duram de 3 a 4 anos.
 
 Depois de ler este guia, você provavelmente descobrirá que comprar réplicas de AirPods é uma opção mais econômica e igualmente viável em comparação com a compra da Apple. No **Guia Definitivo AirReps**, forneceremos informações detalhadas sobre as melhores réplicas de AirPods, o que procurar, como comprar e como resolver problemas. Este guia é constantemente atualizado para fornecer as informações mais recentes, e a melhor maneira de obter suporte e ajuda contínuos é ingressar em nossa [comunidade no Discord](https://airreps.link/discord).
 
@@ -16,9 +16,9 @@ Se você está apenas procurando por links para comprar réplicas de AirPods, [C
 
 ## O Que Você Aprenderá
 
-Nem todas as réplicas de AirPods são criadas iguais. Este guia ajuda você a identificar réplicas de alta qualidade que entregam valor genuíno, cobrindo aspectos essenciais como [qualidade de som](https://airpodsreplicas.com/pt/introduction/sound-quality), [duração da bateria](https://airpodsreplicas.com/pt/introduction/battery-life) e [conectividade](https://airpodsreplicas.com/pt/introduction/connectivity).
+Nem todas as réplicas de AirPods são criadas iguais. Este guia ajuda você a identificar réplicas de alta qualidade que entregam valor genuíno, cobrindo aspectos essenciais como [qualidade de som](https://airpodsreplicas.com/introduction/sound-quality), [duração da bateria](https://airpodsreplicas.com/introduction/battery-life) e [conectividade](https://airpodsreplicas.com/introduction/connectivity).
 
-Fornecemos o conhecimento e as ferramentas para distinguir entre imitações baratas e réplicas de AirPods de qualidade que valem o seu investimento. Verifique nossa seção de [Informações sobre Versões](https://airpodsreplicas.com/pt/version-info/general) para entender os principais recursos e evitar armadilhas comuns ao comprar réplicas de AirPods.
+Fornecemos o conhecimento e as ferramentas para distinguir entre imitações baratas e réplicas de AirPods de qualidade que valem o seu investimento. Verifique nossa seção de [Informações sobre Versões](https://airpodsreplicas.com/version-info/general) para entender os principais recursos e evitar armadilhas comuns ao comprar réplicas de AirPods.
 
 Nossa abordagem impulsionada pela comunidade através do [Discord](https://airreps.link/discord) garante que você permaneça informado com as últimas atualizações e possa tomar decisões bem fundamentadas sobre quais réplicas de AirPods atendem às suas necessidades. Este guia também ajuda você a distinguir réplicas de AirPods autênticos ao comprar de segunda mão, prevenindo possíveis golpes.
 

@@ -1,5 +1,5 @@
 ---
-description: "Vendeurs vérifiés et liens pour les répliques d'AirPods 3."
+description: "Liens de vendeurs de confiance et options d'achat pour les répliques d'AirPods 3."
 ---
 
 # AirPods 3

@@ -1,5 +1,5 @@
 ---
-description: "Vendedores verificados e links para réplicas AirPods 2."
+description: "Links de vendedores confiáveis e opções de compra para réplicas dos AirPods 2."
 ---
 
 # AirPods 2

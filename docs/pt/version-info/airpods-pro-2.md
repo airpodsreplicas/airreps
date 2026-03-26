@@ -1,5 +1,5 @@
 ---
-description: "Versões de réplicas AirPods Pro 2, chips e melhores vendedores."
+description: "Compare versões de réplicas do AirPods Pro 2 por chip, recursos e recursos ausentes."
 ---
 
 # AirPods Pro 2

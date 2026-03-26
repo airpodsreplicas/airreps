@@ -1,14 +1,14 @@
 ---
-description: "Versions des répliques AirPods 3, puces et avis."
+description: "Comparez les versions répliques des AirPods 3 par puce, fonctionnalités et fonctionnalités manquantes."
 ---
 
 # AirPods 3
 
 ::: tip
-Cette ligne de produits n'est plus activement mise à jour par les fabricants, car le développement s'est déplacé vers des modèles plus récents. Les répliques d'AirPods 3 restent d'excellents produits et demeurent des choix populaires. Si vous recherchez les dernières fonctionnalités et améliorations, consultez les [AirPods 4](/fr/version-info/airpods-4).
+Cette ligne de produits n'est plus activement mise à jour par les fabricants, car le développement s'est déplacé vers des modèles plus récents. Les répliques d'AirPods 3 restent d'excellents produits et demeurent des choix populaires. Si vous recherchez les dernières fonctionnalités et améliorations, consultez les [AirPods 4](/version-info/airpods-4).
 :::
 
-Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis pour le modèle donné.
+Cliquez sur l'hyperlien sur la colonne 'Version' pour trouver des avis pour le modèle donné.
 
 | Version                                                              | Puce         | Fonctionnalités Présentes                                                                                                                                                                    | Fonctionnalités Manquantes                                              |
 |----------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|

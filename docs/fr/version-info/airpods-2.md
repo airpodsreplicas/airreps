@@ -1,11 +1,11 @@
 ---
-description: "Versions des répliques AirPods 2, puces et avis."
+description: "Comparer les versions des répliques AirPods 2 par puce, fonctionnalités et fonctionnalités manquantes. Certains modèles sont abandonnés."
 ---
 
 # AirPods 2
 
 ::: tip
-Cette ligne de produits n'est plus activement mise à jour par les fabricants, car le développement s'est déplacé vers des modèles plus récents. Les répliques d'AirPods 2 restent d'excellents produits et demeurent des choix populaires. Si vous recherchez les dernières fonctionnalités et améliorations, consultez les [AirPods 3](/fr/version-info/airpods-3) ou [AirPods 4](/fr/version-info/airpods-4).
+Cette ligne de produits n'est plus activement mise à jour par les fabricants, car le développement s'est déplacé vers des modèles plus récents. Les répliques d'AirPods 2 restent d'excellents produits et demeurent des choix populaires. Si vous recherchez les dernières fonctionnalités et améliorations, consultez les [AirPods 3](/version-info/airpods-3) ou [AirPods 4](/version-info/airpods-4).
 :::
 
 Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis pour le modèle donné.

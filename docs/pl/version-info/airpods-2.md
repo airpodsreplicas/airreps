@@ -1,12 +1,11 @@
 ---
-description: "Wersje klonów AirPods 2, ich chipy i linki do zaufanych sprzedawców."
-translationStatus: machine-translated
+description: "Porównaj wersje klonów AirPods 2 pod kątem chipu, funkcji i brakujących funkcji. Niektóre modele są wycofane."
 ---
 
 # AirPods 2
 
 ::: tip
-Ta linia produktów nie jest już aktywnie aktualizowana przez producentów, ponieważ rozwój przeniósł się na nowsze modele. Klony AirPods 2 są nadal doskonałymi produktami i pozostają popularnymi wyborami. Jeśli szukasz najnowszych funkcji i ulepszeń, rozważ sprawdzenie [AirPods 3](/pl/version-info/airpods-3) lub [AirPods 4](/pl/version-info/airpods-4).
+Ta linia produktów nie jest już aktywnie aktualizowana przez producentów, ponieważ rozwój przeniósł się na nowsze modele. Klony AirPods 2 są nadal doskonałymi produktami i pozostają popularnymi wyborami. Jeśli szukasz najnowszych funkcji i ulepszeń, rozważ sprawdzenie [AirPods 3](/version-info/airpods-3) lub [AirPods 4](/version-info/airpods-4).
 :::
 
 Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu.

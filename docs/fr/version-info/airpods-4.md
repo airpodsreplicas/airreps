@@ -1,5 +1,5 @@
 ---
-description: "Versions des répliques AirPods 4, puces et avis."
+description: "Comparer les versions de répliques AirPods 4 par puce, fonctionnalités et fonctionnalités manquantes."
 ---
 
 # AirPods 4

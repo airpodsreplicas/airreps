@@ -1,5 +1,5 @@
 ---
-description: "Guia de contribuição: Fork, alterações e Pull Request."
+description: "Como contribuir para o projeto AirReps. Faça fork do repositório, configure seu ambiente, faça alterações e envie um pull request."
 ---
 
 # Diretrizes de Contribuição
@@ -71,7 +71,7 @@ Tenha em mente que o VitePress oferece recursos adicionais não disponíveis no 
 
 Depois de fazer as alterações, siga as etapas abaixo para enviá-las para revisão:
 
-1. Se você escolheu a Opção 1 em [Configurando o Ambiente de Desenvolvimento](#opção-1-recomendada), certifique-se de que as páginas serão construídas corretamente executando o seguinte comando:
+1. Se você escolheu a Opção 1 em [Configurando o Ambiente de Desenvolvimento](#option-1-recommended), certifique-se de que as páginas serão construídas corretamente executando o seguinte comando:
 
 ```shell
 bun run docs:build
@@ -105,7 +105,7 @@ Siga estas etapas para criar um pull request para propor a fusão de suas altera
 
 Após uma fusão bem-sucedida, seu perfil do GitHub será incluído automaticamente na seção `Contributors` localizada na parte inferior da nossa página inicial. Caso prefira que seu perfil seja omitido desta seção por qualquer motivo, entre em contato com um membro de nossa equipe para assistência na remoção do perfil.
 
-- **Corrigir erros de digitação ou erros** - Viu um erro? Envie uma correção rápida!
+- **Corrigir erros de digitação ou outros erros** - Viu um erro? Envie uma correção rápida!
 - **Atualizar informações desatualizadas** - Ajude a manter o guia atualizado
 - **Adicionar novo conteúdo** - Documente novos complementos, recursos ou configurações
 - **Melhorar a clareza** - Torne as explicações mais fáceis de entender
