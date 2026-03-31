@@ -61,7 +61,7 @@ Todos os vendedores confiáveis aceitam múltiplos métodos de pagamento para su
 ::: tip
 Pagamentos via Wise ou Transferência Bancária exigem revisão manual por parte do vendedor, o que pode levar até 24 horas para ser processado.
 
-Para pedidos no Weidian, você precisará usar um agente. Recomendamos o [OOPBuy](https://airreps.link/oopbuy), que aceita cartões de crédito e múltiplos métodos de pagamento.
+Para pedidos no Weidian, você precisará usar um agente. Recomendamos o [KakoBuy](https://airreps.link/kakobuy), que aceita cartões de crédito e múltiplos métodos de pagamento.
 :::
 
 ## Perguntas Frequentes (FAQ)
@@ -95,7 +95,7 @@ Vendedores confiáveis usam um gateway de pagamento de criptografia seguro para 
 
 **Nota: Alguns processadores de pagamento podem ocasionalmente solicitar uma verificação de identidade (KYC) para cumprir as regulamentações locais, embora isso nem sempre seja exigido.**
 
-**Alternativa:** Se você quiser evitar qualquer possibilidade de verificação KYC, considere usar o [OOPBuy](https://airreps.link/oopbuy), uma plataforma de agente que compra produtos dos vendedores em seu nome e fornece fotos de controle de qualidade (QC) antes do envio. O OOPBuy usa processadores de pagamento regulares que aceitam cartões de crédito e débito e **nunca exigem verificação KYC** ou verificações de identidade. Isso o torna uma excelente opção se você preferir usar seu cartão sem quaisquer requisitos de KYC, ainda obtendo a garantia adicional das fotos de QC.
+**Alternativa:** Se você quiser evitar qualquer possibilidade de verificação KYC, considere usar o [KakoBuy](https://airreps.link/kakobuy), uma plataforma de agente que compra produtos dos vendedores em seu nome e fornece fotos de controle de qualidade (QC) antes do envio. O KakoBuy usa processadores de pagamento regulares que aceitam cartões de crédito e débito e **nunca exigem verificação KYC** ou verificações de identidade. Isso o torna uma excelente opção se você preferir usar seu cartão sem quaisquer requisitos de KYC, ainda obtendo a garantia adicional das fotos de QC.
 :::
 
 ::: tip

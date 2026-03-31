@@ -44,7 +44,7 @@ En "Legit Check" verificerer ægtheden af et produkt, ofte brugt ved køb fra ik
 
 ## Agent: Fragtagent/Speditør
 
-En "Agent" er en tredjepart, der faciliterer sikre køb fra sælgere (ofte i Kina) til købere. De fungerer som repræsentanter, der sikrer, at produkter ikke er defekte, og at købere modtager det, de bestilte. Vi anbefaler [OOPBuy](https://airreps.link/oopbuy).
+En "Agent" er en tredjepart, der faciliterer sikre køb fra sælgere (ofte i Kina) til købere. De fungerer som repræsentanter, der sikrer, at produkter ikke er defekte, og at købere modtager det, de bestilte. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy).
 
 **Eksempel:** "Du skal måske bruge en agent for at få dem, da HiCity i øjeblikket ikke sender til Filippinerne."
 

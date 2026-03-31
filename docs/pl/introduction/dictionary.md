@@ -45,7 +45,7 @@ translationStatus: machine-translated
 
 ## Agent: Agent Spedycyjny
 
-"Agent" to strona trzecia, która ułatwia bezpieczne zakupy od sprzedawców (często w Chinach) do kupujących. Działają jako przedstawiciele zapewniający, że produkty nie są wadliwe i że kupujący otrzymują to, co zamówili. Polecamy [OOPBuy](https://airreps.link/oopbuy).
+"Agent" to strona trzecia, która ułatwia bezpieczne zakupy od sprzedawców (często w Chinach) do kupujących. Działają jako przedstawiciele zapewniający, że produkty nie są wadliwe i że kupujący otrzymują to, co zamówili. Polecamy [KakoBuy](https://airreps.link/kakobuy).
 
 **Przykład:** "Może będziesz musiał użyć agenta, żeby je dostać, ponieważ HiCity obecnie nie wysyła na Filipiny."
 

@@ -84,5 +84,5 @@ description: "Vendeurs vérifiés et liens pour les répliques d'AirPods Pro 3."
 
 
 ::: tip
-Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l'expédition avec d'autres articles et êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [OOPBuy](https://airreps.link/oopbuy).
+Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l'expédition avec d'autres articles et êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy).
 :::

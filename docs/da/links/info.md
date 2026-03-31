@@ -61,7 +61,7 @@ Alle betroede sælgere accepterer flere betalingsmetoder for din bekvemmelighed:
 ::: tip
 Betalinger via Wise eller Bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer at behandle.
 
-For Weidian-ordrer skal du bruge en agent. Vi anbefaler [OOPBuy](https://airreps.link/oopbuy), som accepterer kreditkort og flere betalingsmetoder.
+For Weidian-ordrer skal du bruge en agent. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy), som accepterer kreditkort og flere betalingsmetoder.
 :::
 
 ## FAQ
@@ -95,7 +95,7 @@ Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle kredi
 
 **Bemærk: Nogle betalingsbehandlere kan lejlighedsvis bede om et ID-tjek (KYC) for at overholde lokale regler, selvom dette ikke altid er påkrævet.**
 
-**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, overvej at bruge [OOPBuy](https://airreps.link/oopbuy), en agentplatform der køber produkter fra sælgere på dine vegne og giver kvalitetskontrol (QC) billeder før forsendelse. OOPBuy bruger almindelige betalingsbehandlere, der accepterer kredit- og debitkort og **kræver aldrig KYC-verifikation** eller identitetstjek. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden nogen KYC-krav, mens du stadig får den ekstra sikkerhed ved QC-billeder.
+**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, overvej at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform der køber produkter fra sælgere på dine vegne og giver kvalitetskontrol (QC) billeder før forsendelse. KakoBuy bruger almindelige betalingsbehandlere, der accepterer kredit- og debitkort og **kræver aldrig KYC-verifikation** eller identitetstjek. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden nogen KYC-krav, mens du stadig får den ekstra sikkerhed ved QC-billeder.
 :::
 
 ::: tip

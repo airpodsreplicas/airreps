@@ -61,7 +61,7 @@ Todos los vendedores de confianza aceptan múltiples métodos de pago para tu co
 ::: tip
 Los pagos vía Wise o Transferencia Bancaria requieren revisión manual por el vendedor, lo cual puede tomar hasta 24 horas para procesar.
 
-Para pedidos de Weidian, necesitarás usar un agente. Recomendamos [OOPBuy](https://airreps.link/oopbuy), que acepta Tarjetas de Crédito y múltiples métodos de pago.
+Para pedidos de Weidian, necesitarás usar un agente. Recomendamos [KakoBuy](https://airreps.link/kakobuy), que acepta Tarjetas de Crédito y múltiples métodos de pago.
 :::
 
 ## Preguntas Frecuentes
@@ -95,7 +95,7 @@ Los vendedores de confianza usan una pasarela de pago crypto segura para procesa
 
 **Nota: Algunos procesadores de pago pueden ocasionalmente solicitar una verificación de ID (KYC) para cumplir con regulaciones locales, aunque esto no siempre es requerido.**
 
-**Alternativa:** Si quieres evitar cualquier posibilidad de verificación KYC, considera usar [OOPBuy](https://airreps.link/oopbuy), una plataforma de agentes que compra productos de vendedores en tu nombre y proporciona fotos de control de calidad (QC) antes del envío. OOPBuy usa procesadores de pago regulares que aceptan tarjetas de crédito y débito y **nunca requieren verificación KYC** o verificaciones de identidad. Esto lo hace una excelente opción si prefieres usar tu tarjeta sin ningún requisito de KYC mientras aún obtienes la seguridad adicional de fotos QC.
+**Alternativa:** Si quieres evitar cualquier posibilidad de verificación KYC, considera usar [KakoBuy](https://airreps.link/kakobuy), una plataforma de agentes que compra productos de vendedores en tu nombre y proporciona fotos de control de calidad (QC) antes del envío. KakoBuy usa procesadores de pago regulares que aceptan tarjetas de crédito y débito y **nunca requieren verificación KYC** o verificaciones de identidad. Esto lo hace una excelente opción si prefieres usar tu tarjeta sin ningún requisito de KYC mientras aún obtienes la seguridad adicional de fotos QC.
 :::
 
 ::: tip

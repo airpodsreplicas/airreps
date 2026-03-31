@@ -10,7 +10,7 @@ Vous cherchez à acheter des faux AirPods ? Ce guide explique l'approvisionnemen
 
 ## Comment Acheter
 
-Nous recommandons toujours d'acheter auprès de [vendeurs de confiance](https://airpodsreplicas.com/fr/links/info). La plupart des vendeurs ont leurs propres sites web qui acceptent diverses méthodes de paiement incluant [Carte de Crédit](#note-carte-credit), [AliPay](#payer-avec-alipay), Revolut, Wise, Bitcoin et Virement Bancaire. Tous les vendeurs ont également des vitrines Weidian accessibles via des agents comme [OOPBuy](https://airreps.link/oopbuy).
+Nous recommandons toujours d'acheter auprès de [vendeurs de confiance](https://airpodsreplicas.com/fr/links/info). La plupart des vendeurs ont leurs propres sites web qui acceptent diverses méthodes de paiement incluant [Carte de Crédit](#note-carte-credit), [AliPay](#payer-avec-alipay), Revolut, Wise, Bitcoin et Virement Bancaire. Tous les vendeurs ont également des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy).
 
 La communauté AirReps recommande plusieurs vendeurs pour éviter un monopole et encourager la concurrence, ce qui bénéficie aux utilisateurs. Chaque vendeur offre des services uniques, un contrôle qualité (QC), des plateformes et des prix différents.
 
@@ -61,7 +61,7 @@ Faites savoir aux vendeurs que vous venez de la communauté AirReps. Cela garant
 ## FAQ
 
 ::: details Quelles méthodes de paiement les vendeurs de confiance acceptent-ils ?
-Les vendeurs de confiance acceptent plusieurs méthodes de paiement incluant Cartes de Crédit, AliPay, Revolut, Wise, Virement Bancaire et Bitcoin. Tous les vendeurs ont des vitrines Weidian accessibles via des agents comme [OOPBuy](https://airreps.link/oopbuy). Notez que PayPal n'est actuellement supporté par aucun vendeur. Les options de paiement peuvent varier selon le vendeur—consultez le [tableau des méthodes de paiement](https://airpodsreplicas.com/fr/links/info#méthodes-de-paiement) pour une répartition détaillée.
+Les vendeurs de confiance acceptent plusieurs méthodes de paiement incluant Cartes de Crédit, AliPay, Revolut, Wise, Virement Bancaire et Bitcoin. Tous les vendeurs ont des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy). Notez que PayPal n'est actuellement supporté par aucun vendeur. Les options de paiement peuvent varier selon le vendeur—consultez le [tableau des méthodes de paiement](https://airpodsreplicas.com/fr/links/info#méthodes-de-paiement) pour une répartition détaillée.
 :::
 <span id="note-carte-credit"></span>
 ::: details Pourquoi suis-je redirigé vers un site crypto lorsque je paie par Carte de Crédit ?
@@ -69,7 +69,7 @@ Les vendeurs de confiance utilisent une passerelle de paiement crypto sécurisé
 
 **Note : Certains processeurs de paiement peuvent occasionnellement demander une vérification d'identité (KYC) pour se conformer aux réglementations locales, bien que ce ne soit pas toujours requis.**
 
-**Alternative :** Si vous voulez éviter toute possibilité de vérification KYC, envisagez d'utiliser [OOPBuy](https://airreps.link/oopbuy), une plateforme d'agent qui achète des produits auprès des vendeurs en votre nom et fournit des photos de contrôle qualité (QC) avant l'expédition. OOPBuy utilise des processeurs de paiement réguliers qui acceptent les cartes de crédit et de débit et **ne nécessitent jamais de vérification KYC** ni de contrôles d'identité. C'est une excellente option si vous préférez utiliser votre carte sans exigences KYC tout en bénéficiant de l'assurance supplémentaire des photos QC.
+**Alternative :** Si vous voulez éviter toute possibilité de vérification KYC, envisagez d'utiliser [KakoBuy](https://airreps.link/kakobuy), une plateforme d'agent qui achète des produits auprès des vendeurs en votre nom et fournit des photos de contrôle qualité (QC) avant l'expédition. KakoBuy utilise des processeurs de paiement réguliers qui acceptent les cartes de crédit et de débit et **ne nécessitent jamais de vérification KYC** ni de contrôles d'identité. C'est une excellente option si vous préférez utiliser votre carte sans exigences KYC tout en bénéficiant de l'assurance supplémentaire des photos QC.
 :::
 
 ::: details Remarque sur les liens et l'emballage Alibaba

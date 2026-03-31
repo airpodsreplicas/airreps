@@ -10,7 +10,7 @@ description: "Cómo ordenar de forma segura: AliPay, Wise, Bitcoin, agentes y en
 
 ## Cómo Comprar
 
-Recomendamos siempre comprar de [vendedores de confianza](https://airpodsreplicas.com/es/links/info). La mayoría de los vendedores tienen sus propios sitios web que aceptan varios métodos de pago incluyendo [Tarjeta de Crédito](#nota-tarjeta-de-credito), [AliPay](#pagar-con-alipay), Revolut, Wise, Bitcoin y Transferencia Bancaria. Todos los vendedores también tienen tiendas en Weidian accesibles a través de agentes como [OOPBuy](https://airreps.link/oopbuy).
+Recomendamos siempre comprar de [vendedores de confianza](https://airpodsreplicas.com/es/links/info). La mayoría de los vendedores tienen sus propios sitios web que aceptan varios métodos de pago incluyendo [Tarjeta de Crédito](#nota-tarjeta-de-credito), [AliPay](#pagar-con-alipay), Revolut, Wise, Bitcoin y Transferencia Bancaria. Todos los vendedores también tienen tiendas en Weidian accesibles a través de agentes como [KakoBuy](https://airreps.link/kakobuy).
 
 La comunidad de AirReps recomienda múltiples vendedores para evitar un monopolio y fomentar la competencia, lo cual beneficia a los usuarios. Cada vendedor ofrece servicios únicos, control de calidad (QC), plataformas y precios.
 
@@ -61,7 +61,7 @@ Hazle saber a los vendedores que eres de la comunidad de AirReps. Esto asegurar�
 ## Preguntas Frecuentes
 
 ::: details ¿Qué métodos de pago aceptan los vendedores de confianza?
-Los vendedores de confianza aceptan múltiples métodos de pago incluyendo Tarjetas de Crédito, AliPay, Revolut, Wise, Transferencia Bancaria y Bitcoin. Todos los vendedores tienen tiendas en Weidian accesibles a través de agentes como [OOPBuy](https://airreps.link/oopbuy). Ten en cuenta que PayPal actualmente no está soportado por ningún vendedor. Las opciones de pago pueden variar por vendedor—consulta la [tabla de métodos de pago](https://airpodsreplicas.com/es/links/info#payment-methods) para un desglose detallado.
+Los vendedores de confianza aceptan múltiples métodos de pago incluyendo Tarjetas de Crédito, AliPay, Revolut, Wise, Transferencia Bancaria y Bitcoin. Todos los vendedores tienen tiendas en Weidian accesibles a través de agentes como [KakoBuy](https://airreps.link/kakobuy). Ten en cuenta que PayPal actualmente no está soportado por ningún vendedor. Las opciones de pago pueden variar por vendedor—consulta la [tabla de métodos de pago](https://airpodsreplicas.com/es/links/info#payment-methods) para un desglose detallado.
 :::
 <span id="nota-tarjeta-de-credito"></span>
 ::: details ¿Por qué soy redirigido a un sitio web de crypto al pagar con Tarjeta de Crédito?
@@ -69,7 +69,7 @@ Los vendedores de confianza usan una pasarela de pago crypto segura para procesa
 
 **Nota: Algunos procesadores de pago pueden ocasionalmente solicitar una verificación de ID (KYC) para cumplir con regulaciones locales, aunque esto no siempre es requerido.**
 
-**Alternativa:** Si quieres evitar cualquier posibilidad de verificación KYC, considera usar [OOPBuy](https://airreps.link/oopbuy), una plataforma de agentes que compra productos de vendedores en tu nombre y proporciona fotos de control de calidad (QC) antes del envío. OOPBuy usa procesadores de pago regulares que aceptan tarjetas de crédito y débito y **nunca requieren verificación KYC** o verificaciones de identidad. Esto lo hace una excelente opción si prefieres usar tu tarjeta sin ningún requisito de KYC mientras aún obtienes la seguridad adicional de fotos QC.
+**Alternativa:** Si quieres evitar cualquier posibilidad de verificación KYC, considera usar [KakoBuy](https://airreps.link/kakobuy), una plataforma de agentes que compra productos de vendedores en tu nombre y proporciona fotos de control de calidad (QC) antes del envío. KakoBuy usa procesadores de pago regulares que aceptan tarjetas de crédito y débito y **nunca requieren verificación KYC** o verificaciones de identidad. Esto lo hace una excelente opción si prefieres usar tu tarjeta sin ningún requisito de KYC mientras aún obtienes la seguridad adicional de fotos QC.
 :::
 
 ::: details Nota sobre los enlaces y el embalaje de Alibaba

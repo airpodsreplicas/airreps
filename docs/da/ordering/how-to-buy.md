@@ -10,7 +10,7 @@ Leder du efter at købe falske AirPods? Denne guide forklarer sikker sourcing og
 
 ## Sådan Køber Du
 
-Vi anbefaler altid at købe fra [betroede sælgere](https://airpodsreplicas.com/da/links/info). De fleste sælgere har deres egne hjemmesider, der accepterer forskellige betalingsmetoder, herunder [Kreditkort](#kreditkort-note), [AliPay](#betaling-med-alipay), Revolut, Wise, Bitcoin og Bankoverførsel. Alle sælgere har også Weidian-butiksfacader, der er tilgængelige gennem agenter som [OOPBuy](https://airreps.link/oopbuy).
+Vi anbefaler altid at købe fra [betroede sælgere](https://airpodsreplicas.com/da/links/info). De fleste sælgere har deres egne hjemmesider, der accepterer forskellige betalingsmetoder, herunder [Kreditkort](#kreditkort-note), [AliPay](#betaling-med-alipay), Revolut, Wise, Bitcoin og Bankoverførsel. Alle sælgere har også Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy).
 
 AirReps-fællesskabet anbefaler flere sælgere for at undgå monopol og fremme konkurrence, hvilket gavner brugerne. Hver sælger tilbyder unikke tjenester, kvalitetskontrol (QC), platforme og priser.
 
@@ -61,7 +61,7 @@ Lad sælgerne vide, at du er fra AirReps-fællesskabet. Dette vil sikre, at de g
 ## FAQ
 
 ::: details Hvilke betalingsmetoder accepterer betroede sælgere?
-Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butiksfacader, der er tilgængelige gennem agenter som [OOPBuy](https://airreps.link/oopbuy). Bemærk at PayPal i øjeblikket ikke understøttes af nogen sælger. Betalingsmuligheder kan variere efter sælger—se [betalingsmetode-tabellen](https://airpodsreplicas.com/da/links/info#betalingsmetoder) for en detaljeret oversigt.
+Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy). Bemærk at PayPal i øjeblikket ikke understøttes af nogen sælger. Betalingsmuligheder kan variere efter sælger—se [betalingsmetode-tabellen](https://airpodsreplicas.com/da/links/info#betalingsmetoder) for en detaljeret oversigt.
 :::
 <span id="kreditkort-note"></span>
 ::: details Hvorfor bliver jeg omdirigeret til en krypto-hjemmeside, når jeg betaler via kreditkort?
@@ -69,7 +69,7 @@ Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle kredi
 
 **Bemærk: Nogle betalingsbehandlere kan lejlighedsvis bede om et ID-tjek (KYC) for at overholde lokale regler, selvom dette ikke altid er påkrævet.**
 
-**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, overvej at bruge [OOPBuy](https://airreps.link/oopbuy), en agentplatform der køber produkter fra sælgere på dine vegne og giver kvalitetskontrol (QC) billeder før forsendelse. OOPBuy bruger almindelige betalingsbehandlere, der accepterer kredit- og debitkort og **kræver aldrig KYC-verifikation** eller identitetstjek. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden nogen KYC-krav, mens du stadig får den ekstra sikkerhed ved QC-billeder.
+**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, overvej at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform der køber produkter fra sælgere på dine vegne og giver kvalitetskontrol (QC) billeder før forsendelse. KakoBuy bruger almindelige betalingsbehandlere, der accepterer kredit- og debitkort og **kræver aldrig KYC-verifikation** eller identitetstjek. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden nogen KYC-krav, mens du stadig får den ekstra sikkerhed ved QC-billeder.
 :::
 
 ::: details Bemærkning om Alibaba-links og emballage

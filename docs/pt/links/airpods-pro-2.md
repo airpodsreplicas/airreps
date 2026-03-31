@@ -178,5 +178,5 @@ description: "Vendedores confiáveis e opções de compra para réplicas AirPods
 
 
 ::: tip
-Escolher um link do Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você deseja consolidar o envio com outros itens e está familiarizado com plataformas de agentes. Para um agente confiável, recomendamos o [OOPBuy](https://airreps.link/oopbuy).
+Escolher um link do Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você deseja consolidar o envio com outros itens e está familiarizado com plataformas de agentes. Para um agente confiável, recomendamos o [KakoBuy](https://airreps.link/kakobuy).
 :::

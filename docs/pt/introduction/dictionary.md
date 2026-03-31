@@ -44,7 +44,7 @@ Um "Legit Check" verifica a autenticidade de um produto, frequentemente usado ao
 
 ## Agent: Freight Agent/Shipping Forwarder (Agente de Carga/Redirecionador)
 
-Um "Agente" é um terceiro que facilita compras seguras de vendedores (frequentemente na China) para compradores. Eles atuam como representantes, garantindo que os produtos não apresentem defeitos e que os compradores recebam o que pediram. Recomendamos o [OOPBuy](https://airreps.link/oopbuy).
+Um "Agente" é um terceiro que facilita compras seguras de vendedores (frequentemente na China) para compradores. Eles atuam como representantes, garantindo que os produtos não apresentem defeitos e que os compradores recebam o que pediram. Recomendamos o [KakoBuy](https://airreps.link/kakobuy).
 
 **Exemplo:** "Você pode precisar usar um agente para obtê-los, já que atualmente a HiCity não envia para o Brasil."
 

@@ -11,7 +11,7 @@ Szukasz fałszywych AirPods do kupienia? Ten przewodnik wyjaśnia bezpieczne poz
 
 ## Jak Kupować
 
-Zawsze zalecamy kupowanie od [zaufanych sprzedawców](https://airpodsreplicas.com/pl/links/info). Większość sprzedawców ma własne strony internetowe, które akceptują różne metody płatności, w tym [Kartę Kredytową](#uwaga-o-karcie-kredytowej), [AliPay](#platnosc-przez-alipay), Revolut, Wise, Bitcoin i Przelew Bankowy. Wszyscy sprzedawcy mają również sklepy Weidian dostępne przez agentów jak [OOPBuy](https://airreps.link/oopbuy).
+Zawsze zalecamy kupowanie od [zaufanych sprzedawców](https://airpodsreplicas.com/pl/links/info). Większość sprzedawców ma własne strony internetowe, które akceptują różne metody płatności, w tym [Kartę Kredytową](#uwaga-o-karcie-kredytowej), [AliPay](#platnosc-przez-alipay), Revolut, Wise, Bitcoin i Przelew Bankowy. Wszyscy sprzedawcy mają również sklepy Weidian dostępne przez agentów jak [KakoBuy](https://airreps.link/kakobuy).
 
 Społeczność AirReps poleca kilku sprzedawców, aby uniknąć monopolu i promować konkurencję, co korzysta użytkownikom. Każdy sprzedawca oferuje unikalne usługi, kontrolę jakości (QC), platformy i ceny.
 
@@ -62,7 +62,7 @@ Poinformuj sprzedawców, że jesteś ze społeczności AirReps. To zapewni, że 
 ## FAQ
 
 ::: details Jakie metody płatności akceptują zaufani sprzedawcy?
-Zaufani sprzedawcy akceptują wiele metod płatności, w tym kartę kredytową, AliPay, Revolut, Wise, przelew bankowy i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów jak [OOPBuy](https://airreps.link/oopbuy). Zauważ, że PayPal obecnie nie jest obsługiwane przez żadnego sprzedawcę. Opcje płatności mogą się różnić w zależności od sprzedawcy—zobacz [tabelę metod płatności](https://airpodsreplicas.com/pl/links/info#metody-platnosci) dla szczegółowego zestawienia.
+Zaufani sprzedawcy akceptują wiele metod płatności, w tym kartę kredytową, AliPay, Revolut, Wise, przelew bankowy i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów jak [KakoBuy](https://airreps.link/kakobuy). Zauważ, że PayPal obecnie nie jest obsługiwane przez żadnego sprzedawcę. Opcje płatności mogą się różnić w zależności od sprzedawcy—zobacz [tabelę metod płatności](https://airpodsreplicas.com/pl/links/info#metody-platnosci) dla szczegółowego zestawienia.
 :::
 <span id="uwaga-o-karcie-kredytowej"></span>
 ::: details Dlaczego jestem przekierowywany na stronę krypto przy płatności kartą kredytową?
@@ -70,7 +70,7 @@ Zaufani sprzedawcy używają bezpiecznej bramki płatności krypto do przetwarza
 
 **Uwaga: Niektóre procesory płatności mogą czasami prosić o weryfikację tożsamości (KYC), aby spełnić lokalne przepisy, chociaż nie zawsze jest to wymagane.**
 
-**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [OOPBuy](https://airreps.link/oopbuy), platformy agentowej, która kupuje produkty od sprzedawców w Twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. OOPBuy używa standardowych procesorów płatności akceptujących karty kredytowe i debetowe i **nigdy nie wymaga weryfikacji KYC** ani sprawdzenia tożsamości. To czyni go doskonałą opcją, jeśli wolisz używać karty bez wymagań KYC, jednocześnie otrzymując dodatkowe bezpieczeństwo zdjęć QC.
+**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [KakoBuy](https://airreps.link/kakobuy), platformy agentowej, która kupuje produkty od sprzedawców w Twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy używa standardowych procesorów płatności akceptujących karty kredytowe i debetowe i **nigdy nie wymaga weryfikacji KYC** ani sprawdzenia tożsamości. To czyni go doskonałą opcją, jeśli wolisz używać karty bez wymagań KYC, jednocześnie otrzymując dodatkowe bezpieczeństwo zdjęć QC.
 :::
 
 ::: details Uwaga dotycząca linków i opakowań Alibaba

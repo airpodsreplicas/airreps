@@ -61,7 +61,7 @@ Tous les vendeurs de confiance acceptent plusieurs méthodes de paiement pour vo
 ::: tip
 Les paiements via Wise ou Virement Bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures à traiter.
 
-Pour les commandes Weidian, vous devrez utiliser un agent. Nous recommandons [OOPBuy](https://airreps.link/oopbuy), qui accepte les Cartes de Crédit et plusieurs méthodes de paiement.
+Pour les commandes Weidian, vous devrez utiliser un agent. Nous recommandons [KakoBuy](https://airreps.link/kakobuy), qui accepte les Cartes de Crédit et plusieurs méthodes de paiement.
 :::
 
 ## FAQ
@@ -95,7 +95,7 @@ Les vendeurs de confiance utilisent une passerelle de paiement crypto sécurisé
 
 **Note : Certains processeurs de paiement peuvent occasionnellement demander une vérification d'identité (KYC) pour se conformer aux réglementations locales, bien que ce ne soit pas toujours requis.**
 
-**Alternative :** Si vous voulez éviter toute possibilité de vérification KYC, envisagez d'utiliser [OOPBuy](https://airreps.link/oopbuy), une plateforme d'agent qui achète des produits auprès des vendeurs en votre nom et fournit des photos de contrôle qualité (QC) avant l'expédition. OOPBuy utilise des processeurs de paiement réguliers qui acceptent les cartes de crédit et de débit et **ne nécessitent jamais de vérification KYC** ni de contrôles d'identité. C'est une excellente option si vous préférez utiliser votre carte sans exigences KYC tout en bénéficiant de l'assurance supplémentaire des photos QC.
+**Alternative :** Si vous voulez éviter toute possibilité de vérification KYC, envisagez d'utiliser [KakoBuy](https://airreps.link/kakobuy), une plateforme d'agent qui achète des produits auprès des vendeurs en votre nom et fournit des photos de contrôle qualité (QC) avant l'expédition. KakoBuy utilise des processeurs de paiement réguliers qui acceptent les cartes de crédit et de débit et **ne nécessitent jamais de vérification KYC** ni de contrôles d'identité. C'est une excellente option si vous préférez utiliser votre carte sans exigences KYC tout en bénéficiant de l'assurance supplémentaire des photos QC.
 :::
 
 ::: tip

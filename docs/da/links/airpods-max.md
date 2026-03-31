@@ -98,5 +98,5 @@ description: "Verificerede sælgerlinks til køb af AirPods Max-kopier."
 > AirPods Max-kopierne er tilgængelige i en række farver. For detaljerede muligheder, se venligst de respektive sælgeres hjemmesider.
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [OOPBuy](https://airreps.link/oopbuy).
+Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy).
 :::

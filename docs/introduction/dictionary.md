@@ -44,7 +44,7 @@ A "Legit Check" verifies the authenticity of a product, often used when purchasi
 
 ## Agent: Freight Agent/Shipping Forwarder
 
-An "Agent" is a third party who facilitates safe purchases from sellers (often in China) to buyers. They act as representatives, ensuring products are not faulty and buyers receive what they ordered. We recommend [OOPBuy](https://airreps.link/oopbuy).
+An "Agent" is a third party who facilitates safe purchases from sellers (often in China) to buyers. They act as representatives, ensuring products are not faulty and buyers receive what they ordered. We recommend [KakoBuy](https://airreps.link/kakobuy).
 
 **Example:** "You might need to use an agent to get them, as currently HiCity doesn't ship to the Philippines."
 

@@ -44,7 +44,7 @@ Una "Verificación de Legitimidad" verifica la autenticidad de un producto, a me
 
 ## Agent: Agente de Carga/Reenviador de Envío
 
-Un "Agent" es un tercero que facilita compras seguras desde vendedores (a menudo en China) hasta compradores. Actúan como representantes, asegurando que los productos no estén defectuosos y que los compradores reciban lo que ordenaron. Recomendamos [OOPBuy](https://airreps.link/oopbuy).
+Un "Agent" es un tercero que facilita compras seguras desde vendedores (a menudo en China) hasta compradores. Actúan como representantes, asegurando que los productos no estén defectuosos y que los compradores reciban lo que ordenaron. Recomendamos [KakoBuy](https://airreps.link/kakobuy).
 
 **Ejemplo:** "Puede que necesites usar un agent para obtenerlos, ya que actualmente HiCity no envía a Filipinas."
 

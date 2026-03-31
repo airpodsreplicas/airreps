@@ -1,0 +1,6 @@
+# AirReps Workspace Rules
+
+## Multilingual Synchronization
+1. **Dynamic Translation & Sync:** Whenever I (AntiGravity) am asked to modify content in a documentation file (e.g., in English), I must automatically mirror those changes by translating and applying them to the equivalent files in ALL other language directories present in the workspace (e.g., `es`, `pl`, `fr`, `ru`, `da`, `pt`, etc.).
+2. **Language Directory Detection:** Instead of relying on a hardcoded list of languages, I should dynamically check the `docs/` folder (or relevant directory) for existing language subdirectories to determine which translations need to be updated.
+3. **Consistency:** Ensure that the markdown structure, formatting, and file names remain identical across all language versions, only translating the actual text content.

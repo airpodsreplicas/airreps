@@ -98,5 +98,5 @@ description: "Versiones de réplicas de AirPods Max y enlaces a vendedores confi
 > Las réplicas de AirPods Max están disponibles en una variedad de colores. Para opciones detalladas, por favor consulta los sitios web de los respectivos vendedores.
 
 ::: tip
-Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar envíos con otros artículos y estás familiarizado con plataformas de agentes. Para un agente confiable, recomendamos [OOPBuy](https://airreps.link/oopbuy).
+Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar envíos con otros artículos y estás familiarizado con plataformas de agentes. Para un agente confiable, recomendamos [KakoBuy](https://airreps.link/kakobuy).
 :::

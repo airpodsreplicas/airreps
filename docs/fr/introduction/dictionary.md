@@ -44,7 +44,7 @@ Un « Legit Check » vérifie l'authenticité d'un produit, souvent utilisé lor
 
 ## Agent : Agent de Fret/Transitaire
 
-Un « Agent » est un tiers qui facilite les achats sécurisés auprès de vendeurs (souvent en Chine) vers les acheteurs. Ils agissent comme représentants, s'assurant que les produits ne sont pas défectueux et que les acheteurs reçoivent ce qu'ils ont commandé. Nous recommandons [OOPBuy](https://airreps.link/oopbuy).
+Un « Agent » est un tiers qui facilite les achats sécurisés auprès de vendeurs (souvent en Chine) vers les acheteurs. Ils agissent comme représentants, s'assurant que les produits ne sont pas défectueux et que les acheteurs reçoivent ce qu'ils ont commandé. Nous recommandons [KakoBuy](https://airreps.link/kakobuy).
 
 **Exemple :** « Tu pourrais avoir besoin d'utiliser un agent pour les obtenir, car actuellement HiCity n'expédie pas aux Philippines. »
 

@@ -98,5 +98,5 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Max."
 > AirPods Max-klonówne er dogængelige i en række farver. For detaljerede muligheder, se venligst de respektive sprzedawcaes hjemmesider.
 
 ::: tip
-Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [OOPBuy](https://airreps.link/oopbuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy).
 :::

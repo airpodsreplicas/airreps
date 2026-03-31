@@ -62,7 +62,7 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod Płatności dla Twojej wygody:
 ::: tip
 Płatności przez Wise lub Przelew Bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może zająć do 24 godzin do przetworzenia.
 
-Dla zamówień Weidian musisz użyć agenta. Polecamy [OOPBuy](https://airreps.link/oopbuy), który akceptuje karty kredytowe i wiele metod Płatności.
+Dla zamówień Weidian musisz użyć agenta. Polecamy [KakoBuy](https://airreps.link/kakobuy), który akceptuje karty kredytowe i wiele metod Płatności.
 :::
 
 ## FAQ
@@ -96,7 +96,7 @@ Zaufani sprzedawcy używają bezpiecznej bramki płatności krypto do przetwarza
 
 **Uwaga: Niektóre procesory płatności mogą czasami prosić o weryfikację tożsamości (KYC), aby spełnić lokalne przepisy, chociaż nie zawsze jest to wymagane.**
 
-**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [OOPBuy](https://airreps.link/oopbuy), platformy agentowej, która kupuje produkty od sprzedawców w twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. OOPBuy używa standardowych procesorów płatności akceptujących karty kredytowe i debetowe i **nigdy nie wymaga weryfikacji KYC** ani sprawdzenia tożsamości. To czyni go doskonałą opcją, jeśli wolisz używać karty bez wymagań KYC, jednocześnie otrzymując dodatkowe bezpieczeństwo w postaci zdjęć QC.
+**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [KakoBuy](https://airreps.link/kakobuy), platformy agentowej, która kupuje produkty od sprzedawców w twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy używa standardowych procesorów płatności akceptujących karty kredytowe i debetowe i **nigdy nie wymaga weryfikacji KYC** ani sprawdzenia tożsamości. To czyni go doskonałą opcją, jeśli wolisz używać karty bez wymagań KYC, jednocześnie otrzymując dodatkowe bezpieczeństwo w postaci zdjęć QC.
 :::
 
 ::: tip

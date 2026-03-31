@@ -178,5 +178,5 @@ description: "Trusted seller links and purchase options for AirPods Pro 2 replic
 
 
 ::: tip
-Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with agent platforms. For a reliable agent, we recommend [OOPBuy](https://airreps.link/oopbuy).
+Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with agent platforms. For a reliable agent, we recommend [KakoBuy](https://airreps.link/kakobuy).
 :::
