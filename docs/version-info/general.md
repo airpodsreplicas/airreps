@@ -12,6 +12,10 @@ Manufacturers like TigerBuilder and Huilian use their own product names (such as
 **Note:** Manufacturers are not the same as sellers. You cannot buy directly from manufacturers—you purchase from sellers who source products from these manufacturers.
 :::
 
+::: tip Not sure which model to pick?
+Take our [quick quiz](/quiz) — answer a few questions and get a personalized recommendation.
+:::
+
 This table provides a summary of the most notable missing features for various AirPods models based on specific versions.
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |

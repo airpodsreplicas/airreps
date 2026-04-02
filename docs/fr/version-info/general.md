@@ -14,6 +14,10 @@ Les fabricants comme TigerBuilder et Huilian utilisent leurs propres noms de pro
 
 Ce tableau fournit un résumé des fonctionnalités manquantes les plus notables pour divers modèles d'AirPods basé sur des versions spécifiques.
 
+::: tip Pas sûr quel modèle choisir ?
+Faites notre [quiz rapide](/fr/quiz) — répondez à quelques questions et obtenez une recommandation personnalisée.
+:::
+
 | Modèle AirPods | Basé Sur | Fonctionnalités Manquantes                                                                                                                               |
 |----------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AirPods Pro 3 | <span class="version-badge">V6</span>   | Capteur cardiaque, Qualité de fabrication haut de gamme, Gestes de hochement de tête, Réseau Localiser                                                  |

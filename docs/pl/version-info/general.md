@@ -14,6 +14,10 @@ Manufacturers like TigerBuilder and Huilian use their own product names (such as
 
 This table provides a summary of the most notable missing features for various AirPods models based on specific versions.
 
+::: tip Nie wiesz, który model wybrać?
+Wypełnij nasz [krótki quiz](/pl/quiz) — odpowiedz na kilka pytań i otrzymaj spersonalizowaną rekomendację.
+:::
+
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AirPods Pro 3 | <span class="version-badge">V6</span>   | Czujnik pulsu, Wyższa jakość wykonania, Gesty kiwania głową, Sieć Znajdź Mój                                                                           |

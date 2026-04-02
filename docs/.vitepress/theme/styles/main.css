@@ -120,24 +120,24 @@ iframe[src*="youtube"] {
 
 /* Block Buttons Layout */
 .link-column {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 
 .link-column a {
-    background: var(--vp-c-default-soft);
-    padding: 4px 6px;
-    text-align: center;
-    border-radius: 6px;
-    font-size: 13px;
-    font-weight: 500;
-    text-decoration: none !important;
-    line-height: 1.2;
-    transition: background-color 0.2s;
-    border: 1px solid var(--vp-c-divider);
+  padding: 4px 6px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none !important;
+  background: var(--vp-c-default-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  transition: background-color 0.2s;
 }
 
 .link-column a:hover {
-    background: var(--vp-c-default-mute);
+  background: var(--vp-c-default-mute);
 }

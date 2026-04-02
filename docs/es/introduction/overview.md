@@ -14,6 +14,10 @@ Después de leer esta guía, probablemente encontrarás que comprar réplicas de
 Si solo buscas enlaces para comprar réplicas de AirPods, [haz clic aquí para ir a la sección de enlaces](/links/info).
 :::
 
+::: tip ¿No sabes qué modelo elegir?
+Haz nuestro [quiz rápido](/es/quiz) para encontrar la mejor réplica de AirPods según tus necesidades, dispositivo y presupuesto.
+:::
+
 ## Lo Que Aprenderás
 
 No todas las réplicas de AirPods son iguales. Esta guía te ayuda a identificar réplicas de alta calidad que ofrecen valor genuino, cubriendo aspectos esenciales como [calidad de sonido](https://airpodsreplicas.com/introduction/sound-quality), [duración de batería](https://airpodsreplicas.com/introduction/battery-life) y [conectividad](https://airpodsreplicas.com/introduction/connectivity).

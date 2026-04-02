@@ -14,6 +14,10 @@ Producenter som TigerBuilder og Huilian bruger deres egne produktnavne (såsom "
 
 Denne tabel giver en oversigt over de mest bemærkelsesværdige manglende funktioner for forskellige AirPods-modeller baseret på specifikke versioner.
 
+::: tip Ikke sikker på hvilken model du skal vælge?
+Tag vores [hurtige quiz](/da/quiz) — besvar et par spørgsmål og få en personlig anbefaling.
+:::
+
 | AirPods Model | Baseret På | Manglende Funktioner                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AirPods Pro 3 | <span class="version-badge">V6</span>   | Pulssensor, Højere byggekvalitet, Nikkebevægelser, Find My-netværk                                                                           |

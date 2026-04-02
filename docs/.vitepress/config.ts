@@ -171,6 +171,7 @@ function getNav(lang: string): DefaultTheme.NavItem[] {
     return [
         { text: t.nav.home, link: `${prefix}/` },
         { text: t.nav.ultimateGuide, link: `${prefix}/introduction/overview` },
+        { text: t.nav.quiz, link: `${prefix}/quiz` },
         { text: t.nav.links, link: `${prefix}/links/info` },
     ];
 }
@@ -179,7 +180,7 @@ function getNav(lang: string): DefaultTheme.NavItem[] {
 const translations: Record<
     string,
     {
-        nav: { home: string; ultimateGuide: string; links: string };
+        nav: { home: string; ultimateGuide: string; links: string; quiz: string };
         sidebar: {
             ultimateGuide: string;
             overview: string;
@@ -211,7 +212,7 @@ const translations: Record<
     }
 > = {
     en: {
-        nav: { home: 'Home', ultimateGuide: 'Ultimate Guide', links: 'Links' },
+        nav: { home: 'Home', ultimateGuide: 'Ultimate Guide', links: 'Links', quiz: 'Quiz' },
         sidebar: {
             ultimateGuide: 'Ultimate Guide',
             overview: 'Overview',
@@ -245,7 +246,7 @@ const translations: Record<
         editLink: 'Edit this page on GitHub',
     },
     pt: {
-        nav: { home: 'Início', ultimateGuide: 'Guia Definitivo', links: 'Links' },
+        nav: { home: 'Início', ultimateGuide: 'Guia Definitivo', links: 'Links', quiz: 'Quiz' },
         sidebar: {
             ultimateGuide: 'Guia Definitivo',
             overview: 'Visão Geral',
@@ -279,7 +280,7 @@ const translations: Record<
         editLink: 'Editar esta página no GitHub',
     },
     es: {
-        nav: { home: 'Inicio', ultimateGuide: 'Guía Definitiva', links: 'Enlaces' },
+        nav: { home: 'Inicio', ultimateGuide: 'Guía Definitiva', links: 'Enlaces', quiz: 'Quiz' },
         sidebar: {
             ultimateGuide: 'Guía Definitiva',
             overview: 'Descripción General',
@@ -313,7 +314,7 @@ const translations: Record<
         editLink: 'Editar esta página en GitHub',
     },
     da: {
-        nav: { home: 'Hjem', ultimateGuide: 'Ultimativ Guide', links: 'Links' },
+        nav: { home: 'Hjem', ultimateGuide: 'Ultimativ Guide', links: 'Links', quiz: 'Quiz' },
         sidebar: {
             ultimateGuide: 'Ultimativ Guide',
             overview: 'Oversigt',
@@ -347,7 +348,7 @@ const translations: Record<
         editLink: 'Rediger denne side på GitHub',
     },
     fr: {
-        nav: { home: 'Accueil', ultimateGuide: 'Guide Ultime', links: 'Liens' },
+        nav: { home: 'Accueil', ultimateGuide: 'Guide Ultime', links: 'Liens', quiz: 'Quiz' },
         sidebar: {
             ultimateGuide: 'Guide Ultime',
             overview: 'Aperçu',
@@ -381,7 +382,12 @@ const translations: Record<
         editLink: 'Modifier cette page sur GitHub',
     },
     pl: {
-        nav: { home: 'Strona główna', ultimateGuide: 'Kompletny Przewodnik', links: 'Linki' },
+        nav: {
+            home: 'Strona główna',
+            ultimateGuide: 'Kompletny Przewodnik',
+            links: 'Linki',
+            quiz: 'Quiz',
+        },
         sidebar: {
             ultimateGuide: 'Kompletny Przewodnik',
             overview: 'Przegląd',
@@ -415,7 +421,12 @@ const translations: Record<
         editLink: 'Edytuj tę stronę na GitHub',
     },
     ru: {
-        nav: { home: 'Главная', ultimateGuide: 'Полное Руководство', links: 'Ссылки' },
+        nav: {
+            home: 'Главная',
+            ultimateGuide: 'Полное Руководство',
+            links: 'Ссылки',
+            quiz: 'Тест',
+        },
         sidebar: {
             ultimateGuide: 'Полное Руководство',
             overview: 'Обзор',

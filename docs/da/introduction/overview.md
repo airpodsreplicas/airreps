@@ -14,6 +14,10 @@ Efter at have læst denne guide vil du sandsynligvis finde, at køb af AirPods-k
 Hvis du bare leder efter links til at købe AirPods-kopier, [klik her for at gå til linksektionen](/links/info).
 :::
 
+::: tip Ikke sikker på hvilken model du skal vælge?
+Tag vores [hurtige quiz](/da/quiz) for at finde den bedste AirPods-replika til dine behov, enhed og budget.
+:::
+
 ## Hvad Du Vil Lære
 
 Ikke alle AirPods-kopier er skabt lige. Denne guide hjælper dig med at identificere kopier af høj kvalitet, der leverer ægte værdi, og dækker væsentlige aspekter som [lydkvalitet](https://airpodsreplicas.com/introduction/sound-quality), [batterilevetid](https://airpodsreplicas.com/introduction/battery-life) og [tilslutning](https://airpodsreplicas.com/introduction/connectivity).

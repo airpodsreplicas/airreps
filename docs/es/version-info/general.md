@@ -14,6 +14,10 @@ Fabricantes como TigerBuilder y Huilian usan sus propios nombres de productos (c
 
 Esta tabla proporciona un resumen de las características faltantes más notables para varios modelos de AirPods basados en versiones específicas.
 
+::: tip ¿No sabes qué modelo elegir?
+Haz nuestro [quiz rápido](/es/quiz) — responde unas preguntas y recibe una recomendación personalizada.
+:::
+
 | Modelo AirPods | Basado En | Características Faltantes                                                                                                                                |
 |----------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AirPods Pro 3 | <span class="version-badge">V6</span>   | Sensor de frecuencia cardíaca, Calidad de construcción de alta gama, Gestos de asentimiento, Find My Network                                            |

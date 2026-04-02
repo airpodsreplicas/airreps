@@ -14,6 +14,10 @@ Fabricantes como TigerBuilder e Huilian usam seus próprios nomes de produtos (c
 
 Esta tabela fornece um resumo dos recursos ausentes mais notáveis para vários modelos de AirPods com base em versões específicas.
 
+::: tip Não sabe qual modelo escolher?
+Faça nosso [quiz rápido](/pt/quiz) — responda algumas perguntas e receba uma recomendação personalizada.
+:::
+
 | Modelo de AirPods | Baseado Em | Recursos Ausentes                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AirPods Pro 3 | <span class="version-badge">V6</span>   | Sensor de frequência cardíaca, Qualidade de construção premium, Gestos de aceno, Rede Find My                                                                           |
