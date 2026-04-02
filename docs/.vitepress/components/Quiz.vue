@@ -1201,9 +1201,11 @@ function restart() {
   font-size: inherit;
 }
 
-.quiz-option:hover {
-  border-color: var(--vp-c-brand-1);
-  background: var(--vp-c-bg-mute);
+@media (hover: hover) {
+  .quiz-option:hover {
+    border-color: var(--vp-c-brand-1);
+    background: var(--vp-c-bg-mute);
+  }
 }
 
 .quiz-option-label {
