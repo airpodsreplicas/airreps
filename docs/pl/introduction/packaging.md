@@ -1,6 +1,5 @@
 ---
-description: "Rodzaje opakowań: bez logo, z logo Apple, podwójne pudełko. Ryzyko i korzyści."
-translationStatus: machine-translated
+description: "Rodzaje opakowań: bez logo, z logo Apple i podwójne/przynętowe pudełka. Ryzyka i szczegóły dotyczące jakości."
 ---
 
 # Opakowanie
@@ -12,6 +11,11 @@ Klony AirPods są dostępne w różnych rodzajach opakowań, każde z własnymi 
 Pudełko bez logo jest białe i ma podobny kształt do oryginalnego pudełka AirPods. Pokazuje obraz AirPods, ale brakuje tekstu "AirPods", logo Apple lub znaków towarowych. Dołączona instrukcja i kabel ładowarki są generyczne, bez numerów seryjnych typowo obecnych na oryginalnym opakowaniu AirPods.
 
 <img src="/nologobox.jpg" alt="Pudełko Bez Logo" width="300px"/>
+
+::: warning
+Jeśli zamówisz przez link z **Alibaba**, twoje repliki będą **zawsze** wysyłane w neutralnym pudełku bez logo, aby uniknąć konfiskaty przez celników i zgłoszeń naruszenia praw autorskich. Pudełka z logo Apple nie są dostępne przez Alibaba.
+:::
+
 
 ## Pudełko z Logo Apple
 
@@ -31,7 +35,7 @@ Uważane przez wielu za najlepszy wybór spośród trzech opcji, to opakowanie s
 
 ## Jakość Pudełka
 
-Jakość pudełka może się różnić od dobrze wykonanego z prawidłowo wytłoczonym tekstem i wyrównanymi etykietami do niższej jakości lub niestarannego. Jeśli jakość pudełka jest dla Ciebie ważna, poproś sprzedawcę o zdjęcia przed dokonaniem zakupu.
+Jakość pudełka może wahać się od dobrze wykonanego, z prawidłowo wytłoczonym tekstem i wyrównanymi etykietami, po niższą jakość lub niedbałe wykonanie. Jeśli jakość pudełka jest dla Ciebie ważna, poproś sprzedawcę o zdjęcia przed dokonaniem zakupu.
 
 ::: tip
 Zawsze proś o zdjęcia, jeśli jakość pudełka jest dla Ciebie ważna.

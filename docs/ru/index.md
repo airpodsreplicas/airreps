@@ -1,30 +1,38 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-translationStatus: machine-translated
 
 title: 'AirReps'
 description: 'Центр сообщества AirReps для обсуждения реплик AirPods. Получите помощь, найдите проверенных продавцов и изучите наше Полное Руководство.'
 
 hero:
-  name: "AirReps"
+"  name: \"AirReps\""
   text: "Реплики AirPods."
   tagline: Сообщество для обсуждения и изучения клонов AirPods.
   actions:
     - theme: brand
       text: Читать Полное Руководство
-      link: /ru/introduction/overview
+      link: introduction/overview
+    - theme: alt
+      text: Пройти викторину
+      link: quiz
 
 features:
-  - icon: 🤝
+"  - icon: 🤝"
     title: Команда помощников
-    details: У нас есть команда преданных помощников, которые могут ответить практически на любой ваш вопрос!
+    details: Преданные помощники готовы ответить практически на любой ваш вопрос.
+    link: https://airreps.link/discord
+    linkText: Присоединиться к Discord
   - icon: ⏰
     title: Всегда актуально
-    details: Все наши ресурсы, руководства и приложения всегда поддерживаются в актуальном состоянии нашей большой командой!
+    details: Все ресурсы, руководства и приложения постоянно поддерживаются в актуальном состоянии нашей преданной командой.
+    link: /introduction/overview
+    linkText: Читать руководство
   - icon: 💸  
     title: Проверенный список продавцов
-    details: Продавцы с новейшими продуктами, лучшей поддержкой и последними функциями! Всё это выбрано сообществом и некоммерчески.
+    details: Список продавцов, выбранных сообществом, некоммерческий, с новейшими товарами и лучшей поддержкой.
+    link: /links/info
+    linkText: Просмотреть продавцов
 ---
 
 <Contributor></Contributor>

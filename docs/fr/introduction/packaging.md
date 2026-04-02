@@ -1,5 +1,5 @@
 ---
-description: "Types d'emballage : sans logo, Apple, et double boîte."
+description: "Types d'emballage expliqués : boîte sans logo, boîte Apple et double/leurre. Risques et détails sur la qualité."
 ---
 
 # Emballage
@@ -11,6 +11,11 @@ Les répliques d'AirPods sont livrées dans différents types d'emballage, chacu
 La boîte sans logo est blanche et a une forme similaire à la boîte originale des AirPods. Elle présente une image d'AirPods mais ne comporte pas le texte « AirPods », les logos Apple ou les marques déposées. Le manuel inclus et le câble de charge sont génériques, sans les numéros de série typiquement trouvés sur l'emballage des AirPods originaux.
 
 <img src="/nologobox.jpg" alt="Boîte Sans Logo" width="300px"/>
+
+::: warning
+Si vous commandez via un lien **Alibaba**, vos répliques seront **toujours** expédiées dans une boîte neutre sans logo pour éviter les saisies en douane et les poursuites pour atteinte au droit d'auteur. Les boîtes portant la marque Apple ne sont pas disponibles via Alibaba.
+:::
+
 
 ## Boîte avec Logo Apple
 
