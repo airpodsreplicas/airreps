@@ -1010,7 +1010,7 @@ function restart() {
     <div class="quiz-progress">
       <div
         class="quiz-progress-bar"
-        :style="{ width: isDone ? '100%' : `${Math.min((currentStep / activeQuestions.length) * 100, 95)}%` }"
+        :style="{ width: isDone ? '100%' : `${(currentStep / activeQuestions.length) * 100}%` }"
       />
     </div>
     <div v-if="!isDone" class="quiz-step-count">
