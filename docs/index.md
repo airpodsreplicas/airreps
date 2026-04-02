@@ -13,17 +13,26 @@ hero:
     - theme: brand
       text: Read the Ultimate Guide
       link: introduction/overview
+    - theme: alt
+      text: Take the Quiz
+      link: quiz
 
 features:
   - icon: 🤝
     title: Team of helpers
-    details: We have a team of dedicated helpers that can answer almost any question you might have! 
+    details: Dedicated helpers ready to answer almost any question you might have.
+    link: https://airreps.link/discord
+    linkText: Join Discord
   - icon: ⏰
     title: Up to date
-    details: All our resources, guides, and apps are always kept up to date, by our big dedicated staff team!
+    details: All resources, guides, and apps are always kept up to date by our dedicated staff team.
+    link: /introduction/overview
+    linkText: Read the Guide
   - icon: 💸  
     title: Trusted seller list
-    details: Sellers that have the latest products, the best support, the latest features and more! All this completely community picked and non-profit. 
+    details: Community-picked, non-profit seller list with the latest products and best support.
+    link: /links/info
+    linkText: View Sellers
 ---
 
 <Contributor></Contributor>
