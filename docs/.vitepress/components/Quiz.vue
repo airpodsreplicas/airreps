@@ -787,7 +787,7 @@ const product = computed<ProductRec | null>(() => {
         needsMac.value
           ? 'Huilian variant includes iCloud Connect and Live Translation'
           : 'TB variant for solid ANC performance',
-        'Starting at just $' + prices['pro3-v6-tb'],
+        'Starting at just $' + prices[key],
       ],
       links: [
         { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
