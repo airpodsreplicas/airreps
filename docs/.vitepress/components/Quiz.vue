@@ -1046,7 +1046,6 @@ function restart() {
         <p class="quiz-result-subtitle">{{ product.subtitle }}</p>
         <div v-if="prices[product.priceKey]" class="quiz-result-price">
           ~${{ prices[product.priceKey] }}
-          <span class="quiz-price-note">{{ t('fromEarhive') }}</span>
         </div>
       </div>
 
