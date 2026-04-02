@@ -78,16 +78,30 @@ function cleanModelOutput(text) {
   const fenced = trimmed.match(/^```(?:markdown|md)?\n([\s\S]*?)\n```$/i);
   let content = (fenced ? fenced[1] : trimmed).trimEnd();
 
-  // Fix unquoted YAML frontmatter values that contain colons — these break the parser.
-  // Matches lines like:  key: some text: with colon
-  // but skips lines already quoted or that are just key: value with no colon in value.
+  // Fix YAML frontmatter issues inside the --- block
   content = content.replace(
     /^(---\n[\s\S]*?^---)/m,
-    (frontmatter) =>
-      frontmatter.replace(
+    (frontmatter) => {
+      let fixed = frontmatter;
+
+      // Strip double-wrapped lines the model sometimes produces, e.g.:
+      //   "  name: \"AirReps\""  →  name: "AirReps"
+      //   "  - icon: 🤝"        →  - icon: 🤝
+      fixed = fixed.replace(
+        /^"(\s+.+)"$/gm,
+        (_, inner) => inner.replace(/\\"/g, '"'),
+      );
+
+      // Fix unquoted values that contain colons — these break the YAML parser.
+      // Matches lines like:  key: some text: with colon
+      // but skips lines already quoted or that are just key: value with no colon in value.
+      fixed = fixed.replace(
         /^(\w[\w-]*:\s)(?!["'\[{|>])(.+:.+)$/gm,
         (_, key, value) => `${key}"${value.replace(/"/g, '\\"')}"`,
-      ),
+      );
+
+      return fixed;
+    },
   );
 
   return `${content}\n`;
@@ -110,7 +124,7 @@ async function translateDocument(openai, sourcePath, targetPath, locale, languag
       {
         role: 'system',
         content:
-          'You translate documentation files. Return only the translated markdown with no code fences or commentary. Preserve the original markdown structure exactly: frontmatter keys, headings, emphasis, lists, tables, links, image paths, code fences, HTML tags, and blank-line structure. Never remove or rename frontmatter keys. Translate only user-facing natural language. Keep brand names, file paths, URLs, and slash commands unchanged. Keep existing wording whenever it is already correct, and minimize unrelated rewrites outside the changed English meaning. Do not add or remove sections. IMPORTANT: In YAML frontmatter, any value that contains a colon (:) must be wrapped in double quotes (e.g. description: "Some text: more text"). Unquoted values with colons break the YAML parser.',
+          'You translate documentation files. Return only the translated markdown with no code fences or commentary. Preserve the original markdown structure exactly: frontmatter keys, headings, emphasis, lists, tables, links, image paths, code fences, HTML tags, and blank-line structure. Never remove or rename frontmatter keys. Translate only user-facing natural language. Keep brand names, file paths, URLs, and slash commands unchanged. Keep existing wording whenever it is already correct, and minimize unrelated rewrites outside the changed English meaning. Do not add or remove sections. CRITICAL: Reproduce the YAML frontmatter formatting EXACTLY as it appears in the English source — same quoting, same indentation, same structure. Do NOT add extra quotes around values, do NOT escape quotes that are not escaped in the source. If the source has `name: "AirReps"` you must output `name: "AirReps"` — never `"  name: \\"AirReps\\""`. Only translate the text values, never restructure the YAML.',
       },
       {
         role: 'user',
