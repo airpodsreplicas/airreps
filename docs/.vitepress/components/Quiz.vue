@@ -1198,6 +1198,7 @@ function restart() {
   width: 100%;
   font-family: inherit;
   font-size: inherit;
+  -webkit-tap-highlight-color: transparent;
 }
 
 @media (hover: hover) {
