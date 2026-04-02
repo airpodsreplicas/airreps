@@ -6,7 +6,7 @@ title: 'AirReps'
 description: "Le hub communautaire AirReps pour les discussions sur les répliques d'AirPods. Obtenez de l'aide, trouvez des vendeurs de confiance et consultez notre Guide ultime."
 
 hero:
-"  name: \"AirReps\""
+  name: "AirReps"
   text: "Répliques d'AirPods."
   tagline: Une communauté pour la discussion et l'exploration des clones d'AirPods.
   actions:
@@ -18,7 +18,7 @@ hero:
       link: quiz
 
 features:
-"  - icon: 🤝"
+  - icon: 🤝
     title: Équipe d'entraide
     details: Des assistants dévoués prêts à répondre à presque toutes vos questions.
     link: "https://airreps.link/discord"
