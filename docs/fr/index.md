@@ -1,30 +1,38 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-translationStatus: translated
 
 title: 'AirReps'
-description: "Communauté AirReps : Aide, vendeurs de confiance et Guide Ultime."
+description: "Le hub communautaire AirReps pour les discussions sur les répliques d'AirPods. Obtenez de l'aide, trouvez des vendeurs de confiance et consultez notre Guide ultime."
 
 hero:
-  name: "AirReps"
+"  name: \"AirReps\""
   text: "Répliques d'AirPods."
-  tagline: Une communauté dédiée à la discussion et à l'exploration des clones d'AirPods.
+  tagline: Une communauté pour la discussion et l'exploration des clones d'AirPods.
   actions:
     - theme: brand
       text: Lire le Guide Ultime
-      link: /fr/introduction/overview
+      link: introduction/overview
+    - theme: alt
+      text: Faire le Quiz
+      link: quiz
 
 features:
-  - icon: 🤝
+"  - icon: 🤝"
     title: Équipe d'entraide
-    details: Nous avons une équipe d'assistants dévoués qui peuvent répondre à presque toutes vos questions !
+    details: Des assistants dévoués prêts à répondre à presque toutes vos questions.
+    link: "https://airreps.link/discord"
+    linkText: Rejoindre Discord
   - icon: ⏰
     title: Toujours à jour
-    details: Toutes nos ressources, guides et applications sont constamment mis à jour par notre grande équipe dédiée !
+    details: Toutes les ressources, guides et applications sont constamment mis à jour par notre équipe dédiée.
+    link: /introduction/overview
+    linkText: Lire le Guide
   - icon: 💸  
     title: Liste de vendeurs de confiance
-    details: Des vendeurs proposant les derniers produits, le meilleur support, les dernières fonctionnalités et plus encore ! Tout cela sélectionné par la communauté et à but non lucratif.
+    details: Liste de vendeurs sélectionnés par la communauté, à but non lucratif, avec les derniers produits et le meilleur support.
+    link: /links/info
+    linkText: Voir les vendeurs
 ---
 
 <Contributor></Contributor>

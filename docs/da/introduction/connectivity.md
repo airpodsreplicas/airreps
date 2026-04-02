@@ -1,5 +1,5 @@
 ---
-description: Udforsk tilslutningsmuligheder for AirPods-kopier, herunder iOS popup-hastighed, rækkevidde, latenstid, manglende multi-enhedstilslutning, macOS-kompatibilitet, iOS lydafspilningsproblemer og indledende tilslutning med iOS-enheder.
+description: "Detaljer om tilslutning: iOS-popup, macOS-problemer, rækkevidde, latenstid og multi-enhedssupport."
 ---
 
 # Tilslutning
@@ -12,7 +12,7 @@ iOS popup'en vises næsten øjeblikkeligt på AirPods-kopier, selvom hastigheden
 
 ## macOS Tilslutning
 
-Kun få nyere kloner fungerer fejlfrit med macOS, hvorimod dette ikke altid er tilfældet med andre producenter. Vi anbefaler at vælge "Huilian" modellen, hvis du planlægger at bruge dine kopier med din MacBook eller iMac. Dette skyldes, at andre kloner ikke har iCloud-skift til problemfri iOS-integration, eller har deres lydstyrke fastlåst på 100% på macOS (TB). Vi har dog delvist løst problemet ved hjælp af en tredjeparts FOSS-app, den eneste ulempe er, at lydstyrkebevægelserne på AirPods på TB-modeller ikke vil fungere på grund af begrænsningerne ved denne metode. For flere detaljer, besøg [vores fejlfindingsguide](https://airpodsreplicas.com/da/troubleshooting/macOS-volume-slider-fixup).
+Kun få nyere kloner fungerer fejlfrit med macOS, hvorimod dette ikke altid er tilfældet med andre producenter. Vi anbefaler at vælge "Huilian" modellen, hvis du planlægger at bruge dine kopier med din MacBook eller iMac. Dette skyldes, at andre kloner ikke har iCloud-skift til problemfri iOS-integration, eller har deres lydstyrke fastlåst på 100% på macOS (TB). Vi har dog delvist løst problemet ved hjælp af en tredjeparts FOSS-app, den eneste ulempe er, at lydstyrkebevægelserne på AirPods på TB-modeller ikke vil fungere på grund af begrænsningerne ved denne metode. For flere detaljer, besøg [vores fejlfindingsguide](https://airpodsreplicas.com/troubleshooting/macOS-volume-slider-fixup).
 
 ## Rækkevidde
 
@@ -20,7 +20,7 @@ Rækkevidden for de fleste AirPods-kopier matcher den for originale AirPods, omk
 
 ## Latenstid
 
-Nogle AirPods-kopier kan have bedre latenstid end originale AirPods, hvilket resulterer i forbedret lyd-video synkronisering. Hjemmesider som YouTube justerer automatisk for latenstid.
+Nogle AirPods-kopier kan have bedre latenstid end originale AirPods, hvilket resulterer i forbedret lyd-video-synkronisering. Hjemmesider som YouTube justerer automatisk for latenstid.
 
 ## Multi-Enhedstilslutning
 

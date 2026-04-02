@@ -1,5 +1,5 @@
 ---
-description: Lær om lydkvaliteten af AirPods-kopier. Find ud af om vurdering, variationer og brugerdefinerede EQ-indstillinger, samt anbefalede genrer og forsinkelse.
+description: Vurderinger af lydkvalitet, EQ-indstillinger og realistiske forventninger til AirPods-kopier.
 ---
 
 # Lydkvalitet
@@ -11,7 +11,7 @@ Vurdering af lydkvaliteten af AirPods-kopier kan hjælpe dig med at bestemme der
 De bedste bredt tilgængelige AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2 og AirPods Pro 3 kopier scorer omkring 8-9/10 i lydkvalitet sammenlignet med de originale AirPods.
 
 ::: details Lyder AirPods Pro bedre end AirPods 4?
-Da AirPods Pro forsegles i øret, kan de lyde betydeligt bedre end AirPods 2/3, som er formet til at lukke ydre støj ind. Det anbefales at vælge den form og pasform, der foretrækkes.
+Da AirPods Pro forsegler i øret, kan de lyde betydeligt bedre end AirPods 2/3, som er formet, så de lader udefrakommende støj komme ind. Det anbefales at vælge den form og pasform, du foretrækker.
 :::
 
 ## Lydkvalitetsvariationer

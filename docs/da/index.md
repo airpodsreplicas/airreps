@@ -6,24 +6,33 @@ title: 'AirReps'
 description: 'AirReps-fællesskabets centrum for diskussioner om AirPods-kopier. Få hjælp, find betroede sælgere og udforsk vores Ultimative Guide.'
 
 hero:
-  name: "AirReps"
+"  name: \"AirReps\""
   text: "AirPods-kopier."
   tagline: Et fællesskab for diskussion og udforskning af AirPods-kloner.
   actions:
     - theme: brand
       text: Læs Den Ultimative Guide
-      link: /da/introduction/overview
+      link: introduction/overview
+    - theme: alt
+      text: Tag quizzen
+      link: quiz
 
 features:
-  - icon: 🤝
+"  - icon: 🤝"
     title: Hold af hjælpere
-    details: Vi har et dedikeret hold af hjælpere, der kan besvare næsten alle spørgsmål, du måtte have!
+    details: Dedikerede hjælpere klar til at besvare næsten ethvert spørgsmål, du måtte have.
+    link: https://airreps.link/discord
+    linkText: Deltag i Discord
   - icon: ⏰
     title: Altid opdateret
-    details: Alle vores ressourcer, guides og apps holdes altid opdaterede af vores store, dedikerede team!
+    details: Alle ressourcer, guider og apps holdes altid opdaterede af vores dedikerede personale.
+    link: /introduction/overview
+    linkText: Læs guiden
   - icon: 💸  
     title: Betroet sælgerliste
-    details: Sælgere med de nyeste produkter, den bedste support, de nyeste funktioner og mere! Alt dette fællesskabsvalgt og non-profit.
+    details: Fællesskabsudvalgt, non-profit sælgerliste med de nyeste produkter og den bedste support.
+    link: /links/info
+    linkText: Se sælgere
 ---
 
 <Contributor></Contributor>
