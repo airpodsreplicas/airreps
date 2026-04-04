@@ -1,5 +1,5 @@
 ---
-description: Lær om de forskellige typer emballage, der bruges til AirPods-kopier, herunder No-logo æske, Apple Logo æske og Dobbelt/Lokkefugl æske. Forstå de potentielle risici og fordele ved hver emballagetype.
+description: "Packaging types explained: No-logo, Apple Logo, and Double/Decoy boxes. Risks and quality details."
 ---
 
 # Emballage
@@ -31,6 +31,10 @@ Anmodning om en "Apple-æske" kan føre til produktbeslaglæggelse i tolden. Man
 Betragtet af mange som det bedste valg blandt de tre, inkorporerer denne emballage en kløgtig strategi med at bruge diskret emballage, der ligner almindelige øretelefoner. Skjult inden i denne upåfaldende emballage er dog Apple Logo Æsken, som tidligere forklaret. Ved at anvende denne smarte emballagetilgang reduceres de potentielle risici forbundet med toldmyndigheders beslaglæggelse af produktet betydeligt, samtidig med at du kan få Apple Logo Æsken uden unødige komplikationer.
 
 <img src="/doublebox.webp" alt="Dobbelt/Lokkefugl Æske" width="300px"/>
+
+::: tip
+Double box is usually pre-selected at checkout, but always double-check that the option is enabled before completing your order.
+:::
 
 ## Æskekvalitet
 

@@ -1,5 +1,5 @@
 ---
-description: En oversigt over byggekvaliteten af AirPods-kopier, herunder aspekter som vægt, hængseltype, tekstnøjagtighed, bagknap, låg og magneter, LED-diffuser og håndteringstips til AirPods Pro-kopier.
+description: "Build quality deep dive: Weight, hinge, text accuracy, magnets, and LED diffusers."
 ---
 
 # Byggekvalitet

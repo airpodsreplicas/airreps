@@ -1,50 +1,56 @@
 ---
-description: "Tipos de embalagem explicados: No-logo, Apple Logo e Double/Decoy boxes. Riscos e detalhes de qualidade."
+description: "Packaging types explained: No-logo, Apple Logo, and Double/Decoy boxes. Risks and quality details."
 ---
 
-# Packaging
+# Embalagem
 
-AirPods replicas come in different types of packaging, each with its own unique features and potential risks.
+Réplicas de AirPods vêm em diferentes tipos de embalagem, cada uma com características únicas e riscos potenciais.
 
-## No-Logo Box
+## Caixa sem logotipo
 
-The No-logo box is white and has a similar shape to the original AirPods box. It showcases an image of AirPods but lacks the "AirPods" text, Apple logos, or trademarks. The included manual and charging cable are generic, without the serial numbers typically found on original AirPods packaging.
+A caixa sem logotipo é branca e tem uma forma semelhante à caixa original dos AirPods. Mostra uma imagem dos AirPods, mas não tem o texto "AirPods", logotipos da Apple ou marcas registradas. O manual e o cabo de carregamento incluídos são genéricos, sem os números de série que normalmente aparecem na embalagem original dos AirPods.
 
-<img src="/nologobox.jpg" alt="No-Logo Box" width="300px"/>
+<img src="/nologobox.jpg" alt="Caixa sem logotipo" width="300px"/>
 
 ::: warning
-If you order using an **Alibaba** link, your replicas will **always** be shipped in a neutral, No-Logo box to avoid customs seizures and copyright strikes. Apple-branded boxes are not available through Alibaba.
+Se você pedir usando um link do **Alibaba**, suas réplicas serão **sempre** enviadas em uma caixa neutra sem logotipo para evitar apreensões na alfândega e notificações de violação de direitos autorais. Caixas com marca Apple não estão disponíveis via Alibaba.
 :::
 
 
-## Apple Logo Box
+## Caixa com logotipo Apple
 
-The Apple logo box mirrors the packaging of legitimate AirPods, featuring the traditional "AirPods" text and Apple logos. The manuals and charging cable inside bear Apple markings. However, requesting an "Apple box" could increase the risk of product seizure at customs, leading to fines or destruction of the product. To mitigate this risk, many sellers use a double box technique, hiding the actual Apple box inside a generic headphone-shaped box.
+A caixa com logotipo Apple espelha a embalagem dos AirPods legítimos, apresentando o texto tradicional "AirPods" e os logotipos da Apple. Os manuais e o cabo de carregamento no interior trazem marcações da Apple. No entanto, solicitar uma "caixa Apple" pode aumentar o risco de apreensão do produto na alfândega, levando a multas ou destruição do produto. Para reduzir esse risco, muitos vendedores usam a técnica da caixa dupla, escondendo a caixa Apple real dentro de uma caixa genérica em forma de fone.
 
-<img src="/applebox.webp" alt="Apple Logo Box" width="300px"/>
+<img src="/applebox.webp" alt="Caixa com logotipo Apple" width="300px"/>
 
 ::: danger
-Requesting an "Apple box" can lead to product seizure at customs. Many sellers use a double box technique to reduce this risk.
+Solicitar uma "caixa Apple" pode levar à apreensão do produto na alfândega. Muitos vendedores usam a técnica da caixa dupla para reduzir esse risco.
 :::
 
-## Double/Decoy Box
+## Caixa dupla / de engodo
 
-Considered by many as the superior option among the three, this packaging incorporates a clever strategy of utilizing discreet packaging that resembles ordinary earbuds. However, concealed within this unassuming packaging is the Apple Logo Box, as previously explained. By adopting this astute packaging approach, the potential risks associated with customs authorities seizing the product are significantly reduced, while enabling you to successfully obtain the Apple Logo Box without undue complications.
+A melhor opção para a maioria dos compradores. Uma caixa externa genérica que parece fones comuns, com a Caixa com logotipo Apple escondida no interior. Isso reduz significativamente o risco de apreensão pela alfândega, ao mesmo tempo em que ainda te dá a embalagem completa com marca Apple.
 
-<img src="/doublebox.webp" alt="Double/Decoy Box" width="300px"/>
+A maioria dos vendedores confiáveis inclui automaticamente a caixa dupla no checkout — procure uma caixa de seleção ou opção na página de finalização da compra e certifique-se de que está marcada. Se você estiver pedindo pelo **Alibaba**, a caixa dupla **não está disponível** — você sempre receberá uma caixa sem logotipo.
 
-## Box Quality
-
-The box's quality can range from well-made with correctly embossed text and aligned labels, to lower quality or sloppy. If the box quality matters to you, ask the seller for photos before making a purchase.
+<img src="/doublebox.webp" alt="Caixa dupla / de engodo" width="300px"/>
 
 ::: tip
-Always ask for photos if the quality of the box is important to you.
+A caixa dupla geralmente vem pré-selecionada no checkout, mas sempre verifique se a opção está ativada antes de concluir o pedido.
 :::
 
-## Handling and Shipping
+## Qualidade da caixa
 
-The box or packaging might arrive slightly dented or creased due to handling by international and local couriers, not the seller.
+A qualidade da caixa pode variar desde bem-feita, com texto corretamente em relevo e etiquetas alinhadas, até de baixa qualidade ou descuidada. Se a qualidade da caixa for importante para você, peça fotos ao vendedor antes de efetuar a compra.
 
-## Charging Cable
+::: tip
+Sempre peça fotos se a qualidade da caixa for importante para você.
+:::
 
-The included charging cable may not support data transfer like many other USB cables. Sellers often use cables with dummy pins instead of real working pins to cut costs.
+## Manuseio e envio
+
+A caixa ou embalagem pode chegar ligeiramente amassada ou com vincos devido ao manuseio por transportadoras internacionais e locais, e não pelo vendedor.
+
+## Cabo de carregamento
+
+O cabo de carregamento incluído pode não suportar transferência de dados como muitos outros cabos USB. Muitos vendedores usam cabos com pinos simulados em vez de pinos funcionais para reduzir custos.
