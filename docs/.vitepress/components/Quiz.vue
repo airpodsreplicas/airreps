@@ -798,8 +798,8 @@ const product = computed<ProductRec | null>(() => {
     };
   }
 
-  // In-ear: calls use case overrides normal logic (except latest/budget)
-  if (useCase === 'calls' && priority !== 'latest' && priority !== 'budget') {
+  // In-ear: calls use case overrides only for ANC/features priority — stable/budget/latest respect the priority
+  if (useCase === 'calls' && (priority === 'anc' || priority === 'features')) {
     return {
       title: 'AirPods Pro 2 V5.3 HR+',
       subtitle: 'Sealed construction, isolated mic design — best call quality',
