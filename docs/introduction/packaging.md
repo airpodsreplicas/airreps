@@ -29,9 +29,15 @@ Requesting an "Apple box" can lead to product seizure at customs. Many sellers u
 
 ## Double/Decoy Box
 
-Considered by many as the superior option among the three, this packaging incorporates a clever strategy of utilizing discreet packaging that resembles ordinary earbuds. However, concealed within this unassuming packaging is the Apple Logo Box, as previously explained. By adopting this astute packaging approach, the potential risks associated with customs authorities seizing the product are significantly reduced, while enabling you to successfully obtain the Apple Logo Box without undue complications.
+The best option for most buyers. A generic outer box that looks like ordinary earbuds, with the Apple Logo Box hidden inside. This significantly reduces the risk of customs seizure while still giving you the full Apple-branded packaging.
+
+Most trusted sellers automatically include the double box on checkout — look for a checkbox or option on the checkout page and make sure it's ticked. If you're ordering through **Alibaba**, double box is **not available** — you'll always receive a No-Logo box.
 
 <img src="/doublebox.webp" alt="Double/Decoy Box" width="300px"/>
+
+::: tip
+Double box is usually pre-selected at checkout, but always double-check that the option is enabled before completing your order.
+:::
 
 ## Box Quality
 
