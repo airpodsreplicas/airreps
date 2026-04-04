@@ -124,48 +124,11 @@ jobs:
           COUNT=$(git status --porcelain -- docs/es docs/pt docs/da docs/fr docs/pl docs/ru | grep -c . || true)
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
-      - name: Create translation pull request
+      - name: Commit translations directly to main
         if: steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'
-        id: create_pr
-        uses: peter-evans/create-pull-request@v7
-        with:
-          add-paths: |
-            docs/es
-            docs/pt
-            docs/da
-            docs/fr
-            docs/pl
-            docs/ru
-          branch: automation/translation-sync
-          delete-branch: true
-          commit-message: 'chore: sync translated docs'
-          title: '[Translations] Sync localized docs'
-          body: |
-            ## What changed
-            - Sync localized docs from the latest English changes on `main`
-            - Covers all English files whose locale versions were out of date
-
-            ## Translated English files
-            ${{ steps.changed.outputs.files }}
-          labels: |
-            translation
-          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-
-      - name: Auto-merge translation pull request
-        if: steps.create_pr.outputs.pull-request-operation == 'created' || steps.create_pr.outputs.pull-request-operation == 'updated'
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-          PR_URL: ${{ steps.create_pr.outputs.pull-request-url }}
-        run: gh pr merge --squash "$PR_URL" --admin
-
-      - name: Close stale translation pull request
-        if: steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count == '0'
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
-          PR_NUMBER=$(gh pr list --state open --head automation/translation-sync --json number --jq '.[0].number')
-          if [ -n "$PR_NUMBER" ]; then
-            gh pr close "$PR_NUMBER" --delete-branch --comment "Closing automatically: all locale files are already up to date."
-          else
-            echo "No open translation PR to close."
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/es docs/pt docs/da docs/fr docs/pl docs/ru
+          git commit -m "chore: sync translated docs"
+          git push
