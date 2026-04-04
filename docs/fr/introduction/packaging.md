@@ -1,5 +1,5 @@
 ---
-description: "Types d'emballage expliqués : boîte sans logo, boîte Apple et double/leurre. Risques et détails sur la qualité."
+description: "Packaging types explained: No-logo, Apple Logo, and Double/Decoy boxes. Risks and quality details."
 ---
 
 # Emballage
@@ -29,9 +29,13 @@ Demander une « boîte Apple » peut entraîner la saisie du produit à la douan
 
 ## Boîte Double/Leurre
 
-Considérée par beaucoup comme l'option supérieure parmi les trois, cet emballage intègre une stratégie astucieuse utilisant un emballage discret qui ressemble à des écouteurs ordinaires. Cependant, dissimulée dans cet emballage modeste se trouve la Boîte avec Logo Apple, comme expliqué précédemment. En adoptant cette approche d'emballage astucieuse, les risques potentiels associés à la saisie du produit par les autorités douanières sont considérablement réduits, tout en vous permettant d'obtenir avec succès la Boîte avec Logo Apple sans complications indues.
+La meilleure option pour la plupart des acheteurs. Une boîte extérieure générique qui ressemble à des écouteurs ordinaires, avec la Boîte avec Logo Apple cachée à l'intérieur. Cela réduit sensiblement le risque de saisie en douane tout en vous offrant l'emballage complet marqué Apple.
 
 <img src="/doublebox.webp" alt="Boîte Double/Leurre" width="300px"/>
+
+::: tip
+La boîte double est généralement pré-sélectionnée lors du paiement, mais vérifiez toujours que l'option est activée avant de finaliser votre commande.
+:::
 
 ## Qualité de la Boîte
 
