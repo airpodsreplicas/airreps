@@ -154,7 +154,7 @@ jobs:
       - name: Auto-merge translation pull request
         if: steps.create_pr.outputs.pull-request-operation == 'created' || steps.create_pr.outputs.pull-request-operation == 'updated'
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           PR_URL: ${{ steps.create_pr.outputs.pull-request-url }}
         run: gh pr merge --squash "$PR_URL" --admin
 
