@@ -67,7 +67,7 @@ It is not possible to determine the version of a clone without actually using it
 :::
 
 ::: details How can I determine the chip in my AirPods?
-To identify the chip in your AirPods clones, refer to this list of [useful apps](https://airpodsreplicas.com/useful-apps). Test each app individually to determine which one your AirPods connect to. This will help you quickly identify the manufacturer and chipset. Note that if your AirPods are very low-tier, they may not connect to any of the apps. In such cases, they likely use the Jieli chipset.
+To identify the chip in your AirPods clones, refer to this list of [useful apps](/useful-apps). Test each app individually to determine which one your AirPods connect to. This will help you quickly identify the manufacturer and chipset. Note that if your AirPods are very low-tier, they may not connect to any of the apps. In such cases, they likely use the Jieli chipset.
 :::
 
 ::: details How can I determine if my AirPods are real?

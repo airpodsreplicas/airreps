@@ -20,9 +20,9 @@ Take our [quick quiz](/quiz) to find the best AirPods replica for your needs, de
 
 ## What You'll Learn
 
-Not all AirPods replicas are created equal. This guide helps you identify high-quality replicas that deliver genuine value, covering essential aspects like [sound quality](https://airpodsreplicas.com/introduction/sound-quality), [battery life](https://airpodsreplicas.com/introduction/battery-life), and [connectivity](https://airpodsreplicas.com/introduction/connectivity).
+Not all AirPods replicas are created equal. This guide helps you identify high-quality replicas that deliver genuine value, covering essential aspects like [sound quality](/introduction/sound-quality), [battery life](/introduction/battery-life), and [connectivity](/introduction/connectivity).
 
-We provide the knowledge and tools to distinguish between cheap imitations and quality AirPods replicas worth your investment. Check our [Version Info](https://airpodsreplicas.com/version-info/general) section to understand the key features and avoid common pitfalls when shopping for replica AirPods.
+We provide the knowledge and tools to distinguish between cheap imitations and quality AirPods replicas worth your investment. Check our [Version Info](/version-info/general) section to understand the key features and avoid common pitfalls when shopping for replica AirPods.
 
 Our community-driven approach through [Discord](https://airreps.link/discord) ensures you stay informed with the latest updates and can make well-informed decisions about which AirPods replicas suit your needs. This guide also helps you distinguish replicas from authentic AirPods when buying second-hand, preventing potential scams.
 

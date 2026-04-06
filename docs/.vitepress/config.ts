@@ -420,6 +420,84 @@ const translations: Record<
         },
         editLink: 'Edytuj tę stronę na GitHub',
     },
+    de: {
+        nav: {
+            home: 'Startseite',
+            ultimateGuide: 'Ultimativer Leitfaden',
+            links: 'Links',
+            quiz: 'Quiz',
+        },
+        sidebar: {
+            ultimateGuide: 'Ultimativer Leitfaden',
+            overview: 'Überblick',
+            sellers: 'Verkäufer',
+            packaging: 'Verpackung',
+            connectivity: 'Konnektivität',
+            batteryLife: 'Akkulaufzeit',
+            features: 'Funktionen',
+            ancExplained: 'ANC Erklärt',
+            buildQuality: 'Verarbeitungsqualität',
+            soundQuality: 'Klangqualität',
+            dictionary: 'Wörterbuch',
+            versionInfo: 'Versionsinfo',
+            general: 'Allgemein',
+            ordering: 'Bestellung',
+            howToBuy: 'Wie man kauft',
+            qcLc: 'QC & LC',
+            links: 'Links',
+            info: 'Info',
+            troubleshooting: 'Fehlerbehebung',
+            icloudIncompatibility: 'iCloud-Inkompatibilität',
+            otherBugs: 'Andere häufige Fehler',
+            macosVolume: 'Lautstärkeregler auf MacOS',
+            usefulApps: 'Nützliche Apps',
+            contributing: 'Mitwirken',
+        },
+        footer: {
+            message: 'Veröffentlicht unter der GPLv3-Lizenz.',
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Alle Rechte vorbehalten.`,
+        },
+        editLink: 'Diese Seite auf GitHub bearbeiten',
+    },
+    tr: {
+        nav: {
+            home: 'Ana Sayfa',
+            ultimateGuide: 'Kapsamlı Rehber',
+            links: 'Bağlantılar',
+            quiz: 'Test',
+        },
+        sidebar: {
+            ultimateGuide: 'Kapsamlı Rehber',
+            overview: 'Genel Bakış',
+            sellers: 'Satıcılar',
+            packaging: 'Paketleme',
+            connectivity: 'Bağlantı',
+            batteryLife: 'Pil Ömrü',
+            features: 'Özellikler',
+            ancExplained: 'ANC Açıklaması',
+            buildQuality: 'Yapı Kalitesi',
+            soundQuality: 'Ses Kalitesi',
+            dictionary: 'Sözlük',
+            versionInfo: 'Sürüm Bilgisi',
+            general: 'Genel',
+            ordering: 'Sipariş',
+            howToBuy: 'Nasıl Satın Alınır',
+            qcLc: 'QC & LC',
+            links: 'Bağlantılar',
+            info: 'Bilgi',
+            troubleshooting: 'Sorun Giderme',
+            icloudIncompatibility: 'iCloud Uyumsuzluğu',
+            otherBugs: 'Diğer Yaygın Hatalar',
+            macosVolume: 'MacOS Ses Kontrolü',
+            usefulApps: 'Faydalı Uygulamalar',
+            contributing: 'Katkıda Bulunma',
+        },
+        footer: {
+            message: 'GPLv3 Lisansı altında yayınlanmıştır.',
+            copyright: `© Telif Hakkı ${new Date().getFullYear()} AirReps. Tüm Hakları Saklıdır.`,
+        },
+        editLink: "Bu sayfayı GitHub'da düzenle",
+    },
     ru: {
         nav: {
             home: 'Главная',
@@ -481,7 +559,7 @@ export default defineConfig({
             // Add locale alternates (hreflang) for each page
             return items.map((item) => {
                 // Determine if this is a locale page or root
-                const locales = ['es', 'pt', 'da', 'fr', 'ru', 'pl'];
+                const locales = ['es', 'pt', 'da', 'fr', 'ru', 'pl', 'de', 'tr'];
                 const _isLocalePage = locales.some((l) => item.url.startsWith(`/${l}/`));
 
                 // Find the base path (without locale prefix)
@@ -502,6 +580,8 @@ export default defineConfig({
                     { lang: 'fr', url: `https://airpodsreplicas.com/fr${basePath}` },
                     { lang: 'ru', url: `https://airpodsreplicas.com/ru${basePath}` },
                     { lang: 'pl', url: `https://airpodsreplicas.com/pl${basePath}` },
+                    { lang: 'de', url: `https://airpodsreplicas.com/de${basePath}` },
+                    { lang: 'tr', url: `https://airpodsreplicas.com/tr${basePath}` },
                     { lang: 'x-default', url: `https://airpodsreplicas.com${basePath}` },
                 ];
 
@@ -518,6 +598,7 @@ export default defineConfig({
     },
 
     head: [
+        ['link', { rel: 'preconnect', href: 'https://cdn.jsdelivr.net', crossorigin: '' }],
         ['link', { rel: 'icon', sizes: 'any', href: '/favicon.ico' }],
         ['meta', { name: 'theme-color', content: '#EC645D' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
@@ -525,7 +606,6 @@ export default defineConfig({
         ['meta', { name: 'apple-mobile-web-app-title', content: 'AirReps Ultimate Guide' }],
         ['meta', { name: 'application-name', content: 'AirReps Ultimate Guide' }],
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
-        ['meta', { name: 'theme-color', content: '#EC645D' }],
         ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
         ['meta', { property: 'owner', content: 'AirReps' }],
         ['meta', { property: 'author', content: 'AirReps' }],
@@ -542,7 +622,7 @@ export default defineConfig({
 
         // Detect current locale
         let currentLocale = 'en';
-        const locales = ['es', 'pt', 'da', 'fr', 'pl', 'ru'];
+        const locales = ['es', 'pt', 'da', 'fr', 'pl', 'ru', 'de', 'tr'];
         for (const locale of locales) {
             if (basePath.startsWith(`${locale}/`)) {
                 currentLocale = locale;
@@ -560,6 +640,8 @@ export default defineConfig({
             fr: '🇫🇷',
             pl: '🇵🇱',
             ru: '🇷🇺',
+            de: '🇩🇪',
+            tr: '🇹🇷',
         };
 
         // Default OG metadata with flag emojis (used as fallback)
@@ -598,6 +680,16 @@ export default defineConfig({
                 title: 'AirReps | Полное Руководство',
                 description:
                     'Сообщество для обсуждения и изучения клонов AirPods. Откройте для себя доступные альтернативы и ознакомьтесь с нашим Полным Руководством для подробной информации. Начните исследовать мир клонов AirPods уже сегодня!',
+            },
+            de: {
+                title: 'AirReps | Ultimativer Leitfaden',
+                description:
+                    'Eine Community für die Diskussion und Erkundung von AirPods-Klonen. Entdecke erschwingliche Alternativen und lies unseren Ultimativen Leitfaden für detaillierte Einblicke. Entdecke noch heute die Welt der AirPods-Klone!',
+            },
+            tr: {
+                title: 'AirReps | Kapsamlı Rehber',
+                description:
+                    'AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk. Uygun fiyatlı alternatifleri keşfedin ve detaylı bilgiler için Kapsamlı Rehberimize göz atın. AirPods klonlarının dünyasını bugün keşfetmeye başlayın!',
             },
         };
 
@@ -675,8 +767,12 @@ export default defineConfig({
                             url: 'https://airpodsreplicas.com/logo.webp',
                         },
                     },
-                    datePublished: new Date().toISOString(), // Fallback, could use git timestamp if available
-                    dateModified: new Date().toISOString(),
+                    datePublished: pageData.lastUpdated
+                        ? new Date(pageData.lastUpdated).toISOString()
+                        : new Date().toISOString(),
+                    dateModified: pageData.lastUpdated
+                        ? new Date(pageData.lastUpdated).toISOString()
+                        : new Date().toISOString(),
                 },
             ],
         };
@@ -743,14 +839,31 @@ export default defineConfig({
                 'link',
                 {
                     rel: 'alternate',
+                    hreflang: 'de',
+                    href: `https://airpodsreplicas.com/de${canonicalBase}`,
+                },
+            ],
+            [
+                'link',
+                {
+                    rel: 'alternate',
+                    hreflang: 'tr',
+                    href: `https://airpodsreplicas.com/tr${canonicalBase}`,
+                },
+            ],
+            [
+                'link',
+                {
+                    rel: 'alternate',
                     hreflang: 'x-default',
                     href: `https://airpodsreplicas.com${canonicalBase}`,
                 },
             ],
             ['link', { rel: 'canonical', href: pageUrl }],
             // Localized Open Graph meta tags
+            ['meta', { property: 'og:site_name', content: 'AirReps' }],
             ['meta', { property: 'og:title', content: pageTitle }],
-            ['meta', { property: 'og:type', content: 'article' }], // Changed from website to article for guides
+            ['meta', { property: 'og:type', content: basePath === '' || basePath === 'index' ? 'website' : 'article' }],
             ['meta', { property: 'og:url', content: pageUrl }],
             ['meta', { property: 'og:description', content: pageDescription }],
             ['meta', { property: 'og:image', content: ogImageUrl }],
@@ -763,19 +876,17 @@ export default defineConfig({
                 {
                     property: 'og:locale',
                     content:
-                        currentLocale === 'en'
-                            ? 'en_US'
-                            : currentLocale === 'pt'
-                              ? 'pt_BR'
-                              : currentLocale === 'es'
-                                ? 'es_ES'
-                                : currentLocale === 'da'
-                                  ? 'da_DK'
-                                  : currentLocale === 'pl'
-                                    ? 'pl_PL'
-                                    : currentLocale === 'ru'
-                                      ? 'ru_RU'
-                                      : 'fr_FR',
+                        ({
+                            en: 'en_US',
+                            pt: 'pt_BR',
+                            es: 'es_ES',
+                            da: 'da_DK',
+                            pl: 'pl_PL',
+                            ru: 'ru_RU',
+                            fr: 'fr_FR',
+                            de: 'de_DE',
+                            tr: 'tr_TR',
+                        })[currentLocale] || 'en_US',
                 },
             ],
             // Localized Twitter meta tags
@@ -930,6 +1041,46 @@ export default defineConfig({
                 returnToTopLabel: 'Вернуться наверх',
             },
         },
+        de: {
+            label: 'Deutsch',
+            lang: 'de-DE',
+            description: 'Eine Community für die Diskussion und Erkundung von AirPods-Klonen.',
+            themeConfig: {
+                nav: getNav('de'),
+                sidebar: getSidebar('de'),
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.de.editLink,
+                },
+                footer: {
+                    message: translations.de.footer.message,
+                    copyright: translations.de.footer.copyright,
+                },
+                docFooter: { prev: 'Vorherige Seite', next: 'Nächste Seite' },
+                outline: { label: 'Auf dieser Seite' },
+                returnToTopLabel: 'Zurück nach oben',
+            },
+        },
+        tr: {
+            label: 'Türkçe',
+            lang: 'tr-TR',
+            description: 'AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk.',
+            themeConfig: {
+                nav: getNav('tr'),
+                sidebar: getSidebar('tr'),
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.tr.editLink,
+                },
+                footer: {
+                    message: translations.tr.footer.message,
+                    copyright: translations.tr.footer.copyright,
+                },
+                docFooter: { prev: 'Önceki sayfa', next: 'Sonraki sayfa' },
+                outline: { label: 'Bu sayfada' },
+                returnToTopLabel: 'Başa dön',
+            },
+        },
     },
 
     themeConfig: {
@@ -976,6 +1127,8 @@ export default defineConfig({
                         translations: { button: { buttonText: 'Szukaj' } },
                     },
                     ru: { placeholder: 'Поиск', translations: { button: { buttonText: 'Поиск' } } },
+                    de: { placeholder: 'Suchen', translations: { button: { buttonText: 'Suchen' } } },
+                    tr: { placeholder: 'Ara', translations: { button: { buttonText: 'Ara' } } },
                 },
             },
         },

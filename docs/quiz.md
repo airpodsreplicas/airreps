@@ -1,6 +1,7 @@
 ---
 title: "Which AirPods Replica Should I Get?"
 description: "Take our quick quiz to find the best AirPods replica for your needs, device, and budget."
+ogLabel: "QUIZ"
 ---
 
 # Which AirPods Replica Should I Get?

@@ -8,7 +8,7 @@ description: Corrige le problème du curseur de volume sur macOS sur les Mac Int
 C'est l'un des problèmes les plus connus sur la version **Intel** de macOS, où le curseur de volume qui contrôle le volume audio ne fonctionne tout simplement pas, mais agit seulement comme un interrupteur (cela arrive à la plupart des répliques, bien que certaines ne soient pas affectées). Bien qu'Apple ne regardera jamais ce problème, nous pouvons le contourner avec un [outil open source](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Ce guide est destiné à ceux qui ont des Macs basés sur Intel (i3, i5, i7 ; pas les puces de la série M). Si votre Mac Apple Silicon (puce série M) ne lit pas l'audio avec vos AirReps actuels, consultez la section [Bugs courants](/troubleshooting/other-common-bugs.md).
+Ce guide est destiné à ceux qui ont des Macs basés sur Intel (i3, i5, i7 ; pas les puces de la série M). Si votre Mac Apple Silicon (puce série M) ne lit pas l'audio avec vos AirReps actuels, consultez la section [Bugs courants](/troubleshooting/other-common-bugs).
 :::
 
 ## **Prérequis**

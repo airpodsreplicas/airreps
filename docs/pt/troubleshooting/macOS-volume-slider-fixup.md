@@ -8,7 +8,7 @@ description: Corrige o problema da barra de volume no macOS em Macs Intel. Uma s
 Este é um dos problemas mais conhecidos na versão **Intel** do macOS, onde a barra deslizante que controla o volume do áudio simplesmente não funciona, agindo apenas como um interruptor (acontece com a maioria das réplicas existentes, embora algumas não sejam afetadas). Embora a própria Apple nunca vá investigar esse problema, podemos contorná-lo com uma [ferramenta de código aberto](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Este guia é destinado a quem possui Macs com processadores Intel (i3, i5, i7; não chips da série M). Se o seu Mac com Apple Silicon (chips da série M) não reproduzir áudio com seus AirReps atuais, consulte a seção [Bugs Comuns](/troubleshooting/other-common-bugs.md).
+Este guia é destinado a quem possui Macs com processadores Intel (i3, i5, i7; não chips da série M). Se o seu Mac com Apple Silicon (chips da série M) não reproduzir áudio com seus AirReps atuais, consulte a seção [Bugs Comuns](/troubleshooting/other-common-bugs).
 :::
 
 ## **Pré-requisito**

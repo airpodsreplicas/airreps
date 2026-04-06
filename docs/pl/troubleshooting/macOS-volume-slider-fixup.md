@@ -8,7 +8,7 @@ description: Naprawa problemu z suwakiem głośności na macOS dla komputerów M
 Jest to jeden z najbardziej znanych problemów w wersji **Intel** macOS, gdzie suwak głośności kontrolujący głośność po prostu nie działa, tylko funkcjonuje jako przełącznik (dzieje się tak dla większości klonów, chociaż niektóre nie są dotknięte). Podczas gdy sam Apple nigdy nie zbadałby tego problemu, możemy go obejść za pomocą [narzędzia open source](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Ten przewodnik jest przeznaczony dla tych, którzy mają Maki oparte na Intel (i3, i5, i7; nie chipsety serii M). Jeśli Twój Mac z Apple Silicon (chipsety serii M) nie odtwarza dźwięku z aktualnymi AirReps, sprawdź sekcję [Common Bugs](/troubleshooting/other-common-bugs.md).
+Ten przewodnik jest przeznaczony dla tych, którzy mają Maki oparte na Intel (i3, i5, i7; nie chipsety serii M). Jeśli Twój Mac z Apple Silicon (chipsety serii M) nie odtwarza dźwięku z aktualnymi AirReps, sprawdź sekcję [Common Bugs](/troubleshooting/other-common-bugs).
 :::
 
 ## **Wymagania Wstępne**

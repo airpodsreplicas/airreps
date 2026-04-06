@@ -8,7 +8,7 @@ description: Ret problemet med macOS-lydstyrkeskyderen på Intel-Macs. En simpel
 Dette er et af de mest kendte problemer på **Intel**-versionen af macOS, hvor lydstyrkeskyderen, der kontrollerer lydstyrken, simpelthen ikke virker, men kun fungerer som en kontakt (sker for de fleste kopier derude, selvom nogle ikke er påvirket). Mens Apple selv aldrig ville undersøge problemet, kan vi omgå dette med et [open source-værktøj](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Denne guide er beregnet til dem, der har Intel-baserede Mac'er (i3, i5, i7; ikke M-serie chip). Hvis din Apple Silicon (M-serie chip) Mac ikke afspiller lyd med dine nuværende AirReps, tjek [Common Bugs](/troubleshooting/other-common-bugs.md) sektionen.
+Denne guide er beregnet til dem, der har Intel-baserede Mac'er (i3, i5, i7; ikke M-serie chip). Hvis din Apple Silicon (M-serie chip) Mac ikke afspiller lyd med dine nuværende AirReps, tjek [Common Bugs](/troubleshooting/other-common-bugs) sektionen.
 :::
 
 ## **Forudsætninger**

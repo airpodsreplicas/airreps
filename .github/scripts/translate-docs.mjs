@@ -14,6 +14,8 @@ const localeConfig = {
   fr: 'French',
   pl: 'Polish',
   ru: 'Russian',
+  de: 'German',
+  tr: 'Turkish',
 };
 
 function hasLocalePrefix(relativePath) {
@@ -37,7 +39,7 @@ function getAllChangedFiles() {
 }
 
 function getLocales() {
-  return (process.env.TRANSLATION_LOCALES || 'es,pt,da,fr,pl,ru')
+  return (process.env.TRANSLATION_LOCALES || 'es,pt,da,fr,pl,ru,de,tr')
     .split(',')
     .map((locale) => locale.trim())
     .filter(Boolean)

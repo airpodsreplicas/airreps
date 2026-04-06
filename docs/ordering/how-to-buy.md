@@ -10,7 +10,7 @@ Looking to buy AirPods replicas? This guide covers safe sourcing, payment method
 
 ## How to Buy
 
-We recommend always purchasing from [trusted sellers](https://airpodsreplicas.com/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy).
+We recommend always purchasing from [trusted sellers](/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy).
 
 The AirReps community recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
@@ -60,7 +60,7 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](https://airpodsreplicas.com/links/info#payment-methods) for a detailed breakdown.
+Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?

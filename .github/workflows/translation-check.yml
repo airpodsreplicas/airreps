@@ -53,7 +53,7 @@ jobs:
           #   a queued run, dropping intermediate translations with cancel-in-progress: false)
           # - It doesn't depend on sync commit history or before/after SHAs
           # - It works correctly after manual locale edits
-          LOCALES="es pt da fr pl ru"
+          LOCALES="es pt da fr pl ru de tr"
           FILES=""
           PROTECTED_LOCALES=""
 
@@ -86,6 +86,7 @@ jobs:
             -not -path "docs/es/*" -not -path "docs/pt/*" \
             -not -path "docs/da/*" -not -path "docs/fr/*" \
             -not -path "docs/pl/*" -not -path "docs/ru/*" \
+            -not -path "docs/de/*" -not -path "docs/tr/*" \
             -not -path "*/.vitepress/*" \
             | sort)
 
@@ -121,7 +122,7 @@ jobs:
         if: steps.changed.outputs.count != '0'
         id: locale_changes
         run: |
-          COUNT=$(git status --porcelain -- docs/es docs/pt docs/da docs/fr docs/pl docs/ru | grep -c . || true)
+          COUNT=$(git status --porcelain -- docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr | grep -c . || true)
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
       - name: Commit translations directly to main
@@ -129,6 +130,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/es docs/pt docs/da docs/fr docs/pl docs/ru
+          git add docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr
           git commit -m "chore: sync translated docs"
           git push

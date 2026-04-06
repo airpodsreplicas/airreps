@@ -53,7 +53,7 @@ const fontCyrillicRegularData = await fetchFont(
     'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-cyrillic-400-normal.woff'
 );
 
-async function generateOgImage(title, description, outFile) {
+async function generateOgImage(title, description, outFile, label = 'GUIDE') {
     const markup = html`
     <div
         style="
@@ -99,7 +99,7 @@ async function generateOgImage(title, description, outFile) {
             display: flex;
           "
         >
-          GUIDE
+          ${label}
         </div>
         <div style="font-size: 72px; font-weight: 700; line-height: 1.1; margin-bottom: 16px; display: flex; color: #ffffff;">
           ${title}
@@ -234,7 +234,8 @@ async function main() {
         // Description is now manually shortened in frontmatter
         const description = data.description || '';
 
-        await generateOgImage(title, description, outFilePath);
+        const label = data.ogLabel || 'GUIDE';
+        await generateOgImage(title, description, outFilePath, label);
     }
 }
 

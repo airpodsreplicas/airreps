@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/towy/Documents/ARGiT/airreps
+cd "$(dirname "$0")/.."
 
 LOCALES="pt es da fr"
 DIRS="introduction version-info ordering links troubleshooting"

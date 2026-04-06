@@ -1,3 +1,29 @@
 User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /hashmap.json
+
+# AI Crawlers - explicitly allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
 Sitemap: https://airpodsreplicas.com/sitemap.xml
 # Algolia-Crawler-Verif: D3F2A44E9868FC75

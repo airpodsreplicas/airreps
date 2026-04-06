@@ -8,7 +8,7 @@ description: Fix the macOS volume slider issue on Intel Macs. A simple workaroun
 This is one of the most well-known problem on the **Intel** version of macOS, where the volume slider bar that controls audio volume simply won't work, but only acts as a switch (happened to most replicas out there, though some were unaffected). While Apple themselves would never look into the problem, we can circumvent this with an [open sourced tool](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-This guide is meant for those that have Intel-based Macs (i3, i5, i7; not M series chip). If your Apple Silicon (M series chip) Mac won't play audio with your current AirReps, check out the [Common Bugs](/troubleshooting/other-common-bugs.md) section.
+This guide is meant for those that have Intel-based Macs (i3, i5, i7; not M series chip). If your Apple Silicon (M series chip) Mac won't play audio with your current AirReps, check out the [Common Bugs](/troubleshooting/other-common-bugs) section.
 :::
 
 ## **Prerequisite**

@@ -1,0 +1,48 @@
+# AirReps
+
+> AirReps is the largest community for AirPods replicas (clones). The AirReps Ultimate Guide covers which replica AirPods to buy, how to buy them, trusted sellers, version comparisons, features, sound quality, troubleshooting, and more. Available in 9 languages (English, Spanish, Portuguese, French, German, Turkish, Russian, Polish, Danish) at airpodsreplicas.com.
+
+AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs a Discord server and subreddit.
+
+## Guide
+
+- [Ultimate Guide Overview](https://airpodsreplicas.com/introduction/overview): Start here. Covers what replica AirPods are, why people buy them, and what to expect.
+- [Features](https://airpodsreplicas.com/introduction/features): ANC, Spatial Audio, in-ear detection, tap controls, iCloud Connect, and microphone quality.
+- [Sound Quality](https://airpodsreplicas.com/introduction/sound-quality): How replica AirPods sound compared to originals.
+- [Build Quality](https://airpodsreplicas.com/introduction/build-quality): Materials, weight, hinge quality, and case compatibility.
+- [Battery Life](https://airpodsreplicas.com/introduction/battery-life): Expected battery life across models.
+- [Connectivity](https://airpodsreplicas.com/introduction/connectivity): iOS popup, macOS issues, range, latency, multi-device support.
+- [ANC Explained](https://airpodsreplicas.com/introduction/anc-explained): How Active Noise Cancelling works on replicas.
+- [Packaging](https://airpodsreplicas.com/introduction/packaging): What to expect with packaging and box options.
+- [Sellers](https://airpodsreplicas.com/introduction/sellers): Verified vs. unverified sellers and how to avoid scams.
+- [Dictionary](https://airpodsreplicas.com/introduction/dictionary): Glossary of terms used in the replica AirPods community.
+
+## Version Comparisons
+
+- [General Version Info](https://airpodsreplicas.com/version-info/general): Overview of all versions, chipsets, and how to identify what you have.
+- [AirPods Pro 3](https://airpodsreplicas.com/version-info/airpods-pro-3): Latest model with Live Translation and iCloud Connect.
+- [AirPods Pro 2](https://airpodsreplicas.com/version-info/airpods-pro-2): Most popular model. V5.4 Huilian is the current best.
+- [AirPods Pro](https://airpodsreplicas.com/version-info/airpods-pro): First-gen Pro replicas.
+- [AirPods 4](https://airpodsreplicas.com/version-info/airpods-4): Open-ear design with ANC.
+- [AirPods 3](https://airpodsreplicas.com/version-info/airpods-3): Third-gen standard model.
+- [AirPods 2](https://airpodsreplicas.com/version-info/airpods-2): Budget entry-level replicas.
+- [AirPods Max](https://airpodsreplicas.com/version-info/airpods-max): Over-ear headphone replicas.
+
+## Buying
+
+- [How to Buy](https://airpodsreplicas.com/ordering/how-to-buy): Step-by-step ordering guide, payment methods, and tips.
+- [Purchase Links](https://airpodsreplicas.com/links/info): Direct links to trusted sellers for every model.
+- [Quality Control & Legit Check](https://airpodsreplicas.com/ordering/qc-lc): How to verify your product after purchase.
+
+## Troubleshooting
+
+- [Common Bugs](https://airpodsreplicas.com/troubleshooting/other-common-bugs): Fixes for the most common issues.
+- [macOS Volume Slider Fix](https://airpodsreplicas.com/troubleshooting/macOS-volume-slider-fixup): Fix for Intel Mac volume control issue.
+- [iCloud Incompatibility](https://airpodsreplicas.com/troubleshooting/AirReps-Incompatibility-with-iCloud): Resolving iCloud-related issues.
+
+## Tools and Community
+
+- [Useful Apps](https://airpodsreplicas.com/useful-apps): Essential firmware update apps for Airoha, Tigerbuilder, BES, HR, and Huilian chipsets.
+- [Quiz](https://airpodsreplicas.com/quiz): Interactive quiz to find the best replica for your needs and budget.
+- [Discord](https://airreps.link/discord): Join the community for live help.
+- [Reddit](https://airreps.link/reddit): r/AirReps subreddit.

@@ -18,7 +18,7 @@ Newer models feature additional capabilities:
 - **Live Translation** (AirPods Pro 3 V6)
 
 ::: details Can the settings be changed using an Android device?
-If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufacturers also have [their own Android apps](https://airpodsreplicas.com/useful-apps) that makes it possible to change these settings and more on Android devices.
+If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufacturers also have [their own Android apps](/useful-apps) that makes it possible to change these settings and more on Android devices.
 :::
 
 ## In-Ear Sensors
