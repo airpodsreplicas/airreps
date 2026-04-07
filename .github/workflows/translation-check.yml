@@ -34,7 +34,7 @@ jobs:
           ref: main # Always checkout latest main so a surviving queued run sees all pending changes
 
       - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
+        uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
 
