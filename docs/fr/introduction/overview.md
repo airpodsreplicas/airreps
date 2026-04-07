@@ -1,6 +1,6 @@
 ---
-title: Guide Ultime
-description: "Le Guide ultime AirReps couvre l'achat, l'utilisation et le dépannage des répliques d'AirPods."
+title: Ultimate Guide
+description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot replica AirPods."
 ---
 
 # Guide Ultime AirReps
@@ -15,21 +15,21 @@ Si vous cherchez simplement des liens pour acheter des répliques d'AirPods, [cl
 :::
 
 ::: tip Pas sûr quel modèle choisir ?
-Faites notre [quiz rapide](/fr/quiz) pour trouver la meilleure réplique d'AirPods selon vos besoins, appareil et budget.
+Faites notre [quiz rapide](/quiz) pour trouver la meilleure réplique d'AirPods selon vos besoins, appareil et budget.
 :::
 
 ## Ce que vous apprendrez
 
-Toutes les répliques d'AirPods ne se valent pas. Ce guide vous aide à identifier les répliques de haute qualité qui offrent une vraie valeur, couvrant des aspects essentiels comme la [qualité sonore](https://airpodsreplicas.com/introduction/sound-quality), l'[autonomie de la batterie](https://airpodsreplicas.com/introduction/battery-life) et la [connectivité](https://airpodsreplicas.com/introduction/connectivity).
+Toutes les répliques d'AirPods ne se valent pas. Ce guide vous aide à identifier les répliques de haute qualité qui offrent une vraie valeur, couvrant des aspects essentiels comme la [qualité sonore](/introduction/sound-quality), l'[autonomie de la batterie](/introduction/battery-life) et la [connectivité](/introduction/connectivity).
 
-Nous vous fournissons les connaissances et les outils pour distinguer entre les imitations bon marché et les répliques d'AirPods de qualité qui valent votre investissement. Consultez notre section [Informations de version](https://airpodsreplicas.com/version-info/general) pour comprendre les caractéristiques clés et éviter les pièges courants lors de l'achat de répliques d'AirPods.
+Nous vous fournissons les connaissances et les outils pour distinguer entre les imitations bon marché et les répliques d'AirPods de qualité qui valent votre investissement. Consultez notre section [Informations de version](/version-info/general) pour comprendre les caractéristiques clés et éviter les pièges courants lors de l'achat de répliques d'AirPods.
 
 Notre approche axée sur la communauté via [Discord](https://airreps.link/discord) garantit que vous restez informé des dernières mises à jour et pouvez prendre des décisions éclairées sur les répliques d'AirPods qui correspondent à vos besoins. Ce guide vous aide également à distinguer les répliques des AirPods authentiques lors d'un achat d'occasion, évitant ainsi les arnaques potentielles.
 
 ::: warning Avertissement
-Veuillez noter que les informations contenues dans ce guide sont destinées uniquement à des fins informatives et éducatives. Notre objectif est de fournir une ressource complète pour aider les utilisateurs à prendre des décisions éclairées, ainsi que pour éviter d'acheter sans le savoir des répliques d'Apple AirPods d'occasion. Nous ne sommes cependant pas responsables de la manière dont ces informations sont utilisées.
+Veuillez noter, les informations contenues dans ce guide sont destinées uniquement à des fins informatives et éducatives. Notre objectif est de fournir une ressource complète pour aider les utilisateurs à prendre des décisions éclairées, ainsi que pour éviter d'acheter sans le savoir des répliques d'Apple AirPods d'occasion. Nous ne sommes cependant pas responsables de la manière dont ces informations sont utilisées.
 
 Ce guide n'a pas pour but d'enfreindre les droits d'auteur ni d'approuver toute forme de violation de droits d'auteur. Tous les produits, marques et logos mentionnés sont la propriété de leurs propriétaires respectifs.
 
-Utilisez ces informations à vos propres risques. Nous déclinons toute responsabilité pour tout dommage ou perte, direct ou indirect, pouvant résulter de l'utilisation ou de la confiance accordée aux informations contenues dans ce guide.
+Utilisez les informations à vos propres risques. Nous déclinons toute responsabilité pour tout dommage ou perte, direct ou indirect, pouvant résulter de l'utilisation ou de la confiance accordée aux informations contenues dans ce guide.
 :::

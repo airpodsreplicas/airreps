@@ -1,6 +1,7 @@
 ---
 title: "¿Qué Réplica de AirPods Debería Comprar?"
 description: "Haz nuestro quiz rápido para encontrar la mejor réplica de AirPods según tus necesidades, dispositivo y presupuesto."
+ogLabel: "CUESTIONARIO"
 ---
 
 # ¿Qué Réplica de AirPods Debería Comprar?
@@ -10,5 +11,5 @@ description: "Haz nuestro quiz rápido para encontrar la mejor réplica de AirPo
 <Quiz />
 
 ::: tip ¿Aún no estás seguro?
-Consulta la [Guía Definitiva](/es/introduction/overview) para un desglose completo de cada versión, o únete a nuestro [Discord](https://discord.gg/airreps) para preguntar a la comunidad.
+Consulta la [Guía Definitiva](/introduction/overview) para un desglose completo de cada versión, o únete a nuestro [Discord](https://discord.gg/airreps) para preguntar a la comunidad.
 :::

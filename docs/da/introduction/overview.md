@@ -1,6 +1,6 @@
 ---
-title: Ultimativ Guide
-description: "AirReps Ultimative Guide dækker køb, brug og fejlfinding af AirPods-kopier."
+title: Ultimate Guide
+description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot replica AirPods."
 ---
 
 # AirReps Ultimativ Guide
@@ -15,14 +15,14 @@ Hvis du bare leder efter links til at købe AirPods-kopier, [klik her for at gå
 :::
 
 ::: tip Ikke sikker på hvilken model du skal vælge?
-Tag vores [hurtige quiz](/da/quiz) for at finde den bedste AirPods-replika til dine behov, enhed og budget.
+Tag vores [hurtige quiz](/quiz) for at finde den bedste AirPods-replika til dine behov, enhed og budget.
 :::
 
 ## Hvad Du Vil Lære
 
-Ikke alle AirPods-kopier er skabt lige. Denne guide hjælper dig med at identificere kopier af høj kvalitet, der leverer ægte værdi, og dækker væsentlige aspekter som [lydkvalitet](https://airpodsreplicas.com/introduction/sound-quality), [batterilevetid](https://airpodsreplicas.com/introduction/battery-life) og [tilslutning](https://airpodsreplicas.com/introduction/connectivity).
+Ikke alle AirPods-kopier er skabt lige. Denne guide hjælper dig med at identificere kopier af høj kvalitet, der leverer ægte værdi, og dækker væsentlige aspekter som [lydkvalitet](/introduction/sound-quality), [batterilevetid](/introduction/battery-life) og [tilslutning](/introduction/connectivity).
 
-Vi giver dig viden og værktøjer til at skelne mellem billige efterligninger og kvalitets AirPods-kopier, der er værd at investere i. Tjek vores [Version Info](https://airpodsreplicas.com/version-info/general) sektion for at forstå de vigtigste funktioner og undgå almindelige faldgruber, når du handler AirPods-kopier.
+Vi giver dig viden og værktøjer til at skelne mellem billige efterligninger og kvalitets AirPods-kopier, der er værd at investere i. Tjek vores [Version Info](/version-info/general) sektion for at forstå de vigtigste funktioner og undgå almindelige faldgruber, når du handler AirPods-kopier.
 
 Vores fællesskabsdrevne tilgang gennem [Discord](https://airreps.link/discord) sikrer, at du holder dig informeret med de seneste opdateringer og kan træffe velinformerede beslutninger om, hvilke AirPods-kopier der passer til dine behov. Denne guide hjælper dig også med at skelne kopier fra ægte AirPods, når du køber brugt, og forhindrer dermed potentielle svindelnumre.
 

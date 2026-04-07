@@ -1,6 +1,6 @@
 ---
-title: Kompletny Przewodnik
-description: "Kompletny przewodnik AirReps obejmuje zakup, użytkowanie i rozwiązywanie problemów z replikami AirPods."
+title: Ultimate Guide
+description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot replica AirPods."
 ---
 
 # Kompletny Przewodnik AirReps
@@ -15,14 +15,14 @@ Jeśli szukasz tylko linków do zakupu replik AirPods, [kliknij tutaj, aby przej
 :::
 
 ::: tip Nie wiesz, który model wybrać?
-Wypełnij nasz [krótki quiz](/pl/quiz), aby znaleźć najlepszą replikę AirPods dla Twoich potrzeb, urządzenia i budżetu.
+Wypełnij nasz [krótki quiz](/quiz), aby znaleźć najlepszą replikę AirPods dla Twoich potrzeb, urządzenia i budżetu.
 :::
 
 ## Czego się nauczysz
 
-Nie wszystkie repliki AirPods są sobie równe. Ten przewodnik pomoże Ci zidentyfikować wysokiej jakości repliki, które dostarczają prawdziwej wartości, obejmując kluczowe aspekty takie jak [jakość dźwięku](https://airpodsreplicas.com/introduction/sound-quality), [żywotność baterii](https://airpodsreplicas.com/introduction/battery-life) i [łączność](https://airpodsreplicas.com/introduction/connectivity).
+Nie wszystkie repliki AirPods są sobie równe. Ten przewodnik pomoże Ci zidentyfikować wysokiej jakości repliki, które dostarczają prawdziwej wartości, obejmując kluczowe aspekty takie jak [jakość dźwięku](/introduction/sound-quality), [żywotność baterii](/introduction/battery-life) i [łączność](/introduction/connectivity).
 
-Dajemy Ci wiedzę i narzędzia do rozróżniania tanich podróbek od jakościowych replik AirPods wartych inwestycji. Sprawdź naszą sekcję [Info o Wersjach](https://airpodsreplicas.com/version-info/general), aby zrozumieć kluczowe funkcje i uniknąć typowych pułapek przy zakupie replik AirPods.
+Dajemy Ci wiedzę i narzędzia do rozróżniania tanich podróbek od jakościowych replik AirPods wartych inwestycji. Sprawdź naszą sekcję [Info o Wersjach](/version-info/general), aby zrozumieć kluczowe funkcje i uniknąć typowych pułapek przy zakupie replik AirPods.
 
 Nasze podejście oparte na społeczności przez [Discord](https://airreps.link/discord) zapewnia, że będziesz na bieżąco z najnowszymi aktualizacjami i możesz podejmować świadome decyzje o tym, które repliki AirPods odpowiadają Twoim potrzebom. Ten przewodnik pomoże Ci również odróżnić repliki od oryginalnych AirPods przy zakupie używanych, zapobiegając potencjalnym oszustwom.
 
