@@ -39,7 +39,7 @@ jobs:
         run: bun --version
 
       - name: Setup GitHub Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v6
 
       - name: Install dependencies
         run: bun install
