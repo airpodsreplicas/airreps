@@ -95,7 +95,7 @@ jobs:
           '
 
       - name: Upload Combined File as Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           retention-days: 90
           path: ultimateguide.md
