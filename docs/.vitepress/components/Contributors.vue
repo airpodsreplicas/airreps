@@ -12,6 +12,8 @@ const titles: Record<string, string> = {
   'fr-FR': 'Créé par la communauté',
   'pl-PL': 'Stworzone przez społeczność',
   'ru-RU': 'Создано сообществом',
+  'de-DE': 'Von der Community erstellt',
+  'tr-TR': 'Topluluk tarafından oluşturuldu',
 };
 
 const subtitles: Record<string, string> = {
@@ -22,6 +24,8 @@ const subtitles: Record<string, string> = {
   'fr-FR': 'Ce guide est maintenu par des bénévoles passionnés qui aident les autres à prendre des décisions éclairées.',
   'pl-PL': 'Ten przewodnik jest utrzymywany przez wolontariuszy, którzy pomagają innym podejmować świadome decyzje.',
   'ru-RU': 'Это руководство поддерживается волонтёрами, которые помогают другим принимать осознанные решения.',
+  'de-DE': 'Dieser Leitfaden wird von Freiwilligen gepflegt, die anderen helfen möchten, fundierte Entscheidungen zu treffen.',
+  'tr-TR': 'Bu rehber, başkalarının bilinçli kararlar vermesine yardımcı olmak isteyen gönüllüler tarafından sürdürülmektedir.',
 };
 
 const title = computed(() => titles[lang.value] || titles['en-US']);
@@ -135,7 +139,7 @@ onMounted(async () => {
   padding: 4px 8px;
   font-size: 11px;
   font-weight: 500;
-  color: #fff;
+  color: var(--vp-c-bg);
   white-space: nowrap;
   content: attr(data-tooltip);
   background: var(--vp-c-text-1);
