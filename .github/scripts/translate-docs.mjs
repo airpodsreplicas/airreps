@@ -190,20 +190,30 @@ async function translateDocument(openai, sourcePath, targetPath, locale, languag
   return { changed: true, targetPath: relativeTargetPath };
 }
 
-const CONCURRENCY = 10;
+const CONCURRENCY = 5;
 
 async function runPool(tasks, concurrency) {
   const results = [];
+  const errors = [];
   let idx = 0;
 
   async function worker() {
     while (idx < tasks.length) {
       const i = idx++;
-      results[i] = await tasks[i]();
+      try {
+        results[i] = await tasks[i]();
+      } catch (err) {
+        console.error(`Task ${i} failed: ${err.message}`);
+        errors.push({ index: i, error: err.message });
+        results[i] = { changed: false, targetPath: `(failed task ${i})` };
+      }
     }
   }
 
   await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, () => worker()));
+  if (errors.length > 0) {
+    console.warn(`${errors.length} translation(s) failed but continuing with the rest.`);
+  }
   return results;
 }
 
