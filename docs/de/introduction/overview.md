@@ -1,6 +1,6 @@
 ---
 title: Ultimate Guide
-description: "Der AirReps Ultimate Guide behandelt Kauf, Nutzung und Fehlerbehebung von AirPods Replicas."
+description: "Der AirReps Ultimate Guide — vergleichen, kaufen und Fehler beheben bei Replica-AirPods."
 ---
 
 # AirReps Ultimate Guide

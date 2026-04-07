@@ -1,12 +1,12 @@
 ---
-title: Kapsamlı Rehber
-description: "AirReps Kapsamlı Rehber, replika AirPods satın alma, kullanma ve sorun giderme konularını kapsar."
+title: Ultimate Guide
+description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot replica AirPods."
 ---
 
 # AirReps Kapsamlı Rehber
 
 ## Genel Bakış
-Buradaysan muhtemelen bir çift AirPods satın almakla ilgileniyorsun ama pili tükenecek veya kaybolacak bir ürüne 150$+ harcamayı mantıklı bulamıyorsun. İşte bu noktada replika AirPods devreye giriyor - benzer işlevsellik ve performansı daha düşük bir fiyat noktasında sunuyorlar ve giderek daha popüler hale geliyorlar. İyi bakımla replika AirPods genellikle 3-4 yıl dayanır.
+Buradaysan muhtemelen bir çift AirPods satın almakla ilgileniyorsun ama pili tükenecek veya kaybolacak bir ürüne 150$+ harcamayı mantıklı bulamıyorsun. İşte bu noktada replika AirPods devreye giriyor — benzer işlevsellik ve performansı daha düşük bir fiyat noktasında sunuyorlar ve giderek daha popüler hale geliyorlar. İyi bakımla replika AirPods genellikle 3-4 yıl dayanır.
 
 Bu rehberi okuduktan sonra muhtemelen replika AirPods satın almanın Apple'dan almaya kıyasla daha uygun maliyetli ve eşit derecede uygulanabilir bir seçenek olduğunu göreceksin. **AirReps Kapsamlı Rehber**'de en iyi replika AirPods, nelere dikkat edilmesi gerektiği, nasıl satın alınacağı ve sorun giderme hakkında ayrıntılı bilgi sunuyoruz. Bu rehber en güncel bilgileri sağlamak için sürekli güncellenmektedir ve sürekli destek ve yardım almanın en iyi yolu [Discord topluluğumuza](https://airreps.link/discord) katılmaktır.
 
@@ -20,7 +20,7 @@ Yalnızca AirPods replikaları satın almak için link arıyorsan, [linkler böl
 
 ## Neler Öğreneceksin
 
-Tüm AirPods replikaları eşit yaratılmamıştır. Bu rehber, [ses kalitesi](/introduction/sound-quality), [pil ömrü](/introduction/battery-life) ve [bağlantı](/introduction/connectivity) gibi temel konuları kapsayarak gerçek değer sunan yüksek kaliteli replikaları belirlemenize yardımcı olur.
+Tüm AirPods replikaları eşit yaratılmamıştır. Bu rehber, [ses kalitesi](/introduction/sound-quality), [pil ömrü](/introduction/battery-life) ve [bağlantı](/introduction/connectivity) gibi temel konuları kapsayarak gerçek değer sunan yüksek kaliteli replikaları belirlemene yardımcı olur.
 
 Ucuz taklitler ile yatırımına değer kaliteli AirPods replikaları arasındaki farkı anlamak için gereken bilgi ve araçları sağlıyoruz. Replika AirPods alışverişi yaparken temel özellikleri anlamak ve yaygın tuzaklardan kaçınmak için [Versiyon Bilgileri](/version-info/general) bölümümüze göz at.
 
