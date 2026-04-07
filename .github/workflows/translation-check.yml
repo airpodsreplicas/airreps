@@ -32,6 +32,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: main # Always checkout latest main so a surviving queued run sees all pending changes
+          token: ${{ secrets.GH_PAT }} # Needed to push past branch protection
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
