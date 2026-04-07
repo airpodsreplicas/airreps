@@ -28,7 +28,7 @@ jobs:
   sync-translations:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
           ref: main # Always checkout latest main so a surviving queued run sees all pending changes
