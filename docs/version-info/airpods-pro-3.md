@@ -1,5 +1,5 @@
 ---
-description: "Compare AirPods Pro 3 replica versions by chip, features, and missing features."
+description: "Compare AirPods Pro 3 replica versions (V7, V6, V5.5) by chip, features, and missing features."
 ---
 
 # AirPods Pro 3
