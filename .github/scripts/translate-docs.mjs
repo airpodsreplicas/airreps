@@ -190,6 +190,23 @@ async function translateDocument(openai, sourcePath, targetPath, locale, languag
   return { changed: true, targetPath: relativeTargetPath };
 }
 
+const CONCURRENCY = 10;
+
+async function runPool(tasks, concurrency) {
+  const results = [];
+  let idx = 0;
+
+  async function worker() {
+    while (idx < tasks.length) {
+      const i = idx++;
+      results[i] = await tasks[i]();
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, () => worker()));
+  return results;
+}
+
 async function main() {
   const changedFiles = getChangedFiles().filter((file) => file.endsWith('.md'));
   const allChangedFiles = new Set(getAllChangedFiles().filter((file) => file.endsWith('.md')));
@@ -205,8 +222,9 @@ async function main() {
   }
 
   const openai = createClient();
-  const updates = [];
 
+  // Build task list for all file×locale combinations
+  const tasks = [];
   for (const file of changedFiles) {
     const relative = path.relative('docs', file);
     if (relative.startsWith('..') || hasLocalePrefix(relative)) {
@@ -225,13 +243,16 @@ async function main() {
         continue;
       }
 
-      console.log(`Translating ${file} -> docs/${locale}/${relative}`);
-      const result = await translateDocument(openai, sourcePath, targetPath, locale, language);
-      if (result.changed) {
-        updates.push(result.targetPath);
-      }
+      tasks.push(() => {
+        console.log(`Translating ${file} -> docs/${locale}/${relative}`);
+        return translateDocument(openai, sourcePath, targetPath, locale, language);
+      });
     }
   }
+
+  console.log(`Translating ${tasks.length} files with concurrency ${CONCURRENCY}...`);
+  const results = await runPool(tasks, CONCURRENCY);
+  const updates = results.filter((r) => r.changed).map((r) => r.targetPath);
 
   if (updates.length === 0) {
     console.log('Translations were already up to date.');
