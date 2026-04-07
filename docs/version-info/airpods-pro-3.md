@@ -17,4 +17,3 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 V7 is the first high-end AirPods Pro 3 replica featuring the new Huilian 377H3 chipset (a significant upgrade over the 247/277 series). It introduces a heart rate sensor, head gesture controls for answering calls, and upgraded AI Hybrid ANC. Build quality takes a leap with the Gen 6 original shell and hinge, full sealed-glue construction, and strong magnets. The 45mAh earbud battery provides around 7 hours of playback, and the 500mAh case delivers 3–4 full charges. This version also adds a low-latency gaming mode and press-to-capture photo support on iOS 26.
 
 For more on [ANC technology](/introduction/anc-explained), [sound quality](/introduction/sound-quality), and [build quality](/introduction/build-quality) across replicas, see the relevant guide sections. Ready to buy? Check our [purchase links](/links/airpods-pro-3) and [ordering guide](/ordering/how-to-buy).
-
