@@ -20,7 +20,7 @@ This table provides a summary of the most notable missing features for various A
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/version-info/airpods-pro-3) | <span class="version-badge">V6</span>   | Heartrate sensor, Higher-end build quality, Nodding gestures, Find My Network                                                                           |
+| [AirPods Pro 3](/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Network                                                                           |
 | [AirPods Gen 4](/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, Accurate Case SFX and more noticeable details                                                                           |
 | [AirPods Pro 2](/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfect Spatial Audio, Find My Network                                                                                                     |
 | [AirPods Gen 3](/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
@@ -51,7 +51,7 @@ AirPods Max replicas are now available and have become well-rounded replicas. Je
 :::
 
 ::: details Are AirPods Pro 3 reps available?
-AirPods Pro 3 replicas are available, but only mid-end versions have been released so far. There are no high-end versions from brands like TigerBuilder yet. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
+AirPods Pro 3 replicas are available. The V7 (Huilian 377H3) is the first high-end version, featuring a heart rate sensor, upgraded AI Hybrid ANC, and head gesture controls — purchase links are coming soon. The V6 is currently available from trusted sellers. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
 :::
 
 ::: details Why might similar communities have newer products than this guide?
