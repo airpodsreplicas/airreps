@@ -4,9 +4,9 @@ description: "Applications essentielles de mise à jour du firmware pour les ré
 
 # Applications Utiles
 
-La mise à jour du firmware de vos répliques peut souvent ajouter de nouvelles fonctionnalités, comme l'audio spatial, ou améliorer leur stabilité. Pour ce faire, vous pouvez utiliser diverses applications disponibles au téléchargement. Cependant, veuillez noter que **la plupart de ces applications ne sont disponibles que pour les appareils Android**.
+La mise à jour du firmware de vos répliques peut souvent ajouter de nouvelles fonctionnalités, comme l'audio spatial, ou améliorer leur stabilité. Pour ce faire, vous pouvez utiliser diverses applications disponibles au téléchargement. Cependant, veuillez noter que **la plupart de ces applications ne sont disponibles que pour les appareils Android**. Pour identifier quel chipset vos répliques utilisent, consultez les [tableaux comparatifs des versions](/version-info/general).
 
-Ci-dessous se trouvent des applications que vous pouvez télécharger pour vous aider, ainsi que les versions et chipsets de répliques qu'elles prennent en charge. Si vous avez des problèmes pour installer les applications qui ne sont pas sur le Play Store, assurez-vous d'activer « Installation depuis des sources inconnues » dans vos paramètres (dans la section Sécurité ou Accessibilité). Pour plus d'informations sur l'utilisation de ces applications et éviter les problèmes, visitez notre [Discord](https://airreps.link/discord).
+Ci-dessous se trouvent des applications que vous pouvez télécharger pour vous aider, ainsi que les versions et chipsets de répliques qu'elles prennent en charge. Si vous avez des problèmes pour installer les applications qui ne sont pas sur le Play Store, assurez-vous d'activer « Installation depuis des sources inconnues » dans vos paramètres (dans la section Sécurité ou Accessibilité). Ces applications peuvent également vous aider à ajuster la [qualité sonore](/introduction/sound-quality) via les paramètres d'égaliseur. Pour plus d'informations sur l'utilisation de ces applications et éviter les problèmes, visitez notre [Discord](https://airreps.link/discord).
 
 ## **Tigerbuilder**
 

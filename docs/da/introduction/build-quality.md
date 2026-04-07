@@ -13,11 +13,11 @@ Etuiet og propperne har generelt en god vægt. De fleste modeller matcher den n�
 ## Hængsel
 
 Nogle modeller bruger et plastikhængsel med metallisk maling, mens andre anvender et rigtigt metalhængsel. Nogle plastikhængsler kan føles billige, knirke, bevæge sig og mangle soliditet. Selvom de er brugbare, er de mærkbare sammenlignet med de originale AirPods. Metalhængsler føles betydeligt bedre.
-Det er vigtigt at vide, at alle kopier, der sælges i AirReps, har metalhængsler. Nogle enheder (såsom Huilian og HR<b>+</b>) bruger en næsten perfekt kopi af Apple-hængslet. På nuværende tidspunkt har HR+ dog nogle justeringsproblemer, så prisforskellen er måske ikke berettiget.
+Det er vigtigt at vide, at alle kopier, der sælges i AirReps, har metalhængsler. Nogle enheder (såsom Huilian og HR<b>+</b>) bruger en næsten perfekt kopi af Apple-hængslet. På nuværende tidspunkt har HR+ dog nogle justeringsproblemer, så prisforskellen er måske ikke berettiget. Se [AirPods Pro 2 versionssammenligningen](/da/version-info/airpods-pro-2) for detaljerede forskelle mellem TB, HR og Huilian builds.
 
 ## Tekst
 
-Teksten "Designed by Apple" på bagsiden bruger en skrifttype, der ligner originalen. Teksten inde i etuiet og ørepropperne ligner, men matcher ikke de originale AirPods præcist. Nogle partier har rigtige serienumre, mens andre ikke har. Tekstjustering og farve kan variere, nogle gange er den ikke helt lige eller kan være en lysere eller mørkere grå sammenlignet med originalerne. Kvaliteten af "Designed by Apple" teksten varierer efter sælger, hvor Hicitys lasergravering er mindre nøjagtig end Earhives og Jennys.
+Teksten "Designed by Apple" på bagsiden bruger en skrifttype, der ligner originalen. Teksten inde i etuiet og ørepropperne ligner, men matcher ikke de originale AirPods præcist. Nogle partier har rigtige serienumre, mens andre ikke har. Tekstjustering og farve kan variere, nogle gange er den ikke helt lige eller kan være en lysere eller mørkere grå sammenlignet med originalerne. Kvaliteten af "Designed by Apple" teksten varierer efter sælger, hvor Hicitys lasergravering er mindre nøjagtig end Earhives og Jennys. For mere om, hvordan man spotter disse forskelle, se vores [QC & LC guide](/da/ordering/qc-lc).
 :::tip
 Du kan anmode om tilpasset lasergravering ved at sende din foretrukne sælger en WhatsApp-besked med den tekst, du vil have graveret, sammen med dit ordrenummer. For mere specialiserede anmodninger som logoer eller detaljerede designs kan du sende dit yndlingskunstværk i .svg eller .png format til Jenny eller Earhive. Almindelig tekst og emojis kræver ikke disse filformater.
 :::

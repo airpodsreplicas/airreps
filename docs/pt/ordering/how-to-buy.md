@@ -10,11 +10,11 @@ Procurando comprar AirPods falsos? Este guia explica como adquirir réplicas com
 
 ## Como Comprar
 
-Recomendamos sempre comprar de [vendedores confiáveis](https://airpodsreplicas.com/pt/links/info). A maioria dos vendedores possui seus próprios sites que aceitam vários métodos de pagamento, incluindo [Cartão de Crédito](#nota-sobre-cartao-de-credito), [AliPay](#pagando-com-alipay), Revolut, Wise, Bitcoin e Transferência Bancária. Todos os vendedores também possuem lojas no Weidian acessíveis através de agentes como o [KakoBuy](https://airreps.link/kakobuy).
+Recomendamos sempre comprar de [vendedores confiáveis](/pt/links/info). A maioria dos vendedores possui seus próprios sites que aceitam vários métodos de pagamento, incluindo [Cartão de Crédito](#nota-sobre-cartao-de-credito), [AliPay](#pagando-com-alipay), Revolut, Wise, Bitcoin e Transferência Bancária. Todos os vendedores também possuem lojas no Weidian acessíveis através de agentes como o [KakoBuy](https://airreps.link/kakobuy).
 
 A comunidade AirReps recomenda múltiplos vendedores para evitar monopólio e incentivar a concorrência, o que beneficia os usuários. Cada vendedor oferece serviços exclusivos, controle de qualidade (QC), plataformas e preços diferenciados.
 
-Encomendar é simples: escolha o produto desejado e finalize a compra.
+Encomendar é simples: escolha o produto desejado e finalize a compra. Não sabe qual modelo escolher? Faça nosso [quiz rápido](/pt/quiz) ou compare as versões na seção de [informações de versão](/pt/version-info/general).
 
 ::: tip
 Pagamentos via Wise ou Transferência Bancária exigem revisão manual por parte do vendedor, o que pode levar até 24 horas antes que seu pedido seja processado.
@@ -41,7 +41,7 @@ Recomendamos as seguintes etapas:
 
 1. **Impostos**: Recomendamos apenas vendedores confiáveis que cuidam do IVA/Impostos antecipadamente para compradores europeus, para que você não precise pagar IVA quando o pacote chegar à UE.
 
-2. **Caixa do Produto**: Para uma caixa com os logotipos da Apple, solicite "with Apple box" em vez de "no logo box". No entanto, isso acarreta um risco maior de o pacote ser apreendido na alfândega e você não receber o reembolso. Não recomendamos esta opção, pois os AirPods internos são idênticos, independentemente da caixa. Se quiser correr o risco, pode solicitar a caixa com logotipos da Apple.
+2. **Caixa do Produto**: Para uma caixa com os logotipos da Apple, solicite "with Apple box" em vez de "no logo box". No entanto, isso acarreta um risco maior de o pacote ser apreendido na alfândega e você não receber o reembolso. Não recomendamos esta opção, pois os AirPods internos são idênticos, independentemente da caixa. Se quiser correr o risco, pode solicitar a caixa com logotipos da Apple. Saiba mais sobre os tipos de caixa em nosso [guia de embalagens](/pt/introduction/packaging).
 
 ::: warning
 Esta informação se aplica ao encomendar de vendedores que não sejam os sites oficiais HiCity ou Jenny. Se você encomendar através desses sites, não precisará se preocupar com declarações alfandegárias ou o tipo de caixa, pois isso será tratado automaticamente.
@@ -58,7 +58,7 @@ Informe aos vendedores que você é da comunidade AirReps. Isso garantirá que e
 ## Perguntas Frequentes (FAQ)
 
 ::: details Quais métodos de pagamento os vendedores aceitam?
-Vendedores confiáveis aceitam múltiplos métodos de pagamento, incluindo Cartões de Crédito, AliPay, Revolut, Wise, Transferência Bancária e Bitcoin. Todos os vendedores possuem lojas no Weidian acessíveis através de agentes como o [KakoBuy](https://airreps.link/kakobuy). Note que o PayPal não é suportado por nenhum vendedor no momento. As opções de pagamento podem variar conforme o vendedor — consulte a [tabela de métodos de pagamento](https://airpodsreplicas.com/pt/links/info#payment-methods) para um detalhamento detalhado.
+Vendedores confiáveis aceitam múltiplos métodos de pagamento, incluindo Cartões de Crédito, AliPay, Revolut, Wise, Transferência Bancária e Bitcoin. Todos os vendedores possuem lojas no Weidian acessíveis através de agentes como o [KakoBuy](https://airreps.link/kakobuy). Note que o PayPal não é suportado por nenhum vendedor no momento. As opções de pagamento podem variar conforme o vendedor — consulte a [tabela de métodos de pagamento](/pt/links/info#payment-methods) para um detalhamento detalhado.
 :::
 <span id="nota-sobre-cartao-de-credito"></span>
 ::: details Por que sou redirecionado para um site de criptomoedas ao pagar com Cartão de Crédito?

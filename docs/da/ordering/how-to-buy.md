@@ -1,20 +1,20 @@
 ---
-description: Lær om processen med at bestille AirPods-kopier fra forskellige sælgere, herunder tips om køb fra AliExpress/Alibaba, betalingsmetoder, skatter, produktæske-muligheder, ordrebekræftelse og forsendelsestimer. Udforsk forskellige betalingsmetoder, herunder kreditkort, AliPay, Revolut, Wise, Bitcoin, bankoverførsel og Weidian gennem agenter.
+description: Bestil AirPods-kopier sikkert. Betalingsmetoder, betroede sælgere, forsendelsestips og undgåelse af svindel.
 ---
 
 # Bestilling
 
 ::: info
-Leder du efter at købe falske AirPods? Denne guide forklarer sikker sourcing og kvalitetstjek for kopier.
+Leder du efter at købe AirPods-kopier? Denne guide dækker sikker sourcing, betalingsmetoder og hvad du skal tjekke ved bestilling.
 :::
 
 ## Sådan Køber Du
 
-Vi anbefaler altid at købe fra [betroede sælgere](https://airpodsreplicas.com/da/links/info). De fleste sælgere har deres egne hjemmesider, der accepterer forskellige betalingsmetoder, herunder [Kreditkort](#kreditkort-note), [AliPay](#betaling-med-alipay), Revolut, Wise, Bitcoin og Bankoverførsel. Alle sælgere har også Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy).
+Vi anbefaler altid at købe fra [betroede sælgere](/da/links/info). De fleste sælgere har deres egne hjemmesider, der accepterer forskellige betalingsmetoder, herunder [Kreditkort](#kreditkort-note), [AliPay](#betaling-med-alipay), Revolut, Wise, Bitcoin og Bankoverførsel. Alle sælgere har også Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy).
 
 AirReps-fællesskabet anbefaler flere sælgere for at undgå monopol og fremme konkurrence, hvilket gavner brugerne. Hver sælger tilbyder unikke tjenester, kvalitetskontrol (QC), platforme og priser.
 
-Bestilling er simpelt: vælg det produkt, du ønsker, og gennemfør købet.
+Bestilling er simpelt: vælg det produkt, du ønsker, og gennemfør købet. Ikke sikker på hvilken model? Tag vores [hurtige quiz](/da/quiz) eller sammenlign versioner i afsnittet [versionsinfo](/da/version-info/general).
 
 ::: tip
 Betalinger via Wise eller Bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer, før din ordre behandles.
@@ -44,7 +44,7 @@ Vi anbefaler følgende trin:
 
 1. **Skatter**: Vi anbefaler kun betroede sælgere, der tager sig af moms/skatter på forhånd for europæiske købere, så du ikke skal betale moms, når pakken ankommer til EU.
 
-2. **Produktæske**: For en æske med Apple-logoer, anmod om "med Apple-æske" i stedet for "no logo-æske". Dog medfører dette en højere risiko for, at pakken beslaglægges i tolden, og du ikke får en refundering. Vi anbefaler ikke denne mulighed, da AirPods indeni er identiske uanset æsken. Hvis du vil tage risikoen, kan du anmode om en æske med Apple-logoer.
+2. **Produktæske**: For en æske med Apple-logoer, anmod om "med Apple-æske" i stedet for "no logo-æske". Dog medfører dette en højere risiko for, at pakken beslaglægges i tolden, og du ikke får en refundering. Vi anbefaler ikke denne mulighed, da AirPods indeni er identiske uanset æsken. Hvis du vil tage risikoen, kan du anmode om en æske med Apple-logoer. Lær mere om æsketyper i vores [emballageguide](/da/introduction/packaging).
 
 ::: warning
 Denne information gælder ved bestilling fra andre sælgere end HiCity eller Jenny AirReps-hjemmesiden. Hvis du bestiller fra disse hjemmesider, behøver du ikke bekymre dig om toldangivelser eller æsketypen, da de håndteres automatisk.
@@ -61,7 +61,7 @@ Lad sælgerne vide, at du er fra AirReps-fællesskabet. Dette vil sikre, at de g
 ## FAQ
 
 ::: details Hvilke betalingsmetoder accepterer betroede sælgere?
-Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy). Bemærk at PayPal i øjeblikket ikke understøttes af nogen sælger. Betalingsmuligheder kan variere efter sælger—se [betalingsmetode-tabellen](https://airpodsreplicas.com/da/links/info#betalingsmetoder) for en detaljeret oversigt.
+Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy). Bemærk at PayPal i øjeblikket ikke understøttes af nogen sælger. Betalingsmuligheder kan variere efter sælger—se [betalingsmetode-tabellen](/da/links/info#payment-methods) for en detaljeret oversigt.
 :::
 <span id="kreditkort-note"></span>
 ::: details Hvorfor bliver jeg omdirigeret til en krypto-hjemmeside, når jeg betaler via kreditkort?

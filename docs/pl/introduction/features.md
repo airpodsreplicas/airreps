@@ -1,15 +1,15 @@
 ---
-description: "Funkcje: zmiana nazwy, GPS, czujniki ucha, dotyk i mikrofon."
+description: "Przegląd funkcji: ANC, Spatial Audio, wykrywanie w uchu, sterowanie i jakość mikrofonu."
 translationStatus: machine-translated
 ---
 
 # Funkcje
 
-Klony AirPods oferują szereg funkcji, które naśladują te w oryginalnych AirPods.
+Klony AirPods oferują szereg funkcji, które naśladują te w oryginalnych AirPods. Szczegółowe porównanie funkcji poszczególnych wersji znajdziesz w [tabeli porównawczej wersji](/pl/version-info/general).
 
 ## Obsługiwane Funkcje
 
-Wszystkie obecne modele klonów AirPods obsługują zmianę nazwy, GPS i zmianę sterowania dotykowego (tylko iOS i macOS). Wiele modeli obsługuje również Spatial Audio, Audio Share i Live Listen (wszystko tylko iOS i macOS). Tryb Transparency i Aktywna Redukcja Szumów (ANC) są dostępne na modelach AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4 i AirPods Max. ANC na tych klonach jest bardzo zbliżone do oryginalnych AirPods jak pokazano w wielu recenzjach, ale nie jest identyczne.
+Wszystkie obecne modele klonów AirPods obsługują zmianę nazwy, GPS i zmianę sterowania dotykowego (tylko iOS i macOS). Wiele modeli obsługuje również Spatial Audio, Audio Share i Live Listen (wszystko tylko iOS i macOS). Tryb Transparency i [Aktywna Redukcja Szumów (ANC)](/pl/introduction/anc-explained) są dostępne na modelach AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4 i AirPods Max. ANC na tych klonach jest bardzo zbliżone do oryginalnych AirPods jak pokazano w wielu recenzjach, ale nie jest identyczne.
 
 Nowsze modele mają dodatkowe funkcje:
 - **Ładowanie USB-C** (AirPods Pro 2 V5.1+, AirPods Pro 3, AirPods 4, AirPods Max V3)
@@ -19,7 +19,7 @@ Nowsze modele mają dodatkowe funkcje:
 - **Live Translation** (AirPods Pro 3 V6)
 
 ::: details Czy ustawienia można zmienić za pomocą urządzenia Android?
-Jeśli używasz Androida, możesz dokonać wszystkich zmian ustawień dotykowych na iPhonie na [https://airreps.info/iossettings](https://airreps.info/iossettings). Te zmiany powinny przenieść się na twojego Androida, chociaż czasami to nie działa. Niektórzy producenci mają również [własne aplikacje na Androida](https://airpodsreplicas.com/pl/useful-apps), które pozwalają zmieniać te ustawienia i więcej na urządzeniach Android.
+Jeśli używasz Androida, możesz dokonać wszystkich zmian ustawień dotykowych na iPhonie na [https://airreps.info/iossettings](https://airreps.info/iossettings). Te zmiany powinny przenieść się na twojego Androida, chociaż czasami to nie działa. Niektórzy producenci mają również [własne aplikacje na Androida](/pl/useful-apps), które pozwalają zmieniać te ustawienia i więcej na urządzeniach Android.
 :::
 
 ## Czujniki W Uchu
@@ -34,7 +34,7 @@ Klony AirPods Pro 2 (V5.3TB i nowsze) mają konfigurację czujnika siły, która
 :::
 ## Jakość Mikrofonu
 
-Jakość mikrofonu na klonach jest użyteczna i jest bardzo porównywalna z oryginalnym AirPods. Są wystarczająco dobre do rozmów, ale jak Apple AirPods nie są imponujące ze względu na ich mały rozmiar.
+Jakość mikrofonu na klonach jest użyteczna i jest bardzo porównywalna z oryginalnym AirPods. Są wystarczająco dobre do rozmów, ale jak Apple AirPods nie są imponujące ze względu na ich mały rozmiar. Więcej o wydajności dźwięku znajdziesz w sekcji [jakość dźwięku](/pl/introduction/sound-quality).
 
 ::: tip
 Najnowsze klony AirPods Pro 2 (V5.4 i V5.3 Huilian, HR & TB) mają jakość mikrofonu porównywalną z oryginalnymi AirPods.

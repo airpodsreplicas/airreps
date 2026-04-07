@@ -5,7 +5,7 @@ description: "Compare versões de réplicas AirPods Pro 2 por chip, recursos e r
 # AirPods Pro 2
 
 ::: tip
-Os fabricantes estão mudando gradualmente o foco de desenvolvimento para modelos mais novos. As réplicas de AirPods Pro 2 continuam sendo produtos excelentes e ainda são a opção mais madura e completa em termos de recursos na linha Pro. Se você estiver interessado nos desenvolvimentos mais recentes, também pode conferir os [AirPods Pro 3](/version-info/airpods-pro-3).
+Os fabricantes estão mudando gradualmente o foco de desenvolvimento para modelos mais novos. As réplicas de AirPods Pro 2 continuam sendo produtos excelentes e ainda são a opção mais madura e completa em termos de recursos na linha Pro. Se você estiver interessado nos desenvolvimentos mais recentes, confira os [AirPods Pro 3](/pt/version-info/airpods-pro-3) — o novo V7 introduz sensor de frequência cardíaca e ANC aprimorado.
 :::
 
 Clique no link na coluna 'Versão' para encontrar análises do modelo correspondente.
@@ -23,7 +23,7 @@ Clique no link na coluna 'Versão' para encontrar análises do modelo correspond
 
 ## Diferenças da Versão V5.4:
 
-Esta versão é apenas uma atualização para os modelos Huilian e possui algumas melhorias. O desempenho do ANC foi aprimorado e a estabilidade parece estar melhor. Em termos de hardware, nada mudou realmente, exceto o chipset. Essas atualizações parecem ser mais voltadas a atualizações de firmware que serão restritas a esta nova unidade.
+Esta versão é apenas uma atualização para os modelos Huilian e possui algumas melhorias. O desempenho do [ANC](/pt/introduction/anc-explained) foi aprimorado e a estabilidade parece estar melhor. Em termos de hardware, nada mudou realmente, exceto o chipset. Essas atualizações parecem ser mais voltadas a atualizações de firmware que serão restritas a esta nova unidade. Pronto para comprar? Confira nossos [links de compra](/pt/links/airpods-pro-2) e [guia de encomendas](/pt/ordering/how-to-buy).
 
 
 ## Diferenças da Versão V5.3:

@@ -11,11 +11,11 @@ Szukasz fałszywych AirPods do kupienia? Ten przewodnik wyjaśnia bezpieczne poz
 
 ## Jak Kupować
 
-Zawsze zalecamy kupowanie od [zaufanych sprzedawców](https://airpodsreplicas.com/pl/links/info). Większość sprzedawców ma własne strony internetowe, które akceptują różne metody płatności, w tym [Kartę Kredytową](#uwaga-o-karcie-kredytowej), [AliPay](#platnosc-przez-alipay), Revolut, Wise, Bitcoin i Przelew Bankowy. Wszyscy sprzedawcy mają również sklepy Weidian dostępne przez agentów jak [KakoBuy](https://airreps.link/kakobuy).
+Zawsze zalecamy kupowanie od [zaufanych sprzedawców](/pl/links/info). Większość sprzedawców ma własne strony internetowe, które akceptują różne metody płatności, w tym [Kartę Kredytową](#uwaga-o-karcie-kredytowej), [AliPay](#platnosc-przez-alipay), Revolut, Wise, Bitcoin i Przelew Bankowy. Wszyscy sprzedawcy mają również sklepy Weidian dostępne przez agentów jak [KakoBuy](https://airreps.link/kakobuy).
 
 Społeczność AirReps poleca kilku sprzedawców, aby uniknąć monopolu i promować konkurencję, co korzysta użytkownikom. Każdy sprzedawca oferuje unikalne usługi, kontrolę jakości (QC), platformy i ceny.
 
-Zamawianie jest proste: wybierz produkt, który chcesz, i dokonaj zakupu.
+Zamawianie jest proste: wybierz produkt, który chcesz, i dokonaj zakupu. Nie wiesz, który model wybrać? Wypełnij nasz [szybki quiz](/pl/quiz) lub porównaj wersje w sekcji [informacje o wersjach](/pl/version-info/general).
 
 ::: tip
 Płatności przez Wise lub Przelew Bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może zająć do 24 godzin przed przetworzeniem zamówienia.
@@ -45,7 +45,7 @@ Zalecamy następujące kroki:
 
 1. **Podatki**: Polecamy tylko zaufanych sprzedawców, którzy zajmują się VAT/podatkami z góry dla europejskich kupujących, więc nie będziesz musiał płacić VAT przy dostawie paczki do UE.
 
-2. **Pudełko Produktu**: Dla pudełka z logo Apple, poproś o "z pudełkiem Apple" zamiast "pudełko bez logo". Jednak wiąże się to z wyższym ryzykiem konfiskaty paczki przez celników bez zwrotu pieniędzy. Nie zalecamy tej opcji, ponieważ AirPods wewnątrz są identyczne niezależnie od pudełka. Jeśli chcesz podjąć ryzyko, możesz poprosić o pudełko z logo Apple.
+2. **Pudełko Produktu**: Dla pudełka z logo Apple, poproś o "z pudełkiem Apple" zamiast "pudełko bez logo". Jednak wiąże się to z wyższym ryzykiem konfiskaty paczki przez celników bez zwrotu pieniędzy. Nie zalecamy tej opcji, ponieważ AirPods wewnątrz są identyczne niezależnie od pudełka. Jeśli chcesz podjąć ryzyko, możesz poprosić o pudełko z logo Apple. Dowiedz się więcej o rodzajach pudełek w naszym [przewodniku po opakowaniach](/pl/introduction/packaging).
 
 ::: warning
 Te informacje dotyczą zamawiania od sprzedawców innych niż strony HiCity lub Jenny AirReps. Jeśli zamawiasz z tych stron, nie musisz się martwić o deklaracje celne ani typ pudełka, ponieważ są one obsługiwane automatycznie.
@@ -62,7 +62,7 @@ Poinformuj sprzedawców, że jesteś ze społeczności AirReps. To zapewni, że 
 ## FAQ
 
 ::: details Jakie metody płatności akceptują zaufani sprzedawcy?
-Zaufani sprzedawcy akceptują wiele metod płatności, w tym kartę kredytową, AliPay, Revolut, Wise, przelew bankowy i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów jak [KakoBuy](https://airreps.link/kakobuy). Zauważ, że PayPal obecnie nie jest obsługiwane przez żadnego sprzedawcę. Opcje płatności mogą się różnić w zależności od sprzedawcy—zobacz [tabelę metod płatności](https://airpodsreplicas.com/pl/links/info#metody-platnosci) dla szczegółowego zestawienia.
+Zaufani sprzedawcy akceptują wiele metod płatności, w tym kartę kredytową, AliPay, Revolut, Wise, przelew bankowy i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów jak [KakoBuy](https://airreps.link/kakobuy). Zauważ, że PayPal obecnie nie jest obsługiwane przez żadnego sprzedawcę. Opcje płatności mogą się różnić w zależności od sprzedawcy—zobacz [tabelę metod płatności](/pl/links/info#payment-methods) dla szczegółowego zestawienia.
 :::
 <span id="uwaga-o-karcie-kredytowej"></span>
 ::: details Dlaczego jestem przekierowywany na stronę krypto przy płatności kartą kredytową?

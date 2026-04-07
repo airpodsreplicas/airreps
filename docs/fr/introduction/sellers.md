@@ -15,16 +15,16 @@ Il existe de nombreux vendeurs de répliques d'AirPods disponibles, mais la meil
 Bien que vous puissiez trouver des vendeurs sur des sites e-commerce chinois comme AliExpress ou DHgate, les avis sur ces plateformes ne sont pas toujours impartiaux ou légitimes. Acheter auprès de vendeurs non vérifiés comporte plus de risques, car la qualité des produits et le service client peuvent varier considérablement. Si vous achetez auprès d'un vendeur non vérifié et rencontrez des problèmes, veuillez partager votre expérience avec notre équipe.
 
 ::: tip
-Trouvez une [liste de vendeurs vérifiés et réputés par la communauté ici](https://airpodsreplicas.com/fr/links/info).
+Trouvez une [liste de vendeurs vérifiés et réputés par la communauté ici](/links/info).
 :::
 
 ::: tip
-Pour la meilleure expérience, nous recommandons fortement d'acheter auprès de nos [vendeurs de confiance vérifiés par la communauté](https://airpodsreplicas.com/fr/links/info). Ils ont des antécédents prouvés et fournissent des produits fiables avec un bon service client.
+Pour la meilleure expérience, nous recommandons fortement d'acheter auprès de nos [vendeurs de confiance vérifiés par la communauté](/links/info). Ils ont des antécédents prouvés et fournissent des produits fiables avec un bon service client.
 :::
 
 ## Revendeurs et Leurs Pratiques
 
-Certains revendeurs proposent des répliques d'AirPods à des prix plus élevés, parfois avec des services supplémentaires comme des garanties, une protection acheteur ou une expédition accélérée. Cependant, ces services ont un coût premium, et un prix plus élevé ne garantit pas nécessairement un meilleur produit. Les vendeurs de confiance que nous recommandons offrent généralement des produits de même qualité ou meilleure à des prix plus compétitifs.
+Certains revendeurs proposent des répliques d'AirPods à des prix plus élevés, parfois avec des services supplémentaires comme des garanties, une protection acheteur ou une expédition accélérée. Cependant, ces services ont un coût premium, et un prix plus élevé ne garantit pas nécessairement un meilleur produit. Les vendeurs de confiance que nous recommandons offrent généralement des produits de même qualité ou meilleure à des prix plus compétitifs. Pour un guide étape par étape sur la passation d'une commande, consultez [comment acheter](/ordering/how-to-buy).
 
 ::: tip
 Nos vendeurs de confiance recommandés offrent un excellent rapport qualité-prix. Bien que les revendeurs puissent offrir des services supplémentaires, vous pouvez souvent obtenir les mêmes produits directement auprès des vendeurs de confiance à de meilleurs prix.

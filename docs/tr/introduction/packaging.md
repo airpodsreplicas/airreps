@@ -49,8 +49,8 @@ Kutu kalitesi senin için önemliyse her zaman fotoğraf iste.
 
 ## Taşıma ve Kargo
 
-Kutu veya paketleme, satıcıdan değil uluslararası ve yerel kargo firmaları tarafından yapılan taşıma nedeniyle hafif ezik veya kırışık gelebilir.
+Kutu veya paketleme, satıcıdan değil uluslararası ve yerel kargo firmaları tarafından yapılan taşıma nedeniyle hafif ezik veya kırışık gelebilir. Sipariş süreci ve kargo beklentileri hakkında ipuçları için [nasıl satın alınır](/ordering/how-to-buy) rehberine bak.
 
 ## Şarj Kablosu
 
-Dahil edilen şarj kablosu, diğer birçok USB kablosu gibi veri aktarımını desteklemeyebilir. Satıcılar maliyetleri düşürmek için genellikle gerçek çalışan pinler yerine sahte pinli kablolar kullanır.
+Dahil edilen şarj kablosu, diğer birçok USB kablosu gibi veri aktarımını desteklemeyebilir. [Satıcılar](/introduction/sellers) maliyetleri düşürmek için genellikle gerçek çalışan pinler yerine sahte pinli kablolar kullanır.

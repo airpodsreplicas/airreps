@@ -5,7 +5,7 @@ description: "Sammenlign AirPods Pro 2-kopier efter chip, funktioner og manglend
 # AirPods Pro 2
 
 ::: tip
-Producenter skifter langsomt udviklingsfokus til nyere modeller. AirPods Pro 2-kopier forbliver fremragende produkter og er stadig den mest modne og funktionskomplette mulighed i Pro-serien. Hvis du er interesseret i den seneste udvikling, kan du også tjekke [AirPods Pro 3](/version-info/airpods-pro-3).
+Producenter skifter langsomt udviklingsfokus til nyere modeller. AirPods Pro 2-kopier forbliver fremragende produkter og er stadig den mest modne og funktionskomplette mulighed i Pro-serien. Hvis du er interesseret i den seneste udvikling, tjek [AirPods Pro 3](/da/version-info/airpods-pro-3) — den nye V7 introducerer en pulssensor og opgraderet ANC.
 :::
 
 Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne model.
@@ -23,7 +23,7 @@ Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne
 
 ## V5.4 Versionsforskelle:
 
-Denne version er kun en opgradering for Huilian-modeller; den har et par forbedringer. ANC-ydeevne er forbedret, og stabiliteten ser ud til at være bedre. Hardware-mæssigt er intet virkelig ændret, bortset fra chipsettet. Disse opgraderinger ser ud til at være mere nogle firmwareopdateringer, der vil være begrænset til denne nye enhed.
+Denne version er kun en opgradering for Huilian-modeller; den har et par forbedringer. [ANC](/da/introduction/anc-explained)-ydeevne er forbedret, og stabiliteten ser ud til at være bedre. Hardware-mæssigt er intet virkelig ændret, bortset fra chipsettet. Disse opgraderinger ser ud til at være mere nogle firmwareopdateringer, der vil være begrænset til denne nye enhed. Klar til at købe? Tjek vores [købslinks](/da/links/airpods-pro-2) og [bestillingsguide](/da/ordering/how-to-buy).
 
 
 ## V5.3 Versionsforskelle:

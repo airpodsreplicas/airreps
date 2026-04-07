@@ -5,10 +5,10 @@ description: "Compara las versiones de réplicas de AirPods Pro por chip, caract
 # AirPods Pro
 
 ::: tip
-This product line is no longer being actively updated by manufacturers, as development has shifted to newer models. AirPods Pro replicas are still excellent products and remain popular choices. If you're looking for the latest features and improvements, consider checking out [AirPods Pro 2](/version-info/airpods-pro-2) or [AirPods Pro 3](/version-info/airpods-pro-3).
+Esta línea de productos ya no está siendo actualizada activamente por los fabricantes, ya que el desarrollo se ha trasladado a modelos más nuevos. Las réplicas de AirPods Pro siguen siendo excelentes productos y continúan siendo opciones populares. Si buscas las últimas características y mejoras, considera revisar [AirPods Pro 2](/version-info/airpods-pro-2) o [AirPods Pro 3](/version-info/airpods-pro-3).
 :::
 
-Click the hyper-link on the 'Version' column to find reviews for the given model.
+Haz clic en el hipervínculo de la columna 'Versión' para encontrar reseñas del modelo dado. Para enlaces de compra, consulta [enlaces de AirPods Pro](/links/airpods-pro). Para conocer sobre [tecnología ANC](/introduction/anc-explained) y [características](/introduction/features), revisa las secciones de la guía.
 
 | Version                                                              | Chip                        | Has Features                                                                                                                                                                                                      | Missing Features                                                                                                                                              |
 |----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 
 
 ::: tip
-Older pro clone models have been removed from the list as we do not encourage anyone to buy older versions than these.
+Los modelos más antiguos de clones Pro han sido eliminados de la lista ya que no animamos a nadie a comprar versiones más antiguas que estas.
 :::
 
 **Por favor ten en cuenta** que los siguientes modelos están **descontinuados**:

@@ -8,7 +8,7 @@ AirPods replikalarının bağlantı özelliklerini anlamak, bilinçli bir satın
 
 ## iOS Açılır Penceresi
 
-iOS açılır penceresi AirPods replikalarında neredeyse anında görünür, ancak hız satıcıya ve partiye göre değişebilir. Bazı durumlarda açılır pencere orijinal AirPods'tan daha hızlı görünebilir.
+iOS açılır penceresi AirPods replikalarında neredeyse anında görünür, ancak hız [satıcıya](/introduction/sellers) ve partiye göre değişebilir. Bazı durumlarda açılır pencere orijinal AirPods'tan daha hızlı görünebilir.
 
 ## macOS Bağlantısı
 
@@ -32,4 +32,4 @@ iCloud Connect üzerinden çoklu cihaz bağlantısı yalnızca 5.3 ve 5.4 Huilia
 
 ## iOS Cihazlarla İlk Bağlantı
 
-Bazı durumlarda AirPods replikaları başlangıçta iOS cihazlara bağlanamayabilir. Ancak bu sorun için genellikle bir çözüm mevcuttur. Daha fazla bilgi için Sorun Giderme bölümüne bakınız.
+Bazı durumlarda AirPods replikaları başlangıçta iOS cihazlara bağlanamayabilir. Ancak bu sorun için genellikle bir çözüm mevcuttur. Sıfırlama prosedürleri için [Yaygın Sorunlar](/troubleshooting/other-common-bugs) bölümüne bak veya sorun macOS eşleştirmesiyle ilgiliyse [iCloud uyumluluk düzeltmesine](/troubleshooting/AirReps-Incompatibility-with-iCloud) bak.

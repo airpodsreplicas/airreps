@@ -5,7 +5,7 @@ translationStatus: machine-translated
 
 # QC & LC
 
-Witaj! Jeśli tu jesteś, prawdopodobnie chcesz sprawdzić jakość swoich klonów AirPods lub rozważasz zakup oryginalnych. Ta sekcja poprowadzi Cię w rozróżnianiu między detalicznymi a klonowanymi AirPods, od prostych do zaawansowanych metod. Jeśli oferta wydaje się zbyt dobra, aby była prawdziwa, prawdopodobnie taka jest.
+Witaj! Jeśli tu jesteś, prawdopodobnie chcesz sprawdzić jakość swoich klonów AirPods lub rozważasz zakup oryginalnych. Ta sekcja poprowadzi Cię w rozróżnianiu między detalicznymi a klonowanymi AirPods, od prostych do zaawansowanych metod. Jeśli oferta wydaje się zbyt dobra, aby była prawdziwa, prawdopodobnie taka jest. Więcej o jakości wykonania replik znajdziesz w przewodniku [jakość wykonania](/pl/introduction/build-quality).
 
 ::: tip
 Ta sekcja była kiedyś bardziej szczegółowa, ale w miarę jak klony stały się bardziej wyrafinowane, rozróżnienie między prawdziwymi a fałszywymi AirPods jest coraz trudniejsze. Naszą najlepszą radą dla zapewnienia autentyczności jest kupowanie AirPods od renomowanego sprzedawcy.

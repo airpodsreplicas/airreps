@@ -1,5 +1,5 @@
 ---
-description: "Últimas versiones de réplicas de AirPods Pro 3 y enlaces a vendedores confiables."
+description: "¡Réplicas de AirPods Pro 3 ya disponibles! Encuentra las últimas versiones de réplicas de AirPods Pro 3 y enlaces a vendedores confiables."
 ---
 
 # AirPods Pro 3
@@ -12,6 +12,24 @@ description: "Últimas versiones de réplicas de AirPods Pro 3 y enlaces a vende
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
+  </tr>
+  <tr>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td>
+      <div class="link-column">
+        Próximamente
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Próximamente
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Próximamente
+      </div>
+    </td>
   </tr>
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>

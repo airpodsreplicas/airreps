@@ -1,14 +1,14 @@
 ---
-description: "Recursos: troca de nome, GPS, sensores e comandos de toque." 
+description: "Recursos: ANC, Áudio Espacial, detecção intra-auricular, controles e qualidade do microfone." 
 ---
 
 # Recursos
 
-As réplicas de AirPods oferecem uma variedade de recursos que imitam os dos AirPods originais.
+As réplicas de AirPods oferecem uma variedade de recursos que imitam os dos AirPods originais. Para uma comparação detalhada do que cada versão oferece, veja a [tabela de comparação de versões](/pt/version-info/general).
 
 ## Recursos Suportados
 
-Todos os modelos atuais de réplicas de AirPods suportam alteração de nome, GPS e alteração dos controles de toque (apenas iOS e macOS). Muitos modelos também suportam Áudio Espacial, Compartilhamento de Áudio e ouvir ao vivo (Live Listen) (todos apenas no iOS e macOS). O modo Transparência e o Cancelamento de Ruído Ativo (ANC) estão disponíveis nos modelos AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4 e AirPods Max. O ANC nestas réplicas é muito próximo ao dos AirPods originais, como mostrado em muitas análises, mas não é 1:1.
+Todos os modelos atuais de réplicas de AirPods suportam alteração de nome, GPS e alteração dos controles de toque (apenas iOS e macOS). Muitos modelos também suportam Áudio Espacial, Compartilhamento de Áudio e ouvir ao vivo (Live Listen) (todos apenas no iOS e macOS). O modo Transparência e o [Cancelamento de Ruído Ativo (ANC)](/pt/introduction/anc-explained) estão disponíveis nos modelos AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4 e AirPods Max. O ANC nestas réplicas é muito próximo ao dos AirPods originais, como mostrado em muitas análises, mas não é 1:1.
 
 Modelos mais novos apresentam capacidades adicionais:
 - **Carregamento USB-C** (AirPods Pro 2 V5.1+, AirPods Pro 3, AirPods 4, AirPods Max V3)
@@ -18,7 +18,7 @@ Modelos mais novos apresentam capacidades adicionais:
 - **Tradução ao Vivo** (AirPods Pro 3 V6)
 
 ::: details As configurações podem ser alteradas usando um dispositivo Android?
-Se você usa Android, pode fazer todas as alterações de configurações de toque em um iPhone em [https://airreps.info/iossettings](https://airreps.info/iossettings). Essas alterações devem ser mantidas no seu Android, embora às vezes isso não funcione. Alguns fabricantes também possuem [seus próprios aplicativos para Android](https://airpodsreplicas.com/pt/useful-apps) que possibilitam alterar essas configurações e muito mais em dispositivos Android.
+Se você usa Android, pode fazer todas as alterações de configurações de toque em um iPhone em [https://airreps.info/iossettings](https://airreps.info/iossettings). Essas alterações devem ser mantidas no seu Android, embora às vezes isso não funcione. Alguns fabricantes também possuem [seus próprios aplicativos para Android](/pt/useful-apps) que possibilitam alterar essas configurações e muito mais em dispositivos Android.
 :::
 
 ## Sensores Intra-auriculares
@@ -33,7 +33,7 @@ As réplicas de AirPods Pro 2 (V5.3TB e mais recentes) apresentam uma configura�
 :::
 ## Qualidade do Microfone
 
-A qualidade do microfone nas réplicas é utilizável e muito comparável à dos AirPods originais. Eles são bons o suficiente para chamadas, mas, assim como os AirPods da Apple, não são nada impressionantes devido ao seu formato pequeno.
+A qualidade do microfone nas réplicas é utilizável e muito comparável à dos AirPods originais. Eles são bons o suficiente para chamadas, mas, assim como os AirPods da Apple, não são nada impressionantes devido ao seu formato pequeno. Para mais informações sobre desempenho de áudio, veja a seção de [qualidade de som](/pt/introduction/sound-quality).
 
 ::: tip
 As réplicas mais recentes do AirPods Pro 2 (V5.4 e V5.3 Huilian, HR & TB) têm qualidade de microfone comparável aos AirPods originais.

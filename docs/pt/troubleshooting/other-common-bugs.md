@@ -5,7 +5,7 @@ description: "Guia de solução de problemas para problemas comuns de réplicas 
 # **Problemas Comuns**
 
 ::: tip
-A maioria dos modelos mais novos vendidos através dos [vendedores confiáveis](/links/info) já resolveu esses problemas há muito tempo. Se você estiver tendo problemas, certifique-se de ter a versão mais recente de um vendedor verificado.
+A maioria dos modelos mais novos vendidos através dos [vendedores confiáveis](/pt/links/info) já resolveu esses problemas há muito tempo. Se você estiver tendo problemas, certifique-se de ter a versão mais recente de um vendedor verificado.
 :::
 
 ## **Reset Suave (Soft Reset) para Réplicas de AirPods**
@@ -29,7 +29,7 @@ Você pode receber clones de AirPods com marketing enganoso ao fazer o pedido em
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Áudio/Vídeo Pausando Frequentemente**
-Pausas frequentes de áudio ou vídeo ao usar réplicas de AirPods é um problema comum, muitas vezes causado pelos sensores de detecção intra-auricular (em modelos Pro). Esse problema também pode ocorrer se os AirPods não estiverem bem ajustados ao seu ouvido. Para corrigir isso, você pode trocar as pontas de ouvido (em modelos Pro) ou desativar a detecção intra-auricular nas configurações.
+Pausas frequentes de áudio ou vídeo ao usar réplicas de AirPods é um problema comum, muitas vezes causado pelos [sensores de detecção intra-auricular](/pt/introduction/features#sensores-intra-auriculares) (em modelos Pro). Esse problema também pode ocorrer se os AirPods não estiverem bem ajustados ao seu ouvido. Para corrigir isso, você pode trocar as pontas de ouvido (em modelos Pro) ou desativar a detecção intra-auricular nas configurações.
 
 ## **Réplicas de AirPods Permanecem Conectadas Após Fechar o Estojo**
 Alguns usuários de réplicas de AirPods podem enfrentar um problema em que os AirPods permanecem conectados ao dispositivo mesmo depois de fechar o estojo de carregamento. Isso é tipicamente causado por um mau funcionamento nos ímãs e no sensor Hall dentro do estojo, responsáveis por detectar a posição dos AirPods. Para corrigir isso, siga as etapas descritas no seguinte tutorial do YouTube:
@@ -55,4 +55,4 @@ Para resolver problemas de conectividade com AirPods, tente os seguintes passos:
 - Se você não ouvir nenhum som quando os AirPods estiverem conectados, pode ser necessário resetá-los.
 
 ## **Nada disso funcionou?**
-É possível que seus AirPods tenham chegado com defeito ou estejam danificados sem possibilidade de reparo. Você pode tentar realizar resets suaves e forçados, como deixar o dispositivo sem carga por um período ou tocar música em vez de esquecê-lo, na tentativa de corrigir o problema. Se nenhum desses métodos funcionar, sua melhor opção é entrar em contato com o vendedor e solicitar um reembolso ou substituição.
+É possível que seus AirPods tenham chegado com defeito ou estejam danificados sem possibilidade de reparo. Você pode tentar realizar resets suaves e forçados, como deixar o dispositivo sem carga por um período ou tocar música em vez de esquecê-lo, na tentativa de corrigir o problema. Se nenhum desses métodos funcionar, sua melhor opção é entrar em contato com o [vendedor](/pt/introduction/sellers) e solicitar um reembolso ou substituição. Confira também nossa [correção de compatibilidade com iCloud](/pt/troubleshooting/AirReps-Incompatibility-with-iCloud) e [correção de volume no macOS](/pt/troubleshooting/macOS-volume-slider-fixup) se esses problemas se aplicarem à sua situação.

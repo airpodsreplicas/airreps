@@ -32,7 +32,7 @@ description: Um dicionário conciso de termos comuns usados na comunidade AirRep
 
 ## QC: Quality Control [PICS] (Controle de Qualidade)
 
-"QC" significa Controle de Qualidade. "QC PICS" refere-se a fotos usadas para verificar a qualidade de um produto adquirido.
+"QC" significa Controle de Qualidade. "QC PICS" refere-se a fotos usadas para verificar a qualidade de um produto adquirido. Veja nosso [guia de QC & LC](/pt/ordering/qc-lc) para saber como inspecionar suas réplicas.
 
 **Exemplo:** "Você pode me enviar as fotos de QC para os HiCity v2.5?"
 
@@ -50,4 +50,4 @@ Um "Agente" é um terceiro que facilita compras seguras de vendedores (frequente
 
 ## Markings: Marcações do Produto
 
-"Markings" referem-se ao texto no estojo e nos AirPods que fornece informações sobre o produto, incluindo o texto "Designed by Apple in California", números de modelo e números de série.
+"Markings" referem-se ao texto no estojo e nos AirPods que fornece informações sobre o produto, incluindo o texto "Designed by Apple in California", números de modelo e números de série. Para mais informações sobre como as marcações variam entre réplicas e originais, veja [qualidade de construção](/pt/introduction/build-quality).

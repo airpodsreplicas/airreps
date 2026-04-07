@@ -13,21 +13,21 @@ translationStatus: machine-translated
 **Примечание:** Производители — это не то же самое, что продавцы. Вы не можете покупать напрямую у производителей — вы покупаете у продавцов, которые получают продукты от этих производителей.
 :::
 
-Эта таблица предоставляет сводку наиболее заметных отсутствующих функций для различных моделей AirPods в зависимости от конкретных версий.
-
 ::: tip Не знаете, какую модель выбрать?
 Пройдите наш [быстрый тест](/ru/quiz) — ответьте на несколько вопросов и получите персональную рекомендацию.
 :::
 
+Эта таблица предоставляет сводку наиболее заметных отсутствующих функций для различных моделей AirPods в зависимости от конкретных версий.
+
 | Модель AirPods | Основана на | Отсутствующие функции                                                                                                                                         |
 |----------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AirPods Pro 3 | <span class="version-badge">V6</span>   | Датчик сердечного ритма, Высококачественная сборка, Жесты кивком, Find My Network                                                                           |
-| AirPods Gen 4 | <span class="version-badge">V3</span>   | Find My Network, Точные звуки чехла и более заметные детали                                                                           |
-| AirPods Pro 2 | <span class="version-badge">V5.4</span> | Идеальное пространственное аудио, Find My Network                                                                                                     |
-| AirPods Gen 3 | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
-| AirPods Max   | <span class="version-badge">V3</span>   | Многоустройственное подключение, ANC как у оригинальных AirPods Max, Улучшенный режим прозрачности и более тонкие детали                                            |
-| AirPods Pro   | <span class="version-badge">V4.9</span> | 1:1 Шумоподавление (уже достаточно близко), Find My Network                                                                            |
-| AirPods Gen 2 | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
+| [AirPods Pro 3](/ru/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Network                                                                           |
+| [AirPods Gen 4](/ru/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, Точные звуки чехла и более заметные детали                                                                           |
+| [AirPods Pro 2](/ru/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Идеальное пространственное аудио, Find My Network                                                                                                     |
+| [AirPods Gen 3](/ru/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
+| [AirPods Max](/ru/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Многоустройственное подключение, ANC как у оригинальных AirPods Max, Улучшенный режим прозрачности и более тонкие детали                                            |
+| [AirPods Pro](/ru/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Шумоподавление (уже достаточно близко), Find My Network                                                                            |
+| [AirPods Gen 2](/ru/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
 
 **У всех есть:**
 
@@ -43,7 +43,7 @@ translationStatus: machine-translated
 
 - Доступность «Find My Network»
 
-**Примечание:** Этот список упорядочен от новых к старым моделям. Более высокий номер часто, но не всегда указывает на лучшую модель.
+**Примечание:** Этот список упорядочен от новых к старым моделям. Более высокий номер часто, но не всегда указывает на лучшую модель. Готовы к покупке? См. [как заказать](/ru/ordering/how-to-buy) у наших [проверенных продавцов](/ru/links/info).
 
 ## FAQ
 

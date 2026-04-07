@@ -5,7 +5,7 @@ description: "Fejlfinding for almindelige problemer med AirPods-kopier: tilslutn
 # **Almindelige Problemer**
 
 ::: tip
-De fleste nyere modeller solgt gennem de [trusted sellers](/links/info) har løst disse problemer for længe siden. Hvis du oplever problemer, sørg for at du har den seneste version fra en verificeret sælger.
+De fleste nyere modeller solgt gennem de [betroede sælgere](/da/links/info) har løst disse problemer for længe siden. Hvis du oplever problemer, sørg for at du har den seneste version fra en verificeret sælger.
 :::
 
 ## **Blød Nulstilling af AirPods-kopier**
@@ -29,7 +29,7 @@ Du kan modtage fejlmarkedsførte AirPods-kloner, når du bestiller på sider som
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Lyd/Video Pauser Hyppigt med AirPods-kopier**
-Hyppig pause af lyd eller video, mens du bruger AirPods-kopier, er et almindeligt problem, ofte forårsaget af in-ear-detekteringssensorerne (på Pro-modeller). Dette problem kan også opstå, hvis AirPods ikke sidder sikkert i dit øre. For at løse dette problem kan du enten vælge andre øretip (på Pro-modeller) eller slå in-ear-detektion fra gennem indstillinger.
+Hyppig pause af lyd eller video, mens du bruger AirPods-kopier, er et almindeligt problem, ofte forårsaget af [in-ear-detekteringssensorerne](/da/introduction/features#in-ear-sensors) (på Pro-modeller). Dette problem kan også opstå, hvis AirPods ikke sidder sikkert i dit øre. For at løse dette problem kan du enten vælge andre øretip (på Pro-modeller) eller slå in-ear-detektion fra gennem indstillinger.
 
 ## **AirPods-kopier Forbliver Tilsluttet Efter Lukning af Opladningsetuiet**
 Nogle brugere af AirPods-kopier kan opleve et problem, hvor AirPods forbliver forbundet til deres enhed, selv efter lukning af opladningsetuiet. Dette skyldes typisk en fejlfunktion med magneterne og hall-sensoren inde i etuiet, som er ansvarlige for at detektere positionen af AirPods. For at løse dette problem, følg trinene beskrevet i følgende YouTube-tutorial:
@@ -55,4 +55,4 @@ For at fejlfinde tilslutningsproblemer med AirPods, prøv følgende trin:
 - Hvis du ikke hører nogen lyd, når AirPods er tilsluttet, skal du muligvis nulstille dem.
 
 ## **Ingen af Disse Løste Det?**
-Det er muligt, at dine AirPods ankom defekte eller nu er beskadiget uden for reparation. Du kan prøve at udføre bløde og hårde nulstillinger, såsom at lade enheden stå uopladet i en periode eller afspille musik i stedet for at glemme den, i et forsøg på at løse problemet. Hvis ingen af disse metoder virker, er din bedste mulighed at kontakte sælgeren og anmode om en refundering eller erstatning.
+Det er muligt, at dine AirPods ankom defekte eller nu er beskadiget uden for reparation. Du kan prøve at udføre bløde og hårde nulstillinger, såsom at lade enheden stå uopladet i en periode eller afspille musik i stedet for at glemme den, i et forsøg på at løse problemet. Hvis ingen af disse metoder virker, er din bedste mulighed at kontakte [sælgeren](/da/introduction/sellers) og anmode om en refundering eller erstatning. Tjek også vores [iCloud-kompatibilitetsløsning](/da/troubleshooting/AirReps-Incompatibility-with-iCloud) og [macOS-lydstyrkefiks](/da/troubleshooting/macOS-volume-slider-fixup) hvis de passer til din situation.

@@ -14,6 +14,24 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
     <th>Jenny</th>
   </tr>
   <tr>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td>
+      <div class="link-column">
+        Coming soon
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Coming soon
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Coming soon
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
     <td>
       <div class="link-column">

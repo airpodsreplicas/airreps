@@ -4,9 +4,9 @@ description: "Aplicativos essenciais para atualização de firmware de réplicas
 
 # Apps Úteis
 
-Atualizar o firmware das suas réplicas pode frequentemente adicionar novos recursos, como áudio espacial, ou melhorar sua estabilidade. Para fazer isso, você pode usar uma variedade de apps que estão disponíveis para download. No entanto, por favor note que **a maioria desses apps está disponível apenas para dispositivos Android**.
+Atualizar o firmware das suas réplicas pode frequentemente adicionar novos recursos, como áudio espacial, ou melhorar sua estabilidade. Para fazer isso, você pode usar uma variedade de apps que estão disponíveis para download. No entanto, por favor note que **a maioria desses apps está disponível apenas para dispositivos Android**. Para identificar qual chipset suas réplicas usam, veja as [tabelas de comparação de versões](/pt/version-info/general).
 
-Abaixo estão os apps que podem ser baixados para ajudá-lo, juntamente com as versões e chipsets de réplicas que eles suportam. Se você tiver problemas ao instalar os aplicativos fora da Play Store, certifique-se de ativar 'Instalar de fontes desconhecidas' em suas configurações (na seção Segurança ou Acessibilidade). Para mais informações sobre como usar esses apps e evitar problemas, visite nosso [Discord](https://airreps.link/discord).
+Abaixo estão os apps que podem ser baixados para ajudá-lo, juntamente com as versões e chipsets de réplicas que eles suportam. Se você tiver problemas ao instalar os aplicativos fora da Play Store, certifique-se de ativar 'Instalar de fontes desconhecidas' em suas configurações (na seção Segurança ou Acessibilidade). Esses apps também podem ajudar a ajustar a [qualidade de som](/pt/introduction/sound-quality) através das configurações de EQ. Para mais informações sobre como usar esses apps e evitar problemas, visite nosso [Discord](https://airreps.link/discord).
 
 ## **Tigerbuilder**
 

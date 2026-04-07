@@ -4,7 +4,7 @@ description: "Verificação de qualidade e autenticidade. Defeitos e software."
 
 # QC & LC (Controle de Qualidade e Verificação de Legitimidade)
 
-Bem-vindo! Se você está aqui, provavelmente está procurando fazer o controle de qualidade de suas réplicas de AirPods ou está considerando comprar AirPods autênticos. Esta seção irá guiá-lo sobre como discernir entre AirPods originais e réplicas, desde métodos simples até os mais avançados. Se uma oferta parecer boa demais para ser verdade, provavelmente é.
+Bem-vindo! Se você está aqui, provavelmente está procurando fazer o controle de qualidade de suas réplicas de AirPods ou está considerando comprar AirPods autênticos. Esta seção irá guiá-lo sobre como discernir entre AirPods originais e réplicas, desde métodos simples até os mais avançados. Se uma oferta parecer boa demais para ser verdade, provavelmente é. Para mais informações sobre o que esperar da qualidade de construção das réplicas, veja o guia de [qualidade de construção](/pt/introduction/build-quality).
 
 ::: tip
 Esta seção já foi mais detalhada, mas como as réplicas se tornaram mais sofisticadas, está cada vez mais difícil distinguir entre AirPods genuínos e falsos. Nosso melhor conselho para garantir a autenticidade é comprar seus AirPods de um revendedor oficial.

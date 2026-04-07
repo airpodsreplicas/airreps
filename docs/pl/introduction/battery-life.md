@@ -17,11 +17,11 @@ Obecne modele klonów generalnie oferują 8-10 godzin żywotności baterii, choc
 
 ## Wariacje Żywotności Baterii
 
-Rzeczywista żywotność baterii może się różnić w zależności od wersji modelu, generacji chipa, partii produkcyjnej i wzorców użytkowania. Czynniki takie jak poziom głośności, używane funkcje i wiek klonu mogą wpływać na wydajność.
+Rzeczywista żywotność baterii może się różnić w zależności od wersji modelu, generacji chipa, partii produkcyjnej i wzorców użytkowania. Czynniki takie jak poziom głośności, [używane funkcje](/pl/introduction/features) i wiek klonu mogą wpływać na wydajność. Sprawdź [tabele porównawcze wersji](/pl/version-info/general), aby zobaczyć dane dotyczące żywotności baterii dla poszczególnych modeli.
 
 ## Dokładność Poziomu Baterii
 
-Poziomy baterii na urządzeniach iOS mogą nie zawsze być dokładne, chociaż ten problem został w dużej mierze rozwiązany w nowszych klonach. Jednak klony, podobnie jak oryginalne AirPods, będą sygnalizować, gdy bateria osiągnie 20%. Na urządzeniach Android poziomy baterii można sprawdzić w ustawieniach Bluetooth lub za pomocą aplikacji takich jak TWTools, Materialpods lub Andropods dla dokładniejszych odczytów.
+Poziomy baterii na urządzeniach iOS mogą nie zawsze być dokładne, chociaż ten problem został w dużej mierze rozwiązany w nowszych klonach. Jednak klony, podobnie jak oryginalne AirPods, będą sygnalizować, gdy bateria osiągnie 20%. Na urządzeniach Android poziomy baterii można sprawdzić w ustawieniach Bluetooth lub za pomocą aplikacji takich jak TWTools, Materialpods lub Andropods dla dokładniejszych odczytów. Zobacz naszą stronę [przydatne aplikacje](/pl/useful-apps), aby pobrać linki do aplikacji producentów i narzędzi.
 
 ::: warning
 Odczyty poziomu baterii na urządzeniach iOS mogą nie zawsze być dokładne. Użytkownicy Androida mogą używać określonych aplikacji do bardziej precyzyjnego monitorowania.

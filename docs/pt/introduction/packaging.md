@@ -31,12 +31,12 @@ Solicitar uma "caixa Apple" pode levar à apreensão do produto na alfândega. M
 
 A melhor opção para a maioria dos compradores. Uma caixa externa genérica que parece fones comuns, com a Caixa com logotipo Apple escondida no interior. Isso reduz significativamente o risco de apreensão pela alfândega, ao mesmo tempo em que ainda te dá a embalagem completa com marca Apple.
 
-A maioria dos vendedores confiáveis inclui automaticamente a caixa dupla no checkout — procure uma caixa de seleção ou opção na página de finalização da compra e certifique-se de que está marcada. Se você estiver pedindo pelo **Alibaba**, a caixa dupla **não está disponível** — você sempre receberá uma caixa sem logotipo.
+Quando você seleciona a Caixa com logotipo Apple no checkout, a caixa dupla é automaticamente incluída — os vendedores sempre enviam caixas Apple dentro de uma caixa disfarce para proteção. A opção de caixa Apple vem pré-selecionada na maioria dos métodos de pagamento, embora alguns possam cobrar uma pequena taxa extra. Se você estiver pedindo pelo **Alibaba**, a caixa Apple/dupla **não está disponível** — você sempre receberá uma caixa sem logotipo.
 
 <img src="/doublebox.webp" alt="Caixa dupla / de engodo" width="300px"/>
 
 ::: tip
-A caixa dupla geralmente vem pré-selecionada no checkout, mas sempre verifique se a opção está ativada antes de concluir o pedido.
+A caixa Apple (que sempre vem como caixa dupla) geralmente vem pré-selecionada no checkout. Verifique se a opção está marcada antes de concluir o pedido.
 :::
 
 ## Qualidade da caixa
@@ -49,8 +49,8 @@ Sempre peça fotos se a qualidade da caixa for importante para você.
 
 ## Manuseio e envio
 
-A caixa ou embalagem pode chegar ligeiramente amassada ou com vincos devido ao manuseio por transportadoras internacionais e locais, e não pelo vendedor.
+A caixa ou embalagem pode chegar ligeiramente amassada ou com vincos devido ao manuseio por transportadoras internacionais e locais, e não pelo vendedor. Para dicas sobre o processo de compra e expectativas de envio, veja [como comprar](/pt/ordering/how-to-buy).
 
 ## Cabo de carregamento
 
-O cabo de carregamento incluído pode não suportar transferência de dados como muitos outros cabos USB. Muitos vendedores usam cabos com pinos simulados em vez de pinos funcionais para reduzir custos.
+O cabo de carregamento incluído pode não suportar transferência de dados como muitos outros cabos USB. Os [vendedores](/pt/introduction/sellers) frequentemente usam cabos com pinos simulados em vez de pinos funcionais para reduzir custos.

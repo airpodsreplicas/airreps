@@ -4,7 +4,7 @@ description: Mestre AirPods QC & LC. Find designfejl, verificer softwarefunktion
 
 # QC & LC
 
-Velkommen! Hvis du er her, leder du sandsynligvis efter at kvalitetstjekke dine AirPods-kopier eller overvejer at købe ægte. Denne sektion vil guide dig i at skelne mellem detail- og kopi-AirPods, fra simple til avancerede metoder. Hvis en handel virker for god til at være sand, er den det sandsynligvis.
+Velkommen! Hvis du er her, leder du sandsynligvis efter at kvalitetstjekke dine AirPods-kopier eller overvejer at købe ægte. Denne sektion vil guide dig i at skelne mellem detail- og kopi-AirPods, fra simple til avancerede metoder. Hvis en handel virker for god til at være sand, er den det sandsynligvis. For mere om, hvad du kan forvente af kopiernes byggekvalitet, se guiden om [byggekvalitet](/da/introduction/build-quality).
 
 ::: tip
 Denne sektion var engang mere detaljeret, men efterhånden som kopier er blevet mere sofistikerede, er det stadig sværere at skelne mellem ægte og falske AirPods. Vores bedste råd til at sikre ægthed er at købe dine AirPods fra en anerkendt sælger.

@@ -4,7 +4,7 @@ description: "Sammenlign AirPods Max-kopier efter chip, funktioner og manglende 
 
 # AirPods Max
 
-Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne model.
+Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne model. For købslinks, se [AirPods Max links](/da/links/airpods-max). For at lære om [ANC](/da/introduction/anc-explained) og [lydkvalitet](/da/introduction/sound-quality), tjek guideafsnittene.
 
 | Version                                                                           | Chip             | Har Funktioner                                                                                                                                                      | Manglende Funktioner                                                                                                                 |
 |-----------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|

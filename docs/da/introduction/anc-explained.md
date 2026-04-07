@@ -24,7 +24,7 @@ Da den ikke hører den anti-støj, den producerer, mangler feedforward ANC selvk
 
 Hybrid ANC kombinerer feedback og feedforward ANC ved at bruge både interne og eksterne mikrofoner. Den giver fordelene ved begge metoder, mens den minimerer deres ulemper. Hybrid ANC undertrykker støj over et bredere område, tilpasser sig pludselige ændringer i støj og er ikke følsom over for placeringen af headsettet.
 
-Dog øger brugen af to mikrofoner produktionsomkostningerne og kompleksiteten. Teknologien kræver mere ekspertise for at implementere korrekt. Originale AirPods Pro bruger hybrid ANC, hvilket bidrager til deres højere pris. Mange nuværende AirPods-kopier implementerer også hybrid ANC ved hjælp af avancerede chipsets. For eksempel replikerer v5.3 TB (med Airoha 1571AM chipsettet) hybrid ANC-effekten for en fuld og autentisk støjreducerende oplevelse.
+Dog øger brugen af to mikrofoner produktionsomkostningerne og kompleksiteten. Teknologien kræver mere ekspertise for at implementere korrekt. Originale AirPods Pro bruger hybrid ANC, hvilket bidrager til deres højere pris. Mange nuværende AirPods-kopier implementerer også hybrid ANC ved hjælp af avancerede chipsets. For eksempel replikerer [v5.3 TB](/da/version-info/airpods-pro-2) (med Airoha 1571AM chipsettet) hybrid ANC-effekten for en fuld og autentisk støjreducerende oplevelse. For at høre, hvordan dette påvirker brug i den virkelige verden, se vores afsnit om [lydkvalitet](/da/introduction/sound-quality) og [funktioner](/da/introduction/features).
 
 ::: tip
 Hybrid ANC, selvom den er dyrere, kombinerer fordelene ved både feedback og feedforward ANC og giver en mere omfattende støjreducerende oplevelse.

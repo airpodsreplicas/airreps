@@ -4,7 +4,7 @@ description: "Contrôle qualité et authenticité. Défauts visuels et logiciels
 
 # QC & LC
 
-Bienvenue ! Si vous êtes ici, vous cherchez probablement à vérifier la qualité de vos répliques d'AirPods ou envisagez d'acheter des authentiques. Cette section vous guidera pour discerner les AirPods de détail des répliques, des méthodes simples aux avancées. Si une offre semble trop belle pour être vraie, elle l'est probablement.
+Bienvenue ! Si vous êtes ici, vous cherchez probablement à vérifier la qualité de vos répliques d'AirPods ou envisagez d'acheter des authentiques. Cette section vous guidera pour discerner les AirPods de détail des répliques, des méthodes simples aux avancées. Si une offre semble trop belle pour être vraie, elle l'est probablement. Pour en savoir plus sur ce à quoi s'attendre de la qualité de fabrication des répliques, consultez le guide de [qualité de fabrication](/introduction/build-quality).
 
 ::: tip
 Cette section était autrefois plus détaillée, mais comme les répliques sont devenues plus sophistiquées, il est de plus en plus difficile de distinguer les AirPods authentiques des faux. Notre meilleur conseil pour garantir l'authenticité est d'acheter vos AirPods auprès d'un vendeur réputé.

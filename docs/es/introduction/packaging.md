@@ -31,12 +31,12 @@ Solicitar una "caja de Apple" puede llevar al decomiso del producto en aduanas. 
 
 La mejor opción para la mayoría de compradores. Una caja externa genérica que parece auriculares comunes, con la Caja con Logo de Apple oculta en su interior. Esto reduce significativamente el riesgo de incautación en aduanas mientras te da el embalaje completo con marca Apple.
 
-La mayoría de vendedores de confianza incluyen automáticamente la caja doble en el checkout — busca una casilla o opción en la página de pago y asegúrate de que esté marcada. Si pides a través de **Alibaba**, la caja doble **no está disponible** — siempre recibirás una caja Sin Logo.
+Cuando seleccionas la Caja con Logo de Apple en el checkout, la caja doble se incluye automáticamente — los vendedores siempre envían las cajas de Apple dentro de una caja señuelo para protección. La opción de caja de Apple viene preseleccionada en la mayoría de métodos de pago, aunque algunos pueden cobrar un pequeño cargo adicional. Si pides a través de **Alibaba**, la caja de Apple/doble **no está disponible** — siempre recibirás una caja Sin Logo.
 
 <img src="/doublebox.webp" alt="Caja Doble/Señuelo" width="300px"/>
 
 ::: tip
-La caja doble suele venir preseleccionada en el checkout, pero siempre verifica que la opción esté activada antes de completar tu pedido.
+La caja de Apple (que siempre viene como caja doble) suele venir preseleccionada en el checkout. Verifica que esté marcada antes de completar tu pedido.
 :::
 
 ## Calidad de la Caja
@@ -49,8 +49,8 @@ Siempre pide fotos si la calidad de la caja es importante para ti.
 
 ## Manejo y Envío
 
-La caja o embalaje puede llegar ligeramente abollada o arrugada debido al manejo por mensajeros internacionales y locales, no por el vendedor.
+La caja o embalaje puede llegar ligeramente abollada o arrugada debido al manejo por mensajeros internacionales y locales, no por el vendedor. Para consejos sobre el proceso de pedido y expectativas de envío, consulta [cómo comprar](/ordering/how-to-buy).
 
 ## Cable de Carga
 
-El cable de carga incluido puede no soportar transferencia de datos como muchos otros cables USB. Los vendedores a menudo usan cables con pines falsos en lugar de pines reales funcionales para reducir costos.
+El cable de carga incluido puede no soportar transferencia de datos como muchos otros cables USB. Los [vendedores](/introduction/sellers) a menudo usan cables con pines falsos en lugar de pines reales funcionales para reducir costos.

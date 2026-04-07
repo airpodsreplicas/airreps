@@ -8,11 +8,11 @@ Entender a conectividade das réplicas de AirPods pode ajudá-lo a tomar uma dec
 
 ## Popup do iOS
 
-O popup do iOS aparece quase instantaneamente nas réplicas de AirPods, embora a velocidade possa variar com base no vendedor e no lote. Em alguns casos, o popup pode aparecer mais rapidamente do que nos AirPods originais.
+O popup do iOS aparece quase instantaneamente nas réplicas de AirPods, embora a velocidade possa variar com base no [vendedor](/pt/introduction/sellers) e no lote. Em alguns casos, o popup pode aparecer mais rapidamente do que nos AirPods originais.
 
 ## Conectividade com macOS
 
-  Apenas alguns clones mais novos funcionam perfeitamente com o macOS, enquanto esse nem sempre é o caso com outros fabricantes. Recomendamos escolher o modelo "Huilian" se você planeja usar suas réplicas com seu MacBook ou iMac. Isso se deve ao fato de outros clones não possuírem a troca via iCloud para integração perfeita com o ecossistema iOS, ou por terem o volume travado em 100% no macOS (TB). No entanto, abordamos parcialmente o problema usando um app de terceiro de código aberto (FOSS); a única ressalva é que, nos modelos TB, os gestos de volume nos AirPods não funcionarão devido às limitações do referido método. Para mais detalhes, visite [nosso guia de solução de problemas](https://airpodsreplicas.com/pt/troubleshooting/macOS-volume-slider-fixup).
+  Apenas alguns clones mais novos funcionam perfeitamente com o macOS, enquanto esse nem sempre é o caso com outros fabricantes. Recomendamos escolher o modelo "Huilian" se você planeja usar suas réplicas com seu MacBook ou iMac. Isso se deve ao fato de outros clones não possuírem a troca via iCloud para integração perfeita com o ecossistema iOS, ou por terem o volume travado em 100% no macOS (TB). No entanto, abordamos parcialmente o problema usando um app de terceiro de código aberto (FOSS); a única ressalva é que, nos modelos TB, os gestos de volume nos AirPods não funcionarão devido às limitações do referido método. Para mais detalhes, visite [nosso guia de solução de problemas](/pt/troubleshooting/macOS-volume-slider-fixup).
 
 ## Alcance
 
@@ -32,4 +32,4 @@ A conectividade multi-dispositivo via iCloud Connect é suportada apenas nos mod
 
 ## Conectividade Inicial com Dispositivos iOS
 
-Em alguns casos, as réplicas de AirPods podem não se conectar aos dispositivos iOS inicialmente. No entanto, muitas vezes existe uma correção para este problema. Consulte a seção de Solução de Problemas para obter mais informações.
+Em alguns casos, as réplicas de AirPods podem não se conectar aos dispositivos iOS inicialmente. No entanto, muitas vezes existe uma correção para este problema. Consulte os [Problemas Comuns](/pt/troubleshooting/other-common-bugs) para procedimentos de reset, ou a [correção de compatibilidade com iCloud](/pt/troubleshooting/AirReps-Incompatibility-with-iCloud) se o problema estiver relacionado ao emparelhamento com macOS.

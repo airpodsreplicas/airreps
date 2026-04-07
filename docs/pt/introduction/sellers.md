@@ -15,16 +15,16 @@ Existem muitos vendedores de réplicas de AirPods disponíveis, mas a melhor exp
 Embora você possa encontrar vendedores em sites de comércio eletrônico chineses como AliExpress ou DHgate, as avaliações nessas plataformas podem nem sempre ser imparciais ou legítimas. Comprar de vendedores não verificados acarreta mais risco, pois a qualidade do produto e o atendimento ao cliente podem variar significativamente. Se você comprar de um vendedor não verificado e encontrar problemas, compartilhe sua experiência com nossa equipe.
 
 ::: tip
-Encontre uma [lista de vendedores respeitáveis e verificados pela comunidade aqui](https://airpodsreplicas.com/pt/links/info).
+Encontre uma [lista de vendedores respeitáveis e verificados pela comunidade aqui](/pt/links/info).
 :::
 
 ::: tip
-Para ter a melhor experiência, recomendamos enfaticamente a compra de nossos [vendedores confiáveis verificados pela comunidade](https://airpodsreplicas.com/pt/links/info). Eles possuem históricos comprovados e oferecem produtos confiáveis com bom atendimento ao cliente.
+Para ter a melhor experiência, recomendamos enfaticamente a compra de nossos [vendedores confiáveis verificados pela comunidade](/pt/links/info). Eles possuem históricos comprovados e oferecem produtos confiáveis com bom atendimento ao cliente.
 :::
 
 ## Revendedores e suas Práticas
 
-Alguns revendedores oferecem réplicas de AirPods a preços mais altos, às vezes com serviços adicionais como garantias, proteção ao comprador ou envio acelerado. No entanto, esses serviços têm um custo extra, e um preço mais alto não garante necessariamente um produto melhor. Os vendedores confiáveis que recomendamos normalmente oferecem produtos da mesma ou melhor qualidade a preços mais competitivos.
+Alguns revendedores oferecem réplicas de AirPods a preços mais altos, às vezes com serviços adicionais como garantias, proteção ao comprador ou envio acelerado. No entanto, esses serviços têm um custo extra, e um preço mais alto não garante necessariamente um produto melhor. Os vendedores confiáveis que recomendamos normalmente oferecem produtos da mesma ou melhor qualidade a preços mais competitivos. Para um guia passo a passo sobre como fazer um pedido, veja [como comprar](/pt/ordering/how-to-buy).
 
 ::: tip
 Nossos vendedores confiáveis recomendados oferecem excelente valor e qualidade. Embora os revendedores possam oferecer serviços adicionais, muitas vezes você pode obter os mesmos produtos diretamente de vendedores confiáveis a preços melhores.

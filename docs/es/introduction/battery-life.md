@@ -16,11 +16,11 @@ Los modelos de réplica actuales generalmente ofrecen 8-10 horas de duración de
 
 ## Variaciones en Duración de Batería
 
-La duración real de la batería puede variar dependiendo de la versión del modelo, generación del chip, lote de fabricación y patrones de uso. Factores como nivel de volumen, características usadas y la edad de la réplica pueden todos impactar el rendimiento.
+La duración real de la batería puede variar dependiendo de la versión del modelo, generación del chip, lote de fabricación y patrones de uso. Factores como nivel de volumen, [características usadas](/introduction/features) y la edad de la réplica pueden todos impactar el rendimiento. Consulta las [tablas de comparación de versiones](/version-info/general) para datos de batería por modelo.
 
 ## Precisión del Nivel de Batería
 
-Los niveles de batería en dispositivos iOS pueden no siempre ser precisos, aunque este problema se ha resuelto en gran parte en réplicas más nuevas. Sin embargo, al igual que los AirPods originales, las réplicas emitirán un pitido cuando la batería llegue al 20%. En dispositivos Android, los niveles de batería se pueden verificar en configuración de Bluetooth o usando aplicaciones como TWTools, Materialpods o Andropods para lecturas más precisas.
+Los niveles de batería en dispositivos iOS pueden no siempre ser precisos, aunque este problema se ha resuelto en gran parte en réplicas más nuevas. Sin embargo, al igual que los AirPods originales, las réplicas emitirán un pitido cuando la batería llegue al 20%. En dispositivos Android, los niveles de batería se pueden verificar en configuración de Bluetooth o usando aplicaciones como TWTools, Materialpods o Andropods para lecturas más precisas. Consulta nuestra página de [apps útiles](/useful-apps) para enlaces de descarga de aplicaciones del fabricante y utilidades.
 
 ::: warning
 Las lecturas de nivel de batería en dispositivos iOS pueden no siempre ser precisas. Los usuarios de Android pueden usar aplicaciones específicas para monitoreo más preciso.

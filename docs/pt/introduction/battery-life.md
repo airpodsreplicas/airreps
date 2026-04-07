@@ -16,11 +16,11 @@ Os modelos de réplicas atuais geralmente oferecem de 8 a 10 horas de duração 
 
 ## Variações na Vida da Bateria
 
-A vida real da bateria pode variar dependendo da versão do modelo, geração do chip, lote de fabricação e padrões de uso. Fatores como o nível do volume, recursos utilizados e a idade da réplica podem impactar o desempenho.
+A vida real da bateria pode variar dependendo da versão do modelo, geração do chip, lote de fabricação e padrões de uso. Fatores como o nível do volume, [recursos utilizados](/pt/introduction/features) e a idade da réplica podem impactar o desempenho. Consulte as [tabelas de comparação de versões](/pt/version-info/general) para dados de bateria por modelo.
 
 ## Precisão do Nível da Bateria
 
-Os níveis de bateria em dispositivos iOS nem sempre são precisos, embora este problema tenha sido amplamente resolvido em réplicas mais recentes. No entanto, assim como os AirPods originais, as réplicas emitirão um sinal sonoro quando a bateria atingir 20%. Em dispositivos Android, os níveis de bateria podem ser verificados nas configurações de Bluetooth ou usando aplicativos como TWTools, Materialpods ou Andropods para leituras mais precisas.
+Os níveis de bateria em dispositivos iOS nem sempre são precisos, embora este problema tenha sido amplamente resolvido em réplicas mais recentes. No entanto, assim como os AirPods originais, as réplicas emitirão um sinal sonoro quando a bateria atingir 20%. Em dispositivos Android, os níveis de bateria podem ser verificados nas configurações de Bluetooth ou usando aplicativos como TWTools, Materialpods ou Andropods para leituras mais precisas. Veja nossa página de [aplicativos úteis](/pt/useful-apps) para links de download de aplicativos de fabricantes e utilitários.
 
 ::: warning
 As leituras do nível da bateria em dispositivos iOS podem nem sempre ser precisas. Usuários de Android podem usar aplicativos específicos para um monitoramento mais preciso.

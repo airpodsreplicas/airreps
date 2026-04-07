@@ -4,9 +4,9 @@ description: "Nødvendige apps til firmwareopdatering af AirPods-kopier. Underst
 
 # Nyttige Apps
 
-Opdatering af firmwaren på dine kopier kan ofte tilføje nye funktioner, såsom spatial audio, eller forbedre deres stabilitet. For at gøre dette kan du bruge forskellige apps, der er tilgængelige til download. Bemærk dog, at **de fleste af disse apps kun er tilgængelige til Android-enheder**.
+Opdatering af firmwaren på dine kopier kan ofte tilføje nye funktioner, såsom spatial audio, eller forbedre deres stabilitet. For at gøre dette kan du bruge forskellige apps, der er tilgængelige til download. Bemærk dog, at **de fleste af disse apps kun er tilgængelige til Android-enheder**. For at identificere hvilket chipset dine kopier bruger, se [versionssammenligningstabellerne](/da/version-info/general).
 
-Nedenfor finder du apps, der kan downloades for at hjælpe dig, sammen med hvilke versioner og chipsets af kopier de understøtter. Hvis du har problemer med at installere apps, der ikke er fra Play Store, skal du sørge for at aktivere 'Installér fra ukendte kilder' i dine indstillinger (i afsnittet Sikkerhed eller Tilgængelighed). For mere information om, hvordan du bruger disse apps og undgår problemer, besøg vores [Discord](https://airreps.link/discord).
+Nedenfor finder du apps, der kan downloades for at hjælpe dig, sammen med hvilke versioner og chipsets af kopier de understøtter. Hvis du har problemer med at installere apps, der ikke er fra Play Store, skal du sørge for at aktivere 'Installér fra ukendte kilder' i dine indstillinger (i afsnittet Sikkerhed eller Tilgængelighed). Disse apps kan også hjælpe med at justere [lydkvalitet](/da/introduction/sound-quality) gennem EQ-indstillinger. For mere information om, hvordan du bruger disse apps og undgår problemer, besøg vores [Discord](https://airreps.link/discord).
 
 ## **Tigerbuilder**
 

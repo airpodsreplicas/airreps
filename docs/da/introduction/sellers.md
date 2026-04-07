@@ -1,5 +1,5 @@
 ---
-description: Få information om køb fra AirPods-kopie-sælgere. Forstå forskellen mellem verificerede og ikke-verificerede sælgere, og lær om forhandleres praksis.
+description: Køb fra verificerede vs. ikke-verificerede sælgere. Hvorfor betroede sælgere tilbyder sikrere transaktioner.
 ---
 
 # Sælgere
@@ -15,16 +15,16 @@ Der er mange AirPods-kopie-sælgere tilgængelige, men den bedste oplevelse komm
 Selvom du kan finde sælgere på kinesiske e-handelswebsteder som AliExpress eller DHgate, er anmeldelser på disse platforme måske ikke altid upartiske eller legitime. Køb fra ikke-verificerede sælgere indebærer mere risiko, da produktkvalitet og kundeservice kan variere betydeligt. Hvis du køber fra en ikke-verificeret sælger og støder på problemer, del venligst din oplevelse med vores team.
 
 ::: tip
-Find en [liste over fællesskabsverificerede og anerkendte sælgere her](https://airpodsreplicas.com/links/info).
+Find en [liste over fællesskabsverificerede og anerkendte sælgere her](/da/links/info).
 :::
 
 ::: tip
-For den bedste oplevelse anbefaler vi kraftigt at købe fra vores [fællesskabsverificerede betroede sælgere](https://airpodsreplicas.com/links/info). De har dokumenterede resultater og leverer pålidelige produkter med god kundeservice.
+For den bedste oplevelse anbefaler vi kraftigt at købe fra vores [fællesskabsverificerede betroede sælgere](/da/links/info). De har dokumenterede resultater og leverer pålidelige produkter med god kundeservice.
 :::
 
 ## Forhandlere og Deres Praksis
 
-Nogle forhandlere tilbyder AirPods-kopier til højere priser, nogle gange med ekstra tjenester som garantier, køberbeskyttelse eller hurtigere forsendelse. Disse tjenester kommer dog til en merpris, og en højere pris garanterer ikke nødvendigvis et bedre produkt. De betroede sælgere, vi anbefaler, tilbyder typisk de samme eller bedre kvalitetsprodukter til mere konkurrencedygtige priser.
+Nogle forhandlere tilbyder AirPods-kopier til højere priser, nogle gange med ekstra tjenester som garantier, køberbeskyttelse eller hurtigere forsendelse. Disse tjenester kommer dog til en merpris, og en højere pris garanterer ikke nødvendigvis et bedre produkt. De betroede sælgere, vi anbefaler, tilbyder typisk de samme eller bedre kvalitetsprodukter til mere konkurrencedygtige priser. For en trin-for-trin guide til at afgive en ordre, se [sådan køber du](/da/ordering/how-to-buy).
 
 ::: tip
 Vores anbefalede betroede sælgere giver fremragende værdi og kvalitet. Mens forhandlere kan tilbyde ekstra tjenester, kan du ofte få de samme produkter direkte fra betroede sælgere til bedre priser.

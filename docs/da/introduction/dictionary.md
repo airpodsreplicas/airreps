@@ -32,7 +32,7 @@ description: En kortfattet ordbog over almindelige begreber, der bruges i AirRep
 
 ## QC: Quality Control/Kvalitetskontrol [BILLEDER]
 
-"QC" står for kvalitetskontrol. "QC PICS" henviser til billeder, der bruges til at verificere kvaliteten af et købt produkt.
+"QC" står for kvalitetskontrol. "QC PICS" henviser til billeder, der bruges til at verificere kvaliteten af et købt produkt. Se vores [QC & LC guide](/da/ordering/qc-lc) for, hvordan du inspicerer dine kopier.
 
 **Eksempel:** "Kan du sende mig QC-billederne for HiCity v2.5'erne?"
 
@@ -50,4 +50,4 @@ En "Agent" er en tredjepart, der faciliterer sikre køb fra sælgere (ofte i Kin
 
 ## Markings: Produktmærkning
 
-"Markings" henviser til teksten på etuiet og AirPods, der giver information om produktet, herunder "Designed by Apple in California" teksten, modelnumre og serienumre.
+"Markings" henviser til teksten på etuiet og AirPods, der giver information om produktet, herunder "Designed by Apple in California" teksten, modelnumre og serienumre. For mere om, hvordan mærkning varierer mellem kopier og originaler, se [byggekvalitet](/da/introduction/build-quality).

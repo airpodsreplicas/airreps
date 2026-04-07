@@ -16,7 +16,7 @@ Puisque les AirPods Pro se scellent dans l'oreille, ils peuvent sonner significa
 
 ## Variations de Qualité Sonore
 
-La qualité sonore peut varier selon la version, la puce et le lot. De nombreux modèles mettent l'accent sur les basses sans être envahissants. Les médiums sont prononcés, mais les aigus pourraient être améliorés. Notez que l'égaliseur peut varier selon le vendeur, et vous pouvez l'ajuster en utilisant les paramètres de votre lecteur de musique.
+La qualité sonore peut varier selon la [version, la puce](/version-info/general) et le lot. De nombreux modèles mettent l'accent sur les basses sans être envahissants. Les médiums sont prononcés, mais les aigus pourraient être améliorés. Notez que l'égaliseur peut varier selon le vendeur, et vous pouvez l'ajuster en utilisant les paramètres de votre lecteur de musique ou les applications des fabricants — consultez les [applications utiles](/useful-apps) pour les liens de téléchargement.
 
 ::: tip
 L'égaliseur peut varier selon le vendeur. Utilisez **FlyCC**, **BullSuper** ou **Starfun** pour l'ajuster pour les appareils **TigerBuilder**, **HR** et **Huilian** respectivement.

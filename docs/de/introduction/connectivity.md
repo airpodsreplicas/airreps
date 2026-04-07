@@ -8,7 +8,7 @@ Ein Verständnis der Konnektivität von AirPods Replicas hilft dir, eine fundier
 
 ## iOS-Popup
 
-Das iOS-Popup erscheint bei AirPods Replicas nahezu sofort, wobei die Geschwindigkeit je nach Verkäufer und Charge variieren kann. In einigen Fällen kann das Popup sogar schneller erscheinen als bei originalen AirPods.
+Das iOS-Popup erscheint bei AirPods Replicas nahezu sofort, wobei die Geschwindigkeit je nach [Verkäufer](/introduction/sellers) und Charge variieren kann. In einigen Fällen kann das Popup sogar schneller erscheinen als bei originalen AirPods.
 
 ## macOS-Konnektivität
 
@@ -32,4 +32,4 @@ Multi-Device-Konnektivität über iCloud Connect wird nur von 5.3 und 5.4 Huilia
 
 ## Erstverbindung mit iOS-Geräten
 
-In einigen Fällen verbinden sich AirPods Replicas anfangs möglicherweise nicht mit iOS-Geräten. Es gibt jedoch häufig eine Lösung für dieses Problem. Weitere Informationen findest du im Abschnitt Fehlerbehebung.
+In einigen Fällen verbinden sich AirPods Replicas anfangs möglicherweise nicht mit iOS-Geräten. Es gibt jedoch häufig eine Lösung für dieses Problem. Siehe [Häufige Probleme](/troubleshooting/other-common-bugs) für Reset-Anleitungen oder den [iCloud-Kompatibilitätsfix](/troubleshooting/AirReps-Incompatibility-with-iCloud), wenn das Problem mit der macOS-Kopplung zusammenhängt.

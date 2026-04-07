@@ -32,7 +32,7 @@ description: Ein kompaktes Wörterbuch der gängigsten Begriffe in der AirReps-C
 
 ## QC: Quality Control [PICS]
 
-„QC" steht für Quality Control (Qualitätskontrolle). „QC PICS" bezeichnet Bilder, die zur Überprüfung der Qualität eines gekauften Produkts verwendet werden.
+„QC" steht für Quality Control (Qualitätskontrolle). „QC PICS" bezeichnet Bilder, die zur Überprüfung der Qualität eines gekauften Produkts verwendet werden. Wie du deine Replicas prüfst, erfährst du in unserem [QC & LC Guide](/ordering/qc-lc).
 
 **Beispiel:** „Can you send me the QC pics for HiCity v2.5's?"
 
@@ -50,4 +50,4 @@ Ein „Agent" ist ein Drittanbieter, der sichere Käufe von Verkäufern (oft in 
 
 ## Markings: Produktkennzeichnung
 
-„Markings" bezeichnen den Text auf dem Case und den AirPods, der Informationen über das Produkt liefert, einschließlich des „Designed by Apple in California"-Texts, Modellnummern und Seriennummern.
+„Markings" bezeichnen den Text auf dem Case und den AirPods, der Informationen über das Produkt liefert, einschließlich des „Designed by Apple in California"-Texts, Modellnummern und Seriennummern. Mehr darüber, wie sich Markierungen zwischen Replicas und Originalen unterscheiden, findest du unter [Verarbeitungsqualität](/introduction/build-quality).

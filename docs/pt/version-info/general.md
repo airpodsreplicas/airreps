@@ -20,13 +20,13 @@ Faça nosso [quiz rápido](/pt/quiz) — responda algumas perguntas e receba uma
 
 | Modelo de AirPods | Baseado Em | Recursos Ausentes                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AirPods Pro 3 | <span class="version-badge">V6</span>   | Sensor de frequência cardíaca, Qualidade de construção premium, Gestos de aceno, Rede Find My                                                                           |
-| AirPods Gen 4 | <span class="version-badge">V3</span>   | Rede Find My, Efeitos Sonoros do estojo precisos e detalhes mais perceptíveis                                                                           |
-| AirPods Pro 2 | <span class="version-badge">V5.4</span> | Áudio Espacial perfeito, Rede Find My                                                                                                     |
-| AirPods Gen 3 | <span class="version-badge">V1E</span>  | iCloud Connect, Rede Find My                                                                                                            |
-| AirPods Max   | <span class="version-badge">V3</span>   | Conexão Multi-dispositivo, ANC original do AirPods Max, Melhor Modo Transparência e detalhes mais sutis                                            |
-| AirPods Pro   | <span class="version-badge">V4.9</span> | Cancelamento de Ruído 1:1 (embora já seja bem próximo), Rede Find My                                                                            |
-| AirPods Gen 2 | <span class="version-badge">V3E</span>  | iCloud Connect, Rede Find My                                                                                                              |
+| [AirPods Pro 3](/pt/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Rede Find My                                                                           |
+| [AirPods Gen 4](/pt/version-info/airpods-4) | <span class="version-badge">V3</span>   | Rede Find My, Efeitos Sonoros do estojo precisos e detalhes mais perceptíveis                                                                           |
+| [AirPods Pro 2](/pt/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Áudio Espacial perfeito, Rede Find My                                                                                                     |
+| [AirPods Gen 3](/pt/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Rede Find My                                                                                                            |
+| [AirPods Max](/pt/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Conexão Multi-dispositivo, ANC original do AirPods Max, Melhor Modo Transparência e detalhes mais sutis                                            |
+| [AirPods Pro](/pt/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | Cancelamento de Ruído 1:1 (embora já seja bem próximo), Rede Find My                                                                            |
+| [AirPods Gen 2](/pt/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Rede Find My                                                                                                              |
 
 **Todos Possuem:**
 
@@ -42,7 +42,7 @@ Todos os modelos carecem do seguinte recurso:
 
 - Disponibilidade da "Rede Find My" (Buscar)
 
-**Nota:** Esta lista está ordenada dos modelos mais novos para os mais antigos. Um número de versão mais alto costuma, mas nem sempre, indicar um modelo melhor.
+**Nota:** Esta lista está ordenada dos modelos mais novos para os mais antigos. Um número de versão mais alto costuma, mas nem sempre, indicar um modelo melhor. Pronto para comprar? Veja [como encomendar](/pt/ordering/how-to-buy) dos nossos [vendedores confiáveis](/pt/links/info).
 
 ## Perguntas Frequentes (FAQ)
 
@@ -51,7 +51,7 @@ As réplicas de AirPods Max já estão disponíveis e se tornaram modelos muito 
 :::
 
 ::: details Existem réplicas de AirPods Pro 3 disponíveis?
-As réplicas de AirPods Pro 3 estão disponíveis, mas apenas versões de gama média foram lançadas até o momento. Ainda não existem versões de alta qualidade de marcas como TigerBuilder. Para mais informações, consulte a página de [informações da versão do AirPods Pro 3](/version-info/airpods-pro-3).
+As réplicas de AirPods Pro 3 estão disponíveis. O V7 (Huilian 377H3) é a primeira versão de alta qualidade, apresentando sensor de frequência cardíaca, ANC Híbrido com IA aprimorado e controles por gestos de cabeça — links de compra em breve. O V6 está atualmente disponível nos vendedores confiáveis. Para mais informações, consulte a página de [informações da versão do AirPods Pro 3](/pt/version-info/airpods-pro-3).
 :::
 
 ::: details Por que algumas comunidades similares podem ter produtos mais novos que este guia?
@@ -67,7 +67,7 @@ Não é possível determinar a versão de um clone sem usá-lo de fato. Os núme
 :::
 
 ::: details Como posso determinar o chip nos meus AirPods?
-Para identificar o chip em seus clones de AirPods, consulte esta lista de [aplicativos úteis](https://airpodsreplicas.com/pt/useful-apps). Teste cada aplicativo individualmente para determinar a qual deles seus AirPods se conectam. Isso ajudará você a identificar rapidamente o fabricante e o chipset. Observe que, se seus AirPods forem de categoria muito baixa, eles podem não se conectar a nenhum dos aplicativos. Nesses casos, eles provavelmente usam o chipset Jieli.
+Para identificar o chip em seus clones de AirPods, consulte esta lista de [aplicativos úteis](/pt/useful-apps). Teste cada aplicativo individualmente para determinar a qual deles seus AirPods se conectam. Isso ajudará você a identificar rapidamente o fabricante e o chipset. Observe que, se seus AirPods forem de categoria muito baixa, eles podem não se conectar a nenhum dos aplicativos. Nesses casos, eles provavelmente usam o chipset Jieli.
 :::
 
 ::: details Como posso saber se meus AirPods são originais?

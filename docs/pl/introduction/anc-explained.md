@@ -25,7 +25,7 @@ Ponieważ nie słyszy anty-szumów, które produkuje, ANC feedforward nie ma sam
 
 ANC Hybrydowe łączy ANC feedback i feedforward, wykorzystując zarówno wewnętrzne, jak i zewnętrzne mikrofony. Zapewnia korzyści obu metod, minimalizując ich wady. ANC Hybrydowe tłumi szumy w szerszym zakresie, adaptuje się do nagłych zmian w szumach i nie jest wrażliwe na pozycję słuchawek.
 
-Jednak użycie dwóch mikrofonów zwiększa koszty produkcji i złożoność. Technologia wymaga większej ekspertyzy do prawidłowej implementacji. Oryginalne AirPods Pro wykorzystują hybrydowe ANC, co przyczynia się do ich wyższej ceny. Wiele obecnych klonów AirPods również implementuje hybrydowe ANC przy użyciu zaawansowanych chipsetów. Na przykład v5.3 TB (z chipsetem Airoha 1571AM) replikuje efekt hybrydowego ANC dla pełnego i autentycznego doświadczenia redukcji szumów.
+Jednak użycie dwóch mikrofonów zwiększa koszty produkcji i złożoność. Technologia wymaga większej ekspertyzy do prawidłowej implementacji. Oryginalne AirPods Pro wykorzystują hybrydowe ANC, co przyczynia się do ich wyższej ceny. Wiele obecnych klonów AirPods również implementuje hybrydowe ANC przy użyciu zaawansowanych chipsetów. Na przykład [v5.3 TB](/pl/version-info/airpods-pro-2) (z chipsetem Airoha 1571AM) replikuje efekt hybrydowego ANC dla pełnego i autentycznego doświadczenia redukcji szumów. Aby dowiedzieć się, jak to wpływa na codzienne użytkowanie, zobacz nasze sekcje [jakość dźwięku](/pl/introduction/sound-quality) i [funkcje](/pl/introduction/features).
 
 ::: tip
 Hybrydowe ANC, choć droższe, łączy korzyści zarówno ANC feedback, jak i feedforward, zapewniając bardziej kompleksowe doświadczenie redukcji szumów.

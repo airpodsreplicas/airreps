@@ -1,5 +1,5 @@
 ---
-description: En guide til forståelse af batterilevetiden for AirPods-kopier, herunder variationer i levetid, batteriniveaunøjagtighed og forholdsregler ved trådløs opladning.
+description: Forventninger til batterilevetid, variationer efter model og sikkerhedstips til opladning.
 ---
 
 # Batterilevetid
@@ -16,11 +16,11 @@ Nuværende kopimodeller tilbyder generelt 8-10 timers batterilevetid, selvom yde
 
 ## Variationer i Batterilevetid
 
-Den faktiske batterilevetid kan variere afhængigt af modelversionen, chipgenerationen, produktionspartiet og brugsmønstre. Faktorer som lydstyrkeniveau, anvendte funktioner og kopiens alder kan alle påvirke ydeevnen.
+Den faktiske batterilevetid kan variere afhængigt af modelversionen, chipgenerationen, produktionspartiet og brugsmønstre. Faktorer som lydstyrkeniveau, [anvendte funktioner](/da/introduction/features) og kopiens alder kan alle påvirke ydeevnen. Tjek [versionssammenligningstabellerne](/da/version-info/general) for batterilevetidsdata pr. model.
 
 ## Batteriniveaunøjagtighed
 
-Batteriniveauerne på iOS-enheder er muligvis ikke altid nøjagtige, selvom dette problem stort set er løst i nyere kopier. Dog vil kopierne, ligesom originale AirPods, bippe, når batteriet når 20%. På Android-enheder kan batteriniveauer tjekkes i Bluetooth-indstillinger eller ved hjælp af apps som TWTools, Materialpods eller Andropods for mere nøjagtige aflæsninger.
+Batteriniveauerne på iOS-enheder er muligvis ikke altid nøjagtige, selvom dette problem stort set er løst i nyere kopier. Dog vil kopierne, ligesom originale AirPods, bippe, når batteriet når 20%. På Android-enheder kan batteriniveauer tjekkes i Bluetooth-indstillinger eller ved hjælp af apps som TWTools, Materialpods eller Andropods for mere nøjagtige aflæsninger. Se vores side med [nyttige apps](/da/useful-apps) for downloadlinks til producent- og værktøjsapps.
 
 ::: warning
 Batteriniveauaflæsninger på iOS-enheder er muligvis ikke altid nøjagtige. Android-brugere kan bruge specifikke apps til mere præcis overvågning.

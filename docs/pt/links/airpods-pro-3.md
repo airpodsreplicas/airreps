@@ -14,6 +14,24 @@ description: "Vendedores verificados e links para réplicas AirPods Pro 3."
     <th>Jenny</th>
   </tr>
   <tr>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td>
+      <div class="link-column">
+        Em breve
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Em breve
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Em breve
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
     <td>
       <div class="link-column">
@@ -80,6 +98,8 @@ description: "Vendedores verificados e links para réplicas AirPods Pro 3."
     </td>
   </tr>
 </table>
+
+
 
 ::: tip
 Escolher um link do Weidian requer o uso de um agente para o envio. Recomendamos esta opção apenas se você deseja consolidar o envio com outros itens e está familiarizado com plataformas de agentes. Para um agente confiável, recomendamos o [KakoBuy](https://airreps.link/kakobuy).

@@ -31,10 +31,12 @@ Demander une « boîte Apple » peut entraîner la saisie du produit à la douan
 
 La meilleure option pour la plupart des acheteurs. Une boîte extérieure générique qui ressemble à des écouteurs ordinaires, avec la Boîte avec Logo Apple cachée à l'intérieur. Cela réduit sensiblement le risque de saisie en douane tout en vous offrant l'emballage complet marqué Apple.
 
+Lorsque vous sélectionnez la Boîte avec Logo Apple lors du paiement, la boîte double est automatiquement incluse — les vendeurs expédient toujours les boîtes Apple à l'intérieur d'une boîte leurre pour la protection. L'option boîte Apple est pré-sélectionnée sur la plupart des méthodes de paiement, bien que certaines puissent facturer un petit supplément. Si vous commandez via **Alibaba**, la boîte Apple/double n'est **pas disponible** — vous recevrez toujours une boîte sans logo.
+
 <img src="/doublebox.webp" alt="Boîte Double/Leurre" width="300px"/>
 
 ::: tip
-La boîte double est généralement pré-sélectionnée lors du paiement, mais vérifiez toujours que l'option est activée avant de finaliser votre commande.
+La boîte Apple (qui est toujours livrée en boîte double) est généralement pré-sélectionnée lors du paiement. Vérifiez bien qu'elle est cochée avant de finaliser votre commande.
 :::
 
 ## Qualité de la Boîte
@@ -47,8 +49,8 @@ Demandez toujours des photos si la qualité de la boîte est importante pour vou
 
 ## Manipulation et Expédition
 
-La boîte ou l'emballage peut arriver légèrement cabossé ou froissé en raison de la manipulation par les transporteurs internationaux et locaux, pas le vendeur.
+La boîte ou l'emballage peut arriver légèrement cabossé ou froissé en raison de la manipulation par les transporteurs internationaux et locaux, pas le vendeur. Pour des conseils sur le processus de commande et les attentes d'expédition, consultez [comment acheter](/ordering/how-to-buy).
 
 ## Câble de Charge
 
-Le câble de charge inclus peut ne pas supporter le transfert de données comme beaucoup d'autres câbles USB. Les vendeurs utilisent souvent des câbles avec des broches factices au lieu de vraies broches fonctionnelles pour réduire les coûts.
+Le câble de charge inclus peut ne pas supporter le transfert de données comme beaucoup d'autres câbles USB. Les [vendeurs](/introduction/sellers) utilisent souvent des câbles avec des broches factices au lieu de vraies broches fonctionnelles pour réduire les coûts.

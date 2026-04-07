@@ -16,11 +16,11 @@ Güncel replika modelleri genel olarak 8-10 saatlik pil ömrü sunar, ancak perf
 
 ## Pil Ömrü Farklılıkları
 
-Gerçek pil ömrü model versiyonuna, çip nesline, üretim partisine ve kullanım alışkanlıklarına bağlı olarak değişebilir. Ses seviyesi, kullanılan özellikler ve replikanın yaşı gibi faktörlerin hepsi performansı etkileyebilir.
+Gerçek pil ömrü model versiyonuna, çip nesline, üretim partisine ve kullanım alışkanlıklarına bağlı olarak değişebilir. Ses seviyesi, [kullanılan özellikler](/introduction/features) ve replikanın yaşı gibi faktörlerin hepsi performansı etkileyebilir. Model bazında pil ömrü verileri için [versiyon karşılaştırma tablolarına](/version-info/general) bak.
 
 ## Pil Seviyesi Doğruluğu
 
-iOS cihazlardaki pil seviyeleri her zaman doğru olmayabilir, ancak bu sorun daha yeni replikalarda büyük ölçüde çözülmüştür. Yine de orijinal AirPods'ta olduğu gibi replikalar da pil %20'ye düştüğünde bip sesi çıkaracaktır. Android cihazlarda pil seviyeleri Bluetooth ayarlarından veya TWTools, Materialpods ya da Andropods gibi uygulamalar kullanılarak daha doğru ölçümlerle kontrol edilebilir.
+iOS cihazlardaki pil seviyeleri her zaman doğru olmayabilir, ancak bu sorun daha yeni replikalarda büyük ölçüde çözülmüştür. Yine de orijinal AirPods'ta olduğu gibi replikalar da pil %20'ye düştüğünde bip sesi çıkaracaktır. Android cihazlarda pil seviyeleri Bluetooth ayarlarından veya TWTools, Materialpods ya da Andropods gibi uygulamalar kullanılarak daha doğru ölçümlerle kontrol edilebilir. Üretici ve yardımcı uygulamaların indirme linkleri için [faydalı uygulamalar](/useful-apps) sayfamıza bak.
 
 ::: warning
 iOS cihazlardaki pil seviyesi okumaları her zaman doğru olmayabilir. Android kullanıcıları daha hassas izleme için özel uygulamalar kullanabilir.

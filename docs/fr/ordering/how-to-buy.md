@@ -5,16 +5,16 @@ description: "Commander en sécurité : Paiements, expédition et éviter les ar
 # Commander
 
 ::: info
-Vous cherchez à acheter des faux AirPods ? Ce guide explique l'approvisionnement sécurisé et les contrôles qualité pour les répliques.
+Vous cherchez à acheter des répliques d'AirPods ? Ce guide couvre l'approvisionnement sécurisé, les méthodes de paiement et ce qu'il faut vérifier lors de la commande.
 :::
 
 ## Comment Acheter
 
-Nous recommandons toujours d'acheter auprès de [vendeurs de confiance](https://airpodsreplicas.com/fr/links/info). La plupart des vendeurs ont leurs propres sites web qui acceptent diverses méthodes de paiement incluant [Carte de Crédit](#note-carte-credit), [AliPay](#payer-avec-alipay), Revolut, Wise, Bitcoin et Virement Bancaire. Tous les vendeurs ont également des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy).
+Nous recommandons toujours d'acheter auprès de [vendeurs de confiance](/links/info). La plupart des vendeurs ont leurs propres sites web qui acceptent diverses méthodes de paiement incluant [Carte de Crédit](#note-carte-credit), [AliPay](#payer-avec-alipay), Revolut, Wise, Bitcoin et Virement Bancaire. Tous les vendeurs ont également des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy).
 
 La communauté AirReps recommande plusieurs vendeurs pour éviter un monopole et encourager la concurrence, ce qui bénéficie aux utilisateurs. Chaque vendeur offre des services uniques, un contrôle qualité (QC), des plateformes et des prix différents.
 
-Commander est simple : choisissez le produit que vous voulez et passez à la caisse.
+Commander est simple : choisissez le produit que vous voulez et passez à la caisse. Pas sûr quel modèle choisir ? Faites notre [quiz rapide](/quiz) ou comparez les versions dans la section [informations de version](/version-info/general).
 
 ::: tip
 Les paiements via Wise ou Virement Bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures avant que votre commande soit traitée.
@@ -44,7 +44,7 @@ Nous recommandons les étapes suivantes :
 
 1. **Taxes** : Nous recommandons uniquement les vendeurs de confiance qui s'occupent de la TVA/Taxes à l'avance pour les acheteurs européens, donc vous n'aurez pas à payer la TVA lorsque le colis arrivera dans l'UE.
 
-2. **Boîte du Produit** : Pour une boîte avec les logos Apple, demandez « avec boîte Apple » au lieu d'une « boîte sans logo ». Cependant, cela comporte un risque plus élevé que le colis soit saisi à la douane et que vous ne receviez pas de remboursement. Nous ne recommandons pas cette option, car les AirPods à l'intérieur sont identiques quelle que soit la boîte. Si vous voulez prendre le risque, vous pouvez demander une boîte avec les logos Apple.
+2. **Boîte du Produit** : Pour une boîte avec les logos Apple, demandez « avec boîte Apple » au lieu d'une « boîte sans logo ». Cependant, cela comporte un risque plus élevé que le colis soit saisi à la douane et que vous ne receviez pas de remboursement. Nous ne recommandons pas cette option, car les AirPods à l'intérieur sont identiques quelle que soit la boîte. Si vous voulez prendre le risque, vous pouvez demander une boîte avec les logos Apple. En savoir plus sur les types de boîtes dans notre [guide d'emballage](/introduction/packaging).
 
 ::: warning
 Ces informations s'appliquent lors de commandes auprès de vendeurs autres que le site HiCity ou Jenny AirReps. Si vous commandez depuis ces sites, vous n'avez pas à vous soucier des déclarations de douane ou du type de boîte, car ils seront gérés automatiquement.
@@ -61,7 +61,7 @@ Faites savoir aux vendeurs que vous venez de la communauté AirReps. Cela garant
 ## FAQ
 
 ::: details Quelles méthodes de paiement les vendeurs de confiance acceptent-ils ?
-Les vendeurs de confiance acceptent plusieurs méthodes de paiement incluant Cartes de Crédit, AliPay, Revolut, Wise, Virement Bancaire et Bitcoin. Tous les vendeurs ont des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy). Notez que PayPal n'est actuellement supporté par aucun vendeur. Les options de paiement peuvent varier selon le vendeur—consultez le [tableau des méthodes de paiement](https://airpodsreplicas.com/fr/links/info#méthodes-de-paiement) pour une répartition détaillée.
+Les vendeurs de confiance acceptent plusieurs méthodes de paiement incluant Cartes de Crédit, AliPay, Revolut, Wise, Virement Bancaire et Bitcoin. Tous les vendeurs ont des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy). Notez que PayPal n'est actuellement supporté par aucun vendeur. Les options de paiement peuvent varier selon le vendeur—consultez le [tableau des méthodes de paiement](/links/info#payment-methods) pour une répartition détaillée.
 :::
 <span id="note-carte-credit"></span>
 ::: details Pourquoi suis-je redirigé vers un site crypto lorsque je paie par Carte de Crédit ?

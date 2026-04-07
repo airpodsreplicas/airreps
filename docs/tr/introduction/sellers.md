@@ -24,7 +24,7 @@ En iyi deneyim için [topluluk tarafından doğrulanmış güvenilir satıcılar
 
 ## Bayiler ve Uygulamaları
 
-Bazı bayiler AirPods replikalarını daha yüksek fiyatlarla, bazen garanti, alıcı koruması veya hızlı kargo gibi ek hizmetlerle sunar. Ancak bu hizmetler bir prim karşılığında gelir ve daha yüksek fiyat mutlaka daha iyi bir ürünü garanti etmez. Önerdiğimiz güvenilir satıcılar genellikle aynı veya daha iyi kalitede ürünleri daha rekabetçi fiyatlarla sunar.
+Bazı bayiler AirPods replikalarını daha yüksek fiyatlarla, bazen garanti, alıcı koruması veya hızlı kargo gibi ek hizmetlerle sunar. Ancak bu hizmetler bir prim karşılığında gelir ve daha yüksek fiyat mutlaka daha iyi bir ürünü garanti etmez. Önerdiğimiz güvenilir satıcılar genellikle aynı veya daha iyi kalitede ürünleri daha rekabetçi fiyatlarla sunar. Adım adım sipariş rehberi için [nasıl satın alınır](/ordering/how-to-buy) sayfasına bak.
 
 ::: tip
 Önerdiğimiz güvenilir satıcılar mükemmel değer ve kalite sunar. Bayiler ek hizmetler sunsa da aynı ürünleri genellikle doğrudan güvenilir satıcılardan daha iyi fiyatlarla alabilirsin.

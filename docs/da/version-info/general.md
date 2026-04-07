@@ -1,5 +1,5 @@
 ---
-description: "Oversigt over manglende funktioner i alle AirPods-kopier. Sammenlign hvad der mangler i hver version. Nyere versioner er ikke nødvendigvis bedre."
+description: "En oversigt over manglende funktioner i alle AirPods-kopimodeller. Sammenlign hvad hver version mangler og opdag fælles funktioner. Bemærk at nyere versioner ikke nødvendigvis betyder bedre kvalitet."
 ---
 
 # Generelt
@@ -20,13 +20,13 @@ Tag vores [hurtige quiz](/da/quiz) — besvar et par spørgsmål og få en perso
 
 | AirPods Model | Baseret På | Manglende Funktioner                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AirPods Pro 3 | <span class="version-badge">V6</span>   | Pulssensor, Højere byggekvalitet, Nikkebevægelser, Find My-netværk                                                                           |
-| AirPods Gen 4 | <span class="version-badge">V3</span>   | Find My-netværk, Nøjagtige etui-lyde og mere mærkbare detaljer                                                                           |
-| AirPods Pro 2 | <span class="version-badge">V5.4</span> | Perfekt Spatial Audio, Find My-netværk                                                                                                     |
-| AirPods Gen 3 | <span class="version-badge">V1E</span>  | iCloud Connect, Find My-netværk                                                                                                            |
-| AirPods Max   | <span class="version-badge">V3</span>   | Multi-enhedsforbindelse, Retail AirPods Max ANC, Bedre Transparency-tilstand og flere subtile detaljer                                            |
-| AirPods Pro   | <span class="version-badge">V4.9</span> | 1:1 Støjreduktion (den er allerede temmelig tæt), Find My-netværk                                                                            |
-| AirPods Gen 2 | <span class="version-badge">V3E</span>  | iCloud Connect, Find My-netværk                                                                                                              |
+| [AirPods Pro 3](/da/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My-netværk                                                                           |
+| [AirPods Gen 4](/da/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My-netværk, Nøjagtige etui-lyde og mere mærkbare detaljer                                                                           |
+| [AirPods Pro 2](/da/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfekt Spatial Audio, Find My-netværk                                                                                                     |
+| [AirPods Gen 3](/da/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My-netværk                                                                                                            |
+| [AirPods Max](/da/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Multi-enhedsforbindelse, Retail AirPods Max ANC, Bedre Transparency-tilstand og flere subtile detaljer                                            |
+| [AirPods Pro](/da/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Støjreduktion (den er allerede temmelig tæt), Find My-netværk                                                                            |
+| [AirPods Gen 2](/da/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My-netværk                                                                                                              |
 
 **Alle Har:**
 
@@ -42,7 +42,7 @@ Alle modeller mangler følgende funktion:
 
 - "Find My-netværk" tilgængelighed
 
-**Bemærk:** Denne liste er ordnet fra nyere til ældre modeller. Et højere nummer indikerer ofte, men ikke altid, en bedre model.
+**Bemærk:** Denne liste er ordnet fra nyere til ældre modeller. Et højere nummer indikerer ofte, men ikke altid, en bedre model. Klar til at købe? Se [sådan bestiller du](/da/ordering/how-to-buy) fra vores [betroede sælgere](/da/links/info).
 
 ## FAQ
 
@@ -51,7 +51,7 @@ AirPods Max-kopier er nu tilgængelige og er blevet velafrundede kopier. Jenny o
 :::
 
 ::: details Er AirPods Pro 3-kopier tilgængelige?
-AirPods Pro 3-kopier er tilgængelige, men kun mellemklasseversioner er udgivet indtil videre. Der er ingen high-end versioner fra mærker som TigerBuilder endnu. For mere information, se [AirPods Pro 3 versionsinfo](/da/version-info/airpods-pro-3) siden.
+AirPods Pro 3-kopier er tilgængelige. V7 (Huilian 377H3) er den første high-end version med pulssensor, opgraderet AI Hybrid ANC og hovedbevægelseskontroller — købslinks kommer snart. V6 er i øjeblikket tilgængelig fra betroede sælgere. For mere information, se [AirPods Pro 3 versionsinfo](/da/version-info/airpods-pro-3) siden.
 :::
 
 ::: details Hvorfor kan lignende fællesskaber have nyere produkter end denne guide?
@@ -67,7 +67,7 @@ Det er ikke muligt at bestemme versionen af en klon uden faktisk at bruge den. C
 :::
 
 ::: details Hvordan kan jeg bestemme chippen i mine AirPods?
-For at identificere chippen i dine AirPods-kloner, henvis til denne liste med [nyttige apps](https://airpodsreplicas.com/da/useful-apps). Test hver app individuelt for at bestemme hvilken dine AirPods forbinder til. Dette vil hjælpe dig med hurtigt at identificere producenten og chipsettet. Bemærk at hvis dine AirPods er meget lavt-tier, forbinder de måske ikke til nogen af appene. I sådanne tilfælde bruger de sandsynligvis Jieli-chipsettet.
+For at identificere chippen i dine AirPods-kloner, henvis til denne liste med [nyttige apps](/da/useful-apps). Test hver app individuelt for at bestemme hvilken dine AirPods forbinder til. Dette vil hjælpe dig med hurtigt at identificere producenten og chipsettet. Bemærk at hvis dine AirPods er meget lavt-tier, forbinder de måske ikke til nogen af appene. I sådanne tilfælde bruger de sandsynligvis Jieli-chipsettet.
 :::
 
 ::: details Hvordan kan jeg bestemme om mine AirPods er ægte?

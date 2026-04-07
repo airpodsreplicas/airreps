@@ -4,7 +4,7 @@ description: "Comparez les versions de répliques des AirPods 4 par puce, foncti
 
 # AirPods 4
 
-Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis pour le modèle donné.
+Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis pour le modèle donné. Pour les liens d'achat, consultez les [liens AirPods 4](/links/airpods-4). Pour en savoir plus sur l'[ANC](/introduction/anc-explained), la [qualité sonore](/introduction/sound-quality) et les autres [fonctionnalités](/introduction/features), consultez les sections du guide.
 
 | Version                                                                  | Puce        | Fonctionnalités Présentes | Fonctionnalités Manquantes |
 |--------------------------------------------------------------------------|-------------|---------------------------|----------------------------|

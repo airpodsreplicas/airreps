@@ -15,16 +15,16 @@ Na rynku jest wielu sprzedawców replik AirPods, ale najlepsze doświadczenia za
 Choć możesz znaleźć sprzedawców na chińskich serwisach e-commerce, takich jak AliExpress czy DHgate, recenzje na tych platformach nie zawsze są bezstronne lub autentyczne. Zakupy u niezweryfikowanych sprzedawców wiążą się z większym ryzykiem, ponieważ jakość produktów i obsługa klienta mogą się znacznie różnić. Jeśli kupisz od niezweryfikowanego sprzedawcy i napotkasz problemy, prosimy podziel się swoim doświadczeniem z naszym zespołem.
 
 ::: tip
-Znajdź [listę sprzedawców zweryfikowanych przez społeczność i godnych zaufania tutaj](https://airpodsreplicas.com/links/info).
+Znajdź [listę sprzedawców zweryfikowanych przez społeczność i godnych zaufania tutaj](/pl/links/info).
 :::
 
 ::: tip
-Dla najlepszego doświadczenia zdecydowanie zalecamy zakupy u naszych [sprzedawców zaufanych i zweryfikowanych przez społeczność](https://airpodsreplicas.com/links/info). Mają udokumentowane osiągnięcia i oferują niezawodne produkty oraz dobrą obsługę klienta.
+Dla najlepszego doświadczenia zdecydowanie zalecamy zakupy u naszych [sprzedawców zaufanych i zweryfikowanych przez społeczność](/pl/links/info). Mają udokumentowane osiągnięcia i oferują niezawodne produkty oraz dobrą obsługę klienta.
 :::
 
 ## Resellerzy i ich praktyki
 
-Niektórzy resellerzy oferują repliki AirPods po wyższych cenach, czasem z dodatkowymi usługami, takimi jak gwarancje, ochrona kupującego czy przyspieszona wysyłka. Te usługi jednak kosztują więcej, a wyższa cena niekoniecznie oznacza lepszy produkt. Zaufani sprzedawcy, których polecamy, zazwyczaj oferują ten sam lub lepszy poziom jakości przy bardziej konkurencyjnych cenach.
+Niektórzy resellerzy oferują repliki AirPods po wyższych cenach, czasem z dodatkowymi usługami, takimi jak gwarancje, ochrona kupującego czy przyspieszona wysyłka. Te usługi jednak kosztują więcej, a wyższa cena niekoniecznie oznacza lepszy produkt. Zaufani sprzedawcy, których polecamy, zazwyczaj oferują ten sam lub lepszy poziom jakości przy bardziej konkurencyjnych cenach. Krok po kroku jak złożyć zamówienie znajdziesz w poradniku [jak kupować](/pl/ordering/how-to-buy).
 
 ::: tip
 Nasi polecani zaufani sprzedawcy zapewniają świetny stosunek jakości do ceny. Choć resellerzy mogą oferować dodatkowe usługi, często można kupić te same produkty bezpośrednio od zaufanych sprzedawców w lepszych cenach.

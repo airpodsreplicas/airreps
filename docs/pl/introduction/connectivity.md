@@ -9,7 +9,7 @@ Zrozumienie łączności klonów AirPods może pomóc Ci podjąć świadomą dec
 
 ## Wyskakujące Okno iOS
 
-Wyskakujące okno iOS pojawia się niemal natychmiast na klonach AirPods, chociaż szybkość może się różnić w zależności od sprzedawcy i partii. W niektórych przypadkach wyskakujące okno może pojawiać się szybciej niż na oryginalnych AirPods.
+Wyskakujące okno iOS pojawia się niemal natychmiast na klonach AirPods, chociaż szybkość może się różnić w zależności od [sprzedawcy](/pl/introduction/sellers) i partii. W niektórych przypadkach wyskakujące okno może pojawiać się szybciej niż na oryginalnych AirPods.
 
 ## Łączność z macOS
 
@@ -33,4 +33,4 @@ Połączenie wielourządzeniowe przez iCloud Connect jest obsługiwane tylko na 
 
 ## Początkowe Połączenie z Urządzeniami iOS
 
-W niektórych przypadkach klony AirPods mogą początkowo nie łączyć się z urządzeniami iOS. Jednak często istnieje rozwiązanie tego problemu. Proszę zapoznaj się z sekcją Rozwiązywanie Problemów po więcej informacji.
+W niektórych przypadkach klony AirPods mogą początkowo nie łączyć się z urządzeniami iOS. Jednak często istnieje rozwiązanie tego problemu. Zobacz [Typowe problemy](/pl/troubleshooting/other-common-bugs), aby poznać procedury resetowania, lub [poprawkę kompatybilności z iCloud](/pl/troubleshooting/AirReps-Incompatibility-with-iCloud), jeśli problem dotyczy parowania z macOS.

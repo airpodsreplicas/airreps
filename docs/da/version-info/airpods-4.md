@@ -4,7 +4,7 @@ description: "Sammenlign AirPods 4-kopier efter chip, funktioner og manglende fu
 
 # AirPods 4
 
-Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne model.
+Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne model. For købslinks, se [AirPods 4 links](/da/links/airpods-4). For at lære om [ANC](/da/introduction/anc-explained), [lydkvalitet](/da/introduction/sound-quality) og andre [funktioner](/da/introduction/features), tjek guideafsnittene.
 
 | Version                                                                  | Chip        | Har Funktioner | Manglende Funktioner |
 |--------------------------------------------------------------------------|-------------|--------------|------------------|

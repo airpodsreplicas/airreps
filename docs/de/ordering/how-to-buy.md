@@ -14,7 +14,7 @@ Wir empfehlen immer, bei [vertrauenswürdigen Verkäufern](/links/info) zu kaufe
 
 Die AirReps-Community empfiehlt mehrere Verkäufer, um ein Monopol zu vermeiden und den Wettbewerb zu fördern, was den Nutzern zugutekommt. Jeder Verkäufer bietet einzigartige Services, Qualitätskontrolle (QC), Plattformen und Preise.
 
-Das Bestellen ist einfach: Wähle das gewünschte Produkt aus und schließe den Kauf ab.
+Das Bestellen ist einfach: Wähle das gewünschte Produkt aus und schließe den Kauf ab. Nicht sicher, welches Modell? Mach unser [kurzes Quiz](/quiz) oder vergleiche Versionen im Bereich [Versionsinfo](/version-info/general).
 
 ::: tip
 Zahlungen per Wise oder Banküberweisung erfordern eine manuelle Überprüfung durch den Verkäufer, die bis zu 24 Stunden dauern kann, bevor deine Bestellung bearbeitet wird.
@@ -43,7 +43,7 @@ Wir empfehlen die folgenden Schritte:
 
 1. **Steuern**: Wir empfehlen nur vertrauenswürdige Verkäufer, die sich für europäische Käufer vorab um MwSt./Steuern kümmern, sodass du keine MwSt. zahlen musst, wenn das Paket in der EU ankommt.
 
-2. **Produktbox**: Für eine Box mit Apple-Logos, fordere eine „with Apple box" statt einer „no logo box" an. Dies birgt jedoch ein höheres Risiko, dass das Paket vom Zoll beschlagnahmt wird und du keine Rückerstattung erhältst. Wir empfehlen diese Option nicht, da die AirPods im Inneren unabhängig von der Box identisch sind. Wenn du das Risiko eingehen möchtest, kannst du eine Box mit Apple-Logos anfordern.
+2. **Produktbox**: Für eine Box mit Apple-Logos, fordere eine „with Apple box" statt einer „no logo box" an. Dies birgt jedoch ein höheres Risiko, dass das Paket vom Zoll beschlagnahmt wird und du keine Rückerstattung erhältst. Wir empfehlen diese Option nicht, da die AirPods im Inneren unabhängig von der Box identisch sind. Wenn du das Risiko eingehen möchtest, kannst du eine Box mit Apple-Logos anfordern. Mehr über die verschiedenen Box-Typen erfährst du in unserem [Verpackungsguide](/introduction/packaging).
 
 ::: warning
 Diese Informationen gelten beim Bestellen bei anderen Verkäufern als der HiCity- oder Jenny-AirReps-Website. Wenn du bei diesen Websites bestellst, brauchst du dir keine Sorgen um Zollerklärungen oder den Box-Typ zu machen, da dies automatisch gehandhabt wird.

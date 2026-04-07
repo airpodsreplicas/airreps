@@ -4,7 +4,7 @@ description: "Compare versões de réplica do AirPods 4 por chip, recursos e rec
 
 # AirPods 4
 
-Clique no link na coluna 'Versão' para encontrar análises do modelo correspondente.
+Clique no link na coluna 'Versão' para encontrar análises do modelo correspondente. Para links de compra, veja [links do AirPods 4](/pt/links/airpods-4). Para saber mais sobre [ANC](/pt/introduction/anc-explained), [qualidade de som](/pt/introduction/sound-quality) e outros [recursos](/pt/introduction/features), confira as seções do guia.
 
 | Versão                                                                  | Chip        | Possui Recursos | Recursos Ausentes |
 |--------------------------------------------------------------------------|-------------|--------------|------------------|

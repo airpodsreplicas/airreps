@@ -5,9 +5,9 @@ translationStatus: machine-translated
 
 # Przydatne aplikacje
 
-Aktualizacja firmware'u twoich klonów może często dodać nowe funkcje, takie jak spatial audio, lub poprawić ich stabilność. Aby to zrobić, możesz używać różnych aplikacji dostępnych do pobrania. Zauważ jednak, że **większość tych aplikacji jest dostępna tylko dla urządzeń Android**.
+Aktualizacja firmware'u twoich klonów może często dodać nowe funkcje, takie jak spatial audio, lub poprawić ich stabilność. Aby to zrobić, możesz używać różnych aplikacji dostępnych do pobrania. Zauważ jednak, że **większość tych aplikacji jest dostępna tylko dla urządzeń Android**. Aby sprawdzić, jaki chipset mają twoje repliki, zobacz [tabele porównawcze wersji](/pl/version-info/general).
 
-Poniżej znajdziesz aplikacje, które można pobrać, aby ci pomóc, wraz z wersjami i chipsetami klonów, które obsługują. Jeśli masz problemy z instalacją aplikacji spoza Sklepu Play, upewnij się, że włączyłeś 'Instaluj z nieznanych źródeł' w ustawieniach (w sekcji Bezpieczeństwo lub Dostępność). Aby uzyskać więcej informacji o używaniu tych aplikacji i unikaniu problemów, odwiedź nasz [Discord](https://airreps.link/discord).
+Poniżej znajdziesz aplikacje, które można pobrać, aby ci pomóc, wraz z wersjami i chipsetami klonów, które obsługują. Jeśli masz problemy z instalacją aplikacji spoza Sklepu Play, upewnij się, że włączyłeś 'Instaluj z nieznanych źródeł' w ustawieniach (w sekcji Bezpieczeństwo lub Dostępność). Te aplikacje mogą również pomóc dostosować [jakość dźwięku](/pl/introduction/sound-quality) poprzez ustawienia EQ. Aby uzyskać więcej informacji o używaniu tych aplikacji i unikaniu problemów, odwiedź nasz [Discord](https://airreps.link/discord).
 
 ## **Tigerbuilder**
 

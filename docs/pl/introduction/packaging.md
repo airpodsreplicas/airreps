@@ -1,5 +1,6 @@
 ---
-description: "Packaging types explained: No-logo, Apple Logo, and Double/Decoy boxes. Risks and quality details."
+description: "Rodzaje opakowań: bez logo, z logo Apple i pudełko podwójne/przynęta. Ryzyko i szczegóły jakości."
+translationStatus: machine-translated
 ---
 
 # Opakowanie
@@ -31,12 +32,12 @@ Zamówienie "pudełka Apple" może prowadzić do konfiskaty produktu przez celni
 
 Najlepsza opcja dla większości kupujących. Zewnętrzne, generyczne pudełko przypominające zwykłe słuchawki, z Pudełkiem z Logo Apple ukrytym w środku. To znacznie zmniejsza ryzyko konfiskaty przez celników, a jednocześnie pozwala otrzymać pełne, brandowane opakowanie Apple.
 
-Większość zaufanych sprzedawców automatycznie dołącza pudełko podwójne przy finalizacji zamówienia — szukaj pola wyboru lub opcji na stronie zamówienia i upewnij się, że jest zaznaczone. Jeśli zamawiasz przez **Alibaba**, pudełko podwójne **nie jest dostępne** — zawsze otrzymasz Pudełko Bez Logo.
+Gdy wybierzesz opcję Pudełko z Logo Apple przy finalizacji zamówienia, pudełko podwójne jest automatycznie dołączane — sprzedawcy zawsze wysyłają pudełka Apple wewnątrz pudełka-przynęty dla ochrony. Opcja pudełka Apple jest zazwyczaj domyślnie wybrana przy większości metod płatności, choć niektóre mogą pobierać niewielką dodatkową opłatę. Jeśli zamawiasz przez **Alibaba**, pudełko Apple/podwójne **nie jest dostępne** — zawsze otrzymasz Pudełko Bez Logo.
 
 <img src="/doublebox.webp" alt="Double/Decoy Box" width="300px"/>
 
 ::: tip
-Pudełko podwójne jest zazwyczaj domyślnie wybrane przy finalizacji zamówienia, ale zawsze sprawdź, czy opcja jest włączona przed zakończeniem zamówienia.
+Pudełko Apple (które zawsze przychodzi jako pudełko podwójne) jest zazwyczaj domyślnie wybrane przy finalizacji zamówienia. Sprawdź, czy jest zaznaczone przed zakończeniem zamówienia.
 :::
 
 ## Jakość Pudełka
@@ -49,8 +50,8 @@ Zawsze proś o zdjęcia, jeśli jakość pudełka jest dla Ciebie ważna.
 
 ## Obsługa i Wysyłka
 
-Pudełko lub opakowanie może dotrzeć lekko wgniecione lub zagięte z powodu obsługi przez międzynarodowych i lokalnych kurierów, a nie z winy sprzedawcy.
+Pudełko lub opakowanie może dotrzeć lekko wgniecione lub zagięte z powodu obsługi przez międzynarodowych i lokalnych kurierów, a nie z winy sprzedawcy. Wskazówki dotyczące procesu zamawiania i oczekiwań związanych z wysyłką znajdziesz w poradniku [jak kupować](/pl/ordering/how-to-buy).
 
 ## Kabel Ładowania
 
-Dołączony kabel ładowania może nie obsługiwać przesyłu danych jak wiele innych kabli USB. Sprzedawcy często używają kabli z atrapami pinów zamiast prawdziwych działających pinów, aby obniżyć koszty.
+Dołączony kabel ładowania może nie obsługiwać przesyłu danych jak wiele innych kabli USB. [Sprzedawcy](/pl/introduction/sellers) często używają kabli z atrapami pinów zamiast prawdziwych działających pinów, aby obniżyć koszty.

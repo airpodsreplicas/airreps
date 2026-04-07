@@ -16,7 +16,7 @@ Como os AirPods Pro vedam o canal auditivo, eles podem soar significativamente m
 
 ## Variações na Qualidade do Som
 
-A qualidade do som pode variar dependendo da versão, chip e lote. Muitos modelos enfatizam os graves sem serem exagerados. Os médios são pronunciados, mas os agudos poderiam ser melhorados. Observe que o EQ pode variar de acordo com o vendedor, e você pode ajustá-lo usando as configurações do seu player de música.
+A qualidade do som pode variar dependendo da [versão, chip](/pt/version-info/general) e lote. Muitos modelos enfatizam os graves sem serem exagerados. Os médios são pronunciados, mas os agudos poderiam ser melhorados. Observe que o EQ pode variar de acordo com o vendedor, e você pode ajustá-lo usando as configurações do seu player de música ou aplicativos dos fabricantes — veja [aplicativos úteis](/pt/useful-apps) para links de download.
 
 ::: tip
 O EQ pode variar conforme o vendedor. Use o **FlyCC**, **BullSuper** ou **Starfun** para ajustá-lo para dispositivos **TigerBuilder**, **HR** e **Huilian**, respectivamente.

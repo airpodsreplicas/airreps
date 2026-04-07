@@ -5,7 +5,7 @@ description: "AirPods replika sorunları için sorun giderme rehberi: bağlantı
 # **Yaygın Sorunlar**
 
 ::: tip
-[Güvenilir satıcılar](/links/info) aracılığıyla satılan çoğu yeni model bu sorunları çoktan çözmüştür. Sorun yaşıyorsan doğrulanmış bir satıcıdan en son versiyona sahip olduğundan emin ol.
+En son [güvenilir satıcılar](/links/info) aracılığıyla satılan çoğu yeni model bu sorunları çoktan çözmüştür. Sorun yaşıyorsan doğrulanmış bir satıcıdan en son versiyona sahip olduğundan emin ol.
 :::
 
 ## **AirPods Replikaları için Yumuşak Sıfırlama**
@@ -29,7 +29,7 @@ AliExpress gibi sitelerden doğrulanmamış satıcılardan sipariş verirken yan
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **AirPods Replikalarıyla Ses/Video Sık Sık Duraklanması**
-AirPods replikalarını kullanırken ses veya videonun sık sık duraklaması yaygın bir sorundur ve genellikle kulak içi algılama sensörlerinden (Pro modellerinde) kaynaklanır. Bu sorun AirPods kulağına güvenli bir şekilde oturmuyorsa da oluşabilir. Bu sorunu çözmek için farklı kulak uçları seçebilir (Pro modellerinde) veya ayarlardan kulak içi algılamayı kapatabilirsin.
+AirPods replikalarını kullanırken ses veya videonun sık sık duraklaması yaygın bir sorundur ve genellikle [kulak içi algılama sensörlerinden](/introduction/features#in-ear-sensors) (Pro modellerinde) kaynaklanır. Bu sorun AirPods kulağına güvenli bir şekilde oturmuyorsa da oluşabilir. Bu sorunu çözmek için farklı kulak uçları seçebilir (Pro modellerinde) veya ayarlardan kulak içi algılamayı kapatabilirsin.
 
 ## **AirPods Replikaları Şarj Kasası Kapatıldıktan Sonra Bağlı Kalıyor**
 Bazı AirPods replika kullanıcıları, şarj kasasını kapattıktan sonra AirPods'un cihazlarına bağlı kalmaya devam ettiği bir sorunla karşılaşabilir. Bu genellikle AirPods'un konumunu algılamaktan sorumlu olan kasanın içindeki mıknatıslar ve hall sensörünün arızalanmasından kaynaklanır. Bu sorunu çözmek için aşağıdaki YouTube rehberinde belirtilen adımları izle:
@@ -55,4 +55,4 @@ AirPods ile bağlantı sorunlarını gidermek için şu adımları dene:
 - AirPods bağlıyken ses duymuyorsan sıfırlaman gerekebilir.
 
 ## **Bunların Hiçbiri Çözmedi mi?**
-AirPods'un arızalı gelmiş veya onarılamayacak şekilde hasar görmüş olabilir. Sorunu çözmek için cihazı şarjsız bırakmak veya unutmak yerine müzik çalmak gibi yumuşak ve sert sıfırlamalar deneyebilirsin. Bu yöntemlerden hiçbiri işe yaramazsa en iyi seçeneğin satıcıyla iletişime geçip geri ödeme veya değişim talep etmektir.
+AirPods'un arızalı gelmiş veya onarılamayacak şekilde hasar görmüş olabilir. Sorunu çözmek için cihazı şarjsız bırakmak veya unutmak yerine müzik çalmak gibi yumuşak ve sert sıfırlamalar deneyebilirsin. Bu yöntemlerden hiçbiri işe yaramazsa en iyi seçeneğin [satıcıyla](/introduction/sellers) iletişime geçip geri ödeme veya değişim talep etmektir. Durumuna uygunsa [iCloud uyumluluk düzeltmemizi](/troubleshooting/AirReps-Incompatibility-with-iCloud) ve [macOS ses düzeltmesini](/troubleshooting/macOS-volume-slider-fixup) de kontrol et.

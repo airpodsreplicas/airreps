@@ -8,7 +8,7 @@ description: "Sammenlign AirPods Pro-kopier efter chip, funktioner og manglende 
 Denne produktlinje opdateres ikke længere aktivt af producenter, da udviklingen er skiftet til nyere modeller. AirPods Pro-kopier er stadig fremragende produkter og forbliver populære valg. Hvis du leder efter de nyeste funktioner og forbedringer, overvej at tjekke [AirPods Pro 2](/da/version-info/airpods-pro-2) eller [AirPods Pro 3](/da/version-info/airpods-pro-3).
 :::
 
-Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne model.
+Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne model. For købslinks, se [AirPods Pro links](/da/links/airpods-pro). For at lære om [ANC-teknologi](/da/introduction/anc-explained) og [funktioner](/da/introduction/features), tjek guideafsnittene.
 
 | Version                                                              | Chip                        | Har Funktioner                                                                                                                                                                                                      | Manglende Funktioner                                                                                                                                              |
 |----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,15 +26,6 @@ Klik på hyperlinket i 'Version' kolonnen for at finde anmeldelser for den givne
 
 **HR** - HR-headsettet har et gulligt, blødere etui, der er mindre svedbestandigt end TB-modellen. Det har også lidt bedre ANC-ydeevne, selvom det er ens i de fleste situationer, med lejlighedsvise forskelle på op til 1DB. Batterilevetiden for HR-modellen er 6 timer uden ANC og 4 timer med ANC tændt.
 
-## V4.5 Versionsforskelle:
-
-**HiCity HR V4.5:** HiCity HR V4.5-headsettet har et nyt 1:1 hængseldesign, som giver en mere komfortabel og sikker pasform end tidligere modeller. Det har også hybrid ANC-teknologi, som effektivt blokerer en bred vifte af ekstern støj. Med en mellemklasse batterilevetid på 5-6 timer uden ANC er det det bedste valg for dem, der værdsætter æstetik i deres hovedtelefoner. (Sørg for at 1:1 hængslet er nævnt i produktbeskrivelsen)
-
-*Jennys HR V4.5 har IKKE 1:1 hængslet!*
-
-**Jenny Tigerbuilder V4.5:** Jenny Tigerbuilder V4.5 har mindre statisk ANC, men lidt lavere DB-ydeevne. Den har den bedste batterilevetid af V4.5-modellerne, der varer op til 8 timer uden ANC, hvilket gør den til det bedste valg for udholdenhed.
-
-**HiCity Flying Tiger V4.5:** HiCity Flying Tiger V4.5 har mere avanceret ANC-teknologi, som blokerer flere DB ekstern støj, men har lidt mere statisk end de andre modeller. Dens batterilevetid er bedre end Dongguan HR, men ikke så lang som Tigerbuilder, der varer omkring 6 timer uden ANC. Dette gør den til det bedste allround-valg for dem, der ønsker en balance mellem ydeevne og batterilevetid.
 
 ::: tip
 Ældre Pro-klonmodeller er fjernet fra listen, da vi ikke opfordrer nogen til at købe ældre versioner end disse.

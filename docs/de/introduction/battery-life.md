@@ -16,11 +16,11 @@ Aktuelle Replica-Modelle bieten in der Regel 8–10 Stunden Akkulaufzeit, wobei 
 
 ## Unterschiede bei der Akkulaufzeit
 
-Die tatsächliche Akkulaufzeit kann je nach Modellversion, Chipgeneration, Fertigungscharge und Nutzungsmuster variieren. Faktoren wie Lautstärke, genutzte Features und das Alter der Replica können die Leistung beeinflussen.
+Die tatsächliche Akkulaufzeit kann je nach Modellversion, Chipgeneration, Fertigungscharge und Nutzungsmuster variieren. Faktoren wie Lautstärke, [genutzte Features](/introduction/features) und das Alter der Replica können die Leistung beeinflussen. In den [Versionsvergleichstabellen](/version-info/general) findest du Akkulaufzeitdaten pro Modell.
 
 ## Genauigkeit der Akkuanzeige
 
-Die Akkustandsanzeigen auf iOS-Geräten sind möglicherweise nicht immer genau, obwohl dieses Problem bei neueren Replicas weitgehend behoben wurde. Wie bei originalen AirPods piepen die Replicas jedoch, wenn der Akku 20 % erreicht. Auf Android-Geräten kann der Akkustand in den Bluetooth-Einstellungen oder mit Apps wie TWTools, Materialpods oder Andropods genauer abgelesen werden.
+Die Akkustandsanzeigen auf iOS-Geräten sind möglicherweise nicht immer genau, obwohl dieses Problem bei neueren Replicas weitgehend behoben wurde. Wie bei originalen AirPods piepen die Replicas jedoch, wenn der Akku 20 % erreicht. Auf Android-Geräten kann der Akkustand in den Bluetooth-Einstellungen oder mit Apps wie TWTools, Materialpods oder Andropods genauer abgelesen werden. Auf unserer Seite [nützliche Apps](/useful-apps) findest du Download-Links zu Hersteller- und Utility-Apps.
 
 ::: warning
 Die Akkustandsanzeigen auf iOS-Geräten sind möglicherweise nicht immer genau. Android-Nutzer können spezielle Apps für eine präzisere Überwachung verwenden.

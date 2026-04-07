@@ -8,11 +8,11 @@ Forståelse af tilslutningen for AirPods-kopier kan hjælpe dig med at træffe e
 
 ## iOS Popup
 
-iOS popup'en vises næsten øjeblikkeligt på AirPods-kopier, selvom hastigheden kan variere baseret på sælger og parti. I nogle tilfælde kan popup'en vises hurtigere end på originale AirPods.
+iOS popup'en vises næsten øjeblikkeligt på AirPods-kopier, selvom hastigheden kan variere baseret på [sælger](/da/introduction/sellers) og parti. I nogle tilfælde kan popup'en vises hurtigere end på originale AirPods.
 
 ## macOS Tilslutning
 
-Kun få nyere kloner fungerer fejlfrit med macOS, hvorimod dette ikke altid er tilfældet med andre producenter. Vi anbefaler at vælge "Huilian" modellen, hvis du planlægger at bruge dine kopier med din MacBook eller iMac. Dette skyldes, at andre kloner ikke har iCloud-skift til problemfri iOS-integration, eller har deres lydstyrke fastlåst på 100% på macOS (TB). Vi har dog delvist løst problemet ved hjælp af en tredjeparts FOSS-app, den eneste ulempe er, at lydstyrkebevægelserne på AirPods på TB-modeller ikke vil fungere på grund af begrænsningerne ved denne metode. For flere detaljer, besøg [vores fejlfindingsguide](https://airpodsreplicas.com/troubleshooting/macOS-volume-slider-fixup).
+Kun få nyere kloner fungerer fejlfrit med macOS, hvorimod dette ikke altid er tilfældet med andre producenter. Vi anbefaler at vælge "Huilian" modellen, hvis du planlægger at bruge dine kopier med din MacBook eller iMac. Dette skyldes, at andre kloner ikke har iCloud-skift til problemfri iOS-integration, eller har deres lydstyrke fastlåst på 100% på macOS (TB). Vi har dog delvist løst problemet ved hjælp af en tredjeparts FOSS-app, den eneste ulempe er, at lydstyrkebevægelserne på AirPods på TB-modeller ikke vil fungere på grund af begrænsningerne ved denne metode. For flere detaljer, besøg [vores fejlfindingsguide](/da/troubleshooting/macOS-volume-slider-fixup).
 
 ## Rækkevidde
 
@@ -32,4 +32,4 @@ Multi-enhedstilslutning via iCloud Connect understøttes kun på 5.3 og 5.4 Huil
 
 ## Indledende Tilslutning med iOS-enheder
 
-I nogle tilfælde forbinder AirPods-kopier muligvis ikke til iOS-enheder i første omgang. Dog findes der ofte en løsning på dette problem. Se venligst afsnittet Fejlfinding for mere information.
+I nogle tilfælde forbinder AirPods-kopier muligvis ikke til iOS-enheder i første omgang. Dog findes der ofte en løsning på dette problem. Se [Almindelige problemer](/da/troubleshooting/other-common-bugs) for nulstillingsprocedurer, eller [iCloud-kompatibilitetsløsningen](/da/troubleshooting/AirReps-Incompatibility-with-iCloud) hvis problemet er relateret til macOS-parring.

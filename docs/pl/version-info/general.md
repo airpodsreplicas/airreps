@@ -20,13 +20,13 @@ Wypełnij nasz [krótki quiz](/pl/quiz) — odpowiedz na kilka pytań i otrzymaj
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AirPods Pro 3 | <span class="version-badge">V6</span>   | Czujnik pulsu, Wyższa jakość wykonania, Gesty kiwania głową, Sieć Znajdź Mój                                                                           |
-| AirPods Gen 4 | <span class="version-badge">V3</span>   | Sieć Znajdź Mój, Dokładne dźwięki etui i bardziej zauważalne detale                                                                           |
-| AirPods Pro 2 | <span class="version-badge">V5.4</span> | Idealne Spatial Audio, Sieć Znajdź Mój                                                                                                     |
-| AirPods Gen 3 | <span class="version-badge">V1E</span>  | iCloud Connect, Sieć Znajdź Mój                                                                                                            |
-| AirPods Max   | <span class="version-badge">V3</span>   | Połączenie wielourządzeniowe, Oryginalne ANC AirPods Max, Lepszy tryb Transparency i więcej subtelnych detali                                            |
-| AirPods Pro   | <span class="version-badge">V4.9</span> | 1:1 Redukcja Szumów (jest już całkiem blisko), Sieć Znajdź Mój                                                                            |
-| AirPods Gen 2 | <span class="version-badge">V3E</span>  | iCloud Connect, Sieć Znajdź Mój                                                                                                              |
+| [AirPods Pro 3](/pl/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Sieć Znajdź Mój                                                                           |
+| [AirPods Gen 4](/pl/version-info/airpods-4) | <span class="version-badge">V3</span>   | Sieć Znajdź Mój, Dokładne dźwięki etui i bardziej zauważalne detale                                                                           |
+| [AirPods Pro 2](/pl/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Idealne Spatial Audio, Sieć Znajdź Mój                                                                                                     |
+| [AirPods Gen 3](/pl/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Sieć Znajdź Mój                                                                                                            |
+| [AirPods Max](/pl/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Połączenie wielourządzeniowe, Oryginalne ANC AirPods Max, Lepszy tryb Transparency i więcej subtelnych detali                                            |
+| [AirPods Pro](/pl/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Redukcja Szumów (jest już całkiem blisko), Sieć Znajdź Mój                                                                            |
+| [AirPods Gen 2](/pl/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Sieć Znajdź Mój                                                                                                              |
 
 **All Have:**
 
@@ -42,7 +42,7 @@ All models are missing the following feature:
 
 - "Find My Network" Availability
 
-**Note:** This list is ordered from newer to older models. A higher number does often but not always indicate a better model.
+**Note:** This list is ordered from newer to older models. A higher number does often but not always indicate a better model. Ready to buy? See [how to order](/pl/ordering/how-to-buy) from our [trusted sellers](/pl/links/info).
 
 ## FAQ
 
@@ -51,7 +51,7 @@ AirPods Max replicas are now available and have become well-rounded replicas. Je
 :::
 
 ::: details Are AirPods Pro 3 reps available?
-AirPods Pro 3 replicas are available, but only mid-end versions have been released so far. There are no high-end versions from brands like TigerBuilder yet. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
+AirPods Pro 3 replicas are available. The V7 (Huilian 377H3) is the first high-end version, featuring a heart rate sensor, upgraded AI Hybrid ANC, and head gesture controls — purchase links are coming soon. The V6 is currently available from trusted sellers. For more information, see the [AirPods Pro 3 version info](/pl/version-info/airpods-pro-3) page.
 :::
 
 ::: details Why might similar communities have newer products than this guide?
@@ -67,7 +67,7 @@ It is not possible to determine the version of a clone without actually using it
 :::
 
 ::: details How can I determine the chip in my AirPods?
-To identify the chip in your AirPods clones, refer to this list of [useful apps](https://airpodsreplicas.com/useful-apps). Test each app individually to determine which one your AirPods connect to. This will help you quickly identify the manufacturer and chipset. Note that if your AirPods are very low-tier, they may not connect to any of the apps. In such cases, they likely use the Jieli chipset.
+To identify the chip in your AirPods clones, refer to this list of [useful apps](/pl/useful-apps). Test each app individually to determine which one your AirPods connect to. This will help you quickly identify the manufacturer and chipset. Note that if your AirPods are very low-tier, they may not connect to any of the apps. In such cases, they likely use the Jieli chipset.
 :::
 
 ::: details How can I determine if my AirPods are real?

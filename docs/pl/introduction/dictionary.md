@@ -33,7 +33,7 @@ translationStatus: machine-translated
 
 ## QC: Quality Control/Kontrola Jakości [ZDJĘCIA]
 
-"QC" oznacza kontrolę jakości. "QC PICS" odnoszą się do zdjęć używanych do weryfikacji jakości zakupionego produktu.
+"QC" oznacza kontrolę jakości. "QC PICS" odnoszą się do zdjęć używanych do weryfikacji jakości zakupionego produktu. Zobacz nasz [przewodnik QC i LC](/pl/ordering/qc-lc), aby dowiedzieć się, jak sprawdzić swoje repliki.
 
 **Przykład:** "Czy możesz mi wysłać zdjęcia QC dla HiCity v2.5?"
 
@@ -51,4 +51,4 @@ translationStatus: machine-translated
 
 ## Markings: Oznaczenia Produktu
 
-"Markings" odnoszą się do tekstu na etui i AirPods, który dostarcza informacji o produkcie, w tym tekstu "Designed by Apple in California", numerów modeli i numerów seryjnych.
+"Markings" odnoszą się do tekstu na etui i AirPods, który dostarcza informacji o produkcie, w tym tekstu "Designed by Apple in California", numerów modeli i numerów seryjnych. Więcej o tym, jak oznaczenia różnią się między replikami a oryginałami, znajdziesz w sekcji [jakość wykonania](/pl/introduction/build-quality).

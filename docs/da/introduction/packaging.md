@@ -28,12 +28,14 @@ Anmodning om en "Apple-æske" kan føre til produktbeslaglæggelse i tolden. Man
 
 ## Dobbelt/Lokkefugl Æske
 
-Betragtet af mange som det bedste valg blandt de tre, inkorporerer denne emballage en kløgtig strategi med at bruge diskret emballage, der ligner almindelige øretelefoner. Skjult inden i denne upåfaldende emballage er dog Apple Logo Æsken, som tidligere forklaret. Ved at anvende denne smarte emballagetilgang reduceres de potentielle risici forbundet med toldmyndigheders beslaglæggelse af produktet betydeligt, samtidig med at du kan få Apple Logo Æsken uden unødige komplikationer.
+Det bedste valg for de fleste købere. En generisk ydre æske, der ligner almindelige øretelefoner, med Apple Logo Æsken skjult indeni. Dette reducerer risikoen for toldbeslaglæggelse markant, mens du stadig får den fulde Apple-brandede emballage.
+
+Når du vælger Apple Logo Æsken ved kassen, er dobbelt-æsken automatisk inkluderet — sælgere sender altid Apple-æsker inde i en lokkefugl-æske til beskyttelse. Apple-æske muligheden er forvalgt på de fleste betalingsmetoder, selvom nogle kan opkræve et lille ekstragebyr. Hvis du bestiller via **Alibaba**, er Apple/dobbelt-æske **ikke tilgængelig** — du modtager altid en No-Logo æske.
 
 <img src="/doublebox.webp" alt="Dobbelt/Lokkefugl Æske" width="300px"/>
 
 ::: tip
-Double box is usually pre-selected at checkout, but always double-check that the option is enabled before completing your order.
+Apple-æske (som altid kommer som en dobbelt-æske) er normalt forvalgt ved kassen. Dobbelttjek at den er markeret, før du gennemfører din ordre.
 :::
 
 ## Æskekvalitet
@@ -46,8 +48,8 @@ Bed altid om fotos, hvis kvaliteten af æsken er vigtig for dig.
 
 ## Håndtering og Forsendelse
 
-Æsken eller emballagen kan ankomme let bulet eller foldet på grund af håndtering af internationale og lokale kurerer, ikke sælgeren.
+Æsken eller emballagen kan ankomme let bulet eller foldet på grund af håndtering af internationale og lokale kurerer, ikke sælgeren. For tips om bestillingsprocessen og forsendelsesforventninger, se [sådan køber du](/da/ordering/how-to-buy).
 
 ## Opladerkabel
 
-Det medfølgende opladerkabel understøtter muligvis ikke dataoverførsel som mange andre USB-kabler. Sælgere bruger ofte kabler med dummy-pins i stedet for rigtige fungerende pins for at spare omkostninger.
+Det medfølgende opladerkabel understøtter muligvis ikke dataoverførsel som mange andre USB-kabler. [Sælgere](/da/introduction/sellers) bruger ofte kabler med dummy-pins i stedet for rigtige fungerende pins for at spare omkostninger.

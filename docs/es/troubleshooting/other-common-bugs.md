@@ -29,7 +29,7 @@ Puedes recibir clones de AirPods mal etiquetados al ordenar en sitios como AliEx
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Audio/Video Pausándose Frecuentemente con Réplicas de AirPods**
-Las pausas frecuentes de audio o video mientras usas réplicas de AirPods es un problema común, a menudo causado por los sensores de detección en el oído (en modelos Pro). Este problema también puede ocurrir si los AirPods no encajan de forma segura en tu oído. Para solucionar este problema, puedes elegir otras puntas de oído (en modelos Pro) o desactivar la detección en el oído a través de la configuración.
+Las pausas frecuentes de audio o video mientras usas réplicas de AirPods es un problema común, a menudo causado por los [sensores de detección en el oído](/introduction/features#in-ear-sensors) (en modelos Pro). Este problema también puede ocurrir si los AirPods no encajan de forma segura en tu oído. Para solucionar este problema, puedes elegir otras puntas de oído (en modelos Pro) o desactivar la detección en el oído a través de la configuración.
 
 ## **Las Réplicas de AirPods Permanecen Conectadas Después de Cerrar el Estuche de Carga**
 Algunos usuarios de réplicas de AirPods pueden experimentar un problema donde los AirPods permanecen conectados a su dispositivo incluso después de cerrar el estuche de carga. Esto típicamente es causado por un mal funcionamiento de los imanes y el sensor hall dentro del estuche, que son responsables de detectar la posición de los AirPods. Para solucionar este problema, sigue los pasos descritos en el siguiente tutorial de YouTube:
@@ -55,4 +55,4 @@ Para solucionar problemas de conectividad con AirPods, intenta los siguientes pa
 - Si no escuchas ningún sonido cuando los AirPods están conectados, puede que necesites reiniciarlos.
 
 ## **¿Ninguno de estos lo solucionó?**
-Es posible que tus AirPods llegaron defectuosos o ahora están dañados más allá de reparación. Puedes intentar realizar reinicio suaves y duros, como dejar el dispositivo sin cargar por un período de tiempo o reproducir música en lugar de olvidarlo, en un intento de solucionar el problema. Si ninguno de estos métodos funciona, tu mejor opción es contactar al vendedor y solicitar un reembolso o reemplazo.
+Es posible que tus AirPods llegaron defectuosos o ahora están dañados más allá de reparación. Puedes intentar realizar reinicio suaves y duros, como dejar el dispositivo sin cargar por un período de tiempo o reproducir música en lugar de olvidarlo, en un intento de solucionar el problema. Si ninguno de estos métodos funciona, tu mejor opción es contactar al [vendedor](/introduction/sellers) y solicitar un reembolso o reemplazo. También consulta nuestra [solución de compatibilidad con iCloud](/troubleshooting/AirReps-Incompatibility-with-iCloud) y [solución de volumen en macOS](/troubleshooting/macOS-volume-slider-fixup) si aplican a tu situación.
