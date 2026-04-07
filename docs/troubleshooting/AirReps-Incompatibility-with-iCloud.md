@@ -5,7 +5,7 @@ description: AirReps Incompatibility with iCloud Connect
 # **AirReps Incompatibility with iCloud Connect**
 One common issue with some AirPods replicas is their compatibility with macOS. This issue is caused by the replicas' inability to fully support iCloud, resulting in iCloud verification failure. This issue can be easily fixed following the instructions below.
 
-**PS: This bug isn't present on clones that use the Huilian chipset.**
+**PS: This bug isn't present on clones that use the Huilian chipset.** See the [connectivity guide](/introduction/connectivity) for more on chipset differences and macOS compatibility.
 
 ## **Step 1**: Forget AirPods from iCloud Devices
 

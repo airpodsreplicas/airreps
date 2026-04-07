@@ -4,11 +4,11 @@ description: "Feature overview: ANC, Spatial Audio, in-ear detection, controls, 
 
 # Features
 
-AirPods replicas offer a variety of features that mimic those of the original AirPods.
+AirPods replicas offer a variety of features that mimic those of the original AirPods. For a detailed comparison of what each version offers, see the [version comparison table](/version-info/general).
 
 ## Supported Features
 
-All current models of AirPods replicas support name changing, GPS, and changing tap controls (iOS and macOS only). Many models also support Spatial Audio, Audio Share, and Live Listen (all iOS and macOS only). Transparency mode and Active Noise Cancelling (ANC) are available on AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max models. The ANC on these replicas is really close to the original AirPods as shown in many reviews, but is not 1:1.
+All current models of AirPods replicas support name changing, GPS, and changing tap controls (iOS and macOS only). Many models also support Spatial Audio, Audio Share, and Live Listen (all iOS and macOS only). Transparency mode and [Active Noise Cancelling (ANC)](/introduction/anc-explained) are available on AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max models. The ANC on these replicas is really close to the original AirPods as shown in many reviews, but is not 1:1.
 
 Newer models feature additional capabilities:
 - **USB-C charging** (AirPods Pro 2 V5.1+, AirPods Pro 3, AirPods 4, AirPods Max V3)
@@ -33,7 +33,7 @@ AirPods Pro 2 replicas (V5.3TB and newer) feature a force sensor configuration t
 :::
 ## Microphone Quality
 
-The microphone quality on the replicas is usable and is very comparable to that on the original AirPods. They are good enough for calls, but like Apple AirPods, they are not anything impressive due to their small form factor.
+The microphone quality on the replicas is usable and is very comparable to that on the original AirPods. They are good enough for calls, but like Apple AirPods, they are not anything impressive due to their small form factor. For more on audio performance, see the [sound quality](/introduction/sound-quality) section.
 
 ::: tip
 The latest AirPods Pro 2 replicas (V5.4 and V5.3 Huilian, HR & TB) have microphone quality comparable to the original AirPods.

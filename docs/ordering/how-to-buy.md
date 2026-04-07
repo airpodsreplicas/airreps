@@ -14,7 +14,7 @@ We recommend always purchasing from [trusted sellers](/links/info). Most sellers
 
 The AirReps community recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
-Ordering is simple: choose the product you want and check out.
+Ordering is simple: choose the product you want and check out. Not sure which model? Take our [quick quiz](/quiz) or compare versions in the [version info](/version-info/general) section.
 
 ::: tip
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours before your order is processed.
@@ -43,7 +43,7 @@ We recommend the following steps:
 
 1. **Taxes**: We recommend only trusted sellers who take care of VAT/Taxes beforehand for European buyers, so you won't have to pay VAT when the package arrives in the EU.
 
-2. **Product Box**: For a box with Apple logos, request a "with Apple box" instead of a "no logo box." However, this carries a higher risk of the package being seized at customs and you not receiving a refund. We don't recommend this option, as the AirPods inside are identical regardless of the box. If you want to take the risk, you can request a box with Apple logos.
+2. **Product Box**: For a box with Apple logos, request a "with Apple box" instead of a "no logo box." However, this carries a higher risk of the package being seized at customs and you not receiving a refund. We don't recommend this option, as the AirPods inside are identical regardless of the box. If you want to take the risk, you can request a box with Apple logos. Learn more about box types in our [packaging guide](/introduction/packaging).
 
 ::: warning
 This information applies when ordering from sellers other than the HiCity or Jenny AirReps website. If you order from those websites, you don't need to worry about customs declarations or the box type, as they will be handled automatically.

@@ -24,7 +24,7 @@ For the best experience, we strongly recommend purchasing from our [community-ve
 
 ## Resellers and their Practices
 
-Some resellers offer AirPods replicas at higher prices, sometimes with additional services like warranties, buyer protection, or expedited shipping. However, these services come at a premium, and a higher price doesn't necessarily guarantee a better product. The trusted sellers we recommend typically offer the same or better quality products at more competitive prices.
+Some resellers offer AirPods replicas at higher prices, sometimes with additional services like warranties, buyer protection, or expedited shipping. However, these services come at a premium, and a higher price doesn't necessarily guarantee a better product. The trusted sellers we recommend typically offer the same or better quality products at more competitive prices. For a step-by-step guide on placing an order, see [how to buy](/ordering/how-to-buy).
 
 ::: tip
 Our recommended trusted sellers provide excellent value and quality. While resellers may offer additional services, you can often get the same products directly from trusted sellers at better prices.

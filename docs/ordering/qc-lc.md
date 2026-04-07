@@ -4,7 +4,7 @@ description: Master AirPods QC & LC. Spot design flaws, verify software features
 
 # QC & LC
 
-Welcome! If you're here, you're likely looking to quality check your replica AirPods or considering purchasing authentic ones. This section will guide you on discerning between retail and replica AirPods, from simple to advanced methods. If a deal seems too good to be true, it probably is.
+Welcome! If you're here, you're likely looking to quality check your replica AirPods or considering purchasing authentic ones. This section will guide you on discerning between retail and replica AirPods, from simple to advanced methods. If a deal seems too good to be true, it probably is. For more on what to expect from replica build quality, see the [build quality](/introduction/build-quality) guide.
 
 ::: tip
 This section was once more detailed, but as replicas have become more sophisticated, it's increasingly difficult to distinguish between genuine and fake AirPods. Our best advice for ensuring authenticity is to purchase your AirPods from a reputable seller.

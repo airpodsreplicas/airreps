@@ -631,6 +631,11 @@ export default defineConfig({
             }
         }
 
+        // Locale homepages end up as 'index' after stripping — normalize to ''
+        if (basePath === 'index') {
+            basePath = '';
+        }
+
         // Flag emojis for each locale
         const localeFlags: Record<string, string> = {
             en: '🎧',

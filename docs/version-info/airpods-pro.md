@@ -8,7 +8,7 @@ description: "Compare AirPods Pro replica versions by chip, features, and missin
 This product line is no longer being actively updated by manufacturers, as development has shifted to newer models. AirPods Pro replicas are still excellent products and remain popular choices. If you're looking for the latest features and improvements, consider checking out [AirPods Pro 2](/version-info/airpods-pro-2) or [AirPods Pro 3](/version-info/airpods-pro-3).
 :::
 
-Click the hyper-link on the 'Version' column to find reviews for the given model.
+Click the hyper-link on the 'Version' column to find reviews for the given model. For purchase links, see [AirPods Pro links](/links/airpods-pro). To learn about [ANC technology](/introduction/anc-explained) and [features](/introduction/features), check the guide sections.
 
 | Version                                                              | Chip                        | Has Features                                                                                                                                                                                                      | Missing Features                                                                                                                                              |
 |----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|

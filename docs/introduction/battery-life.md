@@ -16,11 +16,11 @@ Current replica models generally offer 8-10 hours of battery life, though perfor
 
 ## Battery Life Variations
 
-The actual battery life may vary depending on the model version, chip generation, manufacturing batch, and usage patterns. Factors like volume level, features used, and the age of the replica can all impact performance.
+The actual battery life may vary depending on the model version, chip generation, manufacturing batch, and usage patterns. Factors like volume level, [features used](/introduction/features), and the age of the replica can all impact performance. Check the [version comparison tables](/version-info/general) for battery life data per model.
 
 ## Battery Level Accuracy
 
-The battery levels on iOS devices may not always be accurate, though this issue has been largely resolved in newer replicas. However, just like original AirPods, the replicas will beep when the battery reaches 20%. On Android devices, battery levels can be checked in Bluetooth settings or using apps like TWTools, Materialpods, or Andropods for more accurate readings.
+The battery levels on iOS devices may not always be accurate, though this issue has been largely resolved in newer replicas. However, just like original AirPods, the replicas will beep when the battery reaches 20%. On Android devices, battery levels can be checked in Bluetooth settings or using apps like TWTools, Materialpods, or Andropods for more accurate readings. See our [useful apps](/useful-apps) page for download links to manufacturer and utility apps.
 
 ::: warning
 Battery level readings on iOS devices may not always be accurate. Android users can use specific apps for more precise monitoring.

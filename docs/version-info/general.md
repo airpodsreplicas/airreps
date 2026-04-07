@@ -20,13 +20,13 @@ This table provides a summary of the most notable missing features for various A
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AirPods Pro 3 | <span class="version-badge">V6</span>   | Heartrate sensor, Higher-end build quality, Nodding gestures, Find My Network                                                                           |
-| AirPods Gen 4 | <span class="version-badge">V3</span>   | Find My Network, Accurate Case SFX and more noticeable details                                                                           |
-| AirPods Pro 2 | <span class="version-badge">V5.4</span> | Perfect Spatial Audio, Find My Network                                                                                                     |
-| AirPods Gen 3 | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
-| AirPods Max   | <span class="version-badge">V3</span>   | Multi-Device Connect, Retail AirPods Max ANC, Better Transparency Mode, and More Subtle details                                            |
-| AirPods Pro   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (it's fairly close already), Find My Network                                                                            |
-| AirPods Gen 2 | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
+| [AirPods Pro 3](/version-info/airpods-pro-3) | <span class="version-badge">V6</span>   | Heartrate sensor, Higher-end build quality, Nodding gestures, Find My Network                                                                           |
+| [AirPods Gen 4](/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, Accurate Case SFX and more noticeable details                                                                           |
+| [AirPods Pro 2](/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfect Spatial Audio, Find My Network                                                                                                     |
+| [AirPods Gen 3](/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
+| [AirPods Max](/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Multi-Device Connect, Retail AirPods Max ANC, Better Transparency Mode, and More Subtle details                                            |
+| [AirPods Pro](/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (it's fairly close already), Find My Network                                                                            |
+| [AirPods Gen 2](/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
 
 **All Have:**
 
@@ -42,7 +42,7 @@ All models are missing the following feature:
 
 - "Find My Network" Availability
 
-**Note:** This list is ordered from newer to older models. A higher number does often but not always indicate a better model.
+**Note:** This list is ordered from newer to older models. A higher number does often but not always indicate a better model. Ready to buy? See [how to order](/ordering/how-to-buy) from our [trusted sellers](/links/info).
 
 ## FAQ
 

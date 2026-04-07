@@ -23,7 +23,7 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 
 ## V5.4 Version Differences:
 
-This version is only an upgrade for Huilian models; it has a few improvements. ANC performance has been improved, and stability seems to be better. Hardware‑wise, nothing has really changed, apart from the chipset. These upgrades appear to be more of some firmware updates that will be restricted to this new unit.  
+This version is only an upgrade for Huilian models; it has a few improvements. [ANC](/introduction/anc-explained) performance has been improved, and stability seems to be better. Hardware‑wise, nothing has really changed, apart from the chipset. These upgrades appear to be more of some firmware updates that will be restricted to this new unit. Ready to buy? Check our [purchase links](/links/airpods-pro-2) and [ordering guide](/ordering/how-to-buy).  
 
 
 ## V5.3 Version Differences:

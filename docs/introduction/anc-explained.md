@@ -24,7 +24,7 @@ However, since it doesn't hear the anti-noise it produces, feedforward ANC lacks
 
 Hybrid ANC combines feedback and feedforward ANC by using both internal and external microphones. It provides the benefits of both methods while minimizing their disadvantages. Hybrid ANC suppresses noise over a broader range, adapts to sudden changes in noise, and isn't sensitive to the placement of the headset.
 
-However, the use of two microphones increases manufacturing costs and complexity. The technology requires more expertise to implement properly. Original AirPods Pro use hybrid ANC, contributing to their higher price. Many current AirPods replicas now also implement hybrid ANC using advanced chipsets. For example, the v5.3 TB (featuring the Airoha 1571AM chipset) replicates the hybrid ANC effect for a full and authentic noise-canceling experience.
+However, the use of two microphones increases manufacturing costs and complexity. The technology requires more expertise to implement properly. Original AirPods Pro use hybrid ANC, contributing to their higher price. Many current AirPods replicas now also implement hybrid ANC using advanced chipsets. For example, the [v5.3 TB](/version-info/airpods-pro-2) (featuring the Airoha 1571AM chipset) replicates the hybrid ANC effect for a full and authentic noise-canceling experience. To hear how this affects real-world use, see our [sound quality](/introduction/sound-quality) and [features](/introduction/features) sections.
 
 ::: tip
 Hybrid ANC, while more expensive, combines the benefits of both feedback and feedforward ANC, providing a more comprehensive noise-canceling experience.
