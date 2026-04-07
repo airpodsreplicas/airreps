@@ -8,7 +8,7 @@ description: Soluciona el problema de la barra deslizadora de volumen en Macs In
 Este es uno de los problemas más conocidos en la versión **Intel** de macOS, donde la barra deslizadora de volumen que controla el volumen de audio simplemente no funciona, y solo actúa como un interruptor (le ocurre a la mayoría de las réplicas, aunque algunas no se ven afectadas). Aunque Apple nunca investigaría el problema, podemos evitarlo con una [herramienta de código abierto](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Esta guía es para aquellos que tienen Macs basados en Intel (i3, i5, i7; no chip serie M). Si tu Mac con Apple Silicon (chip serie M) no reproduce audio con tus AirReps actuales, consulta la sección de [Bugs Comunes](/troubleshooting/other-common-bugs).
+Esta guía es para aquellos que tienen Macs basados en Intel (i3, i5, i7; no chip serie M). Si tu Mac con Apple Silicon (chip serie M) no reproduce audio con tus AirReps actuales, consulta la sección de [Bugs Comunes](/es/troubleshooting/other-common-bugs).
 :::
 
 ## **Prerequisite**

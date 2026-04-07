@@ -5,7 +5,7 @@ description: "Guide de dépannage pour les problèmes courants des répliques d'
 # **Problèmes Courants**
 
 ::: tip
-La plupart des modèles plus récents vendus via les [vendeurs de confiance](/links/info) ont résolu ces problèmes depuis longtemps. Si vous rencontrez des problèmes, assurez-vous d'avoir la dernière version d'un vendeur vérifié.
+La plupart des modèles plus récents vendus via les [vendeurs de confiance](/fr/links/info) ont résolu ces problèmes depuis longtemps. Si vous rencontrez des problèmes, assurez-vous d'avoir la dernière version d'un vendeur vérifié.
 :::
 
 ## **Réinitialisation douce pour les répliques d'AirPods**
@@ -29,7 +29,7 @@ Vous pouvez recevoir des clones d'AirPods mal étiquetés lors de commandes sur 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **L'audio/vidéo se met fréquemment en pause avec les répliques d'AirPods**
-La mise en pause fréquente de l'audio ou de la vidéo lors de l'utilisation de répliques d'AirPods est un problème courant, souvent causé par les [capteurs de détection intra-auriculaire](/introduction/features#in-ear-sensors) (sur les modèles Pro). Ce problème peut également survenir si les AirPods ne tiennent pas bien dans votre oreille. Pour résoudre ce problème, vous pouvez soit choisir d'autres embouts (sur les modèles Pro) soit désactiver la détection intra-auriculaire via les paramètres.
+La mise en pause fréquente de l'audio ou de la vidéo lors de l'utilisation de répliques d'AirPods est un problème courant, souvent causé par les [capteurs de détection intra-auriculaire](/fr/introduction/features#in-ear-sensors) (sur les modèles Pro). Ce problème peut également survenir si les AirPods ne tiennent pas bien dans votre oreille. Pour résoudre ce problème, vous pouvez soit choisir d'autres embouts (sur les modèles Pro) soit désactiver la détection intra-auriculaire via les paramètres.
 
 ## **Les répliques d'AirPods restent connectées après fermeture du boîtier de charge**
 Certains utilisateurs de répliques d'AirPods peuvent rencontrer un problème où les AirPods restent connectés à leur appareil même après avoir fermé le boîtier de charge. C'est généralement causé par un dysfonctionnement des aimants et du capteur Hall à l'intérieur du boîtier, qui sont responsables de détecter la position des AirPods. Pour résoudre ce problème, suivez les étapes décrites dans le tutoriel YouTube suivant :
@@ -55,4 +55,4 @@ Pour résoudre les problèmes de connectivité avec les AirPods, essayez les ét
 - Si vous n'entendez aucun son lorsque les AirPods sont connectés, vous devrez peut-être les réinitialiser.
 
 ## **Aucune de ces solutions n'a fonctionné ?**
-Il est possible que vos AirPods soient arrivés défectueux ou soient maintenant endommagés au-delà de toute réparation. Vous pouvez essayer d'effectuer des réinitialisations douces et dures, comme laisser l'appareil déchargé pendant un certain temps ou jouer de la musique plutôt que de l'oublier, pour tenter de résoudre le problème. Si aucune de ces méthodes ne fonctionne, votre meilleure option est de contacter le [vendeur](/introduction/sellers) et de demander un remboursement ou un remplacement. Consultez également notre [correctif de compatibilité iCloud](/troubleshooting/AirReps-Incompatibility-with-iCloud) et [correctif du volume macOS](/troubleshooting/macOS-volume-slider-fixup) si ceux-ci s'appliquent à votre situation.
+Il est possible que vos AirPods soient arrivés défectueux ou soient maintenant endommagés au-delà de toute réparation. Vous pouvez essayer d'effectuer des réinitialisations douces et dures, comme laisser l'appareil déchargé pendant un certain temps ou jouer de la musique plutôt que de l'oublier, pour tenter de résoudre le problème. Si aucune de ces méthodes ne fonctionne, votre meilleure option est de contacter le [vendeur](/fr/introduction/sellers) et de demander un remboursement ou un remplacement. Consultez également notre [correctif de compatibilité iCloud](/fr/troubleshooting/AirReps-Incompatibility-with-iCloud) et [correctif du volume macOS](/fr/troubleshooting/macOS-volume-slider-fixup) si ceux-ci s'appliquent à votre situation.

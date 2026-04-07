@@ -16,7 +16,7 @@ AirPods Pro kulağa oturduğu için, dış gürültünün girmesine izin verecek
 
 ## Ses Kalitesi Farklılıkları
 
-Ses kalitesi [versiyon, çip](/version-info/general) ve partiye bağlı olarak değişebilir. Birçok model baskın olmadan bası vurgular. Orta tonlar belirgindir ancak tiz tonlar iyileştirilebilir. EQ'nun satıcıya göre değişebileceğini ve müzik çalarının ayarlarını veya üretici uygulamalarını kullanarak ayarlayabileceğini unutma - indirme linkleri için [faydalı uygulamalar](/useful-apps) sayfasına bak.
+Ses kalitesi [versiyon, çip](/tr/version-info/general) ve partiye bağlı olarak değişebilir. Birçok model baskın olmadan bası vurgular. Orta tonlar belirgindir ancak tiz tonlar iyileştirilebilir. EQ'nun satıcıya göre değişebileceğini ve müzik çalarının ayarlarını veya üretici uygulamalarını kullanarak ayarlayabileceğini unutma - indirme linkleri için [faydalı uygulamalar](/tr/useful-apps) sayfasına bak.
 
 ::: tip
 EQ satıcıya göre değişebilir. Sırasıyla **TigerBuilder**, **HR** ve **Huilian** cihazları için **FlyCC**, **BullSuper** veya **Starfun** kullanarak ayarlayabilirsin.

@@ -4,11 +4,11 @@ description: "Özellik genel bakışı: ANC, Spatial Audio, kulak içi algılama
 
 # Özellikler
 
-AirPods replikaları, orijinal AirPods'un özelliklerini taklit eden çeşitli özellikler sunar. Her versiyonun neler sunduğunun ayrıntılı karşılaştırması için [versiyon karşılaştırma tablosuna](/version-info/general) bak.
+AirPods replikaları, orijinal AirPods'un özelliklerini taklit eden çeşitli özellikler sunar. Her versiyonun neler sunduğunun ayrıntılı karşılaştırması için [versiyon karşılaştırma tablosuna](/tr/version-info/general) bak.
 
 ## Desteklenen Özellikler
 
-AirPods replikalarının tüm güncel modelleri isim değiştirme, GPS ve dokunma kontrollerini değiştirme (yalnızca iOS ve macOS) özelliklerini destekler. Birçok model ayrıca Spatial Audio, Audio Share ve Live Listen (hepsi yalnızca iOS ve macOS) özelliklerini de destekler. Şeffaflık modu ve [Aktif Gürültü Engelleme (ANC)](/introduction/anc-explained), AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4 ve AirPods Max modellerinde mevcuttur. Bu replikalardaki ANC, birçok incelemede gösterildiği gibi orijinal AirPods'a gerçekten yakındır, ancak birebir aynısı değildir.
+AirPods replikalarının tüm güncel modelleri isim değiştirme, GPS ve dokunma kontrollerini değiştirme (yalnızca iOS ve macOS) özelliklerini destekler. Birçok model ayrıca Spatial Audio, Audio Share ve Live Listen (hepsi yalnızca iOS ve macOS) özelliklerini de destekler. Şeffaflık modu ve [Aktif Gürültü Engelleme (ANC)](/tr/introduction/anc-explained), AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4 ve AirPods Max modellerinde mevcuttur. Bu replikalardaki ANC, birçok incelemede gösterildiği gibi orijinal AirPods'a gerçekten yakındır, ancak birebir aynısı değildir.
 
 Daha yeni modeller ek yetenekler sunar:
 - **USB-C şarj** (AirPods Pro 2 V5.1+, AirPods Pro 3, AirPods 4, AirPods Max V3)
@@ -18,7 +18,7 @@ Daha yeni modeller ek yetenekler sunar:
 - **Canlı Çeviri** (AirPods Pro 3 V6)
 
 ::: details Ayarlar Android cihaz kullanılarak değiştirilebilir mi?
-Android kullanıyorsan, tüm dokunma ayarı değişikliklerini [https://airreps.info/iossettings](https://airreps.info/iossettings) adresindeki bir iPhone'da yapabilirsin. Bu değişiklikler Android'ine aktarılmalıdır, ancak bazen bu çalışmayabilir. Bazı üreticilerin, bu ayarları ve daha fazlasını Android cihazlarda değiştirmeyi mümkün kılan [kendi Android uygulamaları](/useful-apps) da bulunmaktadır.
+Android kullanıyorsan, tüm dokunma ayarı değişikliklerini [https://airreps.info/iossettings](https://airreps.info/iossettings) adresindeki bir iPhone'da yapabilirsin. Bu değişiklikler Android'ine aktarılmalıdır, ancak bazen bu çalışmayabilir. Bazı üreticilerin, bu ayarları ve daha fazlasını Android cihazlarda değiştirmeyi mümkün kılan [kendi Android uygulamaları](/tr/useful-apps) da bulunmaktadır.
 :::
 
 ## Kulak İçi Sensörler
@@ -33,7 +33,7 @@ AirPods Pro 2 replikaları (V5.3TB ve daha yenisi), orijinalleriyle neredeyse ay
 :::
 ## Mikrofon Kalitesi
 
-Replikalardaki mikrofon kalitesi kullanılabilir düzeydedir ve orijinal AirPods'takiyle çok benzerdir. Aramalar için yeterince iyidir, ancak Apple AirPods gibi küçük form faktörleri nedeniyle etkileyici sayılmazlar. Ses performansı hakkında daha fazla bilgi için [ses kalitesi](/introduction/sound-quality) bölümüne bak.
+Replikalardaki mikrofon kalitesi kullanılabilir düzeydedir ve orijinal AirPods'takiyle çok benzerdir. Aramalar için yeterince iyidir, ancak Apple AirPods gibi küçük form faktörleri nedeniyle etkileyici sayılmazlar. Ses performansı hakkında daha fazla bilgi için [ses kalitesi](/tr/introduction/sound-quality) bölümüne bak.
 
 ::: tip
 En son AirPods Pro 2 replikaları (V5.4 ve V5.3 Huilian, HR & TB) orijinal AirPods ile karşılaştırılabilir mikrofon kalitesine sahiptir.

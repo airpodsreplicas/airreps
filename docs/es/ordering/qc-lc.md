@@ -4,7 +4,7 @@ description: "Verifica la calidad y autenticidad. Defectos de diseño, funciones
 
 # QC & LC
 
-¡Bienvenido! Si estás aquí, probablemente buscas verificar la calidad de tus AirPods réplica o estás considerando comprar unos auténticos. Esta sección te guiará sobre cómo discernir entre AirPods originales y réplicas, desde métodos simples hasta avanzados. Si una oferta parece demasiado buena para ser verdad, probablemente lo es. Para más información sobre qué esperar de la calidad de construcción de las réplicas, consulta la guía de [calidad de construcción](/introduction/build-quality).
+¡Bienvenido! Si estás aquí, probablemente buscas verificar la calidad de tus AirPods réplica o estás considerando comprar unos auténticos. Esta sección te guiará sobre cómo discernir entre AirPods originales y réplicas, desde métodos simples hasta avanzados. Si una oferta parece demasiado buena para ser verdad, probablemente lo es. Para más información sobre qué esperar de la calidad de construcción de las réplicas, consulta la guía de [calidad de construcción](/es/introduction/build-quality).
 
 ::: tip
 Esta sección era más detallada anteriormente, pero a medida que las réplicas se han vuelto más sofisticadas, es cada vez más difícil distinguir entre AirPods genuinos y falsos. Nuestro mejor consejo para asegurar la autenticidad es comprar tus AirPods de un vendedor de buena reputación.

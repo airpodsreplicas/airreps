@@ -11,5 +11,5 @@ Nicht sicher, wo du anfangen sollst? Beantworte ein paar kurze Fragen und wir em
 <Quiz />
 
 ::: tip Immer noch unsicher?
-Schau dir den [Ultimate Guide](/introduction/overview) für eine vollständige Übersicht aller Versionen an, oder tritt unserem [Discord](https://discord.gg/airreps) bei, um die Community zu fragen.
+Schau dir den [Ultimate Guide](/de/introduction/overview) für eine vollständige Übersicht aller Versionen an, oder tritt unserem [Discord](https://discord.gg/airreps) bei, um die Community zu fragen.
 :::

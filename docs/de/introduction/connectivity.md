@@ -8,11 +8,11 @@ Ein Verständnis der Konnektivität von AirPods Replicas hilft dir, eine fundier
 
 ## iOS-Popup
 
-Das iOS-Popup erscheint bei AirPods Replicas nahezu sofort, wobei die Geschwindigkeit je nach [Verkäufer](/introduction/sellers) und Charge variieren kann. In einigen Fällen kann das Popup sogar schneller erscheinen als bei originalen AirPods.
+Das iOS-Popup erscheint bei AirPods Replicas nahezu sofort, wobei die Geschwindigkeit je nach [Verkäufer](/de/introduction/sellers) und Charge variieren kann. In einigen Fällen kann das Popup sogar schneller erscheinen als bei originalen AirPods.
 
 ## macOS-Konnektivität
 
-  Nur wenige neuere Klone funktionieren einwandfrei mit macOS, was bei anderen Herstellern nicht immer der Fall ist. Wir empfehlen das „Huilian"-Modell, wenn du deine Replicas mit deinem MacBook oder iMac verwenden möchtest. Das liegt daran, dass andere Klone kein iCloud-Switching für eine nahtlose iOS-Integration haben oder die Lautstärke auf macOS (TB) auf 100 % feststeckt. Allerdings haben wir das Problem teilweise mithilfe einer Open-Source-App behoben. Der einzige Nachteil ist, dass bei TB-Modellen die Lautstärkegesten an den AirPods aufgrund der Einschränkungen dieser Methode nicht funktionieren. Weitere Details findest du in [unserer Fehlerbehebungsanleitung](/troubleshooting/macOS-volume-slider-fixup).
+  Nur wenige neuere Klone funktionieren einwandfrei mit macOS, was bei anderen Herstellern nicht immer der Fall ist. Wir empfehlen das „Huilian"-Modell, wenn du deine Replicas mit deinem MacBook oder iMac verwenden möchtest. Das liegt daran, dass andere Klone kein iCloud-Switching für eine nahtlose iOS-Integration haben oder die Lautstärke auf macOS (TB) auf 100 % feststeckt. Allerdings haben wir das Problem teilweise mithilfe einer Open-Source-App behoben. Der einzige Nachteil ist, dass bei TB-Modellen die Lautstärkegesten an den AirPods aufgrund der Einschränkungen dieser Methode nicht funktionieren. Weitere Details findest du in [unserer Fehlerbehebungsanleitung](/de/troubleshooting/macOS-volume-slider-fixup).
 
 ## Reichweite
 
@@ -32,4 +32,4 @@ Multi-Device-Konnektivität über iCloud Connect wird nur von 5.3 und 5.4 Huilia
 
 ## Erstverbindung mit iOS-Geräten
 
-In einigen Fällen verbinden sich AirPods Replicas anfangs möglicherweise nicht mit iOS-Geräten. Es gibt jedoch häufig eine Lösung für dieses Problem. Siehe [Häufige Probleme](/troubleshooting/other-common-bugs) für Reset-Anleitungen oder den [iCloud-Kompatibilitätsfix](/troubleshooting/AirReps-Incompatibility-with-iCloud), wenn das Problem mit der macOS-Kopplung zusammenhängt.
+In einigen Fällen verbinden sich AirPods Replicas anfangs möglicherweise nicht mit iOS-Geräten. Es gibt jedoch häufig eine Lösung für dieses Problem. Siehe [Häufige Probleme](/de/troubleshooting/other-common-bugs) für Reset-Anleitungen oder den [iCloud-Kompatibilitätsfix](/de/troubleshooting/AirReps-Incompatibility-with-iCloud), wenn das Problem mit der macOS-Kopplung zusammenhängt.

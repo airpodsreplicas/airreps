@@ -4,7 +4,7 @@ description: AirPods QC & LC konusunda uzmanlaş. Tasarım kusurlarını fark et
 
 # QC & LC
 
-Hoş geldin! Buradaysan muhtemelen replika AirPods'unun kalite kontrolünü yapmak veya orijinal satın almayı düşünüyorsun. Bu bölüm, basit yöntemlerden gelişmiş yöntemlere kadar perakende ve replika AirPods arasındaki farkı ayırt etmen konusunda sana rehberlik edecek. Bir fırsat gerçek olamayacak kadar iyi görünüyorsa muhtemelen öyledir. Replika yapı kalitesinden ne bekleyeceğin hakkında daha fazla bilgi için [yapı kalitesi](/introduction/build-quality) rehberine bak.
+Hoş geldin! Buradaysan muhtemelen replika AirPods'unun kalite kontrolünü yapmak veya orijinal satın almayı düşünüyorsun. Bu bölüm, basit yöntemlerden gelişmiş yöntemlere kadar perakende ve replika AirPods arasındaki farkı ayırt etmen konusunda sana rehberlik edecek. Bir fırsat gerçek olamayacak kadar iyi görünüyorsa muhtemelen öyledir. Replika yapı kalitesinden ne bekleyeceğin hakkında daha fazla bilgi için [yapı kalitesi](/tr/introduction/build-quality) rehberine bak.
 
 ::: tip
 Bu bölüm bir zamanlar daha ayrıntılıydı, ancak replikalar daha sofistike hale geldikçe orijinal ve sahte AirPods arasında ayrım yapmak giderek zorlaşmaktadır. Özgünlük konusundaki en iyi tavsiyemiz AirPods'unuzu güvenilir bir satıcıdan satın almanızdır.

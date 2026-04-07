@@ -4,7 +4,7 @@ description: "Comparer les versions des répliques des AirPods Max par puce, fon
 
 # AirPods Max
 
-Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis pour le modèle donné. Pour les liens d'achat, consultez les [liens AirPods Max](/links/airpods-max). Pour en savoir plus sur l'[ANC](/introduction/anc-explained) et la [qualité sonore](/introduction/sound-quality), consultez les sections du guide.
+Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis pour le modèle donné. Pour les liens d'achat, consultez les [liens AirPods Max](/fr/links/airpods-max). Pour en savoir plus sur l'[ANC](/fr/introduction/anc-explained) et la [qualité sonore](/fr/introduction/sound-quality), consultez les sections du guide.
 
 | Version                                                                           | Puce             | Fonctionnalités Présentes                                                                                                                                                      | Fonctionnalités Manquantes                                                                                                       |
 |-----------------------------------------------------------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|

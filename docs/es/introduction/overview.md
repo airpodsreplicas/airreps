@@ -11,7 +11,7 @@ Si estás aquí, probablemente te interese comprar unos AirPods pero no puedes j
 Después de leer esta guía, probablemente descubrirás que comprar réplicas de AirPods es una opción más rentable e igualmente viable en comparación con comprar en Apple. En la **AirReps Ultimate Guide**, ofrecemos información detallada sobre las mejores réplicas de AirPods, qué buscar, cómo comprar y cómo solucionar problemas. Esta guía se actualiza constantemente para proporcionar la información más reciente, y la mejor manera de obtener soporte y ayuda continuos es unirte a nuestra [comunidad de Discord](https://airreps.link/discord).
 
 ::: tip ¿Buscas enlaces de compra?
-Si solo buscas enlaces para comprar réplicas de AirPods, [haz clic aquí para ir a la sección de enlaces](/links/info).
+Si solo buscas enlaces para comprar réplicas de AirPods, [haz clic aquí para ir a la sección de enlaces](/es/links/info).
 :::
 
 ::: tip ¿No estás seguro de qué modelo conseguir?

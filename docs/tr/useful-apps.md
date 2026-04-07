@@ -4,9 +4,9 @@ description: "AirPods replikaları için gerekli firmware güncelleme uygulamala
 
 # Faydalı Uygulamalar
 
-Replikalarının firmware'ini güncellemek genellikle spatial audio gibi yeni özellikler ekleyebilir veya kararlılıklarını artırabilir. Bunu yapmak için indirilebilecek çeşitli uygulamalar kullanabilirsin. Ancak bu uygulamaların **çoğunun yalnızca Android cihazlar için mevcut olduğunu** unutma. Replikalarının hangi yonga setini kullandığını belirlemek için [versiyon karşılaştırma tablolarına](/version-info/general) bak.
+Replikalarının firmware'ini güncellemek genellikle spatial audio gibi yeni özellikler ekleyebilir veya kararlılıklarını artırabilir. Bunu yapmak için indirilebilecek çeşitli uygulamalar kullanabilirsin. Ancak bu uygulamaların **çoğunun yalnızca Android cihazlar için mevcut olduğunu** unutma. Replikalarının hangi yonga setini kullandığını belirlemek için [versiyon karşılaştırma tablolarına](/tr/version-info/general) bak.
 
-Aşağıda sana yardımcı olabilecek uygulamalar ile destekledikleri replika versiyonları ve yonga setleri listelenmiştir. Play Store dışı uygulamaları yüklerken sorun yaşarsan ayarlarından (Güvenlik veya Erişilebilirlik bölümünden) 'Bilinmeyen kaynaklardan yüklemeye izin ver' seçeneğini etkinleştirdiğinden emin ol. Bu uygulamalar ayrıca EQ ayarları aracılığıyla [ses kalitesini](/introduction/sound-quality) ayarlamana da yardımcı olabilir. Bu uygulamaların nasıl kullanılacağı ve sorunlardan nasıl kaçınılacağı hakkında daha fazla bilgi için [Discord](https://airreps.link/discord) sunucumuzu ziyaret et.
+Aşağıda sana yardımcı olabilecek uygulamalar ile destekledikleri replika versiyonları ve yonga setleri listelenmiştir. Play Store dışı uygulamaları yüklerken sorun yaşarsan ayarlarından (Güvenlik veya Erişilebilirlik bölümünden) 'Bilinmeyen kaynaklardan yüklemeye izin ver' seçeneğini etkinleştirdiğinden emin ol. Bu uygulamalar ayrıca EQ ayarları aracılığıyla [ses kalitesini](/tr/introduction/sound-quality) ayarlamana da yardımcı olabilir. Bu uygulamaların nasıl kullanılacağı ve sorunlardan nasıl kaçınılacağı hakkında daha fazla bilgi için [Discord](https://airreps.link/discord) sunucumuzu ziyaret et.
 
 ## **Tigerbuilder**
 

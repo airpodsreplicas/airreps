@@ -5,7 +5,7 @@ description: "Versiones, chips y características de réplicas de AirPods Pro 2.
 # AirPods Pro 2
 
 ::: tip
-Los fabricantes están trasladando lentamente el enfoque de desarrollo a modelos más nuevos. Las réplicas de AirPods Pro 2 siguen siendo excelentes productos y son aún la opción más madura y completa en la línea Pro. Si te interesan los últimos desarrollos, consulta [AirPods Pro 3](/version-info/airpods-pro-3) — el nuevo V7 introduce sensor de frecuencia cardíaca y ANC mejorado.
+Los fabricantes están trasladando lentamente el enfoque de desarrollo a modelos más nuevos. Las réplicas de AirPods Pro 2 siguen siendo excelentes productos y son aún la opción más madura y completa en la línea Pro. Si te interesan los últimos desarrollos, consulta [AirPods Pro 3](/es/version-info/airpods-pro-3) — el nuevo V7 introduce sensor de frecuencia cardíaca y ANC mejorado.
 :::
 
 Haz clic en el hipervínculo de la columna 'Versión' para encontrar reseñas del modelo dado.
@@ -23,7 +23,7 @@ Haz clic en el hipervínculo de la columna 'Versión' para encontrar reseñas de
 
 ## Diferencias de Versión V5.4:
 
-Esta versión es solo una mejora para modelos Huilian; tiene algunas mejoras. El rendimiento del [ANC](/introduction/anc-explained) ha sido mejorado, y la estabilidad parece ser mejor. En cuanto a hardware, nada ha cambiado realmente, aparte del chipset. Estas mejoras parecen ser más actualizaciones de firmware que estarán restringidas a esta nueva unidad. ¿Listo para comprar? Consulta nuestros [enlaces de compra](/links/airpods-pro-2) y la [guía de pedidos](/ordering/how-to-buy).
+Esta versión es solo una mejora para modelos Huilian; tiene algunas mejoras. El rendimiento del [ANC](/es/introduction/anc-explained) ha sido mejorado, y la estabilidad parece ser mejor. En cuanto a hardware, nada ha cambiado realmente, aparte del chipset. Estas mejoras parecen ser más actualizaciones de firmware que estarán restringidas a esta nueva unidad. ¿Listo para comprar? Consulta nuestros [enlaces de compra](/es/links/airpods-pro-2) y la [guía de pedidos](/es/ordering/how-to-buy).
 
 
 ## Diferencias de Versión V5.3:

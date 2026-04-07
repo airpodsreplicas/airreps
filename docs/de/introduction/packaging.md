@@ -49,8 +49,8 @@ Bitte immer um Fotos, wenn dir die Qualität der Box wichtig ist.
 
 ## Handhabung und Versand
 
-Die Box oder Verpackung kann aufgrund der Handhabung durch internationale und lokale Kuriere leichte Dellen oder Knicke aufweisen – nicht durch den Verkäufer. Tipps zum Bestellvorgang und zu Versanderwartungen findest du unter [So kaufst du](/ordering/how-to-buy).
+Die Box oder Verpackung kann aufgrund der Handhabung durch internationale und lokale Kuriere leichte Dellen oder Knicke aufweisen – nicht durch den Verkäufer. Tipps zum Bestellvorgang und zu Versanderwartungen findest du unter [So kaufst du](/de/ordering/how-to-buy).
 
 ## Ladekabel
 
-Das beiliegende Ladekabel unterstützt möglicherweise keine Datenübertragung wie viele andere USB-Kabel. [Verkäufer](/introduction/sellers) verwenden oft Kabel mit Dummy-Pins anstelle von echten funktionierenden Pins, um Kosten zu sparen.
+Das beiliegende Ladekabel unterstützt möglicherweise keine Datenübertragung wie viele andere USB-Kabel. [Verkäufer](/de/introduction/sellers) verwenden oft Kabel mit Dummy-Pins anstelle von echten funktionierenden Pins, um Kosten zu sparen.

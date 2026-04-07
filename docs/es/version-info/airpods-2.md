@@ -5,7 +5,7 @@ description: "Versiones, chips y características de réplicas de AirPods 2. Inf
 # AirPods 2
 
 ::: tip
-Esta línea de productos ya no está siendo actualizada activamente por los fabricantes, ya que el desarrollo se ha trasladado a modelos más nuevos. Las réplicas de AirPods 2 siguen siendo excelentes productos y continúan siendo opciones populares. Si buscas las últimas características y mejoras, considera revisar [AirPods 3](/version-info/airpods-3) o [AirPods 4](/version-info/airpods-4).
+Esta línea de productos ya no está siendo actualizada activamente por los fabricantes, ya que el desarrollo se ha trasladado a modelos más nuevos. Las réplicas de AirPods 2 siguen siendo excelentes productos y continúan siendo opciones populares. Si buscas las últimas características y mejoras, considera revisar [AirPods 3](/es/version-info/airpods-3) o [AirPods 4](/es/version-info/airpods-4).
 :::
 
 Haz clic en el hipervínculo de la columna 'Versión' para encontrar reseñas del modelo dado.

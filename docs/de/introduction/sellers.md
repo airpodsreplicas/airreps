@@ -15,16 +15,16 @@ Es gibt viele AirPods-Replica-Verkäufer, aber das beste Erlebnis bieten unsere 
 Obwohl du möglicherweise Verkäufer auf chinesischen E-Commerce-Websites wie AliExpress oder DHgate findest, sind die Bewertungen auf diesen Plattformen nicht immer unvoreingenommen oder echt. Der Kauf bei unverifizierten Verkäufern birgt mehr Risiko, da Produktqualität und Kundenservice stark variieren können. Falls du bei einem unverifizierten Verkäufer kaufst und Probleme auftreten, teile deine Erfahrung bitte mit unserem Team.
 
 ::: tip
-Hier findest du eine [Liste von Community-verifizierten und seriösen Verkäufern](/links/info).
+Hier findest du eine [Liste von Community-verifizierten und seriösen Verkäufern](/de/links/info).
 :::
 
 ::: tip
-Für das beste Erlebnis empfehlen wir dringend, bei unseren [Community-verifizierten und vertrauenswürdigen Verkäufern](/links/info) zu kaufen. Sie haben bewährte Erfolgsbilanz und bieten zuverlässige Produkte mit gutem Kundenservice.
+Für das beste Erlebnis empfehlen wir dringend, bei unseren [Community-verifizierten und vertrauenswürdigen Verkäufern](/de/links/info) zu kaufen. Sie haben bewährte Erfolgsbilanz und bieten zuverlässige Produkte mit gutem Kundenservice.
 :::
 
 ## Wiederverkäufer und ihre Praktiken
 
-Einige Wiederverkäufer bieten AirPods Replicas zu höheren Preisen an, manchmal mit zusätzlichen Services wie Garantien, Käuferschutz oder Expressversand. Diese Services haben jedoch ihren Preis, und ein höherer Preis garantiert nicht unbedingt ein besseres Produkt. Die von uns empfohlenen vertrauenswürdigen Verkäufer bieten in der Regel die gleichen oder bessere Qualitätsprodukte zu wettbewerbsfähigeren Preisen. Eine Schritt-für-Schritt-Anleitung zur Bestellung findest du unter [So kaufst du](/ordering/how-to-buy).
+Einige Wiederverkäufer bieten AirPods Replicas zu höheren Preisen an, manchmal mit zusätzlichen Services wie Garantien, Käuferschutz oder Expressversand. Diese Services haben jedoch ihren Preis, und ein höherer Preis garantiert nicht unbedingt ein besseres Produkt. Die von uns empfohlenen vertrauenswürdigen Verkäufer bieten in der Regel die gleichen oder bessere Qualitätsprodukte zu wettbewerbsfähigeren Preisen. Eine Schritt-für-Schritt-Anleitung zur Bestellung findest du unter [So kaufst du](/de/ordering/how-to-buy).
 
 ::: tip
 Unsere empfohlenen vertrauenswürdigen Verkäufer bieten ein ausgezeichnetes Preis-Leistungs-Verhältnis. Obwohl Wiederverkäufer zusätzliche Services anbieten können, bekommst du die gleichen Produkte oft direkt bei vertrauenswürdigen Verkäufern zu besseren Preisen.

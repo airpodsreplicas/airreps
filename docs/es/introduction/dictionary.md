@@ -32,7 +32,7 @@ description: Un diccionario conciso de términos comunes usados en la comunidad 
 
 ## QC: Control de Calidad [FOTOS]
 
-"QC" significa Control de Calidad. "QC PICS" se refiere a fotos usadas para verificar la calidad de un producto comprado. Consulta nuestra [guía de QC & LC](/ordering/qc-lc) para saber cómo inspeccionar tus réplicas.
+"QC" significa Control de Calidad. "QC PICS" se refiere a fotos usadas para verificar la calidad de un producto comprado. Consulta nuestra [guía de QC & LC](/es/ordering/qc-lc) para saber cómo inspeccionar tus réplicas.
 
 **Ejemplo:** "¿Puedes enviarme las fotos QC de los v2.5 de HiCity?"
 
@@ -50,4 +50,4 @@ Un "Agent" es un tercero que facilita compras seguras desde vendedores (a menudo
 
 ## Markings: Etiquetado del Producto
 
-"Markings" se refiere al texto en el estuche y los AirPods que proporciona información sobre el producto, incluyendo el texto "Designed by Apple in California", números de modelo y números de serie. Para más información sobre cómo las marcas varían entre réplicas y originales, consulta [calidad de construcción](/introduction/build-quality).
+"Markings" se refiere al texto en el estuche y los AirPods que proporciona información sobre el producto, incluyendo el texto "Designed by Apple in California", números de modelo y números de serie. Para más información sobre cómo las marcas varían entre réplicas y originales, consulta [calidad de construcción](/es/introduction/build-quality).

@@ -15,16 +15,16 @@ Birçok AirPods replika satıcısı mevcuttur, ancak en iyi deneyim topluluk tar
 AliExpress veya DHgate gibi Çin e-ticaret web sitelerinde satıcılar bulabilirsin ancak bu platformlardaki incelemeler her zaman tarafsız veya meşru olmayabilir. Doğrulanmamış satıcılardan satın almak daha fazla risk taşır çünkü ürün kalitesi ve müşteri hizmeti önemli ölçüde değişebilir. Doğrulanmamış bir satıcıdan satın alır ve sorunlarla karşılaşırsan lütfen deneyimini ekibimizle paylaş.
 
 ::: tip
-[Topluluk tarafından doğrulanmış ve güvenilir satıcıların listesini burada bul](/links/info).
+[Topluluk tarafından doğrulanmış ve güvenilir satıcıların listesini burada bul](/tr/links/info).
 :::
 
 ::: tip
-En iyi deneyim için [topluluk tarafından doğrulanmış güvenilir satıcılarımızdan](/links/info) satın almanı şiddetle tavsiye ederiz. Kanıtlanmış sicilleri var ve iyi müşteri hizmetiyle güvenilir ürünler sunuyorlar.
+En iyi deneyim için [topluluk tarafından doğrulanmış güvenilir satıcılarımızdan](/tr/links/info) satın almanı şiddetle tavsiye ederiz. Kanıtlanmış sicilleri var ve iyi müşteri hizmetiyle güvenilir ürünler sunuyorlar.
 :::
 
 ## Bayiler ve Uygulamaları
 
-Bazı bayiler AirPods replikalarını daha yüksek fiyatlarla, bazen garanti, alıcı koruması veya hızlı kargo gibi ek hizmetlerle sunar. Ancak bu hizmetler bir prim karşılığında gelir ve daha yüksek fiyat mutlaka daha iyi bir ürünü garanti etmez. Önerdiğimiz güvenilir satıcılar genellikle aynı veya daha iyi kalitede ürünleri daha rekabetçi fiyatlarla sunar. Adım adım sipariş rehberi için [nasıl satın alınır](/ordering/how-to-buy) sayfasına bak.
+Bazı bayiler AirPods replikalarını daha yüksek fiyatlarla, bazen garanti, alıcı koruması veya hızlı kargo gibi ek hizmetlerle sunar. Ancak bu hizmetler bir prim karşılığında gelir ve daha yüksek fiyat mutlaka daha iyi bir ürünü garanti etmez. Önerdiğimiz güvenilir satıcılar genellikle aynı veya daha iyi kalitede ürünleri daha rekabetçi fiyatlarla sunar. Adım adım sipariş rehberi için [nasıl satın alınır](/tr/ordering/how-to-buy) sayfasına bak.
 
 ::: tip
 Önerdiğimiz güvenilir satıcılar mükemmel değer ve kalite sunar. Bayiler ek hizmetler sunsa da aynı ürünleri genellikle doğrudan güvenilir satıcılardan daha iyi fiyatlarla alabilirsin.

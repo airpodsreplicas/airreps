@@ -4,7 +4,7 @@ description: AirPods QC & LC meistern. Designfehler erkennen, Software-Features 
 
 # QC & LC
 
-Willkommen! Wenn du hier bist, möchtest du wahrscheinlich deine AirPods Replicas einer Qualitätskontrolle unterziehen oder erwägst den Kauf originaler AirPods. Dieser Abschnitt zeigt dir, wie du Retail- und Replica-AirPods unterscheiden kannst, von einfachen bis zu fortgeschrittenen Methoden. Wenn ein Angebot zu gut klingt, um wahr zu sein, ist es das wahrscheinlich auch. Mehr darüber, was du von der Verarbeitungsqualität einer Replica erwarten kannst, findest du im [Verarbeitungsqualität](/introduction/build-quality)-Guide.
+Willkommen! Wenn du hier bist, möchtest du wahrscheinlich deine AirPods Replicas einer Qualitätskontrolle unterziehen oder erwägst den Kauf originaler AirPods. Dieser Abschnitt zeigt dir, wie du Retail- und Replica-AirPods unterscheiden kannst, von einfachen bis zu fortgeschrittenen Methoden. Wenn ein Angebot zu gut klingt, um wahr zu sein, ist es das wahrscheinlich auch. Mehr darüber, was du von der Verarbeitungsqualität einer Replica erwarten kannst, findest du im [Verarbeitungsqualität](/de/introduction/build-quality)-Guide.
 
 ::: tip
 Dieser Abschnitt war einst ausführlicher, aber da Replicas immer ausgefeilter geworden sind, wird es zunehmend schwieriger, zwischen echten und gefälschten AirPods zu unterscheiden. Unser bester Rat, um Echtheit sicherzustellen, ist der Kauf bei einem seriösen Verkäufer.

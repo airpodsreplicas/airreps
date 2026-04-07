@@ -5,7 +5,7 @@ description: "AirPods 2 replika versiyonlarını çip, özellik ve eksik özelli
 # AirPods 2
 
 ::: tip
-Bu ürün serisi, geliştirme daha yeni modellere kaydığı için üreticiler tarafından artık aktif olarak güncellenmemektedir. AirPods 2 replikaları hâlâ mükemmel ürünlerdir ve popüler seçenekler olmaya devam etmektedir. En son özellikler ve iyileştirmeler için [AirPods 3](/version-info/airpods-3) veya [AirPods 4](/version-info/airpods-4)'e göz atmanı öneririz.
+Bu ürün serisi, geliştirme daha yeni modellere kaydığı için üreticiler tarafından artık aktif olarak güncellenmemektedir. AirPods 2 replikaları hâlâ mükemmel ürünlerdir ve popüler seçenekler olmaya devam etmektedir. En son özellikler ve iyileştirmeler için [AirPods 3](/tr/version-info/airpods-3) veya [AirPods 4](/tr/version-info/airpods-4)'e göz atmanı öneririz.
 :::
 
 Verilen model için incelemeleri bulmak üzere 'Versiyon' sütunundaki bağlantıya tıkla.

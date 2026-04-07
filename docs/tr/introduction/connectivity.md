@@ -8,11 +8,11 @@ AirPods replikalarının bağlantı özelliklerini anlamak, bilinçli bir satın
 
 ## iOS Açılır Penceresi
 
-iOS açılır penceresi AirPods replikalarında neredeyse anında görünür, ancak hız [satıcıya](/introduction/sellers) ve partiye göre değişebilir. Bazı durumlarda açılır pencere orijinal AirPods'tan daha hızlı görünebilir.
+iOS açılır penceresi AirPods replikalarında neredeyse anında görünür, ancak hız [satıcıya](/tr/introduction/sellers) ve partiye göre değişebilir. Bazı durumlarda açılır pencere orijinal AirPods'tan daha hızlı görünebilir.
 
 ## macOS Bağlantısı
 
-  Yalnızca birkaç yeni klon macOS ile sorunsuz çalışır; diğer üreticilerde durum her zaman böyle değildir. Replikalarını MacBook veya iMac ile kullanmayı planlıyorsan "Huilian" modelini seçmeni öneririz. Bunun nedeni, diğer klonların sorunsuz iOS entegrasyonu için iCloud geçişine sahip olmaması veya macOS'ta seslerinin %100'de takılı kalmasıdır (TB). Ancak üçüncü parti bir açık kaynak uygulama kullanarak sorunu kısmen ele aldık; tek dezavantajı TB modellerinde, yöntemin sınırlamaları nedeniyle AirPods üzerindeki ses hareketlerinin çalışmayacağıdır. Daha fazla bilgi için [sorun giderme rehberimizi](/troubleshooting/macOS-volume-slider-fixup) ziyaret et.
+  Yalnızca birkaç yeni klon macOS ile sorunsuz çalışır; diğer üreticilerde durum her zaman böyle değildir. Replikalarını MacBook veya iMac ile kullanmayı planlıyorsan "Huilian" modelini seçmeni öneririz. Bunun nedeni, diğer klonların sorunsuz iOS entegrasyonu için iCloud geçişine sahip olmaması veya macOS'ta seslerinin %100'de takılı kalmasıdır (TB). Ancak üçüncü parti bir açık kaynak uygulama kullanarak sorunu kısmen ele aldık; tek dezavantajı TB modellerinde, yöntemin sınırlamaları nedeniyle AirPods üzerindeki ses hareketlerinin çalışmayacağıdır. Daha fazla bilgi için [sorun giderme rehberimizi](/tr/troubleshooting/macOS-volume-slider-fixup) ziyaret et.
 
 ## Menzil
 
@@ -32,4 +32,4 @@ iCloud Connect üzerinden çoklu cihaz bağlantısı yalnızca 5.3 ve 5.4 Huilia
 
 ## iOS Cihazlarla İlk Bağlantı
 
-Bazı durumlarda AirPods replikaları başlangıçta iOS cihazlara bağlanamayabilir. Ancak bu sorun için genellikle bir çözüm mevcuttur. Sıfırlama prosedürleri için [Yaygın Sorunlar](/troubleshooting/other-common-bugs) bölümüne bak veya sorun macOS eşleştirmesiyle ilgiliyse [iCloud uyumluluk düzeltmesine](/troubleshooting/AirReps-Incompatibility-with-iCloud) bak.
+Bazı durumlarda AirPods replikaları başlangıçta iOS cihazlara bağlanamayabilir. Ancak bu sorun için genellikle bir çözüm mevcuttur. Sıfırlama prosedürleri için [Yaygın Sorunlar](/tr/troubleshooting/other-common-bugs) bölümüne bak veya sorun macOS eşleştirmesiyle ilgiliyse [iCloud uyumluluk düzeltmesine](/tr/troubleshooting/AirReps-Incompatibility-with-iCloud) bak.

@@ -5,7 +5,7 @@ description: "Vergleiche AirPods Pro 2 Replica-Versionen nach Chip, Features und
 # AirPods Pro 2
 
 ::: tip
-Die Hersteller verlagern ihren Entwicklungsfokus langsam auf neuere Modelle. AirPods Pro 2 Replicas bleiben ausgezeichnete Produkte und sind nach wie vor die ausgereifteste und funktionsreichste Option in der Pro-Reihe. Wenn du an den neuesten Entwicklungen interessiert bist, schau dir [AirPods Pro 3](/version-info/airpods-pro-3) an – die neue V7 bietet einen Herzfrequenzsensor und verbessertes ANC.
+Die Hersteller verlagern ihren Entwicklungsfokus langsam auf neuere Modelle. AirPods Pro 2 Replicas bleiben ausgezeichnete Produkte und sind nach wie vor die ausgereifteste und funktionsreichste Option in der Pro-Reihe. Wenn du an den neuesten Entwicklungen interessiert bist, schau dir [AirPods Pro 3](/de/version-info/airpods-pro-3) an – die neue V7 bietet einen Herzfrequenzsensor und verbessertes ANC.
 :::
 
 Klicke auf den Hyperlink in der Spalte „Version", um Bewertungen für das jeweilige Modell zu finden.
@@ -23,7 +23,7 @@ Klicke auf den Hyperlink in der Spalte „Version", um Bewertungen für das jewe
 
 ## V5.4 Versionsunterschiede:
 
-Diese Version ist nur ein Upgrade für Huilian-Modelle; sie hat einige Verbesserungen. Die [ANC](/introduction/anc-explained)-Leistung wurde verbessert und die Stabilität scheint besser zu sein. Hardwareseitig hat sich abgesehen vom Chipsatz nicht viel geändert. Diese Upgrades scheinen eher Firmware-Updates zu sein, die auf diese neue Einheit beschränkt bleiben. Bereit zum Kauf? Sieh dir unsere [Kauflinks](/links/airpods-pro-2) und die [Bestellanleitung](/ordering/how-to-buy) an.
+Diese Version ist nur ein Upgrade für Huilian-Modelle; sie hat einige Verbesserungen. Die [ANC](/de/introduction/anc-explained)-Leistung wurde verbessert und die Stabilität scheint besser zu sein. Hardwareseitig hat sich abgesehen vom Chipsatz nicht viel geändert. Diese Upgrades scheinen eher Firmware-Updates zu sein, die auf diese neue Einheit beschränkt bleiben. Bereit zum Kauf? Sieh dir unsere [Kauflinks](/de/links/airpods-pro-2) und die [Bestellanleitung](/de/ordering/how-to-buy) an.
 
 
 ## V5.3 Versionsunterschiede:

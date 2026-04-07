@@ -11,18 +11,18 @@ Buradaysan muhtemelen bir çift AirPods satın almakla ilgileniyorsun ama pili t
 Bu rehberi okuduktan sonra muhtemelen replika AirPods satın almanın Apple'dan almaya kıyasla daha uygun maliyetli ve eşit derecede uygulanabilir bir seçenek olduğunu göreceksin. **AirReps Kapsamlı Rehber**'de en iyi replika AirPods, nelere dikkat edilmesi gerektiği, nasıl satın alınacağı ve sorun giderme hakkında ayrıntılı bilgi sunuyoruz. Bu rehber en güncel bilgileri sağlamak için sürekli güncellenmektedir ve sürekli destek ve yardım almanın en iyi yolu [Discord topluluğumuza](https://airreps.link/discord) katılmaktır.
 
 ::: tip Satın Alma Linkleri mi Arıyorsun?
-Yalnızca AirPods replikaları satın almak için link arıyorsan, [linkler bölümüne gitmek için buraya tıkla](/links/info).
+Yalnızca AirPods replikaları satın almak için link arıyorsan, [linkler bölümüne gitmek için buraya tıkla](/tr/links/info).
 :::
 
 ::: tip Hangi modeli alacağından emin değil misin?
-İhtiyaçlarına, cihazına ve bütçene en uygun AirPods replikasını bulmak için [hızlı testimizi](/quiz) çöz.
+İhtiyaçlarına, cihazına ve bütçene en uygun AirPods replikasını bulmak için [hızlı testimizi](/tr/quiz) çöz.
 :::
 
 ## Neler Öğreneceksin
 
-Tüm AirPods replikaları eşit yaratılmamıştır. Bu rehber, [ses kalitesi](/introduction/sound-quality), [pil ömrü](/introduction/battery-life) ve [bağlantı](/introduction/connectivity) gibi temel konuları kapsayarak gerçek değer sunan yüksek kaliteli replikaları belirlemene yardımcı olur.
+Tüm AirPods replikaları eşit yaratılmamıştır. Bu rehber, [ses kalitesi](/tr/introduction/sound-quality), [pil ömrü](/tr/introduction/battery-life) ve [bağlantı](/tr/introduction/connectivity) gibi temel konuları kapsayarak gerçek değer sunan yüksek kaliteli replikaları belirlemene yardımcı olur.
 
-Ucuz taklitler ile yatırımına değer kaliteli AirPods replikaları arasındaki farkı anlamak için gereken bilgi ve araçları sağlıyoruz. Replika AirPods alışverişi yaparken temel özellikleri anlamak ve yaygın tuzaklardan kaçınmak için [Versiyon Bilgileri](/version-info/general) bölümümüze göz at.
+Ucuz taklitler ile yatırımına değer kaliteli AirPods replikaları arasındaki farkı anlamak için gereken bilgi ve araçları sağlıyoruz. Replika AirPods alışverişi yaparken temel özellikleri anlamak ve yaygın tuzaklardan kaçınmak için [Versiyon Bilgileri](/tr/version-info/general) bölümümüze göz at.
 
 [Discord](https://airreps.link/discord) üzerinden topluluk odaklı yaklaşımımız, en son güncellemelerden haberdar olmanı ve hangi AirPods replikalarının ihtiyaçlarına uygun olduğu konusunda bilinçli kararlar vermeni sağlar. Bu rehber ayrıca ikinci el alışverişlerde replikaları orijinal AirPods'tan ayırt etmene yardımcı olarak olası dolandırıcılıkları önler.
 

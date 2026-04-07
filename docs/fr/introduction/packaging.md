@@ -49,8 +49,8 @@ Demandez toujours des photos si la qualité de la boîte est importante pour vou
 
 ## Manipulation et Expédition
 
-La boîte ou l'emballage peut arriver légèrement cabossé ou froissé en raison de la manipulation par les transporteurs internationaux et locaux, pas le vendeur. Pour des conseils sur le processus de commande et les attentes d'expédition, consultez [comment acheter](/ordering/how-to-buy).
+La boîte ou l'emballage peut arriver légèrement cabossé ou froissé en raison de la manipulation par les transporteurs internationaux et locaux, pas le vendeur. Pour des conseils sur le processus de commande et les attentes d'expédition, consultez [comment acheter](/fr/ordering/how-to-buy).
 
 ## Câble de Charge
 
-Le câble de charge inclus peut ne pas supporter le transfert de données comme beaucoup d'autres câbles USB. Les [vendeurs](/introduction/sellers) utilisent souvent des câbles avec des broches factices au lieu de vraies broches fonctionnelles pour réduire les coûts.
+Le câble de charge inclus peut ne pas supporter le transfert de données comme beaucoup d'autres câbles USB. Les [vendeurs](/fr/introduction/sellers) utilisent souvent des câbles avec des broches factices au lieu de vraies broches fonctionnelles pour réduire les coûts.

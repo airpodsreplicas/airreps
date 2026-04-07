@@ -13,20 +13,20 @@ TigerBuilder ve Huilian gibi üreticiler kendi ürün adlarını kullanır (örn
 :::
 
 ::: tip Hangi modeli seçeceğinden emin değil misin?
-[Hızlı testimizi](/quiz) çöz - birkaç soruyu yanıtla ve kişisel bir öneri al.
+[Hızlı testimizi](/tr/quiz) çöz - birkaç soruyu yanıtla ve kişisel bir öneri al.
 :::
 
 Bu tablo, belirli versiyonlara göre çeşitli AirPods modelleri için en dikkat çekici eksik özelliklerin özetini sunar.
 
 | AirPods Modeli | Temel Alınan | Eksik Özellikler                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Ağı                                                                           |
-| [AirPods Gen 4](/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Ağı, Doğru Kasa SFX ve daha belirgin detaylar                                                                           |
-| [AirPods Pro 2](/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Mükemmel Spatial Audio, Find My Ağı                                                                                                     |
-| [AirPods Gen 3](/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Ağı                                                                                                            |
-| [AirPods Max](/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Çoklu Cihaz Bağlantısı, Perakende AirPods Max ANC, Daha İyi Şeffaflık Modu ve Daha İnce detaylar                                            |
-| [AirPods Pro](/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | Birebir Gürültü Engelleme (zaten oldukça yakın), Find My Ağı                                                                            |
-| [AirPods Gen 2](/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Ağı                                                                                                              |
+| [AirPods Pro 3](/tr/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Ağı                                                                           |
+| [AirPods Gen 4](/tr/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Ağı, Doğru Kasa SFX ve daha belirgin detaylar                                                                           |
+| [AirPods Pro 2](/tr/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Mükemmel Spatial Audio, Find My Ağı                                                                                                     |
+| [AirPods Gen 3](/tr/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Ağı                                                                                                            |
+| [AirPods Max](/tr/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Çoklu Cihaz Bağlantısı, Perakende AirPods Max ANC, Daha İyi Şeffaflık Modu ve Daha İnce detaylar                                            |
+| [AirPods Pro](/tr/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | Birebir Gürültü Engelleme (zaten oldukça yakın), Find My Ağı                                                                            |
+| [AirPods Gen 2](/tr/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Ağı                                                                                                              |
 
 **Hepsinde Var:**
 
@@ -42,7 +42,7 @@ Tüm modellerde aşağıdaki özellik eksiktir:
 
 - "Find My Ağı" Kullanılabilirliği
 
-**Not:** Bu liste yeniden eskiye doğru sıralanmıştır. Daha yüksek numara genellikle ama her zaman değil daha iyi bir modeli gösterir. Satın almaya hazır mısın? [Güvenilir satıcılarımızdan](/links/info) [nasıl sipariş vereceğini](/ordering/how-to-buy) öğren.
+**Not:** Bu liste yeniden eskiye doğru sıralanmıştır. Daha yüksek numara genellikle ama her zaman değil daha iyi bir modeli gösterir. Satın almaya hazır mısın? [Güvenilir satıcılarımızdan](/tr/links/info) [nasıl sipariş vereceğini](/tr/ordering/how-to-buy) öğren.
 
 ## SSS
 
@@ -51,7 +51,7 @@ AirPods Max replikaları artık mevcut ve kapsamlı replikalar haline gelmiştir
 :::
 
 ::: details AirPods Pro 3 replikaları mevcut mu?
-AirPods Pro 3 replikaları mevcuttur. V7 (Huilian 377H3), nabız sensörü, yükseltilmiş AI Hibrit ANC ve baş hareket kontrolleri içeren ilk üst düzey versiyondur - satın alma linkleri yakında gelecek. V6 şu anda güvenilir satıcılardan temin edilebilir. Daha fazla bilgi için [AirPods Pro 3 versiyon bilgisi](/version-info/airpods-pro-3) sayfasına bak.
+AirPods Pro 3 replikaları mevcuttur. V7 (Huilian 377H3), nabız sensörü, yükseltilmiş AI Hibrit ANC ve baş hareket kontrolleri içeren ilk üst düzey versiyondur - satın alma linkleri yakında gelecek. V6 şu anda güvenilir satıcılardan temin edilebilir. Daha fazla bilgi için [AirPods Pro 3 versiyon bilgisi](/tr/version-info/airpods-pro-3) sayfasına bak.
 :::
 
 ::: details Benzer toplulukların bu rehberden daha yeni ürünleri neden olabilir?
@@ -67,7 +67,7 @@ Bir klonun versiyonunu gerçekten kullanmadan belirlemek mümkün değildir. Sat
 :::
 
 ::: details AirPods'umdaki çipi nasıl belirleyebilirim?
-AirPods klonlarındaki çipi belirlemek için bu [faydalı uygulamalar](/useful-apps) listesine bak. AirPods'unun hangisine bağlandığını belirlemek için her uygulamayı ayrı ayrı dene. Bu, üreticiyi ve yonga setini hızlıca belirlemenize yardımcı olacaktır. AirPods'un çok düşük seviyeyse hiçbir uygulamaya bağlanamayabilir. Bu durumda muhtemelen Jieli yonga seti kullanıyordur.
+AirPods klonlarındaki çipi belirlemek için bu [faydalı uygulamalar](/tr/useful-apps) listesine bak. AirPods'unun hangisine bağlandığını belirlemek için her uygulamayı ayrı ayrı dene. Bu, üreticiyi ve yonga setini hızlıca belirlemenize yardımcı olacaktır. AirPods'un çok düşük seviyeyse hiçbir uygulamaya bağlanamayabilir. Bu durumda muhtemelen Jieli yonga seti kullanıyordur.
 :::
 
 ::: details AirPods'umun gerçek olup olmadığını nasıl anlayabilirim?

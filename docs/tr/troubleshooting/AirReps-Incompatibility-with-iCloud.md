@@ -5,7 +5,7 @@ description: AirReps iCloud Connect Uyumsuzluğu
 # **AirReps iCloud Connect Uyumsuzluğu**
 Bazı AirPods replikalarında yaygın bir sorun macOS ile uyumluluktur. Bu sorun, replikaların iCloud'u tam olarak destekleyememesinden kaynaklanır ve iCloud doğrulama hatasına neden olur. Bu sorun aşağıdaki talimatlar izlenerek kolayca düzeltilebilir.
 
-**Not: Bu hata Huilian yonga seti kullanan klonlarda mevcut değildir.** Yonga seti farkları ve macOS uyumluluğu hakkında daha fazla bilgi için [bağlantı rehberine](/introduction/connectivity) bak.
+**Not: Bu hata Huilian yonga seti kullanan klonlarda mevcut değildir.** Yonga seti farkları ve macOS uyumluluğu hakkında daha fazla bilgi için [bağlantı rehberine](/tr/introduction/connectivity) bak.
 
 ## **Adım 1**: AirPods'u iCloud Cihazlarından Unut
 

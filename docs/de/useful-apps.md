@@ -4,9 +4,9 @@ description: "Wichtige Firmware-Update-Apps für AirPods Replicas. Unterstützun
 
 # Nützliche Apps
 
-Ein Firmware-Update deiner Reps kann häufig neue Features wie Spatial Audio hinzufügen oder die Stabilität verbessern. Dafür kannst du verschiedene Apps nutzen, die zum Download bereitstehen. Beachte jedoch, dass **die meisten dieser Apps nur für Android-Geräte verfügbar sind**. Um herauszufinden, welchen Chipsatz deine Replicas verwenden, siehe die [Versionsvergleichstabellen](/version-info/general).
+Ein Firmware-Update deiner Reps kann häufig neue Features wie Spatial Audio hinzufügen oder die Stabilität verbessern. Dafür kannst du verschiedene Apps nutzen, die zum Download bereitstehen. Beachte jedoch, dass **die meisten dieser Apps nur für Android-Geräte verfügbar sind**. Um herauszufinden, welchen Chipsatz deine Replicas verwenden, siehe die [Versionsvergleichstabellen](/de/version-info/general).
 
-Im Folgenden findest du Apps zum Herunterladen sowie die unterstützten Versionen und Chipsätze. Falls du Probleme bei der Installation von Apps hast, die nicht aus dem Play Store stammen, stelle sicher, dass du in deinen Einstellungen (im Bereich Sicherheit oder Bedienungshilfen) „Installation aus unbekannten Quellen" aktiviert hast. Diese Apps können auch helfen, die [Klangqualität](/introduction/sound-quality) über EQ-Einstellungen anzupassen. Weitere Informationen zur Nutzung dieser Apps und zur Vermeidung von Problemen findest du in unserem [Discord](https://airreps.link/discord).
+Im Folgenden findest du Apps zum Herunterladen sowie die unterstützten Versionen und Chipsätze. Falls du Probleme bei der Installation von Apps hast, die nicht aus dem Play Store stammen, stelle sicher, dass du in deinen Einstellungen (im Bereich Sicherheit oder Bedienungshilfen) „Installation aus unbekannten Quellen" aktiviert hast. Diese Apps können auch helfen, die [Klangqualität](/de/introduction/sound-quality) über EQ-Einstellungen anzupassen. Weitere Informationen zur Nutzung dieser Apps und zur Vermeidung von Problemen findest du in unserem [Discord](https://airreps.link/discord).
 
 ## **Tigerbuilder**
 

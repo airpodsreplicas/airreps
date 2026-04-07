@@ -13,20 +13,20 @@ Hersteller wie TigerBuilder und Huilian verwenden eigene Produktnamen (wie „37
 :::
 
 ::: tip Nicht sicher, welches Modell?
-Mach unser [kurzes Quiz](/quiz) – beantworte ein paar Fragen und erhalte eine persönliche Empfehlung.
+Mach unser [kurzes Quiz](/de/quiz) – beantworte ein paar Fragen und erhalte eine persönliche Empfehlung.
 :::
 
 Diese Tabelle bietet eine Zusammenfassung der wichtigsten fehlenden Features für verschiedene AirPods-Modelle basierend auf bestimmten Versionen.
 
 | AirPods-Modell | Basiert auf | Fehlende Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Network                                                                           |
-| [AirPods Gen 4](/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, akkurate Case-SFX und weitere auffälligere Details                                                                           |
-| [AirPods Pro 2](/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfektes Spatial Audio, Find My Network                                                                                                     |
-| [AirPods Gen 3](/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
-| [AirPods Max](/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Multi-Device Connect, ANC auf Retail-Niveau, besserer Transparenzmodus und weitere subtile Details                                            |
-| [AirPods Pro](/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (ist bereits ziemlich nah dran), Find My Network                                                                            |
-| [AirPods Gen 2](/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
+| [AirPods Pro 3](/de/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Network                                                                           |
+| [AirPods Gen 4](/de/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, akkurate Case-SFX und weitere auffälligere Details                                                                           |
+| [AirPods Pro 2](/de/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfektes Spatial Audio, Find My Network                                                                                                     |
+| [AirPods Gen 3](/de/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
+| [AirPods Max](/de/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Multi-Device Connect, ANC auf Retail-Niveau, besserer Transparenzmodus und weitere subtile Details                                            |
+| [AirPods Pro](/de/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (ist bereits ziemlich nah dran), Find My Network                                                                            |
+| [AirPods Gen 2](/de/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
 
 **Alle haben:**
 
@@ -42,7 +42,7 @@ Allen Modellen fehlt folgendes Feature:
 
 - Verfügbarkeit von „Find My Network"
 
-**Hinweis:** Diese Liste ist von neuer zu älter sortiert. Eine höhere Nummer bedeutet oft, aber nicht immer, ein besseres Modell. Bereit zum Kauf? Siehe [So bestellst du](/ordering/how-to-buy) bei unseren [vertrauenswürdigen Verkäufern](/links/info).
+**Hinweis:** Diese Liste ist von neuer zu älter sortiert. Eine höhere Nummer bedeutet oft, aber nicht immer, ein besseres Modell. Bereit zum Kauf? Siehe [So bestellst du](/de/ordering/how-to-buy) bei unseren [vertrauenswürdigen Verkäufern](/de/links/info).
 
 ## FAQ
 
@@ -51,7 +51,7 @@ AirPods Max Replicas sind mittlerweile verfügbar und haben sich zu ausgereiften
 :::
 
 ::: details Gibt es AirPods Pro 3 Replicas?
-AirPods Pro 3 Replicas sind verfügbar. Die V7 (Huilian 377H3) ist die erste High-End-Version mit Herzfrequenzsensor, verbessertem AI Hybrid ANC und Kopfgesten-Steuerung – Kauflinks folgen in Kürze. Die V6 ist derzeit bei vertrauenswürdigen Verkäufern erhältlich. Weitere Informationen findest du auf der [AirPods Pro 3 Versionsinfo](/version-info/airpods-pro-3)-Seite.
+AirPods Pro 3 Replicas sind verfügbar. Die V7 (Huilian 377H3) ist die erste High-End-Version mit Herzfrequenzsensor, verbessertem AI Hybrid ANC und Kopfgesten-Steuerung – Kauflinks folgen in Kürze. Die V6 ist derzeit bei vertrauenswürdigen Verkäufern erhältlich. Weitere Informationen findest du auf der [AirPods Pro 3 Versionsinfo](/de/version-info/airpods-pro-3)-Seite.
 :::
 
 ::: details Warum haben ähnliche Communities möglicherweise neuere Produkte als dieser Guide?
@@ -67,7 +67,7 @@ Es ist nicht möglich, die Version eines Klons zu bestimmen, ohne ihn tatsächli
 :::
 
 ::: details Wie kann ich den Chip in meinen AirPods bestimmen?
-Um den Chip in deinen AirPods-Klonen zu identifizieren, nutze diese Liste von [nützlichen Apps](/useful-apps). Teste jede App einzeln, um herauszufinden, mit welcher sich deine AirPods verbinden. So kannst du schnell den Hersteller und Chipsatz identifizieren. Beachte, dass sich AirPods der untersten Preisklasse möglicherweise mit keiner der Apps verbinden. In solchen Fällen verwenden sie wahrscheinlich den Jieli-Chipsatz.
+Um den Chip in deinen AirPods-Klonen zu identifizieren, nutze diese Liste von [nützlichen Apps](/de/useful-apps). Teste jede App einzeln, um herauszufinden, mit welcher sich deine AirPods verbinden. So kannst du schnell den Hersteller und Chipsatz identifizieren. Beachte, dass sich AirPods der untersten Preisklasse möglicherweise mit keiner der Apps verbinden. In solchen Fällen verwenden sie wahrscheinlich den Jieli-Chipsatz.
 :::
 
 ::: details Wie kann ich feststellen, ob meine AirPods echt sind?

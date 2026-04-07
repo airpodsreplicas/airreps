@@ -5,7 +5,7 @@ description: "Comparez les versions de répliques des AirPods Pro 2 par puce, fo
 # AirPods Pro 2
 
 ::: tip
-Les fabricants déplacent progressivement leur focus de développement vers des modèles plus récents. Les répliques d'AirPods Pro 2 restent d'excellents produits et sont toujours l'option la plus mature et complète en fonctionnalités de la gamme Pro. Si vous êtes intéressé par les derniers développements, consultez les [AirPods Pro 3](/version-info/airpods-pro-3) — le nouveau V7 introduit un capteur cardiaque et un ANC amélioré.
+Les fabricants déplacent progressivement leur focus de développement vers des modèles plus récents. Les répliques d'AirPods Pro 2 restent d'excellents produits et sont toujours l'option la plus mature et complète en fonctionnalités de la gamme Pro. Si vous êtes intéressé par les derniers développements, consultez les [AirPods Pro 3](/fr/version-info/airpods-pro-3) — le nouveau V7 introduit un capteur cardiaque et un ANC amélioré.
 :::
 
 Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis pour le modèle donné.
@@ -23,7 +23,7 @@ Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis pour
 
 ## Différences des Versions V5.4 :
 
-Cette version n'est qu'une amélioration pour les modèles Huilian ; elle a quelques améliorations. Les performances [ANC](/introduction/anc-explained) ont été améliorées, et la stabilité semble être meilleure. Côté matériel, rien n'a vraiment changé, à part le chipset. Ces améliorations semblent être plutôt des mises à jour de firmware qui seront restreintes à cette nouvelle unité. Prêt à acheter ? Consultez nos [liens d'achat](/links/airpods-pro-2) et le [guide de commande](/ordering/how-to-buy).
+Cette version n'est qu'une amélioration pour les modèles Huilian ; elle a quelques améliorations. Les performances [ANC](/fr/introduction/anc-explained) ont été améliorées, et la stabilité semble être meilleure. Côté matériel, rien n'a vraiment changé, à part le chipset. Ces améliorations semblent être plutôt des mises à jour de firmware qui seront restreintes à cette nouvelle unité. Prêt à acheter ? Consultez nos [liens d'achat](/fr/links/airpods-pro-2) et le [guide de commande](/fr/ordering/how-to-buy).
 
 
 ## Différences des Versions V5.3 :

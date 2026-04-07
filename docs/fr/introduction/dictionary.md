@@ -32,7 +32,7 @@ Les « Contrefaçons » font référence à des produits conçus pour ressembler
 
 ## QC : Contrôle Qualité [PHOTOS]
 
-« QC » signifie Contrôle Qualité. « QC PICS » fait référence aux photos utilisées pour vérifier la qualité d'un produit acheté. Consultez notre [guide QC & LC](/ordering/qc-lc) pour savoir comment inspecter vos répliques.
+« QC » signifie Contrôle Qualité. « QC PICS » fait référence aux photos utilisées pour vérifier la qualité d'un produit acheté. Consultez notre [guide QC & LC](/fr/ordering/qc-lc) pour savoir comment inspecter vos répliques.
 
 **Exemple :** « Tu peux m'envoyer les photos QC des v2.5 de HiCity ? »
 
@@ -50,4 +50,4 @@ Un « Agent » est un tiers qui facilite les achats sécurisés auprès de vende
 
 ## Marquages : Étiquetage du Produit
 
-Les « Marquages » font référence au texte sur le boîtier et les AirPods qui fournit des informations sur le produit, incluant le texte « Designed by Apple in California », les numéros de modèle et les numéros de série. Pour en savoir plus sur les variations de marquages entre répliques et originaux, consultez la [qualité de fabrication](/introduction/build-quality).
+Les « Marquages » font référence au texte sur le boîtier et les AirPods qui fournit des informations sur le produit, incluant le texte « Designed by Apple in California », les numéros de modèle et les numéros de série. Pour en savoir plus sur les variations de marquages entre répliques et originaux, consultez la [qualité de fabrication](/fr/introduction/build-quality).

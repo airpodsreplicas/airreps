@@ -49,8 +49,8 @@ Siempre pide fotos si la calidad de la caja es importante para ti.
 
 ## Manejo y Envío
 
-La caja o embalaje puede llegar ligeramente abollada o arrugada debido al manejo por mensajeros internacionales y locales, no por el vendedor. Para consejos sobre el proceso de pedido y expectativas de envío, consulta [cómo comprar](/ordering/how-to-buy).
+La caja o embalaje puede llegar ligeramente abollada o arrugada debido al manejo por mensajeros internacionales y locales, no por el vendedor. Para consejos sobre el proceso de pedido y expectativas de envío, consulta [cómo comprar](/es/ordering/how-to-buy).
 
 ## Cable de Carga
 
-El cable de carga incluido puede no soportar transferencia de datos como muchos otros cables USB. Los [vendedores](/introduction/sellers) a menudo usan cables con pines falsos en lugar de pines reales funcionales para reducir costos.
+El cable de carga incluido puede no soportar transferencia de datos como muchos otros cables USB. Los [vendedores](/es/introduction/sellers) a menudo usan cables con pines falsos en lugar de pines reales funcionales para reducir costos.

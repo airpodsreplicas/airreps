@@ -8,7 +8,7 @@ description: Behebe das macOS-Lautstärkeregler-Problem auf Intel-Macs. Ein einf
 Dies ist eines der bekanntesten Probleme bei der **Intel**-Version von macOS, bei dem der Lautstärkeregler, der die Audio-Lautstärke steuert, einfach nicht funktioniert, sondern nur als Schalter agiert (betrifft die meisten Replicas, obwohl einige nicht betroffen waren). Da Apple selbst dieses Problem nie untersuchen würde, können wir es mit einem [Open-Source-Tool](https://github.com/briankendall/proxy-audio-device) umgehen.
 
 :::warning
-Diese Anleitung richtet sich an Besitzer von Intel-basierten Macs (i3, i5, i7; nicht M-Serie-Chip). Wenn dein Apple Silicon (M-Serie-Chip) Mac keinen Ton mit deinen aktuellen AirReps wiedergibt, schau dir den Abschnitt [Häufige Bugs](/troubleshooting/other-common-bugs) an.
+Diese Anleitung richtet sich an Besitzer von Intel-basierten Macs (i3, i5, i7; nicht M-Serie-Chip). Wenn dein Apple Silicon (M-Serie-Chip) Mac keinen Ton mit deinen aktuellen AirReps wiedergibt, schau dir den Abschnitt [Häufige Bugs](/de/troubleshooting/other-common-bugs) an.
 :::
 
 ## **Voraussetzung**

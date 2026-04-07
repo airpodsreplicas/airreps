@@ -5,10 +5,10 @@ description: "Compara las versiones de réplicas de AirPods Pro por chip, caract
 # AirPods Pro
 
 ::: tip
-Esta línea de productos ya no está siendo actualizada activamente por los fabricantes, ya que el desarrollo se ha trasladado a modelos más nuevos. Las réplicas de AirPods Pro siguen siendo excelentes productos y continúan siendo opciones populares. Si buscas las últimas características y mejoras, considera revisar [AirPods Pro 2](/version-info/airpods-pro-2) o [AirPods Pro 3](/version-info/airpods-pro-3).
+Esta línea de productos ya no está siendo actualizada activamente por los fabricantes, ya que el desarrollo se ha trasladado a modelos más nuevos. Las réplicas de AirPods Pro siguen siendo excelentes productos y continúan siendo opciones populares. Si buscas las últimas características y mejoras, considera revisar [AirPods Pro 2](/es/version-info/airpods-pro-2) o [AirPods Pro 3](/es/version-info/airpods-pro-3).
 :::
 
-Haz clic en el hipervínculo de la columna 'Versión' para encontrar reseñas del modelo dado. Para enlaces de compra, consulta [enlaces de AirPods Pro](/links/airpods-pro). Para conocer sobre [tecnología ANC](/introduction/anc-explained) y [características](/introduction/features), revisa las secciones de la guía.
+Haz clic en el hipervínculo de la columna 'Versión' para encontrar reseñas del modelo dado. Para enlaces de compra, consulta [enlaces de AirPods Pro](/es/links/airpods-pro). Para conocer sobre [tecnología ANC](/es/introduction/anc-explained) y [características](/es/introduction/features), revisa las secciones de la guía.
 
 | Version                                                              | Chip                        | Has Features                                                                                                                                                                                                      | Missing Features                                                                                                                                              |
 |----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
