@@ -4,7 +4,7 @@ description: "Porównaj wersje replik AirPods 4 według chipu, funkcji i brakuj�
 
 # AirPods 4
 
-Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje dla danego modelu.
+Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje dla danego modelu. Linki zakupowe znajdziesz na stronie [linki AirPods 4](/pl/links/airpods-4). Aby dowiedzieć się więcej o [ANC](/pl/introduction/anc-explained), [jakości dźwięku](/pl/introduction/sound-quality) i innych [funkcjach](/pl/introduction/features), sprawdź odpowiednie sekcje przewodnika.
 
 | Wersja                                                                  | Chip        | Posiada Funkcje | Brakujące Funkcje |
 |--------------------------------------------------------------------------|-------------|--------------|------------------|

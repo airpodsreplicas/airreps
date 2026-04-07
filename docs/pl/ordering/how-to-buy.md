@@ -6,7 +6,7 @@ translationStatus: machine-translated
 # Zamawianie
 
 ::: info
-Szukasz fałszywych AirPods do kupienia? Ten przewodnik wyjaśnia bezpieczne pozyskiwanie i kontrolę jakości replik.
+Szukasz replik AirPods do kupienia? Ten przewodnik obejmuje bezpieczne źródła, metody płatności i na co zwracać uwagę przy zamawianiu.
 :::
 
 ## Jak Kupować

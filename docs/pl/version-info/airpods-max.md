@@ -4,7 +4,7 @@ description: "Porównaj wersje replik AirPods Max według chipu, funkcji i braku
 
 # AirPods Max
 
-Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu.
+Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu. Linki zakupowe znajdziesz na stronie [linki AirPods Max](/pl/links/airpods-max). Aby dowiedzieć się więcej o [ANC](/pl/introduction/anc-explained) i [jakości dźwięku](/pl/introduction/sound-quality), sprawdź odpowiednie sekcje przewodnika.
 
 | Wersja                                                                           | Chip             | Posiada Funkcje                                                                                                                                                      | Brakujące Funkcje                                                                                                                 |
 |-----------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|

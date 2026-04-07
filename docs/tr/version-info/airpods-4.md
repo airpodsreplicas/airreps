@@ -4,7 +4,7 @@ description: "AirPods 4 replika versiyonlarını çip, özellik ve eksik özelli
 
 # AirPods 4
 
-Verilen model için incelemeleri bulmak üzere 'Versiyon' sütunundaki bağlantıya tıkla.
+Verilen model için incelemeleri bulmak üzere 'Versiyon' sütunundaki bağlantıya tıkla. Satın alma linkleri için [AirPods 4 linkleri](/links/airpods-4) sayfasına bak. [ANC](/introduction/anc-explained), [ses kalitesi](/introduction/sound-quality) ve diğer [özellikler](/introduction/features) hakkında bilgi edinmek için rehber bölümlerine göz at.
 
 | Versiyon                                                                  | Çip        | Mevcut Özellikler | Eksik Özellikler |
 |--------------------------------------------------------------------------|-------------|--------------|------------------|

@@ -125,20 +125,29 @@ jobs:
           COUNT=$(git status --porcelain -- docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr | grep -c . || true)
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
-      - name: Commit translations directly to main
+      - name: Push translations and open PR
         if: steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          BRANCH="auto/translation-sync"
+          git checkout -B "$BRANCH"
           git add docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr
           git commit -m "chore: sync translated docs"
-          git pull --rebase origin main
-          COMMIT_SHA=$(git rev-parse HEAD)
-          # Push to unprotected temp branch, then fast-forward main via API
-          git push origin HEAD:refs/heads/auto/translation-sync -f
-          gh api repos/${{ github.repository }}/git/refs/heads/main \
-            -X PATCH -f sha="$COMMIT_SHA"
-          gh api repos/${{ github.repository }}/git/refs/heads/auto/translation-sync \
-            -X DELETE || true
+          git push origin "$BRANCH" --force
+
+          # Reuse existing open PR or create a new one
+          PR=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number' 2>/dev/null || true)
+          if [ -z "$PR" ]; then
+            PR_URL=$(gh pr create --base main --head "$BRANCH" \
+              --title "chore: sync translated docs" \
+              --body "Automated translation sync from GitHub Actions.")
+            PR=$(echo "$PR_URL" | grep -oE '[0-9]+$')
+          fi
+
+          # Merge immediately (squash), or queue auto-merge if checks are required
+          gh pr merge "$PR" --squash --delete-branch || \
+            gh pr merge "$PR" --squash --auto --delete-branch

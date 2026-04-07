@@ -4,7 +4,7 @@ description: "AirPods Max replika versiyonlarını çip, özellik ve eksik özel
 
 # AirPods Max
 
-Verilen model için incelemeleri bulmak üzere 'Versiyon' sütunundaki bağlantıya tıkla.
+Verilen model için incelemeleri bulmak üzere 'Versiyon' sütunundaki bağlantıya tıkla. Satın alma linkleri için [AirPods Max linkleri](/links/airpods-max) sayfasına bak. [ANC](/introduction/anc-explained) ve [ses kalitesi](/introduction/sound-quality) hakkında bilgi edinmek için rehber bölümlerine göz at.
 
 | Versiyon                                                                           | Çip             | Mevcut Özellikler                                                                                                                                                      | Eksik Özellikler                                                                                                                 |
 |-----------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|

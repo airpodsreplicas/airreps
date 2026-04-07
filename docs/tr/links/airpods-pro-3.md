@@ -14,6 +14,24 @@ description: AirPods Pro 3 replikaları artık mevcut! En son AirPods Pro 3 repl
     <th>Jenny</th>
   </tr>
   <tr>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td>
+      <div class="link-column">
+        Yakında
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Yakında
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Yakında
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
     <td>
       <div class="link-column">

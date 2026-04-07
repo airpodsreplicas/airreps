@@ -15,6 +15,24 @@ translationStatus: machine-translated
     <th>Jenny</th>
   </tr>
   <tr>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td>
+      <div class="link-column">
+        Скоро
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Скоро
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Скоро
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
     <td>
       <div class="link-column">

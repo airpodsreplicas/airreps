@@ -1,5 +1,5 @@
 ---
-description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro 3."
+description: "Repliki AirPods Pro 3 są już dostępne! Znajdź najnowsze wersje replik AirPods Pro 3 i linki do zaufanych sprzedawców."
 ---
 
 # AirPods Pro 3
@@ -12,6 +12,24 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro 3."
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
+  </tr>
+  <tr>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td>
+      <div class="link-column">
+        Wkrótce
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Wkrótce
+      </div>
+    </td>
+    <td>
+      <div class="link-column">
+        Wkrótce
+      </div>
+    </td>
   </tr>
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
@@ -84,5 +102,5 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro 3."
 
 
 ::: tip
-Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy).
 :::

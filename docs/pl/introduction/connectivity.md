@@ -13,7 +13,7 @@ Wyskakujące okno iOS pojawia się niemal natychmiast na klonach AirPods, chocia
 
 ## Łączność z macOS
 
-Tylko kilka nowszych klonów działa bezproblemowo z macOS, podczas gdy nie zawsze tak jest z innymi producentami. Zalecamy wybór modelu "Huilian", jeśli planujesz używać swoich klonów z MacBookiem lub iMakiem. Wynika to z faktu, że inne klony nie mają przełączania przez iCloud dla bezproblemowej integracji z iOS, lub mają głośność zablokowaną na 100% na macOS (TB). Jednak częściowo rozwiązaliśmy ten problem za pomocą aplikacji FOSS innej firmy, jedyną wadą jest to, że gesty głośności na AirPods na modelach TB nie będą działać z powodu ograniczeń tej metody. Po więcej szczegółów odwiedź [nasz przewodnik rozwiązywania problemów](https://airpodsreplicas.com/pl/troubleshooting/macOS-volume-slider-fixup).
+Tylko kilka nowszych klonów działa bezproblemowo z macOS, podczas gdy nie zawsze tak jest z innymi producentami. Zalecamy wybór modelu "Huilian", jeśli planujesz używać swoich klonów z MacBookiem lub iMakiem. Wynika to z faktu, że inne klony nie mają przełączania przez iCloud dla bezproblemowej integracji z iOS, lub mają głośność zablokowaną na 100% na macOS (TB). Jednak częściowo rozwiązaliśmy ten problem za pomocą aplikacji FOSS innej firmy, jedyną wadą jest to, że gesty głośności na AirPods na modelach TB nie będą działać z powodu ograniczeń tej metody. Po więcej szczegółów odwiedź [nasz przewodnik rozwiązywania problemów](/pl/troubleshooting/macOS-volume-slider-fixup).
 
 ## Zasięg
 

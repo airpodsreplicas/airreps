@@ -5,7 +5,7 @@ description: "Porównaj wersje replik AirPods Pro 2 według chipu, funkcji i bra
 # AirPods Pro 2
 
 ::: tip
-Producenci powoli przenoszą fokus rozwoju na nowsze modele. Klony AirPods Pro 2 pozostają doskonałymi produktami i nadal są najdojrzalszą i najbardziej funkcjonalną opcją w serii Pro. Jeśli interesują Cię najnowsze zmiany, możesz również sprawdzić [AirPods Pro 3](/version-info/airpods-pro-3).
+Producenci powoli przenoszą fokus rozwoju na nowsze modele. Klony AirPods Pro 2 pozostają doskonałymi produktami i nadal są najdojrzalszą i najbardziej funkcjonalną opcją w serii Pro. Jeśli interesują Cię najnowsze zmiany, sprawdź [AirPods Pro 3](/pl/version-info/airpods-pro-3) — nowy V7 wprowadza czujnik tętna i ulepszone ANC.
 :::
 
 Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu.
@@ -23,7 +23,7 @@ Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu.
 
 ## Różnice wersji V5.4:
 
-Ta wersja jest tylko ulepszeniem dla modeli Huilian; ma kilka ulepszeń. Wydajność ANC została poprawiona, a stabilność wydaje się być lepsza. Sprzętowo nic się nie zmieniło, poza chipsetem. Te ulepszenia wydają się być bardziej aktualizacjami firmware, które będą ograniczone do tego nowego urządzenia.  
+Ta wersja jest tylko ulepszeniem dla modeli Huilian; ma kilka ulepszeń. Wydajność [ANC](/pl/introduction/anc-explained) została poprawiona, a stabilność wydaje się być lepsza. Sprzętowo nic się nie zmieniło, poza chipsetem. Te ulepszenia wydają się być bardziej aktualizacjami firmware, które będą ograniczone do tego nowego urządzenia. Gotowy do zakupu? Sprawdź nasze [linki zakupowe](/pl/links/airpods-pro-2) i [przewodnik zamawiania](/pl/ordering/how-to-buy).  
 
 
 ## Różnice wersji V5.3:
