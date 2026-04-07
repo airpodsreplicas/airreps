@@ -32,7 +32,7 @@ jobs:
             
             if [ -d "$dir" ]; then
               echo "Adding $description files..."
-              find "$dir" -name "*.md" -type f ! -path "*/pt/*" ! -path "*/es/*" ! -path "*/da/*" ! -path "*/fr/*" | sort | while read -r file; do
+              find "$dir" -name "*.md" -type f ! -path "*/pt/*" ! -path "*/es/*" ! -path "*/da/*" ! -path "*/fr/*" ! -path "*/pl/*" ! -path "*/ru/*" ! -path "*/de/*" ! -path "*/tr/*" | sort | while read -r file; do
                 echo "  - Adding: $file"
                 cat "$file" >> ultimateguide.md
               done
@@ -57,19 +57,6 @@ jobs:
           echo "✅ Successfully combined all markdown files into ultimateguide.md"
           echo "📊 Total size: $(wc -l < ultimateguide.md) lines"
 
-      - name: Change markdown arrays to jsonl
-        run: |
-          cat ultimateguide.md | tr -s ' ' | sed 's/ \?| \?/;/g' | sed 's/;-\+.*-\+;//' | sed 's/^;/\["/' | sed 's/;/","/g' | sed 's/,"$/\]/g' > tmp_ultimateguide.md
-          # Remove empty lines between JSON arrays
-          sed '/^\[/N;s/\]\n\n\[/\]\n\[/g' tmp_ultimateguide.md > ultimateguide.md
-          rm tmp_ultimateguide.md
-
-      - name: Upload Combined File as Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          retention-days: 90
-          path: ultimateguide.md
-
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
         with:
@@ -77,6 +64,41 @@ jobs:
 
       - name: Install dependencies
         run: bun install
+
+      - name: Convert markdown tables to JSONL
+        run: |
+          bun -e '
+          const fs = require("fs");
+          const input = fs.readFileSync("ultimateguide.md", "utf-8");
+          const lines = input.split("\n");
+          const output = [];
+
+          for (const line of lines) {
+            const trimmed = line.trim();
+
+            // Skip separator rows like |---|---|
+            if (/^\|[\s\-:|]+\|$/.test(trimmed)) continue;
+
+            // Convert table data rows (lines that start and end with |)
+            if (trimmed.startsWith("|") && trimmed.endsWith("|")) {
+              const cells = trimmed
+                .slice(1, -1)        // strip leading/trailing pipes
+                .split("|")
+                .map(c => c.trim());
+              output.push(JSON.stringify(cells));
+            } else {
+              output.push(line);
+            }
+          }
+
+          fs.writeFileSync("ultimateguide.md", output.join("\n"));
+          '
+
+      - name: Upload Combined File as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          retention-days: 90
+          path: ultimateguide.md
 
       - name: Upload Combined File to OpenAI Assistant
         env:

@@ -557,32 +557,32 @@ export default defineConfig({
         hostname: 'https://airpodsreplicas.com',
         transformItems: (items) => {
             // Add locale alternates (hreflang) for each page
-            return items.map((item) => {
-                // Determine if this is a locale page or root
-                const locales = ['es', 'pt', 'da', 'fr', 'ru', 'pl', 'de', 'tr'];
-                const _isLocalePage = locales.some((l) => item.url.startsWith(`/${l}/`));
+            const locales = ['es', 'pt', 'da', 'fr', 'ru', 'pl', 'de', 'tr'];
+            const host = 'https://airpodsreplicas.com';
 
-                // Find the base path (without locale prefix)
+            return items.map((item) => {
+                // VitePress provides item.url without a leading slash (e.g. "contributing" or "da/contributing")
+                // Strip locale prefix to get the base path
                 let basePath = item.url;
                 for (const locale of locales) {
-                    if (item.url.startsWith(`/${locale}/`)) {
-                        basePath = item.url.replace(`/${locale}`, '');
+                    if (basePath.startsWith(`${locale}/`)) {
+                        basePath = basePath.slice(locale.length + 1);
                         break;
                     }
                 }
 
                 // Add language alternates for SEO
                 const links = [
-                    { lang: 'en', url: `https://airpodsreplicas.com${basePath}` },
-                    { lang: 'es', url: `https://airpodsreplicas.com/es${basePath}` },
-                    { lang: 'pt', url: `https://airpodsreplicas.com/pt${basePath}` },
-                    { lang: 'da', url: `https://airpodsreplicas.com/da${basePath}` },
-                    { lang: 'fr', url: `https://airpodsreplicas.com/fr${basePath}` },
-                    { lang: 'ru', url: `https://airpodsreplicas.com/ru${basePath}` },
-                    { lang: 'pl', url: `https://airpodsreplicas.com/pl${basePath}` },
-                    { lang: 'de', url: `https://airpodsreplicas.com/de${basePath}` },
-                    { lang: 'tr', url: `https://airpodsreplicas.com/tr${basePath}` },
-                    { lang: 'x-default', url: `https://airpodsreplicas.com${basePath}` },
+                    { lang: 'en', url: `${host}/${basePath}` },
+                    { lang: 'es', url: `${host}/es/${basePath}` },
+                    { lang: 'pt', url: `${host}/pt/${basePath}` },
+                    { lang: 'da', url: `${host}/da/${basePath}` },
+                    { lang: 'fr', url: `${host}/fr/${basePath}` },
+                    { lang: 'ru', url: `${host}/ru/${basePath}` },
+                    { lang: 'pl', url: `${host}/pl/${basePath}` },
+                    { lang: 'de', url: `${host}/de/${basePath}` },
+                    { lang: 'tr', url: `${host}/tr/${basePath}` },
+                    { lang: 'x-default', url: `${host}/${basePath}` },
                 ];
 
                 return {

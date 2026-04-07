@@ -65,11 +65,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-env:
-  NPM_CONFIG_NODE_VERSION: ${{ secrets.NPM_CONFIG_NODE_VERSION }}
-  APP_ID: ${{ secrets.APP_ID }}
-  API_KEY: ${{ secrets.API_KEY }}
-  INDEX_NAME: ${{ secrets.INDEX_NAME }}
-  ASSISTANT_ID: ${{ secrets.ASSISTANT_ID }}
-  ASSISTANT_INDEX_NAME: ${{ secrets.ASSISTANT_INDEX_NAME }}
