@@ -113,16 +113,34 @@ function getResponseText(response) {
   return response.choices?.[0]?.message?.content || '';
 }
 
+const MAX_RETRIES = 3;
+const REQUEST_TIMEOUT_MS = 120_000; // 2 minutes per translation
+
+async function withTimeout(promise, ms) {
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`Request timed out after ${ms}ms`)), ms);
+  });
+  try {
+    return await Promise.race([promise, timeout]);
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 async function translateDocument(openai, sourcePath, targetPath, locale, language) {
   const source = await readFile(sourcePath, 'utf8');
   const existingTarget = await readOptional(targetPath);
   const relativeSourcePath = path.relative(WORKSPACE, sourcePath);
   const relativeTargetPath = path.relative(WORKSPACE, targetPath);
 
-  const response = await openai.chat.completions.create({
-    model: process.env.TRANSLATION_MODEL || process.env.OPENAI_TRANSLATION_MODEL || 'openai/gpt-5-mini',
-    temperature: 0.2,
-    messages: [
+  let response;
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      response = await withTimeout(openai.chat.completions.create({
+        model: process.env.TRANSLATION_MODEL || process.env.OPENAI_TRANSLATION_MODEL || 'openai/gpt-5-mini',
+        temperature: 0.2,
+        messages: [
       {
         role: 'system',
         content:
@@ -149,7 +167,14 @@ async function translateDocument(openai, sourcePath, targetPath, locale, languag
           .join('\n'),
       },
     ],
-  });
+  }), REQUEST_TIMEOUT_MS);
+      break; // success
+    } catch (err) {
+      console.warn(`  Attempt ${attempt}/${MAX_RETRIES} failed for ${relativeTargetPath}: ${err.message}`);
+      if (attempt === MAX_RETRIES) throw err;
+      await new Promise((r) => setTimeout(r, 5_000 * attempt)); // backoff
+    }
+  }
 
   const translated = cleanModelOutput(getResponseText(response));
   if (!translated.trim()) {
