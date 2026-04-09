@@ -1,5 +1,5 @@
 ---
-description: How to order AirPods replicas through KakoBuy, an agent platform that buys from Chinese sellers on your behalf with QC photos and no KYC.
+description: Bestil AirPods-replikaer gennem KakoBuy, en indkøbsagent, der køber fra kinesiske sælgere på dine vegne med QC-fotos og uden KYC.
 ---
 
 # Bestilling med KakoBuy

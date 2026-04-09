@@ -1,5 +1,5 @@
 ---
-description: Como encomendar réplicas de AirPods através do KakoBuy, uma plataforma de agente que compra a vendedores chineses em seu nome, com fotos de QC e sem KYC.
+description: Encomende réplicas de AirPods através do KakoBuy, um agente que compra a vendedores chineses em seu nome, com fotos de QC e sem KYC.
 ---
 
 # Encomendar com KakoBuy
@@ -21,57 +21,57 @@ Para um único par de AirPods, o envio através do KakoBuy normalmente custa **$
 
 ## Como encomendar
 
-### 1. Create an Account
+### 1. Criar uma Conta
 
-Sign up at [KakoBuy](https://airreps.link/kakobuy). You only need an email address to get started.
+Inscreva-se em [KakoBuy](https://airreps.link/kakobuy). Só precisa de um endereço de email para começar.
 
 ![KakoBuy signup page](/images/kakobuy/signup.png)
 
-### 2. Find the Product
+### 2. Encontrar o Produto
 
-Go to our [Links](/links/info) section and choose the product you want. Each seller's page has a **KakoBuy** button that takes you directly to the product on KakoBuy — no need to copy and paste links manually.
+Vá à nossa seção de [Links](/links/info) e escolha o produto que pretende. A página de cada vendedor tem um botão **KakoBuy** que leva diretamente ao produto no KakoBuy — não é preciso copiar e colar links manualmente.
 
 ![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.png)
 
-Alternatively, you can copy any **Weidian** link and paste it into the KakoBuy search bar at the top of the page.
+Alternativamente, pode copiar qualquer link **Weidian** e colá-lo na barra de pesquisa do KakoBuy no topo da página.
 
-### 3. Select Options & Add to Cart
+### 3. Selecionar Opções e Adicionar ao Carrinho
 
-On the KakoBuy product page, you'll see the product details pulled from the seller's Weidian store — including price, available models/versions, and reference photos. Select the correct model (e.g. Pro3-V6-TB, V5.3TB) and click **Add to Shopping Cart** or **Buy now**.
+Na página do produto no KakoBuy, verá os detalhes do produto retirados da loja Weidian do vendedor — incluindo preço, modelos/versões disponíveis e fotos de referência. Selecione o modelo correto (por exemplo Pro3-V6-TB, V5.3TB) e clique em **Add to Shopping Cart** ou **Buy now**.
 
 ![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.png)
 
-### 4. Pay for Your Order
+### 4. Pagar o Seu Pedido
 
-Check out and pay using your preferred method — credit/debit card, PayPal, Apple Pay, Google Pay, or balance top-up. KakoBuy accepts multiple currencies and **never requires KYC verification**.
+Finalize a compra e pague usando o método preferido — cartão de crédito/débito, PayPal, Apple Pay, Google Pay, ou recarregar o saldo. O KakoBuy aceita várias moedas e **nunca exige verificação KYC**.
 
-::: details How long does this take?
-KakoBuy reviews your order within 3–5 hours, then places it with the seller. The seller typically ships to KakoBuy's warehouse within 3–5 days.
+::: details Quanto tempo demora?
+O KakoBuy analisa o seu pedido em 3–5 horas, depois faz a encomenda ao vendedor. O vendedor normalmente envia para o armazém do KakoBuy dentro de 3–5 dias.
 :::
 
-### 5. Review QC Photos
+### 5. Verificar as Fotos de QC
 
-Once the item arrives at KakoBuy's warehouse, they'll take quality control (QC) photos. Check these in **User Center** → **Order**, where you'll see the QC pictures attached to each item. If something looks off, you can request a return or exchange before shipping internationally.
+Quando o item chegar ao armazém do KakoBuy, eles tirarão fotos de controlo de qualidade (QC). Verifique-as em **User Center** → **Order**, onde verá as fotos de QC anexadas a cada item. Se algo parecer errado, pode solicitar uma devolução ou troca antes do envio internacional.
 
 ![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.png)
 
 ::: tip
-This is a great perk of using an agent — you get to inspect your AirPods replica before committing to international shipping. Check the [QC & LC guide](/ordering/qc-lc) for tips on what to look for.
+Isto é uma grande vantagem de usar um agente — pode inspecionar a sua réplica de AirPods antes de se comprometer com o envio internacional. Consulte o guia [QC & LC](/ordering/qc-lc) para dicas sobre o que procurar.
 :::
 
-### 6. Ship Internationally
+### 6. Enviar Internacionalmente
 
-When you're happy with the QC photos, submit a shipping request:
+Quando estiver satisfeito com as fotos de QC, submeta um pedido de envio:
 
-1. Go to **User Center** → **Warehouse**
-2. Select the items you want to ship
-3. Fill in your shipping address and choose a shipping method
-4. Pay the international shipping fee
+1. Vá a **User Center** → **Warehouse**
+2. Selecione os itens que quer enviar
+3. Preencha o seu endereço de envio e escolha um método de envio
+4. Pague a taxa de envio internacional
 
-For AirPods only, most standard shipping lines work fine. Expect delivery in **7–25 days** depending on the carrier and your location. You can combine multiple items into one parcel to save on shipping costs.
+Para apenas AirPods, a maioria das transportadoras padrão funciona bem. Espere a entrega em **7–25 dias** dependendo do transportador e da sua localização. Pode combinar vários itens num só pacote para poupar nos custos de envio.
 
-### 7. Track Your Package
+### 7. Rastrear o Seu Pacote
 
-After shipment, track your parcel under **User Center** → **Parcel**. You'll see the shipping method, tracking number, and live status updates as the package moves through international transit.
+Após o envio, acompanhe o seu pacote em **User Center** → **Parcel**. Verá o método de envio, o número de rastreio e atualizações de estado em tempo real à medida que o pacote avança pelo trânsito internacional.
 
 ![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.png)
