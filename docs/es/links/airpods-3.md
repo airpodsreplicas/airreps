@@ -1,5 +1,5 @@
 ---
-description: "Versiones de réplicas de AirPods 3 y enlaces a vendedores confiables."
+description: "Enlaces de vendedores confiables y opciones de compra para réplicas de AirPods 3."
 ---
 
 # AirPods 3
@@ -51,5 +51,5 @@ description: "Versiones de réplicas de AirPods 3 y enlaces a vendedores confiab
 
 
 ::: tip
-Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar envíos con otros artículos y estás familiarizado con plataformas de agentes. Para un agente confiable, recomendamos [KakoBuy](https://airreps.link/kakobuy).
+Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar envíos con otros artículos y estás familiarizado con plataformas de agentes. Para un agente confiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Nuevo en los agentes? Consulta nuestra [guía de pedidos de KakoBuy](/ordering/kakobuy).
 :::

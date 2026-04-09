@@ -1,5 +1,5 @@
 ---
-description: "Vendeurs vérifiés et liens pour les répliques d'AirPods Pro 3."
+description: Répliques d'AirPods Pro 3 maintenant disponibles ! Trouvez les dernières versions de répliques des AirPods Pro 3 et des liens vers des vendeurs de confiance.
 ---
 
 # AirPods Pro 3
@@ -17,17 +17,17 @@ description: "Vendeurs vérifiés et liens pour les répliques d'AirPods Pro 3."
     <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
-        Coming soon
+        Bientôt disponible
       </div>
     </td>
     <td>
       <div class="link-column">
-        Coming soon
+        Bientôt disponible
       </div>
     </td>
     <td>
       <div class="link-column">
-        Coming soon
+        Bientôt disponible
       </div>
     </td>
   </tr>
@@ -102,5 +102,5 @@ description: "Vendeurs vérifiés et liens pour les répliques d'AirPods Pro 3."
 
 
 ::: tip
-Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l'expédition avec d'autres articles et êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy).
+Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l'expédition avec d'autres articles et si vous êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Vous débutez avec les agents ? Consultez notre [guide de commande KakoBuy](/ordering/kakobuy).
 :::

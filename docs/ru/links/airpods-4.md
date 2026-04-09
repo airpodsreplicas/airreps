@@ -1,6 +1,5 @@
 ---
-description: "Проверенные ссылки для покупки реплик AirPods 4."
-translationStatus: machine-translated
+description: "Trusted seller links and purchase options for AirPods 4 replicas."
 ---
 
 # AirPods 4
@@ -101,5 +100,5 @@ translationStatus: machine-translated
 
 
 ::: tip
-Выбор ссылки Weidian требует использования агента для доставки. Мы рекомендуем эту опцию только если вы хотите объединить доставку с другими товарами и знакомы с агентскими платформами. Для надёжного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy).
+Выбор ссылки Weidian требует использования агента для доставки. Мы рекомендуем эту опцию только если вы хотите объединить доставку с другими товарами и знакомы с агентскими платформами. Для надёжного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy). Новичок в использовании агентов? Ознакомьтесь с нашим [руководством по заказу через KakoBuy](/ordering/kakobuy).
 :::

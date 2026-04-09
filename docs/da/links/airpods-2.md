@@ -1,5 +1,5 @@
 ---
-description: "Verificerede sælgerlinks til køb af AirPods 2-kopier."
+description: "Verificerede sælgerlinks og købsindstillinger for AirPods 2-kopier."
 ---
 
 # AirPods 2
@@ -40,5 +40,5 @@ description: "Verificerede sælgerlinks til køb af AirPods 2-kopier."
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy).
+Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Er du ny med agenter? Se vores [KakoBuy-bestillingsvejledning](/ordering/kakobuy).
 :::

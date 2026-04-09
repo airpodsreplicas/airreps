@@ -102,5 +102,5 @@ description: AirPods Pro 3 replikaları artık mevcut! En son AirPods Pro 3 repl
 
 
 ::: tip
-Weidian linkini seçmek kargo için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca diğer ürünlerle birlikte kargo birleştirmek istiyorsan ve aracı platformlarına aşinaysan öneriyoruz. Güvenilir bir aracı olarak [KakoBuy](https://airreps.link/kakobuy) öneriyoruz.
+Weidian linkini seçmek kargo için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca diğer ürünlerle birlikte kargo birleştirmek istiyorsan ve aracı platformlarına aşinaysan öneriyoruz. Güvenilir bir aracı olarak [KakoBuy](https://airreps.link/kakobuy) öneriyoruz. Aracı kullanmaya yeni misin? [KakoBuy sipariş rehberi](/ordering/kakobuy) sayfamıza göz at.
 :::

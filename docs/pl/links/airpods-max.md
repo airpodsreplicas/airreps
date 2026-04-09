@@ -1,5 +1,5 @@
 ---
-description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Max."
+description: Zweryfikowane wersje replik AirPods Max i zaufane linki do sprzedawców.
 ---
 
 # AirPods Max
@@ -95,8 +95,8 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Max."
 
 
 > [!NOTE]
-> AirPods Max-klonówne er dogængelige i en række farver. For detaljerede muligheder, se venligst de respektive sprzedawcaes hjemmesider.
+> Repliki AirPods Max są dostępne w różnych kolorach. Aby poznać szczegółowe opcje, odwiedź strony poszczególnych sprzedawców.
 
 ::: tip
-Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz plżeformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy).
+Wybór linku Weidian wymaga skorzystania z agenta wysyłkowego. Polecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Jako wiarygodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Jesteś nowy w korzystaniu z agentów? Sprawdź nasz [przewodnik zamówień KakoBuy](/ordering/kakobuy).
 :::

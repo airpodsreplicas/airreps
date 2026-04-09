@@ -178,5 +178,5 @@ description: "AirPods Pro 2 replikaları için güvenilir satıcı linkleri ve s
 
 
 ::: tip
-Weidian linkini seçmek kargo için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca diğer ürünlerle birlikte kargo birleştirmek istiyorsan ve aracı platformlarına aşinaysan öneriyoruz. Güvenilir bir aracı olarak [KakoBuy](https://airreps.link/kakobuy) öneriyoruz.
+Weidian linkini seçmek kargo için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca diğer ürünlerle birlikte kargo birleştirmek istiyorsan ve aracı platformlarına aşinaysan öneriyoruz. Güvenilir bir aracı olarak [KakoBuy](https://airreps.link/kakobuy) öneriyoruz. Aracı kullanmaya yeni misin? [KakoBuy sipariş rehberimize](/ordering/kakobuy) göz at.
 :::

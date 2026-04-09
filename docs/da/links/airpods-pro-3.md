@@ -17,17 +17,17 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
     <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
-        Coming soon
+        Kommer snart
       </div>
     </td>
     <td>
       <div class="link-column">
-        Coming soon
+        Kommer snart
       </div>
     </td>
     <td>
       <div class="link-column">
-        Coming soon
+        Kommer snart
       </div>
     </td>
   </tr>
@@ -102,5 +102,5 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy).
+Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy-bestillingsguide](/ordering/kakobuy).
 :::
