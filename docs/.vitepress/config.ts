@@ -98,6 +98,10 @@ function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
                     text: t.sidebar.howToBuy,
                     link: `${lang === 'en' ? '' : `/${lang}`}/ordering/how-to-buy`,
                 },
+                {
+                    text: t.sidebar.kakobuy,
+                    link: `${lang === 'en' ? '' : `/${lang}`}/ordering/kakobuy`,
+                },
                 { text: t.sidebar.qcLc, link: `${lang === 'en' ? '' : `/${lang}`}/ordering/qc-lc` },
             ],
         },
@@ -197,6 +201,7 @@ const translations: Record<
             general: string;
             ordering: string;
             howToBuy: string;
+            kakobuy: string;
             qcLc: string;
             links: string;
             info: string;
@@ -229,6 +234,7 @@ const translations: Record<
             general: 'General',
             ordering: 'Ordering',
             howToBuy: 'How to buy',
+            kakobuy: 'KakoBuy Guide',
             qcLc: 'QC & LC',
             links: 'Links',
             info: 'Info',
@@ -263,6 +269,7 @@ const translations: Record<
             general: 'Geral',
             ordering: 'Pedidos',
             howToBuy: 'Como Comprar',
+            kakobuy: 'Guia KakoBuy',
             qcLc: 'QC & LC',
             links: 'Links',
             info: 'Info',
@@ -297,6 +304,7 @@ const translations: Record<
             general: 'General',
             ordering: 'Pedidos',
             howToBuy: 'Cómo Comprar',
+            kakobuy: 'Guía KakoBuy',
             qcLc: 'QC & LC',
             links: 'Enlaces',
             info: 'Info',
@@ -331,6 +339,7 @@ const translations: Record<
             general: 'Generelt',
             ordering: 'Bestilling',
             howToBuy: 'Sådan Køber Du',
+            kakobuy: 'KakoBuy Guide',
             qcLc: 'QC & LC',
             links: 'Links',
             info: 'Info',
@@ -365,6 +374,7 @@ const translations: Record<
             general: 'Général',
             ordering: 'Commandes',
             howToBuy: 'Comment Acheter',
+            kakobuy: 'Guide KakoBuy',
             qcLc: 'QC & LC',
             links: 'Liens',
             info: 'Info',
@@ -404,6 +414,7 @@ const translations: Record<
             general: 'Ogólne',
             ordering: 'Zamawianie',
             howToBuy: 'Jak Kupić',
+            kakobuy: 'Poradnik KakoBuy',
             qcLc: 'QC & LC',
             links: 'Linki',
             info: 'Info',
@@ -443,6 +454,7 @@ const translations: Record<
             general: 'Allgemein',
             ordering: 'Bestellung',
             howToBuy: 'Wie man kauft',
+            kakobuy: 'KakoBuy Anleitung',
             qcLc: 'QC & LC',
             links: 'Links',
             info: 'Info',
@@ -482,6 +494,7 @@ const translations: Record<
             general: 'Genel',
             ordering: 'Sipariş',
             howToBuy: 'Nasıl Satın Alınır',
+            kakobuy: 'KakoBuy Rehberi',
             qcLc: 'QC & LC',
             links: 'Bağlantılar',
             info: 'Bilgi',
@@ -521,6 +534,7 @@ const translations: Record<
             general: 'Общее',
             ordering: 'Заказ',
             howToBuy: 'Как Купить',
+            kakobuy: 'Гид по KakoBuy',
             qcLc: 'QC и LC',
             links: 'Ссылки',
             info: 'Информация',

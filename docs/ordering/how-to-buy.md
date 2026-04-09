@@ -10,7 +10,7 @@ Looking to buy AirPods replicas? This guide covers safe sourcing, payment method
 
 ## How to Buy
 
-We recommend always purchasing from [trusted sellers](/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy).
+We recommend always purchasing from [trusted sellers](/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — see our [KakoBuy guide](/ordering/kakobuy) for a full walkthrough.
 
 The AirReps community recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
@@ -60,7 +60,7 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
+Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
@@ -68,7 +68,7 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 
 **Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
-**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures.
+**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for details.
 :::
 
 ::: details Note on Alibaba links and packaging
