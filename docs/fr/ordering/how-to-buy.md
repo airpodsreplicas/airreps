@@ -1,5 +1,5 @@
 ---
-description: "Commander en sécurité : Paiements, expédition et éviter les arnaques."
+description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
 ---
 
 # Commander
@@ -10,70 +10,67 @@ Vous cherchez à acheter des répliques d'AirPods ? Ce guide couvre l'approvisio
 
 ## Comment Acheter
 
-Nous recommandons toujours d'acheter auprès de [vendeurs de confiance](/fr/links/info). La plupart des vendeurs ont leurs propres sites web qui acceptent diverses méthodes de paiement incluant [Carte de Crédit](#note-carte-credit), [AliPay](#payer-avec-alipay), Revolut, Wise, Bitcoin et Virement Bancaire. Tous les vendeurs ont également des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy).
+Nous recommandons toujours d'acheter auprès de [trusted sellers](/links/info). La plupart des vendeurs ont leurs propres sites web qui acceptent diverses méthodes de paiement incluant [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin et Bank Transfer. Tous les vendeurs ont également des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy) — voir notre [KakoBuy guide](/ordering/kakobuy) pour un guide complet.
 
-La communauté AirReps recommande plusieurs vendeurs pour éviter un monopole et encourager la concurrence, ce qui bénéficie aux utilisateurs. Chaque vendeur offre des services uniques, un contrôle qualité (QC), des plateformes et des prix différents.
+La communauté AirReps recommande plusieurs vendeurs pour éviter un monopole et encourager la concurrence, ce qui bénéficie aux utilisateurs. Chaque vendeur offre des services uniques, un contrôle qualité (QC), des plateformes et des tarifs différents.
 
-Commander est simple : choisissez le produit que vous voulez et passez à la caisse. Pas sûr quel modèle choisir ? Faites notre [quiz rapide](/fr/quiz) ou comparez les versions dans la section [informations de version](/fr/version-info/general).
+Commander est simple : choisissez le produit que vous voulez et passez à la caisse. Pas sûr quel modèle ? Faites notre [quick quiz](/quiz) ou comparez les versions dans la section [version info](/version-info/general).
 
 ::: tip
-Les paiements via Wise ou Virement Bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures avant que votre commande soit traitée.
+Les paiements via Wise ou Bank Transfer nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures avant que votre commande soit traitée.
 :::
 
-## Payer avec AliPay
+## Paying with AliPay
 
 De nombreux vendeurs de confiance acceptent maintenant AliPay, permettant des paiements par carte faciles sans vérification KYC.
 
-**Configuration Rapide :** Téléchargez l'application AliPay, créez un compte avec votre téléphone/email, puis ajoutez une méthode de paiement.
+**Quick Setup:** Téléchargez l'application AliPay, créez un compte avec votre téléphone/email, puis ajoutez une méthode de paiement.
 
-**Pour Payer :** Passez votre commande, sélectionnez AliPay, puis scannez le code QR affiché avec l'application AliPay pour compléter le paiement.
+**To Pay:** Passez votre commande, sélectionnez AliPay, puis scannez le code QR affiché avec l'application AliPay pour compléter le paiement.
 
-<p><em>🎬 Cette vidéo est en anglais. Vous pouvez activer les sous-titres traduits automatiquement de YouTube si nécessaire.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
 
 
 
-## Informations sur AliExpress/Alibaba
+## Information about AliExpress/Alibaba
 
-Lors d'un achat sur AliExpress, gardez à l'esprit que le service client, les remboursements et les retours peuvent ne pas être aussi robustes qu'avec des détaillants plus grands et établis comme Amazon. Vos informations de paiement sont cryptées via AliPay, rendant les achats sûrs, mais soyez conscient des limitations potentielles sur les remboursements et retours. *Achetez à vos propres risques.*
+Lors d'un achat sur AliExpress, gardez à l'esprit que le service client, les remboursements et les retours peuvent ne pas être aussi solides qu'avec des détaillants plus grands et établis comme Amazon. Vos informations de paiement sont cryptées via AliPay, rendant les achats sûrs, mais soyez conscient des limitations potentielles sur les remboursements et retours. *Buy at your own risk.*
 
 Assurez-vous d'être satisfait de votre achat en recherchant minutieusement un vendeur avant d'acheter, en notant ses politiques et sa réputation.
 
 Nous recommandons les étapes suivantes :
 
-1. **Taxes** : Nous recommandons uniquement les vendeurs de confiance qui s'occupent de la TVA/Taxes à l'avance pour les acheteurs européens, donc vous n'aurez pas à payer la TVA lorsque le colis arrivera dans l'UE.
+1. **Taxes**: Nous recommandons seulement des vendeurs de confiance qui prennent en charge la TVA/les taxes à l'avance pour les acheteurs européens, afin que vous n'ayez pas à payer la TVA lorsque le colis arrivera dans l'UE.
 
-2. **Boîte du Produit** : Pour une boîte avec les logos Apple, demandez « avec boîte Apple » au lieu d'une « boîte sans logo ». Cependant, cela comporte un risque plus élevé que le colis soit saisi à la douane et que vous ne receviez pas de remboursement. Nous ne recommandons pas cette option, car les AirPods à l'intérieur sont identiques quelle que soit la boîte. Si vous voulez prendre le risque, vous pouvez demander une boîte avec les logos Apple. En savoir plus sur les types de boîtes dans notre [guide d'emballage](/fr/introduction/packaging).
+2. **Product Box**: Pour une boîte avec les logos Apple, demandez "with Apple box" au lieu de "no logo box". Cependant, cela comporte un risque plus élevé que le colis soit saisi à la douane et que vous ne receviez pas de remboursement. Nous ne recommandons pas cette option, car les AirPods à l'intérieur sont identiques quelle que soit la boîte. Si vous voulez prendre le risque, vous pouvez demander une boîte avec les logos Apple. En savoir plus sur les types de boîtes dans notre [packaging guide](/introduction/packaging).
 
 ::: warning
-Ces informations s'appliquent lors de commandes auprès de vendeurs autres que le site HiCity ou Jenny AirReps. Si vous commandez depuis ces sites, vous n'avez pas à vous soucier des déclarations de douane ou du type de boîte, car ils seront gérés automatiquement.
+This information applies when ordering from sellers other than the HiCity or Jenny AirReps website. If you order from those websites, you don't need to worry about customs declarations or the box type, as they will be handled automatically.
 :::
 
-3. **Confirmation de Commande** (Optionnel) : Après votre achat, allez sur votre page de commande et vérifiez le nom de votre produit (ex. Pro 2 V5.2 TB). Cliquez sur « Contacter le Fournisseur » pour envoyer un message au vendeur et confirmer qu'il envoie le bon produit. Ne posez pas de questions sur des fonctionnalités spécifiques ou des détails comme « Est-ce la v5.2 avec une puce Airoha ? » car les vendeurs peuvent ne pas utiliser ces noms.
+3. **Order Confirmation** (Optional): Après votre achat, allez sur votre page de commande et vérifiez le nom de votre produit (ex. Pro 2 V5.2 TB). Cliquez sur "Contact Supplier" pour envoyer un message au vendeur et confirmer qu'il envoie le bon produit. Ne posez pas de questions sur des fonctionnalités spécifiques ou des détails comme "Is this v5.2 with an Airoha chip?" car les vendeurs peuvent ne pas utiliser ces noms.
 
 ::: tip
-Faites savoir aux vendeurs que vous venez de la communauté AirReps. Cela garantira qu'ils vous fournissent un excellent service et maintiennent les standards de notre communauté. De plus, cela nous donne un levier pour défendre les futurs acheteurs comme vous.
+Informez les vendeurs que vous faites partie de la communauté AirReps. Cela garantira qu'ils vous fournissent un excellent service et respectent les standards de notre communauté. De plus, cela nous donne un levier pour défendre les futurs acheteurs comme vous.
 :::
 
-4. **Minuteur d'Expédition** : Sur votre page de Commande sur AliExpress, il y aura un compte à rebours d'expédition qui confirmera automatiquement la livraison après un certain nombre de jours. Si le minuteur est sur le point d'expirer et que vous n'avez pas reçu votre commande, assurez-vous de cliquer sur « Prolonger le Délai d'Expédition » pour vous accorder 15 jours supplémentaires. Ne cliquez sur « Commande Reçue » qu'une fois que vous avez reçu votre commande et confirmé qu'elle est en bon état de fonctionnement.
+4. **Shipping Timer**: Sur votre page de commande sur AliExpress, il y aura un compte à rebours d'expédition qui confirmera automatiquement la livraison après un certain nombre de jours. Si le minuteur est sur le point d'expirer et que vous n'avez pas reçu votre commande, assurez-vous de cliquer sur "Extend Shipping Time" pour vous accorder 15 jours supplémentaires. Ne cliquez sur "Order Received" qu'une fois que vous avez reçu votre commande et confirmé qu'elle est en bon état de fonctionnement.
 
 ## FAQ
 
-::: details Quelles méthodes de paiement les vendeurs de confiance acceptent-ils ?
-Les vendeurs de confiance acceptent plusieurs méthodes de paiement incluant Cartes de Crédit, AliPay, Revolut, Wise, Virement Bancaire et Bitcoin. Tous les vendeurs ont des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy). Notez que PayPal n'est actuellement supporté par aucun vendeur. Les options de paiement peuvent varier selon le vendeur—consultez le [tableau des méthodes de paiement](/fr/links/info#payment-methods) pour une répartition détaillée.
+::: details What payment methods do trusted sellers accept?
+Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
 :::
-<span id="note-carte-credit"></span>
-::: details Pourquoi suis-je redirigé vers un site crypto lorsque je paie par Carte de Crédit ?
-Les vendeurs de confiance utilisent une passerelle de paiement crypto sécurisée pour traiter les paiements par Carte de Crédit. Votre carte est utilisée pour acheter de la crypto, qui est ensuite utilisée pour compléter votre commande de manière sûre et efficace.
+<span id="credit-card-note"></span>
+::: details Why am I redirected to a crypto website when paying via Credit Card?
+Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
 
-**Note : Certains processeurs de paiement peuvent occasionnellement demander une vérification d'identité (KYC) pour se conformer aux réglementations locales, bien que ce ne soit pas toujours requis.**
+**Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
-**Alternative :** Si vous voulez éviter toute possibilité de vérification KYC, envisagez d'utiliser [KakoBuy](https://airreps.link/kakobuy), une plateforme d'agent qui achète des produits auprès des vendeurs en votre nom et fournit des photos de contrôle qualité (QC) avant l'expédition. KakoBuy utilise des processeurs de paiement réguliers qui acceptent les cartes de crédit et de débit et **ne nécessitent jamais de vérification KYC** ni de contrôles d'identité. C'est une excellente option si vous préférez utiliser votre carte sans exigences KYC tout en bénéficiant de l'assurance supplémentaire des photos QC.
-:::
-
-::: details Remarque sur les liens et l'emballage Alibaba
-Apple sévit agressivement contre les liens de répliques sur des plateformes comme AliExpress et Alibaba. Bien que les vendeurs (comme Earhive) proposent occasionnellement des liens Alibaba pour l'achat, sachez que **les commandes passées via Alibaba seront toujours livrées dans un emballage neutre (sans logo Apple)** pour éviter les problèmes de douane et de droits d'auteur. Les sites directs des vendeurs et les boutiques Weidian sont généralement plus sûrs et offrent plus d'options d'emballage de type Apple.
+**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for details.
 :::
 
-
+::: details Note on Alibaba links and packaging
+Apple aggressively cracks down on replica links on platforms like AliExpress and Alibaba. While sellers (like Earhive) occasionally offer Alibaba links for purchasing, please be aware that **orders placed through Alibaba will always come with neutral packaging (no Apple logo box)** to avoid customs and copyright issues. Sellers' direct websites and Weidian stores are generally more secure and offer more Apple-like packaging options.
+:::

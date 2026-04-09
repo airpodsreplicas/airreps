@@ -1,5 +1,5 @@
 ---
-description: "Vendedores verificados e links para réplicas AirPods 2."
+description: "Links de vendedores confiáveis e opções de compra para réplicas de AirPods 2."
 ---
 
 # AirPods 2
@@ -37,6 +37,8 @@ description: "Vendedores verificados e links para réplicas AirPods 2."
   </tr>
 </table>
 
+
+
 ::: tip
-Escolher um link do Weidian requer o uso de um agente para o envio. Recomendamos esta opção apenas se você deseja consolidar o envio com outros itens e está familiarizado com plataformas de agentes. Para um agente confiável, recomendamos o [KakoBuy](https://airreps.link/kakobuy).
+Escolher um link do Weidian requer o uso de um agente para o envio. Recomendamos esta opção apenas se você deseja consolidar o envio com outros itens e está familiarizado com plataformas de agentes. Para um agente confiável, recomendamos o [KakoBuy](https://airreps.link/kakobuy). Novo nos agentes? Consulte nosso [guia de pedidos do KakoBuy](/ordering/kakobuy).
 :::

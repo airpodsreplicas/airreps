@@ -1,5 +1,5 @@
 ---
-description: "Liens de vendeurs de confiance et options d'achat pour les répliques d'AirPods 4."
+description: "Trusted seller links and purchase options for AirPods 4 replicas."
 ---
 
 # AirPods 4
@@ -100,5 +100,5 @@ description: "Liens de vendeurs de confiance et options d'achat pour les répliq
 
 
 ::: tip
-Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l'expédition avec d'autres articles et êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy).
+Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l'expédition avec d'autres articles et êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Nouveau avec les agents ? Consultez notre [guide de commande KakoBuy](/ordering/kakobuy).
 :::

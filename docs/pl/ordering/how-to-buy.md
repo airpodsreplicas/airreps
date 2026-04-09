@@ -1,35 +1,33 @@
 ---
-description: "Jak bezpiecznie zamawiać: płatności, wysyłka i unikanie oszustw."
-translationStatus: machine-translated
+description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
 ---
 
 # Zamawianie
 
 ::: info
-Szukasz replik AirPods do kupienia? Ten przewodnik obejmuje bezpieczne źródła, metody płatności i na co zwracać uwagę przy zamawianiu.
+Szukasz replik AirPods? Ten przewodnik omawia bezpieczne źródła, metody płatności i na co zwrócić uwagę przy zamawianiu.
 :::
 
-## Jak Kupować
+## Jak kupować
 
-Zawsze zalecamy kupowanie od [zaufanych sprzedawców](/pl/links/info). Większość sprzedawców ma własne strony internetowe, które akceptują różne metody płatności, w tym [Kartę Kredytową](#uwaga-o-karcie-kredytowej), [AliPay](#platnosc-przez-alipay), Revolut, Wise, Bitcoin i Przelew Bankowy. Wszyscy sprzedawcy mają również sklepy Weidian dostępne przez agentów jak [KakoBuy](https://airreps.link/kakobuy).
+Zalecamy zawsze kupować od [zaufanych sprzedawców](/links/info). Większość sprzedawców ma własne strony internetowe, które akceptują różne metody płatności, w tym [Karta kredytowa](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin i Przelew bankowy. Wszyscy sprzedawcy mają również sklepy Weidian dostępne przez agentów, takich jak [KakoBuy](https://airreps.link/kakobuy) — zobacz nasz [Jak korzystać z KakoBuy](/ordering/kakobuy) po pełny przewodnik.
 
-Społeczność AirReps poleca kilku sprzedawców, aby uniknąć monopolu i promować konkurencję, co korzysta użytkownikom. Każdy sprzedawca oferuje unikalne usługi, kontrolę jakości (QC), platformy i ceny.
+Społeczność AirReps rekomenduje kilku sprzedawców, aby uniknąć monopolu i promować konkurencję, co jest korzystne dla użytkowników. Każdy sprzedawca oferuje unikalne usługi, kontrolę jakości (QC), platformy i ceny.
 
-Zamawianie jest proste: wybierz produkt, który chcesz, i dokonaj zakupu. Nie wiesz, który model wybrać? Wypełnij nasz [szybki quiz](/pl/quiz) lub porównaj wersje w sekcji [informacje o wersjach](/pl/version-info/general).
+Zamawianie jest proste: wybierz produkt, który chcesz i dokonaj płatności. Nie wiesz, który model? Wykonaj nasz [krótki quiz](/quiz) lub porównaj wersje w sekcji [informacje o wersjach](/version-info/general).
 
 ::: tip
-Płatności przez Wise lub Przelew Bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może zająć do 24 godzin przed przetworzeniem zamówienia.
+Płatności za pośrednictwem Wise lub Przelewu bankowego wymagają ręcznej weryfikacji przez sprzedawcę, co może potrwać do 24 godzin przed przetworzeniem zamówienia.
 :::
 
 ## Płatność przez AliPay
 
-Wielu zaufanych sprzedawców akceptuje teraz AliPay, umożliwiając łatwe płatności kartą bez weryfikacji KYC.
+Wielu zaufanych sprzedawców akceptuje teraz AliPay, co umożliwia łatwe płatności kartą bez weryfikacji KYC.
 
-**Szybka Konfiguracja:** Pobierz aplikację AliPay, utwórz konto z numerem telefonu/emailem, następnie dodaj metodę płatności.
+**Szybka konfiguracja:** Pobierz aplikację AliPay, utwórz konto przy użyciu telefonu/emaila, a następnie dodaj metodę płatności.
 
-**Jak Płacić:** Złóż zamówienie, wybierz AliPay, następnie zeskanuj wyświetlony kod QR aplikacją AliPay, aby dokończyć płatność.
+**Jak zapłacić:** Złóż zamówienie, wybierz AliPay, a następnie zeskanuj wyświetlony kod QR aplikacją AliPay, aby dokończyć płatność.
 
-<p><em>🎬 Ten film jest po angielsku. Możesz włączyć automatycznie przetłumaczone napisy YouTube, jeśli potrzebujesz.</em></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
 
@@ -37,42 +35,42 @@ Wielu zaufanych sprzedawców akceptuje teraz AliPay, umożliwiając łatwe płat
 
 ## Informacje o AliExpress/Alibaba
 
-Kupując z AliExpress, pamiętaj, że obsługa klienta, zwroty pieniędzy i zwroty mogą nie być tak solidne jak u większych, bardziej uznanych sprzedawców jak Amazon. Twoje dane płatnicze są szyfrowane przez AliPay, co czyni zakupy bezpiecznymi, ale bądź świadomy potencjalnych ograniczeń dotyczących zwrotów pieniędzy i towaru. *Kupujesz na własne ryzyko.*
+Kupując na AliExpress, pamiętaj, że obsługa klienta, zwroty i reklamacje mogą nie być tak rozbudowane jak u większych, bardziej ugruntowanych sprzedawców, takich jak Amazon. Twoje dane płatnicze są szyfrowane przez AliPay, co sprawia, że zakupy są bezpieczne, ale miej świadomość potencjalnych ograniczeń dotyczących zwrotów i reklamacji. *Kupujesz na własne ryzyko.*
 
-Upewnij się, że jesteś zadowolony z zakupu, dokładnie badając sprzedawcę przed kupnem i notując jego polityki i reputację.
+Upewnij się, że jesteś zadowolony z zakupu, dokładnie badając sprzedawcę przed zakupem i zwracając uwagę na jego polityki oraz reputację.
 
 Zalecamy następujące kroki:
 
-1. **Podatki**: Polecamy tylko zaufanych sprzedawców, którzy zajmują się VAT/podatkami z góry dla europejskich kupujących, więc nie będziesz musiał płacić VAT przy dostawie paczki do UE.
+1. **Podatki**: Polecamy tylko zaufanych sprzedawców, którzy zajmują się VAT/podatkami z góry dla europejskich kupujących, dzięki czemu nie będziesz musiał płacić VAT przy dostawie paczki do UE.
 
-2. **Pudełko Produktu**: Dla pudełka z logo Apple, poproś o "z pudełkiem Apple" zamiast "pudełko bez logo". Jednak wiąże się to z wyższym ryzykiem konfiskaty paczki przez celników bez zwrotu pieniędzy. Nie zalecamy tej opcji, ponieważ AirPods wewnątrz są identyczne niezależnie od pudełka. Jeśli chcesz podjąć ryzyko, możesz poprosić o pudełko z logo Apple. Dowiedz się więcej o rodzajach pudełek w naszym [przewodniku po opakowaniach](/pl/introduction/packaging).
+2. **Pudełko produktu**: Jeśli chcesz pudełko z logo Apple, poproś o "with Apple box" zamiast "no logo box". Jednakże wiąże się to z wyższym ryzykiem zatrzymania paczki przez służby celne i braku zwrotu pieniędzy. Nie zalecamy tej opcji, ponieważ słuchawki w środku są identyczne niezależnie od pudełka. Jeśli chcesz podjąć ryzyko, możesz poprosić o pudełko z logo Apple. Dowiedz się więcej o typach pudełek w naszym [przewodniku o opakowaniach](/introduction/packaging).
 
 ::: warning
-Te informacje dotyczą zamawiania od sprzedawców innych niż strony HiCity lub Jenny AirReps. Jeśli zamawiasz z tych stron, nie musisz się martwić o deklaracje celne ani typ pudełka, ponieważ są one obsługiwane automatycznie.
+Te informacje odnoszą się do zamówień u sprzedawców innych niż witryny HiCity lub Jenny AirReps. Jeśli zamawiasz z tych stron, nie musisz martwić się o deklaracje celne ani typ pudełka, ponieważ zostaną one obsłużone automatycznie.
 :::
 
-3. **Potwierdzenie Zamówienia** (Opcjonalne): Po zakupie przejdź do strony zamówienia i sprawdź nazwę produktu (np. Pro 2 V5.2 TB). Kliknij "Kontakt z dostawcą", aby wysłać sprzedawcy wiadomość i potwierdzić, że wysyłają prawidłowy produkt. Nie pytaj o konkretne funkcje lub szczegóły jak "Czy to v5.2 z chipem Airoha?" ponieważ sprzedawcy mogą nie używać tych nazw.
+3. **Potwierdzenie zamówienia** (Opcjonalne): Po zakupie przejdź do strony zamówienia i sprawdź nazwę produktu (np. Pro 2 V5.2 TB). Kliknij "Contact Supplier", aby wysłać wiadomość do sprzedawcy i potwierdzić, że wysyłają właściwy produkt. Nie pytaj o konkretne funkcje lub szczegóły typu "Czy to v5.2 z chipem Airoha?", ponieważ sprzedawcy mogą nie używać tych nazw.
 
 ::: tip
-Poinformuj sprzedawców, że jesteś ze społeczności AirReps. To zapewni, że zapewnią Ci doskonałą obsługę i utrzymają standardy naszej społeczności. Dodatkowo daje nam wpływ w rozmowach za przyszłych kupujących jak Ty.
+Poinformuj sprzedawców, że pochodzisz ze społeczności AirReps. Zapewni to lepszą obsługę i utrzymanie standardów naszej społeczności. Dodatkowo daje nam to możliwość interweniowania w imieniu przyszłych kupujących takich jak Ty.
 :::
 
-4. **Czasy Wysyłki**: Na stronie zamówienia AliExpress będzie licznik czasu wysyłki, który automatycznie potwierdza dostawę po określonej liczbie dni. Jeśli licznik dobiega końca, a nie otrzymałeś zamówienia, koniecznie kliknij "Przedłuż czas wysyłki", aby dać sobie dodatkowe 15 dni. Klikaj "Zamówienie otrzymane" tylko gdy otrzymasz zamówienie i potwierdzisz, że jest w dobrym stanie technicznym.
+4. **Czas wysyłki**: Na stronie zamówienia na AliExpress będzie licznik czasu wysyłki, który automatycznie potwierdzi dostawę po określonej liczbie dni. Jeśli licznik zbliża się do końca, a nie otrzymałeś zamówienia, koniecznie kliknij "Extend Shipping Time", aby zyskać dodatkowe 15 dni. Kliknij "Order Received" dopiero po otrzymaniu zamówienia i potwierdzeniu, że jest w dobrym stanie technicznym.
 
 ## FAQ
 
 ::: details Jakie metody płatności akceptują zaufani sprzedawcy?
-Zaufani sprzedawcy akceptują wiele metod płatności, w tym kartę kredytową, AliPay, Revolut, Wise, przelew bankowy i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów jak [KakoBuy](https://airreps.link/kakobuy). Zauważ, że PayPal obecnie nie jest obsługiwane przez żadnego sprzedawcę. Opcje płatności mogą się różnić w zależności od sprzedawcy—zobacz [tabelę metod płatności](/pl/links/info#payment-methods) dla szczegółowego zestawienia.
+Zaufani sprzedawcy akceptują wiele metod płatności, w tym karty kredytowe, AliPay, Revolut, Wise, przelew bankowy i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów takich jak [KakoBuy](https://airreps.link/kakobuy) — zobacz nasz [przewodnik krok po kroku KakoBuy](/ordering/kakobuy). Zauważ, że PayPal obecnie nie jest obsługiwany przez żadnego sprzedawcę. Opcje płatności mogą się różnić w zależności od sprzedawcy — zobacz [tabelę metod płatności](/links/info#payment-methods) dla szczegółowego zestawienia.
 :::
-<span id="uwaga-o-karcie-kredytowej"></span>
-::: details Dlaczego jestem przekierowywany na stronę krypto przy płatności kartą kredytową?
-Zaufani sprzedawcy używają bezpiecznej bramki płatności krypto do przetwarzania płatności kartą. Twoja karta jest używana do zakupu krypto, które następnie jest używane do bezpiecznego i sprawnego realizacji zamówienia.
+<span id="credit-card-note"></span>
+::: details Dlaczego jestem przekierowywany na stronę z kryptowalutami podczas płatności kartą kredytową?
+Zaufani sprzedawcy używają bezpiecznej bramki płatności krypto do przetwarzania płatności kartą kredytową. Twoja karta jest używana do zakupu krypto, które następnie są wykorzystywane do bezpiecznego i sprawnego zrealizowania zamówienia.
 
-**Uwaga: Niektóre procesory płatności mogą czasami prosić o weryfikację tożsamości (KYC), aby spełnić lokalne przepisy, chociaż nie zawsze jest to wymagane.**
+**Uwaga: Niektórzy operatorzy płatności mogą czasami poprosić o weryfikację tożsamości (KYC), aby spełnić lokalne przepisy, chociaż nie zawsze jest to wymagane.**
 
-**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [KakoBuy](https://airreps.link/kakobuy), platformy agentowej, która kupuje produkty od sprzedawców w Twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy używa standardowych procesorów płatności akceptujących karty kredytowe i debetowe i **nigdy nie wymaga weryfikacji KYC** ani sprawdzenia tożsamości. To czyni go doskonałą opcją, jeśli wolisz używać karty bez wymagań KYC, jednocześnie otrzymując dodatkowe bezpieczeństwo zdjęć QC.
+**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [KakoBuy](https://airreps.link/kakobuy), platformy agenta, która kupuje produkty od sprzedawców w Twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy korzysta ze standardowych procesorów płatności akceptujących karty kredytowe i debetowe i **NIGDY nie wymaga weryfikacji KYC** ani sprawdzania tożsamości. To czyni go doskonałą opcją, jeśli wolisz używać karty bez wymagań KYC, a jednocześnie otrzymać dodatkowe zabezpieczenie w postaci zdjęć QC. Zobacz nasz [przewodnik zamawiania z KakoBuy](/ordering/kakobuy) po szczegóły.
 :::
 
-::: details Uwaga dotycząca linków i opakowań Alibaba
-Apple agresywnie zwalcza linki do replik na platformach takich jak AliExpress i Alibaba. Chociaż sprzedawcy (np. Earhive) czasami oferują linki do platformy Alibaba w celach zakupowych, należy pamiętać, że **zamówienia złożone za pośrednictwem platformy Alibaba będą zawsze dostarczane w neutralnym opakowaniu (bez pudełka z logo Apple)** w celu uniknięcia problemów celnych i związanych z prawami autorskimi. Bezpośrednie strony internetowe sprzedawców i sklepy Weidian są zazwyczaj bezpieczniejsze i oferują więcej opcji w stylu Apple.
+::: details Uwaga dotycząca linków do Alibaba i opakowań
+Apple agresywnie usuwa linki do replik na platformach takich jak AliExpress i Alibaba. Chociaż sprzedawcy (np. Earhive) czasami oferują linki z Alibaba do zakupów, pamiętaj, że **zamówienia złożone przez Alibaba zawsze będą wysyłane w neutralnym opakowaniu (bez pudełka z logo Apple)**, aby uniknąć problemów celnych i naruszeń praw autorskich. Bezpośrednie strony sprzedawców i sklepy Weidian zazwyczaj są bezpieczniejsze i oferują więcej opcji opakowań przypominających Apple.
 :::

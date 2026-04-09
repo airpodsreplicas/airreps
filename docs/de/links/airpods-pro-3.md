@@ -17,17 +17,17 @@ description: AirPods Pro 3 Replicas jetzt verfügbar! Finde die neuesten AirPods
     <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
-        Coming soon
+        Bald verfügbar
       </div>
     </td>
     <td>
       <div class="link-column">
-        Coming soon
+        Bald verfügbar
       </div>
     </td>
     <td>
       <div class="link-column">
-        Coming soon
+        Bald verfügbar
       </div>
     </td>
   </tr>
@@ -102,5 +102,5 @@ description: AirPods Pro 3 Replicas jetzt verfügbar! Finde die neuesten AirPods
 
 
 ::: tip
-Die Wahl eines Weidian-Links erfordert die Nutzung eines Agenten für den Versand. Wir empfehlen diese Option nur, wenn du den Versand mit anderen Artikeln bündeln möchtest und mit Agenten-Plattformen vertraut bist. Als zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy).
+Die Wahl eines Weidian-Links erfordert die Nutzung eines Agenten für den Versand. Wir empfehlen diese Option nur, wenn du den Versand mit anderen Artikeln bündeln möchtest und mit Agenten-Plattformen vertraut bist. Als zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy). Neu bei Agenten? Schau dir unseren [KakoBuy-Bestellleitfaden](/ordering/kakobuy) an.
 :::

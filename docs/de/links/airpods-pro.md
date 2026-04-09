@@ -1,5 +1,5 @@
 ---
-description: "Vertrauenswürdige Verkäufer-Links und Kaufoptionen für AirPods Pro Replicas."
+description: "Trusted seller links and purchase options for AirPods Pro replicas."
 ---
 
 # AirPods Pro
@@ -28,5 +28,5 @@ description: "Vertrauenswürdige Verkäufer-Links und Kaufoptionen für AirPods 
 
 
 ::: tip
-Die Wahl eines Weidian-Links erfordert die Nutzung eines Agenten für den Versand. Wir empfehlen diese Option nur, wenn du den Versand mit anderen Artikeln bündeln möchtest und mit Agenten-Plattformen vertraut bist. Als zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy).
+Die Wahl eines Weidian-Links erfordert die Nutzung eines Agenten für den Versand. Wir empfehlen diese Option nur, wenn du den Versand mit anderen Artikeln bündeln möchtest und mit Agenten-Plattformen vertraut bist. Als zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy). Neu bei Agenten? Sieh dir unseren [KakoBuy-Bestellleitfaden](/ordering/kakobuy) an.
 :::

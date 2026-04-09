@@ -1,6 +1,5 @@
 ---
-description: "Проверенные ссылки для покупки реплик AirPods Pro 2."
-translationStatus: machine-translated
+description: "Trusted seller links and purchase options for AirPods Pro 2 replicas."
 ---
 
 # AirPods Pro 2
@@ -179,5 +178,5 @@ translationStatus: machine-translated
 
 
 ::: tip
-Выбор ссылки Weidian требует использования агента для доставки. Мы рекомендуем эту опцию только если вы хотите объединить доставку с другими товарами и знакомы с агентскими платформами. Для надёжного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy).
+Выбор ссылки Weidian требует использования агента для доставки. Мы рекомендуем эту опцию только если вы хотите объединить доставку с другими товарами и знакомы с агентскими платформами. Для надёжного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy). Если вы новичок в использовании агентов, ознакомьтесь с нашим [руководством по заказу через KakoBuy](/ordering/kakobuy).
 :::

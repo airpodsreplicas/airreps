@@ -1,5 +1,5 @@
 ---
-description: AirPods replikalarını güvenle sipariş et. Ödeme yöntemleri, güvenilir satıcılar, kargo ipuçları ve dolandırıcılıktan kaçınma.
+description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
 ---
 
 # Sipariş
@@ -10,11 +10,11 @@ AirPods replikaları mı almak istiyorsun? Bu rehber güvenli kaynak bulma, öde
 
 ## Nasıl Satın Alınır
 
-Her zaman [güvenilir satıcılardan](/tr/links/info) satın almanı öneriyoruz. Çoğu satıcının [Kredi Kartı](#kredi-karti-notu), [AliPay](#alipay-ile-odeme), Revolut, Wise, Bitcoin ve Banka Havalesi dahil çeşitli ödeme yöntemlerini kabul eden kendi web siteleri vardır. Tüm satıcıların ayrıca [KakoBuy](https://airreps.link/kakobuy) gibi aracılar üzerinden erişilebilen Weidian mağazaları bulunmaktadır.
+Her zaman [güvenilir satıcılardan](/links/info) satın almanı öneriyoruz. Çoğu satıcının kendi web siteleri vardır ve bu siteler [Kredi Kartı](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin ve Banka Havalesi dahil çeşitli ödeme yöntemlerini kabul eder. Tüm satıcıların ayrıca [KakoBuy](https://airreps.link/kakobuy) gibi aracılar üzerinden erişilebilen Weidian mağazaları bulunmaktadır — tam bir adım adım anlatım için [KakoBuy rehberimize](/ordering/kakobuy) bak.
 
-AirReps topluluğu, tekel oluşmasını önlemek ve kullanıcılara fayda sağlayan rekabeti teşvik etmek için birden fazla satıcı önermektedir. Her satıcı benzersiz hizmetler, kalite kontrol (QC), platformlar ve fiyatlandırma sunar.
+AirReps topluluğu, tekel oluşmasını önlemek ve rekabeti teşvik etmek için birden fazla satıcı önermektedir; bu da kullanıcılar için faydalıdır. Her satıcı benzersiz hizmetler, kalite kontrol (QC), platformlar ve fiyatlandırma sunar.
 
-Sipariş vermek basittir: istediğin ürünü seç ve ödemeye geç. Hangi modeli seçeceğinden emin değil misin? [Hızlı testimizi](/tr/quiz) çöz veya [versiyon bilgisi](/tr/version-info/general) bölümünde versiyonları karşılaştır.
+Sipariş vermek basittir: istediğin ürünü seç ve ödemeye geç. Hangi modeli seçeceğinden emin değil misin? [Hızlı testimizi](/quiz) çöz veya versiyonları [versiyon bilgisi](/version-info/general) bölümünde karşılaştır.
 
 ::: tip
 Wise veya Banka Havalesi ile yapılan ödemeler satıcı tarafından manuel inceleme gerektirir ve siparişinin işlenmesi 24 saate kadar sürebilir.
@@ -43,7 +43,7 @@ Aşağıdaki adımları öneriyoruz:
 
 1. **Vergiler**: Avrupalı alıcılar için KDV/Vergileri önceden halleden yalnızca güvenilir satıcıları öneriyoruz, böylece paket AB'ye ulaştığında KDV ödemen gerekmez.
 
-2. **Ürün Kutusu**: Apple logolu bir kutu için "no logo box" yerine "with Apple box" talep et. Ancak bu, paketin gümrükte el konulması ve geri ödeme alamama riskini artırır. Bu seçeneği önermiyoruz çünkü içindeki AirPods kutudan bağımsız olarak aynıdır. Riski almak istiyorsan Apple logolu bir kutu talep edebilirsin. Kutu türleri hakkında daha fazla bilgi için [paketleme rehberimize](/tr/introduction/packaging) bak.
+2. **Ürün Kutusu**: Apple logolu bir kutu için "with Apple box" yerine "no logo box" istemekten kaçın. Ancak Apple logolu kutu istemek, paketin gümrükte el konulması ve geri ödeme alamama riskini artırır. Bu seçeneği önermiyoruz, çünkü içindeki AirPods kutudan bağımsız olarak aynıdır. Riski almak istiyorsan Apple logolu bir kutu talep edebilirsin. Kutu türleri hakkında daha fazla bilgi için [paketleme rehberimize](/introduction/packaging) bak.
 
 ::: warning
 Bu bilgiler HiCity veya Jenny AirReps web sitesi dışındaki satıcılardan sipariş verirken geçerlidir. Bu web sitelerinden sipariş verirsen gümrük beyanları veya kutu türü konusunda endişelenmene gerek yoktur çünkü bunlar otomatik olarak yönetilecektir.
@@ -60,7 +60,7 @@ Satıcılara AirReps topluluğundan olduğunu bildir. Bu, sana mükemmel hizmet 
 ## SSS
 
 ::: details Güvenilir satıcılar hangi ödeme yöntemlerini kabul eder?
-Güvenilir satıcılar Kredi Kartı, AliPay, Revolut, Wise, Banka Havalesi ve Bitcoin dahil birden fazla ödeme yöntemini kabul eder. Tüm satıcıların [KakoBuy](https://airreps.link/kakobuy) gibi aracılar üzerinden erişilebilen Weidian mağazaları vardır. PayPal'ın şu anda hiçbir satıcı tarafından desteklenmediğini unutma. Ödeme seçenekleri satıcıya göre değişebilir - ayrıntılı bir döküm için [ödeme yöntemleri tablosuna](/tr/links/info#payment-methods) bak.
+Güvenilir satıcılar Kredi Kartı, AliPay, Revolut, Wise, Banka Havalesi ve Bitcoin dahil birden fazla ödeme yöntemini kabul eder. Tüm satıcıların Weidian mağazaları vardır ve bu mağazalara [KakoBuy](https://airreps.link/kakobuy) gibi aracılar üzerinden erişilebilir. PayPal'ın şu anda hiçbir satıcı tarafından desteklenmediğini unutma. Ödeme seçenekleri satıcıya göre değişebilir — ayrıntılı bir döküm için [ödeme yöntemleri tablosuna](/links/info#payment-methods) bak.
 :::
 <span id="credit-card-note"></span>
 ::: details Kredi Kartı ile ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
@@ -74,5 +74,3 @@ Güvenilir satıcılar Kredi Kartı ödemelerini işlemek için güvenli bir kri
 ::: details Alibaba linkleri ve paketleme hakkında not
 Apple, AliExpress ve Alibaba gibi platformlardaki replika linklerine karşı agresif bir şekilde mücadele eder. Satıcılar (Earhive gibi) zaman zaman satın alma için Alibaba linkleri sunsa da lütfen **Alibaba üzerinden verilen siparişlerin gümrük ve telif hakkı sorunlarından kaçınmak için her zaman nötr paketleme (Apple logolu kutu yok) ile geleceğini** unutma. Satıcıların doğrudan web siteleri ve Weidian mağazaları genellikle daha güvenlidir ve daha fazla Apple benzeri paketleme seçeneği sunar.
 :::
-
-
