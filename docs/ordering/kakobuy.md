@@ -75,3 +75,4 @@ For AirPods only, most standard shipping lines work fine. Expect delivery in **7
 After shipment, track your parcel under **User Center** → **Parcel**. You'll see the shipping method, tracking number, and live status updates as the package moves through international transit.
 
 ![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.png)
+
