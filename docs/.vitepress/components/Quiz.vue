@@ -1210,7 +1210,7 @@ function restart() {
           <a :href="`/links/${productToLinksPage()}`" class="quiz-buy-link secondary">
             {{ t('allSellerLinks') }} &rarr;
           </a>
-          <a href="/links/info" class="quiz-buy-link secondary">
+          <a href="/links/info#payment-methods" class="quiz-buy-link secondary">
             {{ t('comparePayments') }} &rarr;
           </a>
         </div>
