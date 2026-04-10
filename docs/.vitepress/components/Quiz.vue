@@ -860,15 +860,14 @@ const product = computed<ProductRec | null>(() => {
         ],
       };
     }
-    const variant = needsMac.value ? 'Huilian' : 'TB';
     return {
-      title: `AirPods 4 V3 ${variant}`,
-      subtitle: needsMac.value ? 'Huilian 247 — Best open-fit for Mac users' : 'Airoha 1571AM — Best open-fit overall',
+      title: 'AirPods 4 V3 TB',
+      subtitle: 'Airoha 1571AM — Best open-fit overall',
       priceKey: 'airpods4-v3-tb',
       reasons: [
         'USB-C, ANC, transparency mode, spatial audio with head tracking',
         '8h battery without ANC, 6h with ANC',
-        needsMac.value ? 'Huilian variant — iCloud switching works on macOS' : 'TB variant offers the strongest ANC performance',
+        needsMac.value ? 'Consider V2 Huilian ($' + prices['airpods4-v2-huilian'] + ') for better Mac/iCloud switching support' : 'TB variant offers the strongest ANC performance',
         'Force touch controls, volume swipe',
       ],
       links: [

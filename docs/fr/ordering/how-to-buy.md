@@ -10,11 +10,11 @@ Vous cherchez à acheter des répliques d'AirPods ? Ce guide couvre l'approvisio
 
 ## Comment Acheter
 
-Nous recommandons toujours d'acheter auprès de [trusted sellers](/links/info). La plupart des vendeurs ont leurs propres sites web qui acceptent diverses méthodes de paiement incluant [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin et Bank Transfer. Tous les vendeurs ont également des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy) — voir notre [KakoBuy guide](/ordering/kakobuy) pour un guide complet.
+Nous recommandons toujours d'acheter auprès de [trusted sellers](/fr/links/info). La plupart des vendeurs ont leurs propres sites web qui acceptent diverses méthodes de paiement incluant [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin et Bank Transfer. Tous les vendeurs ont également des vitrines Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy) — voir notre [KakoBuy guide](/fr/ordering/kakobuy) pour un guide complet.
 
 La communauté AirReps recommande plusieurs vendeurs pour éviter un monopole et encourager la concurrence, ce qui bénéficie aux utilisateurs. Chaque vendeur offre des services uniques, un contrôle qualité (QC), des plateformes et des tarifs différents.
 
-Commander est simple : choisissez le produit que vous voulez et passez à la caisse. Pas sûr quel modèle ? Faites notre [quick quiz](/quiz) ou comparez les versions dans la section [version info](/version-info/general).
+Commander est simple : choisissez le produit que vous voulez et passez à la caisse. Pas sûr quel modèle ? Faites notre [quick quiz](/fr/quiz) ou comparez les versions dans la section [version info](/fr/version-info/general).
 
 ::: tip
 Les paiements via Wise ou Bank Transfer nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures avant que votre commande soit traitée.
@@ -43,7 +43,7 @@ Nous recommandons les étapes suivantes :
 
 1. **Taxes**: Nous recommandons seulement des vendeurs de confiance qui prennent en charge la TVA/les taxes à l'avance pour les acheteurs européens, afin que vous n'ayez pas à payer la TVA lorsque le colis arrivera dans l'UE.
 
-2. **Product Box**: Pour une boîte avec les logos Apple, demandez "with Apple box" au lieu de "no logo box". Cependant, cela comporte un risque plus élevé que le colis soit saisi à la douane et que vous ne receviez pas de remboursement. Nous ne recommandons pas cette option, car les AirPods à l'intérieur sont identiques quelle que soit la boîte. Si vous voulez prendre le risque, vous pouvez demander une boîte avec les logos Apple. En savoir plus sur les types de boîtes dans notre [packaging guide](/introduction/packaging).
+2. **Product Box**: Pour une boîte avec les logos Apple, demandez "with Apple box" au lieu de "no logo box". Cependant, cela comporte un risque plus élevé que le colis soit saisi à la douane et que vous ne receviez pas de remboursement. Nous ne recommandons pas cette option, car les AirPods à l'intérieur sont identiques quelle que soit la boîte. Si vous voulez prendre le risque, vous pouvez demander une boîte avec les logos Apple. En savoir plus sur les types de boîtes dans notre [packaging guide](/fr/introduction/packaging).
 
 ::: warning
 This information applies when ordering from sellers other than the HiCity or Jenny AirReps website. If you order from those websites, you don't need to worry about customs declarations or the box type, as they will be handled automatically.
@@ -60,7 +60,7 @@ Informez les vendeurs que vous faites partie de la communauté AirReps. Cela gar
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
+Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/fr/ordering/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/fr/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
@@ -68,7 +68,7 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 
 **Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
-**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for details.
+**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/fr/ordering/kakobuy) for details.
 :::
 
 ::: details Note on Alibaba links and packaging

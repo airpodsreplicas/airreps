@@ -13,6 +13,10 @@ on:
       - 'docs/links/**/*.md'
       - 'docs/troubleshooting/**/*.md'
 
+permissions:
+  contents: read
+  actions: read
+
 jobs:
   combine-markdown:
     runs-on: ubuntu-latest
@@ -97,7 +101,7 @@ jobs:
       - name: Upload Combined File as Artifact
         uses: actions/upload-artifact@v7
         with:
-          retention-days: 90
+          retention-days: 14
           path: ultimateguide.md
 
       - name: Upload Combined File to OpenAI Assistant

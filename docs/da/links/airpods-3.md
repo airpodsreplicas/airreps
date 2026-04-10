@@ -51,5 +51,5 @@ description: "Verificerede sælgerlinks til køb af AirPods 3-kopier."
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy-bestillingsguide](/ordering/kakobuy).
+Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy).
 :::

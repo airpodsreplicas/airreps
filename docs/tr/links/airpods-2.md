@@ -40,5 +40,5 @@ description: "AirPods 2 replikaları için güvenilir satıcı linkleri ve satı
 
 
 ::: tip
-Weidian linkini seçmek kargo için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca diğer ürünlerle birlikte kargo birleştirmek istiyorsan ve aracı platformlarına aşinaysan öneriyoruz. Güvenilir bir aracı olarak [KakoBuy](https://airreps.link/kakobuy) öneriyoruz. Aracılara yeni misin? KakoBuy sipariş rehberimize göz atın: [/ordering/kakobuy](/ordering/kakobuy).
+Weidian linkini seçmek kargo için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca diğer ürünlerle birlikte kargo birleştirmek istiyorsan ve aracı platformlarına aşinaysan öneriyoruz. Güvenilir bir aracı olarak [KakoBuy](https://airreps.link/kakobuy) öneriyoruz. Aracılara yeni misin? KakoBuy sipariş rehberimize göz atın: [/ordering/kakobuy](/tr/ordering/kakobuy).
 :::

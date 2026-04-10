@@ -102,5 +102,5 @@ description: Réplicas do AirPods Pro 3 agora disponíveis! Encontre as versões
 
 
 ::: tip
-Escolher um link do Weidian requer o uso de um agente para o envio. Recomendamos esta opção apenas se você deseja consolidar o envio com outros itens e está familiarizado com plataformas de agentes. Para um agente confiável, recomendamos o [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedidos do KakoBuy](/ordering/kakobuy).
+Escolher um link do Weidian requer o uso de um agente para o envio. Recomendamos esta opção apenas se você deseja consolidar o envio com outros itens e está familiarizado com plataformas de agentes. Para um agente confiável, recomendamos o [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedidos do KakoBuy](/pt/ordering/kakobuy).
 :::

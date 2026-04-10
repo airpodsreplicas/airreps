@@ -100,5 +100,5 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods 4."
 
 
 ::: tip
-Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Jako niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nie znasz jeszcze agentów? Sprawdź nasz [przewodnik zamówień KakoBuy](/ordering/kakobuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Jako niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nie znasz jeszcze agentów? Sprawdź nasz [przewodnik zamówień KakoBuy](/pl/ordering/kakobuy).
 :::

@@ -10,11 +10,11 @@ Leder du efter at købe AirPods-kopier? Denne guide dækker sikker sourcing, bet
 
 ## Sådan Køber Du
 
-Vi anbefaler altid at købe fra [betroede sælgere](/links/info). De fleste sælgere har deres egne hjemmesider, der accepterer forskellige betalingsmetoder, herunder [Kreditkort](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin og bankoverførsel. Alle sælgere har også Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [KakoBuy guide](/ordering/kakobuy) for en komplet gennemgang.
+Vi anbefaler altid at købe fra [betroede sælgere](/da/links/info). De fleste sælgere har deres egne hjemmesider, der accepterer forskellige betalingsmetoder, herunder [Kreditkort](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin og bankoverførsel. Alle sælgere har også Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [KakoBuy guide](/da/ordering/kakobuy) for en komplet gennemgang.
 
 AirReps-fællesskabet anbefaler flere sælgere for at undgå monopol og fremme konkurrence, hvilket gavner brugerne. Hver sælger tilbyder unikke tjenester, kvalitetskontrol (QC), platforme og priser.
 
-Bestilling er simpelt: vælg det produkt, du ønsker, og gennemfør købet. Ikke sikker på hvilken model? Tag vores [hurtige quiz](/quiz) eller sammenlign versioner i afsnittet [versionsinfo](/version-info/general).
+Bestilling er simpelt: vælg det produkt, du ønsker, og gennemfør købet. Ikke sikker på hvilken model? Tag vores [hurtige quiz](/da/quiz) eller sammenlign versioner i afsnittet [versionsinfo](/da/version-info/general).
 
 ::: tip
 Betalinger via Wise eller bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer, før din ordre behandles.
@@ -43,7 +43,7 @@ Vi anbefaler følgende trin:
 
 1. **Skatter**: Vi anbefaler kun betroede sælgere, der tager sig af moms/skatter på forhånd for europæiske købere, så du ikke skal betale moms, når pakken ankommer til EU.
 
-2. **Produktæske**: For en æske med Apple-logoer, anmod om "with Apple box" i stedet for en "no logo box". Dog medfører dette en højere risiko for, at pakken beslaglægges i tolden, og at du ikke får en refundering. Vi anbefaler ikke denne mulighed, da AirPods indeni er identiske uanset æsken. Hvis du ønsker at tage risikoen, kan du anmode om en æske med Apple-logoer. Læs mere om æsketyper i vores [emballageguide](/introduction/packaging).
+2. **Produktæske**: For en æske med Apple-logoer, anmod om "with Apple box" i stedet for en "no logo box". Dog medfører dette en højere risiko for, at pakken beslaglægges i tolden, og at du ikke får en refundering. Vi anbefaler ikke denne mulighed, da AirPods indeni er identiske uanset æsken. Hvis du ønsker at tage risikoen, kan du anmode om en æske med Apple-logoer. Læs mere om æsketyper i vores [emballageguide](/da/introduction/packaging).
 
 ::: warning
 Denne information gælder ved bestilling fra sælgere andre end HiCity eller Jenny AirReps-hjemmesiden. Hvis du bestiller fra disse hjemmesider, behøver du ikke bekymre dig om toldangivelser eller æsketypen, da de håndteres automatisk.
@@ -60,7 +60,7 @@ Lad sælgerne vide, at du er fra AirReps-fællesskabet. Dette vil sikre, at de g
 ## FAQ
 
 ::: details Hvilke betalingsmetoder accepterer betroede sælgere?
-Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [trinvise KakoBuy-guide](/ordering/kakobuy). Bemærk, at PayPal i øjeblikket ikke understøttes af nogen sælger. Betalingsmuligheder kan variere efter sælger—se [betalingsmetode-tabellen](/links/info#payment-methods) for en detaljeret oversigt.
+Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [trinvise KakoBuy-guide](/da/ordering/kakobuy). Bemærk, at PayPal i øjeblikket ikke understøttes af nogen sælger. Betalingsmuligheder kan variere efter sælger—se [betalingsmetode-tabellen](/da/links/info#payment-methods) for en detaljeret oversigt.
 :::
 <span id="credit-card-note"></span>
 ::: details Hvorfor bliver jeg omdirigeret til en krypto-hjemmeside, når jeg betaler via Kreditkort?

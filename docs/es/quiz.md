@@ -11,5 +11,5 @@ ogLabel: "CUESTIONARIO"
 <Quiz />
 
 ::: tip ¿Aún no estás seguro?
-Consulta la [Guía Definitiva](/introduction/overview) para un desglose completo de cada versión, o únete a nuestro [Discord](https://discord.gg/airreps) para preguntar a la comunidad.
+Consulta la [Guía Definitiva](/es/introduction/overview) para un desglose completo de cada versión, o únete a nuestro [Discord](https://discord.gg/airreps) para preguntar a la comunidad.
 :::

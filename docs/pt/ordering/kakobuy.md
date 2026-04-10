@@ -16,7 +16,7 @@ description: Encomende réplicas de AirPods através do KakoBuy, um agente que c
 - **Proteção ao comprador** — O KakoBuy trata de devoluções/trocas com o vendedor se algo estiver errado
 
 ::: tip
-Para um único par de AirPods, o envio através do KakoBuy normalmente custa **$7–10 USD**. Se estiver apenas a comprar AirPods e mais nada, pode ser mais simples [encomendar diretamente do site do vendedor](/ordering/how-to-buy). O KakoBuy é útil quando está a combinar encomendas ou quando os métodos de pagamento do vendedor (crypto, AliPay, bank transfer) não funcionam para si — o KakoBuy aceita cartões de crédito/débito, PayPal, Apple Pay, e Google Pay.
+Para um único par de AirPods, o envio através do KakoBuy normalmente custa **$7–10 USD**. Se estiver apenas a comprar AirPods e mais nada, pode ser mais simples [encomendar diretamente do site do vendedor](/pt/ordering/how-to-buy). O KakoBuy é útil quando está a combinar encomendas ou quando os métodos de pagamento do vendedor (crypto, AliPay, bank transfer) não funcionam para si — o KakoBuy aceita cartões de crédito/débito, PayPal, Apple Pay, e Google Pay.
 :::
 
 ## Como encomendar
@@ -29,7 +29,7 @@ Inscreva-se em [KakoBuy](https://airreps.link/kakobuy). Só precisa de um endere
 
 ### 2. Encontrar o Produto
 
-Vá à nossa seção de [Links](/links/info) e escolha o produto que pretende. A página de cada vendedor tem um botão **KakoBuy** que leva diretamente ao produto no KakoBuy — não é preciso copiar e colar links manualmente.
+Vá à nossa seção de [Links](/pt/links/info) e escolha o produto que pretende. A página de cada vendedor tem um botão **KakoBuy** que leva diretamente ao produto no KakoBuy — não é preciso copiar e colar links manualmente.
 
 ![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.png)
 
@@ -56,7 +56,7 @@ Quando o item chegar ao armazém do KakoBuy, eles tirarão fotos de controlo de 
 ![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.png)
 
 ::: tip
-Isto é uma grande vantagem de usar um agente — pode inspecionar a sua réplica de AirPods antes de se comprometer com o envio internacional. Consulte o guia [QC & LC](/ordering/qc-lc) para dicas sobre o que procurar.
+Isto é uma grande vantagem de usar um agente — pode inspecionar a sua réplica de AirPods antes de se comprometer com o envio internacional. Consulte o guia [QC & LC](/pt/ordering/qc-lc) para dicas sobre o que procurar.
 :::
 
 ### 6. Enviar Internacionalmente

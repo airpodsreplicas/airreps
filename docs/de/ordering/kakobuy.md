@@ -16,7 +16,7 @@ description: Order AirPods replicas through KakoBuy, an agent that buys from Chi
 - **Käuferschutz** — KakoBuy regelt Rücksendungen/Umtausch mit dem Verkäufer, falls etwas nicht stimmt
 
 ::: tip
-Für ein einzelnes Paar AirPods kostet der Versand über KakoBuy in der Regel **$7–10 USD**. Wenn du nur AirPods und sonst nichts kaufst, ist es möglicherweise einfacher, [direkt auf der Website eines Verkäufers zu bestellen](/ordering/how-to-buy). KakoBuy empfiehlt sich, wenn du Bestellungen kombinierst oder wenn die Zahlungsmethoden des Verkäufers (Krypto, AliPay, Banküberweisung) für dich nicht funktionieren — KakoBuy akzeptiert normale Kredit-/Debitkarten, PayPal, Apple Pay und Google Pay.
+Für ein einzelnes Paar AirPods kostet der Versand über KakoBuy in der Regel **$7–10 USD**. Wenn du nur AirPods und sonst nichts kaufst, ist es möglicherweise einfacher, [direkt auf der Website eines Verkäufers zu bestellen](/de/ordering/how-to-buy). KakoBuy empfiehlt sich, wenn du Bestellungen kombinierst oder wenn die Zahlungsmethoden des Verkäufers (Krypto, AliPay, Banküberweisung) für dich nicht funktionieren — KakoBuy akzeptiert normale Kredit-/Debitkarten, PayPal, Apple Pay und Google Pay.
 :::
 
 ## Wie man bestellt
@@ -29,7 +29,7 @@ Melde dich bei [KakoBuy](https://airreps.link/kakobuy) an. Du benötigst nur ein
 
 ### 2. Produkt finden
 
-Gehe zu unserem [Links](/links/info)-Bereich und wähle das gewünschte Produkt. Jede Verkäuferseite hat eine **KakoBuy**-Schaltfläche, die dich direkt zum Produkt bei KakoBuy führt — kein manuelles Kopieren/Einfügen von Links nötig.
+Gehe zu unserem [Links](/de/links/info)-Bereich und wähle das gewünschte Produkt. Jede Verkäuferseite hat eine **KakoBuy**-Schaltfläche, die dich direkt zum Produkt bei KakoBuy führt — kein manuelles Kopieren/Einfügen von Links nötig.
 
 ![AirReps Link-Auswahl mit Weidian- und KakoBuy-Optionen](/images/kakobuy/link-chooser.png)
 
@@ -56,7 +56,7 @@ Sobald der Artikel im KakoBuy-Lager eingetroffen ist, machen sie Qualitätskontr
 ![KakoBuy Bestellseite mit QC-Fotos](/images/kakobuy/orders-qc.png)
 
 ::: tip
-Das ist ein großer Vorteil bei der Nutzung eines Agenten — du kannst dein AirPods-Replikat vor dem internationalen Versand prüfen. Sieh dir den [QC & LC guide](/ordering/qc-lc) für Tipps an, worauf du achten solltest.
+Das ist ein großer Vorteil bei der Nutzung eines Agenten — du kannst dein AirPods-Replikat vor dem internationalen Versand prüfen. Sieh dir den [QC & LC guide](/de/ordering/qc-lc) für Tipps an, worauf du achten solltest.
 :::
 
 ### 6. International versenden

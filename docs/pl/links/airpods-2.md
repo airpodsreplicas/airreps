@@ -40,5 +40,5 @@ description: "Trusted seller links and purchase options for AirPods 2 replicas."
 
 
 ::: tip
-Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [przewodnik zamawiania KakoBuy](/ordering/kakobuy).
+Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy).
 :::

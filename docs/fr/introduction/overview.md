@@ -15,14 +15,14 @@ Si vous cherchez simplement des liens pour acheter des répliques d'AirPods, [cl
 :::
 
 ::: tip Pas sûr quel modèle choisir ?
-Faites notre [quiz rapide](/quiz) pour trouver la meilleure réplique d'AirPods selon vos besoins, appareil et budget.
+Faites notre [quiz rapide](/fr/quiz) pour trouver la meilleure réplique d'AirPods selon vos besoins, appareil et budget.
 :::
 
 ## Ce que vous apprendrez
 
-Toutes les répliques d'AirPods ne se valent pas. Ce guide vous aide à identifier les répliques de haute qualité qui offrent une vraie valeur, couvrant des aspects essentiels comme la [qualité sonore](/introduction/sound-quality), l'[autonomie de la batterie](/introduction/battery-life) et la [connectivité](/introduction/connectivity).
+Toutes les répliques d'AirPods ne se valent pas. Ce guide vous aide à identifier les répliques de haute qualité qui offrent une vraie valeur, couvrant des aspects essentiels comme la [qualité sonore](/fr/introduction/sound-quality), l'[autonomie de la batterie](/fr/introduction/battery-life) et la [connectivité](/fr/introduction/connectivity).
 
-Nous vous fournissons les connaissances et les outils pour distinguer entre les imitations bon marché et les répliques d'AirPods de qualité qui valent votre investissement. Consultez notre section [Informations de version](/version-info/general) pour comprendre les caractéristiques clés et éviter les pièges courants lors de l'achat de répliques d'AirPods.
+Nous vous fournissons les connaissances et les outils pour distinguer entre les imitations bon marché et les répliques d'AirPods de qualité qui valent votre investissement. Consultez notre section [Informations de version](/fr/version-info/general) pour comprendre les caractéristiques clés et éviter les pièges courants lors de l'achat de répliques d'AirPods.
 
 Notre approche axée sur la communauté via [Discord](https://airreps.link/discord) garantit que vous restez informé des dernières mises à jour et pouvez prendre des décisions éclairées sur les répliques d'AirPods qui correspondent à vos besoins. Ce guide vous aide également à distinguer les répliques des AirPods authentiques lors d'un achat d'occasion, évitant ainsi les arnaques potentielles.
 

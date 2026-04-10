@@ -11,18 +11,18 @@ Se você está aqui, provavelmente está interessado em adquirir um par de AirPo
 Após ler este guia, você provavelmente descobrirá que comprar réplicas de AirPods é uma opção mais econômica e igualmente viável em comparação com comprar da Apple. No **Guia Definitivo AirReps**, fornecemos informações detalhadas sobre as melhores réplicas de AirPods, o que observar, como comprar e como solucionar problemas. Este guia é constantemente atualizado para fornecer as informações mais recentes, e a melhor maneira de obter suporte contínuo e ajuda é ingressar em nossa [comunidade no Discord](https://airreps.link/discord).
 
 ::: tip Procurando por Links de Compra?
-Se você está apenas procurando por links para comprar réplicas de AirPods, [clique aqui para ir para a seção de links](/links/info).
+Se você está apenas procurando por links para comprar réplicas de AirPods, [clique aqui para ir para a seção de links](/pt/links/info).
 :::
 
 ::: tip Não sabe qual modelo escolher?
-Faça nosso [quiz rápido](/quiz) para encontrar a melhor réplica de AirPods para suas necessidades, dispositivo e orçamento.
+Faça nosso [quiz rápido](/pt/quiz) para encontrar a melhor réplica de AirPods para suas necessidades, dispositivo e orçamento.
 :::
 
 ## O Que Você Aprenderá
 
-Nem todas as réplicas de AirPods são criadas iguais. Este guia ajuda você a identificar réplicas de alta qualidade que oferecem valor genuíno, cobrindo aspectos essenciais como [qualidade de som](/introduction/sound-quality), [duração da bateria](/introduction/battery-life) e [conectividade](/introduction/connectivity).
+Nem todas as réplicas de AirPods são criadas iguais. Este guia ajuda você a identificar réplicas de alta qualidade que oferecem valor genuíno, cobrindo aspectos essenciais como [qualidade de som](/pt/introduction/sound-quality), [duração da bateria](/pt/introduction/battery-life) e [conectividade](/pt/introduction/connectivity).
 
-Fornecemos o conhecimento e as ferramentas para distinguir entre imitações baratas e réplicas de AirPods de qualidade que valem o seu investimento. Confira nossa seção de [Informações sobre Versões](/version-info/general) para entender os recursos principais e evitar armadilhas comuns ao comprar réplicas de AirPods.
+Fornecemos o conhecimento e as ferramentas para distinguir entre imitações baratas e réplicas de AirPods de qualidade que valem o seu investimento. Confira nossa seção de [Informações sobre Versões](/pt/version-info/general) para entender os recursos principais e evitar armadilhas comuns ao comprar réplicas de AirPods.
 
 Nossa abordagem orientada pela comunidade através do [Discord](https://airreps.link/discord) garante que você se mantenha informado com as últimas atualizações e possa tomar decisões bem fundamentadas sobre quais réplicas de AirPods atendem às suas necessidades. Este guia também ajuda você a distinguir réplicas dos AirPods autênticos ao comprar de segunda mão, prevenindo possíveis golpes.
 

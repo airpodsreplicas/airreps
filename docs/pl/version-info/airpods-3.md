@@ -5,7 +5,7 @@ description: "Porównaj wersje replik AirPods 3 według chipu, funkcji i brakuj�
 # AirPods 3
 
 ::: tip
-Ta linia produktów nie jest już aktywnie aktualizowana przez producentów, ponieważ rozwój przeniósł się na nowsze modele. Repliki AirPods 3 wciąż są znakomitymi produktami i pozostają popularnym wyborem. Jeśli szukasz najnowszych funkcji i ulepszeń, rozważ sprawdzenie [AirPods 4](/version-info/airpods-4).
+Ta linia produktów nie jest już aktywnie aktualizowana przez producentów, ponieważ rozwój przeniósł się na nowsze modele. Repliki AirPods 3 wciąż są znakomitymi produktami i pozostają popularnym wyborem. Jeśli szukasz najnowszych funkcji i ulepszeń, rozważ sprawdzenie [AirPods 4](/pl/version-info/airpods-4).
 :::
 
 Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje danego modelu.

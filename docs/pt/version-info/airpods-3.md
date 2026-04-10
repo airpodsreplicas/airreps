@@ -5,7 +5,7 @@ description: "Compare versões de réplicas dos AirPods 3 por chip, recursos e r
 # AirPods 3
 
 ::: tip
-Esta linha de produtos não está mais sendo atualizada ativamente pelos fabricantes, pois o desenvolvimento mudou para modelos mais novos. As réplicas de AirPods 3 ainda são produtos excelentes e continuam sendo escolhas populares. Se você procura os recursos e melhorias mais recentes, considere conferir os [AirPods 4](/version-info/airpods-4).
+Esta linha de produtos não está mais sendo atualizada ativamente pelos fabricantes, pois o desenvolvimento mudou para modelos mais novos. As réplicas de AirPods 3 ainda são produtos excelentes e continuam sendo escolhas populares. Se você procura os recursos e melhorias mais recentes, considere conferir os [AirPods 4](/pt/version-info/airpods-4).
 :::
 
 Clique no link na coluna 'Versão' para encontrar análises do modelo correspondente.

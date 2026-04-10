@@ -5,7 +5,7 @@ description: "Compare versões de réplicas AirPods Pro por chip, recursos e rec
 # AirPods Pro
 
 ::: tip
-Esta linha de produtos não está mais sendo atualizada ativamente pelos fabricantes, pois o desenvolvimento mudou para modelos mais novos. As réplicas de AirPods Pro ainda são produtos excelentes e continuam sendo escolhas populares. Se você procura os recursos e melhorias mais recentes, considere conferir os [AirPods Pro 2](/version-info/airpods-pro-2) ou [AirPods Pro 3](/version-info/airpods-pro-3).
+Esta linha de produtos não está mais sendo atualizada ativamente pelos fabricantes, pois o desenvolvimento mudou para modelos mais novos. As réplicas de AirPods Pro ainda são produtos excelentes e continuam sendo escolhas populares. Se você procura os recursos e melhorias mais recentes, considere conferir os [AirPods Pro 2](/pt/version-info/airpods-pro-2) ou [AirPods Pro 3](/pt/version-info/airpods-pro-3).
 :::
 
 Clique no hiperlink na coluna 'Versão' para encontrar análises do modelo correspondente. Para links de compra, veja [links do AirPods Pro](/pt/links/airpods-pro). Para saber mais sobre a [tecnologia ANC](/pt/introduction/anc-explained) e os [recursos](/pt/introduction/features), confira as seções do guia.

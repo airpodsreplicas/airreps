@@ -10,11 +10,11 @@ Procurando comprar réplicas de AirPods? Este guia abrange como adquirir com seg
 
 ## How to Buy
 
-Recomendamos sempre comprar de [trusted sellers](/links/info). A maioria dos vendedores possui seus próprios sites que aceitam vários métodos de pagamento, incluindo [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin e Bank Transfer. Todos os vendedores também têm lojas no Weidian acessíveis através de agentes como o [KakoBuy](https://airreps.link/kakobuy) — veja nosso [KakoBuy guide](/ordering/kakobuy) para um passo a passo completo.
+Recomendamos sempre comprar de [trusted sellers](/pt/links/info). A maioria dos vendedores possui seus próprios sites que aceitam vários métodos de pagamento, incluindo [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin e Bank Transfer. Todos os vendedores também têm lojas no Weidian acessíveis através de agentes como o [KakoBuy](https://airreps.link/kakobuy) — veja nosso [KakoBuy guide](/pt/ordering/kakobuy) para um passo a passo completo.
 
 A comunidade AirReps recomenda múltiplos vendedores para evitar monopólio e incentivar a concorrência, o que beneficia os usuários. Cada vendedor oferece serviços únicos, controle de qualidade (QC), plataformas e preços diferentes.
 
-Encomendar é simples: escolha o produto que deseja e finalize a compra. Não tem certeza de qual modelo? Faça nosso [quick quiz](/quiz) ou compare as versões na seção de [version info](/version-info/general).
+Encomendar é simples: escolha o produto que deseja e finalize a compra. Não tem certeza de qual modelo? Faça nosso [quick quiz](/pt/quiz) ou compare as versões na seção de [version info](/pt/version-info/general).
 
 ::: tip
 Pagamentos via Wise ou Bank Transfer exigem revisão manual por parte do vendedor, o que pode levar até 24 horas antes que seu pedido seja processado.
@@ -43,7 +43,7 @@ Recomendamos as seguintes etapas:
 
 1. **Taxes**: Recomendamos apenas vendedores confiáveis que cuidem do VAT/Taxes antecipadamente para compradores europeus, assim você não terá que pagar IVA quando o pacote chegar à UE.
 
-2. **Product Box**: Para uma caixa com logotipos da Apple, solicite "with Apple box" em vez de "no logo box". Contudo, isso acarreta um risco maior de o pacote ser apreendido na alfândega e você não receber o reembolso. Não recomendamos esta opção, pois os AirPods dentro são idênticos independentemente da caixa. Se quiser correr o risco, pode solicitar uma caixa com logotipos da Apple. Saiba mais sobre os tipos de caixa em nosso [packaging guide](/introduction/packaging).
+2. **Product Box**: Para uma caixa com logotipos da Apple, solicite "with Apple box" em vez de "no logo box". Contudo, isso acarreta um risco maior de o pacote ser apreendido na alfândega e você não receber o reembolso. Não recomendamos esta opção, pois os AirPods dentro são idênticos independentemente da caixa. Se quiser correr o risco, pode solicitar uma caixa com logotipos da Apple. Saiba mais sobre os tipos de caixa em nosso [packaging guide](/pt/introduction/packaging).
 
 ::: warning
 This information applies when ordering from sellers other than the HiCity or Jenny AirReps website. If you order from those websites, you don't need to worry about customs declarations or the box type, as they will be handled automatically.
@@ -60,7 +60,7 @@ Informe aos vendedores que você é da comunidade AirReps. Isso garantirá que e
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
+Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/pt/ordering/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/pt/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
@@ -68,7 +68,7 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 
 **Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
-**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for details.
+**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/pt/ordering/kakobuy) for details.
 :::
 
 ::: details Note on Alibaba links and packaging

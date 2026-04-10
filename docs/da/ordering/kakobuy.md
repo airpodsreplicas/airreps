@@ -16,7 +16,7 @@ description: Bestil AirPods-replikaer gennem KakoBuy, en indkøbsagent, der køb
 - **Køberbeskyttelse** — KakoBuy håndterer returneringer/ombytninger med sælgeren, hvis noget er galt
 
 ::: tip
-Ved et enkelt par AirPods koster forsendelse gennem KakoBuy typisk **$7–10 USD**. Hvis du kun køber AirPods og intet andet, kan det være enklere at [bestille direkte fra en sælgers hjemmeside](/ordering/how-to-buy). KakoBuy er især nyttig, når du kombinerer ordrer eller når sælgerens betalingsmetoder (krypto, AliPay, bankoverførsel) ikke fungerer for dig — KakoBuy accepterer almindelige kredit-/debitkort, PayPal, Apple Pay og Google Pay.
+Ved et enkelt par AirPods koster forsendelse gennem KakoBuy typisk **$7–10 USD**. Hvis du kun køber AirPods og intet andet, kan det være enklere at [bestille direkte fra en sælgers hjemmeside](/da/ordering/how-to-buy). KakoBuy er især nyttig, når du kombinerer ordrer eller når sælgerens betalingsmetoder (krypto, AliPay, bankoverførsel) ikke fungerer for dig — KakoBuy accepterer almindelige kredit-/debitkort, PayPal, Apple Pay og Google Pay.
 :::
 
 ## Sådan bestiller du
@@ -29,7 +29,7 @@ Tilmeld dig på [KakoBuy](https://airreps.link/kakobuy). Du skal kun bruge en e-
 
 ### 2. Find produktet
 
-Gå til vores [Links](/links/info)-sektion og vælg det produkt, du vil have. Hver sælgers side har en **KakoBuy**-knap, der tager dig direkte til produktet på KakoBuy — ingen grund til at kopiere og indsætte links manuelt.
+Gå til vores [Links](/da/links/info)-sektion og vælg det produkt, du vil have. Hver sælgers side har en **KakoBuy**-knap, der tager dig direkte til produktet på KakoBuy — ingen grund til at kopiere og indsætte links manuelt.
 
 ![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.png)
 
@@ -56,7 +56,7 @@ Når varen ankommer til KakoBuys lager, tager de kvalitetskontrol (QC)-fotos. Se
 ![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.png)
 
 ::: tip
-Dette er en stor fordel ved at bruge en agent — du får mulighed for at inspicere din AirPods-replica, før du forpligter dig til international forsendelse. Tjek [QC & LC-guiden](/ordering/qc-lc) for tips til, hvad du skal kigge efter.
+Dette er en stor fordel ved at bruge en agent — du får mulighed for at inspicere din AirPods-replica, før du forpligter dig til international forsendelse. Tjek [QC & LC-guiden](/da/ordering/qc-lc) for tips til, hvad du skal kigge efter.
 :::
 
 ### 6. Send internationalt

@@ -130,14 +130,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          set -e
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           BRANCH="auto/translation-sync"
           git checkout -B "$BRANCH"
           git add docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr
           git commit -m "chore: sync translated docs"
-          git push origin "$BRANCH" --force
+          git push origin "$BRANCH" --force-with-lease --force
 
           # Reuse existing open PR or create a new one
           PR=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number' 2>/dev/null || true)
@@ -145,7 +146,7 @@ jobs:
             PR_URL=$(gh pr create --base main --head "$BRANCH" \
               --title "chore: sync translated docs" \
               --body "Automated translation sync from GitHub Actions.")
-            PR=$(echo "$PR_URL" | grep -oE '[0-9]+$')
+            PR=$(gh pr view "$PR_URL" --json number --jq '.number')
           fi
 
           # Merge immediately (squash), or queue auto-merge if checks are required

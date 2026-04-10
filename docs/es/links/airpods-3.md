@@ -51,5 +51,5 @@ description: "Enlaces de vendedores confiables y opciones de compra para réplic
 
 
 ::: tip
-Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar envíos con otros artículos y estás familiarizado con plataformas de agentes. Para un agente confiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Nuevo en los agentes? Consulta nuestra [guía de pedidos de KakoBuy](/ordering/kakobuy).
+Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar envíos con otros artículos y estás familiarizado con plataformas de agentes. Para un agente confiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Nuevo en los agentes? Consulta nuestra [guía de pedidos de KakoBuy](/es/ordering/kakobuy).
 :::

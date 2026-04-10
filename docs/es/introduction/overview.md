@@ -15,14 +15,14 @@ Si solo buscas enlaces para comprar réplicas de AirPods, [haz clic aquí para i
 :::
 
 ::: tip ¿No estás seguro de qué modelo conseguir?
-Haz nuestro [quiz rápido](/quiz) para encontrar la mejor réplica de AirPods según tus necesidades, dispositivo y presupuesto.
+Haz nuestro [quiz rápido](/es/quiz) para encontrar la mejor réplica de AirPods según tus necesidades, dispositivo y presupuesto.
 :::
 
 ## Qué aprenderás
 
-No todas las réplicas de AirPods son iguales. Esta guía te ayuda a identificar réplicas de alta calidad que aportan un valor real, cubriendo aspectos esenciales como [calidad de sonido](/introduction/sound-quality), [duración de la batería](/introduction/battery-life) y [conectividad](/introduction/connectivity).
+No todas las réplicas de AirPods son iguales. Esta guía te ayuda a identificar réplicas de alta calidad que aportan un valor real, cubriendo aspectos esenciales como [calidad de sonido](/es/introduction/sound-quality), [duración de la batería](/es/introduction/battery-life) y [conectividad](/es/introduction/connectivity).
 
-Proporcionamos el conocimiento y las herramientas para distinguir entre imitaciones baratas y réplicas de AirPods de calidad que valen la pena. Consulta nuestra sección de [Información de Versiones](/version-info/general) para entender las características clave y evitar errores comunes al comprar réplicas de AirPods.
+Proporcionamos el conocimiento y las herramientas para distinguir entre imitaciones baratas y réplicas de AirPods de calidad que valen la pena. Consulta nuestra sección de [Información de Versiones](/es/version-info/general) para entender las características clave y evitar errores comunes al comprar réplicas de AirPods.
 
 Nuestro enfoque impulsado por la comunidad a través de [Discord](https://airreps.link/discord) te mantiene informado con las últimas actualizaciones y te ayuda a tomar decisiones bien fundamentadas sobre qué réplicas de AirPods se adaptan a tus necesidades. Esta guía también te ayuda a distinguir réplicas de AirPods de los AirPods auténticos al comprar de segunda mano, evitando posibles estafas.
 

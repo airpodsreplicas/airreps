@@ -10,11 +10,11 @@ Du möchtest AirPods Replicas kaufen? Dieser Guide behandelt sichere Beschaffung
 
 ## So kaufst du
 
-Wir empfehlen immer, bei [vertrauenswürdigen Verkäufern](/links/info) zu kaufen. Die meisten Verkäufer haben eigene Websites, die verschiedene Zahlungsmethoden akzeptieren, darunter [Kreditkarte](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin und Banküberweisung. Alle Verkäufer haben auch Weidian-Storefronts, die über Agenten wie [KakoBuy](https://airreps.link/kakobuy) zugänglich sind — siehe unseren [KakoBuy guide](/ordering/kakobuy) für eine vollständige Anleitung.
+Wir empfehlen immer, bei [vertrauenswürdigen Verkäufern](/de/links/info) zu kaufen. Die meisten Verkäufer haben eigene Websites, die verschiedene Zahlungsmethoden akzeptieren, darunter [Kreditkarte](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin und Banküberweisung. Alle Verkäufer haben auch Weidian-Storefronts, die über Agenten wie [KakoBuy](https://airreps.link/kakobuy) zugänglich sind — siehe unseren [KakoBuy guide](/de/ordering/kakobuy) für eine vollständige Anleitung.
 
 Die AirReps-Community empfiehlt mehrere Verkäufer, um ein Monopol zu vermeiden und den Wettbewerb zu fördern, was den Nutzern zugutekommt. Jeder Verkäufer bietet einzigartige Services, Qualitätskontrolle (QC), Plattformen und Preise.
 
-Das Bestellen ist einfach: Wähle das gewünschte Produkt aus und schließe den Kauf ab. Nicht sicher, welches Modell? Mach unser [kurzes Quiz](/quiz) oder vergleiche Versionen im Bereich [Versionsinfo](/version-info/general).
+Das Bestellen ist einfach: Wähle das gewünschte Produkt aus und schließe den Kauf ab. Nicht sicher, welches Modell? Mach unser [kurzes Quiz](/de/quiz) oder vergleiche Versionen im Bereich [Versionsinfo](/de/version-info/general).
 
 ::: tip
 Zahlungen per Wise oder Banküberweisung erfordern eine manuelle Überprüfung durch den Verkäufer, die bis zu 24 Stunden dauern kann, bevor deine Bestellung bearbeitet wird.
@@ -43,7 +43,7 @@ Wir empfehlen die folgenden Schritte:
 
 1. **Steuern**: Wir empfehlen nur vertrauenswürdige Verkäufer, die sich für europäische Käufer vorab um MwSt./Steuern kümmern, sodass du keine MwSt. zahlen musst, wenn das Paket in der EU ankommt.
 
-2. **Produktbox**: Für eine Box mit Apple-Logos, fordere eine „with Apple box" statt einer „no logo box" an. Dies birgt jedoch ein höheres Risiko, dass das Paket vom Zoll beschlagnahmt wird und du keine Rückerstattung erhältst. Wir empfehlen diese Option nicht, da die AirPods im Inneren unabhängig von der Box identisch sind. Wenn du das Risiko eingehen möchtest, kannst du eine Box mit Apple-Logos anfordern. Mehr über die verschiedenen Box-Typen erfährst du in unserem [Verpackungsguide](/introduction/packaging).
+2. **Produktbox**: Für eine Box mit Apple-Logos, fordere eine „with Apple box" statt einer „no logo box" an. Dies birgt jedoch ein höheres Risiko, dass das Paket vom Zoll beschlagnahmt wird und du keine Rückerstattung erhältst. Wir empfehlen diese Option nicht, da die AirPods im Inneren unabhängig von der Box identisch sind. Wenn du das Risiko eingehen möchtest, kannst du eine Box mit Apple-Logos anfordern. Mehr über die verschiedenen Box-Typen erfährst du in unserem [Verpackungsguide](/de/introduction/packaging).
 
 ::: warning
 Diese Informationen gelten beim Bestellen bei anderen Verkäufern als der HiCity- oder Jenny-AirReps-Website. Wenn du bei diesen Websites bestellst, brauchst du dir keine Sorgen um Zollerklärungen oder den Box-Typ zu machen, da dies automatisch gehandhabt wird.
@@ -60,7 +60,7 @@ Lass die Verkäufer wissen, dass du aus der AirReps-Community kommst. Das stellt
 ## FAQ
 
 ::: details Welche Zahlungsmethoden akzeptieren vertrauenswürdige Verkäufer?
-Vertrauenswürdige Verkäufer akzeptieren mehrere Zahlungsmethoden, darunter Kreditkarten, AliPay, Revolut, Wise, Banküberweisung und Bitcoin. Alle Verkäufer haben Weidian-Storefronts, die über Agenten wie [KakoBuy](https://airreps.link/kakobuy) zugänglich sind — checke unseren [step-by-step KakoBuy guide](/ordering/kakobuy). Beachte, dass PayPal derzeit von keinem Verkäufer unterstützt wird. Die Zahlungsoptionen können je nach Verkäufer variieren – eine detaillierte Aufschlüsselung findest du in der [Zahlungsmethoden-Tabelle](/links/info#payment-methods).
+Vertrauenswürdige Verkäufer akzeptieren mehrere Zahlungsmethoden, darunter Kreditkarten, AliPay, Revolut, Wise, Banküberweisung und Bitcoin. Alle Verkäufer haben Weidian-Storefronts, die über Agenten wie [KakoBuy](https://airreps.link/kakobuy) zugänglich sind — checke unseren [step-by-step KakoBuy guide](/de/ordering/kakobuy). Beachte, dass PayPal derzeit von keinem Verkäufer unterstützt wird. Die Zahlungsoptionen können je nach Verkäufer variieren – eine detaillierte Aufschlüsselung findest du in der [Zahlungsmethoden-Tabelle](/de/links/info#payment-methods).
 :::
 <span id="credit-card-note"></span>
 ::: details Warum werde ich bei der Kreditkartenzahlung auf eine Krypto-Website weitergeleitet?

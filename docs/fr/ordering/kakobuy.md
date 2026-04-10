@@ -16,7 +16,7 @@ description: Comment commander des répliques d'AirPods via KakoBuy, une platefo
 - **Buyer Protection** — KakoBuy gère les retours/échanges avec le vendeur si quelque chose ne va pas
 
 ::: tip
-Pour une seule paire d'AirPods, l'expédition via KakoBuy coûte généralement **7–10 USD**. Si vous n'achetez que des AirPods et rien d'autre, il peut être plus simple de [commander directement depuis le site du vendeur](/ordering/how-to-buy). KakoBuy est particulièrement utile lorsque vous combinez des commandes ou lorsque les méthodes de paiement du vendeur (crypto, AliPay, virement bancaire) ne fonctionnent pas pour vous — KakoBuy accepte les cartes de crédit/débit, PayPal, Apple Pay et Google Pay.
+Pour une seule paire d'AirPods, l'expédition via KakoBuy coûte généralement **7–10 USD**. Si vous n'achetez que des AirPods et rien d'autre, il peut être plus simple de [commander directement depuis le site du vendeur](/fr/ordering/how-to-buy). KakoBuy est particulièrement utile lorsque vous combinez des commandes ou lorsque les méthodes de paiement du vendeur (crypto, AliPay, virement bancaire) ne fonctionnent pas pour vous — KakoBuy accepte les cartes de crédit/débit, PayPal, Apple Pay et Google Pay.
 :::
 
 ## Comment commander
@@ -29,7 +29,7 @@ Inscrivez-vous sur [KakoBuy](https://airreps.link/kakobuy). Il vous suffit d'une
 
 ### 2. Trouver le produit
 
-Allez dans notre section [Liens](/links/info) et choisissez le produit souhaité. La page de chaque vendeur comporte un bouton **KakoBuy** qui vous emmène directement sur le produit sur KakoBuy — pas besoin de copier-coller les liens manuellement.
+Allez dans notre section [Liens](/fr/links/info) et choisissez le produit souhaité. La page de chaque vendeur comporte un bouton **KakoBuy** qui vous emmène directement sur le produit sur KakoBuy — pas besoin de copier-coller les liens manuellement.
 
 ![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.png)
 
@@ -56,7 +56,7 @@ Une fois l'article arrivé à l'entrepôt de KakoBuy, ils prendront des photos d
 ![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.png)
 
 ::: tip
-C'est un grand avantage d'utiliser un agent — vous pouvez inspecter votre réplique d'AirPods avant de vous engager sur une expédition internationale. Consultez le [QC & LC guide](/ordering/qc-lc) pour des conseils sur ce qu'il faut vérifier.
+C'est un grand avantage d'utiliser un agent — vous pouvez inspecter votre réplique d'AirPods avant de vous engager sur une expédition internationale. Consultez le [QC & LC guide](/fr/ordering/qc-lc) pour des conseils sur ce qu'il faut vérifier.
 :::
 
 ### 6. Expédier à l'international

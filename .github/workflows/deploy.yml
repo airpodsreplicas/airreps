@@ -30,7 +30,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: ${{ secrets.NPM_CONFIG_NODE_VERSION }}
+          node-version: 22
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2

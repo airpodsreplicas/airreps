@@ -98,5 +98,5 @@ description: Zweryfikowane wersje replik AirPods Max i zaufane linki do sprzedaw
 > Repliki AirPods Max są dostępne w różnych kolorach. Aby poznać szczegółowe opcje, odwiedź strony poszczególnych sprzedawców.
 
 ::: tip
-Wybór linku Weidian wymaga skorzystania z agenta wysyłkowego. Polecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Jako wiarygodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Jesteś nowy w korzystaniu z agentów? Sprawdź nasz [przewodnik zamówień KakoBuy](/ordering/kakobuy).
+Wybór linku Weidian wymaga skorzystania z agenta wysyłkowego. Polecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Jako wiarygodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Jesteś nowy w korzystaniu z agentów? Sprawdź nasz [przewodnik zamówień KakoBuy](/pl/ordering/kakobuy).
 :::
