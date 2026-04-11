@@ -28,7 +28,8 @@ description: AirPods Pro 3 replikaları artık mevcut! En son AirPods Pro 3 repl
     </td>
     <td>
       <div class="link-column">
-        Yakında
+        <a href="https://airreps.link/jprov7hl">Website</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
   </tr>
