@@ -22,7 +22,8 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
     </td>
     <td>
       <div class="link-column">
-        Kommer snart
+        <a href="https://airreps.link/hcprov7hl">Hjemmeside</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
