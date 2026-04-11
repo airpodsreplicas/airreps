@@ -17,7 +17,9 @@ description: ¡Réplicas de AirPods Pro 3 ya disponibles! Encuentra las últimas
     <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
-        Próximamente
+        <a href="https://airreps.link/eprov7hl">Sitio Web</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

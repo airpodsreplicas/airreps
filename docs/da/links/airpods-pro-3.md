@@ -17,7 +17,9 @@ description: AirPods Pro 3-kopier er nu tilgængelige! Find de nyeste AirPods Pr
     <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
-        Kommer snart
+        <a href="https://airreps.link/eprov7hl">Hjemmeside</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
