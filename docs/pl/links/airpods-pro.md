@@ -1,5 +1,5 @@
 ---
-description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro."
+description: "Zweryfikowane linki sprzedawców i opcje zakupu klonów AirPods Pro."
 ---
 
 # AirPods Pro
@@ -8,7 +8,7 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro."
 
 <table>
   <tr>
-    <th>Wersja</th>
+    <th>Version</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -16,12 +16,7 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro."
   <tr>
     <td><span class="version-badge">V4</span></td>
     <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcprov4">Strona</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
      <td style="text-align: center;">-</td>
   </tr>
 </table>

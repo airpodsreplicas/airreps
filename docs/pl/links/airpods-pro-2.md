@@ -44,12 +44,7 @@ description: "Zweryfikowani sprzedawcy i linki do zakupu klonów AirPods Pro 2."
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcprov53hr2">Strona</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov53hr2">Strona</a>

@@ -1,5 +1,5 @@
 ---
-description: "Trusted seller links and purchase options for AirPods Pro 2 replicas."
+description: "Доверенные ссылки продавцов и варианты покупки реплик AirPods Pro 2."
 ---
 
 # AirPods Pro 2

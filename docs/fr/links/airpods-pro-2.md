@@ -44,12 +44,7 @@ description: "Liens de vendeurs fiables et options d'achat pour les répliques d
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcprov53hr2">Site Web</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov53hr2">Site Web</a>
