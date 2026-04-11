@@ -22,7 +22,8 @@ description: Repliki AirPods Pro 3 są już dostępne! Znajdź najnowsze wersje 
     </td>
     <td>
       <div class="link-column">
-        Wkrótce
+        <a href="https://airreps.link/hcprov7hl">Strona</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
