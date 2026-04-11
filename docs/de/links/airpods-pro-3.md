@@ -28,7 +28,8 @@ description: AirPods Pro 3 Replicas jetzt verfügbar! Finde die neuesten AirPods
     </td>
     <td>
       <div class="link-column">
-        Bald verfügbar
+        <a href="https://airreps.link/jprov7hl">Website</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
   </tr>
