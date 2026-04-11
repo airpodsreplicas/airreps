@@ -1,5 +1,5 @@
 ---
-description: "Trusted seller links and purchase options for AirPods Pro replicas."
+description: "Vertrauenswürdige Verkäufer-Links und Kaufoptionen für AirPods Pro Replikate."
 ---
 
 # AirPods Pro
@@ -16,12 +16,7 @@ description: "Trusted seller links and purchase options for AirPods Pro replicas
   <tr>
     <td><span class="version-badge">V4</span></td>
     <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcprov4">Website</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
      <td style="text-align: center;">-</td>
   </tr>
 </table>

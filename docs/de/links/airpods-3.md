@@ -22,12 +22,7 @@ description: "Vertrauenswürdige Verkäufer-Links und Kaufoptionen für AirPods 
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcgen3v1e">Website</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/j3v1e">Website</a>

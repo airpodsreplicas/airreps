@@ -8,7 +8,7 @@ description: "AirPods 3 replikaları için güvenilir satıcı linkleri ve satı
 
 <table>
   <tr>
-    <th>Versiyon</th>
+    <th>Version</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -22,12 +22,7 @@ description: "AirPods 3 replikaları için güvenilir satıcı linkleri ve satı
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcgen3v1e">Website</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/j3v1e">Website</a>

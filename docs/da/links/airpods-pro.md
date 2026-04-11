@@ -16,12 +16,7 @@ description: "Verificerede sælgerlinks til køb af AirPods Pro-kopier."
   <tr>
     <td><span class="version-badge">V4</span></td>
     <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcprov4">Hjemmeside</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
      <td style="text-align: center;">-</td>
   </tr>
 </table>
