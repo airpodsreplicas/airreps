@@ -1,5 +1,10 @@
 ---
 description: "Verarbeitungsqualität im Detail: Gewicht, Scharnier, Textgenauigkeit, Magnete und LED-Diffusoren."
+faq:
+"  - q: \"Können gefälschte AirPods in einem echten Case geladen werden oder umgekehrt?\""
+    a: "Nein, gefälschte AirPods sollten nicht in einem echten Case geladen werden. Dies kann dazu führen, dass die gefälschten AirPods kurz darauf kaputtgehen. Es wird auch nicht empfohlen, echte AirPods in einem gefälschten Case zu laden."
+  - q: "Passen AirPods-Hüllen auf Klone?"
+    a: "Alle weichen Silikonschutzhüllen passen, aber harte Kunststoffhüllen passen möglicherweise nicht auf die meisten Klone (hauptsächlich ältere Modelle, da sie etwas größer als die Originale sind). Manche harten Hüllen passen zwar, lassen sich aber möglicherweise nicht entfernen oder beeinträchtigen den Knopf, wenn dieser leicht hervorsteht."
 ---
 
 # Verarbeitungsqualität

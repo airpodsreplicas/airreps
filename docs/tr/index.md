@@ -6,7 +6,7 @@ title: 'AirReps'
 description: 'AirPods replika tartışmaları için AirReps topluluk merkezi. Yardım al, güvenilir satıcıları bul ve Kapsamlı Rehberimizi keşfet.'
 
 hero:
-  name: "AirReps"
+"  name: \"AirReps\""
   text: "AirPods replikaları."
   tagline: AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk.
   actions:
@@ -18,7 +18,7 @@ hero:
       link: quiz
 
 features:
-  - icon: 🤝
+"  - icon: 🤝"
     title: Yardımcı ekip
     details: Aklına gelebilecek hemen hemen her soruyu yanıtlamaya hazır özel yardımcılar.
     link: https://airreps.link/discord
@@ -26,13 +26,19 @@ features:
   - icon: ⏰
     title: Güncel
     details: Tüm kaynaklar, rehberler ve uygulamalar özel ekibimiz tarafından her zaman güncel tutulur.
-    link: /introduction/overview
+    link: /tr/introduction/overview
     linkText: Rehberi Oku
   - icon: 💸  
     title: Güvenilir satıcı listesi
     details: Topluluk tarafından seçilmiş, kar amacı gütmeyen, en son ürünler ve en iyi destekle satıcı listesi.
-    link: /links/info
+    link: /tr/links/info
     linkText: Satıcıları Gör
 ---
+
+## AirReps nedir?
+
+AirReps, AirPods replikalarına adanmış en büyük topluluktur. Doğru modeli seçmekten ve güvenilir satıcıları bulmaktan sürümleri karşılaştırmaya, ANC ve Spatial Audio gibi özellikleri anlamaya ve yaygın sorunları gidermeye kadar replika AirPods satın almayla ilgili bilmeniz gereken her şeyi kapsayan kapsamlı, topluluk odaklı bir rehber yayınlıyoruz.
+
+[Kapsamlı Rehberimiz](/tr/introduction/overview) sürekli güncellenir ve 9 dilde mevcuttur. En iyi AirPods Pro 2 klonunu mu arıyorsunuz, yonga setleri arasındaki farkı mı öğrenmek istiyorsunuz ya da ilk alışverişinizde yardıma mı ihtiyacınız var — AirReps yanınızdadır. Nereden başlayacağınızdan emin değil misiniz? İhtiyaçlarınıza ve bütçenize en uygun replikayı bulmak için [kısa testimizi](/tr/quiz) çözün.
 
 <Contributor></Contributor>

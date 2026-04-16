@@ -1,5 +1,18 @@
 ---
-description: "Enlaces verificados de compra para todos los modelos de réplicas de AirPods."
+description: Directorio de vendedores verificados y enlaces de compra directa para todos los modelos de réplicas de AirPods.
+faq:
+"  - q: \"¿Recibiré una unidad de buena calidad?\""
+    a: "No es posible garantizar la calidad de una unidad, ya que puede variar incluso entre unidades del mismo vendedor. Sin embargo, los vendedores de confianza generalmente son conocidos por ofrecer productos de buena calidad."
+  - q: "¿Cómo contacto a los vendedores?"
+    a: "Únete al Discord de AirReps en https://airreps.link/discord para obtener los números de WhatsApp de los vendedores. Alternativamente, usa AliExpress para enviarles un mensaje haciendo clic en Contact Supplier."
+  - q: "¿Cuál es el mejor vendedor?"
+    a: "El mejor vendedor varía según tus necesidades. Los vendedores típicamente ofrecen productos similares — por ejemplo, un Pro 2 V5.2 TB de Jenny es idéntico al de HiCity. Las diferencias surgen en el soporte, tiempos de envío y las plataformas de compra."
+  - q: "Mi información de seguimiento está en chino. ¿Qué debo hacer?"
+    a: "Copia el número de seguimiento y pégalo en 17Track (https://www.17track.net/) para ver las actualizaciones en inglés. Alternativamente, pega las actualizaciones de seguimiento en Google Translate."
+  - q: "Mi tarjeta no funciona. ¿Qué debo hacer?"
+    a: "Contacta al vendedor para preguntar por métodos de pago alternativos. Algunos métodos como Wise no ofrecen protección al comprador. También puedes probar con otra tarjeta o comprar a otro vendedor."
+  - q: "¿Por qué soy redirigido a un sitio web de crypto al pagar con Tarjeta de Crédito?"
+    a: "Los vendedores de confianza usan una pasarela de pago crypto segura para procesar pagos con Tarjeta de Crédito. Tu tarjeta compra crypto, lo que completa el pedido. Si quieres evitar KYC, usa KakoBuy, un agente que acepta tarjetas de crédito regulares sin verificaciones de identidad."
 ---
 
 # Enlaces

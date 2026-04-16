@@ -1,5 +1,12 @@
 ---
-description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
+description: AirPods replikalarını güvenli şekilde sipariş et. Ödeme yöntemleri, güvenilir satıcılar, gönderim ipuçları ve dolandırıcılıktan kaçınma.
+faq:
+"  - q: \"Güvenilir satıcılar hangi ödeme yöntemlerini kabul eder?\""
+    a: "Güvenilir satıcılar Kredi Kartı, AliPay, Revolut, Wise, Banka Havalesi ve Bitcoin gibi birden fazla ödeme yöntemini kabul eder. Tüm satıcıların KakoBuy gibi aracılar aracılığıyla erişilebilen Weidian mağazaları vardır. PayPal şu anda desteklenmemektedir."
+  - q: "Kredi Kartı ile ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?"
+    a: "Güvenilir satıcılar Kredi Kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız kripto satın almak için kullanılır ve bu kripto siparişi tamamlamak için kullanılır. KYC'den kaçınmak için, kimlik kontrolü yapmadan normal kredi kartlarını kabul eden bir aracı olan KakoBuy'ı kullanın."
+  - q: "Alibaba bağlantıları ve paketleme hakkında not"
+    a: "Apple, AliExpress ve Alibaba'daki replika bağlantılarına karşı sert tedbirler uygular. Alibaba üzerinden verilen siparişler her zaman nötr paketleme ile gelir (Apple logolu kutu yok). Satıcıların doğrudan web siteleri ve Weidian mağazaları daha fazla paketleme seçeneği sunar."
 ---
 
 # Sipariş
@@ -43,7 +50,7 @@ Aşağıdaki adımları öneriyoruz:
 
 1. **Vergiler**: Avrupalı alıcılar için KDV/Vergileri önceden halleden yalnızca güvenilir satıcıları öneriyoruz, böylece paket AB'ye ulaştığında KDV ödemen gerekmez.
 
-2. **Ürün Kutusu**: Apple logolu bir kutu için "with Apple box" yerine "no logo box" istemekten kaçın. Ancak Apple logolu kutu istemek, paketin gümrükte el konulması ve geri ödeme alamama riskini artırır. Bu seçeneği önermiyoruz, çünkü içindeki AirPods kutudan bağımsız olarak aynıdır. Riski almak istiyorsan Apple logolu bir kutu talep edebilirsin. Kutu türleri hakkında daha fazla bilgi için [paketleme rehberimize](/tr/introduction/packaging) bak.
+2. **Ürün Kutusu**: Apple logolu bir kutu istiyorsan "no logo box" yerine "with Apple box" talep et. Ancak, Apple logolu kutu istemek paketin gümrükte el konulması ve geri ödeme alamama riskini artırır. Bu seçeneği önermiyoruz, çünkü içindeki AirPods kutudan bağımsız olarak aynıdır. Riski almak istiyorsan Apple logolu bir kutu talep edebilirsin. Kutu türleri hakkında daha fazla bilgi için [paketleme rehberimize](/tr/introduction/packaging) bak.
 
 ::: warning
 Bu bilgiler HiCity veya Jenny AirReps web sitesi dışındaki satıcılardan sipariş verirken geçerlidir. Bu web sitelerinden sipariş verirsen gümrük beyanları veya kutu türü konusunda endişelenmene gerek yoktur çünkü bunlar otomatik olarak yönetilecektir.
@@ -68,7 +75,7 @@ Güvenilir satıcılar Kredi Kartı ödemelerini işlemek için güvenli bir kri
 
 **Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik kontrolü (KYC) isteyebilir, ancak bu her zaman gerekli değildir.**
 
-**Alternatif:** Herhangi bir KYC doğrulaması olasılığından kaçınmak istiyorsan, satıcılardan senin adına ürün satın alan ve kargo öncesi kalite kontrol (QC) fotoğrafları sağlayan bir aracı platform olan [KakoBuy](https://airreps.link/kakobuy) kullanmayı düşün. KakoBuy, kredi ve banka kartlarını kabul eden normal ödeme işlemcileri kullanır ve **asla KYC doğrulaması** veya kimlik kontrolü gerektirmez. Bu, QC fotoğraflarının ek güvencesini de alırken kartını herhangi bir KYC gereksinimi olmadan kullanmayı tercih ediyorsan mükemmel bir seçenektir.
+**Alternatif:** Herhangi bir KYC doğrulaması olasılığından kaçınmak istiyorsan, satıcılardan senin adına ürün satın alan ve kargo öncesi kalite kontrol (QC) fotoğrafları sağlayan bir aracı platform olan [KakoBuy](https://airreps.link/kakobuy) kullanmayı düşün. KakoBuy, kredi ve banka kartlarını kabul eden normal ödeme işlemcileri kullanır ve **asla KYC doğrulaması** veya kimlik kontrolü gerektirmez. Bu, QC fotoğraflarının ek güvencesini de alırken kartını herhangi bir KYC gereksinimi olmadan kullanmayı tercih ediyorsan mükemmel bir seçenektir. See our [KakoBuy ordering guide](/tr/ordering/kakobuy) for details.
 :::
 
 ::: details Alibaba linkleri ve paketleme hakkında not
