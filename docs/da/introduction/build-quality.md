@@ -1,5 +1,10 @@
 ---
-description: "Build quality deep dive: Weight, hinge, text accuracy, magnets, and LED diffusers."
+description: "Detaljeret gennemgang af byggekvalitet: Vægt, hængsel, tekstnøjagtighed, magneter og LED-diffusere."
+faq:
+"  - q: \"Kan falske AirPods oplades i et rigtigt etui eller omvendt?\""
+    a: "Nej, falske AirPods bør ikke oplades i et rigtigt etui. At gøre det kan få de falske AirPods til at gå i stykker. Det anbefales heller ikke at oplade rigtige AirPods i et falsk etui."
+  - q: "Passer AirPods-etuier på kloner?"
+    a: "Alle bløde silikone-beskyttelsesetuier vil passe, men hårde plasticetuier passer muligvis ikke til de fleste kloner (primært ældre modeller, da de er en smule større end originalerne). Nogle hårde etuier kan passe, men kan muligvis ikke komme af eller påvirke knappen."
 ---
 
 # Byggekvalitet
@@ -49,5 +54,5 @@ Nej, falske AirPods bør ikke oplades i et rigtigt etui. At gøre det kan forår
 :::
 
 ::: details Passer AirPods-etuier på kloner?
-Alle bløde silikone beskyttelsesetuier vil passe, men hårde plasticetuier passer muligvis ikke til de fleste kloner (hovedsageligt ældre modeller, da de er lidt større end originalerne). Nogle hårde etuier kan passe, men kan muligvis ikke komme af eller påvirke knappen, hvis den stikker lidt ud.
+Alle bløde silikone beskyttelsesetuier vil passe, men hårde plasticetuier passer muligvis ikke til de fleste kloner (hovedsageligt ældre modeller, da de er lidt større end originalerne). Nogle hårde etuier kan passe, men kan muligvis ikke komme af eller påvirke knappen, hvis den stikker ud lidt.
 :::

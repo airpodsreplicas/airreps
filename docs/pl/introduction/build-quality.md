@@ -1,46 +1,50 @@
 ---
-description: "Jakość wykonania: waga, zawiasy, napisy, magnesy i dyfuzor LED."
-translationStatus: machine-translated
+description: "Build quality deep dive: Weight, hinge, text accuracy, magnets, and LED diffusers."
+faq:
+"  - q: \"Can fake AirPods be charged in a real case or vice versa?\""
+    a: "No, fake AirPods should not be charged in a real case. Doing so may cause the fake AirPods to break. It is also not recommended to charge real AirPods in a fake case."
+  - q: "Will AirPods cases fit on clones?"
+    a: "All soft silicone protective cases will fit, but hard plastic cases may not fit most clones (mostly older models as they are slightly bigger than the originals). Some hard cases may fit, but may not come off or affect the button."
 ---
 
 # Jakość Wykonania
 
-Zrozumienie jakości wykonania klonów AirPods może pomóc w ocenie ich ogólnej trwałości i autentyczności.
+Zrozumienie jakości wykonania replik AirPods pomoże ocenić ich ogólną trwałość i autentyczność.
 
 ## Waga
 
-Etui i wkładki mają generalnie dobrą wagę. Większość modeli odpowiada dokładnej wadze oryginalnych AirPods.
+Etui i słuchawki mają zazwyczaj odpowiednią wagę. Większość modeli odpowiada rzeczywistej wadze oryginalnych AirPods.
 
 ## Zawias
 
-Niektóre modele używają plastikowego zawiasu z metaliczną farbą, podczas gdy inne wykorzystują prawdziwy metalowy zawias. Niektóre plastikowe zawiasy mogą wydawać się tanie, skrzypieć, ruszać się i brakować im solidności. Choć są użyteczne, są zauważalne w porównaniu z oryginalnymi AirPods. Metalowe zawiasy są znacznie lepsze.
-Ważne jest, aby wiedzieć, że wszystkie klony sprzedawane w AirReps mają metalowe zawiasy. Niektóre jednostki (takie jak Huilian i HR<b>+</b>) używają niemal doskonałej kopii zawiasu Apple. Jednak na obecną chwilę HR+ ma pewne problemy z wyrównaniem, więc różnica w cenie może nie być uzasadniona. Zobacz [porównanie wersji AirPods Pro 2](/pl/version-info/airpods-pro-2), aby poznać szczegółowe różnice między wersjami TB, HR i Huilian.
+Niektóre modele stosują plastikowy zawias z metalicznym lakierem, inne mają prawdziwy metalowy zawias. Plastikowe zawiasy mogą sprawiać wrażenie tandetnych, skrzypieć, luźno chodzić i brakować solidności. Choć działają, są wyraźnie odczuwalne w porównaniu z oryginalnymi AirPods. Metalowe zawiasy są znacznie lepsze.
+Ważne jest, aby wiedzieć, że wszystkie repliki sprzedawane w AirReps mają metalowe zawiasy. Niektóre jednostki (takie jak Huilian i HR<b>+</b>) używają niemal idealnej kopii zawiasu Apple. Obecnie HR+ ma pewne problemy z wyrównaniem, więc różnica w cenie może nie być uzasadniona. Zobacz [porównanie wersji AirPods Pro 2](/pl/version-info/airpods-pro-2) dla szczegółowych różnic między wersjami TB, HR i Huilian.
 
 ## Tekst
 
-Tekst "Designed by Apple" na odwrocie używa czcionki podobnej do oryginału. Tekst wewnątrz etui i wkładek jest podobny, ale nie odpowiada dokładnie oryginalnym AirPods. Niektóre partie mają prawdziwe numery seryjne, podczas gdy inne nie. Wyrównanie tekstu i kolor mogą się różnić, czasami nie jest całkowicie prosty lub może być jaśniejszy lub ciemniejszy odcień szarości w porównaniu z oryginałami. Jakość tekstu "Designed by Apple" różni się w zależności od sprzedawcy, przy czym grawerowanie laserowe Hicity jest mniej dokładne niż Earhive i Jenny. Więcej o rozpoznawaniu tych różnic znajdziesz w naszym [przewodniku QC i LC](/pl/ordering/qc-lc).
+Napis "Designed by Apple" na tylnej części etui używa czcionki podobnej do oryginału. Teksty wewnątrz etui i na słuchawkach wyglądają podobnie, ale nie są identyczne z oryginalnymi AirPods. Niektóre partie mają prawdziwe numery seryjne, inne nie. Wyrównanie i kolor tekstu mogą się różnić — czasami nie są idealnie proste lub mają jaśniejszy bądź ciemniejszy odcień szarości w porównaniu z oryginałami. Jakość napisu "Designed by Apple" różni się w zależności od sprzedawcy; grawerowanie laserowe Hicity jest mniej dokładne niż u Earhive i Jenny. Więcej o rozpoznawaniu tych różnic znajdziesz w naszym [przewodniku QC i LC](/pl/ordering/qc-lc).
 :::tip
-Możesz poprosić o niestandardowe grawerowanie laserowe, wysyłając preferowanemu sprzedawcy wiadomość WhatsApp z tekstem, który chcesz wygrawerować, wraz z numerem zamówienia. Dla bardziej specjalistycznych próśb, takich jak logo lub szczegółowe projekty, możesz wysłać swoje ulubione dzieło sztuki w formacie .svg lub .png do Jenny lub Earhive. Zwykły tekst i emotikony nie wymagają tych formatów plików.
+Możesz poprosić o niestandardowe grawerowanie laserowe, wysyłając preferowanemu sprzedawcy wiadomość WhatsApp z tekstem, który chcesz wygrawerować, wraz z numerem zamówienia. W przypadku bardziej zaawansowanych próśb, takich jak logo lub szczegółowe wzory, możesz wysłać swoje ulubione pliki .svg lub .png do Jenny lub Earhive. Zwykły tekst i emoji nie wymagają tych formatów.
 :::
 
 ## Tylny Przycisk
 
-Tylny przycisk jest równy z etui, ale na niektórych modelach klikanie jest głośniejsze niż oryginał i nie jest tak gładkie. Niektóre partie mają bardziej wystający przycisk.
+Tylny przycisk jest zlicowany z etui, ale w niektórych modelach klika głośniej niż w oryginale i nie jest tak płynny. Niektóre partie mają bardziej wystający przycisk.
 
 ## Pokrywa i Magnesy
 
-Wszystkie najnowsze modele mają odwrócone magnesy, zapewniając, że pokrywa pozostaje otwarta, gdy potrzeba.
+Wszystkie najnowsze modele mają odwrotne magnesy, co sprawia, że pokrywa pozostaje otwarta, gdy to potrzebne.
 
 ## Dyfuzor LED
 
-Nowsze modele zawierają dyfuzor LED do stłumienia diody LED.
+Nowsze modele mają dyfuzor LED, który przyciemnia diodę LED.
 
-## Wkładki do Uszu (Klony AirPods Pro)
+## Wkładki do Uszu (Repliki AirPods Pro)
 
-Dla klonów AirPods Pro, unikaj zdejmowania wkładek na siłę, ponieważ może to uszkodzić słuchawki. Aby zdjąć wkładki, przekręć i pociągnij. Podczas obsługi słuchawek, trzymaj je za wkładkę, nie za trzpień, aby zapobiec uszkodzeniu. Możesz użyć komendy /eartip na serwerze Discord, aby dowiedzieć się więcej.
+W przypadku replik AirPods Pro, nie zdejmuj wkładek na siłę, ponieważ może to uszkodzić słuchawki. Aby zdjąć wkładki, przekręć je i pociągnij. Trzymając słuchawki, trzymaj je za końcówkę, a nie za trzpień, aby uniknąć uszkodzeń. Możesz użyć komendy /eartip na serwerze Discord, aby dowiedzieć się więcej.
 
-::: warning
-Dla klonów AirPods Pro, obchodź się ze słuchawkami ostrożnie, aby uniknąć uszkodzenia. Nie zdejmuj wkładek na siłę.
+:::warning
+W przypadku replik AirPods Pro obchodź się ze słuchawkami ostrożnie, aby uniknąć uszkodzeń. Nie zdejmuj wkładek na siłę.
 :::
 
 ## FAQ
@@ -50,5 +54,5 @@ Nie, fałszywe AirPods nie powinny być ładowane w prawdziwym etui. Może to sp
 :::
 
 ::: details Czy etui na AirPods pasują do klonów?
-Wszystkie miękkie silikonowe etui ochronne będą pasować, ale twarde plastikowe etui mogą nie pasować do większości klonów (głównie starszych modeli, ponieważ są nieco większe od oryginałów). Niektóre twarde etui mogą pasować, ale mogą nie dać się zdjąć lub mogą wpływać na przycisk, jeśli jest lekko wystający.
+Wszystkie miękkie silikonowe etui ochronne będą pasować, ale twarde plastikowe etui mogą nie pasować do większości klonów (głównie starszych modeli, ponieważ są nieco większe od oryginałów). Niektóre twarde etui mogą pasować, ale mogą się nie dać zdjąć lub wpływać na przycisk, jeśli lekko wystaje.
 :::

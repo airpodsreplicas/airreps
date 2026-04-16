@@ -1,5 +1,10 @@
 ---
 description: "Yapı kalitesi detaylı inceleme: Ağırlık, menteşe, yazı doğruluğu, mıknatıslar ve LED difüzörleri."
+faq:
+"  - q: \"Sahte AirPods gerçek bir kasada veya tersi şekilde şarj edilebilir mi?\""
+    a: "Hayır, sahte AirPods gerçek bir kasada şarj edilmemelidir. Bunu yapmak sahte AirPods'un bozulmasına neden olabilir. Gerçek AirPods'u sahte bir kasada şarj etmek de önerilmez."
+  - q: "AirPods kasaları klonlara uyar mı?"
+    a: "Tüm yumuşak silikon koruyucu kasalar uyacaktır, ancak sert plastik kasalar çoğu klona uymayabilir (çoğunlukla orijinallerden biraz daha büyük olan eski modeller). Bazı sert kasalar uyabilir, ancak çıkmayabilir veya hafif çıkıntılı düğmeyi etkileyebilir."
 ---
 
 # Yapı Kalitesi

@@ -1,5 +1,18 @@
 ---
 description: Verzeichnis verifizierter Verkäufer und direkte Kauflinks für alle AirPods-Replica-Modelle.
+faq:
+"  - q: \"Bekomme ich ein Exemplar in guter Qualität?\""
+    a: "Es ist nicht möglich, die Qualität eines Exemplars zu garantieren, da sie selbst bei Exemplaren desselben Verkäufers variieren kann. Allerdings sind vertrauenswürdige Verkäufer allgemein dafür bekannt, qualitativ hochwertige Produkte anzubieten."
+  - q: "Wie kontaktiere ich Verkäufer?"
+    a: "Tritt dem AirReps Discord unter https://airreps.link/discord bei, um die WhatsApp-Nummern der Verkäufer zu erhalten. Alternativ kannst du über AliExpress eine Nachricht senden, indem du auf Contact Supplier klickst."
+  - q: "Welcher ist der beste Verkäufer?"
+    a: "Der beste Verkäufer variiert je nach deinen Bedürfnissen. Verkäufer bieten typischerweise ähnliche Produkte an — zum Beispiel ist eine Pro 2 V5.2 TB von Jenny identisch mit einer von HiCity. Unterschiede ergeben sich bei Support, Lieferzeiten und den Plattformen, über die der Kauf abgewickelt wird."
+  - q: "Meine Sendungsverfolgung ist auf Chinesisch. Was soll ich tun?"
+    a: "Kopiere die Sendungsnummer und füge sie auf 17Track (https://www.17track.net/) ein, um Updates auf Englisch zu sehen. Alternativ kannst du Verfolgungsupdates in Google Translate einfügen."
+  - q: "Meine Karte funktioniert nicht. Was soll ich tun?"
+    a: "Kontaktiere den Verkäufer und frage nach alternativen Zahlungsmethoden. Einige Methoden wie Wise bieten keinen Käuferschutz. Du kannst auch eine andere Karte versuchen oder bei einem anderen Verkäufer kaufen."
+  - q: "Warum werde ich bei der Zahlung mit Kreditkarte auf eine Krypto-Website weitergeleitet?"
+    a: "Vertrauenswürdige Verkäufer nutzen ein sicheres Krypto-Zahlungsgateway zur Verarbeitung von Kreditkartenzahlungen. Deine Karte wird verwendet, um Krypto zu kaufen, womit die Bestellung abgeschlossen wird. Wenn du KYC vermeiden möchtest, nutze KakoBuy, einen Agenten, der normale Kreditkarten ohne Identitätsprüfungen akzeptiert."
 ---
 
 # Links

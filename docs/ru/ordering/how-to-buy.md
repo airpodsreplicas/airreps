@@ -1,5 +1,12 @@
 ---
 description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
+faq:
+"  - q: \"What payment methods do trusted sellers accept?\""
+    a: "Trusted sellers accept Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is currently not supported."
+  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
+    a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. To avoid KYC, use KakoBuy — an agent that accepts regular credit cards without identity checks."
+  - q: "Note on Alibaba links and packaging"
+    a: "Apple cracks down on replica links on AliExpress and Alibaba. Orders through Alibaba always come with neutral packaging (no Apple logo box). Sellers' direct websites and Weidian stores offer more packaging options."
 ---
 
 # Заказ
@@ -10,11 +17,11 @@ description: Securely order AirPods replicas. Payment methods, trusted sellers, 
 
 ## Как купить
 
-Мы рекомендуем всегда покупать у [trusted sellers](/ru/links/info). У большинства продавцов есть собственные веб-сайты, которые принимают различные способы оплаты, включая [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin и банковский перевод. Все продавцы также имеют витрины на Weidian, доступные через агентов, таких как [KakoBuy](https://airreps.link/kakobuy) — см. наше [руководство KakoBuy](/ru/ordering/kakobuy) для полного пошагового обзора.
+Мы рекомендуем всегда покупать у [проверенных продавцов](/ru/links/info). У большинства продавцов есть собственные веб-сайты, которые принимают различные способы оплаты, включая [кредитные карты](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin и банковский перевод. Все продавцы также имеют витрины на Weidian, доступные через агентов, таких как [KakoBuy](https://airreps.link/kakobuy) — см. наше [руководство KakoBuy](/ru/ordering/kakobuy) для полного пошагового обзора.
 
 Сообщество AirReps рекомендует нескольких продавцов, чтобы избежать монополии и поощрять конкуренцию, что выгодно пользователям. Каждый продавец предлагает уникальные услуги, контроль качества (QC), платформы и цены.
 
-Заказ прост: выберите нужный продукт и оформите покупку. Не уверены, какую модель выбрать? Пройдите наш [быстрый тест](/ru/quiz) или сравните версии в разделе [version info](/ru/version-info/general).
+Заказ прост: выберите нужный продукт и оформите покупку. Не уверены, какую модель выбрать? Пройдите наш [быстрый тест](/ru/quiz) или сравните версии в разделе [информация о версиях](/ru/version-info/general).
 
 ::: tip
 Платежи через Wise или банковский перевод требуют ручной проверки продавцом, что может занять до 24 часов, прежде чем ваш заказ будет обработан.
@@ -63,7 +70,7 @@ description: Securely order AirPods replicas. Payment methods, trusted sellers, 
 Проверенные продавцы принимают несколько способов оплаты, включая кредитные карты, AliPay, Revolut, Wise, банковский перевод и Bitcoin. У всех продавцов есть витрины на Weidian, доступные через агентов, таких как [KakoBuy](https://airreps.link/kakobuy) — посмотрите наше [пошаговое руководство KakoBuy](/ru/ordering/kakobuy). Обратите внимание, что PayPal в настоящее время не поддерживается ни одним продавцом. Варианты оплаты могут различаться у разных продавцов — см. [таблицу способов оплаты](/ru/links/info#payment-methods) для подробного разбора.
 :::
 <span id="credit-card-note"></span>
-::: details Почему я перенаправляюсь на крипто-сайт при оплате кредитной картой?
+::: details Почему я перенаправляюсь на крипто‑сайт при оплате кредитной картой?
 Проверенные продавцы используют безопасный крипто‑платёжный шлюз для обработки платежей картами. Ваша карта используется для покупки криптовалюты, которая затем применяется для безопасного и эффективного завершения заказа.
 
 **Примечание: Некоторые платёжные провайдеры могут время от времени запрашивать проверку личности (KYC) в соответствии с местными правилами, хотя это не всегда требуется.**

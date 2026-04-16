@@ -1,5 +1,12 @@
 ---
 description: Ordena réplicas de AirPods de forma segura. Métodos de pago, vendedores de confianza, consejos de envío y cómo evitar estafas.
+faq:
+"  - q: \"¿Qué métodos de pago aceptan los vendedores de confianza?\""
+    a: "Los vendedores de confianza aceptan Tarjetas de Crédito, AliPay, Revolut, Wise, Transferencia Bancaria y Bitcoin. Todos los vendedores tienen tiendas en Weidian accesibles a través de agentes como KakoBuy. PayPal no está soportado actualmente."
+  - q: "¿Por qué soy redirigido a un sitio web de criptomonedas al pagar con Tarjeta de Crédito?"
+    a: "Los vendedores de confianza usan una pasarela de pago de criptomonedas segura para procesar pagos con Tarjeta de Crédito. Tu tarjeta compra criptomonedas, que completan el pedido. Para evitar KYC, usa KakoBuy — un agente que acepta tarjetas de crédito normales sin verificaciones de identidad."
+  - q: "Nota sobre los enlaces de Alibaba y el embalaje"
+    a: "Apple reprime los enlaces de réplicas en AliExpress y Alibaba. Los pedidos a través de Alibaba siempre vienen con embalaje neutral (sin caja con el logotipo de Apple). Los sitios web directos de los vendedores y las tiendas Weidian ofrecen más opciones de embalaje."
 ---
 
 # Pedidos
@@ -63,7 +70,7 @@ Hazle saber a los vendedores que eres de la comunidad de AirReps. Esto asegurar�
 Los vendedores de confianza aceptan múltiples métodos de pago incluyendo Tarjetas de Crédito, AliPay, Revolut, Wise, Transferencia Bancaria y Bitcoin. Todos los vendedores tienen tiendas en Weidian accesibles a través de agentes como [KakoBuy](https://airreps.link/kakobuy) — consulta nuestra [guía paso a paso de KakoBuy](/es/ordering/kakobuy). Ten en cuenta que PayPal actualmente no es soportado por ningún vendedor. Las opciones de pago pueden variar según el vendedor—consulta la [tabla de métodos de pago](/es/links/info#payment-methods) para un desglose detallado.
 :::
 <span id="credit-card-note"></span>
-::: details ¿Por qué soy redirigido a un sitio web de crypto al pagar con Tarjeta de Crédito?
+::: details ¿Por qué soy redirigido a un sitio web de criptomonedas al pagar con Tarjeta de Crédito?
 Los vendedores de confianza usan una pasarela de pago crypto segura para procesar pagos con Tarjeta de Crédito. Tu tarjeta se usa para comprar crypto, que luego se emplea para completar tu pedido de forma segura y eficiente.
 
 **Nota: Algunos procesadores de pago pueden ocasionalmente solicitar una verificación de ID (KYC) para cumplir con regulaciones locales, aunque esto no siempre es requerido.**

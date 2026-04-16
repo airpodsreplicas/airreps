@@ -1,5 +1,10 @@
 ---
-description: "Calidad de construcción de réplicas: Peso, bisagra, textos, imanes y manejo de AirPods Pro."
+description: "Análisis profundo de la calidad de construcción: peso, bisagra, precisión del texto, imanes y difusores LED."
+faq:
+"  - q: \"Can fake AirPods be charged in a real case or vice versa?\""
+    a: "No, los AirPods falsos no deben cargarse en un estuche real. Hacerlo puede causar que los AirPods falsos se rompan. Tampoco se recomienda cargar AirPods reales en un estuche falso."
+  - q: "Will AirPods cases fit on clones?"
+    a: "Todos los estuches protectores de silicona suave encajarán, pero los estuches de plástico duro pueden no encajar en la mayoría de los clones (principalmente modelos más antiguos, ya que son ligeramente más grandes que los originales). Algunos estuches duros pueden encajar, pero pueden no salir o afectar el botón."
 ---
 
 # Calidad de Construcción
