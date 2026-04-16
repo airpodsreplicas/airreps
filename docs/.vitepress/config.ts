@@ -919,6 +919,29 @@ export default defineConfig({
             ['meta', { property: 'twitter:image:alt', content: pageTitle }],
             // JSON-LD
             ['script', { type: 'application/ld+json' }, JSON.stringify(schema)],
+            // FAQ JSON-LD (when page declares faq items in frontmatter)
+            ...(frontmatter.faq?.length
+                ? [
+                      [
+                          'script',
+                          { type: 'application/ld+json' },
+                          JSON.stringify({
+                              '@context': 'https://schema.org',
+                              '@type': 'FAQPage',
+                              mainEntity: frontmatter.faq.map(
+                                  (item: { q: string; a: string }) => ({
+                                      '@type': 'Question',
+                                      name: item.q,
+                                      acceptedAnswer: {
+                                          '@type': 'Answer',
+                                          text: item.a,
+                                      },
+                                  })
+                              ),
+                          }),
+                      ],
+                  ]
+                : []),
         ];
     },
 
@@ -1105,7 +1128,7 @@ export default defineConfig({
     },
 
     themeConfig: {
-        logo: '/logo.webp',
+        logo: { src: '/logo.webp', alt: 'AirReps' },
 
         outline: [2, 3],
 

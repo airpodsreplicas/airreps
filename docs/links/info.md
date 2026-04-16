@@ -1,5 +1,18 @@
 ---
 description: Directory of verified sellers and direct purchase links for all AirPods replica models.
+faq:
+  - q: "Will I get a good quality unit?"
+    a: "It is not possible to guarantee the quality of a unit, as it can vary even among units from the same seller. However, trusted sellers are generally known for offering good quality products."
+  - q: "How do I contact sellers?"
+    a: "Join the AirReps Discord at https://airreps.link/discord to obtain seller WhatsApp numbers. Alternatively, use AliExpress to message them by clicking Contact Supplier."
+  - q: "Which is the best vendor?"
+    a: "The best vendor varies based on your needs. Vendors typically offer similar products — for example, a Pro 2 V5.2 TB from Jenny is identical to one from HiCity. Differences arise in support, shipping times, and purchasing platforms."
+  - q: "My tracking information is in Chinese. What should I do?"
+    a: "Copy the tracking number and paste it into 17Track (https://www.17track.net/) to see updates in English. Alternatively, paste tracking updates into Google Translate."
+  - q: "My card is not working. What should I do?"
+    a: "Contact the seller to ask about alternative payment methods. Some methods like Wise do not offer buyer protection. You can also try a different card or purchase from a different seller."
+  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
+    a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. If you want to avoid KYC, use KakoBuy, an agent that accepts regular credit cards without identity checks."
 ---
 
 # Links
