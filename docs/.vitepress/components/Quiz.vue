@@ -987,6 +987,11 @@ const productLinks: Record<string, { earhive: string; jenny: string; hicity: str
         jenny: 'https://airreps.link/jprov53hrp',
         hicity: 'https://airreps.link/hcprov53hrp',
     },
+    'pro3-v7-huilian': {
+        earhive: 'https://airreps.link/eprov7hl',
+        jenny: 'https://airreps.link/jprov7hl',
+        hicity: 'https://airreps.link/hcprov7hl',
+    },
     'pro3-v6-tb': {
         earhive: 'https://airreps.link/eprov6tb',
         jenny: 'https://airreps.link/jprov6tb',
@@ -1036,6 +1041,7 @@ const prices: Record<string, number> = {
     'pro2-v5.3-huilian': 56,
     'pro2-v5.3-hr': 50,
     'pro2-v5.3-hrplus': 58,
+    'pro3-v7-huilian': 67,
     'pro3-v6-tb': 37,
     'pro3-v6-huilian': 43,
     'pro3-v5.5': 27,
@@ -1414,28 +1420,23 @@ const product = computed<ProductRec | null>(() => {
 
     // --- In-ear logic ---
 
-    // In-ear: latest -> Pro 3 V6
+    // In-ear: latest -> Pro 3 V7 Huilian (the flagship, only released in Huilian form)
     if (priority === 'latest') {
-        const variant = needsMac.value ? 'Huilian' : 'TB';
-        const key = needsMac.value ? 'pro3-v6-huilian' : 'pro3-v6-tb';
         return {
-            title: `AirPods Pro 3 V6 ${variant}`,
-            subtitle: needsMac.value
-                ? 'Huilian 247 — Newest design with iCloud Connect & Live Translation'
-                : 'Airoha 1563E — Newest AirPods Pro design',
-            priceKey: key,
+            title: 'AirPods Pro 3 V7 Huilian',
+            subtitle: 'Huilian 377H3 — Flagship Pro 3 with heart rate sensor & head gestures',
+            priceKey: 'pro3-v7-huilian',
             reasons: [
-                'Newest AirPods Pro 3 form factor — the latest design from Apple replicated',
-                'Good ANC, spatial audio, iOS 26 support',
-                needsMac.value
-                    ? 'Huilian variant includes iCloud Connect and Live Translation'
-                    : 'TB variant for solid ANC performance',
-                `Starting at just $${prices[key]}`,
+                'Newest AirPods Pro 3 form factor — Gen 6 shell, sealed build, 1:1 hinge',
+                'Upgraded AI Hybrid ANC, real spatial audio with head tracking',
+                'Heart rate sensor, head gesture controls, low-latency gaming mode',
+                'iCloud Connect, Live Translation, iOS 26 support',
+                `Flagship experience at $${prices['pro3-v7-huilian']}`,
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
-                { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
                 { text: 'Features Overview', url: '/introduction/features' },
+                { text: 'ANC Explained', url: '/introduction/anc-explained' },
                 { text: 'Battery Life', url: '/introduction/battery-life' },
             ],
         };
