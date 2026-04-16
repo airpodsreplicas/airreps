@@ -30,3 +30,11 @@
 
 # Package lock files
 package-lock.json
+
+# ========================
+# Claude Code / Skills
+# ========================
+/.agents/
+/.claude/
+CLAUDE.md
+For Claude/
