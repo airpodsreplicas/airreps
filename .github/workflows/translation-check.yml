@@ -138,7 +138,7 @@ jobs:
           git checkout -B "$BRANCH"
           git add docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr
           git commit -m "chore: sync translated docs"
-          git push origin "$BRANCH" --force-with-lease --force
+          git push origin "$BRANCH" --force-with-lease
 
           # Reuse existing open PR or create a new one
           PR=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number' 2>/dev/null || true)

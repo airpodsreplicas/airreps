@@ -49,4 +49,4 @@ This section was once more detailed, but as replicas have become more sophistica
 | **Russia and CIS** | Russia, CIS countries  | EAC (Eurasian Conformity)                                   |
 
 
-For additional help, join the [AirReps Discord](https://airreps.info/discord) to get advice and support from the AirReps community.
+For additional help, join the [AirReps Discord](https://airreps.link/discord) to get advice and support from the AirReps community.

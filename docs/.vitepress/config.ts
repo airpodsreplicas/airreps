@@ -888,7 +888,7 @@ export default defineConfig({
                 'meta',
                 {
                     property: 'og:type',
-                    content: basePath === '' || basePath === 'index' ? 'website' : 'article',
+                    content: basePath === '' ? 'website' : 'article',
                 },
             ],
             ['meta', { property: 'og:url', content: pageUrl }],

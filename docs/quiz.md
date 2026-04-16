@@ -11,5 +11,5 @@ Not sure where to start? Answer a few quick questions and we'll recommend the be
 <Quiz />
 
 ::: tip Still unsure?
-Check out the [Ultimate Guide](/introduction/overview) for a full breakdown of every version, or join our [Discord](https://discord.gg/airreps) to ask the community.
+Check out the [Ultimate Guide](/introduction/overview) for a full breakdown of every version, or join our [Discord](https://airreps.link/discord) to ask the community.
 :::
