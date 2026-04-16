@@ -5,48 +5,60 @@ import { computed, onMounted, ref } from 'vue';
 const { lang } = useData();
 
 const titles: Record<string, string> = {
-  'en-US': 'Built by the community',
-  'es-ES': 'Creado por la comunidad',
-  'pt-BR': 'Feito pela comunidade',
-  'da-DK': 'Bygget af fællesskabet',
-  'fr-FR': 'Créé par la communauté',
-  'pl-PL': 'Stworzone przez społeczność',
-  'ru-RU': 'Создано сообществом',
-  'de-DE': 'Von der Community erstellt',
-  'tr-TR': 'Topluluk tarafından oluşturuldu',
+    'en-US': 'Built by the community',
+    'es-ES': 'Creado por la comunidad',
+    'pt-BR': 'Feito pela comunidade',
+    'da-DK': 'Bygget af fællesskabet',
+    'fr-FR': 'Créé par la communauté',
+    'pl-PL': 'Stworzone przez społeczność',
+    'ru-RU': 'Создано сообществом',
+    'de-DE': 'Von der Community erstellt',
+    'tr-TR': 'Topluluk tarafından oluşturuldu',
 };
 
 const subtitles: Record<string, string> = {
-  'en-US': 'This guide is maintained by volunteers who are passionate about helping others make informed decisions.',
-  'es-ES': 'Esta guía es mantenida por voluntarios apasionados por ayudar a otros a tomar decisiones informadas.',
-  'pt-BR': 'Este guia é mantido por voluntários apaixonados por ajudar outros a tomar decisões informadas.',
-  'da-DK': 'Denne guide vedligeholdes af frivillige, der brænder for at hjælpe andre med at træffe informerede beslutninger.',
-  'fr-FR': 'Ce guide est maintenu par des bénévoles passionnés qui aident les autres à prendre des décisions éclairées.',
-  'pl-PL': 'Ten przewodnik jest utrzymywany przez wolontariuszy, którzy pomagają innym podejmować świadome decyzje.',
-  'ru-RU': 'Это руководство поддерживается волонтёрами, которые помогают другим принимать осознанные решения.',
-  'de-DE': 'Dieser Leitfaden wird von Freiwilligen gepflegt, die anderen helfen möchten, fundierte Entscheidungen zu treffen.',
-  'tr-TR': 'Bu rehber, başkalarının bilinçli kararlar vermesine yardımcı olmak isteyen gönüllüler tarafından sürdürülmektedir.',
+    'en-US':
+        'This guide is maintained by volunteers who are passionate about helping others make informed decisions.',
+    'es-ES':
+        'Esta guía es mantenida por voluntarios apasionados por ayudar a otros a tomar decisiones informadas.',
+    'pt-BR':
+        'Este guia é mantido por voluntários apaixonados por ajudar outros a tomar decisões informadas.',
+    'da-DK':
+        'Denne guide vedligeholdes af frivillige, der brænder for at hjælpe andre med at træffe informerede beslutninger.',
+    'fr-FR':
+        'Ce guide est maintenu par des bénévoles passionnés qui aident les autres à prendre des décisions éclairées.',
+    'pl-PL':
+        'Ten przewodnik jest utrzymywany przez wolontariuszy, którzy pomagają innym podejmować świadome decyzje.',
+    'ru-RU':
+        'Это руководство поддерживается волонтёрами, которые помогают другим принимать осознанные решения.',
+    'de-DE':
+        'Dieser Leitfaden wird von Freiwilligen gepflegt, die anderen helfen möchten, fundierte Entscheidungen zu treffen.',
+    'tr-TR':
+        'Bu rehber, başkalarının bilinçli kararlar vermesine yardımcı olmak isteyen gönüllüler tarafından sürdürülmektedir.',
 };
 
-const title = computed(() => titles[lang.value] || titles['en-US']);
-const subtitle = computed(() => subtitles[lang.value] || subtitles['en-US']);
+const _title = computed(() => titles[lang.value] || titles['en-US']);
+const _subtitle = computed(() => subtitles[lang.value] || subtitles['en-US']);
 
 const contributors = ref<{ name: string; avatar: string }[]>([]);
 
 onMounted(async () => {
-  try {
-    const response = await fetch(
-      'https://api.github.com/repos/AirPodsReplicas/AirReps/contributors'
-    );
-    if (response.ok) {
-      const data = await response.json();
-      contributors.value = data
-        .filter((c: any) => c.login !== 'actions-user')
-        .map((c: any) => ({ name: c.login, avatar: c.avatar_url }));
+    try {
+        const response = await fetch(
+            'https://api.github.com/repos/AirPodsReplicas/AirReps/contributors'
+        );
+        if (response.ok) {
+            const data = await response.json();
+            contributors.value = data
+                .filter((c: { login: string; avatar_url: string }) => c.login !== 'actions-user')
+                .map((c: { login: string; avatar_url: string }) => ({
+                    name: c.login,
+                    avatar: c.avatar_url,
+                }));
+        }
+    } catch {
+        /* silently fail */
     }
-  } catch {
-    /* silently fail */
-  }
 });
 </script>
 

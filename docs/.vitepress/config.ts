@@ -884,7 +884,13 @@ export default defineConfig({
             // Localized Open Graph meta tags
             ['meta', { property: 'og:site_name', content: 'AirReps' }],
             ['meta', { property: 'og:title', content: pageTitle }],
-            ['meta', { property: 'og:type', content: basePath === '' || basePath === 'index' ? 'website' : 'article' }],
+            [
+                'meta',
+                {
+                    property: 'og:type',
+                    content: basePath === '' || basePath === 'index' ? 'website' : 'article',
+                },
+            ],
             ['meta', { property: 'og:url', content: pageUrl }],
             ['meta', { property: 'og:description', content: pageDescription }],
             ['meta', { property: 'og:image', content: ogImageUrl }],
@@ -897,7 +903,7 @@ export default defineConfig({
                 {
                     property: 'og:locale',
                     content:
-                        ({
+                        {
                             en: 'en_US',
                             pt: 'pt_BR',
                             es: 'es_ES',
@@ -907,7 +913,7 @@ export default defineConfig({
                             fr: 'fr_FR',
                             de: 'de_DE',
                             tr: 'tr_TR',
-                        })[currentLocale] || 'en_US',
+                        }[currentLocale] || 'en_US',
                 },
             ],
             // Localized Twitter meta tags
@@ -928,16 +934,14 @@ export default defineConfig({
                           JSON.stringify({
                               '@context': 'https://schema.org',
                               '@type': 'FAQPage',
-                              mainEntity: frontmatter.faq.map(
-                                  (item: { q: string; a: string }) => ({
-                                      '@type': 'Question',
-                                      name: item.q,
-                                      acceptedAnswer: {
-                                          '@type': 'Answer',
-                                          text: item.a,
-                                      },
-                                  })
-                              ),
+                              mainEntity: frontmatter.faq.map((item: { q: string; a: string }) => ({
+                                  '@type': 'Question',
+                                  name: item.q,
+                                  acceptedAnswer: {
+                                      '@type': 'Answer',
+                                      text: item.a,
+                                  },
+                              })),
                           }),
                       ],
                   ]
@@ -1171,7 +1175,10 @@ export default defineConfig({
                         translations: { button: { buttonText: 'Szukaj' } },
                     },
                     ru: { placeholder: 'Поиск', translations: { button: { buttonText: 'Поиск' } } },
-                    de: { placeholder: 'Suchen', translations: { button: { buttonText: 'Suchen' } } },
+                    de: {
+                        placeholder: 'Suchen',
+                        translations: { button: { buttonText: 'Suchen' } },
+                    },
                     tr: { placeholder: 'Ara', translations: { button: { buttonText: 'Ara' } } },
                 },
             },
