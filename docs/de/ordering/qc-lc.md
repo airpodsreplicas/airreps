@@ -14,15 +14,15 @@ Dieser Abschnitt war einst ausführlicher, aber da Replicas immer ausgefeilter g
 
 1. **Scharnierfarbe**: Vergleiche die Farbe des Scharniers am Case mit Referenzbildern. Du kannst dieses Bild für AirPods der ersten und zweiten Generation und dieses Bild für AirPods Pro, Pro 2, Pro 3 und AirPods 4 verwenden.
 
-![Scharnierfarbe - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Scharnierfarbe - AirPods 1 & 2](/de/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Scharnierfarbe - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Scharnierfarbe - AirPods Pro](/de/qc-lc/hinge-color-airpods-pro.jpg)
 
 2. **Knopfausrichtung**: Prüfe, ob der Knopf am Case bündig mit dem Rest des Cases ist. Wenn nicht, könnten deine AirPods Replicas sein. Bei echten AirPods sollte der Knopf bündig mit dem Case sein.
 
 3. **Kabelausrichtung**: Stelle sicher, dass das Kabel eng und vollständig in das Case passt, wie im Bild unten gezeigt. Wenn das Kabel auch nur leicht herausragt, handelt es sich wahrscheinlich um eine Replica.
 
-![Kabelausrichtung](/qc-lc/cable-alignment.webp)
+![Kabelausrichtung](/de/qc-lc/cable-alignment.webp)
 
 4. **Software - Find My Network**: Ein wichtiger Indikator für eine Replica ist das Fehlen von „Find My Network" (Precision Finding). Wenn du die AirPods mit deinem Telefon koppelst und die „Wo ist?"-App öffnest, sollten echte AirPods Precision Finding unterstützen. Wenn die Option fehlt oder nicht richtig funktioniert, ist das ein starkes Zeichen dafür, dass die AirPods nicht echt sind. **Hinweis:** Allen aktuellen Replica-Modellen fehlt die Find My Network-Funktionalität.
 
@@ -49,4 +49,4 @@ Dieser Abschnitt war einst ausführlicher, aber da Replicas immer ausgefeilter g
 | **Russland und GUS** | Russland, GUS-Staaten  | EAC (Eurasian Conformity)                                   |
 
 
-Für zusätzliche Hilfe tritt dem [AirReps Discord](https://airreps.info/discord) bei, um Rat und Unterstützung von der AirReps-Community zu erhalten.
+Für zusätzliche Hilfe tritt dem [AirReps Discord](https://airreps.link/discord) bei, um Rat und Unterstützung von der AirReps-Community zu erhalten.

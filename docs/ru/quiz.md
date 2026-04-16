@@ -1,7 +1,7 @@
 ---
-title: "Which AirPods Replica Should I Get?"
-description: "Take our quick quiz to find the best AirPods replica for your needs, device, and budget."
-ogLabel: "QUIZ"
+title: "Какую реплику AirPods выбрать?"
+description: "Пройдите наш быстрый опрос, чтобы найти лучшую реплику AirPods под ваши потребности, устройство и бюджет."
+ogLabel: "ОПРОС"
 ---
 
 # Какую реплику AirPods выбрать?
@@ -11,5 +11,5 @@ ogLabel: "QUIZ"
 <Quiz />
 
 ::: tip Всё ещё не уверены?
-Посмотрите [Полное Руководство](/ru/introduction/overview) для полного разбора каждой версии, или присоединяйтесь к нашему [Discord](https://discord.gg/airreps), чтобы спросить сообщество.
+Посмотрите [Полное руководство](/ru/introduction/overview) для полного разбора каждой версии, или присоединяйтесь к нашему [Discord](https://airreps.link/discord), чтобы спросить сообщество.
 :::

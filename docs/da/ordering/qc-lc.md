@@ -14,15 +14,15 @@ Denne sektion var engang mere detaljeret, men efterhånden som kopier er blevet 
 
 1. **Hængselfarve**: Sammenlign farven på hængslet på etuiet med referencebilleder. Du kan bruge dette billede til første og anden generation AirPods og dette billede til AirPods Pro, Pro 2, Pro 3 og AirPods 4.
 
-![Hængselfarve - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Hængselfarve - AirPods 1 & 2](/da/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Hængselfarve - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Hængselfarve - AirPods Pro](/da/qc-lc/hinge-color-airpods-pro.jpg)
 
 2. **Knapjustering**: Tjek om knappen på etuiet er i plan med resten af etuiet. Hvis den ikke er, kan dine AirPods være kopier. I ægte AirPods skal knappen være i plan med etuiet.
 
 3. **Kabeljustering**: Sørg for at kablet passer tæt og helt ind i etuiet, som vist på billedet nedenfor. Hvis kablet stikker ud selv en smule, er det sandsynligvis en kopi.
 
-![Kabeljustering](/qc-lc/cable-alignment.webp)
+![Kabeljustering](/da/qc-lc/cable-alignment.webp)
 
 4. **Software - Find My-netværk**: En nøgleindikator for en kopi er fraværet af "Find My-netværk" (Præcisionsfinding). Når du parrer AirPods med din telefon og åbner "Find My"-appen, bør ægte AirPods understøtte præcisionsfinding. Hvis muligheden mangler eller ikke fungerer korrekt, er det et stærkt tegn på, at AirPods ikke er ægte. **Bemærk:** Alle nuværende kopimodeller mangler Find My-netværk-funktionalitet.
 
@@ -49,4 +49,4 @@ Denne sektion var engang mere detaljeret, men efterhånden som kopier er blevet 
 | **Rusland og CIS** | Rusland, CIS-lande     | EAC (Eurasian Conformity)                                   |
 
 
-For yderligere hjælp, tilslut dig [AirReps Discord](https://airreps.info/discord) for at få rådgivning og support fra AirReps-fællesskabet.
+For yderligere hjælp, tilslut dig [AirReps Discord](https://airreps.link/discord) for at få rådgivning og support fra AirReps-fællesskabet.

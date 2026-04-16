@@ -1,5 +1,5 @@
 ---
-description: "Verifica la calidad y autenticidad. Defectos de diseño, funciones de software y diferencias."
+description: Domina QC y LC de AirPods. Detecta fallas de diseño, verifica funciones de software y distingue unidades auténticas de réplicas.
 ---
 
 # QC & LC
@@ -49,4 +49,4 @@ Esta sección era más detallada anteriormente, pero a medida que las réplicas 
 | **Rusia y CEI**    | Rusia, países CEI      | EAC (Eurasian Conformity)                                   |
 
 
-Para ayuda adicional, únete al [Discord de AirReps](https://airreps.info/discord) para obtener consejos y soporte de la comunidad AirReps.
+Para ayuda adicional, únete al [Discord de AirReps](https://airreps.link/discord) para obtener consejos y soporte de la comunidad AirReps.
