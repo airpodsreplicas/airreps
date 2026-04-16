@@ -11,5 +11,5 @@ Nie wiesz od czego zacząć? Odpowiedz na kilka szybkich pytań, a polecimy Ci n
 <Quiz />
 
 ::: tip Nadal nie jesteś pewien?
-Sprawdź [Kompletny Przewodnik](/pl/introduction/overview) po pełną analizę każdej wersji, lub dołącz do naszego [Discord](https://discord.gg/airreps), aby zapytać społeczność.
+Sprawdź [Kompletny Przewodnik](/pl/introduction/overview), aby uzyskać pełne omówienie każdej wersji, lub dołącz do naszego [Discord](https://airreps.link/discord), aby zapytać społeczność.
 :::

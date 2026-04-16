@@ -11,5 +11,5 @@ Nereden başlayacağından emin değil misin? Birkaç hızlı soruyu yanıtla ve
 <Quiz />
 
 ::: tip Hâlâ kararsız mısın?
-Her versiyonun tam bir dökümü için [Kapsamlı Rehber](/tr/introduction/overview)'e göz at veya topluluğa sormak için [Discord](https://discord.gg/airreps)'umuza katıl.
+Her versiyonun tam bir dökümü için [Kapsamlı Rehber](/tr/introduction/overview)'e göz at veya topluluğa sormak için [Discord](https://airreps.link/discord)'umuza katıl.
 :::

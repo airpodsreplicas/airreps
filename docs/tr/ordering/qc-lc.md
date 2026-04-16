@@ -14,15 +14,15 @@ Bu bölüm bir zamanlar daha ayrıntılıydı, ancak replikalar daha sofistike h
 
 1. **Menteşe Rengi**: Kasadaki menteşenin rengini referans fotoğraflarla karşılaştır. Birinci ve ikinci nesil AirPods için bu görseli, AirPods Pro, Pro 2, Pro 3 ve AirPods 4 için ise bu görseli kullanabilirsin.
 
-![Menteşe Rengi - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Menteşe Rengi - AirPods 1 & 2](/tr/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Menteşe Rengi - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Menteşe Rengi - AirPods Pro](/tr/qc-lc/hinge-color-airpods-pro.jpg)
 
 2. **Düğme Hizalaması**: Kasadaki düğmenin kasanın geri kalanıyla aynı hizada olup olmadığını kontrol et. Değilse AirPods'un replika olabilir. Orijinal AirPods'ta düğme kasayla aynı hizada olmalıdır.
 
 3. **Kablo Hizalaması**: Aşağıdaki resimde gösterildiği gibi kablonun kasaya tam ve sıkı bir şekilde oturduğundan emin ol. Kablo hafifçe bile çıkıntı yapıyorsa muhtemelen bir replikadır.
 
-![Kablo Hizalaması](/qc-lc/cable-alignment.webp)
+![Kablo Hizalaması](/tr/qc-lc/cable-alignment.webp)
 
 4. **Yazılım - Find My Ağı**: Bir replikanın önemli bir göstergesi "Find My Ağı"nın (Hassas Bulma) olmamasıdır. AirPods'u telefonunla eşleştirdiğinde ve "Find My" uygulamasına eriştiğinde, orijinal AirPods hassas bulmayı desteklemelidir. Seçenek eksikse veya düzgün çalışmıyorsa AirPods'un orijinal olmadığının güçlü bir işaretidir. **Not:** Tüm mevcut replika modellerde Find My Ağı işlevselliği eksiktir.
 
@@ -49,4 +49,4 @@ Bu bölüm bir zamanlar daha ayrıntılıydı, ancak replikalar daha sofistike h
 | **Rusya ve BDT** | Rusya, BDT ülkeleri  | EAC (Eurasian Conformity)                                   |
 
 
-Ek yardım için [AirReps Discord](https://airreps.info/discord)'una katılarak AirReps topluluğundan tavsiye ve destek al.
+Ek yardım için [AirReps Discord](https://airreps.link/discord)'a katılarak AirReps topluluğundan tavsiye ve destek al.
