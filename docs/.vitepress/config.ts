@@ -715,10 +715,12 @@ export default defineConfig({
         const defaults = ogMetaDefaults[currentLocale] || ogMetaDefaults.en;
         const flag = localeFlags[currentLocale] || '🎧';
 
-        // Use page-specific frontmatter if available, otherwise fall back to locale defaults
+        // Use page-specific title if available, otherwise fall back to locale defaults
+        // pageData.title is auto-populated by VitePress from the H1 heading
+        const title = frontmatter.title || pageData.title;
         const pageTitle =
-            frontmatter.title && frontmatter.title !== 'AirReps'
-                ? `${flag} ${frontmatter.title} | AirReps`
+            title && title !== 'AirReps'
+                ? `${flag} ${title} | AirReps`
                 : `${flag} ${defaults.title}`;
         const pageDescription = frontmatter.description || defaults.description;
 
@@ -763,7 +765,7 @@ export default defineConfig({
                         {
                             '@type': 'ListItem',
                             position: 2,
-                            name: frontmatter.title || 'Page',
+                            name: title || 'Page',
                             item: pageUrl,
                         },
                     ],
