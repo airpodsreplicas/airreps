@@ -1,10 +1,10 @@
 ---
-description: "Verifica la calidad y autenticidad. Defectos de diseño, funciones de software y diferencias."
+description: Control de calidad y comprobación (QC & LC) de AirPods. Detecta fallos de diseño, verifica funciones de software y distingue unidades auténticas de réplicas.
 ---
 
 # QC & LC
 
-¡Bienvenido! Si estás aquí, probablemente buscas verificar la calidad de tus AirPods réplica o estás considerando comprar unos auténticos. Esta sección te guiará sobre cómo discernir entre AirPods originales y réplicas, desde métodos simples hasta avanzados. Si una oferta parece demasiado buena para ser verdad, probablemente lo es. Para más información sobre qué esperar de la calidad de construcción de las réplicas, consulta la guía de [calidad de construcción](/es/introduction/build-quality).
+Welcome! If you're here, you're likely looking to quality check your replica AirPods or considering purchasing authentic ones. This section will guide you on discerning between retail and replica AirPods, from simple to advanced methods. If a deal seems too good to be true, it probably is. For more on what to expect from replica build quality, see the [calidad de construcción](/es/introduction/build-quality) guide.
 
 ::: tip
 Esta sección era más detallada anteriormente, pero a medida que las réplicas se han vuelto más sofisticadas, es cada vez más difícil distinguir entre AirPods genuinos y falsos. Nuestro mejor consejo para asegurar la autenticidad es comprar tus AirPods de un vendedor de buena reputación.
@@ -14,15 +14,15 @@ Esta sección era más detallada anteriormente, pero a medida que las réplicas 
 
 1. **Color de la Bisagra**: Compara el color de la bisagra en el estuche con imágenes de referencia. Puedes usar esta imagen para AirPods de primera y segunda generación y esta imagen para AirPods Pro, Pro 2, Pro 3 y AirPods 4.
 
-![Color de Bisagra - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Color de Bisagra - AirPods 1 & 2](/es/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Color de Bisagra - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Color de Bisagra - AirPods Pro](/es/qc-lc/hinge-color-airpods-pro.jpg)
 
 2. **Alineación del Botón**: Verifica si el botón del estuche está al ras con el resto del estuche. Si no lo está, tus AirPods pueden ser réplicas. En AirPods auténticos, el botón debería estar al ras con el estuche.
 
 3. **Alineación del Cable**: Asegúrate de que el cable encaje ajustadamente y completamente en el estuche, como se muestra en la imagen a continuación. Si el cable sobresale aunque sea ligeramente, probablemente es una réplica.
 
-![Alineación del Cable](/qc-lc/cable-alignment.webp)
+![Alineación del Cable](/es/qc-lc/cable-alignment.webp)
 
 4. **Software - Find My Network**: Un indicador clave de una réplica es la ausencia de "Find My Network" (Búsqueda de Precisión). Cuando emparejas los AirPods con tu teléfono y accedes a la app "Find My", los AirPods genuinos deberían soportar búsqueda de precisión. Si la opción falta o no funciona correctamente, es una fuerte señal de que los AirPods no son auténticos. **Nota:** Todos los modelos de réplica actuales carecen de funcionalidad Find My Network.
 
@@ -49,4 +49,4 @@ Esta sección era más detallada anteriormente, pero a medida que las réplicas 
 | **Rusia y CEI**    | Rusia, países CEI      | EAC (Eurasian Conformity)                                   |
 
 
-Para ayuda adicional, únete al [Discord de AirReps](https://airreps.info/discord) para obtener consejos y soporte de la comunidad AirReps.
+Para ayuda adicional, únete al [Discord de AirReps](https://airreps.link/discord) para obtener consejos y soporte de la comunidad AirReps.

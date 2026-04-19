@@ -35,10 +35,4 @@ features:
     linkText: Ver Vendedores
 ---
 
-## O que é AirReps?
-
-AirReps é a maior comunidade dedicada a réplicas de AirPods. Mantemos um guia abrangente, conduzido pela comunidade, que cobre tudo o que você precisa saber sobre a compra de réplicas de AirPods — desde escolher o modelo certo e encontrar vendedores confiáveis até comparar versões, entender recursos como ANC e Áudio Espacial, e solucionar problemas comuns.
-
-Nosso [Guia Definitivo](/pt/introduction/overview) é constantemente atualizado e está disponível em 9 idiomas. Quer esteja procurando a melhor réplica do AirPods Pro 2, queira saber a diferença entre chipsets ou precise de ajuda com sua primeira compra, o AirReps tem o que você precisa. Não sabe por onde começar? Faça o nosso [quiz rápido](/pt/quiz) para encontrar a réplica ideal para suas necessidades e orçamento.
-
 <Contributor></Contributor>

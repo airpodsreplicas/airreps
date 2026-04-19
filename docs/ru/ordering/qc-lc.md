@@ -1,6 +1,5 @@
 ---
-description: "Проверка качества и подлинности. Дефекты дизайна, функции ПО и отличия."
-translationStatus: machine-translated
+description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
 ---
 
 # QC и LC
@@ -15,15 +14,15 @@ translationStatus: machine-translated
 
 1. **Цвет петли**: Сравните цвет петли на чехле с эталонными изображениями. Вы можете использовать это изображение для AirPods первого и второго поколения и это изображение для AirPods Pro, Pro 2, Pro 3 и AirPods 4.
 
-![Цвет петли - AirPods 1 и 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Цвет петли - AirPods 1 и 2](/ru/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Цвет петли - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Цвет петли - AirPods Pro](/ru/qc-lc/hinge-color-airpods-pro.jpg)
 
 2. **Выравнивание кнопки**: Проверьте, находится ли кнопка на чехле вровень с остальной частью чехла. Если нет, ваши AirPods могут быть репликами. В подлинных AirPods кнопка должна быть вровень с чехлом.
 
 3. **Выравнивание кабеля**: Убедитесь, что кабель плотно и полностью входит в чехол, как показано на изображении ниже. Если кабель хоть немного выступает, это, вероятно, реплика.
 
-![Выравнивание кабеля](/qc-lc/cable-alignment.webp)
+![Выравнивание кабеля](/ru/qc-lc/cable-alignment.webp)
 
 4. **Программное обеспечение - Find My Network**: Ключевым индикатором реплики является отсутствие «Find My Network» (Precision Finding). Когда вы подключаете AirPods к телефону и открываете приложение «Find My», подлинные AirPods должны поддерживать точное определение местоположения. Если опция отсутствует или не работает должным образом, это явный признак того, что AirPods не подлинные. **Примечание:** Все текущие модели реплик не имеют функциональности Find My Network.
 
@@ -50,4 +49,4 @@ translationStatus: machine-translated
 | **Россия и СНГ**    | Россия, страны СНГ      | EAC (Eurasian Conformity)                                    |
 
 
-Для дополнительной помощи присоединяйтесь к [Discord AirReps](https://airreps.info/discord), чтобы получить советы и поддержку от сообщества AirReps.
+Для дополнительной помощи присоединяйтесь к [AirReps Discord](https://airreps.link/discord), чтобы получить советы и поддержку от сообщества AirReps.

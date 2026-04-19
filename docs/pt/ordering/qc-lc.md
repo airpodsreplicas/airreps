@@ -1,5 +1,5 @@
 ---
-description: "Verificação de qualidade e autenticidade. Defeitos e software."
+description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
 ---
 
 # QC & LC (Controle de Qualidade e Verificação de Legitimidade)
@@ -14,15 +14,15 @@ Esta seção já foi mais detalhada, mas como as réplicas se tornaram mais sofi
 
 1. **Cor da Dobradiça**: Compare a cor da dobradiça no estojo com imagens de referência. Você pode usar esta imagem para AirPods de primeira e segunda geração e esta imagem para AirPods Pro, Pro 2, Pro 3 e AirPods 4.
 
-![Cor da Dobradiça - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Cor da Dobradiça - AirPods 1 & 2](/pt/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Cor da Dobradiça - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Cor da Dobradiça - AirPods Pro](/pt/qc-lc/hinge-color-airpods-pro.jpg)
 
 2. **Alinhamento do Botão**: Verifique se o botão no estojo está nivelado com o restante do estojo. Se não estiver, seus AirPods podem ser réplicas. Nos AirPods autênticos, o botão deve estar perfeitamente nivelado com o estojo.
 
 3. **Alinhamento do Cabo**: Certifique-se de que o cabo se ajusta de forma firme e completa no estojo, como mostrado na imagem abaixo. Se o cabo ficar saliente, mesmo que ligeiramente, é provável que seja uma réplica.
 
-![Alinhamento do Cabo](/qc-lc/cable-alignment.webp)
+![Alinhamento do Cabo](/pt/qc-lc/cable-alignment.webp)
 
 4. **Software - Rede Find My**: Um indicador chave de uma réplica é a ausência da "Rede Find My" (Busca de Precisão). Ao emparelhar os AirPods com seu telefone e acessar o app "Buscar" (Find My), AirPods genuínos devem suportar a busca de precisão. Se a opção estiver faltando ou não funcionar corretamente, é um forte sinal de que os AirPods não são autênticos. **Nota:** Todos os modelos de réplicas atuais carecem da funcionalidade da Rede Find My.
 
@@ -49,4 +49,4 @@ Esta seção já foi mais detalhada, mas como as réplicas se tornaram mais sofi
 | **Rússia e CEI**   | Rússia, países da CEI  | EAC (Eurasian Conformity)                                   |
 
 
-Para ajuda adicional, junte-se ao [Discord do AirReps](https://airreps.info/discord) para obter conselhos e suporte da comunidade AirReps.
+Para ajuda adicional, junte-se ao [Discord do AirReps](https://airreps.link/discord) para obter conselhos e suporte da comunidade AirReps.

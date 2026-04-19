@@ -11,5 +11,5 @@ Ikke sikker på, hvor du skal starte? Besvar et par hurtige spørgsmål, og vi a
 <Quiz />
 
 ::: tip Stadig i tvivl?
-Tjek den [Ultimative Guide](/da/introduction/overview) for en komplet gennemgang af hver version, eller deltag i vores [Discord](https://discord.gg/airreps) for at spørge fællesskabet.
+Tjek den [Ultimative Guide](/da/introduction/overview) for en komplet gennemgang af hver version, eller deltag i vores [Discord](https://airreps.link/discord) for at spørge fællesskabet.
 :::

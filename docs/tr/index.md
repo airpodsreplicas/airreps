@@ -30,15 +30,9 @@ features:
     linkText: Rehberi Oku
   - icon: 💸  
     title: Güvenilir satıcı listesi
-    details: Topluluk tarafından seçilmiş, kar amacı gütmeyen, en son ürünler ve en iyi destekle satıcı listesi.
+    details: Topluluk tarafından seçilmiş, kar amacı gütmeyen satıcı listesi; en son ürünler ve en iyi destekle.
     link: /tr/links/info
     linkText: Satıcıları Gör
 ---
-
-## AirReps nedir?
-
-AirReps, AirPods replikalarına adanmış en büyük topluluktur. Doğru modeli seçmekten ve güvenilir satıcıları bulmaktan sürümleri karşılaştırmaya, ANC ve Spatial Audio gibi özellikleri anlamaya ve yaygın sorunları gidermeye kadar replika AirPods satın almayla ilgili bilmeniz gereken her şeyi kapsayan kapsamlı, topluluk odaklı bir rehber yayınlıyoruz.
-
-[Kapsamlı Rehberimiz](/tr/introduction/overview) sürekli güncellenir ve 9 dilde mevcuttur. En iyi AirPods Pro 2 klonunu mu arıyorsunuz, yonga setleri arasındaki farkı mı öğrenmek istiyorsunuz ya da ilk alışverişinizde yardıma mı ihtiyacınız var — AirReps yanınızdadır. Nereden başlayacağınızdan emin değil misiniz? İhtiyaçlarınıza ve bütçenize en uygun replikayı bulmak için [kısa testimizi](/tr/quiz) çözün.
 
 <Contributor></Contributor>

@@ -5,6 +5,12 @@ description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot repl
 
 # Guía Definitiva de AirReps
 
+## ¿Qué es AirReps?
+
+AirReps es la comunidad más grande dedicada a las réplicas de AirPods. Mantenemos una guía completa impulsada por la comunidad que cubre todo lo que necesitas para comprar réplicas de AirPods con confianza — desde elegir el modelo adecuado y encontrar vendedores de confianza hasta comparar versiones, entender funciones como ANC y Audio Espacial, y solucionar problemas comunes.
+
+Esta guía se actualiza constantemente y está disponible en 9 idiomas. Ya sea que busques la mejor réplica de AirPods Pro 2, quieras saber la diferencia entre conjuntos de chips, o necesites ayuda con tu primera compra, AirReps te respalda. ¿No sabes por dónde empezar? Haz nuestro [quiz rápido](/es/quiz) para encontrar la mejor réplica para tus necesidades y presupuesto.
+
 ## Descripción general
 Si estás aquí, probablemente te interese comprar unos AirPods pero no puedes justificar gastar más de $150 en un producto que probablemente solo durará uno o dos años antes de que la batería se agote o se pierdan. Aquí es donde entran las réplicas de AirPods: ofrecen funcionalidad y rendimiento similares a un precio más bajo y cada vez son más populares. Con buen cuidado, las réplicas de AirPods suelen durar 3-4 años.
 
@@ -20,7 +26,7 @@ Haz nuestro [quiz rápido](/es/quiz) para encontrar la mejor réplica de AirPods
 
 ## Qué aprenderás
 
-No todas las réplicas de AirPods son iguales. Esta guía te ayuda a identificar réplicas de alta calidad que aportan un valor real, cubriendo aspectos esenciales como [calidad de sonido](/es/introduction/sound-quality), [duración de la batería](/es/introduction/battery-life) y [conectividad](/es/introduction/connectivity).
+No todas las réplicas de AirPods son iguales. Esta guía te ayuda a identificar réplicas de alta calidad que aportan un valor real, cubriendo aspectos esenciales como [calidad de sonido](/es/introduction/sound-quality), [duración de la batería](/es/introduction/battery-life), y [conectividad](/es/introduction/connectivity).
 
 Proporcionamos el conocimiento y las herramientas para distinguir entre imitaciones baratas y réplicas de AirPods de calidad que valen la pena. Consulta nuestra sección de [Información de Versiones](/es/version-info/general) para entender las características clave y evitar errores comunes al comprar réplicas de AirPods.
 

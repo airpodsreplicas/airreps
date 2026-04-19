@@ -1,5 +1,5 @@
 ---
-description: "Contrôle qualité et authenticité. Défauts visuels et logiciels."
+description: Maîtrisez le contrôle qualité et l'authentification des AirPods. Repérez les défauts de conception, vérifiez les fonctionnalités logicielles et distinguez les unités authentiques des répliques.
 ---
 
 # QC & LC
@@ -14,15 +14,15 @@ Cette section était autrefois plus détaillée, mais comme les répliques sont 
 
 1. **Couleur de la Charnière** : Comparez la couleur de la charnière sur le boîtier avec des photos de référence. Vous pouvez utiliser cette image pour les AirPods de première et deuxième génération et cette image pour les AirPods Pro, Pro 2, Pro 3 et AirPods 4.
 
-![Couleur de la Charnière - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Couleur de la Charnière - AirPods 1 & 2](/fr/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Couleur de la Charnière - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Couleur de la Charnière - AirPods Pro](/fr/qc-lc/hinge-color-airpods-pro.jpg)
 
 2. **Alignement du Bouton** : Vérifiez si le bouton sur le boîtier est affleurant avec le reste du boîtier. S'il ne l'est pas, vos AirPods peuvent être des répliques. Sur les AirPods authentiques, le bouton doit être affleurant avec le boîtier.
 
 3. **Alignement du Câble** : Assurez-vous que le câble s'insère parfaitement et complètement dans le boîtier, comme montré dans l'image ci-dessous. Si le câble dépasse même légèrement, c'est probablement une réplique.
 
-![Alignement du Câble](/qc-lc/cable-alignment.webp)
+![Alignement du Câble](/fr/qc-lc/cable-alignment.webp)
 
 4. **Logiciel - Réseau Localiser** : Un indicateur clé d'une réplique est l'absence de « Réseau Localiser » (Localisation de Précision). Lorsque vous appairez les AirPods avec votre téléphone et accédez à l'application « Localiser », les AirPods authentiques devraient supporter la localisation de précision. Si l'option est manquante ou ne fonctionne pas correctement, c'est un signe fort que les AirPods ne sont pas authentiques. **Note :** Tous les modèles de répliques actuels n'ont pas la fonctionnalité Réseau Localiser.
 
@@ -49,4 +49,4 @@ Cette section était autrefois plus détaillée, mais comme les répliques sont 
 | **Russie et CEI**  | Russie, pays CEI       | EAC (Conformité Eurasienne)                                 |
 
 
-Pour une aide supplémentaire, rejoignez le [Discord AirReps](https://airreps.info/discord) pour obtenir des conseils et du support de la communauté AirReps.
+Pour une aide supplémentaire, rejoignez le [Discord AirReps](https://airreps.link/discord) pour obtenir des conseils et du support de la communauté AirReps.

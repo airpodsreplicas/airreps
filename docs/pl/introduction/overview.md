@@ -5,6 +5,12 @@ description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot repl
 
 # Kompletny Przewodnik AirReps
 
+## Czym jest AirReps?
+
+AirReps to największa społeczność poświęcona replikom AirPods. Prowadzimy kompleksowy, tworzony przez społeczność przewodnik obejmujący wszystko, co potrzebne, by pewnie kupić repliki AirPods — od wyboru odpowiedniego modelu i znalezienia zaufanych sprzedawców, przez porównywanie wersji, zrozumienie funkcji takich jak ANC i Spatial Audio, aż po rozwiązywanie typowych problemów.
+
+Ten przewodnik jest stale aktualizowany i dostępny w 9 językach. Niezależnie od tego, czy szukasz najlepszej repliki AirPods Pro 2, chcesz poznać różnice między chipsetami, czy potrzebujesz pomocy przy pierwszym zakupie — AirReps ma to, czego potrzebujesz. Nie wiesz, od czego zacząć? Wypełnij nasz [krótki quiz](/pl/quiz), aby znaleźć najlepszą replikę dopasowaną do Twoich potrzeb i budżetu.
+
 ## Przegląd
 Jeśli tu jesteś, prawdopodobnie interesujesz się zakupem pary AirPods, ale nie możesz usprawiedliwić wydania $150+ na produkt, który prawdopodobnie wytrzyma tylko rok lub dwa, zanim bateria się wyczerpie lub je zgubisz. Tu właśnie wchodzą repliki AirPods – oferują podobną funkcjonalność i wydajność za niższą cenę i stają się coraz bardziej popularne. Przy dobrej pielęgnacji repliki AirPods zwykle wytrzymują 3–4 lata.
 

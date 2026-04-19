@@ -35,10 +35,4 @@ features:
     linkText: Verkäufer ansehen
 ---
 
-## Was ist AirReps?
-
-AirReps ist die größte Community, die sich AirPods-Replikaten widmet. Wir pflegen einen umfassenden, community-geführten Guide, der alles abdeckt, was du über den Kauf von Replikaten wissen musst — von der Wahl des richtigen Modells und dem Finden vertrauenswürdiger Verkäufer bis hin zum Vergleich von Versionen, dem Verständnis von Funktionen wie ANC und Spatial Audio sowie der Fehlerbehebung bei häufigen Problemen.
-
-Unser [Ultimate Guide](/de/introduction/overview) wird ständig aktualisiert und ist in 9 Sprachen verfügbar. Egal, ob du nach dem besten AirPods Pro 2-Klon suchst, den Unterschied zwischen Chipsets verstehen willst oder Hilfe bei deinem ersten Kauf benötigst — AirReps unterstützt dich. Weißt du nicht, wo du anfangen sollst? Mach unser kurzes [Quiz](/de/quiz), um die beste Replik für deine Bedürfnisse und dein Budget zu finden.
-
 <Contributor></Contributor>
