@@ -1,7 +1,7 @@
 ---
 description: Ordena réplicas de AirPods de forma segura. Métodos de pago, vendedores de confianza, consejos de envío y cómo evitar estafas.
 faq:
-"  - q: \"¿Qué métodos de pago aceptan los vendedores de confianza?\""
+  - q: "¿Qué métodos de pago aceptan los vendedores de confianza?"
     a: "Los vendedores de confianza aceptan Tarjetas de Crédito, AliPay, Revolut, Wise, Transferencia Bancaria y Bitcoin. Todos los vendedores tienen tiendas en Weidian accesibles a través de agentes como KakoBuy. PayPal no está soportado actualmente."
   - q: "¿Por qué soy redirigido a un sitio web de criptomonedas al pagar con Tarjeta de Crédito?"
     a: "Los vendedores de confianza usan una pasarela de pago de criptomonedas segura para procesar pagos con Tarjeta de Crédito. Tu tarjeta compra criptomonedas, que completan el pedido. Para evitar KYC, usa KakoBuy — un agente que acepta tarjetas de crédito normales sin verificaciones de identidad."

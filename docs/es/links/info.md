@@ -1,7 +1,7 @@
 ---
 description: Directorio de vendedores verificados y enlaces de compra directa para todos los modelos de réplicas de AirPods.
 faq:
-"  - q: \"¿Recibiré una unidad de buena calidad?\""
+  - q: "¿Recibiré una unidad de buena calidad?"
     a: "No es posible garantizar la calidad de una unidad, ya que puede variar incluso entre unidades del mismo vendedor. Sin embargo, los vendedores de confianza generalmente son conocidos por ofrecer productos de buena calidad."
   - q: "¿Cómo contacto a los vendedores?"
     a: "Únete al Discord de AirReps en https://airreps.link/discord para obtener los números de WhatsApp de los vendedores. Alternativamente, usa AliExpress para enviarles un mensaje haciendo clic en Contact Supplier."

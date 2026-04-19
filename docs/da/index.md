@@ -6,7 +6,7 @@ title: 'AirReps'
 description: 'AirReps-fællesskabets centrum for diskussioner om AirPods-kopier. Få hjælp, find betroede sælgere og udforsk vores Ultimative Guide.'
 
 hero:
-"  name: \"AirReps\""
+  name: "AirReps"
   text: "AirPods-kopier."
   tagline: Et fællesskab for diskussion og udforskning af AirPods-kloner.
   actions:
@@ -18,7 +18,7 @@ hero:
       link: quiz
 
 features:
-"  - icon: 🤝"
+  - icon: 🤝
     title: Hold af hjælpere
     details: Dedikerede hjælpere klar til at besvare næsten ethvert spørgsmål, du måtte have.
     link: https://airreps.link/discord

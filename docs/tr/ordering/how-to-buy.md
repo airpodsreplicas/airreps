@@ -1,7 +1,7 @@
 ---
 description: AirPods replikalarını güvenli şekilde sipariş et. Ödeme yöntemleri, güvenilir satıcılar, gönderim ipuçları ve dolandırıcılıktan kaçınma.
 faq:
-"  - q: \"Güvenilir satıcılar hangi ödeme yöntemlerini kabul eder?\""
+  - q: "Güvenilir satıcılar hangi ödeme yöntemlerini kabul eder?"
     a: "Güvenilir satıcılar Kredi Kartı, AliPay, Revolut, Wise, Banka Havalesi ve Bitcoin gibi birden fazla ödeme yöntemini kabul eder. Tüm satıcıların KakoBuy gibi aracılar aracılığıyla erişilebilen Weidian mağazaları vardır. PayPal şu anda desteklenmemektedir."
   - q: "Kredi Kartı ile ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?"
     a: "Güvenilir satıcılar Kredi Kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız kripto satın almak için kullanılır ve bu kripto siparişi tamamlamak için kullanılır. KYC'den kaçınmak için, kimlik kontrolü yapmadan normal kredi kartlarını kabul eden bir aracı olan KakoBuy'ı kullanın."

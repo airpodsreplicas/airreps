@@ -1,7 +1,7 @@
 ---
 description: Oversigt over verificerede sælgere og direkte købslinks til alle AirPods-kopi-modeller.
 faq:
-"  - q: \"Will I get a good quality unit?\""
+  - q: "Will I get a good quality unit?"
     a: "Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere selv blandt enheder fra samme sælger. Dog er betroede sælgere generelt kendt for at tilbyde produkter af god kvalitet."
   - q: "How do I contact sellers?"
     a: "Deltag i AirReps Discord på https://airreps.link/discord for at få sælgeres WhatsApp-numre. Alternativt brug AliExpress til at sende dem en besked ved at klikke Kontakt leverandør."

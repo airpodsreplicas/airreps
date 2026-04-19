@@ -3,10 +3,10 @@
 layout: home
 
 title: 'AirReps'
-description: 'Le hub communautaire AirReps pour les discussions sur les répliques AirPods. Obtenez de l'aide, trouvez des vendeurs de confiance et consultez notre Guide ultime.'
+description: "Le hub communautaire AirReps pour les discussions sur les répliques AirPods. Obtenez de l'aide, trouvez des vendeurs de confiance et consultez notre Guide ultime."
 
 hero:
-"  name: \"AirReps\""
+  name: "AirReps"
   text: "Répliques d'AirPods."
   tagline: Une communauté pour la discussion et l'exploration des clones d'AirPods.
   actions:
@@ -18,7 +18,7 @@ hero:
       link: quiz
 
 features:
-"  - icon: 🤝"
+  - icon: 🤝
     title: Team of helpers
     details: Dedicated helpers ready to answer almost any question you might have.
     link: https://airreps.link/discord

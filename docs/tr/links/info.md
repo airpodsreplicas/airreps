@@ -1,7 +1,7 @@
 ---
 description: Doğrulanmış satıcı rehberi ve tüm AirPods replika modelleri için doğrudan satın alma linkleri.
 faq:
-"  - q: \"İyi kaliteli bir ürün alacak mıyım?\""
+  - q: "İyi kaliteli bir ürün alacak mıyım?"
     a: "Bir ünitenin kalitesini garanti etmek mümkün değildir, çünkü aynı satıcıdan gelen üniteler arasında bile değişebilir. Ancak güvenilir satıcılar genel olarak iyi kaliteli ürünler sunmalarıyla bilinir."
   - q: "Satıcılarla nasıl iletişime geçebilirim?"
     a: "AirReps Discord'una https://airreps.link/discord adresinden katılarak satıcıların WhatsApp numaralarını alabilirsin. Alternatif olarak, AliExpress'te 'Contact Supplier' butonuna tıklayarak onlara mesaj gönderebilirsin."

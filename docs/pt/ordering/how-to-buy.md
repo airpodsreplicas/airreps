@@ -1,7 +1,7 @@
 ---
 description: Peça com segurança réplicas de AirPods. Métodos de pagamento, vendedores confiáveis, dicas de envio e como evitar golpes.
 faq:
-"  - q: \"Quais métodos de pagamento os vendedores confiáveis aceitam?\""
+  - q: "Quais métodos de pagamento os vendedores confiáveis aceitam?"
     a: "Os vendedores confiáveis aceitam Cartões de Crédito, AliPay, Revolut, Wise, Transferência Bancária e Bitcoin. Todos os vendedores têm vitrines no Weidian acessíveis através de agentes como KakoBuy. O PayPal atualmente não é suportado."
   - q: "Por que sou redirecionado para um site de criptomoeda ao pagar com cartão de crédito?"
     a: "Os vendedores confiáveis usam um gateway de pagamento em criptomoedas seguro para processar pagamentos com cartão de crédito. Seu cartão compra criptomoeda, que completa o pedido. Para evitar KYC, use o KakoBuy — um agente que aceita cartões de crédito normais sem verificações de identidade."

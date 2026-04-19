@@ -1,7 +1,7 @@
 ---
 description: Bestil AirPods-kopier sikkert. Betalingsmetoder, betroede sælgere, forsendelsestips og undgåelse af svindel.
 faq:
-"  - q: \"Hvilke betalingsmetoder accepterer betroede sælgere?\""
+  - q: "Hvilke betalingsmetoder accepterer betroede sælgere?"
     a: "Betroede sælgere accepterer kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, som er tilgængelige gennem agenter som KakoBuy. PayPal understøttes i øjeblikket ikke."
   - q: "Hvorfor bliver jeg omdirigeret til en krypto-hjemmeside, når jeg betaler med kreditkort?"
     a: "Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle kreditkortbetalinger. Dit kort køber krypto, som fuldfører ordren. For at undgå KYC, brug KakoBuy — en agent, der accepterer almindelige kreditkort uden identitetskontrol."

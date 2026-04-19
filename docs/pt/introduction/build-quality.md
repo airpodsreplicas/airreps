@@ -1,7 +1,7 @@
 ---
 description: "Análise aprofundada da qualidade de construção: peso, dobradiça, precisão do texto, ímãs e difusores de LED."
 faq:
-"  - q: \"Posso carregar AirPods falsos em um estojo original ou vice-versa?\""
+  - q: "Posso carregar AirPods falsos em um estojo original ou vice-versa?"
     a: "Não, fones falsos não devem ser carregados em um estojo real. Fazer isso pode causar a quebra dos fones falsos. Também não é recomendado carregar AirPods reais em um estojo falso."
   - q: "Capas de AirPods caberão nos clones?"
     a: "Todas as capas protetoras de silicone macio caberão, mas capas de plástico rígido podem não caber na maioria dos clones (principalmente modelos mais antigos, pois são ligeiramente maiores que os originais). Algumas capas rígidas podem caber, mas podem não sair facilmente ou afetar o botão."

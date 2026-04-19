@@ -1,7 +1,7 @@
 ---
 description: "Build quality deep dive: Weight, hinge, text accuracy, magnets, and LED diffusers."
 faq:
-"  - q: \"Can fake AirPods be charged in a real case or vice versa?\""
+  - q: "Can fake AirPods be charged in a real case or vice versa?"
     a: "No, fake AirPods should not be charged in a real case. Doing so may cause the fake AirPods to break. It is also not recommended to charge real AirPods in a fake case."
   - q: "Will AirPods cases fit on clones?"
     a: "All soft silicone protective cases will fit, but hard plastic cases may not fit most clones (mostly older models as they are slightly bigger than the originals). Some hard cases may fit, but may not come off or affect the button."

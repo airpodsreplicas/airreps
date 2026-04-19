@@ -6,7 +6,7 @@ title: 'AirReps'
 description: 'AirPods replika tartışmaları için AirReps topluluk merkezi. Yardım al, güvenilir satıcıları bul ve Kapsamlı Rehberimizi keşfet.'
 
 hero:
-"  name: \"AirReps\""
+  name: "AirReps"
   text: "AirPods replikaları."
   tagline: AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk.
   actions:
@@ -18,7 +18,7 @@ hero:
       link: quiz
 
 features:
-"  - icon: 🤝"
+  - icon: 🤝
     title: Yardımcı ekip
     details: Aklına gelebilecek hemen hemen her soruyu yanıtlamaya hazır özel yardımcılar.
     link: https://airreps.link/discord

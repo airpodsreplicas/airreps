@@ -1,7 +1,7 @@
 ---
 description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
 faq:
-"  - q: \"What payment methods do trusted sellers accept?\""
+  - q: "What payment methods do trusted sellers accept?"
     a: "Trusted sellers accept Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is currently not supported."
   - q: "Why am I redirected to a crypto website when paying via Credit Card?"
     a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. To avoid KYC, use KakoBuy — an agent that accepts regular credit cards without identity checks."
