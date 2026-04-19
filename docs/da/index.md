@@ -3,7 +3,7 @@
 layout: home
 
 title: 'AirReps'
-description: 'AirReps-fællesskabets centrum for diskussioner om AirPods-kopier. Få hjælp, find betroede sælgere og udforsk vores Ultimative Guide.'
+description: 'AirReps-fællesskabets centrum for diskussioner om AirPods-kopier. Få hjælp, find betroede sælgere, og udforsk vores ultimative guide.'
 
 hero:
   name: "AirReps"
@@ -11,7 +11,7 @@ hero:
   tagline: Et fællesskab for diskussion og udforskning af AirPods-kloner.
   actions:
     - theme: brand
-      text: Læs Den Ultimative Guide
+      text: Læs den ultimative guide
       link: introduction/overview
     - theme: alt
       text: Tag quizzen
@@ -34,11 +34,5 @@ features:
     link: /da/links/info
     linkText: Se sælgere
 ---
-
-## Hvad er AirReps?
-
-AirReps er det største fællesskab dedikeret til AirPods-kopier. Vi vedligeholder en omfattende, fællesskabsdrevet guide, der dækker alt, du behøver at vide om køb af replika AirPods — fra at vælge den rigtige model og finde betroede sælgere til sammenligning af versioner, forståelse af funktioner som ANC og Spatial Audio og fejlfinding af almindelige problemer.
-
-Vores [Ultimative Guide](/da/introduction/overview) opdateres konstant og er tilgængelig på 9 sprog. Uanset om du leder efter den bedste AirPods Pro 2-klon, vil vide forskellen mellem chipsæt, eller har brug for hjælp til dit første køb, så står AirReps klar. Er du ikke sikker på, hvor du skal starte? Tag vores [korte quiz](/da/quiz) for at finde den bedste kopi til dine behov og dit budget.
 
 <Contributor></Contributor>

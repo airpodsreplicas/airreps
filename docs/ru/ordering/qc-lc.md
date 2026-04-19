@@ -1,6 +1,5 @@
 ---
-description: "Проверка качества и подлинности. Дефекты дизайна, функции ПО и отличия."
-translationStatus: machine-translated
+description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
 ---
 
 # QC и LC
@@ -50,4 +49,4 @@ translationStatus: machine-translated
 | **Россия и СНГ**    | Россия, страны СНГ      | EAC (Eurasian Conformity)                                    |
 
 
-Для дополнительной помощи присоединяйтесь к [Discord AirReps](https://airreps.info/discord), чтобы получить советы и поддержку от сообщества AirReps.
+Для дополнительной помощи присоединяйтесь к [AirReps Discord](https://airreps.link/discord), чтобы получить советы и поддержку от сообщества AirReps.

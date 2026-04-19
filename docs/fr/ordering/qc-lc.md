@@ -1,5 +1,5 @@
 ---
-description: "Contrôle qualité et authenticité. Défauts visuels et logiciels."
+description: Maîtrisez le contrôle qualité et l'authentification des AirPods. Repérez les défauts de conception, vérifiez les fonctionnalités logicielles et distinguez les unités authentiques des répliques.
 ---
 
 # QC & LC
@@ -49,4 +49,4 @@ Cette section était autrefois plus détaillée, mais comme les répliques sont 
 | **Russie et CEI**  | Russie, pays CEI       | EAC (Conformité Eurasienne)                                 |
 
 
-Pour une aide supplémentaire, rejoignez le [Discord AirReps](https://airreps.info/discord) pour obtenir des conseils et du support de la communauté AirReps.
+Pour une aide supplémentaire, rejoignez le [Discord AirReps](https://airreps.link/discord) pour obtenir des conseils et du support de la communauté AirReps.

@@ -1,6 +1,5 @@
 ---
-description: "Sprawdzanie jakości i autentyczności. Wady konstrukcyjne i różnice w oprogramowaniu."
-translationStatus: machine-translated
+description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
 ---
 
 # QC & LC
@@ -25,7 +24,7 @@ Ta sekcja była kiedyś bardziej szczegółowa, ale w miarę jak klony stały si
 
 ![Wyrównanie Kabla](/qc-lc/cable-alignment.webp)
 
-4. **Oprogramowanie - Sieć Znajdź Mój**: Kluczowym wskaźnikiem klonu jest brak "Sieci Znajdź Mój" (Precyzyjne Znajdowanie). Gdy sparujesz AirPods z telefonem i otworzysz aplikację "Znajdź Mój", oryginalne AirPods powinny obsługiwać precyzyjne znajdowanie. Jeśli opcja brakuje lub nie działa prawidłowo, jest to silny znak, że AirPods nie są oryginalne. **Uwaga:** Wszystkie obecne modele klonów nie mają funkcjonalności Sieci Znajdź Mój.
+4. **Oprogramowanie - Find My Network**: Kluczowym wskaźnikiem klonu jest brak "Find My Network" (Precyzyjne Znajdowanie). Gdy sparujesz AirPods z telefonem i otworzysz aplikację "Znajdź Mój", oryginalne AirPods powinny obsługiwać precyzyjne znajdowanie. Jeśli opcja brakuje lub nie działa prawidłowo, jest to silny znak, że AirPods nie są oryginalne. **Uwaga:** Wszystkie obecne modele klonów nie mają funkcjonalności Find My Network.
 
 5. **Oprogramowanie - Strona Informacji**: Połącz AirPods z iPhone i przejdź do Ustawienia > Ogólne > To urządzenie. Jeśli jest sekcja "AirPods" podczas przewijania w dół, sprawdź, czy numer seryjny pokazany tam odpowiada numerowi seryjnemu wewnątrz pokrywy AirPods. Jeśli nie ma sekcji AirPods, Twoje AirPods są prawdopodobnie klonami. **Ważne:** Niektóre nowsze klony AirPods mogą mieć działającą stronę "Informacje", czyniąc to sprawdzenie mniej wiarygodnym. W takich przypadkach możesz sprawdzić obecność Dźwięku Przestrzennego ze śledzeniem głowy, lub zweryfikować, czy wersja firmware odpowiada najnowszej wersji wydanej przez Apple.
 
@@ -50,4 +49,4 @@ Ta sekcja była kiedyś bardziej szczegółowa, ale w miarę jak klony stały si
 | **Rosja i WNP** | Rosja, Kraje WNP  | EAC (Eurasian Conformity)                                   |
 
 
-Dla dodatkowej pomocy dołącz do [AirReps Discord](https://airreps.info/discord), aby uzyskać porady i wsparcie od społeczności AirReps.
+Dla dodatkowej pomocy dołącz do [AirReps Discord](https://airreps.link/discord), aby uzyskać porady i wsparcie od społeczności AirReps.

@@ -1,5 +1,5 @@
 ---
-description: "Verificação de qualidade e autenticidade. Defeitos e software."
+description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
 ---
 
 # QC & LC (Controle de Qualidade e Verificação de Legitimidade)
@@ -49,4 +49,4 @@ Esta seção já foi mais detalhada, mas como as réplicas se tornaram mais sofi
 | **Rússia e CEI**   | Rússia, países da CEI  | EAC (Eurasian Conformity)                                   |
 
 
-Para ajuda adicional, junte-se ao [Discord do AirReps](https://airreps.info/discord) para obter conselhos e suporte da comunidade AirReps.
+Para ajuda adicional, junte-se ao [Discord do AirReps](https://airreps.link/discord) para obter conselhos e suporte da comunidade AirReps.

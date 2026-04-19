@@ -22,7 +22,7 @@ features:
     title: Zespół Pomocników
     details: Dedykowany zespół pomocników gotowy odpowiedzieć na prawie każde pytanie.
     link: https://airreps.link/discord
-    linkText: Join Discord
+    linkText: Dołącz do Discorda
   - icon: ⏰
     title: Zawsze Aktualne
     details: Wszystkie zasoby, przewodniki i aplikacje są na bieżąco aktualizowane przez nasz oddany zespół.

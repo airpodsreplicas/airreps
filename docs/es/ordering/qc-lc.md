@@ -1,10 +1,10 @@
 ---
-description: "Verifica la calidad y autenticidad. Defectos de diseño, funciones de software y diferencias."
+description: Control de calidad y comprobación (QC & LC) de AirPods. Detecta fallos de diseño, verifica funciones de software y distingue unidades auténticas de réplicas.
 ---
 
 # QC & LC
 
-¡Bienvenido! Si estás aquí, probablemente buscas verificar la calidad de tus AirPods réplica o estás considerando comprar unos auténticos. Esta sección te guiará sobre cómo discernir entre AirPods originales y réplicas, desde métodos simples hasta avanzados. Si una oferta parece demasiado buena para ser verdad, probablemente lo es. Para más información sobre qué esperar de la calidad de construcción de las réplicas, consulta la guía de [calidad de construcción](/es/introduction/build-quality).
+Welcome! If you're here, you're likely looking to quality check your replica AirPods or considering purchasing authentic ones. This section will guide you on discerning between retail and replica AirPods, from simple to advanced methods. If a deal seems too good to be true, it probably is. For more on what to expect from replica build quality, see the [calidad de construcción](/es/introduction/build-quality) guide.
 
 ::: tip
 Esta sección era más detallada anteriormente, pero a medida que las réplicas se han vuelto más sofisticadas, es cada vez más difícil distinguir entre AirPods genuinos y falsos. Nuestro mejor consejo para asegurar la autenticidad es comprar tus AirPods de un vendedor de buena reputación.
@@ -49,4 +49,4 @@ Esta sección era más detallada anteriormente, pero a medida que las réplicas 
 | **Rusia y CEI**    | Rusia, países CEI      | EAC (Eurasian Conformity)                                   |
 
 
-Para ayuda adicional, únete al [Discord de AirReps](https://airreps.info/discord) para obtener consejos y soporte de la comunidad AirReps.
+Para ayuda adicional, únete al [Discord de AirReps](https://airreps.link/discord) para obtener consejos y soporte de la comunidad AirReps.

@@ -19,8 +19,8 @@ hero:
 
 features:
   - icon: 🤝
-    title: Team of helpers
-    details: Dedicated helpers ready to answer almost any question you might have.
+    title: Équipe d'entraide
+    details: Des assistants dédiés prêts à répondre à presque toutes vos questions.
     link: https://airreps.link/discord
     linkText: Rejoindre Discord
   - icon: ⏰
@@ -34,11 +34,5 @@ features:
     link: /fr/links/info
     linkText: Voir les vendeurs
 ---
-
-## Qu'est-ce qu'AirReps ?
-
-AirReps est la plus grande communauté dédiée aux répliques d'AirPods. Nous entretenons un guide complet et communautaire qui couvre tout ce que vous devez savoir pour acheter des AirPods répliques — du choix du bon modèle et de la recherche de vendeurs de confiance, à la comparaison des versions, la compréhension des fonctionnalités comme l'ANC (réduction de bruit active) et l'audio spatial, et le dépannage des problèmes courants.
-
-Notre [Guide ultime](/fr/introduction/overview) est constamment mis à jour et disponible en 9 langues. Que vous cherchiez la meilleure réplique des AirPods Pro 2, souhaitiez connaître la différence entre les chipsets, ou ayez besoin d'aide pour votre premier achat, AirReps est là pour vous. Vous ne savez pas par où commencer ? Faites notre [quiz rapide](/fr/quiz) pour trouver la meilleure réplique selon vos besoins et votre budget.
 
 <Contributor></Contributor>

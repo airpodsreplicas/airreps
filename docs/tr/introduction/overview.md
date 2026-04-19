@@ -1,9 +1,15 @@
 ---
-title: Ultimate Guide
-description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot replica AirPods."
+title: Kapsamlı Rehber
+description: "AirReps Kapsamlı Rehber — replika AirPods'ları karşılaştır, satın al ve sorun gider."
 ---
 
 # AirReps Kapsamlı Rehber
+
+## AirReps Nedir?
+
+AirReps, AirPods replikalarına adanmış en büyük topluluktur. Doğru modeli seçmekten güvenilir satıcılar bulmaya, sürümleri karşılaştırmaktan ANC ve Spatial Audio gibi özellikleri anlamaya ve yaygın sorunları gidermeye kadar replika AirPods'ları güvenle satın alman için gereken her şeyi kapsayan topluluk odaklı, kapsamlı bir rehber hazırlıyoruz.
+
+Bu rehber sürekli güncellenir ve 9 dilde mevcuttur. En iyi AirPods Pro 2 klonunu mu arıyorsun, yonga setleri arasındaki farkı mı merak ediyorsun veya ilk satın alımında yardıma mı ihtiyacın var — AirReps sana yardımcı olur. Nereden başlayacağını bilmiyor musun? İhtiyaçlarına ve bütçene en uygun replikayı bulmak için [hızlı testimizi](/tr/quiz) çöz.
 
 ## Genel Bakış
 Buradaysan muhtemelen bir çift AirPods satın almakla ilgileniyorsun ama pili tükenecek veya kaybolacak bir ürüne 150$+ harcamayı mantıklı bulamıyorsun. İşte bu noktada replika AirPods devreye giriyor — benzer işlevsellik ve performansı daha düşük bir fiyat noktasında sunuyorlar ve giderek daha popüler hale geliyorlar. İyi bakımla replika AirPods genellikle 3-4 yıl dayanır.

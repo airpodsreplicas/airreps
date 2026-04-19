@@ -5,6 +5,12 @@ description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot repl
 
 # AirReps Ultimativ Guide
 
+## Hvad er AirReps?
+
+AirReps er det største fællesskab dedikeret til AirPods-kopier. Vi vedligeholder en omfattende, fællesskabsdrevet guide, der dækker alt, du behøver for at købe AirPods-kopier med tillid — fra at vælge den rigtige model og finde pålidelige sælgere til at sammenligne versioner, forstå funktioner som ANC og Spatial Audio og fejlsøge almindelige problemer.
+
+Denne guide opdateres konstant og er tilgængelig på 9 sprog. Uanset om du leder efter den bedste AirPods Pro 2-kopi, vil vide forskellen mellem chipsets eller har brug for hjælp til dit første køb, har AirReps dig dækket. Ikke sikker på, hvor du skal starte? Tag vores [hurtige quiz](/da/quiz) for at finde den bedste kopi til dine behov og budget.
+
 ## Oversigt
 Hvis du er her, er du sandsynligvis interesseret i at købe et par AirPods, men kan ikke retfærdiggøre at bruge $150+ på et produkt, der sandsynligvis kun holder et år eller to, før batteriet er opbrugt, eller de bliver væk. Det er her AirPods-kopier kommer ind i billedet – de tilbyder lignende funktionalitet og ydeevne til en lavere pris og bliver stadig mere populære. Med god pleje holder AirPods-kopier typisk 3-4 år.
 

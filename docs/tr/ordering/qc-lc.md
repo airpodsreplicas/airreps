@@ -1,5 +1,5 @@
 ---
-description: AirPods QC & LC konusunda uzmanlaş. Tasarım kusurlarını fark et, yazılım özelliklerini doğrula ve orijinal birimleri replikalardan ayırt et.
+description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
 ---
 
 # QC & LC
@@ -24,7 +24,7 @@ Bu bölüm bir zamanlar daha ayrıntılıydı, ancak replikalar daha sofistike h
 
 ![Kablo Hizalaması](/qc-lc/cable-alignment.webp)
 
-4. **Yazılım - Find My Ağı**: Bir replikanın önemli bir göstergesi "Find My Ağı"nın (Hassas Bulma) olmamasıdır. AirPods'u telefonunla eşleştirdiğinde ve "Find My" uygulamasına eriştiğinde, orijinal AirPods hassas bulmayı desteklemelidir. Seçenek eksikse veya düzgün çalışmıyorsa AirPods'un orijinal olmadığının güçlü bir işaretidir. **Not:** Tüm mevcut replika modellerde Find My Ağı işlevselliği eksiktir.
+4. **Yazılım - Find My Network**: Bir replikanın önemli bir göstergesi "Find My Network"ın (Hassas Bulma) olmamasıdır. AirPods'u telefonunla eşleştirdiğinde ve "Find My" uygulamasına eriştiğinde, orijinal AirPods hassas bulmayı desteklemelidir. Seçenek eksikse veya düzgün çalışmıyorsa AirPods'un orijinal olmadığının güçlü bir işaretidir. **Not:** Tüm mevcut replika modellerde Find My Ağı işlevselliği eksiktir.
 
 5. **Yazılım - Hakkında Sayfası**: AirPods'u bir iPhone'a bağla ve Ayarlar > Genel > Hakkında'ya git. Aşağı kaydırdığında bir "AirPods" bölümü varsa, orada gösterilen seri numarasının AirPods kapağının iç kısmındaki seri numarasıyla eşleştiğini kontrol et. AirPods bölümü yoksa AirPods'un muhtemelen replikadır. **Önemli:** Bazı daha yeni replika AirPods'larda çalışan bir "Hakkında" sayfası olabilir ve bu kontrolü daha az güvenilir kılar. Bu durumda Spatial Audio'nun baş takibi ile varlığını kontrol edebilir veya firmware versiyonunun Apple tarafından yayınlanan en son versiyonla eşleştiğini doğrulayabilirsin.
 
@@ -49,4 +49,4 @@ Bu bölüm bir zamanlar daha ayrıntılıydı, ancak replikalar daha sofistike h
 | **Rusya ve BDT** | Rusya, BDT ülkeleri  | EAC (Eurasian Conformity)                                   |
 
 
-Ek yardım için [AirReps Discord](https://airreps.info/discord)'una katılarak AirReps topluluğundan tavsiye ve destek al.
+Ek yardım için [AirReps Discord](https://airreps.link/discord)'una katılarak AirReps topluluğundan tavsiye ve destek al.

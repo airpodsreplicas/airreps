@@ -140,7 +140,9 @@ Rules:
 - Output ONLY the translated markdown. No commentary, no code fences wrapping the output.
 - Preserve markdown structure exactly: headings, lists, tables, links, emphasis, code fences, HTML tags, blank-line structure.
 - Translate natural-language prose. Do NOT translate code, file paths, URLs, brand names (e.g. "AirReps"), chipset names, or model numbers.
-- For internal markdown links whose URL starts with "/", add the "/${locale}/" prefix. Example: [quiz](/quiz) becomes [translated quiz](/${locale}/quiz). Do not modify links starting with http, https, mailto:, or #.
+- For internal markdown PAGE links whose URL starts with "/" (e.g. "/quiz", "/introduction/overview", "/links/info"), add the "/${locale}/" prefix so they point to the translated page. Example: [quiz](/quiz) becomes [translated quiz](/${locale}/quiz).
+- Do NOT prefix asset paths (images, videos, files). Paths like "/qc-lc/image.jpg", "/logo.webp", or anything ending in .png/.jpg/.jpeg/.webp/.gif/.svg/.mp4/.pdf live in docs/public/ and must stay exactly as written in the English source.
+- Do not modify links starting with http, https, mailto:, #, or ./
 - Keep existing translated wording when it is already accurate; minimize unrelated rewrites.`;
 
     const raw = await chatComplete(openai, [

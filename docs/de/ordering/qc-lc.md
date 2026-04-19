@@ -1,5 +1,5 @@
 ---
-description: AirPods QC & LC meistern. Designfehler erkennen, Software-Features prüfen und echte Geräte von Replicas unterscheiden.
+description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
 ---
 
 # QC & LC
@@ -49,4 +49,4 @@ Dieser Abschnitt war einst ausführlicher, aber da Replicas immer ausgefeilter g
 | **Russland und GUS** | Russland, GUS-Staaten  | EAC (Eurasian Conformity)                                   |
 
 
-Für zusätzliche Hilfe tritt dem [AirReps Discord](https://airreps.info/discord) bei, um Rat und Unterstützung von der AirReps-Community zu erhalten.
+Für zusätzliche Hilfe tritt dem [AirReps Discord](https://airreps.link/discord) bei, um Rat und Unterstützung von der AirReps-Community zu erhalten.
