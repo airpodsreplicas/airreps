@@ -35,10 +35,4 @@ features:
     linkText: View Sellers
 ---
 
-## What is AirReps?
-
-AirReps is the largest community dedicated to AirPods replicas. We maintain a comprehensive, community-driven guide that covers everything you need to know about buying replica AirPods — from choosing the right model and finding trusted sellers to comparing versions, understanding features like ANC and Spatial Audio, and troubleshooting common issues.
-
-Our [Ultimate Guide](/introduction/overview) is constantly updated and available in 9 languages. Whether you're looking for the best AirPods Pro 2 clone, want to know the difference between chipsets, or need help with your first purchase, AirReps has you covered. Not sure where to start? Take our [quick quiz](/quiz) to find the best replica for your needs and budget.
-
 <Contributor></Contributor>

@@ -5,6 +5,12 @@ description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot repl
 
 # AirReps Ultimate Guide
 
+## What is AirReps?
+
+AirReps is the largest community dedicated to AirPods replicas. We maintain a comprehensive, community-driven guide covering everything you need to buy replica AirPods with confidence — from choosing the right model and finding trusted sellers to comparing versions, understanding features like ANC and Spatial Audio, and troubleshooting common issues.
+
+This guide is constantly updated and available in 9 languages. Whether you're looking for the best AirPods Pro 2 clone, want to know the difference between chipsets, or need help with your first purchase, AirReps has you covered. Not sure where to start? Take our [quick quiz](/quiz) to find the best replica for your needs and budget.
+
 ## Overview
 If you're here, you're probably interested in purchasing a pair of AirPods but can't justify spending $150+ on a product that will likely only last a year or two before the battery depletes or they get lost. This is where replica AirPods come in – they offer similar functionality and performance at a lower price point and are becoming increasingly popular. With good care, replica AirPods typically last 3-4 years.
 
