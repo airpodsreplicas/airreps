@@ -37,8 +37,10 @@ const subtitles: Record<string, string> = {
         'Bu rehber, başkalarının bilinçli kararlar vermesine yardımcı olmak isteyen gönüllüler tarafından sürdürülmektedir.',
 };
 
-const _title = computed(() => titles[lang.value] || titles['en-US']);
-const _subtitle = computed(() => subtitles[lang.value] || subtitles['en-US']);
+// biome-ignore lint/correctness/noUnusedVariables: used in Vue template
+const title = computed(() => titles[lang.value] || titles['en-US']);
+// biome-ignore lint/correctness/noUnusedVariables: used in Vue template
+const subtitle = computed(() => subtitles[lang.value] || subtitles['en-US']);
 
 const contributors = ref<{ name: string; avatar: string }[]>([]);
 
