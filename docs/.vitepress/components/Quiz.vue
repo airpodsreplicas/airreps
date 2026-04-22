@@ -1610,7 +1610,7 @@ const product = computed<ProductRec | null>(() => {
 });
 
 // Get direct product link for the recommended seller
-const _directProductLink = computed(() => {
+const directProductLink = computed(() => {
     if (!(product.value && recommendedSeller.value)) {
         return null;
     }
@@ -1627,7 +1627,7 @@ const _directProductLink = computed(() => {
     return links[sellerKey] || null;
 });
 
-function _productToLinksPage(): string {
+function productToLinksPage(): string {
     const ff = answers.value.formFactor;
     if (ff === 'over-ear') {
         return 'airpods-max';
@@ -1642,12 +1642,12 @@ function _productToLinksPage(): string {
     return 'airpods-pro-2';
 }
 
-function _selectOption(questionId: string, value: string) {
+function selectOption(questionId: string, value: string) {
     answers.value[questionId] = value;
     currentStep.value++;
 }
 
-function _goBack() {
+function goBack() {
     if (currentStep.value > 0) {
         currentStep.value--;
         // Remove this answer and any answers from questions that may no longer exist
@@ -1665,7 +1665,7 @@ function _goBack() {
     }
 }
 
-function _restart() {
+function restart() {
     currentStep.value = 0;
     answers.value = {};
 }
