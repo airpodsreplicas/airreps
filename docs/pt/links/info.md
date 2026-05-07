@@ -1,17 +1,17 @@
 ---
 description: Diretório de vendedores verificados e links diretos de compra para todos os modelos de réplicas de AirPods.
 faq:
-  - q: "Will I get a good quality unit?"
+  - q: "Vou receber uma unidade de boa qualidade?"
     a: "Não é possível garantir a qualidade de uma unidade, pois ela pode variar mesmo entre unidades do mesmo vendedor. No entanto, vendedores confiáveis geralmente são conhecidos por oferecer produtos de boa qualidade."
-  - q: "How do I contact sellers?"
+  - q: "Como entro em contato com os vendedores?"
     a: "Participe do Discord do AirReps em https://airreps.link/discord para obter os números de WhatsApp dos vendedores. Alternativamente, use o AliExpress para enviar mensagens clicando em Contact Supplier."
-  - q: "Which is the best vendor?"
+  - q: "Qual é o melhor vendedor?"
     a: "O melhor vendedor varia com base nas suas necessidades. Os vendedores normalmente oferecem produtos semelhantes — por exemplo, um Pro 2 V5.2 TB da Jenny é idêntico ao da HiCity. As diferenças surgem no suporte, nos prazos de envio e nas plataformas de compra."
-  - q: "My tracking information is in Chinese. What should I do?"
+  - q: "As minhas informações de rastreamento estão em chinês. O que devo fazer?"
     a: "Copie o número de rastreamento e cole-o no 17Track (https://www.17track.net/) para ver atualizações em inglês. Alternativamente, cole as atualizações de rastreamento no Google Tradutor."
-  - q: "My card is not working. What should I do?"
+  - q: "Meu cartão não está funcionando. O que devo fazer?"
     a: "Entre em contato com o vendedor para perguntar sobre métodos de pagamento alternativos. Alguns métodos, como Wise, não oferecem proteção ao comprador. Você também pode tentar outro cartão ou comprar de outro vendedor."
-  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
+  - q: "Por que sou redirecionado para um site de cripto ao pagar com cartão de crédito?"
     a: "Vendedores confiáveis usam um gateway de pagamento de cripto seguro para processar pagamentos com Cartão de Crédito. Seu cartão compra cripto, que conclui o pedido. Se você quiser evitar KYC, use o KakoBuy, um agente que aceita cartões normais sem verificações de identidade."
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
+description: Безопасно заказывайте реплики AirPods. Способы оплаты, проверенные продавцы, советы по доставке и защита от мошенничества.
 faq:
-  - q: "What payment methods do trusted sellers accept?"
-    a: "Trusted sellers accept Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is currently not supported."
-  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
-    a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. To avoid KYC, use KakoBuy — an agent that accepts regular credit cards without identity checks."
-  - q: "Note on Alibaba links and packaging"
-    a: "Apple cracks down on replica links on AliExpress and Alibaba. Orders through Alibaba always come with neutral packaging (no Apple logo box). Sellers' direct websites and Weidian stores offer more packaging options."
+  - q: "Какие способы оплаты принимают проверенные продавцы?"
+    a: "Проверенные продавцы принимают кредитные карты, AliPay, Revolut, Wise, банковский перевод и Bitcoin. У всех продавцов есть витрины на Weidian, доступные через агентов вроде KakoBuy. PayPal в настоящее время не поддерживается."
+  - q: "Почему меня перенаправляет на крипто-сайт при оплате кредитной картой?"
+    a: "Проверенные продавцы используют безопасный крипто-платёжный шлюз для обработки платежей по кредитным картам. Ваша карта покупает криптовалюту, которая завершает заказ. Чтобы избежать KYC, используйте KakoBuy — агента, принимающего обычные кредитные карты без проверки личности."
+  - q: "Замечание о ссылках Alibaba и упаковке"
+    a: "Apple жёстко борется со ссылками на реплики на AliExpress и Alibaba. Заказы через Alibaba всегда приходят в нейтральной упаковке (без коробки с логотипом Apple). Прямые сайты продавцов и магазины Weidian предлагают больше вариантов упаковки."
 ---
 
 # Заказ

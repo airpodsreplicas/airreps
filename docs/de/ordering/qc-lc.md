@@ -1,5 +1,5 @@
 ---
-description: Master AirPods QC & LC. Spot design flaws, verify software features, and distinguish authentic units from replicas.
+description: Meistere AirPods QC & LC. Erkenne Designfehler, prüfe Softwarefunktionen und unterscheide echte Geräte von Replicas.
 ---
 
 # QC & LC

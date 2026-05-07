@@ -3,7 +3,7 @@
 layout: home
 
 title: 'AirReps'
-description: 'Der AirReps Community-Hub für Diskussionen rund um AirPods-Replikate. Hol dir Hilfe, finde vertrauenswürdige Verkäufer und entdecke unseren Ultimate Guide.'
+description: 'Der AirReps Community-Hub für Diskussionen rund um AirPods-Replikate. Hol dir Hilfe, finde vertrauenswürdige Verkäufer und entdecke unseren ultimativen Leitfaden.'
 
 hero:
   name: "AirReps"
@@ -11,11 +11,11 @@ hero:
   tagline: Eine Community für die Diskussion und Erkundung von AirPods-Klonen.
   actions:
     - theme: brand
-      text: Ultimate Guide lesen
-      link: introduction/overview
+      text: Ultimativen Leitfaden lesen
+      link: /de/introduction/overview
     - theme: alt
       text: Quiz starten
-      link: quiz
+      link: /de/quiz
 
 features:
   - icon: 🤝

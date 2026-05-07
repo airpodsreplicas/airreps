@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Lire le Guide Ultime
-      link: introduction/overview
+      link: /fr/introduction/overview
     - theme: alt
       text: Faire le Quiz
-      link: quiz
+      link: /fr/quiz
 
 features:
   - icon: 🤝

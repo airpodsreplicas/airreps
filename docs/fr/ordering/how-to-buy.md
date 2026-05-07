@@ -1,11 +1,11 @@
 ---
 description: Commander des répliques d'AirPods en toute sécurité. Méthodes de paiement, vendeurs de confiance, conseils d'expédition et prévention des arnaques.
 faq:
-  - q: "What payment methods do trusted sellers accept?"
+  - q: "Quels modes de paiement acceptent les vendeurs de confiance ?"
     a: "Les vendeurs de confiance acceptent les cartes de crédit, AliPay, Revolut, Wise, les virements bancaires et Bitcoin. Tous les vendeurs disposent de boutiques Weidian accessibles via des agents comme KakoBuy. PayPal n'est actuellement pris en charge par aucun vendeur."
-  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
+  - q: "Pourquoi suis-je redirigé vers un site crypto lors d'un paiement par carte de crédit ?"
     a: "Les vendeurs de confiance utilisent une passerelle de paiement crypto sécurisée pour traiter les paiements par carte. Votre carte achète des cryptomonnaies, qui servent ensuite à finaliser la commande. Pour éviter le KYC, utilisez KakoBuy — un agent qui accepte les cartes bancaires classiques sans vérifications d'identité."
-  - q: "Note on Alibaba links and packaging"
+  - q: "Remarque sur les liens Alibaba et l'emballage"
     a: "Apple réprime fortement les liens vers des répliques sur AliExpress et Alibaba. Les commandes passées via Alibaba sont toujours expédiées dans un emballage neutre (sans boîte avec le logo Apple). Les sites directs des vendeurs et les boutiques Weidian offrent généralement plus d'options d'emballage."
 ---
 
@@ -27,7 +27,7 @@ Commander est simple : choisissez le produit que vous voulez et passez à la cai
 Les paiements via Wise ou Bank Transfer nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures avant que votre commande soit traitée.
 :::
 
-## Paying with AliPay
+## Paiement avec AliPay
 
 De nombreux vendeurs de confiance acceptent maintenant AliPay, permettant des paiements par carte faciles sans vérification KYC.
 

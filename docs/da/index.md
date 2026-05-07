@@ -3,7 +3,7 @@
 layout: home
 
 title: 'AirReps'
-description: 'AirReps-fællesskabets centrum for diskussioner om AirPods-kopier. Få hjælp, find betroede sælgere, og udforsk vores ultimative guide.'
+description: 'AirReps-fællesskabets centrum for diskussioner om AirPods-kopier. Få hjælp, find betroede sælgere, og udforsk vores komplette guide.'
 
 hero:
   name: "AirReps"
@@ -11,11 +11,11 @@ hero:
   tagline: Et fællesskab for diskussion og udforskning af AirPods-kloner.
   actions:
     - theme: brand
-      text: Læs den ultimative guide
-      link: introduction/overview
+      text: Læs den komplette guide
+      link: /da/introduction/overview
     - theme: alt
       text: Tag quizzen
-      link: quiz
+      link: /da/quiz
 
 features:
   - icon: 🤝

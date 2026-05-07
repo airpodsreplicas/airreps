@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Читать Полное Руководство
-      link: introduction/overview
+      link: /ru/introduction/overview
     - theme: alt
       text: Пройти викторину
-      link: quiz
+      link: /ru/quiz
 
 features:
   - icon: 🤝

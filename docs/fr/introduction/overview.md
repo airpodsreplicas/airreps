@@ -1,6 +1,6 @@
 ---
-title: Ultimate Guide
-description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot replica AirPods."
+title: Guide Ultime
+description: "Le Guide Ultime AirReps — comparer, acheter et dépanner les répliques d'AirPods."
 ---
 
 # Guide Ultime AirReps

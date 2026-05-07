@@ -1,17 +1,17 @@
 ---
 description: Oversigt over verificerede sælgere og direkte købslinks til alle AirPods-kopi-modeller.
 faq:
-  - q: "Will I get a good quality unit?"
+  - q: "Får jeg en enhed af god kvalitet?"
     a: "Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere selv blandt enheder fra samme sælger. Dog er betroede sælgere generelt kendt for at tilbyde produkter af god kvalitet."
-  - q: "How do I contact sellers?"
+  - q: "Hvordan kontakter jeg sælgere?"
     a: "Deltag i AirReps Discord på https://airreps.link/discord for at få sælgeres WhatsApp-numre. Alternativt brug AliExpress til at sende dem en besked ved at klikke Kontakt leverandør."
-  - q: "Which is the best vendor?"
+  - q: "Hvilken er den bedste sælger?"
     a: "Den bedste forhandler varierer afhængigt af dine behov. Forhandlere tilbyder typisk lignende produkter — for eksempel er en Pro 2 V5.2 TB fra Jenny identisk med en fra HiCity. Forskelle opstår i support, leveringstider og de platforme, hvorigennem købene foretages."
-  - q: "My tracking information is in Chinese. What should I do?"
+  - q: "Mine sporingsoplysninger er på kinesisk. Hvad skal jeg gøre?"
     a: "Kopier sporingsnummeret og indsæt det på 17Track (https://www.17track.net/) for at se opdateringer på engelsk. Alternativt kan du indsætte sporingsopdateringer i Google Translate."
-  - q: "My card is not working. What should I do?"
+  - q: "Mit kort virker ikke. Hvad skal jeg gøre?"
     a: "Kontakt sælgeren for at spørge om alternative betalingsmetoder. Nogle metoder som Wise tilbyder ikke køberbeskyttelse. Du kan også prøve et andet kort eller købe fra en anden sælger."
-  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
+  - q: "Hvorfor bliver jeg omdirigeret til en kryptowebsite, når jeg betaler med kreditkort?"
     a: "Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle kreditkortbetalinger. Dit kort køber krypto, som fuldfører ordren. Hvis du vil undgå KYC, brug KakoBuy, en agent der accepterer almindelige kreditkort uden identitetskontrol."
 ---
 
@@ -21,7 +21,7 @@ faq:
 Denne liste holdes opdateret. Højere versionsnummer betyder næsten altid bedre.
 :::
 
-Følgende liste indeholder kun links til verificerede sælgere. Hvis du kender til sælgere, der er troværdige og fortjener verificering, bedes du informere en Ultimate Guide-forfatter eller skrive en anmeldelse om deres produkt og publicere den på AirReps-forummerne. For at sikre kvaliteten og ægtheden af dine Apple AirPods-kopier anbefaler vi kun at købe fra disse verificerede sælgere.
+Følgende liste indeholder kun links til verificerede sælgere. Hvis du kender til sælgere, der er troværdige og fortjener verificering, bedes du informere en forfatter af Ultimativ Guide eller skrive en anmeldelse om deres produkt og publicere den på AirReps-forummerne. For at sikre kvaliteten og ægtheden af dine Apple AirPods-kopier anbefaler vi kun at købe fra disse verificerede sælgere.
 
 ## Vælg det produkt, du vil se links for
 

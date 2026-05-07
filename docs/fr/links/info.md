@@ -1,17 +1,17 @@
 ---
 description: Annuaire des vendeurs vérifiés et des liens d'achat directs pour tous les modèles de répliques d'AirPods.
 faq:
-  - q: "Will I get a good quality unit?"
+  - q: "Vais-je recevoir une unité de bonne qualité ?"
     a: "Il n'est pas possible de garantir la qualité d'une unité, car elle peut varier même entre des unités du même vendeur. Cependant, les vendeurs de confiance sont généralement connus pour proposer des produits de bonne qualité."
-  - q: "How do I contact sellers?"
+  - q: "Comment contacter les vendeurs ?"
     a: "Rejoignez le Discord AirReps à https://airreps.link/discord pour obtenir les numéros WhatsApp des vendeurs. Alternativement, utilisez AliExpress pour leur envoyer un message en cliquant sur « Contacter le Fournisseur »."
-  - q: "Which is the best vendor?"
+  - q: "Quel est le meilleur vendeur ?"
     a: "Le meilleur vendeur varie en fonction de vos besoins. Les vendeurs proposent généralement des produits similaires — par exemple, un Pro 2 V5.2 TB de Jenny est identique à celui de HiCity. Les différences se situent au niveau du support, des délais d'expédition et des plateformes d'achat."
-  - q: "My tracking information is in Chinese. What should I do?"
+  - q: "Mes informations de suivi sont en chinois. Que dois-je faire ?"
     a: "Copiez le numéro de suivi et collez-le sur 17Track (https://www.17track.net/) pour voir les mises à jour en anglais. Alternativement, collez les mises à jour de suivi dans Google Traduction."
-  - q: "My card is not working. What should I do?"
+  - q: "Ma carte ne fonctionne pas. Que dois-je faire ?"
     a: "Contactez le vendeur pour demander des méthodes de paiement alternatives. Certaines méthodes, comme Wise, n'offrent pas de protection acheteur. Vous pouvez aussi essayer une autre carte ou acheter auprès d'un autre vendeur."
-  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
+  - q: "Pourquoi suis-je redirigé vers un site crypto lors d'un paiement par carte de crédit ?"
     a: "Les vendeurs de confiance utilisent une passerelle de paiement crypto sécurisée pour traiter les paiements par carte de crédit. Votre carte sert à acheter de la crypto, qui finalise ensuite la commande. Si vous souhaitez éviter la KYC, utilisez KakoBuy, un agent qui accepte les cartes de crédit classiques sans vérifications d'identité."
 ---
 

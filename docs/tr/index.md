@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Kapsamlı Rehberi Oku
-      link: introduction/overview
+      link: /tr/introduction/overview
     - theme: alt
       text: Testi Çöz
-      link: quiz
+      link: /tr/quiz
 
 features:
   - icon: 🤝

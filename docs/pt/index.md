@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Leia o Guia Definitivo
-      link: introduction/overview
+      link: /pt/introduction/overview
     - theme: alt
       text: Faça o Quiz
-      link: quiz
+      link: /pt/quiz
 
 features:
   - icon: 🤝

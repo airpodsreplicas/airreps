@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Czytaj Kompletny Przewodnik
-      link: introduction/overview
+      link: /pl/introduction/overview
     - theme: alt
       text: Rozwiąż Quiz
-      link: quiz
+      link: /pl/quiz
 
 features:
   - icon: 🤝
@@ -34,11 +34,5 @@ features:
     link: /pl/links/info
     linkText: Zobacz sprzedawców
 ---
-
-## Czym jest AirReps?
-
-AirReps to największa społeczność poświęcona replikom AirPods. Prowadzimy obszerny, zarządzany przez społeczność przewodnik, który obejmuje wszystko, co musisz wiedzieć o kupowaniu replik AirPods — od wyboru odpowiedniego modelu i znalezienia zaufanych sprzedawców, po porównywanie wersji, zrozumienie funkcji takich jak ANC i Spatial Audio oraz rozwiązywanie typowych problemów.
-
-Nasz [Kompletny Przewodnik](/pl/introduction/overview) jest stale aktualizowany i dostępny w 9 językach. Niezależnie od tego, czy szukasz najlepszego klonu AirPods Pro 2, chcesz poznać różnicę między chipsetami, czy potrzebujesz pomocy przy pierwszym zakupie, AirReps Cię wesprze. Nie wiesz, od czego zacząć? Rozwiąż nasz [krótki quiz](/pl/quiz), aby znaleźć najlepszą replikę odpowiadającą Twoim potrzebom i budżetowi.
 
 <Contributor></Contributor>

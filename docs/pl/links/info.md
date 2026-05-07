@@ -21,7 +21,7 @@ faq:
 Ta lista jest na bieżąco aktualizowana. Wyższa wersja prawie zawsze oznacza lepszy produkt.
 :::
 
-Poniższa lista zawiera linki tylko do zweryfikowanych sprzedawców. Jeśli znasz sprzedawców, którzy są godni zaufania i zasługują na weryfikację, poinformuj autora Ultimate Guide lub napisz recenzję ich produktu i opublikuj ją na forach AirReps. Aby zapewnić jakość i autentyczność swoich replik Apple AirPods, zalecamy zakup wyłącznie u tych zweryfikowanych sprzedawców.
+Poniższa lista zawiera linki tylko do zweryfikowanych sprzedawców. Jeśli znasz sprzedawców, którzy są godni zaufania i zasługują na weryfikację, poinformuj autora Kompletnego Przewodnika lub napisz recenzję ich produktu i opublikuj ją na forach AirReps. Aby zapewnić jakość i autentyczność swoich replik Apple AirPods, zalecamy zakup wyłącznie u tych zweryfikowanych sprzedawców.
 
 ## Wybierz produkt, dla którego chcesz zobaczyć linki
 

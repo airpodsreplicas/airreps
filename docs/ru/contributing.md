@@ -2,114 +2,114 @@
 description: "Как внести вклад в проект AirReps. Форкните репозиторий, настройте среду, внесите изменения и отправьте pull request."
 ---
 
-# Contributing Guidelines
+# Руководство по внесению вклада
 
-We're delighted by your interest in contributing to our project. To streamline your contribution process, we have provided a detailed, step-by-step guide below.
+Мы рады вашему интересу внести вклад в наш проект. Чтобы упростить процесс, мы подготовили подробное пошаговое руководство ниже.
 
 ::: tip
-For ease of managing your contributions, we recommend using [GitHub Desktop](https://desktop.github.com/), a GUI-based GitHub client.
+Для удобства управления своими изменениями мы рекомендуем использовать [GitHub Desktop](https://desktop.github.com/) — графический клиент GitHub.
 :::
 
-## Forking and Cloning the Repository
+## Форк и клонирование репозитория
 
-Follow these steps to fork the repository, clone it, create a new branch, and set up your local development environment:
+Выполните следующие шаги, чтобы сделать форк репозитория, клонировать его, создать новую ветку и настроить локальную среду разработки:
 
-1. Go to the GitHub page of the project [by clicking here](https://github.com/AirPodsReplicas/AirReps)
-2. Click on `Fork` in the top right corner. This will create a copy of the repository in your GitHub account
-3. Open [GitHub Desktop](https://desktop.github.com/).
-4. In the top menu of GitHub Desktop, navigate to `File` > `Clone Repository...`.
-5. In the GitHub.com category, you should see the repository that you forked.
-6. To clone the repository, click on `Clone`.
-7. Upon completion of the cloning process, navigate to `Current Branch`, then select `New Branch`. Here, input a descriptive name for your new branch.
+1. Перейдите на страницу проекта на GitHub [по этой ссылке](https://github.com/AirPodsReplicas/AirReps)
+2. Нажмите `Fork` в правом верхнем углу. Это создаст копию репозитория в вашей учётной записи GitHub
+3. Откройте [GitHub Desktop](https://desktop.github.com/).
+4. В верхнем меню GitHub Desktop выберите `File` > `Clone Repository...`.
+5. В категории GitHub.com вы должны увидеть форкнутый репозиторий.
+6. Чтобы клонировать репозиторий, нажмите `Clone`.
+7. После завершения клонирования перейдите в `Current Branch` и выберите `New Branch`. Введите понятное имя для новой ветки.
 
 ::: warning
-The main branch is a protected branch. As such, direct editing is not allowed. Always create a new branch for your changes.
+Ветка main защищена. Прямое редактирование в ней недопустимо. Всегда создавайте новую ветку для своих изменений.
 :::
 
-8. Navigate to the `airreps` directory in your local environment.
-9. Open the project in an Integrated Development Environment (IDE) of your choice. We recommend [Visual Studio Code](https://code.visualstudio.com/), a feature-rich, free IDE. You can also use AI-powered IDEs like [Cursor](https://cursor.com/) or [Google's Antigravity](https://antigravity.google), which can make contributing much easier by helping with code suggestions and documentation.
+8. Перейдите в каталог `airreps` в локальной среде.
+9. Откройте проект в среде разработки (IDE) на ваш выбор. Мы рекомендуем [Visual Studio Code](https://code.visualstudio.com/) — функциональную бесплатную IDE. Также можно использовать IDE на базе ИИ, такие как [Cursor](https://cursor.com/) или [Antigravity от Google](https://antigravity.google), которые значительно упрощают вклад благодаря подсказкам по коду и документации.
 
-## Setting Up the Development Environment
+## Настройка среды разработки
 
-Choose from the two options below to set up your development environment:
+Выберите один из двух вариантов настройки среды разработки:
 
-### Option 1 (Recommended)
+### Вариант 1 (Рекомендуемый)
 
-To set up an optimal development environment:
+Чтобы настроить оптимальную среду разработки:
 
-1. [Install Bun](https://bun.sh/). This project uses Bun as the package manager and runtime.
-2. [Install Node.js](https://nodejs.org/). We recommend the Long-Term Support (LTS) version.
-3. After installation, open the terminal within your IDE and execute the following command:
+1. [Установите Bun](https://bun.sh/). В этом проекте Bun используется как пакетный менеджер и среда выполнения.
+2. [Установите Node.js](https://nodejs.org/). Рекомендуется LTS-версия с долгосрочной поддержкой.
+3. После установки откройте терминал внутри IDE и выполните следующую команду:
 
 ```shell
 bun install
 ```
 
-4. Start the documentation development server:
+4. Запустите сервер разработки документации:
 
 ```shell
 bun run docs:dev
 ```
 
-5. The terminal will then display a local URL, such as `http://localhost:5173`. Visit this URL in your web browser to see the documentation. The page will automatically refresh as you modify the source files.
+5. В терминале появится локальный URL, например `http://localhost:5173`. Откройте этот адрес в браузере, чтобы увидеть документацию. Страница автоматически обновляется при изменении исходных файлов.
 
-### Option 2
+### Вариант 2
 
-This method lets you work directly with markdown files, although it might not accurately render specific VitePress features.
+Этот способ позволяет работать напрямую с markdown-файлами, хотя он может неточно отображать некоторые возможности VitePress.
 
-1. Open [Visual Studio Code](https://code.visualstudio.com/) or your preferred IDE.
-2. Install the [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) extension for Visual Studio Code. This can be found in the `Extensions` tab on the sidebar.
-3. Open any markdown file from the `docs` directory.
-4. To enable the Markdown Preview, open the command palette with `Ctrl + Shift + P` (Windows) or `Cmd + Shift + P` (Mac).
-5. Search for `Markdown Preview` and select `Markdown: Open Preview`.
+1. Откройте [Visual Studio Code](https://code.visualstudio.com/) или предпочитаемую IDE.
+2. Установите расширение [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) для Visual Studio Code. Его можно найти на вкладке `Extensions` в боковой панели.
+3. Откройте любой markdown-файл из директории `docs`.
+4. Чтобы открыть предпросмотр Markdown, вызовите палитру команд: `Ctrl + Shift + P` (Windows) или `Cmd + Shift + P` (Mac).
+5. Найдите `Markdown Preview` и выберите `Markdown: Open Preview`.
 
 ::: warning
-Keep in mind that VitePress offers additional features not available in standard markdown. Therefore, this method may not precisely reflect the final formatting when viewed on the actual documentation website.
+Учтите, что VitePress предоставляет дополнительные возможности, отсутствующие в стандартном markdown. Поэтому этот способ может не точно отражать итоговое оформление на сайте документации.
 :::
 
-## Submitting Changes
+## Отправка изменений
 
-Once you've made changes, follow the steps below to submit them for review:
+Когда изменения готовы, выполните следующие шаги для отправки на ревью:
 
-1. If you chose Option 1 under [Setting Up the Development Environment](#option-1-recommended), ensure the pages will build correctly by running the following command:
+1. Если вы выбрали Вариант 1 из раздела [Настройка среды разработки](#вариант-1-рекомендуемый), убедитесь, что страницы корректно собираются, выполнив следующую команду:
 
 ```shell
 bun run docs:build
 ```
 
 ::: danger
-If the output displays `Command failed` or any other error message, there is an issue. The error message should provide insight into the problem. If you're unsure about the issue, you can contact our staff members in our [Discord Server](https://airreps.link/discord).
+Если в выводе появится сообщение `Command failed` или другая ошибка, значит есть проблема. Сообщение об ошибке должно дать понимание сути. Если вы не уверены, обратитесь к нашим сотрудникам в [Discord-сервере](https://airreps.link/discord).
 :::
 
-2. Open GitHub Desktop. The left-hand pane will show the number of changed files.
-3. You can view the changes made to each file. Select one file at a time and fill out the `Summary (required)` field. If needed, provide additional details in the `Description` field. Click on `Commit to the branch you created` to commit your changes.
-4. Now, click on `Push changes to x` *(x being the name of the branch you created)* to upload your changes to GitHub.
+2. Откройте GitHub Desktop. На левой панели будет показано количество изменённых файлов.
+3. Вы можете просмотреть изменения по каждому файлу. Выберите файл и заполните поле `Summary (required)`. При необходимости добавьте подробности в поле `Description`. Нажмите `Commit to the branch you created`, чтобы зафиксировать изменения.
+4. Затем нажмите `Push changes to x` *(где x — имя созданной вами ветки)*, чтобы загрузить изменения на GitHub.
 
 ::: tip
-If you've committed all the files, well done! Your next step will be to push your changes to GitHub and create a Pull Request.
+Если вы зафиксировали все файлы — отлично! Следующий шаг — отправить изменения на GitHub и создать Pull Request.
 :::
 
-## Creating a Pull Request
+## Создание Pull Request
 
-Follow these steps to create a pull request to propose merging your changes into the main branch:
+Выполните следующие шаги, чтобы создать pull request и предложить слияние ваших изменений в основную ветку:
 
-1. With all your changes committed and pushed to your remote branch, it's time to create a pull request.
-2. Go to your forked repository on GitHub's website.
-3. Click on `New pull request`. You'll be redirected to the original repository's page.
-4. Ensure the base repository is `base: main` and the head repository is `<your_username>/<your_branch_name>`.
-5. Review your changes and fill out the form with a clear description of what you changed and why. *for reference; you can check out this [exemplary pull request](https://github.com/AirPodsReplicas/AirReps/pull/20).*
-6. Click on `Create pull request`.
-7. After you submit your pull request, GitHub Actions will attempt to build your changes to detect any issues. If there are no issues, a repository contributor will review your changes and either merge them or request further changes.
+1. После того как все изменения зафиксированы и отправлены в удалённую ветку, пора создавать pull request.
+2. Перейдите в свой форкнутый репозиторий на сайте GitHub.
+3. Нажмите `New pull request`. Вас перенаправят на страницу исходного репозитория.
+4. Убедитесь, что базовый репозиторий — `base: main`, а исходный — `<your_username>/<your_branch_name>`.
+5. Просмотрите изменения и заполните форму с понятным описанием того, что и зачем вы изменили. *Для примера можно посмотреть этот [образцовый pull request](https://github.com/AirPodsReplicas/AirReps/pull/20).*
+6. Нажмите `Create pull request`.
+7. После отправки pull request GitHub Actions попытается собрать ваши изменения, чтобы выявить проблемы. Если проблем нет, участник репозитория проверит изменения и либо примет их, либо запросит правки.
 
-## What Can You Contribute?
+## Чем можно помочь?
 
-After a successful merge, your GitHub profile will automatically be included in the `Contributors` section located at the bottom of our home page. Should you prefer your profile to be omitted from this section for any reason, please reach out to a member of our staff for assistance with profile removal.
+После успешного слияния ваш профиль GitHub автоматически будет включён в раздел `Contributors` в нижней части главной страницы. Если по какой-то причине вы предпочитаете, чтобы профиль не отображался в этом разделе, обратитесь к одному из наших сотрудников для удаления профиля.
 
-- **Fix typos or errors** - Spotted a mistake? Submit a quick fix!
-- **Update outdated information** - Help keep the guide current
-- **Add new content** - Document new addons, features, or configurations
-- **Improve clarity** - Make explanations easier to understand
-- **Add screenshots** - Visual guides are always helpful
-- **Suggest improvements** - Have ideas? Open an issue to discuss
+- **Исправить опечатки или ошибки** — Заметили неточность? Отправьте быстрое исправление!
+- **Обновить устаревшую информацию** — Помогите поддерживать руководство в актуальном состоянии
+- **Добавить новый контент** — Документируйте новые дополнения, функции или конфигурации
+- **Улучшить ясность** — Сделайте объяснения проще для понимания
+- **Добавить скриншоты** — Визуальные руководства всегда полезны
+- **Предложить улучшения** — Есть идеи? Откройте issue для обсуждения
 
-Thank you for your commitment to improving our project!
+Спасибо за ваш вклад в улучшение нашего проекта!

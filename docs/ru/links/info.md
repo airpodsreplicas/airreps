@@ -1,18 +1,18 @@
 ---
-description: Directory of verified sellers and direct purchase links for all AirPods replica models.
+description: Каталог проверенных продавцов и прямых ссылок для покупки всех моделей реплик AirPods.
 faq:
-  - q: "Will I get a good quality unit?"
-    a: "It is not possible to guarantee the quality of a unit, as it can vary even among units from the same seller. However, trusted sellers are generally known for offering good quality products."
-  - q: "How do I contact sellers?"
-    a: "Join the AirReps Discord at https://airreps.link/discord to obtain seller WhatsApp numbers. Alternatively, use AliExpress to message them by clicking Contact Supplier."
-  - q: "Which is the best vendor?"
-    a: "The best vendor varies based on your needs. Vendors typically offer similar products — for example, a Pro 2 V5.2 TB from Jenny is identical to one from HiCity. Differences arise in support, shipping times, and purchasing platforms."
-  - q: "My tracking information is in Chinese. What should I do?"
-    a: "Copy the tracking number and paste it into 17Track (https://www.17track.net/) to see updates in English. Alternatively, paste tracking updates into Google Translate."
-  - q: "My card is not working. What should I do?"
-    a: "Contact the seller to ask about alternative payment methods. Some methods like Wise do not offer buyer protection. You can also try a different card or purchase from a different seller."
-  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
-    a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. If you want to avoid KYC, use KakoBuy, an agent that accepts regular credit cards without identity checks."
+  - q: "Получу ли я экземпляр хорошего качества?"
+    a: "Гарантировать качество конкретного экземпляра невозможно, так как оно может различаться даже среди экземпляров от одного продавца. Тем не менее, проверенные продавцы обычно известны тем, что предлагают продукты хорошего качества."
+  - q: "Как связаться с продавцами?"
+    a: "Присоединяйтесь к Discord AirReps по адресу https://airreps.link/discord, чтобы получить номера WhatsApp продавцов. Альтернативно используйте AliExpress, чтобы написать им, нажав «Связаться с поставщиком»."
+  - q: "Какой продавец лучший?"
+    a: "Лучший продавец зависит от ваших потребностей. Продавцы обычно предлагают похожие продукты — например, Pro 2 V5.2 TB от Jenny идентичен такому же от HiCity. Различия возникают в поддержке, сроках доставки и платформах для покупок."
+  - q: "Информация о моём отслеживании на китайском. Что мне делать?"
+    a: "Скопируйте трек-номер и вставьте его на 17Track (https://www.17track.net/), чтобы увидеть обновления на английском. Альтернативно вставьте обновления отслеживания в Google Переводчик."
+  - q: "Моя карта не работает. Что мне делать?"
+    a: "Свяжитесь с продавцом, чтобы спросить об альтернативных способах оплаты. Некоторые методы, такие как Wise, не предлагают защиту покупателя. Вы также можете попробовать другую карту или купить у другого продавца."
+  - q: "Почему меня перенаправляет на крипто-сайт при оплате кредитной картой?"
+    a: "Проверенные продавцы используют безопасный крипто-платёжный шлюз для обработки платежей по кредитным картам. Ваша карта покупает криптовалюту, которая завершает заказ. Если вы хотите избежать KYC, используйте KakoBuy — агента, принимающего обычные кредитные карты без проверки личности."
 ---
 
 # Ссылки
@@ -21,7 +21,7 @@ faq:
 Этот список постоянно обновляется. Более высокая версия почти всегда означает лучше.
 :::
 
-В следующий список включены только ссылки на проверенных продавцов. Если вы знаете продавцов, которым можно доверять и которые заслуживают проверки, пожалуйста, сообщите автору Ultimate Guide или напишите обзор их продукта и опубликуйте его на форумах AirReps. Чтобы обеспечить качество и подлинность ваших реплик Apple AirPods, мы рекомендуем покупать только у этих проверенных продавцов.
+В следующий список включены только ссылки на проверенных продавцов. Если вы знаете продавцов, которым можно доверять и которые заслуживают проверки, пожалуйста, сообщите автору Полного Руководства или напишите обзор их продукта и опубликуйте его на форумах AirReps. Чтобы обеспечить качество и подлинность ваших реплик Apple AirPods, мы рекомендуем покупать только у этих проверенных продавцов.
 
 ## Выберите продукт для просмотра ссылок
 

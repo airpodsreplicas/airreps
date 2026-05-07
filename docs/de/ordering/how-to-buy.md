@@ -1,11 +1,11 @@
 ---
-description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
+description: Bestelle AirPods Replicas sicher. Zahlungsmethoden, vertrauenswürdige Verkäufer, Versandtipps und Schutz vor Betrug.
 faq:
-  - q: "Which payment methods do trusted sellers accept?"
+  - q: "Welche Zahlungsmethoden akzeptieren vertrauenswürdige Verkäufer?"
     a: "Vertrauenswürdige Verkäufer akzeptieren Kreditkarten, AliPay, Revolut, Wise, Banküberweisung und Bitcoin. Alle Verkäufer haben Weidian-Storefronts, die über Agenten wie KakoBuy zugänglich sind. PayPal wird derzeit nicht unterstützt."
-  - q: "Why am I redirected to a crypto website when paying via Credit Card?"
+  - q: "Warum werde ich bei der Zahlung mit Kreditkarte auf eine Krypto-Website weitergeleitet?"
     a: "Vertrauenswürdige Verkäufer verwenden ein sicheres Krypto-Zahlungsgateway, um Kreditkartenzahlungen abzuwickeln. Deine Karte kauft Krypto, womit die Bestellung abgeschlossen wird. Um KYC zu vermeiden, nutze KakoBuy — einen Agenten, der reguläre Kreditkarten ohne Identitätsprüfung akzeptiert."
-  - q: "Note on Alibaba links and packaging"
+  - q: "Hinweis zu Alibaba-Links und Verpackung"
     a: "Apple geht gegen Replica-Links auf AliExpress und Alibaba vor. Bestellungen über Alibaba werden immer mit neutraler Verpackung (ohne Apple-Logo-Box) geliefert. Die direkten Websites der Verkäufer und Weidian-Stores bieten mehr Verpackungsoptionen."
 ---
 
