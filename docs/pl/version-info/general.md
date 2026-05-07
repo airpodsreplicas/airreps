@@ -47,11 +47,11 @@ Wszystkim modelom brakuje następującej funkcji:
 ## FAQ
 
 ::: details Czy dostępne są repliki AirPods Max?
-Repliki AirPods Max są już dostępne i stały się dopracowanymi produktami. Jenny i HiCity sprzedają repliki AirPods Max oparte na układzie Airoha 1561M. Ceny się ustabilizowały. Po aktualne informacje zaglądaj na [subreddit r/AirReps](https://www.reddit.com/r/AirReps/) oraz [Discord AirReps](https://discord.com/invite/airreps).
+Repliki AirPods Max są już dostępne i stały się dopracowanymi produktami. Jenny i HiCity sprzedają repliki AirPods Max oparte na układzie Airoha 1561M. Ceny się ustabilizowały. Po aktualne informacje zaglądaj na [subreddit r/AirReps](https://www.reddit.com/r/AirReps/) oraz [Discord AirReps](https://airreps.link/discord).
 :::
 
 ::: details Czy dostępne są repliki AirPods Pro 3?
-Repliki AirPods Pro 3 są dostępne. V7 (Huilian 377H3) to pierwsza wersja z wyższej półki — wyposażona w czujnik tętna, ulepszone AI Hybrid ANC i sterowanie ruchami głowy. Linki do zakupu pojawią się wkrótce. V6 jest obecnie dostępna u zaufanych sprzedawców. Po więcej informacji odwiedź stronę [informacji o wersji AirPods Pro 3](/pl/version-info/airpods-pro-3).
+Repliki AirPods Pro 3 są dostępne. V7 (Huilian 377H3) to pierwsza wersja z wyższej półki — wyposażona w czujnik tętna, ulepszone AI Hybrid ANC i sterowanie ruchami głowy. Zarówno V7, jak i V6 są dostępne u zaufanych sprzedawców. Po więcej informacji odwiedź stronę [informacji o wersji AirPods Pro 3](/pl/version-info/airpods-pro-3).
 :::
 
 ::: details Dlaczego podobne społeczności mogą mieć nowsze produkty niż ten przewodnik?
@@ -71,7 +71,7 @@ Aby zidentyfikować chipset w swoich klonach AirPods, skorzystaj z listy [przyda
 :::
 
 ::: details Jak sprawdzić, czy moje AirPods są prawdziwe?
-Aby szybko sprawdzić, czy Twoje AirPods są oryginalne, podłącz je do iPhone'a i wejdź w Ustawienia > Ogólne > Informacje. Jeśli przewijając, zobaczysz sekcję „AirPods", sprawdź, czy widoczny tam numer seryjny zgadza się z numerem seryjnym wewnątrz pokrywy etui ([Sprawdź Tutaj](http://airreps.info/aboutsection)). Jeśli sekcji AirPods nie ma, prawdopodobnie są to podróbki. Niektóre nowsze repliki mogą mieć działającą stronę „Informacje" — wtedy sprawdź obecność Spatial Audio i śledzenia ruchów głowy. W przypadku AirPods możesz też zweryfikować wersję firmware na stronie Informacje, aby upewnić się, że odpowiada najnowszej wersji wydanej przez Apple. Jeśli nie masz pewności co do autentyczności swoich AirPods i nie możesz tego sprawdzić przed zakupem, poproś o pomoc na [subreddicie r/airreps](https://www.reddit.com/r/AirReps/) lub [Discordzie](https://discord.com/invite/airreps).
+Aby szybko sprawdzić, czy Twoje AirPods są oryginalne, podłącz je do iPhone'a i wejdź w Ustawienia > Ogólne > Informacje. Jeśli przewijając, zobaczysz sekcję „AirPods", sprawdź, czy widoczny tam numer seryjny zgadza się z numerem seryjnym wewnątrz pokrywy etui ([Sprawdź Tutaj](http://airreps.info/aboutsection)). Jeśli sekcji AirPods nie ma, prawdopodobnie są to podróbki. Niektóre nowsze repliki mogą mieć działającą stronę „Informacje" — wtedy sprawdź obecność Spatial Audio i śledzenia ruchów głowy. W przypadku AirPods możesz też zweryfikować wersję firmware na stronie Informacje, aby upewnić się, że odpowiada najnowszej wersji wydanej przez Apple. Jeśli nie masz pewności co do autentyczności swoich AirPods i nie możesz tego sprawdzić przed zakupem, poproś o pomoc na [subreddicie r/airreps](https://www.reddit.com/r/AirReps/) lub [Discordzie](https://airreps.link/discord).
 :::
 
 ::: details Czy i9999, Superpods itp. są lepsze niż Supercopy lub produkty z przewodnika?

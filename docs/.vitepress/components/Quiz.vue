@@ -4,6 +4,14 @@ import { computed, ref } from 'vue';
 
 const { lang } = useData();
 
+// Prefixes internal paths with the current locale (no-op for English).
+// Quiz links are hardcoded as English-rooted paths; without this the result
+// page sends every non-EN visitor back to the English copies.
+const localeUrl = (path: string): string => {
+    const base = lang.value.split('-')[0];
+    return base === 'en' ? path : `/${base}${path}`;
+};
+
 // --- i18n ---
 const i18n: Record<string, Record<string, string>> = {
     'en-US': {
@@ -1689,7 +1697,7 @@ function restart() {
       <h3>{{ activeQuestions[currentStep].question }}</h3>
       <p v-if="activeQuestions[currentStep].hint" class="quiz-hint">
         {{ activeQuestions[currentStep].hint }}
-        <a href="/ordering/how-to-buy">{{ t('orderLink') }}</a>
+        <a :href="localeUrl('/ordering/how-to-buy')">{{ t('orderLink') }}</a>
       </p>
       <div class="quiz-options">
         <button
@@ -1723,7 +1731,7 @@ function restart() {
       <div class="quiz-result-links">
         <h4>{{ t('learnMore') }}</h4>
         <div class="quiz-link-list">
-          <a v-for="link in product.links" :key="link.url" :href="link.url" class="quiz-link">
+          <a v-for="link in product.links" :key="link.url" :href="localeUrl(link.url)" class="quiz-link">
             {{ link.text }} &rarr;
           </a>
         </div>
@@ -1741,7 +1749,7 @@ function restart() {
           <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer" class="quiz-buy-link kakobuy">
             {{ t('kakobuySignup') }}
           </a>
-          <a :href="`/links/${productToLinksPage()}`" class="quiz-buy-link secondary">
+          <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allSellerLinks') }} &rarr;
           </a>
         </div>
@@ -1753,7 +1761,7 @@ function restart() {
           <a href="https://earhive.com" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ t('orderFromAlibaba') }}
           </a>
-          <a href="/ordering/how-to-buy" class="quiz-buy-link secondary">
+          <a :href="localeUrl('/ordering/how-to-buy')" class="quiz-buy-link secondary">
             {{ t('howToBuyGuide') }} &rarr;
           </a>
         </div>
@@ -1764,10 +1772,10 @@ function restart() {
             {{ t('orderFrom') }} {{ recommendedSeller.name }}
           </a>
           <p class="quiz-seller-note">{{ recommendedSeller.strength }}</p>
-          <a :href="`/links/${productToLinksPage()}`" class="quiz-buy-link secondary">
+          <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allSellerLinks') }} &rarr;
           </a>
-          <a href="/links/info#payment-methods" class="quiz-buy-link secondary">
+          <a :href="localeUrl('/links/info#payment-methods')" class="quiz-buy-link secondary">
             {{ t('comparePayments') }} &rarr;
           </a>
         </div>
@@ -1787,7 +1795,7 @@ function restart() {
           <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer" class="quiz-buy-link kakobuy">
             {{ t('kakobuySignup') }}
           </a>
-          <a :href="`/links/${productToLinksPage()}`" class="quiz-buy-link secondary">
+          <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allLinksWeidian') }} &rarr;
           </a>
         </div>

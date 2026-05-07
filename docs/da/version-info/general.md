@@ -47,11 +47,11 @@ Alle modeller mangler følgende funktion:
 ## FAQ
 
 ::: details Er AirPods Max-kopier tilgængelige?
-AirPods Max-kopier er nu tilgængelige og er blevet velafrundede kopier. Jenny og HiCity sælger AirPods Max-kopier med Airoha 1561M. Priserne er stabiliseret. For opdateringer, besøg [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) og [AirReps Discord](https://discord.com/invite/airreps).
+AirPods Max-kopier er nu tilgængelige og er blevet velafrundede kopier. Jenny og HiCity sælger AirPods Max-kopier med Airoha 1561M. Priserne er stabiliseret. For opdateringer, besøg [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) og [AirReps Discord](https://airreps.link/discord).
 :::
 
 ::: details Er AirPods Pro 3-kopier tilgængelige?
-AirPods Pro 3-kopier er tilgængelige. V7 (Huilian 377H3) er den første high-end version med pulssensor, opgraderet AI Hybrid ANC og hovedbevægelseskontroller — købslinks kommer snart. V6 er i øjeblikket tilgængelig fra betroede sælgere. For mere information, se [AirPods Pro 3 versionsinfo](/da/version-info/airpods-pro-3) siden.
+AirPods Pro 3-kopier er tilgængelige. V7 (Huilian 377H3) er den første high-end version med pulssensor, opgraderet AI Hybrid ANC og hovedbevægelseskontroller. Både V7 og V6 er tilgængelige fra betroede sælgere. For mere information, se [AirPods Pro 3 versionsinfo](/da/version-info/airpods-pro-3) siden.
 :::
 
 ::: details Hvorfor kan lignende fællesskaber have nyere produkter end denne guide?
@@ -71,7 +71,7 @@ For at identificere chippen i dine AirPods-kloner, henvis til denne liste med [n
 :::
 
 ::: details Hvordan kan jeg bestemme om mine AirPods er ægte?
-For hurtigt at tjekke om dine AirPods er ægte, forbind dem til en iPhone og gå til Indstillinger > Generelt > Om. Hvis der er en "AirPods"-sektion, når du scroller ned, tjek at serienummeret vist der matcher serienummeret på indersiden af AirPods-låget ([Tjek Her](http://airreps.info/aboutsection)). Hvis der ikke er en AirPods-sektion, er dine AirPods sandsynligvis falske. Nogle nyere AirPods-kopier kan have en fungerende "Om"-side, i hvilket tilfælde du kan tjekke for tilstedeværelsen af Spatial Audio og hovedsporing. For AirPods kan du også tjekke firmwareversionen på Om-siden for at sikre, at den matcher den seneste version udgivet af Apple. Hvis du er usikker på ægtheden af dine AirPods og ikke kan tjekke før køb, kan du bede om hjælp på [r/airreps subreddit](https://www.reddit.com/r/AirReps/) eller [Discord](https://discord.com/invite/airreps).
+For hurtigt at tjekke om dine AirPods er ægte, forbind dem til en iPhone og gå til Indstillinger > Generelt > Om. Hvis der er en "AirPods"-sektion, når du scroller ned, tjek at serienummeret vist der matcher serienummeret på indersiden af AirPods-låget ([Tjek Her](http://airreps.info/aboutsection)). Hvis der ikke er en AirPods-sektion, er dine AirPods sandsynligvis falske. Nogle nyere AirPods-kopier kan have en fungerende "Om"-side, i hvilket tilfælde du kan tjekke for tilstedeværelsen af Spatial Audio og hovedsporing. For AirPods kan du også tjekke firmwareversionen på Om-siden for at sikre, at den matcher den seneste version udgivet af Apple. Hvis du er usikker på ægtheden af dine AirPods og ikke kan tjekke før køb, kan du bede om hjælp på [r/airreps subreddit](https://www.reddit.com/r/AirReps/) eller [Discord](https://airreps.link/discord).
 :::
 
 ::: details Er i9999, Superpods osv. bedre end Supercopy eller produkterne i guiden?

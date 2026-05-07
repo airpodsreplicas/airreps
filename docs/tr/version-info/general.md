@@ -47,11 +47,11 @@ Tüm modellerde aşağıdaki özellik eksiktir:
 ## SSS
 
 ::: details AirPods Max replikaları mevcut mu?
-AirPods Max replikaları artık mevcut ve kapsamlı replikalar haline gelmiştir. Jenny ve HiCity, Airoha 1561M kullanan AirPods Max replikaları satmaktadır. Fiyatlar istikrar kazanmıştır. Güncellemeler için [r/AirReps subreddit](https://www.reddit.com/r/AirReps/)'ini ve [AirReps Discord](https://discord.com/invite/airreps)'unu ziyaret et.
+AirPods Max replikaları artık mevcut ve kapsamlı replikalar haline gelmiştir. Jenny ve HiCity, Airoha 1561M kullanan AirPods Max replikaları satmaktadır. Fiyatlar istikrar kazanmıştır. Güncellemeler için [r/AirReps subreddit](https://www.reddit.com/r/AirReps/)'ini ve [AirReps Discord](https://airreps.link/discord)'unu ziyaret et.
 :::
 
 ::: details AirPods Pro 3 replikaları mevcut mu?
-AirPods Pro 3 replikaları mevcuttur. V7 (Huilian 377H3), nabız sensörü, yükseltilmiş AI Hibrit ANC ve baş hareket kontrolleri içeren ilk üst düzey versiyondur - satın alma linkleri yakında gelecek. V6 şu anda güvenilir satıcılardan temin edilebilir. Daha fazla bilgi için [AirPods Pro 3 versiyon bilgisi](/tr/version-info/airpods-pro-3) sayfasına bak.
+AirPods Pro 3 replikaları mevcuttur. V7 (Huilian 377H3), nabız sensörü, yükseltilmiş AI Hibrit ANC ve baş hareket kontrolleri içeren ilk üst düzey versiyondur. Hem V7 hem de V6 güvenilir satıcılardan temin edilebilir. Daha fazla bilgi için [AirPods Pro 3 versiyon bilgisi](/tr/version-info/airpods-pro-3) sayfasına bak.
 :::
 
 ::: details Benzer toplulukların bu rehberden daha yeni ürünleri neden olabilir?
@@ -71,7 +71,7 @@ AirPods klonlarındaki çipi belirlemek için bu [faydalı uygulamalar](/tr/usef
 :::
 
 ::: details AirPods'umun gerçek olup olmadığını nasıl anlayabilirim?
-AirPods'unun gerçek olup olmadığını hızlıca kontrol etmek için bir iPhone'a bağla ve Ayarlar > Genel > Hakkında'ya git. Aşağı kaydırdığında bir "AirPods" bölümü varsa, orada gösterilen seri numarasının AirPods kapağının iç kısmındaki seri numarasıyla eşleştiğini kontrol et ([Buradan Kontrol Et](http://airreps.info/aboutsection)). AirPods bölümü yoksa AirPods'un muhtemelen sahtedir. Bazı daha yeni replika AirPods'larda çalışan bir "Hakkında" sayfası olabilir; bu durumda Spatial Audio ve baş takibi varlığını kontrol edebilirsin. AirPods için, Hakkında sayfasındaki firmware versiyonunun Apple tarafından yayınlanan en son versiyonla eşleştiğinden de emin olabilirsin. AirPods'unun özgünlüğünden emin değilsen ve satın almadan önce kontrol edemiyorsan [r/airreps subreddit](https://www.reddit.com/r/AirReps/)'inden veya [Discord](https://discord.com/invite/airreps)'tan yardım isteyebilirsin.
+AirPods'unun gerçek olup olmadığını hızlıca kontrol etmek için bir iPhone'a bağla ve Ayarlar > Genel > Hakkında'ya git. Aşağı kaydırdığında bir "AirPods" bölümü varsa, orada gösterilen seri numarasının AirPods kapağının iç kısmındaki seri numarasıyla eşleştiğini kontrol et ([Buradan Kontrol Et](http://airreps.info/aboutsection)). AirPods bölümü yoksa AirPods'un muhtemelen sahtedir. Bazı daha yeni replika AirPods'larda çalışan bir "Hakkında" sayfası olabilir; bu durumda Spatial Audio ve baş takibi varlığını kontrol edebilirsin. AirPods için, Hakkında sayfasındaki firmware versiyonunun Apple tarafından yayınlanan en son versiyonla eşleştiğinden de emin olabilirsin. AirPods'unun özgünlüğünden emin değilsen ve satın almadan önce kontrol edemiyorsan [r/airreps subreddit](https://www.reddit.com/r/AirReps/)'inden veya [Discord](https://airreps.link/discord)'tan yardım isteyebilirsin.
 :::
 
 ::: details i9999, Superpods vb. Supercopy veya rehberde listelenen ürünlerden daha mı iyi?

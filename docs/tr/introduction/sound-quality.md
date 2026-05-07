@@ -24,7 +24,7 @@ EQ satıcıya göre değişebilir. Sırasıyla **TigerBuilder**, **HR** ve **Hui
 
 ## Özel EQ Ayarları
 
-AirPods replikalarının sesinden memnun değilsen [Discord sunucumuza](https://discord.gg/airreps) katıl. Birçok topluluk üyesi kendi EQ ayarlarını paylaşır ve bunlar tercih ettiğin bir sese ulaşmana yardımcı olabilir. Bu hazır ayarların çoğunu **#help-and-advice** kanalında sabitlenmiş olarak bulabilirsin.
+AirPods replikalarının sesinden memnun değilsen [Discord sunucumuza](https://airreps.link/discord) katıl. Birçok topluluk üyesi kendi EQ ayarlarını paylaşır ve bunlar tercih ettiğin bir sese ulaşmana yardımcı olabilir. Bu hazır ayarların çoğunu **#help-and-advice** kanalında sabitlenmiş olarak bulabilirsin.
 
 ## Gecikme
 

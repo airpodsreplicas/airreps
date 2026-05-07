@@ -24,7 +24,7 @@ Der EQ kann je nach Verkäufer variieren. Nutze **FlyCC**, **BullSuper** oder **
 
 ## Benutzerdefinierte EQ-Einstellungen
 
-Wenn du mit dem Klang deiner AirPods Replicas nicht zufrieden bist, tritt unserem [Discord-Server](https://discord.gg/airreps) bei. Viele Community-Mitglieder teilen ihre eigenen EQ-Einstellungen, die dir helfen können, einen Klang zu erzielen, der dir besser gefällt. Die meisten dieser Presets findest du angepinnt im **#help-and-advice**-Kanal.
+Wenn du mit dem Klang deiner AirPods Replicas nicht zufrieden bist, tritt unserem [Discord-Server](https://airreps.link/discord) bei. Viele Community-Mitglieder teilen ihre eigenen EQ-Einstellungen, die dir helfen können, einen Klang zu erzielen, der dir besser gefällt. Die meisten dieser Presets findest du angepinnt im **#help-and-advice**-Kanal.
 
 ## Verzögerung
 

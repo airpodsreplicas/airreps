@@ -24,7 +24,7 @@ O EQ pode variar conforme o vendedor. Use o **FlyCC**, **BullSuper** ou **Starfu
 
 ## Configurações de EQ Personalizadas
 
-Se não estiver satisfeito com o som das suas réplicas de AirPods, entre em nosso [servidor do Discord](https://discord.gg/airreps). Muitos membros da comunidade compartilham suas próprias configurações de EQ, o que pode ajudá-lo a alcançar o som que você prefere. Você encontrará a maioria desses presets fixados no canal **#help-and-advice**.
+Se não estiver satisfeito com o som das suas réplicas de AirPods, entre em nosso [servidor do Discord](https://airreps.link/discord). Muitos membros da comunidade compartilham suas próprias configurações de EQ, o que pode ajudá-lo a alcançar o som que você prefere. Você encontrará a maioria desses presets fixados no canal **#help-and-advice**.
 
 ## Atraso (Delay)
 

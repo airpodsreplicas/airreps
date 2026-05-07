@@ -10,7 +10,7 @@ Comprar réplicas de Apple AirPods significa trabalhar com vendedores terceiros 
 
 ## Vendedores Verificados vs. Não Verificados
 
-Existem muitos vendedores de réplicas de AirPods disponíveis, mas a melhor experiência vem de nossos vendedores confiáveis avaliados pela comunidade. Esses vendedores foram minuciosamente testados por nossa comunidade e demonstraram excelentes práticas de negócios. Testamos muitos vendedores, e estes são os melhores. Eles possuem avaliações verificadas em plataformas como o subreddit [r/AirReps](https://airreps.link/reddit) e nosso [Discord](https://discord.gg/airreps), e entregam consistentemente produtos de qualidade e oferecem um excelente atendimento ao cliente.
+Existem muitos vendedores de réplicas de AirPods disponíveis, mas a melhor experiência vem de nossos vendedores confiáveis avaliados pela comunidade. Esses vendedores foram minuciosamente testados por nossa comunidade e demonstraram excelentes práticas de negócios. Testamos muitos vendedores, e estes são os melhores. Eles possuem avaliações verificadas em plataformas como o subreddit [r/AirReps](https://airreps.link/reddit) e nosso [Discord](https://airreps.link/discord), e entregam consistentemente produtos de qualidade e oferecem um excelente atendimento ao cliente.
 
 Embora você possa encontrar vendedores em sites de comércio eletrônico chineses como AliExpress ou DHgate, as avaliações nessas plataformas podem nem sempre ser imparciais ou legítimas. Comprar de vendedores não verificados acarreta mais risco, pois a qualidade do produto e o atendimento ao cliente podem variar significativamente. Se você comprar de um vendedor não verificado e encontrar problemas, compartilhe sua experiência com nossa equipe.
 

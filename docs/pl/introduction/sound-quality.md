@@ -25,7 +25,7 @@ EQ może się różnić w zależności od sprzedawcy. Użyj **FlyCC**, **BullSup
 
 ## Niestandardowe Ustawienia EQ
 
-Jeśli nie jesteś zadowolony z dźwięku swoich klonów AirPods, dołącz do naszego [serwera Discord](https://discord.gg/airreps). Wielu członków społeczności dzieli się własnymi ustawieniami EQ, które mogą pomóc osiągnąć preferowany dźwięk. Większość tych presetów znajdziesz przypiętych w kanale **#help-and-advice**.
+Jeśli nie jesteś zadowolony z dźwięku swoich klonów AirPods, dołącz do naszego [serwera Discord](https://airreps.link/discord). Wielu członków społeczności dzieli się własnymi ustawieniami EQ, które mogą pomóc osiągnąć preferowany dźwięk. Większość tych presetów znajdziesz przypiętych w kanale **#help-and-advice**.
 
 ## Opóźnienie
 

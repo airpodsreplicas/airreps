@@ -47,11 +47,11 @@ All models are missing the following feature:
 ## FAQ
 
 ::: details Are AirPods Max reps available?
-AirPods Max replicas are now available and have become well-rounded replicas. Jenny and HiCity sell AirPods Max replicas using the Airoha 1561M. Prices have stabilized. For updates, visit the [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) and the [AirReps Discord](https://discord.com/invite/airreps).
+AirPods Max replicas are now available and have become well-rounded replicas. Jenny and HiCity sell AirPods Max replicas using the Airoha 1561M. Prices have stabilized. For updates, visit the [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) and the [AirReps Discord](https://airreps.link/discord).
 :::
 
 ::: details Are AirPods Pro 3 reps available?
-AirPods Pro 3 replicas are available. The V7 (Huilian 377H3) is the first high-end version, featuring a heart rate sensor, upgraded AI Hybrid ANC, and head gesture controls — purchase links are coming soon. The V6 is currently available from trusted sellers. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
+AirPods Pro 3 replicas are available. The V7 (Huilian 377H3) is the first high-end version, featuring a heart rate sensor, upgraded AI Hybrid ANC, and head gesture controls. Both V7 and V6 are available from trusted sellers. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
 :::
 
 ::: details Why might similar communities have newer products than this guide?
@@ -71,7 +71,7 @@ To identify the chip in your AirPods clones, refer to this list of [useful apps]
 :::
 
 ::: details How can I determine if my AirPods are real?
-To quickly check if your AirPods are real, connect them to an iPhone and go to Settings > General > About. If there is an "AirPods" section when you scroll down, check that the serial number shown there matches the serial number on the inside of the AirPods lid ([Check Here](http://airreps.info/aboutsection)). If there is no AirPods section, then your AirPods are likely fake. Some newer replica AirPods may have a functioning "About" page, in which case you can check for the presence of Spatial Audio and head tracking. For AirPods, you can also check the firmware version in the About page to ensure that it matches the latest version released by Apple. If you are unsure about the authenticity of your AirPods and cannot check before purchasing, you can ask for help on the [r/airreps subreddit](https://www.reddit.com/r/AirReps/) or [Discord](https://discord.com/invite/airreps).
+To quickly check if your AirPods are real, connect them to an iPhone and go to Settings > General > About. If there is an "AirPods" section when you scroll down, check that the serial number shown there matches the serial number on the inside of the AirPods lid ([Check Here](http://airreps.info/aboutsection)). If there is no AirPods section, then your AirPods are likely fake. Some newer replica AirPods may have a functioning "About" page, in which case you can check for the presence of Spatial Audio and head tracking. For AirPods, you can also check the firmware version in the About page to ensure that it matches the latest version released by Apple. If you are unsure about the authenticity of your AirPods and cannot check before purchasing, you can ask for help on the [r/airreps subreddit](https://www.reddit.com/r/AirReps/) or [Discord](https://airreps.link/discord).
 :::
 
 ::: details Are i9999, Superpods, etc. better than Supercopy or the products listed in the guide?

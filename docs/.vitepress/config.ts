@@ -1137,7 +1137,7 @@ export default defineConfig({
         outline: [2, 3],
 
         socialLinks: [
-            { icon: 'discord', link: 'https://discord.gg/airreps' },
+            { icon: 'discord', link: 'https://airreps.link/discord' },
             {
                 icon: { svg: redditIcon },
                 link: 'https://reddit.com/r/airreps',

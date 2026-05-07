@@ -10,7 +10,7 @@ Apple AirPods replikaları satın almak, yüksek kaliteli replikalarda uzmanlaş
 
 ## Doğrulanmış ve Doğrulanmamış Satıcılar
 
-Birçok AirPods replika satıcısı mevcuttur, ancak en iyi deneyim topluluk tarafından incelenmiş güvenilir satıcılarımızdan gelir. Bu satıcılar topluluğumuz tarafından kapsamlı şekilde test edilmiş ve olağanüstü iş uygulamaları göstermişlerdir. Birçok satıcıyı test ettik ve bunlar en iyileri. [r/AirReps](https://airreps.link/reddit) subreddit'i ve [Discord](https://discord.gg/airreps)'umuz gibi platformlarda doğrulanmış incelemeleri bulunur ve sürekli olarak kaliteli ürünler sunup mükemmel müşteri hizmeti sağlarlar.
+Birçok AirPods replika satıcısı mevcuttur, ancak en iyi deneyim topluluk tarafından incelenmiş güvenilir satıcılarımızdan gelir. Bu satıcılar topluluğumuz tarafından kapsamlı şekilde test edilmiş ve olağanüstü iş uygulamaları göstermişlerdir. Birçok satıcıyı test ettik ve bunlar en iyileri. [r/AirReps](https://airreps.link/reddit) subreddit'i ve [Discord](https://airreps.link/discord)'umuz gibi platformlarda doğrulanmış incelemeleri bulunur ve sürekli olarak kaliteli ürünler sunup mükemmel müşteri hizmeti sağlarlar.
 
 AliExpress veya DHgate gibi Çin e-ticaret web sitelerinde satıcılar bulabilirsin ancak bu platformlardaki incelemeler her zaman tarafsız veya meşru olmayabilir. Doğrulanmamış satıcılardan satın almak daha fazla risk taşır çünkü ürün kalitesi ve müşteri hizmeti önemli ölçüde değişebilir. Doğrulanmamış bir satıcıdan satın alır ve sorunlarla karşılaşırsan lütfen deneyimini ekibimizle paylaş.
 

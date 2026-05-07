@@ -24,7 +24,7 @@ L'égaliseur peut varier selon le vendeur. Utilisez **FlyCC**, **BullSuper** ou 
 
 ## Paramètres d'Égaliseur Personnalisés
 
-Si vous n'êtes pas satisfait du son de vos répliques d'AirPods, rejoignez notre [serveur Discord](https://discord.gg/airreps). De nombreux membres de la communauté partagent leurs propres paramètres d'égaliseur, ce qui peut vous aider à obtenir un son que vous préférez. Vous trouverez la plupart de ces préréglages épinglés dans le canal **#help-and-advice**.
+Si vous n'êtes pas satisfait du son de vos répliques d'AirPods, rejoignez notre [serveur Discord](https://airreps.link/discord). De nombreux membres de la communauté partagent leurs propres paramètres d'égaliseur, ce qui peut vous aider à obtenir un son que vous préférez. Vous trouverez la plupart de ces préréglages épinglés dans le canal **#help-and-advice**.
 
 ## Latence
 

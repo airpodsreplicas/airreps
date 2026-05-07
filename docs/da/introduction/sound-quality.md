@@ -24,7 +24,7 @@ EQ kan variere efter sælger. Brug **FlyCC**, **BullSuper** eller **Starfun** ti
 
 ## Brugerdefinerede EQ-Indstillinger
 
-Hvis du ikke er tilfreds med lyden af dine AirPods-kopier, tilslut dig vores [Discord-server](https://discord.gg/airreps). Mange fællesskabsmedlemmer deler deres egne EQ-indstillinger, som kan hjælpe dig med at opnå en lyd, du foretrækker. Du finder de fleste af disse forudindstillinger fastgjort i **#help-and-advice** kanalen.
+Hvis du ikke er tilfreds med lyden af dine AirPods-kopier, tilslut dig vores [Discord-server](https://airreps.link/discord). Mange fællesskabsmedlemmer deler deres egne EQ-indstillinger, som kan hjælpe dig med at opnå en lyd, du foretrækker. Du finder de fleste af disse forudindstillinger fastgjort i **#help-and-advice** kanalen.
 
 ## Forsinkelse
 

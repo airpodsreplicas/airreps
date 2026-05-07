@@ -10,7 +10,7 @@ Purchasing Apple AirPods replicas means working with third-party sellers who spe
 
 ## Verified vs. Unverified Sellers
 
-There are many AirPods replica sellers available, but the best experience comes from our community-vetted trusted sellers. These sellers have been thoroughly tested by our community and have shown outstanding business practices. We've tested a lot of sellers, and these are the best. They have verified reviews on platforms like the [r/AirReps](https://airreps.link/reddit) subreddit and our [Discord](https://discord.gg/airreps), and they consistently deliver quality products and provide excellent customer service.
+There are many AirPods replica sellers available, but the best experience comes from our community-vetted trusted sellers. These sellers have been thoroughly tested by our community and have shown outstanding business practices. We've tested a lot of sellers, and these are the best. They have verified reviews on platforms like the [r/AirReps](https://airreps.link/reddit) subreddit and our [Discord](https://airreps.link/discord), and they consistently deliver quality products and provide excellent customer service.
 
 While you may find sellers on Chinese e-commerce websites like AliExpress or DHgate, reviews on these platforms may not always be unbiased or legitimate. Purchasing from unverified sellers carries more risk, as product quality and customer service can vary significantly. If you do purchase from an unverified seller and encounter issues, please share your experience with our staff team.
 

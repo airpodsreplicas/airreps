@@ -10,7 +10,7 @@ Køb af Apple AirPods-kopier betyder, at du arbejder med tredjepartssælgere, de
 
 ## Verificerede vs. Ikke-Verificerede Sælgere
 
-Der er mange AirPods-kopie-sælgere tilgængelige, men den bedste oplevelse kommer fra vores fællesskabsundersøgte betroede sælgere. Disse sælgere er grundigt testet af vores fællesskab og har vist fremragende forretningspraksis. Vi har testet mange sælgere, og disse er de bedste. De har verificerede anmeldelser på platforme som [r/AirReps](https://airreps.link/reddit) subredditen og vores [Discord](https://discord.gg/airreps), og de leverer konsekvent kvalitetsprodukter og yder fremragende kundeservice.
+Der er mange AirPods-kopie-sælgere tilgængelige, men den bedste oplevelse kommer fra vores fællesskabsundersøgte betroede sælgere. Disse sælgere er grundigt testet af vores fællesskab og har vist fremragende forretningspraksis. Vi har testet mange sælgere, og disse er de bedste. De har verificerede anmeldelser på platforme som [r/AirReps](https://airreps.link/reddit) subredditen og vores [Discord](https://airreps.link/discord), og de leverer konsekvent kvalitetsprodukter og yder fremragende kundeservice.
 
 Selvom du kan finde sælgere på kinesiske e-handelswebsteder som AliExpress eller DHgate, er anmeldelser på disse platforme måske ikke altid upartiske eller legitime. Køb fra ikke-verificerede sælgere indebærer mere risiko, da produktkvalitet og kundeservice kan variere betydeligt. Hvis du køber fra en ikke-verificeret sælger og støder på problemer, del venligst din oplevelse med vores team.
 
