@@ -1322,8 +1322,22 @@ const recommendedSeller = computed(() => {
 });
 
 // --- Product recommendation ---
+type LinksPageKey =
+    | 'airpods-2'
+    | 'airpods-3'
+    | 'airpods-4'
+    | 'airpods-max'
+    | 'airpods-pro'
+    | 'airpods-pro-2'
+    | 'airpods-pro-3';
+
 interface ProductRec {
     links: { text: string; url: string }[];
+    // Which /links/* page the "all seller links" CTA should point at.
+    // Tied to the product (not the answers) because the recommendation can
+    // override the form factor — e.g., a Mac+budget in-ear answer lands on
+    // a Pro 3, not a Pro 2.
+    linksPageKey: LinksPageKey;
     priceKey: string;
     reasons: string[];
     subtitle: string;
@@ -1340,6 +1354,7 @@ const product = computed<ProductRec | null>(() => {
         if (priority === 'budget') {
             return {
                 title: 'AirPods Max V3P TB',
+                linksPageKey: 'airpods-max',
                 subtitle: 'Airoha 1561M — Budget over-ear with plastic build',
                 priceKey: 'max-v3p-tb',
                 reasons: [
@@ -1355,6 +1370,7 @@ const product = computed<ProductRec | null>(() => {
         }
         return {
             title: 'AirPods Max V3',
+            linksPageKey: 'airpods-max',
             subtitle: 'Airoha 1562AE — Premium over-ear pick',
             priceKey: 'max-v3-tb',
             reasons: [
@@ -1384,6 +1400,7 @@ const product = computed<ProductRec | null>(() => {
         if (priority === 'budget') {
             return {
                 title: 'AirPods 4 V2 TB',
+                linksPageKey: 'airpods-4',
                 subtitle: 'Budget open-fit — solid basics',
                 priceKey: 'airpods4-v2-tb',
                 reasons: [
@@ -1401,6 +1418,7 @@ const product = computed<ProductRec | null>(() => {
         }
         return {
             title: 'AirPods 4 V3 TB',
+            linksPageKey: 'airpods-4',
             subtitle: 'Airoha 1571AM — Best open-fit overall',
             priceKey: 'airpods4-v3-tb',
             reasons: [
@@ -1432,6 +1450,7 @@ const product = computed<ProductRec | null>(() => {
     if (priority === 'latest') {
         return {
             title: 'AirPods Pro 3 V7 Huilian',
+            linksPageKey: 'airpods-pro-3',
             subtitle: 'Huilian 377H3 — Flagship Pro 3 with heart rate sensor & head gestures',
             priceKey: 'pro3-v7-huilian',
             reasons: [
@@ -1454,6 +1473,7 @@ const product = computed<ProductRec | null>(() => {
     if (useCase === 'calls' && (priority === 'anc' || priority === 'features')) {
         return {
             title: 'AirPods Pro 2 V5.3 HR+',
+            linksPageKey: 'airpods-pro-2',
             subtitle: 'Sealed construction, isolated mic design — best call quality',
             priceKey: 'pro2-v5.3-hrplus',
             reasons: [
@@ -1475,6 +1495,7 @@ const product = computed<ProductRec | null>(() => {
         if (priority === 'features') {
             return {
                 title: 'AirPods Pro 2 V5.4 Huilian',
+                linksPageKey: 'airpods-pro-2',
                 subtitle: 'Huilian 377 — Most feature-complete for Apple ecosystem',
                 priceKey: 'pro2-v5.4-huilian',
                 reasons: [
@@ -1494,6 +1515,7 @@ const product = computed<ProductRec | null>(() => {
         if (priority === 'budget') {
             return {
                 title: 'AirPods Pro 3 V6 Huilian',
+                linksPageKey: 'airpods-pro-3',
                 subtitle: 'Best value in-ear for Mac users with iCloud Connect',
                 priceKey: 'pro3-v6-huilian',
                 reasons: [
@@ -1513,6 +1535,7 @@ const product = computed<ProductRec | null>(() => {
         // Mac ANC/stable
         return {
             title: 'AirPods Pro 2 V5.3 Huilian',
+            linksPageKey: 'airpods-pro-2',
             subtitle: 'Huilian 277 — Best in-ear for Mac users',
             priceKey: 'pro2-v5.3-huilian',
             reasons: [
@@ -1539,6 +1562,7 @@ const product = computed<ProductRec | null>(() => {
         if (sound === 'balanced' || useCase === 'commute') {
             return {
                 title: 'AirPods Pro 2 V5.3 HR',
+                linksPageKey: 'airpods-pro-2',
                 subtitle: 'Balanced sound, best transparency mode — ideal for commuters',
                 priceKey: 'pro2-v5.3-hr',
                 reasons: [
@@ -1558,6 +1582,7 @@ const product = computed<ProductRec | null>(() => {
         // bass, gym, or default (no sound question shown)
         return {
             title: 'AirPods Pro 2 V5.3 TB',
+            linksPageKey: 'airpods-pro-2',
             subtitle: 'Airoha 1571AM — Community favorite, best ANC',
             priceKey: 'pro2-v5.3-tb',
             reasons: [
@@ -1580,6 +1605,7 @@ const product = computed<ProductRec | null>(() => {
     if (priority === 'features') {
         return {
             title: 'AirPods Pro 2 V5.4 Huilian',
+            linksPageKey: 'airpods-pro-2',
             subtitle: 'Huilian 377 — Maximum features',
             priceKey: 'pro2-v5.4-huilian',
             reasons: [
@@ -1600,6 +1626,7 @@ const product = computed<ProductRec | null>(() => {
     // Budget non-Mac in-ear
     return {
         title: 'AirPods Pro 3 V6 TB',
+        linksPageKey: 'airpods-pro-3',
         subtitle: 'Best value in-ear pick',
         priceKey: 'pro3-v6-tb',
         reasons: [
@@ -1635,19 +1662,8 @@ const directProductLink = computed(() => {
     return links[sellerKey] || null;
 });
 
-function productToLinksPage(): string {
-    const ff = answers.value.formFactor;
-    if (ff === 'over-ear') {
-        return 'airpods-max';
-    }
-    if (ff === 'open-fit') {
-        return 'airpods-4';
-    }
-    // in-ear: check which product was recommended
-    if (product.value?.title.includes('Pro 3')) {
-        return 'airpods-pro-3';
-    }
-    return 'airpods-pro-2';
+function productToLinksPage(): LinksPageKey {
+    return product.value?.linksPageKey ?? 'airpods-pro-2';
 }
 
 function selectOption(questionId: string, value: string) {

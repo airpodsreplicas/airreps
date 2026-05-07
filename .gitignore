@@ -12,6 +12,8 @@
 # VitePress build cache
 /docs/.vitepress/cache
 /docs/.vitepress/dist
+# Stray cache dir created if vitepress is invoked from the repo root by accident
+/.vitepress/
 
 # ========================
 # System related files
@@ -38,3 +40,4 @@ package-lock.json
 /.claude/
 CLAUDE.md
 For Claude/
+skills-lock.json
