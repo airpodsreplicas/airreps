@@ -51,7 +51,7 @@ AirPods Max replicas are now available and have become well-rounded replicas. Je
 :::
 
 ::: details Are AirPods Pro 3 reps available?
-AirPods Pro 3 replicas are available. The V7 (Huilian 377H3) is the first high-end version, featuring a heart rate sensor, upgraded AI Hybrid ANC, and head gesture controls. Both V7 and V6 are available from trusted sellers. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
+AirPods Pro 3 replicas are available. The V7 (Huilian 377H3) is the newest version and adds a heart rate sensor, AI Hybrid ANC, and head gesture controls — it's an early release with some rough edges in the first batches. V6 is the more proven Pro 3 option, and V5.5 covers the budget end. All are available from trusted sellers. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
 :::
 
 ::: details Why might similar communities have newer products than this guide?

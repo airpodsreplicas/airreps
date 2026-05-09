@@ -1446,19 +1446,18 @@ const product = computed<ProductRec | null>(() => {
 
     // --- In-ear logic ---
 
-    // In-ear: latest -> Pro 3 V7 Huilian (the flagship, only released in Huilian form)
+    // In-ear: latest -> Pro 3 V7 Huilian (newest Pro 3, only released in Huilian form)
     if (priority === 'latest') {
         return {
             title: 'AirPods Pro 3 V7 Huilian',
             linksPageKey: 'airpods-pro-3',
-            subtitle: 'Huilian 377H3 — Flagship Pro 3 with heart rate sensor & head gestures',
+            subtitle: 'Huilian 377H3 — Newest Pro 3 with heart rate sensor & head gestures',
             priceKey: 'pro3-v7-huilian',
             reasons: [
-                'Newest AirPods Pro 3 form factor — Gen 6 shell, sealed build, 1:1 hinge',
-                'Upgraded AI Hybrid ANC, real spatial audio with head tracking',
-                'Heart rate sensor, head gesture controls, low-latency gaming mode',
+                'Newest AirPods Pro 3 form factor with almost 1:1 hinge',
+                'Adds heart rate sensor, head gestures, AI Hybrid ANC, low-latency gaming mode',
                 'iCloud Connect, Live Translation, iOS 26 support',
-                `Flagship experience at $${prices['pro3-v7-huilian']}`,
+                'Early release — check the version page for current community sentiment before buying',
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
@@ -1625,13 +1624,14 @@ const product = computed<ProductRec | null>(() => {
 
     // Budget non-Mac in-ear
     return {
-        title: 'AirPods Pro 3 V6 TB',
+        title: 'AirPods Pro 3 V5.5',
         linksPageKey: 'airpods-pro-3',
-        subtitle: 'Best value in-ear pick',
-        priceKey: 'pro3-v6-tb',
+        subtitle: 'Pro 3 form factor at the lowest price',
+        priceKey: 'pro3-v5.5',
         reasons: [
-            `Newest Pro form factor at just $${prices['pro3-v6-tb']}`,
-            'Good ANC, spatial audio, iOS 26 support',
+            `Pro 3 form factor at just $${prices['pro3-v5.5']}`,
+            'Decent ANC, transparency mode, iOS 26 popup',
+            `Step up to V6 TB ($${prices['pro3-v6-tb']}) for stronger ANC and better build`,
             `Also consider: AirPods 2 V3E ($${prices['gen2-v3e']}) for ultra-budget`,
         ],
         links: [
@@ -1769,8 +1769,6 @@ function restart() {
             {{ t('allSellerLinks') }} &rarr;
           </a>
         </div>
-
-        <!-- Alibaba -->
 
         <!-- Alibaba -->
         <div v-else-if="answers.ordering === 'alibaba'" class="quiz-buy-list">
