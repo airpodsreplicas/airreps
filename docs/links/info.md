@@ -70,6 +70,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+| **Xoom** | ❌ | ✅ | ❌ |
 
 ::: tip
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours to process.
