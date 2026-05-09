@@ -1,19 +1,20 @@
 ---
-description: "Сравните версии реплик AirPods Pro 3 (V7, V6, V5.5) по чипу, функциям и отсутствующим функциям."
+description: 'Сравните версии реплик AirPods Pro 3 (V7, V6, V5.5) по чипу, функциям и отсутствующим функциям.'
 ---
-
 # AirPods Pro 3
 
-Нажмите на гиперссылку в столбце «Версия», чтобы найти обзоры данной модели.
+Click the hyper-link on the 'Version' column to find reviews for the given model.
 
 | Версия | Чип | Имеющиеся функции | Отсутствующие функции |
-|--------|-----|-------------------|----------------------|
-| [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Huilian 377H3 | USB-C, Улучшенное AI гибридное ANC, Режим прозрачности, Регулировка громкости, Управление Force Touch, Страница «О программе», Улучшенные SFX, Реальное пространственное аудио (с отслеживанием головы), Динамик чехла, Hey Siri, 1:1 дизайн петли (корпус Gen 6), Запечатанная сборка, Pro 3 Popup, iOS 26 Support, Живой перевод, iCloud Connect, Датчик сердечного ритма, Управление жестами головы, Игровой режим с низкой задержкой | Find My Network |
-| [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1) | Airoha 1563E / Huilian 247 | USB-C, Режим прозрачности, Регулировка громкости, Управление Force Touch, Страница «О программе», Улучшенные SFX, Реальное пространственное аудио, Динамик чехла, Hey Siri, Почти 1:1 дизайн петли, Хорошее ANC, Pro 3 Popup, iOS 26 Support, Живой перевод (только Huilian), iCloud Connect (только Huilian) | Датчик сердечного ритма, Высококачественная сборка, Жесты кивком, Find My Network |
-| [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) | Bluetrum 8922 | Достойное ANC, Режим прозрачности, Pro 3 Popup, iOS 26 Support | Датчик сердечного ритма, Высококачественная сборка, Жесты кивком |
+|---------|------|--------------|------------------|
+| [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Huilian 377H3 | USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup, iOS 26 Support, Live Translation, iCloud Connect, Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode | Find My Network |
+| [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1) | Airoha 1563E / Huilian 247 | USB-C, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio, Case Speaker, Hey Siri, Almost 1:1 hinge design, Good ANC, Pro 3 Popup, iOS 26 Support, Live Translation (Huilian only), iCloud Connect (Huilian only) | Heartrate sensor, Higher-end build quality, Nodding gestures, Find My Network |
+| [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) | Bluetrum 8922 | Decent ANC, Transparency mode, Pro 3 Popup, iOS 26 Support | Heartrate sensor, Higher-end build quality, Nodding gestures |
 
 ## Обзор V7
 
-V7 — первая реплика AirPods Pro 3 высокого класса с новым чипсетом Huilian 377H3 (значительное обновление по сравнению с серией 247/277). Она оснащена датчиком сердечного ритма, управлением жестами головы для ответа на звонки и улучшенным AI гибридным ANC. Качество сборки совершило скачок благодаря оригинальному корпусу и петле Gen 6, полностью запечатанной клеевой конструкции и мощным магнитам. Батарея наушника 45 мАч обеспечивает около 7 часов воспроизведения, а чехол 500 мАч — 3–4 полных заряда. Эта версия также добавляет игровой режим с низкой задержкой и поддержку захвата фото нажатием на iOS 26.
+V7 — новейшая реплика AirPods Pro 3, основанная на чипсете Huilian 377H3. Она вводит датчик сердечного ритма, управление жестами головы для ответа на звонки, AI Hybrid ANC и режим низкой задержки для игр. Наушники с батареей 45mAh рассчитаны примерно на 7 часов воспроизведения, а кейс на 500mAh даёт 3–4 полных заряда.
 
-Подробнее о [технологии ANC](/ru/introduction/anc-explained), [качестве звука](/ru/introduction/sound-quality) и [качестве сборки](/ru/introduction/build-quality) реплик см. соответствующие разделы руководства. Готовы к покупке? Проверьте наши [ссылки на покупку](/ru/links/airpods-pro-3) и [руководство по заказу](/ru/ordering/how-to-buy).
+Это всё ещё ранний релиз — некоторые участники сообщали о шипении при включённом ANC и других шероховатостях в первых партиях. Поздние партии, вероятно, улучшат эти моменты, но перед покупкой проверьте свежие [V7 threads on r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) для текущих впечатлений.
+
+Для получения дополнительной информации о [технологии ANC](/ru/introduction/anc-explained), [качестве звука](/ru/introduction/sound-quality) и [качестве сборки](/ru/introduction/build-quality) реплик смотрите соответствующие разделы руководства. Готовы купить? Посмотрите наши [ссылки для покупки](/ru/links/airpods-pro-3) и [руководство по заказу](/ru/ordering/how-to-buy).

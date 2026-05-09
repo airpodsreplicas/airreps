@@ -1,79 +1,78 @@
 ---
-description: "Eine Zusammenfassung fehlender Features aller AirPods-Replica-Modelle. Vergleiche, was jeder Version fehlt, und entdecke gemeinsame Features. Hinweis: Neuere Versionen bedeuten nicht zwangsläufig bessere Qualität."
+description: 'Eine Zusammenfassung der fehlenden Funktionen aller AirPods-Replica-Modelle. Vergleichen Sie, welche Funktionen bei jeder Version fehlen, und entdecken Sie gemeinsame Merkmale. Beachten Sie, dass neuere Versionen nicht unbedingt bessere Qualität bedeuten.'
 ---
+# General
 
-# Allgemein
+::: tip About Version Numbers
+Dieses Versionsnummernsystem wurde von der AirReps-Community entwickelt, um die Produktidentifikation über verschiedene Hersteller hinweg zu vereinfachen. Wenn neue AirPods-Modelle veröffentlicht werden (wie AirPods Pro 2 oder Pro 3), setzt die Versionsnummerierung die Zählung von vorherigen Nummern fort, anstatt von vorne zu beginnen.
 
-::: tip Zu den Versionsnummern
-Dieses Versionsnummernsystem wurde von der AirReps-Community entwickelt, um die Produktidentifikation über verschiedene Hersteller hinweg zu vereinfachen. Wenn neue AirPods-Modelle erscheinen (wie AirPods Pro 2 oder Pro 3), wird die Versionsnummerierung von früheren Nummern fortgesetzt, anstatt bei Null zu beginnen.
+Hersteller wie TigerBuilder und Huilian verwenden eigene Produktnamen (wie "377super"), was den Vergleich von Produkten verschiedener Hersteller erschweren kann. Unser Community-Namensschema löst dieses Problem, indem es eine standardisierte Versionsnummer bereitstellt, die das Auffinden vergleichbarer Produkte zwischen Herstellern erleichtert, ohne sich dutzende verschiedene Namen merken zu müssen.
 
-Hersteller wie TigerBuilder und Huilian verwenden eigene Produktnamen (wie „377super"), was den Vergleich von Produkten verschiedener Hersteller erschweren kann. Unser Community-Benennungssystem löst dieses Problem, indem es eine standardisierte Versionsnummer bereitstellt, mit der vergleichbare Produkte verschiedener Hersteller leicht gefunden werden können, ohne sich Dutzende verschiedener Namen merken zu müssen.
-
-**Hinweis:** Hersteller sind nicht dasselbe wie Verkäufer. Du kannst nicht direkt bei Herstellern kaufen – du kaufst bei Verkäufern, die Produkte von diesen Herstellern beziehen.
+**Hinweis:** Hersteller sind nicht dasselbe wie Verkäufer. Sie können nicht direkt bei den Herstellern kaufen — Sie kaufen bei Verkäufern, die Produkte von diesen Herstellern beziehen.
 :::
 
-::: tip Nicht sicher, welches Modell?
-Mach unser [kurzes Quiz](/de/quiz) – beantworte ein paar Fragen und erhalte eine persönliche Empfehlung.
+::: tip Not sure which model to pick?
+Machen Sie unser [kurzes Quiz](/de/quiz) — beantworten Sie ein paar Fragen und erhalten Sie eine persönliche Empfehlung.
 :::
 
-Diese Tabelle bietet eine Zusammenfassung der wichtigsten fehlenden Features für verschiedene AirPods-Modelle basierend auf bestimmten Versionen.
+Diese Tabelle gibt eine Zusammenfassung der auffälligsten fehlenden Funktionen für verschiedene AirPods-Modelle, basierend auf bestimmten Versionen.
 
-| AirPods-Modell | Basiert auf | Fehlende Features                                                                                                                                         |
+| AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [AirPods Pro 3](/de/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Network                                                                           |
-| [AirPods Gen 4](/de/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, akkurate Case-SFX und weitere auffälligere Details                                                                           |
-| [AirPods Pro 2](/de/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfektes Spatial Audio, Find My Network                                                                                                     |
+| [AirPods Gen 4](/de/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, Accurate Case SFX and more noticeable details                                                                           |
+| [AirPods Pro 2](/de/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfect Spatial Audio, Find My Network                                                                                                     |
 | [AirPods Gen 3](/de/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
-| [AirPods Max](/de/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Multi-Device Connect, ANC auf Retail-Niveau, besserer Transparenzmodus und weitere subtile Details                                            |
-| [AirPods Pro](/de/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (ist bereits ziemlich nah dran), Find My Network                                                                            |
+| [AirPods Max](/de/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Multi-Device Connect, Retail AirPods Max ANC, Better Transparency Mode, and More Subtle details                                            |
+| [AirPods Pro](/de/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (it's fairly close already), Find My Network                                                                            |
 | [AirPods Gen 2](/de/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
 
-**Alle haben:**
+**All Have:**
 
-Alle Modelle verfügen über folgende Features:
+Alle Modelle haben die folgenden Funktionen:
 
 - Namensänderung
 - GPS (nur iOS)
-- Anpassbare Tap-Steuerung (nur iOS)
+- Änderung der Tipp-Steuerung (nur iOS)
 
-**Allen fehlt:**
+**All Missing:**
 
-Allen Modellen fehlt folgendes Feature:
+Allen Modellen fehlt die folgende Funktion:
 
-- Verfügbarkeit von „Find My Network"
+- Verfügbarkeit von "Find My Network"
 
-**Hinweis:** Diese Liste ist von neuer zu älter sortiert. Eine höhere Nummer bedeutet oft, aber nicht immer, ein besseres Modell. Bereit zum Kauf? Siehe [So bestellst du](/de/ordering/how-to-buy) bei unseren [vertrauenswürdigen Verkäufern](/de/links/info).
+**Hinweis:** Diese Liste ist von neu nach alt sortiert. Eine höhere Nummer bedeutet oft, aber nicht immer, ein besseres Modell. Bereit zum Kauf? Siehe [wie man bestellt](/de/ordering/how-to-buy) bei unseren [vertrauenswürdigen Verkäufern](/de/links/info).
 
 ## FAQ
 
-::: details Gibt es AirPods Max Replicas?
-AirPods Max Replicas sind mittlerweile verfügbar und haben sich zu ausgereiften Replicas entwickelt. Jenny und HiCity verkaufen AirPods Max Replicas mit dem Airoha 1561M. Die Preise haben sich stabilisiert. Für Updates besuche den [r/AirReps Subreddit](https://www.reddit.com/r/AirReps/) und den [AirReps Discord](https://airreps.link/discord).
+::: details Are AirPods Max reps available?
+AirPods Max Replikate sind jetzt verfügbar und haben sich zu gut ausbalancierten Replikaten entwickelt. Jenny und HiCity verkaufen AirPods Max-Replikate mit dem Airoha 1561M. Die Preise haben sich stabilisiert. Für Updates besuchen Sie das [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) und den [AirReps Discord](https://airreps.link/discord).
 :::
 
-::: details Gibt es AirPods Pro 3 Replicas?
-AirPods Pro 3 Replicas sind verfügbar. Die V7 (Huilian 377H3) ist die erste High-End-Version mit Herzfrequenzsensor, verbessertem AI Hybrid ANC und Kopfgesten-Steuerung. Sowohl die V7 als auch die V6 sind bei vertrauenswürdigen Verkäufern erhältlich. Weitere Informationen findest du auf der [AirPods Pro 3 Versionsinfo](/de/version-info/airpods-pro-3)-Seite.
+::: details Are AirPods Pro 3 reps available?
+AirPods Pro 3 Replikate sind verfügbar. Die V7 (Huilian 377H3) ist die neueste Version und fügt einen Herzfrequenzsensor, AI Hybrid ANC und Kopfgestensteuerung hinzu — sie ist eine frühe Veröffentlichung mit einigen rauen Stellen in den ersten Chargen. V6 ist die erprobtere Pro‑3‑Option, und V5.5 deckt das Budgetsegment ab. Alle sind bei vertrauenswürdigen Verkäufern erhältlich. Für weitere Informationen siehe die [Versionsinfo zu AirPods Pro 3](/de/version-info/airpods-pro-3).
 :::
 
-::: details Warum haben ähnliche Communities möglicherweise neuere Produkte als dieser Guide?
-Die in diesem Guide aufgeführten Produkte sind von höchster Qualität und werden sorgfältig nach unseren Standards ausgewählt. Wir aktualisieren die Liste täglich, um sicherzustellen, dass nur die besten Produkte enthalten sind. Andere Communities haben möglicherweise niedrigere Standards und listen Produkte auf, die nicht so hochwertig sind. Es ist auch möglich, dass sie ein anderes Benennungssystem für ihre Produkte verwenden, was den Anschein erwecken kann, als hätten sie neuere Produkte als dieser Guide.
+::: details Why might similar communities have newer products than this guide?
+Die in diesem Leitfaden aufgeführten Produkte sind von höchster Qualität und werden sorgfältig ausgewählt, um unseren Standards zu entsprechen. Wir aktualisieren die Liste täglich, um sicherzustellen, dass nur die besten Produkte aufgenommen werden. Andere Communities können niedrigere Standards haben und Produkte einschließen, die nicht so hochwertig sind. Es ist auch möglich, dass sie ein anderes Namensschema verwenden, was es so erscheinen lassen kann, als hätten sie neuere Produkte als dieser Leitfaden.
 :::
 
-::: details Welches Modell ist das beste?
-Das zuerst gelistete Modell ist das neueste, die anderen sind frühere Versionen. Um das beste für dich zu finden, berücksichtige Faktoren wie dein Budget, die Versandverfügbarkeit und die gewünschten Features. Es ist auch eine gute Idee, nach Bewertungen der verschiedenen Modelle zu suchen und basierend darauf deine eigene Entscheidung zu treffen.
+::: details Which model is the best?
+Das oberste Modell ist das neueste, während die anderen Modelle frühere Versionen sind. Um das beste Modell für Sie zu finden, sollten Sie Faktoren wie Ihr Budget, Versandverfügbarkeit und gewünschte Funktionen berücksichtigen. Es ist auch ratsam, nach Bewertungen der verschiedenen Modelle zu suchen und basierend auf diesen Informationen Ihre eigene Entscheidung zu treffen.
 :::
 
-::: details Wie kann ich die Version eines gefundenen Klons bestimmen?
-Es ist nicht möglich, die Version eines Klons zu bestimmen, ohne ihn tatsächlich zu verwenden. Die von Verkäufern angegebenen Chipnummern und Bilder sind keine zuverlässigen Indikatoren für die Version eines Klons. Verkäufer nach einer bestimmten Version zu fragen, liefert keine nützlichen Informationen, da sie die Frage möglicherweise nicht verstehen. Wenn du bereit bist, das Risiko einzugehen, kannst du einen zufälligen Klon kaufen. Um sicherzustellen, dass du genau weißt, welches Modell du bekommst, kaufe am besten bei verifizierten Verkäufern.
+::: details How can I determine the version of a clone I found?
+Es ist nicht möglich, die Version eines Clones zu bestimmen, ohne ihn tatsächlich zu verwenden. Die von Verkäufern angegebenen Chip‑Nummern und Bilder sind keine verlässlichen Indikatoren für die Version eines Clones. Verkäufer nach einer bestimmten Version zu fragen liefert oft keine nützliche Information, da sie die Frage möglicherweise nicht verstehen. Wenn Sie bereit sind, das Risiko einzugehen, können Sie einen zufälligen Clone kaufen. Um jedoch genau zu wissen, welches Modell Sie erhalten, ist es am besten, bei verifizierten Verkäufern zu kaufen.
 :::
 
-::: details Wie kann ich den Chip in meinen AirPods bestimmen?
-Um den Chip in deinen AirPods-Klonen zu identifizieren, nutze diese Liste von [nützlichen Apps](/de/useful-apps). Teste jede App einzeln, um herauszufinden, mit welcher sich deine AirPods verbinden. So kannst du schnell den Hersteller und Chipsatz identifizieren. Beachte, dass sich AirPods der untersten Preisklasse möglicherweise mit keiner der Apps verbinden. In solchen Fällen verwenden sie wahrscheinlich den Jieli-Chipsatz.
+::: details How can I determine the chip in my AirPods?
+Um den Chip in Ihren AirPods‑Clones zu identifizieren, schauen Sie sich diese Liste von [nützlichen Apps](/de/useful-apps) an. Testen Sie jede App einzeln, um herauszufinden, mit welcher Ihre AirPods sich verbinden. Das hilft Ihnen, Hersteller und Chipset schnell zu identifizieren. Beachten Sie, dass sehr einfache AirPods eventuell gar keine Verbindung zu den Apps herstellen — in solchen Fällen verwenden sie wahrscheinlich den Jieli‑Chipset.
 :::
 
-::: details Wie kann ich feststellen, ob meine AirPods echt sind?
-Um schnell zu prüfen, ob deine AirPods echt sind, verbinde sie mit einem iPhone und gehe zu Einstellungen > Allgemein > Info. Wenn dort ein „AirPods"-Bereich beim Scrollen erscheint, überprüfe, ob die dort angezeigte Seriennummer mit der Seriennummer auf der Innenseite des AirPods-Deckels übereinstimmt ([Hier prüfen](http://airreps.info/aboutsection)). Wenn kein AirPods-Bereich vorhanden ist, sind deine AirPods wahrscheinlich gefälscht. Einige neuere AirPods Replicas haben möglicherweise eine funktionierende „Info"-Seite. In diesem Fall kannst du das Vorhandensein von Spatial Audio und Head Tracking prüfen. Bei AirPods kannst du auch die Firmware-Version auf der Info-Seite überprüfen, um sicherzustellen, dass sie mit der neuesten von Apple veröffentlichten Version übereinstimmt. Wenn du dir bei der Echtheit deiner AirPods unsicher bist und sie vor dem Kauf nicht prüfen kannst, bitte um Hilfe im [r/airreps Subreddit](https://www.reddit.com/r/AirReps/) oder auf [Discord](https://airreps.link/discord).
+::: details How can I determine if my AirPods are real?
+Um schnell zu prüfen, ob Ihre AirPods echt sind, verbinden Sie sie mit einem iPhone und gehen Sie zu Einstellungen > Allgemein > Info. Wenn es dort einen Abschnitt "AirPods" gibt, überprüfen Sie, ob die dort angezeigte Seriennummer mit der Seriennummer auf der Innenseite des AirPods‑Deckels übereinstimmt ([Check Here](http://airreps.info/aboutsection)). Wenn es keinen AirPods‑Abschnitt gibt, sind Ihre AirPods wahrscheinlich gefälscht. Einige neuere Replik‑AirPods können eine funktionierende "Info"-Seite haben; in diesem Fall können Sie nach Spatial Audio und Head Tracking suchen. Bei AirPods können Sie außerdem die Firmware‑Version auf der Info‑Seite prüfen, um sicherzustellen, dass sie mit der neuesten von Apple veröffentlichten Version übereinstimmt. Wenn Sie sich über die Echtheit Ihrer AirPods unsicher sind und nicht vor dem Kauf prüfen können, können Sie um Hilfe im [r/airreps subreddit](https://www.reddit.com/r/AirReps/) oder im [Discord](https://airreps.link/discord) bitten.
 :::
 
-::: details Sind i9999, Superpods usw. besser als Supercopy oder die im Guide gelisteten Produkte?
-In der Vergangenheit wurden diese Namen verwendet, um Upgrades oder Verbesserungen bei AirPods Replicas anzuzeigen. Chinesische Verkäufer haben jedoch begonnen, diese Namen zu verwenden, um den Anschein zu erwecken, neuere oder bessere Produkte anzubieten, obwohl sie tatsächlich die gleichen Produkte wie zuvor verkaufen. Daher haben diese Namen keine Bedeutung mehr und sollten ignoriert werden. Konzentriere dich stattdessen auf die tatsächlichen Features und die Qualität der Produkte bei deiner Kaufentscheidung.
+::: details Are i9999, Superpods, etc. better than Supercopy or the products listed in the guide?
+Früher wurden diese Namen verwendet, um Upgrades oder Verbesserungen bei Replik‑AirPods anzuzeigen. Chinesische Verkäufer verwenden diese Namen jedoch inzwischen, um den Eindruck zu erwecken, sie würden neuere oder bessere Produkte anbieten, obwohl sie tatsächlich dieselben Produkte wie zuvor verkaufen. Daher haben diese Namen keine Aussagekraft mehr und sollten ignoriert werden. Konzentrieren Sie sich stattdessen auf die tatsächlichen Funktionen und die Qualität der Produkte bei Ihrer Kaufentscheidung.
 :::
