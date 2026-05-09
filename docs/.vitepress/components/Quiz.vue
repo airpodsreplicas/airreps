@@ -990,11 +990,6 @@ const productLinks: Record<string, { earhive: string; jenny: string; hicity: str
         jenny: 'https://airreps.link/jprov53hr2',
         hicity: 'https://airreps.link/hcprov53hr2',
     },
-    'pro2-v5.3-hrplus': {
-        earhive: 'https://airreps.link/eprov53hrp',
-        jenny: 'https://airreps.link/jprov53hrp',
-        hicity: 'https://airreps.link/hcprov53hrp',
-    },
     'pro3-v7-huilian': {
         earhive: 'https://airreps.link/eprov7hl',
         jenny: 'https://airreps.link/jprov7hl',
@@ -1048,7 +1043,6 @@ const prices: Record<string, number> = {
     'pro2-v5.3-tb': 55,
     'pro2-v5.3-huilian': 56,
     'pro2-v5.3-hr': 50,
-    'pro2-v5.3-hrplus': 58,
     'pro3-v7-huilian': 67,
     'pro3-v6-tb': 37,
     'pro3-v6-huilian': 43,
@@ -1462,27 +1456,6 @@ const product = computed<ProductRec | null>(() => {
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
                 { text: 'Features Overview', url: '/introduction/features' },
-                { text: 'ANC Explained', url: '/introduction/anc-explained' },
-                { text: 'Battery Life', url: '/introduction/battery-life' },
-            ],
-        };
-    }
-
-    // In-ear: calls use case overrides only for ANC/features priority — stable/budget/latest respect the priority
-    if (useCase === 'calls' && (priority === 'anc' || priority === 'features')) {
-        return {
-            title: 'AirPods Pro 2 V5.3 HR+',
-            linksPageKey: 'airpods-pro-2',
-            subtitle: 'Sealed construction, isolated mic design — best call quality',
-            priceKey: 'pro2-v5.3-hrplus',
-            reasons: [
-                'Sealed construction with isolated mic design — best call quality on any rep',
-                '34.5 dB ANC — top-tier noise cancelling',
-                '7.5h battery without ANC, 5.5h with ANC',
-                'Premium build for professional use',
-            ],
-            links: [
-                { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
                 { text: 'ANC Explained', url: '/introduction/anc-explained' },
                 { text: 'Battery Life', url: '/introduction/battery-life' },
             ],

@@ -32,8 +32,6 @@ This version is only an upgrade for Huilian models; it has a few improvements. [
 
 **HR** - The HR earbuds have a yellowish, softer case that is less sweatproof than the TB model. The battery life of the HR model is 7.5 hours without ANC and 5.5 hours with ANC turned on. Tuned to be balanced with a slight emphasis on bass. HR also has the best transparency. ANC is second to TB due to the older 1562AE chipset (34.4 dB, peak 39 dB)
 
-**HR+** - Built on top of HR earbuds with an upgraded case, 1:1 hinge and sealed/glued (best workmanship). Also comes with one of the better mic qualities (isolated mic design). ANC is second to TB due to the older 1562AE chipset (34.5 dB, peak 40 dB)
-
 **Huilian** - The Huilian earbuds use a middle‑of‑the‑pack case, firmer than HR but softer than TB, and are equipped with a 1:1 hinge. However, due to the Huilian chipset, ANC is significantly worse than the other two models — 5.3TB and 5.3HR (average 30–32 dB, peak 38 dB). The battery life of the Huilian model is 6 hours without ANC and 4.5 hours with ANC turned on.
 
 
