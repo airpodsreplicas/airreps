@@ -1,5 +1,52 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { type DefaultTheme, defineConfig } from 'vitepress';
 import { redirectPlugin } from './plugins/redirect';
+
+const configDir = path.dirname(fileURLToPath(import.meta.url));
+const docsDir = path.resolve(configDir, '..');
+const ogImagesDir = path.join(docsDir, 'public', 'og');
+
+// Pull Q&A pairs out of `::: details Question?` blocks in a page's markdown
+// source. Only blocks whose title ends with `?` count — that excludes the
+// generic collapsible content (e.g. troubleshooting side-effect notes).
+function extractFaqsFromMarkdown(absPath: string): Array<{ q: string; a: string }> {
+    let content: string;
+    try {
+        content = fs.readFileSync(absPath, 'utf-8');
+    } catch {
+        return [];
+    }
+    content = content.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '');
+
+    const faqs: Array<{ q: string; a: string }> = [];
+    const regex = /^:::+\s*details\s+(.+?)\r?\n([\s\S]*?)\r?\n:::+\s*$/gm;
+    let match: RegExpExecArray | null = regex.exec(content);
+    while (match !== null) {
+        const title = match[1].trim();
+        if (title.endsWith('?')) {
+            const body = match[2]
+                .replace(/^:::+.*$/gm, '')
+                .replace(/!\[[^\]]*\]\([^)]+\)/g, '')
+                .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+                .replace(/\*\*([^*]+)\*\*/g, '$1')
+                .replace(/\*([^*]+)\*/g, '$1')
+                .replace(/`([^`]+)`/g, '$1')
+                .replace(/<[^>]+>/g, '')
+                .replace(/&amp;/g, '&')
+                .replace(/&lt;/g, '<')
+                .replace(/&gt;/g, '>')
+                .replace(/\s+/g, ' ')
+                .trim();
+            if (body) {
+                faqs.push({ q: title, a: body });
+            }
+        }
+        match = regex.exec(content);
+    }
+    return faqs;
+}
 
 // Shared sidebar structure - used to generate locale-specific sidebars
 function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
@@ -572,7 +619,7 @@ export default defineConfig({
     lastUpdated: true,
     cleanUrls: true,
 
-    // Auto-generate sitemap with all locales for SEO
+    // Auto-generate sitemap with all locales for SEO + image sitemap entries
     sitemap: {
         hostname: 'https://airpodsreplicas.com',
         transformItems: (items) => {
@@ -605,9 +652,22 @@ export default defineConfig({
                     { lang: 'x-default', url: `${host}/${basePath}` },
                 ];
 
+                // Image sitemap entry — point at this page's pre-generated OG image
+                // when it exists on disk. Locale homepages arrive as e.g. `da/`, so
+                // expand them to `da/index` to match the OG image filename.
+                let ogSlug = item.url || 'index';
+                if (ogSlug.endsWith('/')) {
+                    ogSlug = `${ogSlug}index`;
+                }
+                const ogImageDiskPath = path.join(ogImagesDir, `${ogSlug}.png`);
+                const img = fs.existsSync(ogImageDiskPath)
+                    ? [{ url: `${host}/og/${ogSlug}.png` }]
+                    : undefined;
+
                 return {
                     ...item,
                     links,
+                    ...(img ? { img } : {}),
                 };
             });
         },
@@ -641,7 +701,7 @@ export default defineConfig({
         }
 
         // Detect current locale
-        let currentLocale: string = 'en';
+        let currentLocale = 'en';
         for (const locale of SUPPORTED_LOCALES) {
             if (basePath.startsWith(`${locale}/`)) {
                 currentLocale = locale;
@@ -738,68 +798,147 @@ export default defineConfig({
         const ogImageSlug = relativePath.replace(/\.md$/, '');
         const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageSlug}.png`;
 
-        // JSON-LD Schema
+        // Section detection — drives breadcrumbs and per-section schema @type
+        const sectionMap: Record<string, string> = {
+            'version-info': 'Version Info',
+            introduction: 'Ultimate Guide',
+            ordering: 'Ordering',
+            troubleshooting: 'Troubleshooting',
+            links: 'Purchase Links',
+        };
+        const pathSegments = basePath.split('/').filter(Boolean);
+        const sectionSlug = pathSegments.length > 1 ? pathSegments[0] : null;
+        const sectionName = sectionSlug ? sectionMap[sectionSlug] : null;
+        const sectionUrl = sectionSlug
+            ? `https://airpodsreplicas.com${localePrefix}/${sectionSlug}/`
+            : null;
+
+        const isHome = basePath === '';
+        const isVersionInfoProduct =
+            sectionSlug === 'version-info' && pathSegments[1] && pathSegments[1] !== 'general';
+        const isTroubleshooting = sectionSlug === 'troubleshooting';
+
+        // Multi-level breadcrumb (Home > Section > Page)
+        const breadcrumbItems: Array<{
+            '@type': 'ListItem';
+            position: number;
+            name: string;
+            item: string;
+        }> = [
+            {
+                '@type': 'ListItem',
+                position: 1,
+                name: 'Home',
+                item: `https://airpodsreplicas.com${localePrefix}/`,
+            },
+        ];
+        if (sectionName && sectionUrl) {
+            breadcrumbItems.push({
+                '@type': 'ListItem',
+                position: 2,
+                name: sectionName,
+                item: sectionUrl,
+            });
+        }
+        if (!isHome) {
+            breadcrumbItems.push({
+                '@type': 'ListItem',
+                position: breadcrumbItems.length + 1,
+                name: title || 'Page',
+                item: pageUrl,
+            });
+        }
+
+        const organizationNode = {
+            '@type': 'Organization',
+            '@id': 'https://airpodsreplicas.com/#organization',
+            name: 'AirReps',
+            alternateName: 'AirPods Replicas',
+            url: 'https://airpodsreplicas.com',
+            logo: {
+                '@type': 'ImageObject',
+                url: 'https://airpodsreplicas.com/logo.webp',
+            },
+            sameAs: [
+                'https://reddit.com/r/airreps',
+                'https://airreps.link/discord',
+                'https://www.youtube.com/@AirReps',
+                'https://github.com/AirPodsReplicas/AirReps',
+            ],
+        };
+
+        const isoDate = pageData.lastUpdated
+            ? new Date(pageData.lastUpdated).toISOString()
+            : new Date().toISOString();
+
+        // JSON-LD graph nodes
+        const websiteNode = {
+            '@type': 'WebSite',
+            '@id': 'https://airpodsreplicas.com/#website',
+            url: 'https://airpodsreplicas.com',
+            name: 'AirReps',
+            alternateName: 'AirPods Replicas',
+            description: defaults.description,
+            inLanguage: ['en', ...SUPPORTED_LOCALES],
+            publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
+        };
+
+        const breadcrumbNode = {
+            '@type': 'BreadcrumbList',
+            '@id': `${pageUrl}/#breadcrumb`,
+            itemListElement: breadcrumbItems,
+        };
+
+        const homeNode = {
+            '@type': 'WebPage',
+            '@id': `${pageUrl}/#webpage`,
+            url: pageUrl,
+            name: pageTitle,
+            description: pageDescription,
+            isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+            inLanguage: currentLocale,
+            dateModified: isoDate,
+        };
+
+        const articleNode = {
+            '@type': isTroubleshooting ? 'TechArticle' : 'Article',
+            '@id': `${pageUrl}/#article`,
+            headline: pageTitle,
+            description: pageDescription,
+            image: ogImageUrl,
+            thumbnailUrl: ogImageUrl,
+            url: pageUrl,
+            mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+            inLanguage: currentLocale,
+            isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+            ...(sectionName ? { articleSection: sectionName } : {}),
+            author: { '@id': 'https://airpodsreplicas.com/#organization' },
+            publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
+            datePublished: isoDate,
+            dateModified: isoDate,
+        };
+
+        const productNode = isVersionInfoProduct
+            ? {
+                  '@type': 'Product',
+                  '@id': `${pageUrl}/#product`,
+                  name: `${title} Replica`,
+                  description: pageDescription,
+                  image: ogImageUrl,
+                  category: 'Wireless Earbuds',
+                  url: pageUrl,
+                  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+              }
+            : null;
+
         const schema = {
             '@context': 'https://schema.org',
             '@graph': [
-                {
-                    '@type': 'WebSite',
-                    '@id': 'https://airpodsreplicas.com/#website',
-                    url: 'https://airpodsreplicas.com',
-                    name: 'AirReps',
-                    description: defaults.description,
-                    publisher: {
-                        '@type': 'Organization',
-                        name: 'AirReps',
-                        logo: {
-                            '@type': 'ImageObject',
-                            url: 'https://airpodsreplicas.com/logo.webp',
-                        },
-                    },
-                },
-                {
-                    '@type': 'BreadcrumbList',
-                    '@id': `${pageUrl}/#breadcrumb`,
-                    itemListElement: [
-                        {
-                            '@type': 'ListItem',
-                            position: 1,
-                            name: 'Home',
-                            item: `https://airpodsreplicas.com${localePrefix}/`,
-                        },
-                        {
-                            '@type': 'ListItem',
-                            position: 2,
-                            name: title || 'Page',
-                            item: pageUrl,
-                        },
-                    ],
-                },
-                {
-                    '@type': 'Article',
-                    '@id': `${pageUrl}/#article`,
-                    headline: pageTitle,
-                    description: pageDescription,
-                    image: ogImageUrl,
-                    author: {
-                        '@type': 'Organization',
-                        name: 'AirReps',
-                    },
-                    publisher: {
-                        '@type': 'Organization',
-                        name: 'AirReps',
-                        logo: {
-                            '@type': 'ImageObject',
-                            url: 'https://airpodsreplicas.com/logo.webp',
-                        },
-                    },
-                    datePublished: pageData.lastUpdated
-                        ? new Date(pageData.lastUpdated).toISOString()
-                        : new Date().toISOString(),
-                    dateModified: pageData.lastUpdated
-                        ? new Date(pageData.lastUpdated).toISOString()
-                        : new Date().toISOString(),
-                },
+                organizationNode,
+                websiteNode,
+                breadcrumbNode,
+                ...(isHome ? [homeNode] : [articleNode]),
+                ...(productNode ? [productNode] : []),
             ],
         };
 
@@ -921,36 +1060,64 @@ export default defineConfig({
                         }[currentLocale] || 'en_US',
                 },
             ],
-            // Localized Twitter meta tags
-            ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
-            ['meta', { property: 'twitter:url', content: pageUrl }],
-            ['meta', { property: 'twitter:title', content: pageTitle }],
-            ['meta', { property: 'twitter:description', content: pageDescription }],
-            ['meta', { property: 'twitter:image', content: ogImageUrl }],
-            ['meta', { property: 'twitter:image:alt', content: pageTitle }],
+            // og:locale:alternate for every other supported locale.
+            // `content` listed first so VitePress's mergeHead dedupe (which keys on the
+            // first attribute) doesn't collapse these eight tags into one.
+            ...(Object.entries({
+                en: 'en_US',
+                pt: 'pt_BR',
+                es: 'es_ES',
+                da: 'da_DK',
+                pl: 'pl_PL',
+                ru: 'ru_RU',
+                fr: 'fr_FR',
+                de: 'de_DE',
+                tr: 'tr_TR',
+            })
+                .filter(([locale]) => locale !== currentLocale)
+                .map(([, ogLocale]) => [
+                    'meta',
+                    { content: ogLocale, property: 'og:locale:alternate' },
+                ]) as [string, Record<string, string>][]),
+            // Twitter Card meta tags (Twitter spec uses name=, not property=)
+            ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+            ['meta', { name: 'twitter:url', content: pageUrl }],
+            ['meta', { name: 'twitter:title', content: pageTitle }],
+            ['meta', { name: 'twitter:description', content: pageDescription }],
+            ['meta', { name: 'twitter:image', content: ogImageUrl }],
+            ['meta', { name: 'twitter:image:alt', content: pageTitle }],
             // JSON-LD
             ['script', { type: 'application/ld+json' }, JSON.stringify(schema)],
-            // FAQ JSON-LD (when page declares faq items in frontmatter)
-            ...(frontmatter.faq?.length
-                ? [
-                      [
-                          'script',
-                          { type: 'application/ld+json' },
-                          JSON.stringify({
-                              '@context': 'https://schema.org',
-                              '@type': 'FAQPage',
-                              mainEntity: frontmatter.faq.map((item: { q: string; a: string }) => ({
-                                  '@type': 'Question',
-                                  name: item.q,
-                                  acceptedAnswer: {
-                                      '@type': 'Answer',
-                                      text: item.a,
-                                  },
-                              })),
-                          }),
-                      ],
-                  ]
-                : []),
+            // FAQ JSON-LD — manual `faq:` frontmatter wins; otherwise auto-extracted
+            // from `::: details Question?` blocks in the source markdown
+            ...(() => {
+                const manualFaqs =
+                    (frontmatter.faq as Array<{ q: string; a: string }> | undefined) ?? [];
+                const faqs = manualFaqs.length
+                    ? manualFaqs
+                    : extractFaqsFromMarkdown(path.join(docsDir, relativePath));
+                if (!faqs.length) {
+                    return [];
+                }
+                return [
+                    [
+                        'script',
+                        { type: 'application/ld+json' },
+                        JSON.stringify({
+                            '@context': 'https://schema.org',
+                            '@type': 'FAQPage',
+                            mainEntity: faqs.map((item) => ({
+                                '@type': 'Question',
+                                name: item.q,
+                                acceptedAnswer: {
+                                    '@type': 'Answer',
+                                    text: item.a,
+                                },
+                            })),
+                        }),
+                    ],
+                ] as [string, Record<string, string>, string][];
+            })(),
         ];
     },
 
