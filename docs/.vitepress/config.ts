@@ -1123,7 +1123,7 @@ export default defineConfig({
                         {
                             en: 'en_US',
                             pt: 'pt_BR',
-                            es: 'es_ES',
+                            es: 'es_MX',
                             da: 'da_DK',
                             pl: 'pl_PL',
                             ru: 'ru_RU',
@@ -1139,7 +1139,7 @@ export default defineConfig({
             ...(Object.entries({
                 en: 'en_US',
                 pt: 'pt_BR',
-                es: 'es_ES',
+                es: 'es_MX',
                 da: 'da_DK',
                 pl: 'pl_PL',
                 ru: 'ru_RU',
@@ -1236,7 +1236,7 @@ export default defineConfig({
         },
         es: {
             label: 'Español',
-            lang: 'es-ES',
+            lang: 'es',
             description: 'Una comunidad para la discusión y exploración de clones de AirPods.',
             themeConfig: {
                 nav: getNav('es'),

@@ -1,0 +1,52 @@
+# AirReps
+
+> AirReps er det største fællesskab for AirPods-replikaer (kloner). AirReps Ultimative Guide dækker hvilke AirPods-replikaer man bør købe, hvordan man køber dem, betroede sælgere, versionssammenligninger, funktioner, lydkvalitet, fejlfinding og meget mere. Tilgængelig på 9 sprog på airpodsreplicas.com.
+
+AirReps hjælper folk med at træffe informerede købsbeslutninger om AirPods-replikaer. Guiden vedligeholdes af fællesskabet, opdateres løbende og dækker alle modeller fra AirPods 2 til AirPods Pro 3 og AirPods Max. Fællesskabet driver også en Discord-server og et subreddit.
+
+Hjemmeside: https://airpodsreplicas.com/da/
+Discord: https://airreps.link/discord
+Reddit: https://airreps.link/reddit (r/AirReps)
+
+## Guide
+
+- [Oversigt over Den Ultimative Guide](https://airpodsreplicas.com/da/introduction/overview): Start her. Beskriver hvad AirPods-replikaer er, hvorfor folk køber dem, og hvad man kan forvente.
+- [Funktioner](https://airpodsreplicas.com/da/introduction/features): ANC, Spatial Audio, in-ear-registrering, touch-styring, iCloud Connect og mikrofonkvalitet.
+- [Lydkvalitet](https://airpodsreplicas.com/da/introduction/sound-quality): Hvordan replikaer lyder sammenlignet med originalerne.
+- [Byggekvalitet](https://airpodsreplicas.com/da/introduction/build-quality): Materialer, vægt, hængselkvalitet og case-kompatibilitet.
+- [Batterilevetid](https://airpodsreplicas.com/da/introduction/battery-life): Forventet batterilevetid på tværs af modeller.
+- [Forbindelse](https://airpodsreplicas.com/da/introduction/connectivity): iOS-popup, macOS-problemer, rækkevidde, latency og multi-enhedsforbindelse.
+- [ANC Forklaret](https://airpodsreplicas.com/da/introduction/anc-explained): Hvordan aktiv støjreduktion virker på replikaer.
+- [Emballage](https://airpodsreplicas.com/da/introduction/packaging): Hvad man kan forvente af emballage og boks-muligheder.
+- [Sælgere](https://airpodsreplicas.com/da/introduction/sellers): Verificerede vs. ikke-verificerede sælgere, og hvordan man undgår snyd.
+- [Ordbog](https://airpodsreplicas.com/da/introduction/dictionary): Ordliste over begreber brugt i replika-fællesskabet.
+
+## Versionssammenligninger
+
+- [Generel Versionsinfo](https://airpodsreplicas.com/da/version-info/general): Oversigt over alle versioner, chipsæt og hvordan man identificerer sin egen.
+- [AirPods Pro 3](https://airpodsreplicas.com/da/version-info/airpods-pro-3): Nyeste model med Live Translation og iCloud Connect.
+- [AirPods Pro 2](https://airpodsreplicas.com/da/version-info/airpods-pro-2): Mest populære model. V5.4 Huilian er bedst lige nu.
+- [AirPods Pro](https://airpodsreplicas.com/da/version-info/airpods-pro): Første generation af Pro-replikaer.
+- [AirPods 4](https://airpodsreplicas.com/da/version-info/airpods-4): Open-ear design med ANC.
+- [AirPods 3](https://airpodsreplicas.com/da/version-info/airpods-3): Tredjegenerations standardmodel.
+- [AirPods 2](https://airpodsreplicas.com/da/version-info/airpods-2): Billige indstigningsreplikaer.
+- [AirPods Max](https://airpodsreplicas.com/da/version-info/airpods-max): Over-ear hovedtelefonreplikaer.
+
+## Køb
+
+- [Sådan Køber Du](https://airpodsreplicas.com/da/ordering/how-to-buy): Trin-for-trin købsguide, betalingsmetoder og tips.
+- [Købslinks](https://airpodsreplicas.com/da/links/info): Direkte links til betroede sælgere for hver model.
+- [Kvalitetskontrol og ægthedstjek](https://airpodsreplicas.com/da/ordering/qc-lc): Hvordan du verificerer dit produkt efter køb.
+
+## Fejlfinding
+
+- [Almindelige Fejl](https://airpodsreplicas.com/da/troubleshooting/other-common-bugs): Løsninger på de mest almindelige problemer.
+- [macOS Lydstyrke Fix](https://airpodsreplicas.com/da/troubleshooting/macOS-volume-slider-fixup): Fix til lydstyrkeproblem på Intel-Macs.
+- [iCloud Inkompatibilitet](https://airpodsreplicas.com/da/troubleshooting/AirReps-Incompatibility-with-iCloud): Løsning af iCloud-relaterede problemer.
+
+## Værktøjer og Fællesskab
+
+- [Nyttige Apps](https://airpodsreplicas.com/da/useful-apps): Essentielle firmware-update-apps til Airoha-, Tigerbuilder-, BES-, HR- og Huilian-chipsæt.
+- [Quiz](https://airpodsreplicas.com/da/quiz): Interaktiv quiz til at finde den bedste replika til dine behov og budget.
+- [Discord](https://airreps.link/discord): Bliv en del af fællesskabet for hjælp i realtid.
+- [Reddit](https://airreps.link/reddit): Subreddit r/AirReps.

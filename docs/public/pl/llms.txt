@@ -1,0 +1,52 @@
+# AirReps
+
+> AirReps to największa społeczność poświęcona replikom AirPods (klonom). Kompletny Przewodnik AirReps obejmuje, które repliki AirPods kupić, jak je kupować, zaufanych sprzedawców, porównania wersji, funkcje, jakość dźwięku, rozwiązywanie problemów i wiele więcej. Dostępny w 9 językach na airpodsreplicas.com.
+
+AirReps pomaga ludziom podejmować świadome decyzje zakupowe dotyczące replik AirPods. Przewodnik jest utrzymywany przez społeczność, stale aktualizowany i obejmuje wszystkie modele od AirPods 2 do AirPods Pro 3 oraz AirPods Max. Społeczność prowadzi także serwer Discord i subreddit.
+
+Strona: https://airpodsreplicas.com/pl/
+Discord: https://airreps.link/discord
+Reddit: https://airreps.link/reddit (r/AirReps)
+
+## Przewodnik
+
+- [Przegląd Kompletnego Przewodnika](https://airpodsreplicas.com/pl/introduction/overview): Zacznij tutaj. Wyjaśnia czym są repliki AirPods, dlaczego ludzie je kupują i czego się spodziewać.
+- [Funkcje](https://airpodsreplicas.com/pl/introduction/features): ANC, Spatial Audio, detekcja w uchu, sterowanie dotykowe, iCloud Connect i jakość mikrofonu.
+- [Jakość Dźwięku](https://airpodsreplicas.com/pl/introduction/sound-quality): Jak repliki brzmią w porównaniu do oryginałów.
+- [Jakość Wykonania](https://airpodsreplicas.com/pl/introduction/build-quality): Materiały, waga, jakość zawiasu i kompatybilność etui.
+- [Żywotność Baterii](https://airpodsreplicas.com/pl/introduction/battery-life): Oczekiwany czas pracy baterii w różnych modelach.
+- [Łączność](https://airpodsreplicas.com/pl/introduction/connectivity): Popup iOS, problemy macOS, zasięg, opóźnienie i obsługa wielu urządzeń.
+- [ANC Wyjaśnione](https://airpodsreplicas.com/pl/introduction/anc-explained): Jak działa aktywna redukcja szumów w replikach.
+- [Opakowanie](https://airpodsreplicas.com/pl/introduction/packaging): Czego oczekiwać od opakowania i opcji pudełka.
+- [Sprzedawcy](https://airpodsreplicas.com/pl/introduction/sellers): Sprzedawcy zweryfikowani vs niezweryfikowani i jak unikać oszustw.
+- [Słownik](https://airpodsreplicas.com/pl/introduction/dictionary): Słownik terminów używanych w społeczności replik.
+
+## Porównania Wersji
+
+- [Ogólne Info o Wersjach](https://airpodsreplicas.com/pl/version-info/general): Przegląd wszystkich wersji, chipsetów i jak rozpoznać swoją.
+- [AirPods Pro 3](https://airpodsreplicas.com/pl/version-info/airpods-pro-3): Najnowszy model z Live Translation i iCloud Connect.
+- [AirPods Pro 2](https://airpodsreplicas.com/pl/version-info/airpods-pro-2): Najpopularniejszy model. V5.4 Huilian jest obecnie najlepszy.
+- [AirPods Pro](https://airpodsreplicas.com/pl/version-info/airpods-pro): Repliki Pro pierwszej generacji.
+- [AirPods 4](https://airpodsreplicas.com/pl/version-info/airpods-4): Otwarta konstrukcja z ANC.
+- [AirPods 3](https://airpodsreplicas.com/pl/version-info/airpods-3): Standardowy model trzeciej generacji.
+- [AirPods 2](https://airpodsreplicas.com/pl/version-info/airpods-2): Budżetowe repliki podstawowe.
+- [AirPods Max](https://airpodsreplicas.com/pl/version-info/airpods-max): Repliki słuchawek nausznych.
+
+## Zakup
+
+- [Jak Kupić](https://airpodsreplicas.com/pl/ordering/how-to-buy): Przewodnik krok po kroku, metody płatności i wskazówki.
+- [Linki Zakupowe](https://airpodsreplicas.com/pl/links/info): Bezpośrednie linki do zaufanych sprzedawców dla każdego modelu.
+- [Kontrola Jakości i Weryfikacja](https://airpodsreplicas.com/pl/ordering/qc-lc): Jak zweryfikować produkt po zakupie.
+
+## Rozwiązywanie Problemów
+
+- [Częste Błędy](https://airpodsreplicas.com/pl/troubleshooting/other-common-bugs): Rozwiązania najczęstszych problemów.
+- [Głośność na macOS](https://airpodsreplicas.com/pl/troubleshooting/macOS-volume-slider-fixup): Fix dla problemu z głośnością na Macach Intel.
+- [Niekompatybilność z iCloud](https://airpodsreplicas.com/pl/troubleshooting/AirReps-Incompatibility-with-iCloud): Rozwiązywanie problemów związanych z iCloud.
+
+## Narzędzia i Społeczność
+
+- [Przydatne Aplikacje](https://airpodsreplicas.com/pl/useful-apps): Niezbędne aplikacje do aktualizacji firmware'u dla chipsetów Airoha, Tigerbuilder, BES, HR i Huilian.
+- [Quiz](https://airpodsreplicas.com/pl/quiz): Interaktywny quiz, który pomoże znaleźć najlepszą replikę dla Twoich potrzeb i budżetu.
+- [Discord](https://airreps.link/discord): Dołącz do społeczności, aby uzyskać pomoc na żywo.
+- [Reddit](https://airreps.link/reddit): Subreddit r/AirReps.
