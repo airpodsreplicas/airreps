@@ -1,8 +1,8 @@
 # AirReps
 
-> AirReps, AirPods replikalarına (klonlarına) adanmış en büyük topluluktur. AirReps Kapsamlı Rehberi, hangi AirPods replikalarını alacağınızı, nasıl alacağınızı, güvenilir satıcıları, sürüm karşılaştırmalarını, özellikleri, ses kalitesini, sorun gidermeyi ve daha fazlasını kapsar. airpodsreplicas.com adresinde 9 dilde mevcuttur.
+> AirReps, AirPods replikalarına (klonlarına) adanmış en büyük topluluktur. AirReps Kapsamlı Rehberi hangi AirPods replikalarını alacağınızı, nasıl alacağınızı, güvenilir satıcıları, sürüm karşılaştırmalarını, özellikleri, ses kalitesini, sorun gidermeyi ve daha fazlasını ele alır. airpodsreplicas.com adresinde 9 dilde mevcuttur.
 
-AirReps, insanların AirPods replikaları hakkında bilinçli satın alma kararları vermesine yardımcı olur. Rehber topluluk tarafından sürekli güncellenir ve AirPods 2'den AirPods Pro 3 ve AirPods Max'a kadar tüm modelleri kapsar. Topluluk ayrıca bir Discord sunucusu ve subreddit işletir.
+AirReps, AirPods replikaları hakkında bilinçli satın alma kararları vermenize yardımcı olur. Rehber topluluk tarafından sürdürülür, sürekli güncellenir ve AirPods 2'den AirPods Pro 3 ve AirPods Max'e kadar tüm modelleri kapsar. Topluluğun ayrıca bir Discord sunucusu ve subreddit'i vardır.
 
 Web Sitesi: https://airpodsreplicas.com/tr/
 Discord: https://airreps.link/discord
@@ -10,22 +10,22 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 
 ## Rehber
 
-- [Kapsamlı Rehbere Genel Bakış](https://airpodsreplicas.com/tr/introduction/overview): Buradan başlayın. AirPods replikalarının ne olduğu, neden alındığı ve neler beklenebileceği.
+- [Kapsamlı Rehbere Genel Bakış](https://airpodsreplicas.com/tr/introduction/overview): Buradan başlayın. AirPods replikalarının ne olduğunu, neden alındığını ve neler beklenebileceğini öğrenin.
 - [Özellikler](https://airpodsreplicas.com/tr/introduction/features): ANC, Spatial Audio, kulakta algılama, dokunmatik kontroller, iCloud Connect ve mikrofon kalitesi.
-- [Ses Kalitesi](https://airpodsreplicas.com/tr/introduction/sound-quality): Replikaların orijinallere kıyasla nasıl ses verdiği.
+- [Ses Kalitesi](https://airpodsreplicas.com/tr/introduction/sound-quality): Replikalar orijinallere kıyasla nasıl ses verir.
 - [Yapı Kalitesi](https://airpodsreplicas.com/tr/introduction/build-quality): Malzemeler, ağırlık, menteşe kalitesi ve kutu uyumluluğu.
 - [Pil Ömrü](https://airpodsreplicas.com/tr/introduction/battery-life): Modellere göre beklenen pil ömrü.
 - [Bağlantı](https://airpodsreplicas.com/tr/introduction/connectivity): iOS popup, macOS sorunları, menzil, gecikme ve çoklu cihaz desteği.
-- [ANC Açıklaması](https://airpodsreplicas.com/tr/introduction/anc-explained): Aktif gürültü engelleme replikalarda nasıl çalışır.
+- [ANC Açıklaması](https://airpodsreplicas.com/tr/introduction/anc-explained): Aktif gürültü engellemenin replikalarda nasıl çalıştığı.
 - [Paketleme](https://airpodsreplicas.com/tr/introduction/packaging): Paketleme ve kutu seçeneklerinden beklenenler.
-- [Satıcılar](https://airpodsreplicas.com/tr/introduction/sellers): Doğrulanmış vs doğrulanmamış satıcılar ve dolandırıcılıktan nasıl kaçınılır.
+- [Satıcılar](https://airpodsreplicas.com/tr/introduction/sellers): Doğrulanmış ile doğrulanmamış satıcılar ve dolandırıcılıktan nasıl kaçınılır.
 - [Sözlük](https://airpodsreplicas.com/tr/introduction/dictionary): Replika topluluğunda kullanılan terimlerin sözlüğü.
 
 ## Sürüm Karşılaştırmaları
 
-- [Genel Sürüm Bilgisi](https://airpodsreplicas.com/tr/version-info/general): Tüm sürümlere, chipset'lere genel bakış ve sahip olduğunuzu nasıl tanımlarsınız.
+- [Genel Sürüm Bilgisi](https://airpodsreplicas.com/tr/version-info/general): Tüm sürüm ve chipset'lere genel bakış ile sahip olduğunuzu nasıl tanımlayacağınız.
 - [AirPods Pro 3](https://airpodsreplicas.com/tr/version-info/airpods-pro-3): Live Translation ve iCloud Connect içeren en yeni model.
-- [AirPods Pro 2](https://airpodsreplicas.com/tr/version-info/airpods-pro-2): En popüler model. V5.4 Huilian şu anki en iyisi.
+- [AirPods Pro 2](https://airpodsreplicas.com/tr/version-info/airpods-pro-2): En popüler model. V5.4 Huilian şu anki en iyi seçenek.
 - [AirPods Pro](https://airpodsreplicas.com/tr/version-info/airpods-pro): Birinci nesil Pro replikalar.
 - [AirPods 4](https://airpodsreplicas.com/tr/version-info/airpods-4): ANC'li open-ear tasarım.
 - [AirPods 3](https://airpodsreplicas.com/tr/version-info/airpods-3): Üçüncü nesil standart model.
@@ -36,17 +36,17 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 
 - [Nasıl Satın Alınır](https://airpodsreplicas.com/tr/ordering/how-to-buy): Adım adım sipariş rehberi, ödeme yöntemleri ve ipuçları.
 - [Satın Alma Bağlantıları](https://airpodsreplicas.com/tr/links/info): Her model için güvenilir satıcılara doğrudan bağlantılar.
-- [Kalite Kontrol ve Doğrulama](https://airpodsreplicas.com/tr/ordering/qc-lc): Ürününüzü satın aldıktan sonra nasıl doğrularsınız.
+- [Kalite Kontrol ve Doğrulama](https://airpodsreplicas.com/tr/ordering/qc-lc): Ürününüzü satın aldıktan sonra nasıl doğrulayacağınız.
 
 ## Sorun Giderme
 
-- [Yaygın Hatalar](https://airpodsreplicas.com/tr/troubleshooting/other-common-bugs): En yaygın sorunlar için düzeltmeler.
-- [macOS Ses Kontrolü](https://airpodsreplicas.com/tr/troubleshooting/macOS-volume-slider-fixup): Intel Mac ses kontrol sorunu için fix.
+- [Yaygın Hatalar](https://airpodsreplicas.com/tr/troubleshooting/other-common-bugs): En yaygın sorunlar için çözümler.
+- [macOS Ses Kontrolü](https://airpodsreplicas.com/tr/troubleshooting/macOS-volume-slider-fixup): Intel Mac ses kontrol sorunu için düzeltme.
 - [iCloud Uyumsuzluğu](https://airpodsreplicas.com/tr/troubleshooting/AirReps-Incompatibility-with-iCloud): iCloud ile ilgili sorunları çözme.
 
 ## Araçlar ve Topluluk
 
 - [Faydalı Uygulamalar](https://airpodsreplicas.com/tr/useful-apps): Airoha, Tigerbuilder, BES, HR ve Huilian chipset'leri için temel firmware güncelleme uygulamaları.
-- [Test](https://airpodsreplicas.com/tr/quiz): İhtiyaçlarınız ve bütçenize uygun en iyi replikayı bulmak için interaktif test.
+- [Test](https://airpodsreplicas.com/tr/quiz): İhtiyaçlarınıza ve bütçenize uygun en iyi replikayı bulmanız için interaktif test.
 - [Discord](https://airreps.link/discord): Canlı yardım için topluluğa katılın.
 - [Reddit](https://airreps.link/reddit): r/AirReps subreddit'i.

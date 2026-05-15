@@ -1,8 +1,8 @@
 # AirReps
 
-> AirReps — крупнейшее сообщество, посвящённое репликам AirPods (клонам). Полное Руководство AirReps охватывает, какие реплики AirPods покупать, как их покупать, проверенных продавцов, сравнения версий, функции, качество звука, устранение неполадок и многое другое. Доступно на 9 языках на airpodsreplicas.com.
+> AirReps — крупнейшее сообщество, посвящённое репликам AirPods (клонам). Полное Руководство AirReps рассказывает, какие реплики AirPods покупать, как их покупать, о проверенных продавцах, сравнениях версий, функциях, качестве звука, устранении неполадок и многом другом. Доступно на 9 языках на airpodsreplicas.com.
 
-AirReps помогает людям принимать обоснованные решения о покупке реплик AirPods. Руководство поддерживается сообществом, постоянно обновляется и охватывает все модели от AirPods 2 до AirPods Pro 3 и AirPods Max. Сообщество также ведёт сервер Discord и сабреддит.
+AirReps помогает принимать обоснованные решения при покупке реплик AirPods. Руководство ведётся сообществом, постоянно обновляется и охватывает все модели — от AirPods 2 до AirPods Pro 3 и AirPods Max. У сообщества также есть сервер Discord и сабреддит на Reddit.
 
 Сайт: https://airpodsreplicas.com/ru/
 Discord: https://airreps.link/discord
@@ -10,43 +10,43 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 
 ## Руководство
 
-- [Обзор Полного Руководства](https://airpodsreplicas.com/ru/introduction/overview): Начните здесь. Что такое реплики AirPods, зачем их покупают и чего ожидать.
-- [Функции](https://airpodsreplicas.com/ru/introduction/features): ANC, Spatial Audio, определение в ухе, сенсорное управление, iCloud Connect и качество микрофона.
+- [Обзор Полного Руководства](https://airpodsreplicas.com/ru/introduction/overview): Начните отсюда. Здесь объясняется, что такое реплики AirPods, зачем их покупают и чего от них ожидать.
+- [Функции](https://airpodsreplicas.com/ru/introduction/features): ANC, Spatial Audio, обнаружение в ухе, сенсорное управление, iCloud Connect и качество микрофона.
 - [Качество Звука](https://airpodsreplicas.com/ru/introduction/sound-quality): Как реплики звучат по сравнению с оригиналами.
 - [Качество Сборки](https://airpodsreplicas.com/ru/introduction/build-quality): Материалы, вес, качество шарнира и совместимость кейса.
-- [Время Работы Батареи](https://airpodsreplicas.com/ru/introduction/battery-life): Ожидаемое время работы для всех моделей.
-- [Подключение](https://airpodsreplicas.com/ru/introduction/connectivity): Попап iOS, проблемы macOS, дальность, задержка и мультидевайс.
+- [Время Работы Батареи](https://airpodsreplicas.com/ru/introduction/battery-life): Ожидаемое время работы у разных моделей.
+- [Подключение](https://airpodsreplicas.com/ru/introduction/connectivity): iOS-попап, проблемы macOS, дальность, задержка и поддержка нескольких устройств.
 - [ANC: Объяснение](https://airpodsreplicas.com/ru/introduction/anc-explained): Как активное шумоподавление работает в репликах.
-- [Упаковка](https://airpodsreplicas.com/ru/introduction/packaging): Чего ожидать от упаковки и вариантов коробки.
-- [Продавцы](https://airpodsreplicas.com/ru/introduction/sellers): Проверенные vs непроверенные продавцы и как избежать мошенничества.
-- [Словарь](https://airpodsreplicas.com/ru/introduction/dictionary): Глоссарий терминов сообщества реплик.
+- [Упаковка](https://airpodsreplicas.com/ru/introduction/packaging): Чего ожидать от упаковки и вариантов комплектации.
+- [Продавцы](https://airpodsreplicas.com/ru/introduction/sellers): Проверенные и непроверенные продавцы, как избежать мошенничества.
+- [Словарь](https://airpodsreplicas.com/ru/introduction/dictionary): Глоссарий терминов, используемых в сообществе реплик.
 
 ## Сравнения Версий
 
-- [Общая Информация о Версиях](https://airpodsreplicas.com/ru/version-info/general): Обзор всех версий, чипсетов и как определить свою.
+- [Общая Информация о Версиях](https://airpodsreplicas.com/ru/version-info/general): Обзор всех версий и чипсетов, а также как определить, какая у вас.
 - [AirPods Pro 3](https://airpodsreplicas.com/ru/version-info/airpods-pro-3): Новейшая модель с Live Translation и iCloud Connect.
-- [AirPods Pro 2](https://airpodsreplicas.com/ru/version-info/airpods-pro-2): Самая популярная модель. V5.4 Huilian — лучшая на данный момент.
+- [AirPods Pro 2](https://airpodsreplicas.com/ru/version-info/airpods-pro-2): Самая популярная модель. V5.4 Huilian — лучший вариант на данный момент.
 - [AirPods Pro](https://airpodsreplicas.com/ru/version-info/airpods-pro): Реплики Pro первого поколения.
-- [AirPods 4](https://airpodsreplicas.com/ru/version-info/airpods-4): Open-ear дизайн с ANC.
+- [AirPods 4](https://airpodsreplicas.com/ru/version-info/airpods-4): Открытая (open-ear) конструкция с ANC.
 - [AirPods 3](https://airpodsreplicas.com/ru/version-info/airpods-3): Стандартная модель третьего поколения.
-- [AirPods 2](https://airpodsreplicas.com/ru/version-info/airpods-2): Бюджетные начальные реплики.
-- [AirPods Max](https://airpodsreplicas.com/ru/version-info/airpods-max): Реплики накладных наушников.
+- [AirPods 2](https://airpodsreplicas.com/ru/version-info/airpods-2): Бюджетные реплики начального уровня.
+- [AirPods Max](https://airpodsreplicas.com/ru/version-info/airpods-max): Реплики полноразмерных наушников.
 
 ## Покупка
 
 - [Как Купить](https://airpodsreplicas.com/ru/ordering/how-to-buy): Пошаговое руководство, способы оплаты и советы.
 - [Ссылки для Покупки](https://airpodsreplicas.com/ru/links/info): Прямые ссылки на проверенных продавцов для каждой модели.
-- [Контроль Качества и Проверка](https://airpodsreplicas.com/ru/ordering/qc-lc): Как проверить товар после покупки.
+- [Контроль Качества и Проверка Подлинности](https://airpodsreplicas.com/ru/ordering/qc-lc): Как проверить товар после покупки.
 
 ## Устранение Неполадок
 
-- [Распространённые Ошибки](https://airpodsreplicas.com/ru/troubleshooting/other-common-bugs): Решения самых распространённых проблем.
-- [Громкость на macOS](https://airpodsreplicas.com/ru/troubleshooting/macOS-volume-slider-fixup): Фикс для проблемы громкости на Intel Mac.
-- [Несовместимость с iCloud](https://airpodsreplicas.com/ru/troubleshooting/AirReps-Incompatibility-with-iCloud): Решение проблем с iCloud.
+- [Распространённые Ошибки](https://airpodsreplicas.com/ru/troubleshooting/other-common-bugs): Решения самых частых проблем.
+- [Громкость на macOS](https://airpodsreplicas.com/ru/troubleshooting/macOS-volume-slider-fixup): Исправление проблемы с громкостью на Intel-Mac.
+- [Несовместимость с iCloud](https://airpodsreplicas.com/ru/troubleshooting/AirReps-Incompatibility-with-iCloud): Решение проблем, связанных с iCloud.
 
 ## Инструменты и Сообщество
 
-- [Полезные Приложения](https://airpodsreplicas.com/ru/useful-apps): Основные приложения для обновления прошивки для чипсетов Airoha, Tigerbuilder, BES, HR и Huilian.
-- [Тест](https://airpodsreplicas.com/ru/quiz): Интерактивный тест для подбора лучшей реплики под ваши нужды и бюджет.
-- [Discord](https://airreps.link/discord): Присоединяйтесь к сообществу для живой помощи.
+- [Полезные Приложения](https://airpodsreplicas.com/ru/useful-apps): Основные приложения для обновления прошивки чипсетов Airoha, Tigerbuilder, BES, HR и Huilian.
+- [Тест](https://airpodsreplicas.com/ru/quiz): Интерактивный тест, который поможет подобрать реплику под ваши задачи и бюджет.
+- [Discord](https://airreps.link/discord): Присоединяйтесь к сообществу, чтобы получить помощь в режиме реального времени.
 - [Reddit](https://airreps.link/reddit): Сабреддит r/AirReps.
