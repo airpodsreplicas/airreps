@@ -1,3 +1,4 @@
+import { execSync } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -6,7 +7,36 @@ import { redirectPlugin } from './plugins/redirect';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
 const docsDir = path.resolve(configDir, '..');
+const repoRoot = path.resolve(docsDir, '..');
 const ogImagesDir = path.join(docsDir, 'public', 'og');
+
+// First-commit dates per markdown file, used for Article.datePublished so it
+// stops being equal to dateModified on every redeploy. Computed once at module
+// load — single git call, then a lookup table keyed by repo-relative path.
+function buildFirstCommitDates(): Map<string, string> {
+    const map = new Map<string, string>();
+    try {
+        const output = execSync('git log --reverse --name-only --format="DATE %aI" -- docs/', {
+            cwd: repoRoot,
+            encoding: 'utf-8',
+            maxBuffer: 64 * 1024 * 1024,
+        });
+        let currentDate = '';
+        for (const rawLine of output.split('\n')) {
+            const line = rawLine.trim();
+            if (!line) continue;
+            if (line.startsWith('DATE ')) {
+                currentDate = line.slice(5);
+            } else if (line.endsWith('.md') && !map.has(line)) {
+                map.set(line, currentDate);
+            }
+        }
+    } catch {
+        // git unavailable (e.g. shallow clone with no history) — fall back silently
+    }
+    return map;
+}
+const firstCommitDates = buildFirstCommitDates();
 
 // Pull Q&A pairs out of `::: details Question?` blocks in a page's markdown
 // source. Only blocks whose title ends with `?` count — that excludes the
@@ -680,7 +710,12 @@ export default defineConfig({
     head: [
         ['link', { rel: 'preconnect', href: 'https://cdn.jsdelivr.net', crossorigin: '' }],
         ['link', { rel: 'icon', sizes: 'any', href: '/favicon.ico' }],
+        ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+        ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+        ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+        ['link', { rel: 'manifest', href: '/site.webmanifest' }],
         ['meta', { name: 'theme-color', content: '#EC645D' }],
+        ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
         ['meta', { name: 'apple-mobile-web-app-title', content: 'AirReps Ultimate Guide' }],
@@ -781,15 +816,17 @@ export default defineConfig({
         const flag = localeFlags[currentLocale] || '🎧';
 
         // Use page-specific title if available, otherwise fall back to locale defaults
-        // pageData.title is auto-populated by VitePress from the H1 heading
+        // pageData.title is auto-populated by VitePress from the H1 heading.
+        // Two variants: clean (for <title>, JSON-LD, breadcrumbs — what Google reads)
+        // and social (with flag emoji prefix, for og:title/twitter:title link previews).
         const title = frontmatter.title || pageData.title;
-        const pageTitle =
-            title && title !== 'AirReps'
-                ? `${flag} ${title} | AirReps`
-                : `${flag} ${defaults.title}`;
+        const pageTitleClean =
+            title && title !== 'AirReps' ? `${title} | AirReps` : defaults.title;
+        const pageTitleSocial = `${flag} ${pageTitleClean}`;
         const pageDescription = frontmatter.description || defaults.description;
 
-        const canonicalBase = basePath ? `/${basePath}` : '';
+        // Root canonicals keep the trailing slash so they match the sitemap loc.
+        const canonicalBase = basePath ? `/${basePath}` : '/';
         const localePrefix = currentLocale === 'en' ? '' : `/${currentLocale}`;
         const pageUrl = `https://airpodsreplicas.com${localePrefix}${canonicalBase}`;
 
@@ -814,9 +851,8 @@ export default defineConfig({
             : null;
 
         const isHome = basePath === '';
-        const isVersionInfoProduct =
-            sectionSlug === 'version-info' && pathSegments[1] && pathSegments[1] !== 'general';
         const isTroubleshooting = sectionSlug === 'troubleshooting';
+        const isLinksPage = sectionSlug === 'links';
 
         // Multi-level breadcrumb (Home > Section > Page)
         const breadcrumbItems: Array<{
@@ -867,9 +903,10 @@ export default defineConfig({
             ],
         };
 
-        const isoDate = pageData.lastUpdated
+        const dateModified = pageData.lastUpdated
             ? new Date(pageData.lastUpdated).toISOString()
             : new Date().toISOString();
+        const datePublished = firstCommitDates.get(`docs/${relativePath}`) ?? dateModified;
 
         // JSON-LD graph nodes
         const websiteNode = {
@@ -885,61 +922,97 @@ export default defineConfig({
 
         const breadcrumbNode = {
             '@type': 'BreadcrumbList',
-            '@id': `${pageUrl}/#breadcrumb`,
+            '@id': `${pageUrl}#breadcrumb`,
             itemListElement: breadcrumbItems,
         };
 
         const homeNode = {
             '@type': 'WebPage',
-            '@id': `${pageUrl}/#webpage`,
+            '@id': `${pageUrl}#webpage`,
             url: pageUrl,
-            name: pageTitle,
+            name: pageTitleClean,
             description: pageDescription,
             isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
             inLanguage: currentLocale,
-            dateModified: isoDate,
+            dateModified,
         };
 
         const articleNode = {
             '@type': isTroubleshooting ? 'TechArticle' : 'Article',
-            '@id': `${pageUrl}/#article`,
-            headline: pageTitle,
+            '@id': `${pageUrl}#article`,
+            headline: pageTitleClean,
             description: pageDescription,
             image: ogImageUrl,
             thumbnailUrl: ogImageUrl,
             url: pageUrl,
-            mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+            mainEntityOfPage: pageUrl,
             inLanguage: currentLocale,
             isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
             ...(sectionName ? { articleSection: sectionName } : {}),
             author: { '@id': 'https://airpodsreplicas.com/#organization' },
             publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
-            datePublished: isoDate,
-            dateModified: isoDate,
+            datePublished,
+            dateModified,
         };
 
-        const productNode = isVersionInfoProduct
+        // /links/* pages are seller directories. CollectionPage + ItemList of
+        // trusted-seller Organizations describes them more honestly than Article
+        // and surfaces the commercial intent to search engines.
+        const linksCollectionNode = isLinksPage
             ? {
-                  '@type': 'Product',
-                  '@id': `${pageUrl}/#product`,
-                  name: `${title} Replica`,
-                  description: pageDescription,
-                  image: ogImageUrl,
-                  category: 'Wireless Earbuds',
+                  '@type': 'CollectionPage',
+                  '@id': `${pageUrl}#webpage`,
                   url: pageUrl,
-                  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+                  name: pageTitleClean,
+                  description: pageDescription,
+                  isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+                  inLanguage: currentLocale,
+                  breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+                  dateModified,
+                  mainEntity: {
+                      '@type': 'ItemList',
+                      itemListElement: [
+                          {
+                              '@type': 'ListItem',
+                              position: 1,
+                              item: {
+                                  '@type': 'Organization',
+                                  name: 'Earhive',
+                                  url: 'https://earhive.com',
+                              },
+                          },
+                          {
+                              '@type': 'ListItem',
+                              position: 2,
+                              item: {
+                                  '@type': 'Organization',
+                                  name: 'HiCity',
+                                  url: 'https://hicitypods.com',
+                              },
+                          },
+                          {
+                              '@type': 'ListItem',
+                              position: 3,
+                              item: {
+                                  '@type': 'Organization',
+                                  name: 'Jenny',
+                                  url: 'https://jenny.airreps.info',
+                              },
+                          },
+                      ],
+                  },
               }
             : null;
 
+        const mainPageNode = isHome
+            ? homeNode
+            : linksCollectionNode
+              ? linksCollectionNode
+              : articleNode;
+
         const schema = {
             '@context': 'https://schema.org',
-            '@graph': [
-                organizationNode,
-                websiteNode,
-                breadcrumbNode,
-                ...(isHome ? [homeNode] : [articleNode]),
-                ...(productNode ? [productNode] : []),
-            ],
+            '@graph': [organizationNode, websiteNode, breadcrumbNode, mainPageNode],
         };
 
         return [
@@ -1025,14 +1098,14 @@ export default defineConfig({
                 },
             ],
             ['link', { rel: 'canonical', href: pageUrl }],
-            // Localized Open Graph meta tags
+            // Localized Open Graph meta tags — social previews keep the flag emoji.
             ['meta', { property: 'og:site_name', content: 'AirReps' }],
-            ['meta', { property: 'og:title', content: pageTitle }],
+            ['meta', { property: 'og:title', content: pageTitleSocial }],
             [
                 'meta',
                 {
                     property: 'og:type',
-                    content: basePath === '' ? 'website' : 'article',
+                    content: isHome ? 'website' : 'article',
                 },
             ],
             ['meta', { property: 'og:url', content: pageUrl }],
@@ -1040,7 +1113,7 @@ export default defineConfig({
             ['meta', { property: 'og:image', content: ogImageUrl }],
             ['meta', { property: 'og:image:width', content: '1200' }],
             ['meta', { property: 'og:image:height', content: '630' }],
-            ['meta', { property: 'og:image:alt', content: pageTitle }],
+            ['meta', { property: 'og:image:alt', content: pageTitleSocial }],
             ['meta', { property: 'og:image:type', content: 'image/png' }],
             [
                 'meta',
@@ -1082,10 +1155,10 @@ export default defineConfig({
             // Twitter Card meta tags (Twitter spec uses name=, not property=)
             ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
             ['meta', { name: 'twitter:url', content: pageUrl }],
-            ['meta', { name: 'twitter:title', content: pageTitle }],
+            ['meta', { name: 'twitter:title', content: pageTitleSocial }],
             ['meta', { name: 'twitter:description', content: pageDescription }],
             ['meta', { name: 'twitter:image', content: ogImageUrl }],
-            ['meta', { name: 'twitter:image:alt', content: pageTitle }],
+            ['meta', { name: 'twitter:image:alt', content: pageTitleSocial }],
             // JSON-LD
             ['script', { type: 'application/ld+json' }, JSON.stringify(schema)],
             // FAQ JSON-LD — manual `faq:` frontmatter wins; otherwise auto-extracted
