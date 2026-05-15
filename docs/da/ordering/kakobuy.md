@@ -25,13 +25,13 @@ Ved et enkelt par AirPods koster forsendelse gennem KakoBuy typisk **$7–10 USD
 
 Tilmeld dig på [KakoBuy](https://airreps.link/kakobuy). Du skal kun bruge en e-mailadresse for at komme i gang.
 
-![KakoBuy signup page](/images/kakobuy/signup.png)
+![KakoBuy signup page](/images/kakobuy/signup.webp)
 
 ### 2. Find produktet
 
 Gå til vores [Links](/da/links/info)-sektion og vælg det produkt, du vil have. Hver sælgers side har en **KakoBuy**-knap, der tager dig direkte til produktet på KakoBuy — ingen grund til at kopiere og indsætte links manuelt.
 
-![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.png)
+![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.webp)
 
 Alternativt kan du kopiere et hvilket som helst **Weidian**-link og indsætte det i KakoBuys søgefelt øverst på siden.
 
@@ -39,7 +39,7 @@ Alternativt kan du kopiere et hvilket som helst **Weidian**-link og indsætte de
 
 På KakoBuy-produkt-siden vil du se produktdetaljer hentet fra sælgerens Weidian-butik — inklusive pris, tilgængelige modeller/versioner og referencefotos. Vælg den korrekte model (f.eks. Pro3-V6-TB, V5.3TB) og klik på **Add to Shopping Cart** eller **Buy now**.
 
-![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.png)
+![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.webp)
 
 ### 4. Betal for din ordre
 
@@ -53,7 +53,7 @@ KakoBuy gennemgår din ordre inden for 3–5 timer og afgiver derefter bestillin
 
 Når varen ankommer til KakoBuys lager, tager de kvalitetskontrol (QC)-fotos. Se disse under **User Center** → **Order**, hvor du vil se QC-billederne knyttet til hver vare. Hvis noget ser forkert ud, kan du anmode om returnering eller ombytning, før varen sendes internationalt.
 
-![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.png)
+![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.webp)
 
 ::: tip
 Dette er en stor fordel ved at bruge en agent — du får mulighed for at inspicere din AirPods-replica, før du forpligter dig til international forsendelse. Tjek [QC & LC-guiden](/da/ordering/qc-lc) for tips til, hvad du skal kigge efter.
@@ -74,4 +74,4 @@ For kun AirPods fungerer de fleste standardforsendelsesmetoder fint. Forvent lev
 
 Efter afsendelse kan du spore din pakke under **User Center** → **Parcel**. Du vil se forsendelsesmetode, trackingnummer og live statusopdateringer, mens pakken bevæger sig gennem international transit.
 
-![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.png)
+![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.webp)

@@ -25,7 +25,7 @@ OBS: usar o `brew` é muito mais fácil do que a instalação manual, mas se voc
 
 Se você ainda não tem o `brew` instalado no seu sistema, podemos começar por aqui. Acesse [esta página](https://brew.sh/), copie o comando e execute-o no Terminal.
 
-![Instalação usando Terminal](/volume_fix/brew-installation.gif)
+<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Instalação usando Terminal"></video>
 
 :::warning
 Você pode ser solicitado a inserir sua senha; vá em frente e digite-a como de costume (sua senha pode parecer oculta, mas ela está sendo processada).
@@ -37,7 +37,7 @@ Você pode ser solicitado a inserir sua senha; vá em frente e digite-a como de 
 Com tudo pronto, abra o Terminal e execute o seguinte comando:
 `brew install --cask proxy-audio-device`
 
-![instalar proxy-audio-device](/volume_fix/app-installation.gif)
+<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="instalar proxy-audio-device"></video>
 
 :::tip
 Durante a instalação, é normal que o áudio do sistema falhe um pouco. Certifique-se de fazer isso em um ambiente sem programas de manipulação de áudio em execução.
@@ -64,7 +64,7 @@ Não se sinta tentado a fechar este tutorial; você pode configurar tudo assim:
 
 3. Por fim, navegue até a Central de Controle > Som > ícone ">" e escolha o novo dispositivo de áudio criado (`Proxy Audio Device` por padrão).
 
-![escolher dispositivo de áudio](/volume_fix/change-audio-device.gif)
+<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="escolher dispositivo de áudio"></video>
 
 ## **Efeitos Colaterais**
 

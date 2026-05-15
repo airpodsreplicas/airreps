@@ -25,7 +25,7 @@ PS : utiliser `brew` est beaucoup plus facile que l'installation manuelle, mais 
 
 Si vous n'avez pas `brew` installé sur votre système, on peut commencer ici. Entrez sur [cette](https://brew.sh/) page, copiez la commande et exécutez-la dans Terminal.
 
-![Installation via Terminal](/volume_fix/brew-installation.gif)
+<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Installation via Terminal"></video>
 
 :::warning
 Vous pourriez être invité à entrer votre mot de passe, allez-y et entrez votre mot de passe comme d'habitude (votre mot de passe peut sembler caché, mais ce n'est pas le cas dans ce contexte).
@@ -37,7 +37,7 @@ Vous pourriez être invité à entrer votre mot de passe, allez-y et entrez votr
 Une fois que tout est prêt, vous pouvez commencer en ouvrant Terminal, puis exécutez la commande suivante :
 `brew install --cask proxy-audio-device`
 
-![installer proxy-audio-device](/volume_fix/app-installation.gif)
+<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="installer proxy-audio-device"></video>
 
 :::tip
 Pendant l'installation, il est normal que l'audio du système glitch un peu. Assurez-vous donc de faire cela dans un environnement sans « beat de cuisine » (Aucun logiciel de manipulation audio en cours d'exécution).
@@ -64,7 +64,7 @@ Ne soyez pas tenté de quitter ce tutoriel, la plupart des gens comme vous peuve
 
 3. Enfin, naviguez vers Centre de Contrôle > Son > l'icône « > », et choisissez le périphérique audio nouvellement créé (`Proxy Audio Device` par défaut).
 
-![choisir périphérique audio](/volume_fix/change-audio-device.gif)
+<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="choisir périphérique audio"></video>
 
 
 ## **Effets Secondaires**

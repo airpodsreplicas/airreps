@@ -25,7 +25,7 @@ PS: at bruge `brew` er meget nemmere end manuel installation, men hvis du vil sp
 
 Hvis du ikke har fået `brew` installeret på dit system, kan vi starte her. Gå ind på [denne](https://brew.sh/) side, kopier kommandoen og kør den i Terminal.
 
-![Installation ved hjælp af Terminal](/volume_fix/brew-installation.gif)
+<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Installation ved hjælp af Terminal"></video>
 
 :::warning
 Du kan blive bedt om at indtaste din adgangskode, gå videre og indtast din adgangskode som normalt (din adgangskode kan se ud som om den er skjult, men det er den ikke i dette tilfælde).
@@ -37,7 +37,7 @@ Du kan blive bedt om at indtaste din adgangskode, gå videre og indtast din adga
 Når alt er klar, kan du starte med at åbne Terminal, kør derefter følgende kommando:
 `brew install --cask proxy-audio-device`
 
-![installer proxy-audio-device](/volume_fix/app-installation.gif)
+<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="installer proxy-audio-device"></video>
 
 :::tip
 Under installation er det normalt, at systemlyden glitcher lidt. Så sørg for at du gør dette i et miljø uden lydbehandling (ingen lydmanipulationssoftware kører).
@@ -64,7 +64,7 @@ Bliv ikke fristet til at klikke væk fra denne tutorial, de fleste mennesker som
 
 3. Til sidst, naviger til Control Center > Sound > the ">" icon, og vælg den nyoprettede lydenhed (`Proxy Audio Device` som standard).
 
-![vælg lydenhed](/volume_fix/change-audio-device.gif)
+<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="vælg lydenhed"></video>
 
 
 ## **Bivirkninger**

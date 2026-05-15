@@ -25,7 +25,7 @@ PS: using `brew` is much easier than manual installation, but if you want to ski
 
 If you haven't got `brew` installed on your system, we can start here. Enter [this](https://brew.sh/) page, copy the command and run it in Terminal.
 
-![Installation using Terminal](/volume_fix/brew-installation.gif)
+<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Installation using Terminal"></video>
 
 :::warning
 You might be prompted to enter your password, go ahead and enter your password as usual (your password might look like it's hidden, but it's not in this case).
@@ -37,7 +37,7 @@ You might be prompted to enter your password, go ahead and enter your password a
 Once everything is ready, you can start by opening Terminal, then run the following command:
 `brew install --cask proxy-audio-device`
 
-![install proxy-audio-device](/volume_fix/app-installation.gif)
+<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="install proxy-audio-device"></video>
 
 :::tip
 While installing, it's normal for the system audio to glitch a little. So make sure you are doing this while in the "cooking beat"-free environment (No audio manipulation softwares running).
@@ -64,7 +64,7 @@ Don't be tempted to click off this tutorial, most people like you can set them u
 
 3. Finally, navigate to Control Center > Sound > the ">" icon, and pick the newly created audio device (`Proxy Audio Device` by default).
 
-![pick audio device](/volume_fix/change-audio-device.gif)
+<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="pick audio device"></video>
 
 
 ## **Side-effects**

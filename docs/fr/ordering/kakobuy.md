@@ -25,13 +25,13 @@ Pour une seule paire d'AirPods, l'expédition via KakoBuy coûte généralement 
 
 Inscrivez-vous sur [KakoBuy](https://airreps.link/kakobuy). Il vous suffit d'une adresse e-mail pour commencer.
 
-![KakoBuy signup page](/images/kakobuy/signup.png)
+![KakoBuy signup page](/images/kakobuy/signup.webp)
 
 ### 2. Trouver le produit
 
 Allez dans notre section [Liens](/fr/links/info) et choisissez le produit souhaité. La page de chaque vendeur comporte un bouton **KakoBuy** qui vous emmène directement sur le produit sur KakoBuy — pas besoin de copier-coller les liens manuellement.
 
-![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.png)
+![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.webp)
 
 Alternativement, vous pouvez copier n'importe quel lien **Weidian** et le coller dans la barre de recherche de KakoBuy en haut de la page.
 
@@ -39,7 +39,7 @@ Alternativement, vous pouvez copier n'importe quel lien **Weidian** et le coller
 
 Sur la page produit de KakoBuy, vous verrez les détails du produit récupérés depuis la boutique Weidian du vendeur — y compris le prix, les modèles/versions disponibles et les photos de référence. Sélectionnez le modèle correct (p. ex. Pro3-V6-TB, V5.3TB) et cliquez sur **Add to Shopping Cart** ou **Buy now**.
 
-![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.png)
+![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.webp)
 
 ### 4. Payer votre commande
 
@@ -53,7 +53,7 @@ KakoBuy examine votre commande sous 3–5 heures, puis la passe auprès du vende
 
 Une fois l'article arrivé à l'entrepôt de KakoBuy, ils prendront des photos de contrôle qualité (QC). Consultez-les dans **User Center** → **Order**, où vous verrez les photos QC attachées à chaque article. Si quelque chose vous semble incorrect, vous pouvez demander un retour ou un échange avant l'expédition internationale.
 
-![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.png)
+![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.webp)
 
 ::: tip
 C'est un grand avantage d'utiliser un agent — vous pouvez inspecter votre réplique d'AirPods avant de vous engager sur une expédition internationale. Consultez le [QC & LC guide](/fr/ordering/qc-lc) pour des conseils sur ce qu'il faut vérifier.
@@ -74,4 +74,4 @@ Pour les seuls AirPods, la plupart des lignes d'expédition standard conviennent
 
 Après l'expédition, suivez votre colis dans **User Center** → **Parcel**. Vous verrez le mode d'expédition, le numéro de suivi et des mises à jour de statut en temps réel au fur et à mesure que le colis progresse dans le transit international.
 
-![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.png)
+![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.webp)

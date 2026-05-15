@@ -25,13 +25,13 @@ For a single pair of AirPods, shipping through KakoBuy typically costs **$7–10
 
 Sign up at [KakoBuy](https://airreps.link/kakobuy). You only need an email address to get started.
 
-![KakoBuy signup page](/images/kakobuy/signup.png)
+![KakoBuy signup page](/images/kakobuy/signup.webp)
 
 ### 2. Find the Product
 
 Go to our [Links](/links/info) section and choose the product you want. Each seller's page has a **KakoBuy** button that takes you directly to the product on KakoBuy — no need to copy and paste links manually.
 
-![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.png)
+![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.webp)
 
 Alternatively, you can copy any **Weidian** link and paste it into the KakoBuy search bar at the top of the page.
 
@@ -39,7 +39,7 @@ Alternatively, you can copy any **Weidian** link and paste it into the KakoBuy s
 
 On the KakoBuy product page, you'll see the product details pulled from the seller's Weidian store — including price, available models/versions, and reference photos. Select the correct model (e.g. Pro3-V6-TB, V5.3TB) and click **Add to Shopping Cart** or **Buy now**.
 
-![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.png)
+![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.webp)
 
 ### 4. Pay for Your Order
 
@@ -53,7 +53,7 @@ KakoBuy reviews your order within 3–5 hours, then places it with the seller. T
 
 Once the item arrives at KakoBuy's warehouse, they'll take quality control (QC) photos. Check these in **User Center** → **Order**, where you'll see the QC pictures attached to each item. If something looks off, you can request a return or exchange before shipping internationally.
 
-![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.png)
+![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.webp)
 
 ::: tip
 This is a great perk of using an agent — you get to inspect your AirPods replica before committing to international shipping. Check the [QC & LC guide](/ordering/qc-lc) for tips on what to look for.
@@ -74,5 +74,5 @@ For AirPods only, most standard shipping lines work fine. Expect delivery in **7
 
 After shipment, track your parcel under **User Center** → **Parcel**. You'll see the shipping method, tracking number, and live status updates as the package moves through international transit.
 
-![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.png)
+![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.webp)
 

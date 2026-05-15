@@ -25,7 +25,7 @@ PS: using `brew` is much easier than manual installation, but if you want to ski
 
 If you haven't got `brew` installed on your system, we can start here. Enter [this](https://brew.sh/) page, copy the command and run it in Terminal.
 
-![Установка через Терминал](/volume_fix/brew-installation.gif)
+<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Установка через Терминал"></video>
 
 :::warning
 Вам может быть предложено ввести пароль, введите пароль как обычно (ваш пароль может выглядеть скрытым, но это не так в данном случае).
@@ -37,7 +37,7 @@ If you haven't got `brew` installed on your system, we can start here. Enter [th
 Once everything is ready, you can start by opening Terminal, then run the following command:
 `brew install --cask proxy-audio-device`
 
-![установка proxy-audio-device](/volume_fix/app-installation.gif)
+<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="установка proxy-audio-device"></video>
 
 :::tip
 Во время установки это нормально, если системный звук немного глючит. Поэтому убедитесь, что вы делаете это в среде без обработки звука (никакие программы для обработки звука не запущены).
@@ -64,7 +64,7 @@ Don't be tempted to click off this tutorial, most people like you can set them u
 
 3. Finally, navigate to Control Center > Sound > the ">" icon, and pick the newly created audio device (`Proxy Audio Device` by default).
 
-![выбор аудиоустройства](/volume_fix/change-audio-device.gif)
+<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="выбор аудиоустройства"></video>
 
 
 ## **Side-effects**

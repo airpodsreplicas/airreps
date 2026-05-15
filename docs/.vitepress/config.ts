@@ -24,7 +24,9 @@ function buildFirstCommitDates(): Map<string, string> {
         let currentDate = '';
         for (const rawLine of output.split('\n')) {
             const line = rawLine.trim();
-            if (!line) continue;
+            if (!line) {
+                continue;
+            }
             if (line.startsWith('DATE ')) {
                 currentDate = line.slice(5);
             } else if (line.endsWith('.md') && !map.has(line)) {
@@ -820,8 +822,7 @@ export default defineConfig({
         // Two variants: clean (for <title>, JSON-LD, breadcrumbs — what Google reads)
         // and social (with flag emoji prefix, for og:title/twitter:title link previews).
         const title = frontmatter.title || pageData.title;
-        const pageTitleClean =
-            title && title !== 'AirReps' ? `${title} | AirReps` : defaults.title;
+        const pageTitleClean = title && title !== 'AirReps' ? `${title} | AirReps` : defaults.title;
         const pageTitleSocial = `${flag} ${pageTitleClean}`;
         const pageDescription = frontmatter.description || defaults.description;
 
