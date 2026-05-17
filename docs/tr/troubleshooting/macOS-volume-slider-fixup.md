@@ -25,7 +25,7 @@ Not: `brew` kullanmak manuel kurulumdan çok daha kolaydır, ancak `brew` kullan
 
 Sisteminde `brew` kurulu değilse buradan başlayabiliriz. [Bu](https://brew.sh/) sayfaya gir, komutu kopyala ve Terminal'de çalıştır.
 
-<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Terminal kullanarak kurulum"></video>
+<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Terminal kullanarak kurulum"></video>
 
 :::warning
 Şifreni girmen istenebilir, her zamanki gibi şifreni gir (şifren gizlenmiş gibi görünebilir ama bu durumda öyle değildir).
@@ -37,7 +37,7 @@ Sisteminde `brew` kurulu değilse buradan başlayabiliriz. [Bu](https://brew.sh/
 Her şey hazır olduğunda Terminal'i açarak başlayabilirsin, ardından şu komutu çalıştır:
 `brew install --cask proxy-audio-device`
 
-<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="proxy-audio-device kurulumu"></video>
+<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="proxy-audio-device kurulumu"></video>
 
 :::tip
 Kurulum sırasında sistem sesinin biraz bozulması normaldir. Bu yüzden bunu ses manipülasyonu yazılımları çalışmayan bir ortamda yaptığından emin ol.
@@ -64,7 +64,7 @@ Bu rehberden ayrılmak için acele etme, çoğu kişi gibi şu şekilde ayarlaya
 
 3. Son olarak Kontrol Merkezi > Ses > ">" simgesine git ve yeni oluşturulan ses cihazını (`Proxy Audio Device` varsayılan olarak) seç.
 
-<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="ses cihazını seç"></video>
+<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="ses cihazını seç"></video>
 
 
 ## **Yan Etkiler**

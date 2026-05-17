@@ -25,7 +25,7 @@ PS: użycie `brew` jest znacznie łatwiejsze niż ręczna instalacja, ale jeśli
 
 Jeśli nie masz zainstalowanego `brew` w swoim systemie, możemy zacząć tutaj. Przejdź na [tę](https://brew.sh/) stronę, skopiuj polecenie i uruchom je w Terminalu.
 
-<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Instalacja za pomocą Terminala"></video>
+<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Instalacja za pomocą Terminala"></video>
 
 :::warning
 Możesz zostać poproszony o wprowadzenie hasła, śmiało wprowadź hasło jak zwykle (Twoje hasło może wyglądać jakby było ukryte, ale w tym przypadku tak nie jest).
@@ -37,7 +37,7 @@ Możesz zostać poproszony o wprowadzenie hasła, śmiało wprowadź hasło jak 
 Gdy wszystko jest gotowe, możesz zacząć od otwarcia Terminala, następnie uruchom następujące polecenie:
 `brew install --cask proxy-audio-device`
 
-<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="zainstaluj proxy-audio-device"></video>
+<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="zainstaluj proxy-audio-device"></video>
 
 :::tip
 Podczas instalacji jest normalne, że dźwięk systemowy trochę glitchuje. Upewnij się więc, że robisz to w środowisku bez przetwarzania dźwięku (żadne oprogramowanie do manipulacji dźwiękiem nie jest uruchomione).
@@ -64,7 +64,7 @@ Nie daj się skusić, aby kliknąć z dala od tego samouczka, większość osób
 
 3. Na koniec przejdź do Centrum sterowania > Dźwięk > ikona ">", i wybierz nowo utworzone urządzenie audio (`Proxy Audio Device` domyślnie).
 
-<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="wybierz urządzenie audio"></video>
+<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="wybierz urządzenie audio"></video>
 
 
 ## **Efekty Uboczne**

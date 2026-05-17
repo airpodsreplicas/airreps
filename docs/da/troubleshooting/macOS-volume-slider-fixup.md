@@ -25,7 +25,7 @@ PS: at bruge `brew` er meget nemmere end manuel installation, men hvis du vil sp
 
 Hvis du ikke har fået `brew` installeret på dit system, kan vi starte her. Gå ind på [denne](https://brew.sh/) side, kopier kommandoen og kør den i Terminal.
 
-<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Installation ved hjælp af Terminal"></video>
+<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation ved hjælp af Terminal"></video>
 
 :::warning
 Du kan blive bedt om at indtaste din adgangskode, gå videre og indtast din adgangskode som normalt (din adgangskode kan se ud som om den er skjult, men det er den ikke i dette tilfælde).
@@ -37,7 +37,7 @@ Du kan blive bedt om at indtaste din adgangskode, gå videre og indtast din adga
 Når alt er klar, kan du starte med at åbne Terminal, kør derefter følgende kommando:
 `brew install --cask proxy-audio-device`
 
-<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="installer proxy-audio-device"></video>
+<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="installer proxy-audio-device"></video>
 
 :::tip
 Under installation er det normalt, at systemlyden glitcher lidt. Så sørg for at du gør dette i et miljø uden lydbehandling (ingen lydmanipulationssoftware kører).
@@ -64,7 +64,7 @@ Bliv ikke fristet til at klikke væk fra denne tutorial, de fleste mennesker som
 
 3. Til sidst, naviger til Control Center > Sound > the ">" icon, og vælg den nyoprettede lydenhed (`Proxy Audio Device` som standard).
 
-<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="vælg lydenhed"></video>
+<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="vælg lydenhed"></video>
 
 
 ## **Bivirkninger**

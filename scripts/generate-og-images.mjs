@@ -15,10 +15,11 @@ const logoPath = path.resolve('docs/public/logo.png');
 // Ensure output directory exists
 fs.ensureDirSync(outDir);
 
-// Helper to convert image file to base64
 function getBase64Image(filePath) {
     const file = fs.readFileSync(filePath);
-    return `data:image/png;base64,${file.toString('base64')}`;
+    const ext = path.extname(filePath).slice(1).toLowerCase();
+    const mime = ext === 'webp' ? 'image/webp' : `image/${ext}`;
+    return `data:${mime};base64,${file.toString('base64')}`;
 }
 
 const logoBase64 = getBase64Image(logoPath);

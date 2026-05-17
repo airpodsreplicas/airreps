@@ -107,6 +107,8 @@ const i18n: Record<string, Record<string, string>> = {
         allLinksWeidian: 'All links & Weidian',
         weidianStore: 'Weidian Store (via KakoBuy)',
         kakobuySignup: 'Sign up for KakoBuy — coupon package included',
+        stillHaveQuestions: 'Still have questions?',
+        joinDiscord: 'Join the Discord',
         back: 'Back',
         changeLastAnswer: 'Change last answer',
         startOver: 'Start over',
@@ -207,6 +209,8 @@ const i18n: Record<string, Record<string, string>> = {
         changeLastAnswer: 'Cambiar \u00faltima respuesta',
         weidianStore: 'Tienda Weidian (v\u00eda KakoBuy)',
         kakobuySignup: 'Reg\u00edstrate en KakoBuy — paquete de cupones incluido',
+        stillHaveQuestions: '\u00bfA\u00fan tienes preguntas?',
+        joinDiscord: '\u00danete al Discord',
         startOver: 'Empezar de nuevo',
         step: 'Paso',
         of: 'de',
@@ -305,6 +309,8 @@ const i18n: Record<string, Record<string, string>> = {
         changeLastAnswer: 'Mudar \u00faltima resposta',
         weidianStore: 'Loja Weidian (via KakoBuy)',
         kakobuySignup: 'Cadastre-se no KakoBuy — pacote de cupons incluso',
+        stillHaveQuestions: 'Ainda com d\u00favidas?',
+        joinDiscord: 'Entrar no Discord',
         startOver: 'Recome\u00e7ar',
         step: 'Passo',
         of: 'de',
@@ -403,6 +409,8 @@ const i18n: Record<string, Record<string, string>> = {
         changeLastAnswer: '\u00c6ndr sidste svar',
         weidianStore: 'Weidian-butik (via KakoBuy)',
         kakobuySignup: 'Tilmeld dig KakoBuy — kuponpakke inkluderet',
+        stillHaveQuestions: 'Stadig sp\u00f8rgsm\u00e5l?',
+        joinDiscord: 'Tilmeld dig Discord',
         startOver: 'Start forfra',
         step: 'Trin',
         of: 'af',
@@ -501,6 +509,8 @@ const i18n: Record<string, Record<string, string>> = {
         changeLastAnswer: 'Modifier la derni\u00e8re r\u00e9ponse',
         weidianStore: 'Boutique Weidian (via KakoBuy)',
         kakobuySignup: "S'inscrire sur KakoBuy — pack de coupons inclus",
+        stillHaveQuestions: 'Encore des questions ?',
+        joinDiscord: 'Rejoindre le Discord',
         startOver: 'Recommencer',
         step: '\u00c9tape',
         of: 'sur',
@@ -599,6 +609,8 @@ const i18n: Record<string, Record<string, string>> = {
         changeLastAnswer: 'Zmie\u0144 ostatni\u0105 odpowied\u017a',
         weidianStore: 'Sklep Weidian (przez KakoBuy)',
         kakobuySignup: 'Zarejestruj si\u0119 w KakoBuy — pakiet kupon\u00f3w w zestawie',
+        stillHaveQuestions: 'Masz pytania?',
+        joinDiscord: 'Do\u0142\u0105cz do Discorda',
         startOver: 'Zacznij od nowa',
         step: 'Krok',
         of: 'z',
@@ -760,6 +772,10 @@ const i18n: Record<string, Record<string, string>> = {
             '\u041c\u0430\u0433\u0430\u0437\u0438\u043d Weidian (\u0447\u0435\u0440\u0435\u0437 KakoBuy)',
         kakobuySignup:
             '\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 KakoBuy — \u043f\u0430\u043a\u0435\u0442 \u043a\u0443\u043f\u043e\u043d\u043e\u0432 \u0432\u043a\u043b\u044e\u0447\u0451\u043d',
+        stillHaveQuestions:
+            '\u041e\u0441\u0442\u0430\u043b\u0438\u0441\u044c \u0432\u043e\u043f\u0440\u043e\u0441\u044b?',
+        joinDiscord:
+            '\u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a Discord',
         startOver:
             '\u041d\u0430\u0447\u0430\u0442\u044c \u0441\u043d\u0430\u0447\u0430\u043b\u0430',
         step: '\u0428\u0430\u0433',
@@ -859,6 +875,8 @@ const i18n: Record<string, Record<string, string>> = {
         changeLastAnswer: 'Letzte Antwort \u00e4ndern',
         weidianStore: 'Weidian-Shop (\u00fcber KakoBuy)',
         kakobuySignup: 'Bei KakoBuy registrieren \u2014 Gutscheinpaket inklusive',
+        stillHaveQuestions: 'Noch Fragen?',
+        joinDiscord: 'Discord beitreten',
         startOver: 'Neu starten',
         step: 'Schritt',
         of: 'von',
@@ -957,6 +975,8 @@ const i18n: Record<string, Record<string, string>> = {
         changeLastAnswer: 'Son cevab\u0131 de\u011fi\u015ftir',
         weidianStore: 'Weidian Ma\u011fazas\u0131 (KakoBuy ile)',
         kakobuySignup: "KakoBuy'a kaydol \u2014 kupon paketi dahil",
+        stillHaveQuestions: 'Sorular\u0131n\u0131z var m\u0131?',
+        joinDiscord: "Discord'a kat\u0131l",
         startOver: 'Ba\u015ftan ba\u015fla',
         step: 'Ad\u0131m',
         of: '/',
@@ -1788,6 +1808,22 @@ function restart() {
         </div>
       </div>
 
+      <div class="quiz-result-discord">
+        <h4>{{ t('stillHaveQuestions') }}</h4>
+        <a
+          href="https://airreps.link/discord"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="quiz-discord-cta"
+          :aria-label="t('joinDiscord')"
+        >
+          <svg class="quiz-discord-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028 13.83 13.83 0 0 0 1.226-1.994.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/>
+          </svg>
+          <span>{{ t('joinDiscord') }}</span>
+        </a>
+      </div>
+
       <div class="quiz-actions">
         <button class="quiz-back" @click="goBack">&larr; {{ t('changeLastAnswer') }}</button>
         <button class="quiz-restart" @click="restart">{{ t('startOver') }}</button>
@@ -1974,12 +2010,18 @@ function restart() {
 }
 
 .quiz-result-links,
-.quiz-result-buy {
+.quiz-result-buy,
+.quiz-result-discord {
   margin-bottom: 1.25rem;
 }
 
+.quiz-result-discord {
+  margin-top: 0.5rem;
+}
+
 .quiz-result-links h4,
-.quiz-result-buy h4 {
+.quiz-result-buy h4,
+.quiz-result-discord h4 {
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -2042,5 +2084,56 @@ function restart() {
   color: var(--vp-c-text-3);
   margin: -0.15rem 0 0.25rem;
   padding: 0;
+}
+
+.quiz-discord-cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  margin: 0;
+  padding: 0.8rem 1rem;
+  background: #5865F2;
+  color: #fff;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.1;
+  transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  box-sizing: border-box;
+}
+
+.quiz-discord-cta:hover,
+.quiz-discord-cta:focus-visible {
+  background: #4752C4;
+  color: #fff;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(88, 101, 242, 0.28);
+  outline: none;
+}
+
+.quiz-discord-cta:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(88, 101, 242, 0.2);
+}
+
+.quiz-discord-icon {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+}
+
+@media (max-width: 480px) {
+  .quiz-discord-cta {
+    padding: 0.7rem 0.85rem;
+    font-size: 0.9rem;
+  }
+
+  .quiz-discord-icon {
+    width: 20px;
+    height: 20px;
+  }
 }
 </style>

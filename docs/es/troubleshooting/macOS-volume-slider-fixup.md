@@ -25,7 +25,7 @@ PS: usar `brew` es mucho más fácil que la instalación manual, pero si quieres
 
 Si no tienes `brew` instalado en tu sistema, podemos empezar aquí. Entra a [esta](https://brew.sh/) página, copia el comando y ejecútalo en Terminal.
 
-<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Installation using Terminal"></video>
+<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation using Terminal"></video>
 
 :::warning
 Se te puede pedir que ingreses tu contraseña, procede e ingresa tu contraseña como de costumbre (tu contraseña puede parecer oculta, pero no lo está en este caso).
@@ -37,7 +37,7 @@ Se te puede pedir que ingreses tu contraseña, procede e ingresa tu contraseña 
 Una vez que todo esté listo, puedes empezar abriendo Terminal, luego ejecuta el siguiente comando:
 `brew install --cask proxy-audio-device`
 
-<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="install proxy-audio-device"></video>
+<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="install proxy-audio-device"></video>
 
 :::tip
 Durante la instalación, es normal que el audio del sistema tenga pequeños fallos. Así que asegúrate de hacer esto en un ambiente sin manipulación de audio (Sin software de audio ejecutándose).
@@ -64,7 +64,7 @@ No te tientes a salir de este tutorial, la mayoría de personas como tú pueden 
 
 3. Finalmente, navega a Control Center > Sound > el ícono ">", y elige el dispositivo de audio recién creado (`Proxy Audio Device` por defecto).
 
-<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="pick audio device"></video>
+<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="pick audio device"></video>
 
 
 ## **Side-effects**

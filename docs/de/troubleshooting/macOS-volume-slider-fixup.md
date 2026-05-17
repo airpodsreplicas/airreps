@@ -25,7 +25,7 @@ PS: Die Verwendung von `brew` ist viel einfacher als die manuelle Installation, 
 
 Wenn du `brew` noch nicht auf deinem System installiert hast, fangen wir hier an. Öffne [diese](https://brew.sh/) Seite, kopiere den Befehl und führe ihn im Terminal aus.
 
-<video src="/volume_fix/brew-installation.webm" autoplay loop muted playsinline aria-label="Installation über Terminal"></video>
+<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation über Terminal"></video>
 
 :::warning
 Möglicherweise wirst du aufgefordert, dein Passwort einzugeben. Gib dein Passwort wie gewohnt ein (es kann so aussehen, als wäre dein Passwort versteckt, aber in diesem Fall ist es das nicht).
@@ -37,7 +37,7 @@ Möglicherweise wirst du aufgefordert, dein Passwort einzugeben. Gib dein Passwo
 Wenn alles bereit ist, öffne das Terminal und führe folgenden Befehl aus:
 `brew install --cask proxy-audio-device`
 
-<video src="/volume_fix/app-installation.webm" autoplay loop muted playsinline aria-label="proxy-audio-device installieren"></video>
+<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="proxy-audio-device installieren"></video>
 
 :::tip
 Während der Installation ist es normal, dass der Systemsound kurz stottert. Stelle daher sicher, dass du dies in einer Umgebung ohne Audiowiedergabe durchführst (keine Audio-Manipulationssoftware läuft).
@@ -64,7 +64,7 @@ Lass dich nicht verleiten, diese Anleitung wegzuklicken. Die meisten Nutzer kön
 
 3. Navigiere abschließend zu Kontrollzentrum > Sound > das „>"-Symbol und wähle das neu erstellte Audiogerät (`Proxy Audio Device` standardmäßig).
 
-<video src="/volume_fix/change-audio-device.webm" autoplay loop muted playsinline aria-label="Audiogerät auswählen"></video>
+<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="Audiogerät auswählen"></video>
 
 
 ## **Nebenwirkungen**

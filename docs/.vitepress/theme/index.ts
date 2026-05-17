@@ -11,5 +11,13 @@ export default {
     enhanceApp(ctx) {
         ctx.app.component('Contributor', Contributor);
         ctx.app.component('Quiz', Quiz);
+
+        if (typeof window !== 'undefined' && 'serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js').catch(() => {
+                    // SW failed to register — site still works fine without it.
+                });
+            });
+        }
     },
 };
