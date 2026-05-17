@@ -55,7 +55,9 @@ onMounted(async () => {
                 .filter((c: { login: string; avatar_url: string }) => c.login !== 'actions-user')
                 .map((c: { login: string; avatar_url: string }) => ({
                     name: c.login,
-                    avatar: c.avatar_url,
+                    // Avatar is rendered at 40x40; request 80px (2x retina) instead
+                    // of GitHub's 460px default — drops ~1.5 MiB on /
+                    avatar: `${c.avatar_url}${c.avatar_url.includes('?') ? '&' : '?'}s=80`,
                 }));
         }
     } catch {
