@@ -1195,6 +1195,14 @@ export default defineConfig({
         ];
     },
 
+    // Add loading="lazy" + decoding="async" to every <img> in rendered HTML
+    // (markdown images and raw HTML <img>) unless already specified.
+    transformHtml: (code) =>
+        code.replace(
+            /<img(?![^>]*\bloading=)([^>]*)>/g,
+            '<img loading="lazy" decoding="async"$1>'
+        ),
+
     // Locale configuration for i18n
     locales: {
         root: {
