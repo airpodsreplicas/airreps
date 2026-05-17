@@ -10,7 +10,7 @@ Las réplicas de AirPods vienen en diferentes tipos de embalaje, cada uno con su
 
 La caja sin logo es blanca y tiene una forma similar a la caja original de AirPods. Muestra una imagen de AirPods pero carece del texto "AirPods", logos de Apple o marcas registradas. El manual incluido y el cable de carga son genéricos, sin los números de serie que típicamente se encuentran en el embalaje original de AirPods.
 
-<img src="/nologobox.jpg" alt="Caja Sin Logo" width="300px"/>
+<img src="/nologobox.webp" alt="Caja Sin Logo" width="300" height="400"/>
 
 ::: warning
 Si pides usando un enlace de **Alibaba**, tus réplicas **siempre** se enviarán en una caja neutral sin logotipo para evitar incautaciones en la aduana y problemas de derechos de autor. Las cajas con la marca de Apple no están disponibles a través de Alibaba.
@@ -21,7 +21,7 @@ Si pides usando un enlace de **Alibaba**, tus réplicas **siempre** se enviarán
 
 La caja con logo de Apple replica el embalaje de AirPods legítimos, con el tradicional texto "AirPods" y logos de Apple. Los manuales y cable de carga dentro llevan marcas de Apple. Sin embargo, solicitar una "caja de Apple" podría aumentar el riesgo de decomiso del producto en aduanas, llevando a multas o destrucción del producto. Para mitigar este riesgo, muchos vendedores usan una técnica de caja doble, escondiendo la caja de Apple real dentro de una caja genérica con forma de auriculares.
 
-<img src="/applebox.webp" alt="Caja con Logo de Apple" width="300px"/>
+<img src="/applebox.webp" alt="Caja con Logo de Apple" width="300" height="400"/>
 
 ::: danger
 Solicitar una "caja de Apple" puede llevar al decomiso del producto en aduanas. Muchos vendedores usan una técnica de caja doble para reducir este riesgo.
@@ -33,7 +33,7 @@ La mejor opción para la mayoría de compradores. Una caja externa genérica que
 
 Cuando seleccionas la Caja con Logo de Apple en el checkout, la caja doble se incluye automáticamente — los vendedores siempre envían las cajas de Apple dentro de una caja señuelo para protección. La opción de caja de Apple viene preseleccionada en la mayoría de métodos de pago, aunque algunos pueden cobrar un pequeño cargo adicional. Si pides a través de **Alibaba**, la caja de Apple/doble **no está disponible** — siempre recibirás una caja Sin Logo.
 
-<img src="/doublebox.webp" alt="Caja Doble/Señuelo" width="300px"/>
+<img src="/doublebox.webp" alt="Caja Doble/Señuelo" width="300" height="400"/>
 
 ::: tip
 La caja de Apple (que siempre viene como caja doble) suele venir preseleccionada en el checkout. Verifica que esté marcada antes de completar tu pedido.

@@ -10,7 +10,7 @@ Réplicas de AirPods vêm em diferentes tipos de embalagem, cada uma com caracte
 
 A caixa sem logotipo é branca e tem uma forma semelhante à caixa original dos AirPods. Mostra uma imagem dos AirPods, mas não tem o texto "AirPods", logotipos da Apple ou marcas registradas. O manual e o cabo de carregamento incluídos são genéricos, sem os números de série que normalmente aparecem na embalagem original dos AirPods.
 
-<img src="/nologobox.jpg" alt="Caixa sem logotipo" width="300px"/>
+<img src="/nologobox.webp" alt="Caixa sem logotipo" width="300" height="400"/>
 
 ::: warning
 Se você pedir usando um link do **Alibaba**, suas réplicas serão **sempre** enviadas em uma caixa neutra sem logotipo para evitar apreensões na alfândega e notificações de violação de direitos autorais. Caixas com marca Apple não estão disponíveis via Alibaba.
@@ -21,7 +21,7 @@ Se você pedir usando um link do **Alibaba**, suas réplicas serão **sempre** e
 
 A caixa com logotipo Apple espelha a embalagem dos AirPods legítimos, apresentando o texto tradicional "AirPods" e os logotipos da Apple. Os manuais e o cabo de carregamento no interior trazem marcações da Apple. No entanto, solicitar uma "caixa Apple" pode aumentar o risco de apreensão do produto na alfândega, levando a multas ou destruição do produto. Para reduzir esse risco, muitos vendedores usam a técnica da caixa dupla, escondendo a caixa Apple real dentro de uma caixa genérica em forma de fone.
 
-<img src="/applebox.webp" alt="Caixa com logotipo Apple" width="300px"/>
+<img src="/applebox.webp" alt="Caixa com logotipo Apple" width="300" height="400"/>
 
 ::: danger
 Solicitar uma "caixa Apple" pode levar à apreensão do produto na alfândega. Muitos vendedores usam a técnica da caixa dupla para reduzir esse risco.
@@ -33,7 +33,7 @@ A melhor opção para a maioria dos compradores. Uma caixa externa genérica que
 
 Quando você seleciona a Caixa com logotipo Apple no checkout, a caixa dupla é automaticamente incluída — os vendedores sempre enviam caixas Apple dentro de uma caixa disfarce para proteção. A opção de caixa Apple vem pré-selecionada na maioria dos métodos de pagamento, embora alguns possam cobrar uma pequena taxa extra. Se você estiver pedindo pelo **Alibaba**, a caixa Apple/dupla **não está disponível** — você sempre receberá uma caixa sem logotipo.
 
-<img src="/doublebox.webp" alt="Caixa dupla / de engodo" width="300px"/>
+<img src="/doublebox.webp" alt="Caixa dupla / de engodo" width="300" height="400"/>
 
 ::: tip
 A caixa Apple (que sempre vem como caixa dupla) geralmente vem pré-selecionada no checkout. Verifique se a opção está marcada antes de concluir o pedido.

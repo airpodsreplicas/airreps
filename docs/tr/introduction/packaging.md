@@ -10,7 +10,7 @@ AirPods replikaları farklı paketleme türleriyle gelir, her birinin kendine ö
 
 Logosuz kutu beyazdır ve orijinal AirPods kutusuna benzer bir şekle sahiptir. Bir AirPods görseli bulunur ancak "AirPods" yazısı, Apple logoları veya ticari markalar yoktur. Dahil edilen kullanım kılavuzu ve şarj kablosu, orijinal AirPods paketlemesinde bulunan seri numaralarını içermeyen jenerik ürünlerdir.
 
-<img src="/nologobox.jpg" alt="Logosuz Kutu" width="300px"/>
+<img src="/nologobox.webp" alt="Logosuz Kutu" width="300" height="400"/>
 
 ::: warning
 Bir **Alibaba** linki kullanarak sipariş verirsen replikaların gümrük el koymalarından ve telif hakkı ihlallerinden kaçınmak için **her zaman** nötr, logosuz bir kutuda gönderilecektir. Apple markalı kutular Alibaba üzerinden mevcut değildir.
@@ -21,7 +21,7 @@ Bir **Alibaba** linki kullanarak sipariş verirsen replikaların gümrük el koy
 
 Apple logolu kutu, geleneksel "AirPods" yazısı ve Apple logolarıyla orijinal AirPods paketlemesini yansıtır. İçindeki kullanım kılavuzları ve şarj kablosu Apple işaretleri taşır. Ancak "Apple kutusu" talep etmek, ürünün gümrükte el konulması riskini artırabilir ve bu da para cezasına veya ürünün imhasına yol açabilir. Bu riski azaltmak için birçok satıcı, gerçek Apple kutusunu jenerik bir kulaklık şeklindeki kutunun içine saklayan çift kutu tekniği kullanır.
 
-<img src="/applebox.webp" alt="Apple Logolu Kutu" width="300px"/>
+<img src="/applebox.webp" alt="Apple Logolu Kutu" width="300" height="400"/>
 
 ::: danger
 "Apple kutusu" talep etmek, ürünün gümrükte el konulmasına yol açabilir. Birçok satıcı bu riski azaltmak için çift kutu tekniği kullanır.
@@ -33,7 +33,7 @@ Apple logolu kutu, geleneksel "AirPods" yazısı ve Apple logolarıyla orijinal 
 
 Ödeme sırasında Apple Logolu Kutu'yu seçtiğinde çift kutu otomatik olarak dahil edilir - satıcılar Apple kutularını her zaman koruma için bir sahte kutunun içinde gönderir. Apple kutusu seçeneği çoğu ödeme yönteminde önceden seçilidir, ancak bazıları küçük bir ek ücret alabilir. **Alibaba** üzerinden sipariş veriyorsan Apple/çift kutu **mevcut değildir** - her zaman Logosuz Kutu alacaksın.
 
-<img src="/doublebox.webp" alt="Çift/Sahte Kutu" width="300px"/>
+<img src="/doublebox.webp" alt="Çift/Sahte Kutu" width="300" height="400"/>
 
 ::: tip
 Apple kutusu (her zaman çift kutu olarak gelir) genellikle ödeme sırasında önceden seçilidir. Siparişini tamamlamadan önce işaretli olduğunu iki kez kontrol et.

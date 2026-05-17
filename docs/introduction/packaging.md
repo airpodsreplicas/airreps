@@ -10,7 +10,7 @@ AirPods replicas come in different types of packaging, each with its own unique 
 
 The No-logo box is white and has a similar shape to the original AirPods box. It showcases an image of AirPods but lacks the "AirPods" text, Apple logos, or trademarks. The included manual and charging cable are generic, without the serial numbers typically found on original AirPods packaging.
 
-<img src="/nologobox.jpg" alt="No-Logo Box" width="300px"/>
+<img src="/nologobox.webp" alt="No-Logo Box" width="300" height="400"/>
 
 ::: warning
 If you order using an **Alibaba** link, your replicas will **always** be shipped in a neutral, No-Logo box to avoid customs seizures and copyright strikes. Apple-branded boxes are not available through Alibaba.
@@ -21,7 +21,7 @@ If you order using an **Alibaba** link, your replicas will **always** be shipped
 
 The Apple logo box mirrors the packaging of legitimate AirPods, featuring the traditional "AirPods" text and Apple logos. The manuals and charging cable inside bear Apple markings. However, requesting an "Apple box" could increase the risk of product seizure at customs, leading to fines or destruction of the product. To mitigate this risk, many sellers use a double box technique, hiding the actual Apple box inside a generic headphone-shaped box.
 
-<img src="/applebox.webp" alt="Apple Logo Box" width="300px"/>
+<img src="/applebox.webp" alt="Apple Logo Box" width="300" height="400"/>
 
 ::: danger
 Requesting an "Apple box" can lead to product seizure at customs. Many sellers use a double box technique to reduce this risk.
@@ -33,7 +33,7 @@ The best option for most buyers. A generic outer box that looks like ordinary ea
 
 When you select the Apple Logo Box at checkout, the double box is automatically included — sellers always ship Apple boxes inside a decoy box for protection. The Apple box option is pre-selected on most payment methods, though some may charge a small extra fee. If you're ordering through **Alibaba**, Apple/double box is **not available** — you'll always receive a No-Logo box.
 
-<img src="/doublebox.webp" alt="Double/Decoy Box" width="300px"/>
+<img src="/doublebox.webp" alt="Double/Decoy Box" width="300" height="400"/>
 
 ::: tip
 Apple box (which always comes as a double box) is usually pre-selected at checkout. Double-check it's ticked before completing your order.

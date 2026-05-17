@@ -1197,8 +1197,16 @@ export default defineConfig({
 
     // Add loading="lazy" + decoding="async" to every <img> in rendered HTML
     // (markdown images and raw HTML <img>) unless already specified.
+    // Also stamps role="main" on the home-layout content wrapper — VitePress
+    // only renders a real <main> on doc layout, leaving home pages without a
+    // main landmark (Lighthouse a11y).
     transformHtml: (code) =>
-        code.replace(/<img(?![^>]*\bloading=)([^>]*)>/g, '<img loading="lazy" decoding="async"$1>'),
+        code
+            .replace(/<img(?![^>]*\bloading=)([^>]*)>/g, '<img loading="lazy" decoding="async"$1>')
+            .replace(
+                /<div class="VPContent is-home"/g,
+                '<div role="main" class="VPContent is-home"'
+            ),
 
     // Locale configuration for i18n
     locales: {

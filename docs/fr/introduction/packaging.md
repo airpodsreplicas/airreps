@@ -10,7 +10,7 @@ Les répliques d'AirPods sont livrées dans différents types d'emballage, chacu
 
 La boîte sans logo est blanche et a une forme similaire à la boîte originale des AirPods. Elle présente une image d'AirPods mais ne comporte pas le texte « AirPods », les logos Apple ou les marques déposées. Le manuel inclus et le câble de charge sont génériques, sans les numéros de série typiquement trouvés sur l'emballage des AirPods originaux.
 
-<img src="/nologobox.jpg" alt="Boîte Sans Logo" width="300px"/>
+<img src="/nologobox.webp" alt="Boîte Sans Logo" width="300" height="400"/>
 
 ::: warning
 Si vous commandez via un lien **Alibaba**, vos répliques seront **toujours** expédiées dans une boîte neutre sans logo pour éviter les saisies en douane et les poursuites pour atteinte au droit d'auteur. Les boîtes portant la marque Apple ne sont pas disponibles via Alibaba.
@@ -21,7 +21,7 @@ Si vous commandez via un lien **Alibaba**, vos répliques seront **toujours** ex
 
 La boîte avec logo Apple reproduit l'emballage des AirPods légitimes, présentant le texte traditionnel « AirPods » et les logos Apple. Les manuels et le câble de charge à l'intérieur portent les marquages Apple. Cependant, demander une « boîte Apple » pourrait augmenter le risque de saisie du produit à la douane, entraînant des amendes ou la destruction du produit. Pour atténuer ce risque, de nombreux vendeurs utilisent une technique de double boîte, cachant la vraie boîte Apple à l'intérieur d'une boîte générique en forme d'écouteurs.
 
-<img src="/applebox.webp" alt="Boîte avec Logo Apple" width="300px"/>
+<img src="/applebox.webp" alt="Boîte avec Logo Apple" width="300" height="400"/>
 
 ::: danger
 Demander une « boîte Apple » peut entraîner la saisie du produit à la douane. De nombreux vendeurs utilisent une technique de double boîte pour réduire ce risque.
@@ -33,7 +33,7 @@ La meilleure option pour la plupart des acheteurs. Une boîte extérieure géné
 
 Lorsque vous sélectionnez la Boîte avec Logo Apple lors du paiement, la boîte double est automatiquement incluse — les vendeurs expédient toujours les boîtes Apple à l'intérieur d'une boîte leurre pour la protection. L'option boîte Apple est pré-sélectionnée sur la plupart des méthodes de paiement, bien que certaines puissent facturer un petit supplément. Si vous commandez via **Alibaba**, la boîte Apple/double n'est **pas disponible** — vous recevrez toujours une boîte sans logo.
 
-<img src="/doublebox.webp" alt="Boîte Double/Leurre" width="300px"/>
+<img src="/doublebox.webp" alt="Boîte Double/Leurre" width="300" height="400"/>
 
 ::: tip
 La boîte Apple (qui est toujours livrée en boîte double) est généralement pré-sélectionnée lors du paiement. Vérifiez bien qu'elle est cochée avant de finaliser votre commande.
