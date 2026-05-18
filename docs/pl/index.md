@@ -1,38 +1,33 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
-title: 'AirReps'
-description: 'Centrum społeczności AirReps poświęcone dyskusjom o replikach AirPods. Uzyskaj pomoc, znajdź zaufanych sprzedawców i poznaj nasz Kompletny Przewodnik.'
-
+title: AirReps
+description: 'Przewodnik społeczności AirReps po replikach AirPods — znanych także jako fałszywe AirPods lub klony AirPods. Znajdź zaufanych sprzedawców, porównania wersji i uczciwe recenzje.'
 hero:
-  name: "AirReps"
-  text: "Repliki AirPods."
+  name: AirReps
+  text: Repliki AirPods.
   tagline: Społeczność do dyskusji i odkrywania klonów AirPods.
   actions:
     - theme: brand
-      text: Czytaj Kompletny Przewodnik
-      link: /pl/introduction/overview
+      text: Przeczytaj Kompletny Przewodnik
+      link: introduction/overview
     - theme: alt
       text: Rozwiąż Quiz
-      link: /pl/quiz
-
+      link: quiz
 features:
-  - icon: 🤝
-    title: Zespół Pomocników
-    details: Dedykowany zespół pomocników gotowy odpowiedzieć na prawie każde pytanie.
-    link: https://airreps.link/discord
+  - icon: "🤝"
+    title: Zespół pomocników
+    details: 'Oddani pomocnicy gotowi odpowiedzieć na niemal każde pytanie, które możesz mieć.'
+    link: 'https://airreps.link/discord'
     linkText: Dołącz do Discorda
   - icon: ⏰
-    title: Zawsze Aktualne
-    details: Wszystkie zasoby, przewodniki i aplikacje są na bieżąco aktualizowane przez nasz oddany zespół.
-    link: /pl/introduction/overview
-    linkText: Przeczytaj przewodnik
-  - icon: 💸  
-    title: Zaufana Lista Sprzedawców
-    details: Lista sprzedawców wybranych przez społeczność, non-profit, z najnowszymi produktami i najlepszym wsparciem.
-    link: /pl/links/info
-    linkText: Zobacz sprzedawców
+    title: Aktualne
+    details: 'Wszystkie zasoby, przewodniki i aplikacje są zawsze aktualizowane przez nasz oddany zespół pracowników.'
+    link: /introduction/overview
+    linkText: Przeczytaj Przewodnik
+  - icon: "💸"
+    title: Lista zaufanych sprzedawców
+    details: 'Lista sprzedawców wybrana przez społeczność, niekomercyjna, zawierająca najnowsze produkty i najlepsze wsparcie.'
+    link: /links/info
+    linkText: Zobacz Sprzedawców
 ---
-
 <Contributor></Contributor>

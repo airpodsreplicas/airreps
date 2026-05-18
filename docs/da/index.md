@@ -1,38 +1,33 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
-title: 'AirReps'
-description: 'AirReps-fællesskabets centrum for diskussioner om AirPods-kopier. Få hjælp, find betroede sælgere, og udforsk vores komplette guide.'
-
+title: AirReps
+description: 'AirReps'' fællesskabsguide til AirPods-replikater — også kendt som falske AirPods eller AirPods-kloner. Find pålidelige sælgere, versionssammenligninger og ærlige anmeldelser.'
 hero:
-  name: "AirReps"
-  text: "AirPods-kopier."
-  tagline: Et fællesskab for diskussion og udforskning af AirPods-kloner.
+  name: AirReps
+  text: AirPods-replikater.
+  tagline: Et fællesskab til diskussion og udforskning af AirPods-kloner.
   actions:
     - theme: brand
-      text: Læs den komplette guide
-      link: /da/introduction/overview
+      text: Læs Den Ultimative Guide
+      link: introduction/overview
     - theme: alt
-      text: Tag quizzen
-      link: /da/quiz
-
+      text: Tag Quizzen
+      link: quiz
 features:
-  - icon: 🤝
-    title: Hold af hjælpere
-    details: Dedikerede hjælpere klar til at besvare næsten ethvert spørgsmål, du måtte have.
-    link: https://airreps.link/discord
+  - icon: "🤝"
+    title: Team af hjælpere
+    details: 'Dedikerede hjælpere klar til at besvare næsten ethvert spørgsmål, du måtte have.'
+    link: 'https://airreps.link/discord'
     linkText: Deltag i Discord
   - icon: ⏰
-    title: Altid opdateret
-    details: Alle ressourcer, guider og apps holdes altid opdaterede af vores dedikerede personale.
-    link: /da/introduction/overview
-    linkText: Læs guiden
-  - icon: 💸  
-    title: Betroet sælgerliste
-    details: Fællesskabsudvalgt, non-profit sælgerliste med de nyeste produkter og den bedste support.
-    link: /da/links/info
-    linkText: Se sælgere
+    title: Opdateret
+    details: 'Alle ressourcer, guider og apps holdes altid opdaterede af vores dedikerede team.'
+    link: /introduction/overview
+    linkText: Læs Guiden
+  - icon: "💸"
+    title: Pålidelig sælgerliste
+    details: 'Sælgerliste udvalgt af fællesskabet, non-profit, med de nyeste produkter og den bedste support.'
+    link: /links/info
+    linkText: Se Sælgere
 ---
-
 <Contributor></Contributor>
