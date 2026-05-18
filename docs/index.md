@@ -3,7 +3,7 @@
 layout: home
 
 title: 'AirReps'
-description: 'The AirReps community hub for AirPods replica discussions. Get help, find trusted sellers, and explore our Ultimate Guide.'
+description: 'The AirReps community guide to AirPods replicas — also known as fake AirPods or AirPods clones. Find trusted sellers, version comparisons, and honest reviews.'
 
 hero:
   name: "AirReps"

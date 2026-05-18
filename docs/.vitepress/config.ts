@@ -890,7 +890,7 @@ export default defineConfig({
             '@type': 'Organization',
             '@id': 'https://airpodsreplicas.com/#organization',
             name: 'AirReps',
-            alternateName: 'AirPods Replicas',
+            alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
             url: 'https://airpodsreplicas.com',
             logo: {
                 '@type': 'ImageObject',
@@ -915,7 +915,7 @@ export default defineConfig({
             '@id': 'https://airpodsreplicas.com/#website',
             url: 'https://airpodsreplicas.com',
             name: 'AirReps',
-            alternateName: 'AirPods Replicas',
+            alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
             description: defaults.description,
             inLanguage: ['en', ...SUPPORTED_LOCALES],
             publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
@@ -1208,7 +1208,7 @@ export default defineConfig({
             // regex (which keys on absent `loading=`) skips it.
             .replace(
                 /<img class="VPImage logo"([^>]*)>/g,
-                '<img class="VPImage logo" loading="eager" fetchpriority="high" width="32" height="32"$1>'
+                '<img class="VPImage logo" loading="eager" fetchpriority="high" width="24" height="24"$1>'
             )
             .replace(
                 /<img(?![^>]*\bloading=)([^>]*)>/g,
