@@ -1202,7 +1202,18 @@ export default defineConfig({
     // main landmark (Lighthouse a11y).
     transformHtml: (code) =>
         code
-            .replace(/<img(?![^>]*\bloading=)([^>]*)>/g, '<img loading="lazy" decoding="async"$1>')
+            // Navbar logo: explicit size + eager so it doesn't trigger CLS
+            // or compete for late LCP work. Must run before the generic
+            // lazy-loading pass and include loading="eager" so the next
+            // regex (which keys on absent `loading=`) skips it.
+            .replace(
+                /<img class="VPImage logo"([^>]*)>/g,
+                '<img class="VPImage logo" loading="eager" fetchpriority="high" width="32" height="32"$1>'
+            )
+            .replace(
+                /<img(?![^>]*\bloading=)([^>]*)>/g,
+                '<img loading="lazy" decoding="async"$1>'
+            )
             .replace(
                 /<div class="VPContent is-home"/g,
                 '<div role="main" class="VPContent is-home"'
