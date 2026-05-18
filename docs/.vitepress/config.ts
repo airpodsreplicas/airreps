@@ -1210,10 +1210,7 @@ export default defineConfig({
                 /<img class="VPImage logo"([^>]*)>/g,
                 '<img class="VPImage logo" loading="eager" fetchpriority="high" width="24" height="24"$1>'
             )
-            .replace(
-                /<img(?![^>]*\bloading=)([^>]*)>/g,
-                '<img loading="lazy" decoding="async"$1>'
-            )
+            .replace(/<img(?![^>]*\bloading=)([^>]*)>/g, '<img loading="lazy" decoding="async"$1>')
             .replace(
                 /<div class="VPContent is-home"/g,
                 '<div role="main" class="VPContent is-home"'
