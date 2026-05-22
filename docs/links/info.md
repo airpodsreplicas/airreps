@@ -75,7 +75,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 ::: tip
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours to process.
 
-For Weidian orders, you'll need to use an agent. We recommend [KakoBuy](https://airreps.link/kakobuy), which accepts Credit Cards and multiple payment methods.
+For Weidian orders, you'll need to use an agent. We recommend [KakoBuy](https://airreps.link/kakobuy), which accepts Credit Cards and multiple payment methods — see our [KakoBuy guide](/ordering/kakobuy) for a step-by-step walkthrough.
 :::
 
 ## FAQ
@@ -109,7 +109,7 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 
 **Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
-**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures.
+**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for a full walkthrough.
 :::
 
 ::: tip
