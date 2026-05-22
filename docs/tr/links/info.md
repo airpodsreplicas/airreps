@@ -1,18 +1,18 @@
 ---
-description: Tüm AirPods replika modelleri için doğrulanmış satıcıların dizini ve doğrudan satın alma bağlantıları.
+description: Tüm AirPods replika modelleri için doğrulanmış satıcılar dizini ve doğrudan satın alma bağlantıları.
 faq:
-  - q: İyi kalitede bir ürün alır mıyım?
-    a: 'Bir ürünün kalitesini garanti etmek mümkün değildir, çünkü aynı satıcının ürünleri arasında bile kalite değişebilir. Ancak güvenilir satıcılar genellikle iyi kalitede ürünler sunduklarıyla bilinir.'
+  - q: İyi kalitede bir cihaz alacak mıyım?
+    a: Bir cihazın kalitesini garanti etmek mümkün değildir; aynı satıcıdan gelen cihazlar arasında bile farklılık gösterebilir. Ancak güvenilir satıcılar genellikle iyi kaliteli ürünler sunduklarıyla bilinir.
   - q: Satıcılarla nasıl iletişim kurarım?
-    a: 'Satıcıların WhatsApp numaralarını almak için https://airreps.link/discord adresinden AirReps Discord''una katılın. Alternatif olarak, AliExpress''te ''Tedarikçiyle İletişime Geç'' seçeneğine tıklayarak onlara mesaj gönderebilirsiniz.'
+    a: 'Satıcı WhatsApp numaralarını almak için https://airreps.link/discord adresinden AirReps Discord''a katılın. Alternatif olarak, AliExpress''te ''Satıcıyla İletişime Geç'' seçeneğini kullanarak onlara mesaj gönderebilirsiniz.'
   - q: En iyi satıcı hangisidir?
-    a: 'En iyi satıcı ihtiyaçlarınıza göre değişir. Satıcılar genellikle benzer ürünler sunar — örneğin, Jenny''den alınan bir Pro 2 V5.2 TB, HiCity''den alınan ile aynıdır. Farklar destek, kargo süreleri ve satın alma platformlarında ortaya çıkar.'
-  - q: Takip bilgilerim Çince. Ne yapmalıyım?
-    a: 'Takip numarasını kopyalayın ve güncellemeleri İngilizce görmek için 17Track (https://www.17track.net/) sitesine yapıştırın. Alternatif olarak, takip güncellemelerini Google Translate''e yapıştırın.'
+    a: 'En iyi satıcı ihtiyaçlarınıza göre değişir. Satıcılar genellikle benzer ürünler sunar — örneğin Jenny''den alınan bir Pro 2 V5.2 TB, HiCity''den alınanla aynıdır. Farklar destek, gönderim süreleri ve satın alma platformlarında ortaya çıkar.'
+  - q: Kargo takip bilgilerim Çince. Ne yapmalıyım?
+    a: 'Takip numarasını kopyalayın ve güncellemeleri İngilizce görmek için 17Track''e (https://www.17track.net/) yapıştırın. Alternatif olarak, takip güncellemelerini Google Translate''e yapıştırın.'
   - q: Kartım çalışmıyor. Ne yapmalıyım?
-    a: Alternatif ödeme yöntemleri hakkında bilgi almak için satıcıyla iletişime geçin. Wise gibi bazı yöntemler alıcı koruması sağlamaz. Ayrıca farklı bir kart deneyebilir veya başka bir satıcıdan satın alabilirsiniz.
-  - q: Kredi Kartı ile ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
-    a: 'Güvenilir satıcılar, Kredi Kartı ödemelerini işlemek için güvenli bir kripto ödeme geçidi kullanır. Kartınız kripto satın alır ve bu da siparişi tamamlar. KYC''den kaçınmak istiyorsanız, kimlik kontrolleri olmadan normal kredi kartlarını kabul eden bir aracı olan KakoBuy''u kullanın.'
+    a: Alternatif ödeme yöntemleri hakkında sormak için satıcıyla iletişime geçin. Wise gibi bazı yöntemler alıcı koruması sunmaz. Ayrıca farklı bir kart deneyebilir veya başka bir satıcıdan satın alabilirsiniz.
+  - q: Kredi Kartı ile ödeme yaparken neden bir kripto sitesine yönlendiriliyorum?
+    a: 'Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız kripto satın alır ve bu siparişi tamamlar. KYC''den kaçınmak istiyorsanız, kimlik kontrolü yapmadan normal kredi kartlarını kabul eden aracı KakoBuy''u kullanın.'
 ---
 # Links
 
@@ -20,9 +20,9 @@ faq:
 Bu liste güncel tutulur. Daha yüksek sürüm neredeyse her zaman daha iyidir.
 :::
 
-Aşağıdaki liste yalnızca doğrulanmış satıcılara ait bağlantıları içerir. Güvenilir olduklarını bildiğiniz ve doğrulanmayı hak eden satıcılar varsa, lütfen bir Ultimate Guide yazarıyla iletişime geçin veya ürünleri hakkında bir inceleme yazıp AirReps forumlarında yayınlayın. Apple AirPods replikalarınızın kalite ve özgünlüğünü sağlamak için yalnızca bu doğrulanmış satıcılardan satın almanızı öneririz.
+Aşağıdaki liste yalnızca doğrulanmış satıcıların bağlantılarını içerir. Güvenilir olduğunu düşündüğünüz ve doğrulanmayı hak eden satıcıları biliyorsanız, lütfen bir Ultimate Guide yazarıyla iletişime geçin veya ürünleri hakkında bir inceleme yazıp AirReps forumlarında yayınlayın. Apple AirPods kopyalarınızın kalite ve özgünlüğünü sağlamak için yalnızca bu doğrulanmış satıcılardan satın almanızı öneririz.
 
-## Choose the product you want to view links for
+## Görüntülemek istediğiniz ürünü seçin
 
 - [AirPods 2](airpods-2.md)
 - [AirPods 3](airpods-3.md)
@@ -32,15 +32,15 @@ Aşağıdaki liste yalnızca doğrulanmış satıcılara ait bağlantıları iç
 - [AirPods Pro 3](airpods-pro-3.md)
 - [AirPods Max](airpods-max.md)
 
-## Trusted sellers (official websites)
+## Güvenilir satıcılar (resmi web siteleri)
 
 - **Earhive**: https://earhive.com
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-## Payment Methods
+## Ödeme Yöntemleri
 
-All trusted sellers accept multiple payment methods for your convenience:
+Tüm güvenilir satıcılar kolaylığınız için birden fazla ödeme yöntemi kabul eder:
 
 | Payment Method | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
@@ -72,45 +72,45 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **EPS** | ❌ | ✅ | ❌ |
 
 ::: tip
-Wise veya Banka Havalesi ile yapılan ödemeler, satıcı tarafından manuel inceleme gerektirir ve işlenmesi 24 saate kadar sürebilir.
+Wise veya Banka Havalesi ile ödemeler, satıcı tarafından manuel inceleme gerektirir ve işleme alınması 24 saate kadar sürebilir.
 
-Weidian siparişleri için bir ajan kullanmanız gerekir. Kredi Kartı ve birden fazla ödeme yöntemini kabul eden [KakoBuy](https://airreps.link/kakobuy)'ı öneriyoruz.
+Weidian siparişleri için bir ajan kullanmanız gerekecektir. Kredi kartlarını ve birden fazla ödeme yöntemini kabul eden [KakoBuy](https://airreps.link/kakobuy)'ı öneriyoruz — adım adım bir rehber için [KakoBuy kılavuzumuza](/tr/ordering/kakobuy) bakın.
 :::
 
-## FAQ
+## SSS
 
-::: details Bir kaliteli birimler alır mıyım?
-Bir birimin kalitesini garanti etmek mümkün değildir; çünkü aynı satıcının ürünleri arasında bile kalite değişkenlik gösterebilir. Ancak burada bahsedilen satıcılar genellikle iyi kaliteli ürünler sunduklarıyla bilinir.
+::: details İyi kaliteli bir birim alacak mıyım?
+Birimin kalitesini garanti etmek mümkün değildir; aynı satıcının ürünleri arasında bile kalite farklılıkları olabilir. Ancak burada bahsedilen satıcılar genellikle iyi kalite ürünler sunduklarıyla bilinir.
 :::
 
-::: details Satıcılarla nasıl iletişime geçerim?
-Satıcılarla iletişime geçmek için AirReps Discord'a katılabilirsiniz: https://airreps.link/discord ve WhatsApp numaralarını edinebilirsiniz; çünkü bu bilgiler genellikle halka açık değildir. Alternatif olarak, AliExpress üzerinden "Contact Supplier" (Satıcıyla İletişime Geç) seçeneğine tıklayarak onlara mesaj atabilirsiniz.
+::: details Satıcılarla nasıl iletişim kurarım?
+Satıcılarla iletişim kurmak için AirReps Discord'una katılabilirsiniz: https://airreps.link/discord ve WhatsApp numaralarını edinebilirsiniz, çünkü bunlar herkese açık olarak paylaşılmıyor. Alternatif olarak, AliExpress üzerinden "Tedarikçiyle İletişime Geç" butonunu kullanarak onlara mesaj gönderebilirsiniz.
 :::
 
 ::: details En iyi satıcı hangisidir?
-En iyi satıcı kesin olarak belirlenemez; ihtiyaçlarınıza ve satın almayı seçtiğiniz platforma göre değişir. Satıcılar genellikle benzer ürünler sunar; örneğin Jenny'deki 'Pro 2 V5.2 TB' ile HiCity'deki aynı üründür. Ancak destek, gönderim süreleri ve satın alma yapılan platform gibi konularda farklılıklar olabilir.
+En iyi satıcı kesin olarak belirlenemez; ihtiyaçlarınıza ve satın alma yaptığınız platforma göre değişir. Satıcılar genellikle benzer ürünler sunar; örneğin Jenny'deki 'Pro 2 V5.2 TB' ile HiCity'deki aynı üründür. Ancak destek, gönderim süreleri ve satın alma yapılan platform gibi konularda farklılıklar görülebilir.
 :::
 
-::: details X gün önce sipariş verdim ve paketim henüz gelmedi. Ne yapmalıyım?
-Çin'den gönderimler bazen uzun sürebilir. Paket Çin'den çıktıktan sonra takip bilgileri kaybolabilir ve genellikle ülkenizdeki gümrüğe ulaşana kadar güncelleme almayabilir. Uzun süre geçti ve hâlâ takip bilgisi yoksa satıcınıza bir güncelleme için başvurmalısınız.
+::: details X gün önce sipariş verdim ve paketim henüz ulaşmadı. Ne yapmalıyım?
+Çin'den gönderimler bazen uzun sürebilir. Paket Çin'den çıktıktan sonra takip bilgileri kaybolabilir ve ülkenizdeki gümrüğe ulaşana kadar güncellenmeyebilir. Uzun süre geçtiyse ve hâlâ takip bilgisi yoksa, satıcınızla iletişime geçip güncelleme isteyin.
 :::
 
-::: details Takip bilgilerim Çince görünüyor. Ne yapmalıyım?
-Çince takip bilgilerine sahipseniz, takip numarasını kopyalayıp [17Track](https://www.17track.net/) sitesine yapıştırabilirsiniz. Bu sayede güncellemeleri İngilizce görebilirsiniz. Alternatif olarak, takip güncellemelerini bir bilgisayarda açıp Google Translate'e yapıştırarak farklı bir dilde görüntüleyebilirsiniz.
+::: details Takip bilgilerim Çince. Ne yapmalıyım?
+Takip bilgileriniz Çince ise takip numarasını kopyalayıp [17Track](https://www.17track.net/) sitesine yapıştırabilirsiniz. Bu, güncellemeleri İngilizce görmenizi sağlar. Alternatif olarak, takip güncellemelerini bir bilgisayarda açıp Google Çeviri'ye yapıştırarak başka bir dilde görebilirsiniz.
 :::
 
 ::: details Kartım çalışmıyor. Ne yapmalıyım?
-Kartınız çalışmıyorsa, satıcıyla iletişime geçip farklı bir ödeme biçimini kabul edip etmediklerini sorabilirsiniz. Wise gibi bazı alternatif ödeme yöntemlerinin alıcı koruması sunmadığını unutmayın. Satıcı farklı bir ödeme biçimini kabul edemiyorsa, başka bir kart deneyebilir veya farklı bir satıcıdan satın almayı düşünebilirsiniz.
+Kartınız çalışmıyorsa, satıcıyla iletişime geçip farklı bir ödeme yöntemini kabul edip etmediklerini sorun. Wise gibi bazı alternatif ödeme yöntemleri alıcı koruması sunmayabilir. Satıcı farklı bir ödeme yöntemi kabul edemiyorsa, farklı bir kart kullanmayı veya başka bir satıcıdan satın almayı deneyebilirsiniz.
 :::
 
-::: details Kredi Kartıyla ödeme yaparken neden beni kripto sitesine yönlendiriyor?
-Güvenilir satıcılar, Kredi Kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız kripto satın almak için kullanılır ve ardından siparişinizi güvenli ve verimli bir şekilde tamamlamak için kripto kullanılır.
+::: details Kredi Kartı ile ödeme yaparken neden kripto sitesine yönlendiriliyorum?
+Güvenilir satıcılar, Kredi Kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız, kripto satın almak için kullanılır ve bu kripto siparişinizi güvenli ve verimli bir şekilde tamamlamak için kullanılır.
 
-**Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik kontrolü (KYC) isteyebilir; ancak bu her zaman gerekli değildir.**
+**Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik doğrulaması (KYC) isteyebilir; bu her zaman gerekli değildir.**
 
-**Alternatif:** KYC doğrulaması ihtimalinden tamamen kaçınmak istiyorsanız, satıcıların yerine ürünleri sizin adınıza satın alan ve sevkiyattan önce kalite kontrol (QC) fotoğrafları sağlayan bir ajan platformu olan [KakoBuy](https://airreps.link/kakobuy)'ı düşünebilirsiniz. KakoBuy, kredi ve banka kartlarını kabul eden standart ödeme işlemcilerini kullanır ve KYC doğrulaması veya kimlik kontrolleri ASLA gerektirmez. Bu, kartınızı kullanırken herhangi bir KYC gerekliliği olasılığından kaçınmak ve yine de QC fotoğraflarıyla ek güvence almak istiyorsanız mükemmel bir seçenektir.
+**Alternatif:** KYC doğrulaması ihtimalinden tamamen kaçınmak istiyorsanız, satıcıların sizin adınıza ürünü satın aldığı ve sevk öncesi kalite kontrol (QC) fotoğrafları sağladığı bir ajan platformu olan [KakoBuy](https://airreps.link/kakobuy)'ı kullanmayı düşünebilirsiniz. KakoBuy, kredi ve banka kartlarını kabul eden normal ödeme işlemcilerini kullanır ve **asla KYC doğrulaması veya kimlik kontrolü gerektirmez**. Kartınızı kullanmayı tercih ederken olası KYC gereksinimlerinden kaçınmak ve QC fotoğrafları ile ek güvence sağlamak istiyorsanız bu mükemmel bir seçenektir. Tam bir rehber için [KakoBuy sipariş kılavuzumuza](/tr/ordering/kakobuy) bakın.
 :::
 
 ::: tip
-Kredi kartı ödemesi sağlayan bazı satıcı web sitelerinde, web sitesinin marka bilgileri gizli olabilir. İstediğiniz sürüm numarasına bakın — genel ürün görsellerini güvenle görmezden gelebilirsiniz. Bu, bazı kredi kartı ödeme ağ geçitlerinin telif hakkı politikalarına uymak için yapılır.
+Kredi kartı ödemesi sunan bazı satıcı web sitelerinin belirgin olmayan site markalamaları olabilir. İstediğiniz sürüm numarasını arayın — genel ürün görsellerini güvenle görmezden gelebilirsiniz. Bu, bazı kredi kartı ödeme ağ geçitlerinin telif hakkı politikalarına uymak için yapılır.
 :::

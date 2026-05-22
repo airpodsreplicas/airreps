@@ -1,54 +1,52 @@
 ---
-description: AirReps topluluğunda kullanılan yaygın terimlerin kısa sözlüğü.
+description: AirReps topluluğunda kullanılan yaygın terimlerin özlü bir sözlüğü.
 ---
-
 # Sözlük
 
-## W2C: Where To Cop/Nereden Alınır
+## W2C: Nereden Alınır/Nereden Satın Alınır
 
-"W2C", "Bu ürünü nereden satın alabilirim?" anlamına gelir. Bir ürünün kaynağını veya satıcısını ararken kullanılır.
+"W2C" bir öğeyi "Nereden satın alabilirim?" anlamına gelir. Bir ürünün kaynağını veya satıcısını ararken kullanılır.
 
-**Örnek:** "V5.3'lerin W2C'sini subreddit'e koyabilir misin?"
+**Örnek:** "Alt dizinde V5.3'lerin W2C'sini koyabilir misin?"
 
 ## Reps/Clones: Replikalar
 
-"Reps" veya "Clones", belirli bir ürünü (bu durumda AirPods) mümkün olduğunca hassas bir şekilde kopyalamak için tasarlanmış ürün taklitlerini ifade eder. Bu, bir 'knockoff'tan farklıdır.
+"Reps" veya "Clones", belirli bir ürünü (bu durumda AirPods) mümkün olduğunca hassas şekilde kopyalamayı amaçlayan ürün taklitlerini ifade eder. Bu, bir 'knockoff'tan farklıdır.
 
-**Örnek:** "En iyi AirPods replikalarını/klonlarını nereden alabilirim?"
+**Örnek:** "En iyi AirPods replika/clone'larını nereden alabilirim?"
 
 ## Fake AirPods
 
-"Fake AirPods", AirPods replikaları veya klonları için kullanılan gayri resmi bir terimdir. Bu rehberde, Apple özelliklerini daha düşük fiyata sunmayı hedefleyen yüksek kaliteli üçüncü parti ürünleri tanımlamak için "replikalar" veya "klonlar" terimlerini kullanıyoruz.
+"Fake AirPods" AirPods taklitleri veya klonları için gayri resmi bir terimdir. Bu rehberde, Apple özelliklerine daha düşük bir fiyata ulaşmayı hedefleyen daha yüksek kaliteli üçüncü taraf ürünleri tanımlamak için "replikalar" veya "klonlar" ifadelerini kullanıyoruz.
 
 ## Knockoffs
 
-"Knockoffs", fikri mülkiyet ihlalinden kaçınırken popüler markalara benzemeye çalışan ürünleri ifade eder (örneğin "Gucci" yerine "Gucce").
+"Knockoffs", popüler markalara benzeyecek şekilde tasarlanmış ancak fikri mülkiyet ihlalinden kaçınmak için adları değiştirilmiş ürünleri ifade eder (ör. "Gucce" yerine "Gucci").
 
-## GP: Guinea Pig (Kobay)
+## GP: Deney Faresi
 
-"Guinea Pigging", bir satıcının ürününü ilk kez sipariş eden ve inceleyen kişi olmak anlamına gelir; böylece topluluk ürün kalitesini değerlendirebilir.
+"Guinea Pigging", bir satıcının ürününü sipariş eden ve inceleyen ilk kişi olmayı ifade eder; bu, topluluğun ürünün kalitesini değerlendirmesine olanak tanır.
 
-**Örnek:** "Troy'un V4'lerini GP yapmaya istekli olan var mı?"
+**Örnek:** "Troy'un V4'lerini GP yapmaya gönüllü olan var mı?"
 
-## QC: Quality Control (Kalite Kontrol) [FOTOĞRAFLAR]
+## QC: Kalite Kontrol [RESİMLER]
 
-"QC", Kalite Kontrol anlamına gelir. "QC PICS", satın alınan bir ürünün kalitesini doğrulamak için kullanılan fotoğrafları ifade eder. Replikalarını nasıl inceleyeceğini öğrenmek için [QC & LC rehberimize](/tr/ordering/qc-lc) bak.
+"QC", Kalite Kontrol anlamına gelir. "QC RESİMLERİ", satın alınan bir ürünün kalitesini doğrulamak için kullanılan resimleri ifade eder. Replikalarınızı nasıl denetleyeceğiniz hakkında bilgi için [QC & LC rehberi](/tr/ordering/qc-lc)'ne bakın.
 
-**Örnek:** "HiCity v2.5'lerin QC fotoğraflarını gönderebilir misin?"
+**Örnek:** "HiCity v2.5'ler için QC resimlerini gönderebilir misin?"
 
-## LC: Legit Check (Orijinallik Kontrolü)
+## LC: Orijinallik Kontrolü
 
-"Legit Check", bir ürünün özgünlüğünü doğrular; genellikle eBay veya Facebook Marketplace gibi perakende dışı kaynaklardan satın alırken kullanılır.
+Bir "Legit Check" (LC), özellikle eBay veya Facebook Marketplace gibi perakende dışı kaynaklardan alım yaparken, bir ürünün orijinalliğini doğrular.
 
-**Örnek:** "Birisi bu AirPods Pro'ları benim için LC yapabilir mi?"
+**Örnek:** "Biri benim için bu AirPods Pro'ları LC yapabilir mi?"
 
-## Agent: Kargo Acentesi/Gönderi Aracısı
+## Agent: Nakliye Acentesi / Gönderi Aracısı
 
-"Agent", satıcılardan (genellikle Çin'deki) alıcılara güvenli satın almalar sağlayan üçüncü bir taraftır. Temsilci olarak hareket eder, ürünlerin arızalı olmadığını ve alıcıların sipariş ettiklerini aldığını garanti eder. [KakoBuy](https://airreps.link/kakobuy) öneriyoruz.
+Bir "Agent", satıcılardan (çoğunlukla Çin'den) alımları alıcıya güvenli şekilde ulaştırmaya yardımcı olan üçüncü taraf bir aracıya denir. Ürünlerin kusurlu olmadığından ve alıcıların sipariş ettiklerini aldığından emin olmak için temsilci olarak hareket ederler. [KakoBuy](https://airreps.link/kakobuy)'ı öneriyoruz — nasıl kullanılacağı hakkında bilgi için [KakoBuy rehberi](/tr/ordering/kakobuy)'ne bakın.
 
-**Örnek:** "Onları almak için bir agent kullanman gerekebilir, çünkü şu anda HiCity Filipinler'e kargo yapmıyor."
+**Örnek:** "Onları almak için bir agente ihtiyacın olabilir, çünkü şu anda HiCity Filipinler'e göndermiyor."
 
-## Markings: Ürün Etiketleme
+## İşaretlemeler: Ürün Etiketlemesi
 
-"Markings", ürün hakkında bilgi veren kasa ve AirPods üzerindeki yazıları ifade eder; "Designed by Apple in California" yazısı, model numaraları ve seri numaraları dahildir. İşaretlerin replikalar ve orijinaller arasında nasıl farklılık gösterdiği hakkında daha fazla bilgi için [yapı kalitesi](/tr/introduction/build-quality) bölümüne bak.
-
+"Markings" kasa ve AirPods üzerindeki, "Designed by Apple in California" metni, model numaraları ve seri numaraları gibi ürün hakkında bilgi veren yazıları ifade eder. Replikalar ile orijinaller arasındaki işaretlemelerin nasıl farklılık gösterdiği hakkında daha fazla bilgi için [yapı kalitesi](/tr/introduction/build-quality)'ne bakın.
