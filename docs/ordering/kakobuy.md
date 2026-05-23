@@ -9,7 +9,7 @@ description: KakoBuy guide for AirPods replicas — step-by-step ordering, shipp
 KakoBuy is a Chinese shopping agent (also called a "taobao agent") that purchases products from sellers on Weidian, Taobao, and 1688 on your behalf, holds the items at its warehouse, takes quality control (QC) photos, and ships them to you internationally. For AirPods replicas, KakoBuy is the agent the AirReps community recommends because it accepts standard payment methods — credit/debit card, PayPal, Apple Pay, Google Pay — without requiring KYC identity verification.
 
 ::: info
-[KakoBuy](https://airreps.link/kakobuy) is a purchasing agent — they buy products from Chinese sellers on your behalf, inspect them, and ship them to you internationally. This is especially useful if you want to **combine shipping with other items from China**, or if you **can't buy directly** from a seller's website.
+[KakoBuy](https://airreps.link/kakobuy) is a purchasing agent — they buy products from Chinese sellers on your behalf, inspect them, and ship them to you internationally. This is especially useful if you want to **combine shipping with other items from China**, or if you **can't buy directly** from a seller's website. For a comprehensive walkthrough of the KakoBuy platform itself (covering categories beyond AirPods), see [KakoGuide](https://kakoguide.com).
 :::
 
 ## Why Use an Agent?
