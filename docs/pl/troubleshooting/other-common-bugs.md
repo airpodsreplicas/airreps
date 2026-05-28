@@ -1,58 +1,58 @@
 ---
-description: "Poradnik rozwiązywania problemów dla typowych problemów z replikami AirPods: łączność, pauzowanie dźwięku, procedury resetowania i kontrole sprzętowe."
+title: Najczęstsze Problemy & Rozwiązania dla Replik AirPods
+description: 'Przewodnik rozwiązywania typowych problemów z replikami AirPods: łączność, pauzowanie dźwięku, procedury resetowania i kontrole sprzętowe.'
 ---
-
-# **Typowe Problemy**
+# **Typowe problemy**
 
 ::: tip
-Większość nowszych modeli sprzedawanych przez [zaufanych sprzedawców](/pl/links/info) rozwiązała te problemy dawno temu. Jeśli doświadczasz problemów, upewnij się, że masz najnowszą wersję od zweryfikowanego sprzedawcy.
+Większość nowszych modeli sprzedawanych przez [zaufanych sprzedawców](/pl/links/info) rozwiązała te problemy już dawno. Jeśli masz problemy, upewnij się, że masz najnowszą wersję od zweryfikowanego sprzedawcy.
 :::
 
-## **Miękki Reset dla Klonów AirPods**
-Wykonaj poniższe kroki, aby przeprowadzić miękki reset swoich klonów AirPods:
+## **Miękki reset replik AirPods**
+Wykonaj następujące kroki, aby przeprowadzić miękki reset replik AirPods:
 ![How to soft reset your AirPods](/airpodssoftreset.webp)
-- Zapomnij urządzenie w ustawieniach Bluetooth, a następnie wyłącz Bluetooth.
-- Otwórz pokrywę i przytrzymaj tylny przycisk przez kilka sekund, aż dioda zacznie migać, potem zamknij pokrywę. Nie martw się, jeśli dioda nie miga dokładnie tak jak na obrazku.
-- Odczekaj pełną 1 minutę, potem włącz Bluetooth, otwórz pokrywę i spróbuj ponownie się połączyć.
-- Jeśli to nie zadziała, wyjmij słuchawki i włóż je z powrotem. Zamknij pokrywę i poczekaj, aż dioda zgaśnie. Następnie otwórz i spróbuj ponownie. Może być potrzebne 3–4 **MIĘKKIE RESETY**, aby zadziałało. Jeśli to nie pomaga, spróbuj **TWARDEGO RESETU** (patrz obrazek poniżej)
+- Usuń urządzenie z ustawień Bluetooth, a następnie wyłącz Bluetooth.
+- Otwórz pokrywę etui i przytrzymaj przycisk z tyłu przez kilka sekund, aż dioda zacznie migać, po czym zamknij pokrywę. Nie przejmuj się, jeśli dioda nie miga dokładnie tak jak na zdjęciu.
+- Odczekaj pełną minutę, następnie włącz Bluetooth, otwórz pokrywę i spróbuj ponownie połączyć.
+- Jeśli to nie zadziała, wyjmij słuchawki z etui i włóż je z powrotem. Zamknij pokrywę i poczekaj, aż dioda zgaśnie. Następnie otwórz etui i spróbuj ponownie. Może być potrzebne 3–4 **MIĘKKIE RESETY**, aby zadziałało. Jeśli to nie pomoże, spróbuj **TWARDEGO RESETU** (patrz obraz poniżej)
 
-## **Twardy Reset**
-Wykonaj poniższe kroki, aby przeprowadzić twardy reset swoich klonów AirPods:
-- Zapomnij urządzenie AirPods w ustawieniach Bluetooth.
-- Wyjmij słuchawki z etui na kilka godzin, aby bateria całkowicie się rozładowała. Zostaw etui otwarte. Ważne jest, aby nie pozostał żaden resztkowy ładunek, więc zostaw je na co najmniej cały dzień lub dłużej, jeśli zajdzie taka potrzeba.
-- Gdy się rozładują, włóż słuchawki z powrotem do etui i naładuj etui.
+## **Twardy reset**
+Wykonaj następujące kroki, aby przeprowadzić twardy reset replik AirPods:
+- Usuń urządzenia AirPods z ustawień Bluetooth.
+- Wyjmij słuchawki z etui i pozostaw je poza etui na kilka godzin, aby bateria całkowicie się rozładowała. Zostaw etui otwarte. Ważne jest, aby nie pozostał żaden ładunek, więc pozostaw je rozładowane na co najmniej jeden pełny dzień lub dłużej, jeśli to konieczne.
+- Gdy bateria zostanie rozładowana, włóż słuchawki z powrotem do etui i naładuj etui.
 - Teraz wykonaj **MIĘKKI RESET**. Może być potrzebne 3–4 **MIĘKKIE RESETY**, aby zadziałało.
 
-## **Otwieranie Klonów AirPods**
-Możesz otrzymać błędnie oznakowane klony AirPods przy zamawianiu na stronach takich jak AliExpress od niezweryfikowanych sprzedawców. Możesz użyć aplikacji dla chipsetu, aby zweryfikować, czy otrzymałeś właściwy chipset, lecz samo pokazanie aplikacji często nie wystarcza jako dowód. Może być konieczne otwarcie AirPods i zrobienie zdjęcia chipsetu jako dowodu. Oto jak to zrobić bez uszkadzania AirPods:
+## **Otwieranie replik AirPods**
+Możesz otrzymać nieprawidłowo opisane klony AirPods zamawiając na stronach takich jak AliExpress od nieweryfikowanych sprzedawców. Możesz użyć aplikacji dla chipsetu, aby zweryfikować, że otrzymałeś właściwy chipset. Jednak samo pokazanie aplikacji często nie jest wystarczającym dowodem. Może być konieczne otwarcie AirPods i zrobienie zdjęcia chipsetu jako dowodu. Oto jak możesz to zrobić, nie uszkadzając słuchawek:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
-## **Częste Pauzowanie Audio/Wideo z Klonami AirPods**
-Częste zatrzymywanie się odtwarzania audio lub wideo podczas używania klonów AirPods to powszechny problem, często spowodowany [czujnikami wykrywania w uchu](/pl/introduction/features#czujniki-w-uchu) (w modelach Pro). Problem może też występować, jeśli AirPods nie przylegają pewnie do ucha. Aby to naprawić, możesz wybrać inne końcówki douszne (w modelach Pro) lub wyłączyć wykrywanie w uchu w ustawieniach.
+## **Częste pauzowanie audio/wideo podczas używania replik AirPods**
+Częste przerywanie odtwarzania audio lub wideo podczas korzystania z replik AirPods to częsty problem, często powodowany przez [czujniki wykrywania w uchu](/pl/introduction/features#in-ear-sensors) (w modelach Pro). Problem ten może także wystąpić, jeśli słuchawki nie leżą pewnie w uchu. Aby rozwiązać ten problem, możesz wybrać inne końcówki douszne (w modelach Pro) lub wyłączyć wykrywanie wkładania do ucha w ustawieniach.
 
-## **Klonów AirPods Pozostają Połączone po Zamknięciu Etui**
-Niektórzy użytkownicy klonów AirPods mogą zauważyć, że słuchawki pozostają połączone z urządzeniem nawet po zamknięciu etui ładującego. Zwykle powoduje to awaria magnesów i czujnika Halla wewnątrz etui, które wykrywają pozycję słuchawek. Aby rozwiązać ten problem, wykonaj kroki opisane w następującym samouczku na YouTube:
+## **Repliki AirPods pozostają połączone po zamknięciu etui ładującego**
+Niektórzy użytkownicy replik AirPods mogą doświadczyć sytuacji, w której słuchawki pozostają połączone z urządzeniem nawet po zamknięciu etui ładującego. Zwykle jest to spowodowane usterką magnesów i czujnika Halla wewnątrz etui, które odpowiadają za wykrywanie pozycji słuchawek. Aby naprawić ten problem, wykonaj kroki przedstawione w następującym poradniku na YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
-## **Słaba Jakość Dźwięku lub Problemy z Basem na iOS**
-Niektórzy użytkownicy klonów AirPods mogą doświadczyć problemów z jakością dźwięku lub basem na urządzeniach iOS. Zwykle przyczyną jest funkcja "Headphone Accommodations", która jest domyślnie włączona na iOS. Aby rozwiązać ten problem, przejdź do Ustawienia > Dostępność > Audio / Visual > Headphone Accommodations i wyłącz tę funkcję.
+## **Słaba jakość dźwięku lub problemy z basem replik AirPods na iOS**
+Niektórzy użytkownicy replik AirPods mogą mieć problemy z jakością dźwięku lub basem na urządzeniach z iOS. Zwykle jest to spowodowane funkcją "Headphone Accommodations", która jest włączona domyślnie na iOS. Aby rozwiązać ten problem, przejdź do Ustawienia > Dostępność > Audio / Wideo > Dopasowania słuchawek i wyłącz tę opcję.
 
-## **Resetowanie Parowania Klonów AirPods**
-Jeśli masz problemy, że tylko jedna ze słuchawek klonów AirPods działa poprawnie, a słuchawka miga powoli za każdym razem, gdy otwierasz etui, możesz spróbować zresetować parowanie. To prosty proces, który może pomóc rozwiązać problem. Aby zresetować parowanie klonów AirPods, przytrzymaj tylny przycisk parowania przez 2–3 sekundy, gdy słuchawki są w etui.
+## **Resetowanie parowania replik AirPods**
+Jeśli masz problem, że tylko jedna ze słuchawek działa poprawnie, a słuchawka powoli miga za każdym razem, gdy otwierasz etui, możesz spróbować zresetować parowanie. To prosty proces, który może rozwiązać problem. Aby zresetować parowanie replik AirPods, przytrzymaj tylni przycisk parowania przez 2–3 sekundy, gdy słuchawki znajdują się w etui.
 
-## **Naprawa Nierównowagi L/P (Łatwy Sposób)**
-Aby dostosować balans głośności lewo/prawo na urządzeniu iOS, przejdź do Ustawienia > Dostępność. Na urządzeniu z Androidem wykonaj następujące kroki:
+## **Naprawa nierównowagi L/P (prosty sposób)**
+Aby dostosować balans głośności lewa/prawa na urządzeniu z iOS, przejdź do Ustawienia > Dostępność. Na urządzeniu z Androidem wykonaj następujące kroki:
 - Otwórz aplikację Ustawienia i wybierz Dostępność z listy.
-- Na ekranie Dostępność przewiń w dół do sekcji Dźwięk i Tekst na Ekranie.
-- Użyj suwaka, aby dostosować balans głośności, aż dźwięk będzie skalibrowany.
+- Na ekranie Dostępność przewiń w dół do sekcji Audio i tekst na ekranie.
+- Użyj suwaka, aby dostosować balans głośności, aż dźwięk będzie poprawnie wyważony.
 
-## **Nie Można Połączyć z macOS**
-Aby rozwiązać problemy z połączeniem AirPods, spróbuj następujących kroków:
-- Zapomnij AirPods z iPhone (wydaje się, że problem dotyczy iCloud Connect).
-- Spróbuj połączyć AirPods z Mac.
-- Jeśli nie słyszysz żadnego dźwięku, gdy AirPods są połączone, może być konieczne ich zresetowanie.
+## **Nie można połączyć z macOS**
+Aby rozwiązać problemy z łącznością AirPods, spróbuj następujących kroków:
+- Usuń AirPods z iPhone'a (wygląda na to, że problem może dotyczyć iCloud Connect).
+- Spróbuj połączyć AirPods z Macem.
+- Jeśli po połączeniu nie słyszysz dźwięku, może być konieczne zresetowanie słuchawek.
 
-## **Żadne z Powyższych Nie Pomogło?**
-Możliwe, że Twoje AirPods są wadliwe od początku lub zostały uszkodzone nieodwracalnie. Możesz spróbować wykonać miękkie i twarde resety, na przykład pozostawić urządzenie bez ładowania przez pewien czas lub odtwarzać muzykę zamiast zapominać urządzenie, w próbie naprawy. Jeśli żadna z tych metod nie zadziała, najlepszą opcją jest skontaktowanie się ze [sprzedawcą](/pl/introduction/sellers) i poproszenie o zwrot pieniędzy lub wymianę. Sprawdź również naszą [poprawkę kompatybilności z iCloud](/pl/troubleshooting/AirReps-Incompatibility-with-iCloud) oraz [poprawkę głośności macOS](/pl/troubleshooting/macOS-volume-slider-fixup), jeśli dotyczą Twojej sytuacji.
+## **Żadne z powyższych nie pomogło?**
+Możliwe, że Twoje AirPods dotarły wadliwe lub są teraz uszkodzone w stopniu nie nadającym się do naprawy. Możesz spróbować wykonać miękki i twardy reset, na przykład pozostawiając urządzenie bez ładowania przez pewien czas lub odtwarzając muzykę zamiast usuwać je z urządzeń, aby spróbować naprawić problem. Jeśli żadne z tych metod nie zadziała, najlepszym rozwiązaniem jest skontaktować się ze [sprzedawcą](/pl/introduction/sellers) i poprosić o zwrot pieniędzy lub wymianę. Sprawdź także naszą [poprawkę kompatybilności z iCloud](/pl/troubleshooting/AirReps-Incompatibility-with-iCloud) oraz [poprawkę głośności macOS](/pl/troubleshooting/macOS-volume-slider-fixup), jeśli mają zastosowanie do Twojej sytuacji.

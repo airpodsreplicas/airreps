@@ -1,41 +1,40 @@
 ---
-description: "Resumen de características: ANC, Audio Espacial, detección en el oído, controles y calidad de micrófono."
+title: AirPods Réplica Características & ANC
+description: 'Resumen de características: ANC, Audio espacial, detección intraauricular, controles, y calidad del micrófono.'
 ---
-
 # Características
 
-Las réplicas de AirPods ofrecen una variedad de características que imitan las de los AirPods originales. Para una comparación detallada de lo que ofrece cada versión, consulta la [tabla de comparación de versiones](/es/version-info/general).
+Las réplicas de AirPods ofrecen una variedad de funciones que imitan a las de los AirPods originales. Para una comparación detallada de lo que ofrece cada versión, consulta la [tabla de comparación de versiones](/es/version-info/general).
 
-## Características Soportadas
+## Funciones compatibles
 
-Todos los modelos actuales de réplicas de AirPods soportan cambio de nombre, GPS y cambio de controles táctiles (solo iOS y macOS). Muchos modelos también soportan Audio Espacial, Audio Share y Live Listen (todos solo iOS y macOS). El modo Transparencia y [Cancelación Activa de Ruido (ANC)](/es/introduction/anc-explained) están disponibles en modelos AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4 y AirPods Max. El ANC en estas réplicas es muy cercano al de los AirPods originales como se muestra en muchas reseñas, pero no es 1:1.
+Todos los modelos actuales de réplicas de AirPods soportan el cambio de nombre, GPS y la modificación de los controles táctiles (solo iOS y macOS). Muchos modelos también soportan Spatial Audio, Audio Share y Live Listen (todos solo en iOS y macOS). El modo Transparencia y la [Cancelación Activa de Ruido (ANC)](/es/introduction/anc-explained) están disponibles en los modelos AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4 y AirPods Max. La ANC en estas réplicas está muy cerca de los AirPods originales como muestran muchas reseñas, pero no es idéntica.
 
-Los modelos más nuevos incluyen capacidades adicionales:
+Los modelos más recientes incluyen capacidades adicionales:
 - **Carga USB-C** (AirPods Pro 2 V5.1+, AirPods Pro 3, AirPods 4, AirPods Max V3)
 - **iCloud Connect** (AirPods Pro 2 V5.4, AirPods Pro 3 V6, AirPods 4 V3)
-- **Audio Adaptativo** (AirPods Pro 2 V5.3+)
-- **Detección de Conversación** (AirPods Pro 2 V5.3+)
-- **Traducción en Vivo** (AirPods Pro 3 V6)
+- **Adaptive Audio** (AirPods Pro 2 V5.3+)
+- **Conversation Awareness** (AirPods Pro 2 V5.3+)
+- **Live Translation** (AirPods Pro 3 V6)
 
-::: details ¿Se pueden cambiar las configuraciones usando un dispositivo Android?
-Si usas Android, puedes hacer todos los cambios de configuración táctil en un iPhone en [https://airreps.info/iossettings](https://airreps.info/iossettings). Estos cambios deberían transferirse a tu Android, aunque a veces esto no funciona. Algunos fabricantes también tienen [sus propias aplicaciones de Android](/es/useful-apps) que hacen posible cambiar estas configuraciones y más en dispositivos Android.
+::: details ¿Se pueden cambiar los ajustes usando un dispositivo Android?
+Si usas Android, puedes realizar todos los cambios en los ajustes táctiles en un iPhone en [https://airreps.info/iossettings](https://airreps.info/iossettings). Estos cambios deberían trasladarse a tu Android, aunque a veces esto no funciona. Algunos fabricantes también tienen [sus propias apps para Android](/es/useful-apps) que permiten cambiar estos ajustes y más en dispositivos Android.
 :::
 
-## Sensores En El Oído
+## Sensores intraaurales
 
-Los sensores en el oído en las réplicas pausan la música casi instantáneamente (alrededor de 1 segundo de retraso*) cuando se retiran de los oídos. El sonido de "bip" al insertar los AirPods coincide estrechamente con el sonido original de Apple en la mayoría de los modelos actuales.
+Los sensores intraaurales de las réplicas pausan la música casi al instante (aproximadamente 1 segundo de retraso*) cuando se retiran de los oídos. El sonido de "pitido" al insertar los AirPods coincide estrechamente con el sonido original de Apple en la mayoría de los modelos actuales.
 
-## Controles Táctiles y de Presión
+## Controles táctiles y Force Touch
 
-Los controles táctiles o controles Force Touch en las réplicas son funcionales pero pueden requerir algo de práctica. Para réplicas de 2da generación, se requiere un toque firme, no un toque suave como en los AirPods originales. Para modelos Pro, solo se necesita un empuje ligero o apretón, no un toque.
-:::info **Dato Curioso**
-Las réplicas de AirPods Pro 2 (V5.3TB y más nuevas) incluyen una configuración del sensor de fuerza que coincide estrechamente con los originales, proporcionando la misma experiencia a un costo mucho menor.
+Los controles táctiles o Force Touch en las réplicas son funcionales, pero pueden requerir algo de práctica. En las réplicas de 2.ª generación se requiere un toque firme, no un toque suave como en los AirPods originales. En los modelos Pro, solo se necesita una ligera pulsación o apretón, no un toque.
+:::info **Dato curioso**
+Las réplicas de AirPods Pro 2 (V5.3TB y posteriores) cuentan con una configuración del sensor de fuerza que se aproxima mucho a los originales, ofreciendo la misma experiencia a un coste mucho menor.
 :::
+## Calidad del micrófono
 
-## Calidad del Micrófono
-
-La calidad del micrófono en las réplicas es utilizable y es muy comparable a la de los AirPods originales. Son suficientes para llamadas, pero al igual que los Apple AirPods, no son nada impresionantes debido a su pequeño factor de forma. Para más información sobre el rendimiento de audio, consulta la sección de [calidad de sonido](/es/introduction/sound-quality).
+La calidad del micrófono en las réplicas es utilizable y muy comparable a la de los AirPods originales. Son suficientemente buenos para llamadas, pero al igual que los AirPods de Apple, no son nada impresionante debido a su pequeño formato. Para más sobre el rendimiento de audio, consulta la sección de [calidad de sonido](/es/introduction/sound-quality).
 
 ::: tip
-Las últimas réplicas de AirPods Pro 2 (V5.4 y V5.3 Huilian, HR & TB) tienen calidad de micrófono comparable a los AirPods originales.
+Las últimas réplicas de AirPods Pro 2 (V5.4 y V5.3 Huilian, HR & TB) tienen una calidad de micrófono comparable a la de los AirPods originales.
 :::

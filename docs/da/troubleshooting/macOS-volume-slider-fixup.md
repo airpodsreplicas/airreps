@@ -1,97 +1,96 @@
 ---
-title: Lydstyrkeskyderen virker ikke på macOS
-description: Ret problemet med macOS-lydstyrkeskyderen på Intel-Macs. En simpel løsning til at få kontrol over din lydudgang tilbage.
+title: Lydstyrkeskyder er Ineffektiv på macOS
+description: Ret problemet med macOS-lydstyrkeskyderen på Intel Macs. En enkel løsning til at genvinde kontrollen over din lydudgang.
 ---
+# The Problem: Volume Slider Bar won't work.
 
-# Problemet: Lydstyrkeskyderen virker ikke.
-
-Dette er et af de mest kendte problemer på **Intel**-versionen af macOS, hvor lydstyrkeskyderen, der kontrollerer lydstyrken, simpelthen ikke virker, men kun fungerer som en kontakt (sker for de fleste kopier derude, selvom nogle ikke er påvirket). Mens Apple selv aldrig ville undersøge problemet, kan vi omgå dette med et [open source-værktøj](https://github.com/briankendall/proxy-audio-device).
+This is one of the most well-known problems on the **Intel** version of macOS, where the volume slider bar that controls audio volume simply won't work, but only acts as a switch (it affects most replicas, though some are unaffected). While Apple themselves would never look into the problem, we can circumvent this with an [open sourced tool](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Denne guide er beregnet til dem, der har Intel-baserede Mac'er (i3, i5, i7; ikke M-serie chip). Hvis din Apple Silicon (M-serie chip) Mac ikke afspiller lyd med dine nuværende AirReps, tjek [Common Bugs](/da/troubleshooting/other-common-bugs) sektionen.
+Denne vejledning er beregnet til dem, der har Intel-baserede Macs (i3, i5, i7; ikke M series chip). Hvis din Apple Silicon (M series chip) Mac ikke afspiller lyd med dine nuværende AirReps, tjek venligst sektionen [Almindelige fejl](/da/troubleshooting/other-common-bugs).
 :::
 
-## **Forudsætninger**
+## **Prerequisite**
 
-Før tutorialen, sørg venligst for at du:
-- Har `sudo`-adgang (eller din macOS-konto har administrativ adgang)
-- `brew` pakkehåndtering (hvis ikke, følg blot denne [sektion](#brew-installation))
+Before the tutorial, please make sure that you:
+- Have `sudo` access (your macOS account must have administrative access)
+- Have the `brew` package installer (if not, follow this [section](#brew-installation))
 
 :::tip
-PS: at bruge `brew` er meget nemmere end manuel installation, men hvis du vil springe over at bruge `brew`, kan du læse dette og følge trinene [her](https://github.com/briankendall/proxy-audio-device#manual-installation).
+PS: using `brew` is much easier than manual installation, but if you want to skip using `brew`, you can read this and follow the steps [here](https://github.com/briankendall/proxy-audio-device#manual-installation).
 :::
 
 ## **`brew` Installation**
 
-Hvis du ikke har fået `brew` installeret på dit system, kan vi starte her. Gå ind på [denne](https://brew.sh/) side, kopier kommandoen og kør den i Terminal.
+If you haven't got `brew` installed on your system, we can start here. Enter [this](https://brew.sh/) page, copy the command and run it in Terminal.
 
-<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation ved hjælp af Terminal"></video>
+<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation via Terminal"></video>
 
 :::warning
-Du kan blive bedt om at indtaste din adgangskode, gå videre og indtast din adgangskode som normalt (din adgangskode kan se ud som om den er skjult, men det er den ikke i dette tilfælde).
+You might be prompted to enter your password, go ahead and enter your password as usual (your password might look like it's hidden, but it's not in this case).
 :::
 
 ## **Installation**
 
 ### **Download**
-Når alt er klar, kan du starte med at åbne Terminal, kør derefter følgende kommando:
+Once everything is ready, you can start by opening Terminal, then run the following command:
 `brew install --cask proxy-audio-device`
 
 <video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="installer proxy-audio-device"></video>
 
 :::tip
-Under installation er det normalt, at systemlyden glitcher lidt. Så sørg for at du gør dette i et miljø uden lydbehandling (ingen lydmanipulationssoftware kører).
+While installing, it's normal for the system audio to glitch a little. So do this while no audio is playing or being edited (no audio-manipulation software running).
 :::
 
-### **Opsætning**
-1. Naviger til Launchpad, kør den nyinstallerede `Proxy Audio Device Settings` for at begynde opsætningsprocessen, den vil se nogenlunde sådan ud:
+### **Setting Up**
+1. Navigate to Launchpad, run the newly installed `Proxy Audio Device Settings` to begin the setup process, it will look something like this:
 
 ![appens ikon](/volume_fix/app_icon.png)
 
-2. Når den åbnes, vises et vindue som dette.
+2. Once open, a window will show up like so.
 
-![appens brugerflade](/volume_fix/app_window.png)
+![appens UI](/volume_fix/app_window.png)
 
-Bliv ikke fristet til at klikke væk fra denne tutorial, de fleste mennesker som dig kan sætte dem op sådan:
+Don't be tempted to click off this tutorial, most people like you can set them up like so:
 
-- `Proxy device name`: Navn på outputtet, du kan lade dem være som de er.
-- `Proxied device`: Lydkilde (vælg dit AirReps navn)
-- `Buffer size`: Tilladt tid for macOS at behandle lyd (forsimplet) (lad dem venligst **være som de er**, da 512 er tilstrækkeligt for de fleste)
-- `Proxy device is active`: Hvordan softwaren arbejder i baggrunden. Det er her det bliver svært, men det koger ned til disse muligheder:
-    + Hvis du ikke har noget imod lydafbrydelser (korte lydvarighed), vælg `When proxied device is active`
-    + For de fleste mennesker, vælg `When user is not idle`
-    + For folk der vil have konsistent lyd, eller gaming, vælg `Always`.
+- `Proxy device name`: Name of the output; you can leave it as is.
+- `Proxied device`: Audio source (select your AirRep's name)
+- `Buffer size`: Permitted time for macOS to process audio (oversimplified) (please **leave it as is**, as 512 is sufficient for most users)
+- `Proxy device is active`: How the software works in the background. This is where it gets tricky, but it boils down to these options:
+    + If you don't mind the audio cutting off (short-duration sounds), pick `When proxied device is active`
+    + For most people, pick `When user is not idle`
+    + For people who want consistent audio, or gaming, pick `Always`.
 
-3. Til sidst, naviger til Control Center > Sound > the ">" icon, og vælg den nyoprettede lydenhed (`Proxy Audio Device` som standard).
+3. Finally, navigate to Control Center > Sound > the ">" icon, and pick the newly created audio device (`Proxy Audio Device` by default).
 
-<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="vælg lydenhed"></video>
+<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="vælg lyd-enhed"></video>
 
 
-## **Bivirkninger**
+## **Side-effects**
 
-Selvom det er fint at bruge det meste af tiden, kan nogle brugere opleve disse problemer:
-::: details Intet "Sounds" ikon på topbjælken
-Desværre skal du navigere til Control Center for at kontrollere lyden (eller bruge en tastaturgenvej).
+While it is fine to use most of the time, some users might face these issues:
+::: details Ingen "Sounds"-ikon på topbjælken
+Unfortunately, you have to navigate to Control Center to control the audio (or use a keyboard shortcut).
 :::
 
-:::details Ingen lyd ved frakobling
-Appen er kun designet til altid at hænge fast på den valgte enhed. Du skal manuelt genvælge "Internal Speaker".
+:::details Ingen lyd, når enheden afbrydes
+The app is only designed to always hook on the picked device. You have to manually re-select "Internal Speaker".
 :::
 
-:::details Knitren/pop eller ensidet lyd
-Du kan undgå dette ved at øge bufferstørrelsen eller vælge `Always` i `Proxy device is active`-indstillingen i appen.
+:::details Knæk/pop eller ensidig lyd
+You can get around this by increasing the buffer size, or picking `Always` in the `Proxy device is active` option of the app.
 :::
 
-## **Afinstallation**
+## **Uninstalling**
 
-Hvis du ønsker at fjerne appen, kan du blot køre denne kommando i Terminal:
+If you wish to remove the app, you can simply run this command in the Terminal:
 
 `brew remove --cask proxy-audio-device`
 
-...genstart derefter dit system.
+...then restart your system.
 
-## **Valgfrit: Undersøgelse**
+## **Optional: Survey**
 
-Jeg har lavet en afstemning [her](http://poll-maker.com/poll5643879x05fb4568-166) for at finde ud af om denne løsning faktisk virker. Det er utroligt simpelt at gøre, og det hjælper meget med at få et helt billede af denne løsning, jeg ville sætte stor pris på, hvis du deler dine tanker!
+I've made a poll [here](http://poll-maker.com/poll5643879x05fb4568-166) to figure out if this workaround is actually working. It's incredibly simple to do, and it helps a lot to get a full picture of this workaround. I'd really appreciate it if you shared your thoughts!
 
-[![afstemning](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)
+[![poll](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)

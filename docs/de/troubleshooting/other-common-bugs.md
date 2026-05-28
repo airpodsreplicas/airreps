@@ -1,58 +1,58 @@
 ---
-description: "Fehlerbehebung für häufige Probleme mit AirPods Replicas: Konnektivität, Audio-Pausen, Reset-Verfahren und Hardware-Prüfungen."
+title: AirPods Replica Häufige Probleme & Lösungen
+description: 'Leitfaden zur Fehlerbehebung bei häufigen Problemen mit AirPods-Kopien: Konnektivität, Tonunterbrechungen, Zurücksetzverfahren und Hardware-Prüfungen.'
 ---
-
 # **Häufige Probleme**
 
 ::: tip
-Die meisten neueren Modelle, die über die [vertrauenswürdigen Verkäufer](/de/links/info) verkauft werden, haben diese Probleme längst behoben. Wenn du Probleme hast, stelle sicher, dass du die neueste Version von einem verifizierten Verkäufer hast.
+Die meisten neueren Modelle, die über die [vertrauenswürdigen Verkäufer](/de/links/info) verkauft werden, haben diese Probleme schon lange behoben. Wenn Sie Probleme haben, stellen Sie sicher, dass Sie die neueste Version von einem verifizierten Verkäufer erhalten.
 :::
 
-## **Soft Reset für AirPods Replicas**
-Befolge diese Schritte, um einen Soft Reset deiner AirPods Replicas durchzuführen:
-![Soft Reset deiner AirPods](/airpodssoftreset.webp)
-- Vergiss dein Gerät in den Bluetooth-Einstellungen und schalte dann Bluetooth aus.
-- Öffne den Deckel und halte die Rücktaste einige Sekunden lang gedrückt, bis das Licht blinkt, und schließe dann den Deckel. Mach dir keine Sorgen, wenn dein Licht nicht genauso blinkt wie im Bild.
-- Warte eine volle Minute, schalte dann Bluetooth ein, öffne den Deckel und versuche, dich erneut zu verbinden.
-- Wenn es nicht funktioniert, nimm die Pods heraus und lege sie wieder ein. Schließe den Deckel und warte, bis das Licht ausgeht. Öffne ihn dann und versuche es erneut. Es können 3–4 **SOFT RESETS** nötig sein. Wenn es nicht funktioniert, versuche einen **HARD RESET** (siehe Bild unten)
+## **Soft Reset für AirPods-Replikate**
+Befolgen Sie diese Schritte, um einen Soft Reset an Ihren AirPods-Replikaten durchzuführen:
+![How to soft reset your AirPods](/airpodssoftreset.webp)
+- Entfernen Sie Ihr Gerät in den Bluetooth-Einstellungen („Dieses Gerät vergessen“), und schalten Sie dann Bluetooth aus.
+- Öffnen Sie den Deckel und halten Sie die Rücktaste einige Sekunden lang gedrückt, bis die LED blinkt, und schließen Sie dann den Deckel. Keine Sorge, wenn Ihre LED nicht genau wie im Bild blinkt.
+- Warten Sie eine volle Minute, schalten Sie dann Bluetooth ein, öffnen Sie den Deckel und versuchen Sie, die Verbindung wiederherzustellen.
+- Wenn es nicht funktioniert, nehmen Sie die Pods heraus und setzen Sie sie wieder ein. Schließen Sie den Deckel und warten Sie, bis die LED ausgeht. Öffnen Sie ihn dann und versuchen Sie es erneut. Es kann 3–4 **SOFT RESETS** dauern, bis es funktioniert. Wenn das nicht hilft, versuchen Sie einen **HARD RESET** (siehe Bild unten)
 
 ## **Hard Reset**
-Befolge diese Schritte, um einen Hard Reset deiner AirPods Replicas durchzuführen:
-- Vergiss dein AirPods-Gerät in den Bluetooth-Einstellungen.
-- Nimm die Pods für mehrere Stunden aus dem Case, damit der Akku vollständig entladen wird. Lass das Case offen. Es ist wichtig, dass keine Restladung verbleibt – lass sie also mindestens einen ganzen Tag oder bei Bedarf länger draußen.
-- Wenn der Akku entladen ist, lege die Pods wieder in das Case und lade das Case.
-- Führe nun einen **SOFT RESET** durch. Es können 3–4 **SOFT RESETS** nötig sein.
+Befolgen Sie diese Schritte, um einen Hard Reset an Ihren AirPods-Replikaten durchzuführen:
+- Entfernen Sie die AirPods in den Bluetooth-Einstellungen („Dieses Gerät vergessen“).
+- Nehmen Sie die Pods für mehrere Stunden aus dem Case, damit der Akku vollständig entladen wird. Lassen Sie das Case offen. Es ist wichtig, dass keine Restladung verbleibt, lassen Sie es daher mindestens einen ganzen Tag oder länger draußen, falls erforderlich.
+- Sobald es entladen ist, setzen Sie die Pods wieder in das Case und laden Sie das Case auf.
+- Führen Sie nun einen **SOFT RESET** durch. Es kann 3–4 **SOFT RESETS** dauern, bis es funktioniert.
 
-## **AirPods Replicas öffnen**
-Es kann vorkommen, dass du falsch beworbene AirPods-Klone erhältst, wenn du auf Websites wie AliExpress bei unverifizierten Verkäufern bestellst. Du kannst die App für den Chipsatz verwenden, um zu überprüfen, ob du den richtigen Chipsatz erhalten hast. Oft reicht es jedoch nicht als Beweis, nur die App zu zeigen. Möglicherweise musst du die AirPods öffnen und ein Foto des Chipsatzes als Beweis machen. So kannst du das tun, ohne die AirPods zu beschädigen:
+## **Öffnen von AirPods-Replikaten**
+Beim Bestellen auf Seiten wie AliExpress von nicht verifizierten Verkäufern können falsch beworbene AirPods-Klone ankommen. Sie können die App für den Chipset verwenden, um zu prüfen, ob Sie den richtigen Chip erhalten haben. Allerdings reicht das Zeigen der App oft nicht als Beweis aus. Möglicherweise müssen Sie die AirPods öffnen und ein Foto des Chipsets als Nachweis machen. So können Sie das tun, ohne die AirPods zu beschädigen:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
-## **Audio/Video pausiert häufig bei AirPods Replicas**
-Häufiges Pausieren von Audio oder Video bei der Verwendung von AirPods Replicas ist ein verbreitetes Problem, das oft durch die [In-Ear-Erkennungssensoren](/de/introduction/features#in-ear-sensors) verursacht wird (bei Pro-Modellen). Dieses Problem kann auch auftreten, wenn die AirPods nicht sicher im Ohr sitzen. Um dieses Problem zu beheben, kannst du entweder andere Ohrstöpsel verwenden (bei Pro-Modellen) oder die In-Ear-Erkennung in den Einstellungen ausschalten.
+## **Audio/Video pausiert häufig bei AirPods-Replikaten**
+Häufiges Pausieren von Audio oder Video bei Nutzung von AirPods-Replikaten ist ein häufiges Problem, das oft durch die [In-Ear-Erkennungssensoren](/de/introduction/features#in-ear-sensors) (bei Pro-Modellen) verursacht wird. Dieses Problem kann auch auftreten, wenn die AirPods nicht fest im Ohr sitzen. Zur Behebung können Sie entweder andere Ohrstöpsel auswählen (bei Pro-Modellen) oder die In-Ear-Erkennung in den Einstellungen deaktivieren.
 
-## **AirPods Replicas bleiben nach dem Schließen des Ladecases verbunden**
-Einige Nutzer von AirPods Replicas erleben möglicherweise ein Problem, bei dem die AirPods auch nach dem Schließen des Ladecases mit ihrem Gerät verbunden bleiben. Dies wird typischerweise durch eine Fehlfunktion der Magnete und des Hall-Sensors im Case verursacht, die für die Erkennung der Position der AirPods verantwortlich sind. Um dieses Problem zu beheben, befolge die Schritte im folgenden YouTube-Tutorial:
+## **AirPods-Replikate bleiben nach Schließen des Ladecases verbunden**
+Einige Benutzer von AirPods-Replikaten erleben das Problem, dass die AirPods nach dem Schließen des Ladecases weiterhin mit ihrem Gerät verbunden bleiben. Dies wird typischerweise durch einen Defekt der Magnete und des Hall-Sensors im Case verursacht, die dafür verantwortlich sind, die Position der AirPods zu erkennen. Zur Behebung dieses Problems folgen Sie den Schritten im folgenden YouTube-Tutorial:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
-## **Schlechte Klangqualität oder Bass-Probleme bei AirPods Replicas auf iOS**
-Einige Nutzer von AirPods Replicas erleben möglicherweise Probleme mit der Klangqualität oder dem Bass auf iOS-Geräten. Dies wird typischerweise durch die Funktion „Kopfhöreranpassungen" verursacht, die auf iOS standardmäßig aktiviert ist. Um dieses Problem zu beheben, gehe zu Einstellungen > Bedienungshilfen > Audio / Visuell > Kopfhöreranpassungen und schalte es aus.
+## **Schlechte Klangqualität oder Bass-Probleme mit AirPods-Replikaten auf iOS**
+Einige Benutzer von AirPods-Replikaten können Probleme mit der Klangqualität oder dem Bass auf iOS-Geräten feststellen. Dies wird typischerweise durch die standardmäßig aktivierte Funktion „Headphone Accommodations“ verursacht. Zur Behebung gehen Sie zu Einstellungen > Bedienungshilfen > Audio/Visuell > Headphone Accommodations und schalten Sie sie aus.
 
-## **Kopplung bei AirPods Replicas zurücksetzen**
-Wenn du Probleme hast, dass nur einer deiner AirPods Replicas richtig funktioniert und der Pod jedes Mal langsam blinkt, wenn du das Ladecase öffnest, kannst du versuchen, die Kopplung zurückzusetzen. Dies ist ein einfacher Vorgang, der helfen kann, das Problem zu beheben. Um die Kopplung deiner AirPods Replicas zurückzusetzen, halte die Kopplungstaste auf der Rückseite 2–3 Sekunden lang gedrückt, während die Pods im Case sind.
+## **Kopplung zurücksetzen bei AirPods-Replikaten**
+Wenn nur einer Ihrer AirPods-Replikate nicht richtig funktioniert und die Kapsel jedes Mal beim Öffnen des Ladecases langsam blinkt, können Sie versuchen, die Kopplung zurückzusetzen. Dies ist ein einfacher Vorgang, der das Problem beheben kann. Halten Sie dazu die Rück-Kopplungstaste 2–3 Sekunden lang gedrückt, während sich die Pods im Case befinden.
 
-## **L/R-Ungleichgewicht beheben (Der einfache Weg)**
-Um die Links/Rechts-Lautstärkebalance auf einem iOS-Gerät anzupassen, gehe zu Einstellungen > Bedienungshilfen. Auf einem Android-Gerät befolge diese Schritte:
-- Öffne die Einstellungen-App und wähle Bedienungshilfen aus der Liste.
-- Scrolle auf dem Bedienungshilfen-Bildschirm zum Abschnitt Audio und Bildschirmtext.
-- Verwende den Schieberegler, um die Lautstärkebalance anzupassen, bis der Ton kalibriert klingt.
+## **L/R-Ungleichgewicht beheben (der einfache Weg)**
+Um die Lautstärke-Balance links/rechts auf einem iOS-Gerät anzupassen, gehen Sie zu Einstellungen > Bedienungshilfen. Auf einem Android-Gerät gehen Sie wie folgt vor:
+- Öffnen Sie die Einstellungen-App und wählen Sie in der Liste Bedienungshilfen aus.
+- Scrollen Sie auf dem Bildschirm Bedienungshilfen nach unten zum Abschnitt Audio und Bildschirminhalt.
+- Verwenden Sie den Schieberegler, um die Lautstärke-Balance anzupassen, bis der Ton ausgewogen klingt.
 
-## **Verbindung mit macOS nicht möglich**
-Um Verbindungsprobleme mit AirPods zu beheben, versuche folgende Schritte:
-- Vergiss die AirPods auf deinem iPhone (Dies scheint ein Problem mit iCloud Connect zu sein).
-- Versuche, die AirPods mit deinem Mac zu verbinden.
-- Wenn du keinen Ton hörst, wenn die AirPods verbunden sind, musst du sie möglicherweise zurücksetzen.
+## **Keine Verbindung zu macOS**
+Um Verbindungsprobleme mit AirPods zu beheben, versuchen Sie folgende Schritte:
+- Vergessen Sie die AirPods auf Ihrem iPhone (Dies scheint ein Problem mit iCloud Connect zu sein).
+- Versuchen Sie, die AirPods mit Ihrem Mac zu verbinden.
+- Wenn Sie keinen Ton hören, obwohl die AirPods verbunden sind, müssen Sie sie möglicherweise zurücksetzen.
 
-## **Nichts davon hat geholfen?**
-Es ist möglich, dass deine AirPods defekt angekommen sind oder irreparabel beschädigt wurden. Du kannst versuchen, Soft- und Hard-Resets durchzuführen, z. B. das Gerät eine Zeit lang nicht laden oder Musik abspielen, anstatt es zu vergessen, um das Problem zu beheben. Wenn keine dieser Methoden funktioniert, ist deine beste Option, den [Verkäufer](/de/introduction/sellers) zu kontaktieren und eine Rückerstattung oder einen Ersatz anzufordern. Prüfe auch unseren [iCloud-Kompatibilitätsfix](/de/troubleshooting/AirReps-Incompatibility-with-iCloud) und den [macOS-Lautstärkefix](/de/troubleshooting/macOS-volume-slider-fixup), falls diese auf deine Situation zutreffen.
+## **Keines davon hat geholfen?**
+Es ist möglich, dass Ihre AirPods defekt angekommen sind oder jetzt irreparabel beschädigt sind. Sie können versuchen, Soft- und Hard-Resets durchzuführen, z. B. das Gerät für eine Weile ungeladen zu lassen oder Musik abzuspielen statt es zu vergessen, um das Problem zu beheben. Wenn keine dieser Methoden funktioniert, ist Ihre beste Option, den [Verkäufer](/de/introduction/sellers) zu kontaktieren und eine Rückerstattung oder einen Ersatz anzufordern. Prüfen Sie auch unseren [iCloud-Kompatibilitätsfix](/de/troubleshooting/AirReps-Incompatibility-with-iCloud) und den [macOS-Lautstärke-Fix](/de/troubleshooting/macOS-volume-slider-fixup), falls diese auf Ihre Situation zutreffen.

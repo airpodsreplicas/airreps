@@ -1,10 +1,10 @@
 ---
-description: "Trusted seller links and purchase options for AirPods Pro 2 replicas."
+title: 'Comprar AirPods Pro 2 Réplicas: Links de Vendedores'
+description: Links confiáveis de vendedores e opções de compra para AirPods Pro 2 réplicas.
 ---
-
 # AirPods Pro 2
 
-#### Versões e Vendedores
+## Versões e Vendedores
 
 <table>
   <tr>
@@ -173,5 +173,5 @@ description: "Trusted seller links and purchase options for AirPods Pro 2 replic
 
 
 ::: tip
-Escolher um link do Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você deseja consolidar o envio com outros itens e está familiarizado com plataformas de agentes. Para um agente confiável, recomendamos o [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Confira nosso [guia de pedidos do KakoBuy](/pt/ordering/kakobuy).
+A escolha de um link Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você desejar consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Não conhece agentes? Consulte o nosso [Guia de pedidos KakoBuy](/pt/ordering/kakobuy).
 :::

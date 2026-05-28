@@ -1,31 +1,31 @@
 ---
-description: Ses kalitesi değerlendirmeleri, EQ ayarları ve AirPods replikaları için gerçekçi beklentiler.
+title: AirPods Replika Ses Kalitesi
+description: 'Ses kalitesi puanları, EQ ayarları ve AirPods replikaları için gerçekçi beklentiler.'
 ---
-
 # Ses Kalitesi
 
-AirPods replikalarının ses kalitesini değerlendirmek, orijinal AirPods'a göre performanslarını belirlemenize yardımcı olabilir.
+AirPods kopyalarının ses kalitesini değerlendirmek, orijinal AirPods ile karşılaştırıldığında performanslarını belirlemenize yardımcı olabilir.
 
-## Ses Kalitesi Puanı
+## Ses Kalitesi Derecelendirmesi
 
-En iyi yaygın olarak bulunan AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2 ve AirPods Pro 3 replikaları, orijinal AirPods ile karşılaştırıldığında ses kalitesinde yaklaşık 8-9/10 puan almaktadır.
+En yaygın olarak bulunan en iyi AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2 ve AirPods Pro 3 kopyaları, orijinal AirPods ile karşılaştırıldığında ses kalitesinde yaklaşık 8-9/10 puan alır.
 
-::: details AirPods Pro, AirPods 4'ten daha mı iyi ses verir?
-AirPods Pro kulağa oturduğu için, dış gürültünün girmesine izin verecek şekilde tasarlanmış AirPods 2/3'e kıyasla önemli ölçüde daha iyi ses verebilir. Tercih edilen şekil ve uyumu seçmen önerilir.
+::: details AirPods Pro, AirPods 4'ten daha iyi mi ses veriyor?
+AirPods Pro kulak kanalını daha iyi kapattığı için, dış sesi içeri almaya yönelik tasarlanmış AirPods 2/3'e kıyasla önemli ölçüde daha iyi ses çıkarabilir. Tercih ettiğiniz şekil ve uyumu seçmeniz önerilir.
 :::
 
-## Ses Kalitesi Farklılıkları
+## Ses Kalitesindeki Değişkenlikler
 
-Ses kalitesi [versiyon, çip](/tr/version-info/general) ve partiye bağlı olarak değişebilir. Birçok model baskın olmadan bası vurgular. Orta tonlar belirgindir ancak tiz tonlar iyileştirilebilir. EQ'nun satıcıya göre değişebileceğini ve müzik çalarının ayarlarını veya üretici uygulamalarını kullanarak ayarlayabileceğini unutma - indirme linkleri için [faydalı uygulamalar](/tr/useful-apps) sayfasına bak.
+Ses kalitesi [sürüm, çip](/tr/version-info/general) ve üretim partisine bağlı olarak değişebilir. Birçok model basları abartmadan vurgular. Orta tonlar belirgindir, ancak tizler geliştirilebilir. EQ'nun satıcıya göre değişebileceğini unutmayın; müzik oynatıcınızın ayarları veya üretici uygulamaları aracılığıyla ayarlayabilirsiniz — indirme bağlantıları için [faydalı uygulamalar](/tr/useful-apps) sayfasına bakın.
 
 ::: tip
-EQ satıcıya göre değişebilir. Sırasıyla **TigerBuilder**, **HR** ve **Huilian** cihazları için **FlyCC**, **BullSuper** veya **Starfun** kullanarak ayarlayabilirsin.
+EQ satıcıya göre değişebilir. TigerBuilder, HR ve Huilian cihazları için sırasıyla **FlyCC**, **BullSuper** veya **StarFun** kullanarak ayarlayın.
 :::
 
 ## Özel EQ Ayarları
 
-AirPods replikalarının sesinden memnun değilsen [Discord sunucumuza](https://airreps.link/discord) katıl. Birçok topluluk üyesi kendi EQ ayarlarını paylaşır ve bunlar tercih ettiğin bir sese ulaşmana yardımcı olabilir. Bu hazır ayarların çoğunu **#help-and-advice** kanalında sabitlenmiş olarak bulabilirsin.
+AirPods kopyalarınızın sesinden memnun değilseniz, [Discord sunucumuza](https://airreps.link/discord) katılın. Birçok topluluk üyesi kendi EQ ayarlarını paylaşır; bu ayarlar size daha uygun bir ses elde etmenizde yardımcı olabilir. Bu ön ayarların çoğunu **#help-and-advice** kanalında sabitlenmiş olarak bulacaksınız.
 
 ## Gecikme
 
-Gecikme, versiyona bağlı olarak yaklaşık 50-150 ms arasındadır ve neredeyse fark edilmez. Referans olarak, orijinal AirPods'un gecikmesi 140-200 ms arasındadır.
+Gecikme sürüme göre yaklaşık 50-150 ms arasındadır, pek farkedilmiyor. Referans olarak, orijinal AirPods'un gecikmesi 140-200 ms arasındadır.

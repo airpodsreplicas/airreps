@@ -1,56 +1,56 @@
 ---
-description: "Packaging types explained: No-logo, Apple Logo, and Double/Decoy boxes. Risks and quality details."
+title: Emballages & Boîtes de Répliques d'AirPods
+description: 'Types d''emballage expliqués : sans logo, logo Apple et boîtes doubles/leurres. Risques et détails sur la qualité.'
 ---
-
 # Emballage
 
-Les répliques d'AirPods sont livrées dans différents types d'emballage, chacun avec ses propres caractéristiques et risques potentiels.
+Les répliques d'AirPods sont livrées dans différents types d'emballage, chacun avec ses caractéristiques et risques potentiels.
 
-## Boîte Sans Logo
+## Boîte sans logo
 
-La boîte sans logo est blanche et a une forme similaire à la boîte originale des AirPods. Elle présente une image d'AirPods mais ne comporte pas le texte « AirPods », les logos Apple ou les marques déposées. Le manuel inclus et le câble de charge sont génériques, sans les numéros de série typiquement trouvés sur l'emballage des AirPods originaux.
+La boîte sans logo est blanche et a une forme similaire à celle de la boîte originale des AirPods. Elle présente une image des AirPods mais ne comporte pas le texte "AirPods", les logos Apple, ni les marques déposées. Le manuel et le câble de charge inclus sont génériques, sans les numéros de série généralement présents sur l'emballage des AirPods originaux.
 
-<img src="/nologobox.webp" alt="Boîte Sans Logo" width="300" height="400"/>
+<img src="/nologobox.webp" alt="Boîte sans logo" width="300" height="400"/>
 
 ::: warning
-Si vous commandez via un lien **Alibaba**, vos répliques seront **toujours** expédiées dans une boîte neutre sans logo pour éviter les saisies en douane et les poursuites pour atteinte au droit d'auteur. Les boîtes portant la marque Apple ne sont pas disponibles via Alibaba.
+Si vous commandez via un lien **Alibaba**, vos répliques seront **toujours** expédiées dans une boîte neutre sans logo pour éviter les saisies douanières et les actions pour violation du droit d'auteur. Les boîtes marquées Apple ne sont pas disponibles via Alibaba.
 :::
 
 
-## Boîte avec Logo Apple
+## Boîte avec logo Apple
 
-La boîte avec logo Apple reproduit l'emballage des AirPods légitimes, présentant le texte traditionnel « AirPods » et les logos Apple. Les manuels et le câble de charge à l'intérieur portent les marquages Apple. Cependant, demander une « boîte Apple » pourrait augmenter le risque de saisie du produit à la douane, entraînant des amendes ou la destruction du produit. Pour atténuer ce risque, de nombreux vendeurs utilisent une technique de double boîte, cachant la vraie boîte Apple à l'intérieur d'une boîte générique en forme d'écouteurs.
+La boîte avec logo Apple reproduit l'emballage des AirPods légitimes, avec le texte traditionnel "AirPods" et les logos Apple. Les manuels et le câble de charge à l'intérieur portent des marquages Apple. Cependant, demander une "boîte Apple" peut augmenter le risque de saisie du produit par les douanes, entraînant des amendes ou la destruction du produit. Pour réduire ce risque, de nombreux vendeurs utilisent une technique de double boîte, cachant la véritable boîte Apple à l'intérieur d'une boîte générique en forme d'écouteurs.
 
-<img src="/applebox.webp" alt="Boîte avec Logo Apple" width="300" height="400"/>
+<img src="/applebox.webp" alt="Boîte avec logo Apple" width="300" height="400"/>
 
 ::: danger
-Demander une « boîte Apple » peut entraîner la saisie du produit à la douane. De nombreux vendeurs utilisent une technique de double boîte pour réduire ce risque.
+Demander une "boîte Apple" peut entraîner la saisie du produit par les douanes. De nombreux vendeurs utilisent une technique de double boîte pour réduire ce risque.
 :::
 
-## Boîte Double/Leurre
+## Double/Boîte leurre
 
-La meilleure option pour la plupart des acheteurs. Une boîte extérieure générique qui ressemble à des écouteurs ordinaires, avec la Boîte avec Logo Apple cachée à l'intérieur. Cela réduit sensiblement le risque de saisie en douane tout en vous offrant l'emballage complet marqué Apple.
+La meilleure option pour la plupart des acheteurs. Une boîte extérieure générique qui ressemble à des écouteurs ordinaires, avec la boîte Apple cachée à l'intérieur. Cela réduit considérablement le risque de saisie par les douanes tout en vous offrant l'emballage complet marqué Apple.
 
-Lorsque vous sélectionnez la Boîte avec Logo Apple lors du paiement, la boîte double est automatiquement incluse — les vendeurs expédient toujours les boîtes Apple à l'intérieur d'une boîte leurre pour la protection. L'option boîte Apple est pré-sélectionnée sur la plupart des méthodes de paiement, bien que certaines puissent facturer un petit supplément. Si vous commandez via **Alibaba**, la boîte Apple/double n'est **pas disponible** — vous recevrez toujours une boîte sans logo.
+Lorsque vous sélectionnez la Boîte avec logo Apple au moment du paiement, la double boîte est automatiquement incluse — les vendeurs expédient toujours les boîtes Apple à l'intérieur d'une boîte leurre pour protection. L'option boîte Apple est présélectionnée sur la plupart des moyens de paiement, bien que certains puissent facturer un petit supplément. Si vous commandez via **Alibaba**, la boîte Apple/double n'est **pas disponible** — vous recevrez toujours une boîte sans logo.
 
-<img src="/doublebox.webp" alt="Boîte Double/Leurre" width="300" height="400"/>
+<img src="/doublebox.webp" alt="Double/Boîte leurre" width="300" height="400"/>
 
 ::: tip
-La boîte Apple (qui est toujours livrée en boîte double) est généralement pré-sélectionnée lors du paiement. Vérifiez bien qu'elle est cochée avant de finaliser votre commande.
+La boîte Apple (qui est toujours fournie en double boîte) est généralement présélectionnée au moment du paiement. Vérifiez bien qu'elle est cochée avant de finaliser votre commande.
 :::
 
-## Qualité de la Boîte
+## Qualité de la boîte
 
-La qualité de la boîte peut aller de bien faite avec du texte correctement embossé et des étiquettes alignées, à une qualité inférieure ou négligée. Si la qualité de la boîte vous importe, demandez des photos au vendeur avant d'effectuer un achat.
+La qualité de la boîte peut varier, allant d'une fabrication soignée avec des textes embossés correctement et des étiquettes alignées, à une qualité inférieure ou bâclée. Si la qualité de la boîte compte pour vous, demandez des photos au vendeur avant d'acheter.
 
 ::: tip
 Demandez toujours des photos si la qualité de la boîte est importante pour vous.
 :::
 
-## Manipulation et Expédition
+## Manutention et expédition
 
-La boîte ou l'emballage peut arriver légèrement cabossé ou froissé en raison de la manipulation par les transporteurs internationaux et locaux, pas le vendeur. Pour des conseils sur le processus de commande et les attentes d'expédition, consultez [comment acheter](/fr/ordering/how-to-buy).
+La boîte ou l'emballage peut arriver légèrement bosselé ou froissé en raison de la manutention par les coursiers internationaux et locaux, et non du vendeur. Pour des conseils sur le processus de commande et les attentes en matière d'expédition, voir [comment acheter](/fr/ordering/how-to-buy).
 
-## Câble de Charge
+## Câble de charge
 
-Le câble de charge inclus peut ne pas supporter le transfert de données comme beaucoup d'autres câbles USB. Les [vendeurs](/fr/introduction/sellers) utilisent souvent des câbles avec des broches factices au lieu de vraies broches fonctionnelles pour réduire les coûts.
+Le câble de charge inclus peut ne pas prendre en charge le transfert de données comme beaucoup d'autres câbles USB. [Vendeurs](/fr/introduction/sellers) utilisent souvent des câbles avec broches factices au lieu de vraies broches fonctionnelles pour réduire les coûts.

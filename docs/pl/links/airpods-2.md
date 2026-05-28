@@ -1,10 +1,10 @@
 ---
-description: "Trusted seller links and purchase options for AirPods 2 replicas."
+title: 'Kup Repliki AirPods 2: Linki Sprzedawców'
+description: Zaufane linki do sprzedawców i opcje zakupu replik AirPods 2.
 ---
-
 # AirPods 2
 
-#### Wersje i Sprzedawcy
+## Wersje i sprzedawcy
 
 <table>
   <tr>
@@ -40,5 +40,5 @@ description: "Trusted seller links and purchase options for AirPods 2 replicas."
 
 
 ::: tip
-Wybór linku Weidian wymaga użycia agenta do wysyłki. Polecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy).
+Wybranie linku do Weidian wymaga użycia agenta do wysyłki. Zalecamy tę opcję tylko wtedy, gdy chcesz skonsolidować wysyłkę z innymi przedmiotami i jesteś zaznajomiony z platformami pośredników. Dla zaufanego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nie znasz agentów? Sprawdź nasz [Przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy).
 :::

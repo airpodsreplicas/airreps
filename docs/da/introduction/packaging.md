@@ -1,55 +1,56 @@
 ---
-description: "Packaging types explained: No-logo, Apple Logo, and Double/Decoy boxes. Risks and quality details."
+title: AirPods Kopi Emballage & Æsker
+description: 'Emballagetyper forklaret: Uden-logo, Apple Logo, og Dobbelt-/Afledningsæsker. Risici og kvalitetsdetaljer.'
 ---
-
 # Emballage
 
-AirPods-kopier kommer i forskellige typer emballage, hver med sine egne unikke funktioner og potentielle risici.
+AirPods-replikaer kommer i forskellige typer emballage, hver med sine egne karakteristika og potentielle risici.
 
-## No-Logo Æske
+## No-logo-boks
 
-No-logo æsken er hvid og har en lignende form som den originale AirPods-æske. Den viser et billede af AirPods, men mangler "AirPods" teksten, Apple-logoer eller varemærker. Den medfølgende manual og opladerkabel er generiske, uden de serienumre, der typisk findes på original AirPods-emballage.
+No-logo-boksen er hvid og har en lignende form som den originale AirPods-boks. Den viser et billede af AirPods, men mangler teksten "AirPods", Apple-logoer eller varemærker. Den medfølgende manual og opladningskabel er generiske og uden de serienumre, der normalt findes på original AirPods-emballage.
 
-<img src="/nologobox.webp" alt="No-Logo Æske" width="300" height="400"/>
+<img src="/nologobox.webp" alt="Boks uden logo" width="300" height="400"/>
 
 ::: warning
-Hvis du bestiller ved hjælp af et **Alibaba**-link, vil dine replikaer **altid** blive sendt i en neutral kasse uden logo for at undgå toldbeslaglæggelser og ophavsretsstrejker. Apple-brandede kasser er ikke tilgængelige via Alibaba.
+Hvis du bestiller via et **Alibaba**-link, vil dine replikaer **altid** blive sendt i en neutral No-logo-boks for at undgå toldkonfiskation og krænkelse af ophavsret. Apple-brandede bokse er ikke tilgængelige gennem Alibaba.
 :::
 
-## Apple Logo Æske
 
-Apple logo-æsken afspejler emballagen af ægte AirPods med den traditionelle "AirPods" tekst og Apple-logoer. Manualerne og opladerkablet indeni bærer Apple-mærkning. Dog kan anmodning om en "Apple-æske" øge risikoen for produktbeslaglæggelse i tolden, hvilket kan føre til bøder eller ødelæggelse af produktet. For at mindske denne risiko bruger mange sælgere en dobbelt-æske teknik, hvor den faktiske Apple-æske skjules inde i en generisk hovedtelefonformet æske.
+## Apple-logoboks
 
-<img src="/applebox.webp" alt="Apple Logo Æske" width="300" height="400"/>
+Apple-logoboksen efterligner emballagen fra legitime AirPods og indeholder den traditionelle "AirPods"-tekst og Apple-logoer. Manualerne og opladningskablet indeni bærer Apple-mærkning. At anmode om en "Apple-boks" kan dog øge risikoen for konfiskation i tolden, hvilket kan føre til bøder eller destruktion af produktet. For at mindske denne risiko bruger mange sælgere en dobbeltboks-teknik, hvor den virkelige Apple-boks skjules inde i en generisk hovedtelefonformet boks.
+
+<img src="/applebox.webp" alt="Apple-logoboks" width="300" height="400"/>
 
 ::: danger
-Anmodning om en "Apple-æske" kan føre til produktbeslaglæggelse i tolden. Mange sælgere bruger en dobbelt-æske teknik for at reducere denne risiko.
+At anmode om en "Apple-boks" kan føre til konfiskation i tolden. Mange sælgere bruger en dobbeltboks-teknik for at reducere denne risiko.
 :::
 
-## Dobbelt/Lokkefugl Æske
+## Dobbelt-/afledningsboks
 
-Det bedste valg for de fleste købere. En generisk ydre æske, der ligner almindelige øretelefoner, med Apple Logo Æsken skjult indeni. Dette reducerer risikoen for toldbeslaglæggelse markant, mens du stadig får den fulde Apple-brandede emballage.
+Den bedste mulighed for de fleste købere. En generisk ydre boks, der ligner almindelige øretelefoner, med Apple-logo-boksen skjult indeni. Dette reducerer betydeligt risikoen for toldkonfiskation, samtidig med at du får den fulde Apple-brandede emballage.
 
-Når du vælger Apple Logo Æsken ved kassen, er dobbelt-æsken automatisk inkluderet — sælgere sender altid Apple-æsker inde i en lokkefugl-æske til beskyttelse. Apple-æske muligheden er forvalgt på de fleste betalingsmetoder, selvom nogle kan opkræve et lille ekstragebyr. Hvis du bestiller via **Alibaba**, er Apple/dobbelt-æske **ikke tilgængelig** — du modtager altid en No-Logo æske.
+Når du vælger Apple-logoboks ved kassen, er dobbeltboksen automatisk inkluderet — sælgere sender altid Apple-bokse indeni en afledningsboks for beskyttelse. Apple-boks-muligheden er forudvalgt på de fleste betalingsmetoder, selvom nogle kan opkræve et lille ekstra gebyr. Hvis du bestiller gennem **Alibaba**, er Apple/dobbeltboks **ikke tilgængelig** — du vil altid modtage en No-logo-boks.
 
-<img src="/doublebox.webp" alt="Dobbelt/Lokkefugl Æske" width="300" height="400"/>
+<img src="/doublebox.webp" alt="Dobbelt-/afledningsboks" width="300" height="400"/>
 
 ::: tip
-Apple-æske (som altid kommer som en dobbelt-æske) er normalt forvalgt ved kassen. Dobbelttjek at den er markeret, før du gennemfører din ordre.
+Apple-boks (som altid kommer som en dobbeltboks) er normalt forudvalgt ved kassen. Tjek altid, at den er markeret, inden du afslutter din ordre.
 :::
 
-## Æskekvalitet
+## Bokskvalitet
 
-Æskens kvalitet kan variere fra vellavet med korrekt præget tekst og justerede etiketter til lavere kvalitet eller sjusket. Hvis æskekvaliteten er vigtig for dig, bed sælgeren om fotos, før du foretager et køb.
+Boksens kvalitet kan variere fra veludført med korrekt præget tekst og justerede labels til lavere kvalitet eller sjusket udførelse. Hvis bokskvaliteten betyder noget for dig, så bed sælgeren om fotos, før du køber.
 
 ::: tip
-Bed altid om fotos, hvis kvaliteten af æsken er vigtig for dig.
+Bed altid om fotos, hvis bokskvaliteten er vigtig for dig.
 :::
 
-## Håndtering og Forsendelse
+## Håndtering og forsendelse
 
-Æsken eller emballagen kan ankomme let bulet eller foldet på grund af håndtering af internationale og lokale kurerer, ikke sælgeren. For tips om bestillingsprocessen og forsendelsesforventninger, se [sådan køber du](/da/ordering/how-to-buy).
+Boksen eller emballagen kan ankomme let bulet eller krøllet som følge af håndtering af internationale og lokale kurerer, ikke sælgeren. For tips om bestillingsprocessen og forsendelsesforventninger, se [sådan køber du](/da/ordering/how-to-buy).
 
-## Opladerkabel
+## Opladningskabel
 
-Det medfølgende opladerkabel understøtter muligvis ikke dataoverførsel som mange andre USB-kabler. [Sælgere](/da/introduction/sellers) bruger ofte kabler med dummy-pins i stedet for rigtige fungerende pins for at spare omkostninger.
+Det medfølgende opladningskabel understøtter muligvis ikke dataoverførsel som mange andre USB-kabler. [Sælgere](/da/introduction/sellers) bruger ofte kabler med dummy-pins i stedet for rigtige fungerende pins for at spare omkostninger.

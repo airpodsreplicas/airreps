@@ -1,57 +1,56 @@
 ---
-description: "Rodzaje opakowań: bez logo, z logo Apple i pudełko podwójne/przynęta. Ryzyko i szczegóły jakości."
-translationStatus: machine-translated
+title: Opakowania Replik AirPods & Pudełka
+description: 'Typy opakowań wyjaśnione: bez logo, logo Apple oraz podwójne/atrapowe pudełka. Ryzyka i szczegóły dotyczące jakości.'
 ---
-
 # Opakowanie
 
-Klony AirPods są dostępne w różnych rodzajach opakowań, każde z własnymi unikalnymi cechami i potencjalnym ryzykiem.
+AirPods replicas come in different types of packaging, each with its own unique features and potential risks.
 
-## Pudełko Bez Logo
+## Pudełko bez logo
 
-Pudełko bez logo jest białe i ma podobny kształt do oryginalnego pudełka AirPods. Pokazuje obraz AirPods, ale brakuje tekstu "AirPods", logo Apple lub znaków towarowych. Dołączona instrukcja i kabel ładowania są generyczne, bez numerów seryjnych typowo obecnych na oryginalnym opakowaniu AirPods.
+Pudełko bez logo jest białe i ma podobny kształt do oryginalnego pudełka AirPods. Prezentuje obraz AirPods, ale brakuje w nim tekstu "AirPods", logo Apple i znaków towarowych. Dołączona instrukcja i kabel ładujący są ogólne, bez numerów seryjnych, które zwykle znajdują się na oryginalnym opakowaniu AirPods.
 
-<img src="/nologobox.webp" alt="No-Logo Box" width="300" height="400"/>
+<img src="/nologobox.webp" alt="Pudełko bez logo" width="300" height="400"/>
 
 ::: warning
-Jeśli zamówisz przez link z **Alibaba**, twoje repliki będą **zawsze** wysyłane w neutralnym pudełku bez logo, aby uniknąć konfiskaty przez celników i zgłoszeń naruszenia praw autorskich. Pudełka z logo Apple nie są dostępne przez Alibaba.
+If you order using an **Alibaba** link, your replicas will **always** be shipped in a neutral, No-Logo box to avoid customs seizures and copyright strikes. Apple-branded boxes are not available through Alibaba.
 :::
 
 
-## Pudełko z Logo Apple
+## Pudełko z logo Apple
 
-Pudełko z logo Apple odzwierciedla opakowanie oryginalnych AirPods, zawierając tradycyjny tekst "AirPods" i logo Apple. Instrukcje i kabel ładowania wewnątrz mają oznaczenia Apple. Jednak zamówienie "pudełka Apple" może zwiększyć ryzyko konfiskaty produktu przez celników, co może prowadzić do grzywien lub zniszczenia produktu. Aby zmniejszyć to ryzyko, wielu sprzedawców stosuje technikę podwójnego pudełka, ukrywając rzeczywiste pudełko Apple wewnątrz generycznego pudełka w kształcie słuchawek.
+Pudełko z logo Apple odzwierciedla opakowanie prawdziwych AirPods, z tradycyjnym napisem "AirPods" i logo Apple. Instrukcje i kabel ładujący w środku noszą oznaczenia Apple. Jednak prośba o "Apple box" może zwiększyć ryzyko zatrzymania produktu przez służby celne, co może skutkować grzywnami lub zniszczeniem towaru. Aby zminimalizować to ryzyko, wielu sprzedawców stosuje technikę podwójnego pudełka, ukrywając rzeczywiste pudełko Apple wewnątrz zwykłego pudełka w kształcie słuchawek.
 
-<img src="/applebox.webp" alt="Apple Logo Box" width="300" height="400"/>
+<img src="/applebox.webp" alt="Pudełko z logo Apple" width="300" height="400"/>
 
 ::: danger
-Zamówienie "pudełka Apple" może prowadzić do konfiskaty produktu przez celników. Wielu sprzedawców stosuje technikę podwójnego pudełka, aby zmniejszyć to ryzyko.
+Requesting an "Apple box" can lead to product seizure at customs. Many sellers use a double box technique to reduce this risk.
 :::
 
-## Pudełko Podwójne/Przynęta
+## Pudełko podwójne / przynętowe
 
-Najlepsza opcja dla większości kupujących. Zewnętrzne, generyczne pudełko przypominające zwykłe słuchawki, z Pudełkiem z Logo Apple ukrytym w środku. To znacznie zmniejsza ryzyko konfiskaty przez celników, a jednocześnie pozwala otrzymać pełne, brandowane opakowanie Apple.
+Najlepsza opcja dla większości kupujących. Generic outer box that looks like ordinary earbuds, with the Apple Logo Box hidden inside. This significantly reduces the risk of customs seizure while still giving you the full Apple-branded packaging.
 
-Gdy wybierzesz opcję Pudełko z Logo Apple przy finalizacji zamówienia, pudełko podwójne jest automatycznie dołączane — sprzedawcy zawsze wysyłają pudełka Apple wewnątrz pudełka-przynęty dla ochrony. Opcja pudełka Apple jest zazwyczaj domyślnie wybrana przy większości metod płatności, choć niektóre mogą pobierać niewielką dodatkową opłatę. Jeśli zamawiasz przez **Alibaba**, pudełko Apple/podwójne **nie jest dostępne** — zawsze otrzymasz Pudełko Bez Logo.
+When you select the Apple Logo Box at checkout, the double box is automatically included — sellers always ship Apple boxes inside a decoy box for protection. The Apple box option is pre-selected on most payment methods, though some may charge a small extra fee. If you're ordering through **Alibaba**, Apple/double box is **not available** — you'll always receive a No-Logo box.
 
-<img src="/doublebox.webp" alt="Double/Decoy Box" width="300" height="400"/>
+<img src="/doublebox.webp" alt="Pudełko podwójne / przynętowe" width="300" height="400"/>
 
 ::: tip
-Pudełko Apple (które zawsze przychodzi jako pudełko podwójne) jest zazwyczaj domyślnie wybrane przy finalizacji zamówienia. Sprawdź, czy jest zaznaczone przed zakończeniem zamówienia.
+Apple box (which always comes as a double box) is usually pre-selected at checkout. Double-check it's ticked before completing your order.
 :::
 
-## Jakość Pudełka
+## Jakość pudełka
 
-Jakość pudełka może wahać się od dobrze wykonanego, z prawidłowo wytłoczonym tekstem i wyrównanymi etykietami, po niższą jakość lub niedbałe wykonanie. Jeśli jakość pudełka jest dla Ciebie ważna, poproś sprzedawcę o zdjęcia przed dokonaniem zakupu.
+Jakość pudełka może się wahać od dobrze wykonanego z prawidłowo wytłoczonym tekstem i wyrównanymi etykietami, po niższą jakość lub niedbałe wykonanie. Jeśli jakość pudełka ma dla Ciebie znaczenie, poproś sprzedawcę o zdjęcia przed dokonaniem zakupu.
 
 ::: tip
-Zawsze proś o zdjęcia, jeśli jakość pudełka jest dla Ciebie ważna.
+Always ask for photos if the quality of the box is important to you.
 :::
 
-## Obsługa i Wysyłka
+## Obsługa i wysyłka
 
-Pudełko lub opakowanie może dotrzeć lekko wgniecione lub zagięte z powodu obsługi przez międzynarodowych i lokalnych kurierów, a nie z winy sprzedawcy. Wskazówki dotyczące procesu zamawiania i oczekiwań związanych z wysyłką znajdziesz w poradniku [jak kupować](/pl/ordering/how-to-buy).
+Pudełko lub opakowanie może dotrzeć lekko wgniecione lub pogniecione z powodu obsługi przez międzynarodowe i lokalne firmy kurierskie, a nie z winy sprzedawcy. For tips on the ordering process and shipping expectations, see [jak kupować](/pl/ordering/how-to-buy).
 
-## Kabel Ładowania
+## Kabel ładujący
 
-Dołączony kabel ładowania może nie obsługiwać przesyłu danych jak wiele innych kabli USB. [Sprzedawcy](/pl/introduction/sellers) często używają kabli z atrapami pinów zamiast prawdziwych działających pinów, aby obniżyć koszty.
+Dołączony kabel ładujący może nie obsługiwać transferu danych jak wiele innych kabli USB. [Sprzedawcy](/pl/introduction/sellers) często używają kabli z atrapami pinów zamiast prawdziwych działających pinów, aby obniżyć koszty.

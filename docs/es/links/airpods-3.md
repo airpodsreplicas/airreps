@@ -1,10 +1,10 @@
 ---
-description: "Enlaces de vendedores confiables y opciones de compra para réplicas de AirPods 3."
+title: 'Comprar Réplicas de AirPods 3: Enlaces de Vendedores'
+description: Enlaces de vendedores de confianza y opciones de compra para réplicas de AirPods 3.
 ---
-
 # AirPods 3
 
-#### Versiones y Vendedores
+## Versiones y vendedores
 
 <table>
   <tr>
@@ -17,7 +17,7 @@ description: "Enlaces de vendedores confiables y opciones de compra para réplic
     <td><span class="version-badge">V1E</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e3v1e">Sitio Web</a>
+        <a href="https://airreps.link/e3v1e">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
@@ -25,7 +25,7 @@ description: "Enlaces de vendedores confiables y opciones de compra para réplic
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v1e">Sitio Web</a>
+        <a href="https://airreps.link/j3v1e">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -36,7 +36,7 @@ description: "Enlaces de vendedores confiables y opciones de compra para réplic
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v12">Sitio Web</a>
+        <a href="https://airreps.link/j3v12">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -46,5 +46,5 @@ description: "Enlaces de vendedores confiables y opciones de compra para réplic
 
 
 ::: tip
-Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar envíos con otros artículos y estás familiarizado con plataformas de agentes. Para un agente confiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Nuevo en los agentes? Consulta nuestra [guía de pedidos de KakoBuy](/es/ordering/kakobuy).
+Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si desea consolidar el envío con otros artículos y está familiarizado con las plataformas de agentes. Para un agente confiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Nuevo en agentes? Consulte nuestra [guía de pedidos de KakoBuy](/es/ordering/kakobuy).
 :::

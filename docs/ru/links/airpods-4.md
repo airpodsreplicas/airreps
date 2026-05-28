@@ -1,10 +1,10 @@
 ---
-description: "Trusted seller links and purchase options for AirPods 4 replicas."
+title: 'Купить AirPods 4 Реплики: Ссылки Продавцов'
+description: Надёжные ссылки продавцов и варианты покупки реплик AirPods 4.
 ---
-
 # AirPods 4
 
-#### Версии и продавцы
+## Версии и продавцы
 
 <table>
   <tr>
@@ -17,20 +17,20 @@ description: "Trusted seller links and purchase options for AirPods 4 replicas."
     <td><span class="version-badge">V3 TB</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e4v3tb">Сайт</a>
+        <a href="https://airreps.link/e4v3tb">Веб-сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hc4v3tb">Сайт</a>
+        <a href="https://airreps.link/hc4v3tb">Веб-сайт</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j4v3tb">Сайт</a>
+        <a href="https://airreps.link/j4v3tb">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -40,13 +40,13 @@ description: "Trusted seller links and purchase options for AirPods 4 replicas."
          <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hc4v2hr">Сайт</a>
+        <a href="https://airreps.link/hc4v2hr">Веб-сайт</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j4v2hr">Сайт</a>
+        <a href="https://airreps.link/j4v2hr">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -55,20 +55,20 @@ description: "Trusted seller links and purchase options for AirPods 4 replicas."
     <td><span class="version-badge">V2 TB</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e4v2tb">Сайт</a>
+        <a href="https://airreps.link/e4v2tb">Веб-сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hc4v2tb">Сайт</a>
+        <a href="https://airreps.link/hc4v2tb">Веб-сайт</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j4v2tb">Сайт</a>
+        <a href="https://airreps.link/j4v2tb">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -77,20 +77,20 @@ description: "Trusted seller links and purchase options for AirPods 4 replicas."
     <td><span class="version-badge">V2 Huilian</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e4v2hl">Сайт</a>
+        <a href="https://airreps.link/e4v2hl">Веб-сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hc4v2hl">Сайт</a>
+        <a href="https://airreps.link/hc4v2hl">Веб-сайт</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j4v2hl">Сайт</a>
+        <a href="https://airreps.link/j4v2hl">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -100,5 +100,5 @@ description: "Trusted seller links and purchase options for AirPods 4 replicas."
 
 
 ::: tip
-Выбор ссылки Weidian требует использования агента для доставки. Мы рекомендуем эту опцию только если вы хотите объединить доставку с другими товарами и знакомы с агентскими платформами. Для надёжного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy). Новичок в использовании агентов? Ознакомьтесь с нашим [руководством по заказу через KakoBuy](/ru/ordering/kakobuy).
+Выбор ссылки на Weidian требует использования агента для доставки. Мы рекомендуем этот вариант только если вы хотите объединить доставку с другими товарами и знакомы с платформами агентов. Для надежного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy). Новичок в использовании агентов? Ознакомьтесь с нашим [Руководством по заказу через KakoBuy](/ru/ordering/kakobuy).
 :::

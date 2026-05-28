@@ -1,14 +1,14 @@
 ---
-description: "AirPods 2 replikaları için güvenilir satıcı linkleri ve satın alma seçenekleri."
+title: 'Satın Al AirPods 2 Replikaları: Satıcı Bağlantıları'
+description: AirPods 2 replikaları için güvenilir satıcı bağlantıları ve satın alma seçenekleri.
 ---
-
 # AirPods 2
 
-#### Versiyonlar ve Satıcılar
+## Sürümler ve Satıcılar
 
 <table>
   <tr>
-    <th>Versiyon</th>
+    <th>Sürüm</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -17,20 +17,20 @@ description: "AirPods 2 replikaları için güvenilir satıcı linkleri ve satı
     <td><span class="version-badge">V3E</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e2v3e">Website</a>
+        <a href="https://airreps.link/e2v3e">Web sitesi</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcgen2v3e">Website</a>
+        <a href="https://airreps.link/hcgen2v3e">Web sitesi</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j2v3e">Website</a>
+        <a href="https://airreps.link/j2v3e">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -40,5 +40,5 @@ description: "AirPods 2 replikaları için güvenilir satıcı linkleri ve satı
 
 
 ::: tip
-Weidian linkini seçmek kargo için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca diğer ürünlerle birlikte kargo birleştirmek istiyorsan ve aracı platformlarına aşinaysan öneriyoruz. Güvenilir bir aracı olarak [KakoBuy](https://airreps.link/kakobuy) öneriyoruz. Aracılara yeni misin? KakoBuy sipariş rehberimize göz atın: [/ordering/kakobuy](/tr/ordering/kakobuy).
+Bir Weidian bağlantısını seçmek, gönderim için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca gönderimi diğer ürünlerle birleştirmek istiyorsanız ve aracı platformlara aşina iseniz öneriyoruz. Güvenilir bir aracı için [KakoBuy](https://airreps.link/kakobuy) öneriyoruz. Aracılara yeni misiniz? [KakoBuy sipariş rehberi](/tr/ordering/kakobuy).
 :::

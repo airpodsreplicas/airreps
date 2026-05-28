@@ -1,36 +1,37 @@
 ---
-description: Diretório de vendedores verificados e links de compra diretos para todos os modelos de réplicas de AirPods.
+title: Onde Comprar Réplicas de AirPods
+description: Diretório de vendedores verificados e links de compra direta para todos os modelos de réplicas de AirPods.
 faq:
   - q: Vou receber uma unidade de boa qualidade?
     a: 'Não é possível garantir a qualidade de uma unidade, pois ela pode variar mesmo entre unidades do mesmo vendedor. No entanto, vendedores confiáveis são geralmente conhecidos por oferecer produtos de boa qualidade.'
   - q: Como entro em contato com os vendedores?
-    a: 'Entre no AirReps Discord em https://airreps.link/discord para obter os números de WhatsApp dos vendedores. Como alternativa, use o AliExpress para enviar mensagens clicando em Contatar Fornecedor.'
+    a: 'Junte-se ao Discord da AirReps em https://airreps.link/discord para obter os números de WhatsApp dos vendedores. Alternativamente, use o AliExpress para enviar mensagens a eles clicando em Contactar Fornecedor.'
   - q: Qual é o melhor vendedor?
     a: 'O melhor vendedor varia conforme suas necessidades. Os vendedores normalmente oferecem produtos semelhantes — por exemplo, um Pro 2 V5.2 TB da Jenny é idêntico ao de HiCity. As diferenças aparecem no suporte, nos prazos de envio e nas plataformas de compra.'
-  - q: Minhas informações de rastreamento estão em chinês. O que devo fazer?
-    a: 'Copie o número de rastreamento e cole-o no 17Track (https://www.17track.net/) para ver as atualizações em inglês. Alternativamente, cole as atualizações de rastreamento no Google Translate.'
+  - q: As informações de rastreamento estão em chinês. O que devo fazer?
+    a: 'Copie o número de rastreamento e cole-o no 17Track (https://www.17track.net/) para ver atualizações em inglês. Alternativamente, cole as atualizações de rastreamento no Google Translate.'
   - q: Meu cartão não está funcionando. O que devo fazer?
-    a: 'Entre em contato com o vendedor para perguntar sobre métodos de pagamento alternativos. Alguns métodos, como o Wise, não oferecem proteção ao comprador. Você também pode tentar outro cartão ou comprar de um vendedor diferente.'
-  - q: Por que sou redirecionado para um site de criptomoedas ao pagar com Cartão de Crédito?
-    a: 'Vendedores confiáveis usam um gateway de pagamento em criptomoedas seguro para processar pagamentos por Cartão de Crédito. Seu cartão compra criptomoedas, que concluem o pedido. Se você quiser evitar KYC, use o KakoBuy, um agente que aceita cartões de crédito normais sem verificação de identidade.'
+    a: 'Entre em contato com o vendedor para perguntar sobre métodos de pagamento alternativos. Alguns métodos, como o Wise, não oferecem proteção ao comprador. Você também pode tentar um cartão diferente ou comprar de outro vendedor.'
+  - q: Por que sou redirecionado para um site de criptomoedas ao pagar via Cartão de Crédito?
+    a: 'Vendedores confiáveis usam um gateway de pagamento cripto seguro para processar pagamentos com Cartão de Crédito. Seu cartão compra cripto, o que completa o pedido. Se quiser evitar KYC, use KakoBuy, um agente que aceita cartões de crédito comuns sem verificações de identidade.'
 ---
 # Links
 
 ::: tip
-Esta lista é mantida atualizada. Versões mais recentes quase sempre significam melhor.
+Esta lista é mantida atualizada. Uma versão mais alta geralmente significa um produto melhor — mas nem sempre, então compare as [informações sobre versões](/pt/version-info/general) antes de comprar.
 :::
 
-A lista a seguir contém links apenas para vendedores verificados. Se souber de algum vendedor confiável que mereça verificação, por favor informe um autor do Ultimate Guide ou escreva uma avaliação sobre o produto e publique-a nos fóruns do AirReps. Para garantir a qualidade e autenticidade das suas réplicas de Apple AirPods, recomendamos comprar apenas desses vendedores verificados.
+A lista a seguir contém links apenas para vendedores verificados. Se você souber de algum vendedor confiável que mereça verificação, informe um autor do Ultimate Guide ou escreva uma avaliação sobre o produto e publique-a nos fóruns do AirReps. Para garantir a qualidade e a autenticidade das suas réplicas dos Apple AirPods, recomendamos comprar apenas desses vendedores verificados.
 
-## Escolha o produto para ver os links
+## Escolha o produto para o qual deseja ver os links
 
-- [AirPods 2](airpods-2.md)
-- [AirPods 3](airpods-3.md)
-- [AirPods 4](airpods-4.md)
-- [AirPods Pro](airpods-pro.md)
-- [AirPods Pro 2](airpods-pro-2.md)
-- [AirPods Pro 3](airpods-pro-3.md)
-- [AirPods Max](airpods-max.md)
+- [AirPods 2](/pt/links/airpods-2)
+- [AirPods 3](/pt/links/airpods-3)
+- [AirPods 4](/pt/links/airpods-4)
+- [AirPods Pro](/pt/links/airpods-pro)
+- [AirPods Pro 2](/pt/links/airpods-pro-2)
+- [AirPods Pro 3](/pt/links/airpods-pro-3)
+- [AirPods Max](/pt/links/airpods-max)
 
 ## Vendedores confiáveis (sites oficiais)
 
@@ -38,21 +39,21 @@ A lista a seguir contém links apenas para vendedores verificados. Se souber de 
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-## Métodos de Pagamento
+## Métodos de pagamento
 
-Todos os vendedores de confiança aceitam múltiplos métodos de pagamento para sua conveniência:
+Todos os vendedores confiáveis aceitam múltiplos métodos de pagamento para sua conveniência:
 
-| Método de Pagamento | Earhive | HiCity | Jenny |
+| Método de pagamento | Earhive | HiCity | Jenny |
 |---------------------|---------|--------|-------|
-| **Cartão de Crédito / Débito** | ✅ | ✅ | ✅ |
-| **AliPay** | ✅ | ❌ | ✅ |
+| **Credit / Debit Card** | ✅ | ✅ | ✅ |
+| **Alipay** | ✅ | ❌ | ✅ |
 | **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ✅ | ✅ | ✅ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
-| **Transferência Bancária** | ✅ | ✅ | ✅ |
+| **Bank Transfer** | ✅ | ✅ | ✅ |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
 | **Alibaba** | ✅ | ❌ | ❌ |
 | **Skrill** | ❌ | ✅ | ❌ |
@@ -72,45 +73,45 @@ Todos os vendedores de confiança aceitam múltiplos métodos de pagamento para 
 | **EPS** | ❌ | ✅ | ❌ |
 
 ::: tip
-Pagamentos via Wise ou Transferência Bancária requerem revisão manual pelo vendedor, o que pode levar até 24 horas para ser processado.
+Pagamentos via Wise ou Transferência Bancária exigem revisão manual pelo vendedor, o que pode levar até 24 horas para processar.
 
-Para pedidos via Weidian, você precisará usar um agente. Recomendamos [KakoBuy](https://airreps.link/kakobuy), que aceita cartões de crédito e múltiplos métodos de pagamento — veja nosso [KakoBuy guide](/pt/ordering/kakobuy) para um passo a passo.
+Para pedidos no Weidian, você precisará usar um agente. Recomendamos [KakoBuy](https://airreps.link/kakobuy), que aceita cartões de crédito e múltiplos métodos de pagamento — veja nosso [guia KakoBuy](/pt/ordering/kakobuy) para um passo a passo.
 :::
 
-## Perguntas Frequentes
+## Perguntas frequentes
 
 ::: details Vou receber uma unidade de boa qualidade?
-Não é possível garantir a qualidade de uma unidade, pois ela pode variar mesmo entre unidades do mesmo vendedor. No entanto, os vendedores mencionados são geralmente conhecidos por oferecer produtos de boa qualidade.
+Não é possível garantir a qualidade de uma unidade, pois ela pode variar mesmo entre unidades do mesmo vendedor. No entanto, os vendedores mencionados geralmente são conhecidos por oferecer produtos de boa qualidade.
 :::
 
-::: details Como eu entro em contato com os vendedores?
-Para contatar os vendedores, você pode entrar no Discord do AirReps: https://airreps.link/discord e obter os números de WhatsApp deles, já que não estão publicamente disponíveis. Alternativamente, você pode usar o AliExpress para enviar uma mensagem clicando em "Contact Supplier".
+::: details Como entro em contato com os vendedores?
+Para contatar os vendedores, você pode entrar no Discord do AirReps: https://airreps.link/discord e obter os números de WhatsApp deles, já que não estão disponíveis publicamente. Alternativamente, você pode usar o AliExpress para enviar uma mensagem clicando em "Contact Supplier".
 :::
 
 ::: details Qual é o melhor vendedor?
-Não é possível determinar um melhor vendedor de forma definitiva, pois isso varia conforme suas necessidades e a plataforma escolhida para a compra. Os vendedores tipicamente oferecem produtos similares — por exemplo, o 'Pro 2 V5.2 TB' da Jenny é idêntico ao da HiCity. Contudo, diferenças aparecem em aspectos como suporte, tempos de envio e as plataformas utilizadas para efetuar a compra.
+Não é possível determinar de forma definitiva qual é o melhor vendedor, pois isso varia conforme suas necessidades e a plataforma pela qual você escolhe comprar. Os vendedores normalmente oferecem produtos semelhantes; por exemplo, o 'Pro 2 V5.2 TB' da Jenny é idêntico ao da HiCity. Porém, diferenças surgem em aspectos como suporte, tempos de envio e nas plataformas utilizadas para as compras.
 :::
 
 ::: details Pedi há x dias e meu pacote ainda não chegou. O que devo fazer?
-O envio da China às vezes pode demorar. As informações de rastreamento podem desaparecer quando o pacote sai da China e só serão atualizadas quando chegar à alfândega do seu país. Se já passou muito tempo e ainda não há informações de rastreamento, você deve contatar o vendedor para obter uma atualização.
+O envio da China às vezes pode demorar. As informações de rastreamento podem desaparecer depois que o pacote sai da China e só serão atualizadas quando chegar à alfândega do seu país. Se já passou muito tempo e ainda não há informações de rastreamento, você deve contatar seu vendedor para uma atualização.
 :::
 
 ::: details Minhas informações de rastreamento estão em chinês. O que devo fazer?
-Se você tem informações de rastreamento em chinês, copie o número de rastreio e cole no site [17Track](https://www.17track.net/). Isso permitirá ver as atualizações em inglês. Alternativamente, abra as atualizações de rastreamento em um computador e cole-as no Google Tradutor para vê-las em outro idioma.
+Se você tem informações de rastreamento em chinês, copie o número de rastreamento e cole no site [17Track](https://www.17track.net/). Isso permitirá ver as atualizações em inglês. Alternativamente, você pode abrir as atualizações de rastreamento em um computador e colá-las no Google Tradutor para ver em outro idioma.
 :::
 
 ::: details Meu cartão não está funcionando. O que devo fazer?
-Se seu cartão não estiver funcionando, entre em contato com o vendedor e pergunte se ele aceita uma forma de pagamento diferente. Tenha em mente que alguns métodos alternativos, como Wise, não oferecem proteção ao comprador. Se o vendedor não aceitar outra forma de pagamento, você pode tentar usar outro cartão ou comprar de um vendedor diferente.
+Se seu cartão não estiver funcionando, entre em contato com o vendedor e pergunte se ele aceita uma forma de pagamento diferente. Tenha em mente que alguns métodos alternativos, como Wise, não oferecem proteção ao comprador. Se o vendedor não puder aceitar outro método, você pode tentar usar um cartão diferente ou comprar de outro vendedor.
 :::
 
-::: details Por que sou redirecionado a um site de cripto quando pago com Cartão de Crédito?
-Vendedores confiáveis usam um gateway de pagamento cripto seguro para processar pagamentos com Cartão de Crédito. Seu cartão é usado para comprar cripto, que então é usada para completar o pedido de forma segura e eficiente.
+::: details Por que sou redirecionado para um site de cripto ao pagar com cartão de crédito?
+Os vendedores confiáveis utilizam um gateway de pagamento de cripto seguro para processar pagamentos com cartão de crédito. Seu cartão é usado para comprar cripto, que é então utilizada para completar seu pedido de forma segura e eficiente.
 
-**Note: Alguns processadores de pagamento podem ocasionalmente solicitar uma verificação de identificação (KYC) para cumprir as regulamentações locais, embora isso nem sempre seja exigido.**
+**Nota: Alguns processadores de pagamento podem ocasionalmente solicitar verificação de identidade (KYC) para cumprir as regulamentações locais, embora isso nem sempre seja exigido.**
 
-**Alternative:** Se você quiser evitar qualquer possibilidade de verificação KYC, considere usar [KakoBuy](https://airreps.link/kakobuy), uma plataforma de agente que compra produtos dos vendedores em seu nome e fornece fotos de controle de qualidade (QC) antes do envio. KakoBuy usa processadores de pagamento regulares que aceitam cartões de crédito e débito e **nunca exigem verificação KYC** ou checagens de identidade. Isso a torna uma excelente opção se você prefere usar seu cartão sem requisitos de KYC e ainda obter a garantia adicional das fotos de QC. Veja nosso [KakoBuy ordering guide](/pt/ordering/kakobuy) para um walkthrough completo.
+**Alternativa:** Se você quiser evitar qualquer possibilidade de verificação KYC, considere usar [KakoBuy](https://airreps.link/kakobuy), uma plataforma de agente que compra produtos dos vendedores em seu nome e fornece fotos de controle de qualidade (QC) antes do envio. O KakoBuy usa processadores de pagamento convencionais que aceitam cartões de crédito e débito e **nunca exigem verificação KYC** ou checagens de identidade. Isso o torna uma excelente opção se você prefere usar seu cartão sem requisitos de KYC enquanto ainda obtém a garantia adicional das fotos de QC. Veja nosso [guia KakoBuy](/pt/ordering/kakobuy) para um passo a passo completo.
 :::
 
 ::: tip
-Alguns sites de vendedores que oferecem pagamento por cartão de crédito podem apresentar uma marcação discreta no site. Procure o número da versão que você quer — você pode ignorar em segurança imagens genéricas do produto. Isso é feito para cumprir políticas de copyright que alguns gateways de pagamento por cartão de crédito podem ter. 
+Alguns sites de vendedores que oferecem pagamentos por cartão de crédito podem ter uma marcação discreta no site. Procure o número da versão que você quer — você pode ignorar com segurança imagens genéricas do produto. Isso é feito para cumprir políticas de direitos autorais que alguns gateways de pagamento por cartão podem ter.
 :::

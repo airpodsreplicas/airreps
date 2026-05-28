@@ -1,22 +1,22 @@
 ---
-description: "Aplicativos essenciais para atualização de firmware de réplicas de AirPods. Suporta Airoha, Tigerbuilder, BES, HR e Huilian."
+title: Aplicativos De Firmware Para Réplicas De AirPods
+description: 'Aplicativos essenciais de atualização de firmware para réplicas de AirPods. Suporte para Airoha, TigerBuilder, BES, HR, e Huilian.'
 ---
+# Aplicativos Úteis
 
-# Apps Úteis
+Atualizar o firmware das suas réplicas pode frequentemente adicionar novos recursos, como áudio espacial, ou melhorar sua estabilidade. Para fazer isso, você pode usar vários apps disponíveis para download. No entanto, observe que **a maioria desses apps está disponível apenas para dispositivos Android**. Para identificar qual chipset suas réplicas usam, veja as [tabelas de comparação de versões](/pt/version-info/general).
 
-Atualizar o firmware das suas réplicas pode frequentemente adicionar novos recursos, como áudio espacial, ou melhorar sua estabilidade. Para fazer isso, você pode usar uma variedade de apps que estão disponíveis para download. No entanto, por favor note que **a maioria desses apps está disponível apenas para dispositivos Android**. Para identificar qual chipset suas réplicas usam, veja as [tabelas de comparação de versões](/pt/version-info/general).
+Abaixo estão apps que podem ser baixados para ajudá-lo, juntamente com as versões e chipsets das réplicas que eles suportam. Se você tiver problemas ao instalar apps fora da Play Store, certifique-se de ativar 'Instalar apps de fontes desconhecidas' nas suas configurações (na seção Segurança ou Acessibilidade). Esses apps também podem ajudar a ajustar a [qualidade de som](/pt/introduction/sound-quality) através das configurações do equalizador. Para mais informações sobre como usar estes apps e evitar problemas, visite nosso [Discord](https://airreps.link/discord).
 
-Abaixo estão os apps que podem ser baixados para ajudá-lo, juntamente com as versões e chipsets de réplicas que eles suportam. Se você tiver problemas ao instalar os aplicativos fora da Play Store, certifique-se de ativar 'Instalar de fontes desconhecidas' em suas configurações (na seção Segurança ou Acessibilidade). Esses apps também podem ajudar a ajustar a [qualidade de som](/pt/introduction/sound-quality) através das configurações de EQ. Para mais informações sobre como usar esses apps e evitar problemas, visite nosso [Discord](https://airreps.link/discord).
+## **TigerBuilder**
 
-## **Tigerbuilder**
-
-|[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)| [![FlyCC (IOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS) |
+|[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS) |
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | [![Airoha156x (Android)](/app_icon/airoha156x.png)](https://airreps.link/airoha156x) Airoha156x (Android) |
 
-:::warning **CloudCC** foi descontinuado desde que o TigerBuilder integrou a funcionalidade OTA no FlyCC. Deve ser usado apenas como uma solução alternativa se você encontrar o problema de permissão de armazenamento.
+:::warning **CloudCC** has been deprecated since TigerBuilder integrated OTA functionality into FlyCC. It should only be used as a workaround if you encounter the storage permission issue.
 :::
-:::tip Airoha156x deve ser usado apenas para modificar as configurações do equalizador nos AirPods Max V2 (Airoha 1561M) e V3 (Airoha 1562AE)
+:::tip Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE).
 :::
 
 ## **BES**

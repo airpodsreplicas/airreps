@@ -1,10 +1,10 @@
 ---
-description: "Verificerede sælgerlinks til køb af AirPods 3-kopier."
+title: 'Køb AirPods 3-kopier: Sælgerlinks'
+description: Pålidelige sælgerlinks og købsmuligheder for AirPods 3-kopier.
 ---
-
 # AirPods 3
 
-#### Versioner og Sælgere
+## Versioner og sælgere
 
 <table>
   <tr>
@@ -46,5 +46,5 @@ description: "Verificerede sælgerlinks til køb af AirPods 3-kopier."
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at konsolidere forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy).
+At vælge et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy bestillingsvejledning](/da/ordering/kakobuy).
 :::
