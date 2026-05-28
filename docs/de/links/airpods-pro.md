@@ -1,27 +1,16 @@
 ---
-description: "Vertrauenswürdige Verkäufer-Links und Kaufoptionen für AirPods Pro Replikate."
+title: AirPods Pro Replikate (Abgelöst)
+description: AirPods Pro (1st gen) Replikate werden von vertrauenswürdigen Verkäufern nicht mehr geführt. Kaufen Sie stattdessen Replikate der AirPods Pro 2 oder Pro 3.
 ---
-
 # AirPods Pro
 
-#### Versionen und Verkäufer
+::: warning Nicht mehr von vertrauenswürdigen Verkäufern verkauft
+Die originale **AirPods Pro (1st generation)**-Replik wurde abgelöst und wird **nicht mehr von einem vertrauenswürdigen Verkäufer vorrätig gehalten** — sie ist schlichtweg zu veraltet, und die Community ist zu neueren, weitaus leistungsfähigeren Modellen übergegangen.
 
-<table>
-  <tr>
-    <th>Version</th>
-    <th>Earhive</th>
-    <th>HiCity</th>
-    <th>Jenny</th>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V4</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-     <td style="text-align: center;">-</td>
-  </tr>
-</table>
+Wenn du eine Pro-ähnliche Replik suchst, nimm stattdessen eine dieser:
 
-
-::: tip
-Die Wahl eines Weidian-Links erfordert die Nutzung eines Agenten für den Versand. Wir empfehlen diese Option nur, wenn du den Versand mit anderen Artikeln bündeln möchtest und mit Agenten-Plattformen vertraut bist. Als zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy). Neu bei Agenten? Sieh dir unseren [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy) an.
+- **[AirPods Pro 2-Repliken](/de/links/airpods-pro-2)** — die ausgereifteste und funktionsreichste Pro-Option.
+- **[AirPods Pro 3-Repliken](/de/links/airpods-pro-3)** — das neueste Modell mit den neuesten Funktionen.
 :::
+
+Möchtest du sehen, wie die älteren AirPods Pro-Versionen im Vergleich abschneiden? Die Seite [Informationen zu AirPods Pro-Versionen](/de/version-info/airpods-pro) wird als Referenz aufbewahrt.

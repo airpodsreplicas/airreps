@@ -1,97 +1,96 @@
 ---
-title: Suwak głośności nie działa na macOS
-description: Naprawa problemu z suwakiem głośności na macOS dla komputerów Mac z Intelem. Proste obejście pozwalające odzyskać kontrolę nad wyjściem audio.
+title: Suwak Głośności jest Nieskuteczny na macOS
+description: Napraw problem ze suwakiem głośności w macOS na Intel Macs. Proste obejście pozwalające odzyskać kontrolę nad wyjściem dźwięku.
 ---
+# Problem: suwak głośności nie działa.
 
-# Problem: Suwak Głośności Nie Działa.
-
-Jest to jeden z najbardziej znanych problemów w wersji **Intel** macOS, gdzie suwak głośności kontrolujący głośność po prostu nie działa, tylko funkcjonuje jako przełącznik (dzieje się tak dla większości klonów, chociaż niektóre nie są dotknięte). Podczas gdy sam Apple nigdy nie zbadałby tego problemu, możemy go obejść za pomocą [narzędzia open source](https://github.com/briankendall/proxy-audio-device).
+Jest to jeden z najlepiej znanych problemów w wersji **Intel** macOS, gdzie suwak głośności sterujący poziomem dźwięku po prostu nie działa, a jedynie zachowuje się jak przełącznik (dotyczy to większości replik, choć niektóre działają poprawnie). Ponieważ Apple prawdopodobnie nigdy nie zajmie się tym problemem, możemy go obejść za pomocą [narzędzia open sourced](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-Ten przewodnik jest przeznaczony dla tych, którzy mają Maki oparte na Intel (i3, i5, i7; nie chipsety serii M). Jeśli Twój Mac z Apple Silicon (chipsety serii M) nie odtwarza dźwięku z aktualnymi AirReps, sprawdź sekcję [Common Bugs](/pl/troubleshooting/other-common-bugs).
+Ten poradnik przeznaczony jest dla osób posiadających Maci z procesorem Intel (i3, i5, i7; nie chipy serii M). Jeśli Twój Mac z Apple Silicon (chip serii M) nie odtwarza dźwięku z aktualnymi AirReps, sprawdź [Częste błędy](/pl/troubleshooting/other-common-bugs).
 :::
 
-## **Wymagania Wstępne**
+## **Wymagania wstępne**
 
-Przed przystąpieniem do samouczka, upewnij się, że masz:
-- Dostęp `sudo` (lub Twoje konto macOS ma dostęp administracyjny)
-- Menedżer pakietów `brew` (jeśli nie, po prostu wykonaj tę [sekcję](#brew-installation))
+Przed rozpoczęciem upewnij się, że:
+- Masz dostęp do `sudo` (Twoje konto macOS musi mieć uprawnienia administratora)
+- Masz zainstalowany instalator pakietów `brew` (jeśli nie, postępuj zgodnie z tą [sekcją](#brew-installation))
 
 :::tip
-PS: użycie `brew` jest znacznie łatwiejsze niż ręczna instalacja, ale jeśli chcesz pominąć używanie `brew`, możesz przeczytać to i wykonać kroki [tutaj](https://github.com/briankendall/proxy-audio-device#manual-installation).
+PS: używanie `brew` jest znacznie prostsze niż instalacja ręczna, ale jeśli chcesz pominąć `brew`, możesz przeczytać to i postępować według kroków [tutaj](https://github.com/briankendall/proxy-audio-device#manual-installation).
 :::
 
 ## **Instalacja `brew`**
 
-Jeśli nie masz zainstalowanego `brew` w swoim systemie, możemy zacząć tutaj. Przejdź na [tę](https://brew.sh/) stronę, skopiuj polecenie i uruchom je w Terminalu.
+Jeśli nie masz zainstalowanego `brew` na swoim systemie, możemy zacząć tutaj. Otwórz tę stronę: [https://brew.sh/](https://brew.sh/), skopiuj polecenie i uruchom je w Terminalu.
 
 <video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Instalacja za pomocą Terminala"></video>
 
 :::warning
-Możesz zostać poproszony o wprowadzenie hasła, śmiało wprowadź hasło jak zwykle (Twoje hasło może wyglądać jakby było ukryte, ale w tym przypadku tak nie jest).
+Możesz zostać poproszony o podanie hasła — wpisz je jak zwykle (może wyglądać, jakby było ukryte, ale w tym przypadku tak nie jest).
 :::
 
 ## **Instalacja**
 
 ### **Pobieranie**
-Gdy wszystko jest gotowe, możesz zacząć od otwarcia Terminala, następnie uruchom następujące polecenie:
+Gdy wszystko będzie gotowe, otwórz Terminal i uruchom następujące polecenie:
 `brew install --cask proxy-audio-device`
 
 <video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="zainstaluj proxy-audio-device"></video>
 
 :::tip
-Podczas instalacji jest normalne, że dźwięk systemowy trochę glitchuje. Upewnij się więc, że robisz to w środowisku bez przetwarzania dźwięku (żadne oprogramowanie do manipulacji dźwiękiem nie jest uruchomione).
+Podczas instalacji normalne jest chwilowe przycinanie dźwięku. Rób to, gdy żaden dźwięk nie jest odtwarzany ani edytowany (bez uruchomionego oprogramowania do obróbki dźwięku).
 :::
 
 ### **Konfiguracja**
-1. Przejdź do Launchpada, uruchom nowo zainstalowane `Proxy Audio Device Settings`, aby rozpocząć proces konfiguracji, będzie wyglądać mniej więcej tak:
+1. Przejdź do Launchpada, uruchom świeżo zainstalowane `Proxy Audio Device Settings`, aby rozpocząć konfigurację, okno wygląda mniej więcej tak:
 
 ![ikona aplikacji](/volume_fix/app_icon.png)
 
-2. Po otwarciu, wyświetli się okno jak to.
+2. Po otwarciu pojawi się okno jak poniżej.
 
-![interfejs aplikacji](/volume_fix/app_window.png)
+![UI aplikacji](/volume_fix/app_window.png)
 
-Nie daj się skusić, aby kliknąć z dala od tego samouczka, większość osób jak Ty może je skonfigurować tak:
+Nie zamykaj tego poradnika — większość użytkowników może skonfigurować to w następujący sposób:
 
-- `Proxy device name`: Nazwa wyjścia, możesz zostawić jak jest.
-- `Proxied device`: Źródło dźwięku (wybierz nazwę swoich AirReps)
-- `Buffer size`: Dozwolony czas dla macOS do przetworzenia dźwięku (uproszczone) (proszę **zostawić jak jest**, ponieważ 512 jest wystarczające dla większości)
-- `Proxy device is active`: Jak oprogramowanie działa w tle. Tu robi się trudne, ale sprowadza się do tych opcji:
-    + Jeśli nie przeszkadzają Ci przerwania dźwięku (krótkie czasy trwania dźwięku), wybierz `When proxied device is active`
-    + Dla większości osób, wybierz `When user is not idle`
-    + Dla osób, które chcą spójnego dźwięku lub grania, wybierz `Always`.
+- `Proxy device name`: Nazwa wyjścia; możesz zostawić bez zmian.
+- `Proxied device`: Źródło dźwięku (wybierz nazwę swojego AirReps)
+- `Buffer size`: Dozwolony czas na przetwarzanie dźwięku przez macOS (uproszczone) (proszę **nie zmieniać**, 512 wystarcza dla większości użytkowników)
+- `Proxy device is active`: Jak oprogramowanie działa w tle. To jest moment, gdzie robi się trochę trudniej, ale sprowadza się to do tych opcji:
+    + Jeśli nie przeszkadza Ci przerywanie dźwięku (krótkotrwałe dźwięki), wybierz `When proxied device is active`
+    + Dla większości osób wybierz `When user is not idle`
+    + Dla osób, które chcą stałego dźwięku, np. do grania, wybierz `Always`.
 
-3. Na koniec przejdź do Centrum sterowania > Dźwięk > ikona ">", i wybierz nowo utworzone urządzenie audio (`Proxy Audio Device` domyślnie).
+3. Na koniec przejdź do Control Center > Sound > ikonka ">", i wybierz nowo utworzone urządzenie audio (`Proxy Audio Device` domyślnie).
 
 <video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="wybierz urządzenie audio"></video>
 
 
-## **Efekty Uboczne**
+## **Skutki uboczne**
 
-Chociaż jest to w porządku przez większość czasu, niektórzy użytkownicy mogą doświadczyć tych problemów:
-::: details Brak ikony "Dźwięk" na górnym pasku
-To jest... niefortunne, musisz przejść do "Centrum sterowania", aby kontrolować dźwięk (lub użyć skrótu).
+Choć zazwyczaj da się z tego korzystać bez problemu, niektórzy użytkownicy mogą napotkać następujące problemy:
+::: details Brak ikony "Sounds" na górnym pasku
+Niestety, musisz przechodzić do Control Center, aby sterować dźwiękiem (lub użyć skrótu klawiaturowego).
 :::
 
-:::details Brak dźwięku przy rozłączaniu
-Aplikacja ma tylko jedno urządzenie celowe. Musisz ręcznie ponownie wybrać "Wbudowany głośnik".
+:::details Brak dźwięku po rozłączeniu
+Aplikacja jest zaprojektowana tak, aby zawsze podłączać się do wybranego urządzenia. Musisz ręcznie wybrać z powrotem "Internal Speaker".
 :::
 
-:::details Trzeszczenie/pykanie lub dźwięk jednostronny
-Możesz to obejść, zwiększając rozmiar bufora / lub wybierając `Always` w opcji `Proxy Device in Active` w aplikacji.
+:::details Trzaski/pęknięcia lub dźwięk w jednym kanale
+Możesz obejść to, zwiększając rozmiar bufora lub wybierając `Always` w opcji `Proxy device is active` w aplikacji.
 :::
 
-## **Odinstalowanie**
+## **Odinstalowywanie**
 
-Jeśli chcesz usunąć aplikację, możesz po prostu uruchomić to polecenie w Terminalu:
+Jeśli chcesz usunąć aplikację, wystarczy uruchomić to polecenie w Terminalu:
 
 `brew remove --cask proxy-audio-device`
 
 ...następnie uruchom ponownie system.
 
-## **Opcjonalne: Ankieta**
+## **Opcjonalnie: Ankieta**
 
-Stworzyłem ankietę [tutaj](http://poll-maker.com/poll5643879x05fb4568-166), aby dowiedzieć się, czy to rozwiązanie faktycznie działa. Jest to bardzo proste do zrobienia i bardzo pomaga w uzyskaniu pełnego obrazu tego rozwiązania, byłbym bardzo wdzięczny, gdybyś podzielił się swoimi przemyśleniami!
+Przygotowałem ankietę [tutaj](http://poll-maker.com/poll5643879x05fb4568-166), aby sprawdzić, czy to obejście naprawdę działa. Jest wyjątkowo prosta do wypełnienia i bardzo pomaga uzyskać pełniejszy obraz tej metody. Będę wdzięczny za podzielenie się opinią!
 
 [![ankieta](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)

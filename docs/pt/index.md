@@ -1,17 +1,17 @@
 ---
 layout: home
 title: AirReps
-description: 'O guia comunitário da AirReps para réplicas de AirPods — também conhecidas como AirPods falsos ou clones de AirPods. Encontre vendedores confiáveis, comparações de versões e avaliações honestas.'
+description: 'O guia da comunidade AirReps para réplicas de AirPods — também conhecidas como AirPods falsos ou clones de AirPods. Encontre vendedores confiáveis, comparações de versões e avaliações honestas.'
 hero:
   name: AirReps
   text: Réplicas de AirPods.
-  tagline: Uma comunidade para discussão e exploração de clones de AirPods.
+  tagline: Uma comunidade para a discussão e exploração de clones de AirPods.
   actions:
     - theme: brand
       text: Leia o Guia Definitivo
       link: introduction/overview
     - theme: alt
-      text: Faça o Questionário
+      text: Faça o Quiz
       link: quiz
 features:
   - icon: "🤝"
@@ -20,14 +20,14 @@ features:
     link: 'https://airreps.link/discord'
     linkText: Junte-se ao Discord
   - icon: ⏰
-    title: Em dia
-    details: 'Todos os recursos, guias e aplicativos são sempre mantidos atualizados pela nossa dedicada equipe.'
+    title: Sempre atualizado
+    details: 'Todos os recursos, guias e apps são sempre mantidos atualizados pela nossa equipe dedicada.'
     link: /introduction/overview
     linkText: Leia o Guia
   - icon: "💸"
     title: Lista de vendedores confiáveis
-    details: 'Lista de vendedores selecionada pela comunidade, sem fins lucrativos, com os produtos mais recentes e o melhor suporte.'
+    details: 'Lista de vendedores selecionados pela comunidade, sem fins lucrativos, com os produtos mais recentes e o melhor suporte.'
     link: /links/info
-    linkText: Ver Vendedores
+    linkText: Ver vendedores
 ---
 <Contributor></Contributor>

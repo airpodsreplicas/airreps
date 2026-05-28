@@ -1,10 +1,10 @@
 ---
-description: "Liens de vendeurs de confiance et options d'achat pour les répliques d'AirPods 3."
+title: 'Acheter Des Répliques D''AirPods 3: Liens Des Vendeurs'
+description: Liens de vendeurs de confiance et options d'achat pour des répliques d'AirPods 3.
 ---
-
 # AirPods 3
 
-#### Versions et Vendeurs
+## Versions et vendeurs
 
 <table>
   <tr>
@@ -17,7 +17,7 @@ description: "Liens de vendeurs de confiance et options d'achat pour les répliq
     <td><span class="version-badge">V1E</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e3v1e">Site Web</a>
+        <a href="https://airreps.link/e3v1e">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
@@ -25,7 +25,7 @@ description: "Liens de vendeurs de confiance et options d'achat pour les répliq
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v1e">Site Web</a>
+        <a href="https://airreps.link/j3v1e">Site web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -36,7 +36,7 @@ description: "Liens de vendeurs de confiance et options d'achat pour les répliq
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v12">Site Web</a>
+        <a href="https://airreps.link/j3v12">Site web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -46,5 +46,5 @@ description: "Liens de vendeurs de confiance et options d'achat pour les répliq
 
 
 ::: tip
-Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l'expédition avec d'autres articles et êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Nouveau avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
+Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez regrouper l'expédition avec d'autres articles et que vous êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Vous débutez avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
 :::

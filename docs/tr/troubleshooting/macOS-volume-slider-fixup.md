@@ -1,97 +1,96 @@
 ---
-title: macOS'ta Ses Kaydırıcısı Çalışmıyor
-description: Intel Mac'lerde macOS ses kaydırıcısı sorununu düzelt. Ses çıkışın üzerindeki kontrolünü geri kazanmak için basit bir geçici çözüm.
+title: macOS'ta Ses Kaydırıcısı Etkisiz
+description: Intel Mac'lerdeki macOS ses kaydırıcısı sorununu düzeltin. Ses çıkışınız üzerindeki kontrolü yeniden kazanmak için basit bir geçici çözüm.
 ---
+# Sorun: Ses Seviyesi Kaydırma Çubuğu çalışmıyor.
 
-# Sorun: Ses Kaydırıcısı Çalışmıyor.
-
-Bu, macOS'un **Intel** versiyonundaki en bilinen sorunlardan biridir; ses seviyesini kontrol eden ses kaydırıcısı çalışmaz ve yalnızca bir anahtar görevi görür (piyasadaki çoğu replikada yaşanmıştır, ancak bazıları etkilenmemiştir). Apple bu sorunu asla incelemeyeceğinden, biz bunu [açık kaynaklı bir araç](https://github.com/briankendall/proxy-audio-device) ile aşabiliriz.
+Bu, macOS'in **Intel** sürümünde en iyi bilinen sorunlardan biridir; ses seviyesini kontrol eden kaydırma çubuğu basitçe çalışmaz, sadece bir anahtar gibi davranır (çoğu AirReps üzerinde etkili olur, ancak bazıları etkilenmez). Apple kendisi asla soruna bakmayacağı için, bunu [open sourced tool](https://github.com/briankendall/proxy-audio-device) ile aşabiliriz.
 
 :::warning
-Bu rehber Intel tabanlı Mac'lere (i3, i5, i7; M serisi çip değil) sahip olanlar içindir. Apple Silicon (M serisi çip) Mac'in mevcut AirReps'inle ses çalmıyorsa [Yaygın Hatalar](/tr/troubleshooting/other-common-bugs) bölümüne göz at.
+Bu rehber, Intel tabanlı Mac'leri (i3, i5, i7; M serisi çip değil) kullananlar içindir. Eğer Apple Silicon (M serisi çip) Mac'iniz mevcut AirReps'lerinizle ses çalmıyorsa, [Yaygın Hatalar](/tr/troubleshooting/other-common-bugs) bölümüne bakın.
 :::
 
 ## **Ön Koşul**
 
-Rehbere başlamadan önce şunlara sahip olduğundan emin ol:
-- `sudo` erişimi (veya macOS hesabının yönetici erişimi olması)
-- `brew` paket yükleyicisi (yoksa bu [bölümü](#brew-kurulumu) izlemen yeterli)
+Eğitime başlamadan önce lütfen şunların sağlandığından emin olun:
+- `sudo` erişimine sahipsiniz (macOS hesabınızın yönetici erişimi olmalı)
+- `brew` paket yöneticisi kurulu (yoksa bu [bölümü](#brew-installation) izleyin)
 
 :::tip
-Not: `brew` kullanmak manuel kurulumdan çok daha kolaydır, ancak `brew` kullanmayı atlamak istiyorsan [buradaki](https://github.com/briankendall/proxy-audio-device#manual-installation) adımları okuyup takip edebilirsin.
+PS: `brew` kullanmak manuel kurulumdan çok daha kolaydır, ancak `brew` kullanmak istemiyorsanız, bu rehberi okumayı bırakıp [buradaki](https://github.com/briankendall/proxy-audio-device#manual-installation) adımları takip edebilirsiniz.
 :::
 
 ## **`brew` Kurulumu**
 
-Sisteminde `brew` kurulu değilse buradan başlayabiliriz. [Bu](https://brew.sh/) sayfaya gir, komutu kopyala ve Terminal'de çalıştır.
+Sisteminize `brew` yüklü değilse, buradan başlayabiliriz. Bu [sayfaya](https://brew.sh/) girin, komutu kopyalayın ve Terminal'de çalıştırın.
 
-<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Terminal kullanarak kurulum"></video>
+<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation using Terminal"></video>
 
 :::warning
-Şifreni girmen istenebilir, her zamanki gibi şifreni gir (şifren gizlenmiş gibi görünebilir ama bu durumda öyle değildir).
+Parolanız istenebilir; lütfen her zamanki gibi parolanızı girin (parolanız görünmüyor gibi gelebilir, ancak bu durumda gizlenmiyor).
 :::
 
 ## **Kurulum**
 
 ### **İndirme**
-Her şey hazır olduğunda Terminal'i açarak başlayabilirsin, ardından şu komutu çalıştır:
+Her şey hazır olduğunda Terminal'i açarak şu komutu çalıştırın:
 `brew install --cask proxy-audio-device`
 
-<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="proxy-audio-device kurulumu"></video>
+<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="install proxy-audio-device"></video>
 
 :::tip
-Kurulum sırasında sistem sesinin biraz bozulması normaldir. Bu yüzden bunu ses manipülasyonu yazılımları çalışmayan bir ortamda yaptığından emin ol.
+Kurulum sırasında sistem sesi biraz takılabilir. Bu yüzden herhangi bir ses çalınmıyorken veya ses düzenleme yazılımı çalışmıyorken yapın.
 :::
 
-### **Ayarlama**
-1. Launchpad'e git, kurulum sürecini başlatmak için yeni kurulan `Proxy Audio Device Settings`'i çalıştır, şuna benzer görünecektir:
+### **Kurulum Ayarları**
+1. Launchpad'e gidin, yeni yüklenen `Proxy Audio Device Settings` uygulamasını çalıştırarak kurulum işlemine başlayın; şöyle görünecektir:
 
-![uygulamanın simgesi](/volume_fix/app_icon.png)
+![app's icon](/volume_fix/app_icon.png)
 
-2. Açıldığında şuna benzer bir pencere görünecektir.
+2. Açıldığında, şu şekilde bir pencere görünecektir.
 
-![uygulamanın arayüzü](/volume_fix/app_window.png)
+![app's ui](/volume_fix/app_window.png)
 
-Bu rehberden ayrılmak için acele etme, çoğu kişi gibi şu şekilde ayarlayabilirsin:
+Bu eğitimden çıkmaya çalışmayın; çoğu kullanıcı aşağıdaki şekilde ayarlayabilir:
 
-- `Proxy device name`: Çıkışın adı, olduğu gibi bırakabilirsin.
-- `Proxied device`: Ses kaynağı (AirRep'inin adını seç)
-- `Buffer size`: macOS'un ses işlemesi için izin verilen süre (basitleştirilmiş) (lütfen **olduğu gibi bırak**, 512 çoğunluk için yeterlidir)
-- `Proxy device is active`: Yazılımın arka planda nasıl çalıştığı. İşte bu kısım biraz karmaşık, ama şu seçeneklere indirgeniyor:
-    + Ses kesilmesini (kısa süreli sesler) umursamıyorsan `When proxied device is active` seçeneğini seç
-    + Çoğu kişi için `When user is not idle` seçeneğini seç
-    + Tutarlı ses veya oyun isteyenler için `Always` seçeneğini seç.
+- `Proxy device name`: Çıkışın adı; olduğu gibi bırakabilirsiniz.
+- `Proxied device`: Ses kaynağı (AirRep'inizin adını seçin)
+- `Buffer size`: macOS'un sesi işlemesi için izin verilen süre (basitleştirilmiş) (lütfen **olduğu gibi bırakın**, 512 çoğu kullanıcı için yeterlidir)
+- `Proxy device is active`: Yazılımın arka planda nasıl çalıştığı. Bu biraz kafa karıştırıcı olabilir, ancak şu seçeneklere indirgenir:
+    + Sesi kesilmesine aldırmıyorsanız (kısa süreli sesler), `When proxied device is active` seçin
+    + Çoğu kullanıcı için `When user is not idle` seçin
+    + Tutarlı ses veya oyun için `Always` seçin.
 
-3. Son olarak Kontrol Merkezi > Ses > ">" simgesine git ve yeni oluşturulan ses cihazını (`Proxy Audio Device` varsayılan olarak) seç.
+3. Son olarak, Kontrol Merkezi > Ses > ">" simgesi üzerinden yeni oluşturulan ses cihazını seçin (varsayılan olarak `Proxy Audio Device`).
 
-<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="ses cihazını seç"></video>
+<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="pick audio device"></video>
 
 
 ## **Yan Etkiler**
 
-Çoğu zaman kullanmakta bir sorun olmasa da bazı kullanıcılar şu sorunlarla karşılaşabilir:
+Çoğu zaman kullanıma uygunsa da, bazı kullanıcılar şu sorunlarla karşılaşabilir:
 ::: details Üst çubukta "Ses" simgesi yok
-Maalesef sesi kontrol etmek için Kontrol Merkezi'ne gitmen gerekiyor (veya bir klavye kısayolu kullan).
+Ne yazık ki sesi kontrol etmek için Kontrol Merkezi'ne gitmeniz gerekir (veya klavye kısayolu kullanın).
 :::
 
 :::details Bağlantı kesildiğinde ses yok
-Uygulama yalnızca seçilen cihaza bağlı kalmak için tasarlanmıştır. Manuel olarak "Internal Speaker"ı yeniden seçmen gerekir.
+Uygulama seçilen cihaza her zaman bağlı kalacak şekilde tasarlanmıştır. "Internal Speaker"ı manuel olarak yeniden seçmeniz gerekir.
 :::
 
-:::details Çıtırdama/patırtı veya tek taraflı ses
-Buffer boyutunu artırarak / veya uygulamanın `Proxy Device in Active` seçeneğinde `Always` seçeneğini seçerek bunu aşabilirsin.
+:::details Patlama/tıkırtı veya tek taraflı ses
+Bunu aşmak için buffer boyutunu artırabilir veya uygulamanın `Proxy device is active` seçeneğinde `Always`i seçebilirsiniz.
 :::
 
 ## **Kaldırma**
 
-Uygulamayı kaldırmak istersen Terminal'de şu komutu çalıştırman yeterli:
+Uygulamayı kaldırmak isterseniz, Terminal'de şu komutu çalıştırın:
 
 `brew remove --cask proxy-audio-device`
 
-...ardından sistemi yeniden başlat.
+...ardından sisteminizi yeniden başlatın.
 
 ## **İsteğe Bağlı: Anket**
 
-Bu geçici çözümün gerçekten işe yarayıp yaramadığını anlamak için [burada](http://poll-maker.com/poll5643879x05fb4568-166) bir anket hazırladım. Yapması son derece basit ve genel durumu görmek için çok yardımcı oluyor, düşüncelerini paylaşırsan çok sevinirim!
+Bu çözümün gerçekten işe yarayıp yaramadığını öğrenmek için [burada](http://poll-maker.com/poll5643879x05fb4568-166) bir anket oluşturdum. Oldukça basit ve bu çözümün genel bir resmini elde etmeye çok yardımcı oluyor. Düşüncelerinizi paylaşırsanız çok memnun olurum!
 
-[![anket](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)
+[![poll](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)

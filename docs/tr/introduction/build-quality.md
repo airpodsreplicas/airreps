@@ -1,58 +1,58 @@
 ---
-description: "Yapı kalitesi detaylı inceleme: Ağırlık, menteşe, yazı doğruluğu, mıknatıslar ve LED difüzörleri."
+title: AirPods Replika Yapı Kalitesi
+description: 'Yapı kalitesi derinlemesine inceleme: Ağırlık, menteşe, yazı doğruluğu, mıknatıslar ve LED difüzörleri.'
 faq:
-  - q: "Sahte AirPods gerçek bir kasada veya tersi şekilde şarj edilebilir mi?"
-    a: "Hayır, sahte AirPods gerçek bir kasada şarj edilmemelidir. Bunu yapmak sahte AirPods'un bozulmasına neden olabilir. Gerçek AirPods'u sahte bir kasada şarj etmek de önerilmez."
-  - q: "AirPods kasaları klonlara uyar mı?"
-    a: "Tüm yumuşak silikon koruyucu kasalar uyacaktır, ancak sert plastik kasalar çoğu klona uymayabilir (çoğunlukla orijinallerden biraz daha büyük olan eski modeller). Bazı sert kasalar uyabilir, ancak çıkmayabilir veya hafif çıkıntılı düğmeyi etkileyebilir."
+  - q: Sahte AirPods gerçek bir şarj kutusunda şarj edilebilir mi veya tam tersi?
+    a: 'Hayır, sahte AirPods gerçek bir şarj kutusunda şarj edilmemelidir. Bu, sahte AirPods''un bozulmasına yol açabilir. Gerçek AirPods''u sahte bir kutuda şarj etmek de önerilmez.'
+  - q: AirPods şarj kutuları klonlara uyar mı?
+    a: 'Tüm yumuşak silikon koruyucu kılıflar uyar, ancak sert plastik kılıflar çoğu klona uymayabilir (çoğunlukla daha eski modeller, çünkü orijinallerinden biraz daha büyüktür). Bazı sert kılıflar uyabilir, ancak çıkarılamayabilir veya düğmeyi etkileyebilir.'
 ---
+# Yapım Kalitesi
 
-# Yapı Kalitesi
-
-AirPods replikalarının yapı kalitesini anlamak, genel dayanıklılıklarını ve özgünlüklerini değerlendirmene yardımcı olabilir.
+AirPods replikalarının yapım kalitesini anlamak, genel dayanıklılık ve orijinalliğini değerlendirmeye yardımcı olur.
 
 ## Ağırlık
 
-Kasa ve kulaklıklar genel olarak iyi bir ağırlığa sahiptir. Çoğu model orijinal AirPods'un doğru ağırlığına uymaktadır.
+Kılıf ve kulaklıklar genellikle yeterli ağırlığa sahiptir. Çoğu model orijinal AirPods'un ağırlığıyla uyumludur.
 
 ## Menteşe
 
-Bazı modeller metalik boyalı plastik menteşe kullanırken, diğerleri gerçek metal menteşe kullanır. Bazı plastik menteşeler ucuz hissedebilir, gıcırdayabilir, oynayabilir ve sağlamlıktan yoksun olabilir. Kullanılabilir olmalarına rağmen orijinal AirPods ile karşılaştırıldığında fark edilirler. Metal menteşeler belirgin şekilde daha üstün hissettirir.
-AirReps'te satılan tüm replikaların metal menteşelere sahip olduğunu bilmek önemlidir. Bazı ürünler (Huilian ve HR<b>+</b> gibi) Apple menteşesinin neredeyse birebir kopyasını kullanır. Şu an için HR+'da bazı hizalama sorunları var, bu yüzden fiyat farkı haklı çıkmayabilir. TB, HR ve Huilian yapıları arasındaki detaylı farklar için [AirPods Pro 2 versiyon karşılaştırmasına](/tr/version-info/airpods-pro-2) bak.
+Bazı modeller metalik boya ile kaplanmış plastik menteşe kullanırken, diğerleri gerçek metal menteşe kullanır. Bazı plastik menteşeler ucuz hissi verebilir, gıcırdayabilir, oynayabilir ve sağlamlık eksikliği gösterebilir. Kullanılabilir olsalar da orijinal AirPods ile kıyaslandığında fark edilirler. Metal menteşeler belirgin şekilde daha iyi hissettirir.
+Bilmeniz gereken önemli bir nokta: AirReps'te satılan tüm replikalarda metal menteşe vardır. Bazı birimler (ör. Huilian ve HR<b>+</b>) Apple menteşesinin neredeyse kusursuz bir kopyasını kullanır. Şu anda HR+ bazı hizalanma sorunlarına sahip, bu yüzden fiyat farkı haklı görülemeyebilir. TB, HR ve Huilian yapıları arasındaki detaylı farklar için [AirPods Pro 2 version comparison](/tr/version-info/airpods-pro-2) sayfasına bakın.
 
-## Yazılar
+## Yazı
 
-Arkadaki "Designed by Apple" yazısı orijinaline benzer bir font kullanır. Kasanın içindeki ve kulaklıkların üzerindeki yazılar benzer görünür ancak orijinal AirPods ile tam olarak eşleşmez. Bazı partilerde gerçek seri numaraları bulunurken diğerlerinde yoktur. Yazı hizalaması ve rengi değişebilir; bazen tamamen düz olmayabilir veya orijinallere kıyasla daha açık veya koyu gri olabilir. "Designed by Apple" yazısının kalitesi satıcıya göre farklılık gösterir; Hicity'nin lazer gravürü Earhive ve Jenny'ninkinden daha az doğrudur. Bu farkları nasıl fark edebileceğin hakkında daha fazla bilgi için [QC & LC rehberimize](/tr/ordering/qc-lc) bak.
+Kasanın arkasındaki "Designed by Apple" yazısı orijinale benzer bir font kullanır. Kasanın içindeki ve kulaklıklardaki yazı benzer görünür ancak orijinal AirPods'la birebir aynı değildir. Bazı partilerde gerçek seri numaraları bulunurken bazılarında bulunmayabilir. Yazı hizalaması ve rengi değişkenlik gösterebilir; bazen tamamen düz olmayabilir veya orijinallere göre daha açık ya da daha koyu gri olabilir. "Designed by Apple" yazısının kalitesi satıcıya göre değişir; Hicity'nin lazer gravürü Earhive ve Jenny'inkinden daha az hassastır. Bu farklılıkları nasıl tespit edeceğinize dair daha fazla bilgi için [QC & LC guide](/tr/ordering/qc-lc) bölümüne bakın.
 :::tip
-Tercih ettiğin satıcıya, sipariş numaranla birlikte gravür edilmesini istediğin yazıyı içeren bir WhatsApp mesajı göndererek özel lazer gravür talep edebilirsin. Logo veya detaylı tasarımlar gibi daha özel istekler için favori çalışmanı .svg veya .png formatında Jenny veya Earhive'a gönderebilirsin. Normal metin ve emojiler bu dosya formatlarını gerektirmez.
+Özel lazer gravürü, tercih ettiğiniz satıcıya sipariş numaranız ile birlikte gravürlenmesini istediğiniz metni WhatsApp üzerinden göndererek talep edilebilir. Logo veya detaylı tasarımlar gibi daha özel istekler için favori artwork'ünüzü .svg veya .png formatında Jenny veya Earhive'e gönderebilirsiniz. Normal metin ve emoji'ler bu dosya formatlarını gerektirmez.
 :::
 
 ## Arka Düğme
 
-Arka düğme kasayla aynı hizadadır, ancak bazı modellerde orijinalinden daha yüksek sesle tıklar ve o kadar pürüzsüz hissetmez. Bazı partilerde düğme daha belirgindir.
+Arka düğme kılıfla düz hizadadır, ancak bazı modellerde orijinalinden daha yüksek sesle tıklanır ve o kadar pürüzsüz hissettirmez. Bazı partilerde daha belirgin bir düğme bulunur.
 
-## Kapak ve Mıknatıslar
+## Kapak ve mıknatıslar
 
-En son modellerin tümü ters mıknatıslara sahiptir ve kapağın gerektiğinde açık kalmasını sağlar.
+Tüm en son modeller ters mıknatıslar kullanır, bu sayede kapak gerektiğinde açık kalır.
 
-## LED Difüzör
+## LED Difüzörü
 
-Daha yeni modeller LED'i karartmak için bir LED difüzör içerir.
+Daha yeni modeller LED'i yumuşatmak için bir LED difüzörü içerir.
 
-## Kulak Uçları (AirPods Pro Replikaları)
+## Kulak Uçları (AirPods Pro replikaları)
 
-AirPods Pro replikalarında kulak uçlarını zorla çıkarmaktan kaçın, aksi halde kulaklıklara zarar verebilirsin. Kulak uçlarını çıkarmak için çevir ve çek. Kulaklıkları tutarken hasarı önlemek için gövdeden değil uç kısmından tut. Daha fazla bilgi için Discord sunucusunda /eartip komutunu kullanabilirsin.
+AirPods Pro replikaları için kulak uçlarını zorla çıkarmaktan kaçının; bu kulaklıklara zarar verebilir. Kulak uçlarını çıkarmak için onları döndürüp çekin. Kulaklıkları tutarken, sapından değil uç kısmından tutun, böylece hasarı önlemiş olursunuz. Daha fazla bilgi için Discord sunucusunda /eartip komutunu kullanabilirsiniz.
 
-::: warning
-AirPods Pro replikalarında hasardan kaçınmak için kulaklıkları dikkatli kullan. Kulak uçlarını zorla çıkarma.
+:::warning
+AirPods Pro replikalarını dikkatli kullanın, hasarı önlemek için kulak uçlarını zorla çıkarmayın.
 :::
 
 ## SSS
 
-::: details Sahte AirPods gerçek bir kasada veya tersi şekilde şarj edilebilir mi?
-Hayır, sahte AirPods gerçek bir kasada şarj edilmemelidir. Bunu yapmak sahte AirPods'un kısa süre sonra bozulmasına neden olabilir. Gerçek AirPods'u sahte bir kasada şarj etmek de önerilmez.
+:::details Kopya AirPods'lar gerçek bir kılıfta şarj edilebilir mi veya tam tersi?
+Hayır, kopya AirPods'lar gerçek bir kılıfta şarj edilmemelidir. Bu işlem, kopya AirPods'ların kısa süre sonra bozulmasına neden olabilir. Benzer şekilde, gerçek AirPods'ların sahte bir kılıfta şarj edilmesi de önerilmez.
 :::
 
-::: details AirPods kasaları klonlara uyar mı?
-Tüm yumuşak silikon koruyucu kasalar uyacaktır, ancak sert plastik kasalar çoğu klona uymayabilir (çoğunlukla orijinallerden biraz daha büyük olan eski modeller). Bazı sert kasalar uyabilir, ancak çıkmayabilir veya hafif çıkıntılı düğmeyi etkileyebilir.
+:::details AirPods kılıfları klonlara uyum sağlar mı?
+Tüm yumuşak silikon koruyucu kılıflar uyum sağlar, ancak sert plastik kılıflar çoğu klona uymayabilir (çoğunlukla daha eski modeller, çünkü orijinallerden biraz daha büyük olurlar). Bazı sert kılıflar uyabilir, ancak hafifçe çıkıntı yapıyorsa çıkarılamayabilir veya düğmeyi etkileyebilir.
 :::

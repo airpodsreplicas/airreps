@@ -1,34 +1,34 @@
 ---
-description: Incompatibilidad de AirReps con iCloud Connect
+title: Réplicas de AirPods & iCloud Connect
+description: 'Por qué las réplicas de AirPods no pueden utilizar por completo iCloud Connect en macOS, y una solución paso a paso para el problema de emparejamiento y verificación.'
 ---
-
 # **Incompatibilidad de AirReps con iCloud Connect**
-Un problema común con algunas réplicas de AirPods es su compatibilidad con macOS. Este problema es causado por la incapacidad de las réplicas de soportar completamente iCloud, resultando en fallo de verificación de iCloud. Este problema se puede solucionar fácilmente siguiendo las instrucciones a continuación.
+Un problema común con algunas réplicas de AirPods es su compatibilidad con macOS. Este problema se debe a la incapacidad de las réplicas para soportar completamente iCloud, lo que provoca un fallo en la verificación de iCloud. Este problema puede solucionarse fácilmente siguiendo las instrucciones a continuación.
 
-**PD: Este bug no está presente en clones que usan el chipset Huilian.** Consulta la [guía de conectividad](/es/introduction/connectivity) para más información sobre diferencias de chipset y compatibilidad con macOS.
+**PD: Este error no está presente en clones que usan el chipset Huilian.** Consulta la [guía de conectividad](/es/introduction/connectivity) para más información sobre las diferencias de chipset y la compatibilidad con macOS.
 
-## **Paso 1**: Olvidar AirPods de Dispositivos iCloud
+## **Paso 1**: Olvida los AirPods de los dispositivos conectados a iCloud
 
-En tu **iPhone/iPad** (o cualquier dispositivo conectado a iCloud), ve a **Configuración > Bluetooth**.
+En tu **iPhone/iPad** (o cualquier dispositivo conectado a iCloud), ve a **Ajustes > Bluetooth**.
 
-Encuentra tus **AirPods** en la lista, toca el ícono "i", y selecciona Olvidar Este Dispositivo.
+Busca tus **AirPods** en la lista, toca el icono "i" y selecciona Olvidar este dispositivo.
 
-Haz esto en cualquier otro dispositivo Apple conectado (iPad, Apple Watch, etc.)
+Haz esto en cualquier otro dispositivo Apple conectado (iPad, Apple Watch, etc.).
 
-## **Paso 2**: Olvidar **AirPods** de **macOS**
+## **Paso 2**: Olvida los **AirPods** en **macOS**
 
 En **macOS**, abre Preferencias del Sistema > Bluetooth.
 
 Encuentra tus AirPods en la lista, haz clic derecho y selecciona Eliminar.
 
-## **Paso 3**: **Reiniciar** Tus Réplicas de AirPods
+## **Paso 3**: **Restablece** tus réplicas de AirPods
 
 Coloca tus AirPods en el estuche de carga y abre la tapa.
 
-Mantén presionado el botón de emparejamiento en la parte trasera durante 15 segundos hasta que la luz parpadee ámbar y luego blanca. Luego cierra el estuche.
+Pulsa y mantén presionado el botón de emparejamiento en la parte posterior durante 15 segundos hasta que la luz parpadee ámbar y luego blanca. Después cierra el estuche.
 
-## **Paso 4**: Re-emparejar AirPods con **macOS**
+## **Paso 4**: Vuelve a emparejar los AirPods con **macOS**
 
-Abre el estuche de AirPods y asegúrate de que la luz blanca esté parpadeando.
+Abre el estuche de los AirPods y asegúrate de que la luz blanca esté parpadeando.
 
 En macOS, ve a **Preferencias del Sistema > Bluetooth** y selecciona Conectar junto a tus AirPods.

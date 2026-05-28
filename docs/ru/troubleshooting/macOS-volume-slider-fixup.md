@@ -1,97 +1,96 @@
 ---
-title: Ползунок громкости не работает в macOS
-description: Исправление проблемы с ползунком громкости в macOS на компьютерах Intel. Простой обходной путь, чтобы вернуть контроль над выходным звуком.
+title: Ползунок громкости не работает на macOS
+description: 'Исправьте проблему с ползунком громкости в macOS на Intel Macs. Простое обходное решение, позволяющее вернуть контроль над выводом звука.'
 ---
+# Проблема: ползунок громкости не работает.
 
-# The Problem: Volume Slider Bar won't work.
-
-This is one of the most well-known problem on the **Intel** version of macOS, where the volume slider bar that controls audio volume simply won't work, but only acts as a switch (happened to most replicas out there, though some were unaffected). While Apple themselves would never look into the problem, we can circumvent this with an [open sourced tool](https://github.com/briankendall/proxy-audio-device).
+Это одна из самых известных проблем в версии macOS для **Intel**, когда ползунок громкости, управляющий уровнем звука, просто не работает и ведёт себя как переключатель (это затрагивает большинство реплик, хотя некоторые не подвержены проблеме). Поскольку Apple вряд ли займётся этой проблемой, мы можем обойти её с помощью [инструмента с открытым исходным кодом](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
-This guide is meant for those that have Intel-based Macs (i3, i5, i7; not M series chip). If your Apple Silicon (M series chip) Mac won't play audio with your current AirReps, check out the [Common Bugs](/ru/troubleshooting/other-common-bugs) section.
+Это руководство предназначено для пользователей Mac на базе Intel (i3, i5, i7; не для чипов M series). Если ваш Mac на Apple Silicon (M series chip) не воспроизводит звук с текущими AirReps, посмотрите раздел [Распространённые ошибки](/ru/troubleshooting/other-common-bugs).
 :::
 
-## **Prerequisite**
+## **Требования**
 
-Before the tutorial, please make sure that you:
-- Have `sudo` access (or your macOS' account did have administrative access)
-- `brew` package installer (if not, simply follow this [section](#brew-installation))
+Перед началом убедитесь, что:
+- У вас есть доступ `sudo` (ваша учётная запись macOS должна иметь права администратора)
+- Установлен пакетный менеджер `brew` (если нет, следуйте этому [разделу](#brew-installation))
 
 :::tip
-PS: using `brew` is much easier than manual installation, but if you want to skip using `brew`, you can read this and follow the steps [here](https://github.com/briankendall/proxy-audio-device#manual-installation).
+PS: использование `brew` значительно проще, чем ручная установка, но если вы хотите обойтись без `brew`, вы можете прочитать это и следовать шагам [здесь](https://github.com/briankendall/proxy-audio-device#manual-installation).
 :::
 
-## **`brew` Installation**
+## **Установка `brew`**
 
-If you haven't got `brew` installed on your system, we can start here. Enter [this](https://brew.sh/) page, copy the command and run it in Terminal.
+Если у вас ещё не установлен `brew`, начнём отсюда. Перейдите на [эту страницу](https://brew.sh/), скопируйте команду и выполните её в Терминале.
 
-<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Установка через Терминал"></video>
+<video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation using Terminal"></video>
 
 :::warning
-Вам может быть предложено ввести пароль, введите пароль как обычно (ваш пароль может выглядеть скрытым, но это не так в данном случае).
+Возможно, система запросит ваш пароль — введите его как обычно (пароль может выглядеть так, будто скрыт, но в этом случае он не скрыт).
 :::
 
-## **Installation**
+## **Установка**
 
-### **Download**
-Once everything is ready, you can start by opening Terminal, then run the following command:
+### **Загрузка**
+Когда всё готово, откройте Терминал и выполните команду:
 `brew install --cask proxy-audio-device`
 
-<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="установка proxy-audio-device"></video>
+<video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="install proxy-audio-device"></video>
 
 :::tip
-Во время установки это нормально, если системный звук немного глючит. Поэтому убедитесь, что вы делаете это в среде без обработки звука (никакие программы для обработки звука не запущены).
+Во время установки нормально, если звук системы немного прервётся. Выполняйте это, когда никакой аудио не воспроизводится и никакие программы для редактирования звука не запущены.
 :::
 
-### **Setting Up**
-1. Navigate to Launchpad, run the newly installed `Proxy Audio Device Settings` to begin the setup process, it will look something like this:
+### **Настройка**
+1. Откройте Launchpad и запустите только что установленное приложение `Proxy Audio Device Settings`, чтобы начать настройку. Оно будет выглядеть примерно так:
 
 ![иконка приложения](/volume_fix/app_icon.png)
 
-2. Once open, a window will show up like so.
+2. После открытия появится окно, похожее на это.
 
 ![интерфейс приложения](/volume_fix/app_window.png)
 
-Don't be tempted to click off this tutorial, most people like you can set them up like so:
+Не закрывайте это руководство — большинство пользователей настраивают его так:
 
-- `Proxy device name`: Name of the output, you can leave them as is.
-- `Proxied device`: Audio source (select your AirRep's name)
-- `Buffer size`: Permitted time for macOS to process audio (oversimplified) (please **leave them as is**, as 512 is sufficient for the majorities)
-- `Proxy device is active`: How the software works in the background. This is where it gets tricky, but it boils down to these option:
-    + If you don't mind the audio cut off (short duration sounds), pick `When proxied device is active`
-    + For most people, pick `When user is not idle`
-    + For people who want consistent audio, or gaming, pick `Always`.
+- `Proxy device name`: Имя выхода; можно оставить как есть.
+- `Proxied device`: Источник звука (выберите имя вашего AirRep)
+- `Buffer size`: Время, выделяемое macOS на обработку звука (упрощённо) (пожалуйста, **оставьте как есть**, 512 подходит большинству пользователей)
+- `Proxy device is active`: Как программа ведёт себя в фоновом режиме. Здесь всё немного сложнее, но сводится к таким вариантам:
+    + Если вас не пугают обрывы звука (короткие звуки), выберите `When proxied device is active`
+    + Для большинства пользователей — `When user is not idle`
+    + Для тех, кто хочет стабильный звук (например, для игр) — `Always`.
 
-3. Finally, navigate to Control Center > Sound > the ">" icon, and pick the newly created audio device (`Proxy Audio Device` by default).
+3. Наконец, откройте Control Center > Sound > иконку ">", и выберите только что созданное аудиоустройство (`Proxy Audio Device` по умолчанию).
 
-<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="выбор аудиоустройства"></video>
+<video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="pick audio device"></video>
 
 
-## **Side-effects**
+## **Побочные эффекты**
 
-While it is fine to use most of the time, some users might face these issues:
-::: details Нет значка «Звуки» в верхней панели
-К сожалению, вам придётся переходить в Центр управления для управления звуком (или использовать горячие клавиши).
+Хотя обычно всё работает нормально, у некоторых пользователей могут возникнуть следующие проблемы:
+::: details Нет значка "Sounds" на верхней панели
+К сожалению, придётся использовать Control Center для управления звуком (или сочетание клавиш).
 :::
 
 :::details Нет звука при отключении
-Приложение разработано так, чтобы всегда подключаться к выбранному устройству. Вам придётся вручную выбрать «Internal Speaker».
+Приложение настроено так, что постоянно подключается к выбранному устройству. Вам нужно вручную снова выбрать "Internal Speaker".
 :::
 
-:::details Треск/щелчки или односторонний звук
-Вы можете обойти это, увеличив размер буфера или выбрав `Always` в опции `Proxy Device in Active` приложения.
+:::details Шумы/хлопки или звук в одном канале
+Избежать этого можно, увеличив Buffer size или установив `Always` в опции `Proxy device is active` приложения.
 :::
 
-## **Uninstalling**
+## **Удаление**
 
-If you wish to remove the app, you can simply run this command in the Terminal:
+Если вы хотите удалить приложение, выполните в Терминале команду:
 
 `brew remove --cask proxy-audio-device`
 
-...then restart your system.
+...затем перезагрузите систему.
 
-## **Optional: Survey**
+## **Необязательно: опрос**
 
-I've made a poll [here](http://poll-maker.com/poll5643879x05fb4568-166) to figure out if this workaround is actually working. It's incredibly simple to do and it helps a lot to get a whole picture of this workaround, I'll be much appreciated if you share your thoughts!
+Я создал опрос [здесь](http://poll-maker.com/poll5643879x05fb4568-166), чтобы понять, действительно ли этот обходной путь работает. Это очень просто, и он помогает получить полную картину. Буду признателен, если вы поделитесь своим мнением!
 
-[![poll](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)
+[![опрос](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)

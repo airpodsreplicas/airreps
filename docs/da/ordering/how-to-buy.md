@@ -1,83 +1,83 @@
 ---
-description: Bestil AirPods-kopier sikkert. Betalingsmetoder, betroede sælgere, forsendelsestips og undgåelse af svindel.
+title: Sådan Køber Du AirPods-Kopier Sikkert
+description: 'Bestil AirPods-kopier sikkert. Betalingsmetoder, pålidelige sælgere, forsendelsestips og undgå svindel.'
 faq:
-  - q: "Hvilke betalingsmetoder accepterer betroede sælgere?"
-    a: "Betroede sælgere accepterer kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, som er tilgængelige gennem agenter som KakoBuy. PayPal understøttes i øjeblikket ikke."
-  - q: "Hvorfor bliver jeg omdirigeret til en krypto-hjemmeside, når jeg betaler med kreditkort?"
-    a: "Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle kreditkortbetalinger. Dit kort køber krypto, som fuldfører ordren. For at undgå KYC, brug KakoBuy — en agent, der accepterer almindelige kreditkort uden identitetskontrol."
-  - q: "Bemærkning om Alibaba-links og emballage"
-    a: "Apple slår ned på replika-links på AliExpress og Alibaba. Ordrer gennem Alibaba leveres altid i neutral emballage (ingen Apple-logo æske). Sælgeres direkte websteder og Weidian-butikker tilbyder flere emballagemuligheder."
+  - q: Hvilke betalingsmetoder accepterer pålidelige sælgere?
+    a: 'Pålidelige sælgere accepterer Kreditkort, Alipay, Revolut, Wise, Bankoverførsel, og Bitcoin. Alle sælgere har Weidian-butikker, der er tilgængelige gennem agenter som KakoBuy. PayPal understøttes ikke direkte af sælgerne, selvom KakoBuy-agenten accepterer det.'
+  - q: 'Hvorfor bliver jeg omdirigeret til en kryptohjemmeside, når jeg betaler med Kreditkort?'
+    a: 'Pålidelige sælgere bruger en sikker kryptobetalingsgateway til at behandle Kreditkortbetalinger. Dit kort køber krypto, som fuldfører ordren. For at undgå KYC, brug KakoBuy — en agent, der accepterer almindelige kreditkort uden identitetskontrol.'
+  - q: Bemærkning om Alibaba-links og emballage
+    a: Apple slår ned på kopi-links på AliExpress og Alibaba. Ordrer via Alibaba leveres altid i neutral emballage (ingen Apple-logoæske). Sælgeres direkte hjemmesider og Weidian-butikker tilbyder flere emballagemuligheder.
 ---
-
-# Bestilling
+# Ordering
 
 ::: info
-Leder du efter at købe AirPods-kopier? Denne guide dækker sikker sourcing, betalingsmetoder og hvad du skal tjekke ved bestilling.
+Leder du efter at købe AirPods-replikater? Denne guide dækker sikker sourcing, betalingsmetoder og hvad du skal tjekke, når du bestiller.
 :::
 
-## Sådan Køber Du
+## How to Buy
 
-Vi anbefaler altid at købe fra [betroede sælgere](/da/links/info). De fleste sælgere har deres egne hjemmesider, der accepterer forskellige betalingsmetoder, herunder [Kreditkort](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin og bankoverførsel. Alle sælgere har også Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [KakoBuy guide](/da/ordering/kakobuy) for en komplet gennemgang.
+Vi anbefaler altid at købe fra [pålidelige sælgere](/da/links/info). De fleste sælgere har deres egne hjemmesider, som accepterer forskellige betalingsmetoder, herunder [Credit Card](#credit-card-note), [Alipay](#paying-with-alipay), Revolut, Wise, Bitcoin og bankoverførsel. Alle sælgere har også Weidian-butikker, som er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [KakoBuy guide](/da/ordering/kakobuy) for en fuld gennemgang.
 
-AirReps-fællesskabet anbefaler flere sælgere for at undgå monopol og fremme konkurrence, hvilket gavner brugerne. Hver sælger tilbyder unikke tjenester, kvalitetskontrol (QC), platforme og priser.
+AirReps-fællesskabet anbefaler flere sælgere for at undgå monopol og fremme konkurrence, hvilket gavner brugerne. Hver sælger tilbyder unikke tjenester, kvalitetskontrol (QC), platforme og prissætning.
 
-Bestilling er simpelt: vælg det produkt, du ønsker, og gennemfør købet. Ikke sikker på hvilken model? Tag vores [hurtige quiz](/da/quiz) eller sammenlign versioner i afsnittet [versionsinfo](/da/version-info/general).
+Bestilling er enkelt: vælg det produkt, du vil have, og gennemfør købet. Er du ikke sikker på, hvilken model? Tag vores [hurtige quiz](/da/quiz) eller sammenlign versioner i afsnittet om [version info](/da/version-info/general).
 
 ::: tip
 Betalinger via Wise eller bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer, før din ordre behandles.
 :::
 
-## Betaling med AliPay
+## Paying with Alipay
 
-Mange betroede sælgere accepterer nu AliPay, hvilket giver nemme kortbetalinger uden KYC-verifikation.
+Mange betroede sælgere accepterer nu Alipay, hvilket gør kortbetalinger nemme uden KYC-verifikation.
 
-**Hurtig Opsætning:** Download AliPay-appen, opret en konto med dit telefonnummer/e-mail, og tilføj derefter en betalingsmetode.
+**Quick Setup:** Download Alipay-appen, opret en konto med dit telefonnummer/e-mail, og tilføj derefter en betalingsmetode.
 
-**Sådan Betaler Du:** Placer din ordre, vælg AliPay, og scan derefter den viste QR-kode med AliPay-appen for at fuldføre betalingen.
+**To Pay:** Giv din ordre, vælg Alipay, og scan derefter den viste QR-kode med Alipay-appen for at gennemføre betalingen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
 
 
 
-## Information om AliExpress/Alibaba
+## Information about AliExpress/Alibaba
 
-Når du køber fra AliExpress, så husk at kundeservice, refunderinger og returneringer muligvis ikke er så robuste som hos større, mere etablerede forhandlere som Amazon. Dine betalingsoplysninger er krypteret gennem AliPay, hvilket gør køb sikre, men vær opmærksom på potentielle begrænsninger ved refunderinger og returneringer. *Køb på egen risiko.*
+Når du køber fra AliExpress, skal du være opmærksom på, at kundeservice, refusioner og returneringer muligvis ikke er lige så robuste som hos større, mere etablerede forhandlere som Amazon. Dine betalingsoplysninger er krypteret gennem Alipay, hvilket gør køb sikre, men vær opmærksom på potentielle begrænsninger for refusioner og returneringer. *Køb på egen risiko.*
 
 Sørg for, at du er tilfreds med dit køb ved grundigt at undersøge en sælger, før du køber, og læg mærke til deres politikker og omdømme.
 
 Vi anbefaler følgende trin:
 
-1. **Skatter**: Vi anbefaler kun betroede sælgere, der tager sig af moms/skatter på forhånd for europæiske købere, så du ikke skal betale moms, når pakken ankommer til EU.
+1. **Taxes**: Vi anbefaler kun betroede sælgere, som håndterer moms/skatter på forhånd for europæiske købere, så du ikke behøver at betale moms, når pakken ankommer til EU.
 
-2. **Produktæske**: For en æske med Apple-logoer, anmod om "with Apple box" i stedet for en "no logo box". Dog medfører dette en højere risiko for, at pakken beslaglægges i tolden, og at du ikke får en refundering. Vi anbefaler ikke denne mulighed, da AirPods indeni er identiske uanset æsken. Hvis du ønsker at tage risikoen, kan du anmode om en æske med Apple-logoer. Læs mere om æsketyper i vores [emballageguide](/da/introduction/packaging).
+2. **Product Box**: For en boks med Apple-logoer, bed om en "with Apple box" i stedet for en "no logo box." Dette indebærer dog en højere risiko for, at pakken bliver konfiskeret i tolden, og at du ikke får refusion. Vi anbefaler ikke denne mulighed, da AirPods indeni er identiske uanset boks. Hvis du vil tage risikoen, kan du anmode om en boks med Apple-logoer. Læs mere om bokstyper i vores [packaging guide](/da/introduction/packaging).
 
 ::: warning
-Denne information gælder ved bestilling fra sælgere andre end HiCity eller Jenny AirReps-hjemmesiden. Hvis du bestiller fra disse hjemmesider, behøver du ikke bekymre dig om toldangivelser eller æsketypen, da de håndteres automatisk.
+Denne information gælder, når du bestiller fra sælgere andre end HiCity eller Jenny AirReps' hjemmeside. Hvis du bestiller fra disse hjemmesider, behøver du ikke bekymre dig om tolddeklarationer eller bokstype, da de vil blive håndteret automatisk.
 :::
 
-3. **Ordrebekræftelse** (Valgfrit): Efter du har købt, gå til din ordreside og tjek navnet på dit produkt (f.eks. Pro 2 V5.2 TB). Klik på "Contact Supplier" for at sende sælgeren en besked og bekræfte, at de sender det korrekte produkt. Spørg ikke om specifikke funktioner eller detaljer som "Er dette v5.2 med en Airoha-chip?", da sælgerne måske ikke bruger disse betegnelser.
+3. **Order Confirmation** (Optional): Efter du har købt, gå til din ordreside og tjek navnet på dit produkt (f.eks. Pro 2 V5.2 TB). Klik på "Contact Supplier" for at sende en besked til sælgeren og bekræfte, at de sender det korrekte produkt. Spørg ikke om specifikke funktioner eller detaljer som "Er dette v5.2 med en Airoha-chip?", da sælgerne måske ikke bruger disse navne.
 
 ::: tip
-Lad sælgerne vide, at du er fra AirReps-fællesskabet. Dette vil sikre, at de giver dig fremragende service og opretholder vores fællesskabs standarder. Desuden giver det os indflydelse til at tale for fremtidige købere som dig.
+Fortæl sælgerne, at du er fra AirReps-fællesskabet. Dette sikrer, at de yder fremragende service og opretholder vores fællesskabs standarder. Derudover giver det os mulighed for at tale på vegne af fremtidige købere som dig.
 :::
 
-4. **Forsendelsestimer**: På din ordreside på AliExpress vil der være en forsendelsesnedtælling, der automatisk bekræfter levering efter et vist antal dage. Hvis timeren er ved at udløbe, og du ikke har modtaget din ordre, skal du sørge for at klikke på "Extend Shipping Time" for at give dig selv yderligere 15 dage. Klik kun på "Order Received", når du har modtaget din ordre og bekræftet, at den er i god og funktionsdygtig stand.
+4. **Shipping Timer**: På din ordrside på AliExpress vil der være en forsendelsestimer, som automatisk bekræfter levering efter et bestemt antal dage. Hvis timeren er ved at udløbe, og du ikke har modtaget din ordre, skal du sørge for at klikke på "Extend Shipping Time" for at give dig selv yderligere 15 dage. Klik kun på "Order Received", når du har modtaget din ordre og bekræftet, at den er i god stand.
 
 ## FAQ
 
-::: details Hvilke betalingsmetoder accepterer betroede sælgere?
-Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, AliPay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butiksfacader, der er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [trinvise KakoBuy-guide](/da/ordering/kakobuy). Bemærk, at PayPal i øjeblikket ikke understøttes af nogen sælger. Betalingsmuligheder kan variere efter sælger—se [betalingsmetode-tabellen](/da/links/info#payment-methods) for en detaljeret oversigt.
+::: details What payment methods do trusted sellers accept?
+Pålidelige sælgere accepterer flere betalingsmetoder, herunder kreditkort, Alipay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, som er tilgængelige gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [step-by-step KakoBuy guide](/da/ordering/kakobuy). Bemærk, at PayPal ikke understøttes direkte af sælgerne, selvom [KakoBuy](https://airreps.link/kakobuy) agenten accepterer det. Betalingsmuligheder kan variere efter sælger — se [payment methods table](/da/links/info#payment-methods) for en detaljeret oversigt.
 :::
 <span id="credit-card-note"></span>
-::: details Hvorfor bliver jeg omdirigeret til en krypto-hjemmeside, når jeg betaler via Kreditkort?
-Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle kreditkortbetalinger. Dit kort bruges til at købe krypto, som derefter bruges til at fuldføre din ordre sikkert og effektivt.
+::: details Why am I redirected to a crypto website when paying via Credit Card?
+Betroede sælgere bruger en sikker crypto-betalingsgateway til at behandle kreditkortbetalinger. Dit kort bruges til at købe crypto, som derefter bruges til at fuldføre din ordre sikkert og effektivt.
 
-**Bemærk: Nogle betalingsprocessorer kan lejlighedsvis bede om et ID-tjek (KYC) for at overholde lokale regler, selvom dette ikke altid er påkrævet.**
+**Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
-**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, overvej at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform der køber produkter fra sælgere på dine vegne og giver kvalitetskontrol (QC) billeder før forsendelse. KakoBuy bruger almindelige betalingsprocessorer, der accepterer kredit- og debitkort og **kræver aldrig KYC-verifikation** eller identitetstjek. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden nogen KYC-krav, mens du stadig får den ekstra sikkerhed ved QC-billeder.
+**Alternative:** Hvis du vil undgå enhver mulighed for KYC-verifikation, kan du overveje at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform, der køber produkter fra sælgere på dine vegne og leverer kvalitetskontrol (QC) billeder før forsendelse. KakoBuy bruger almindelige betalingsprocessorer, der accepterer kredit- og betalingskort og kræver **aldrig KYC-verifikation** eller identitetskontroller. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden nogen KYC-krav, samtidig med at du får den ekstra sikkerhed ved QC-billeder. Se vores [KakoBuy ordering guide](/da/ordering/kakobuy) for detaljer.
 :::
 
-::: details Bemærkning om Alibaba-links og emballage
-Apple slår aggressivt ned på replika-links på platforme som AliExpress og Alibaba. Selvom sælgere (som Earhive) lejlighedsvis tilbyder Alibaba-links til køb, skal du være opmærksom på, at **ordrer afgivet via Alibaba altid vil ankomme i neutral emballage (ingen Apple-logo boks)** for at undgå told- og ophavsretsproblemer. Sælgernes direkte websteder og Weidian-butikker er generelt mere sikre og tilbyder flere Apple-lignende emballagemuligheder.
+::: details Note on Alibaba links and packaging
+Apple går aggressivt efter replica-links på platforme som AliExpress og Alibaba. Selvom sælgere (som Earhive) lejlighedsvis tilbyder Alibaba-links til køb, skal du være opmærksom på, at **ordrer via Alibaba altid vil komme med neutral emballage (ingen Apple-logo boks)** for at undgå problemer med told og ophavsret. Sælgeres direkte hjemmesider og Weidian-butikker er generelt mere sikre og tilbyder mere Apple-lignende emballagemuligheder.
 :::

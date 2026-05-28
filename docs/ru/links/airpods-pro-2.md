@@ -1,10 +1,10 @@
 ---
-description: "Доверенные ссылки продавцов и варианты покупки реплик AirPods Pro 2."
+title: 'Купить AirPods Pro 2 Реплики: Ссылки Продавцов'
+description: Надежные ссылки продавцов и варианты покупки реплик AirPods Pro 2.
 ---
-
 # AirPods Pro 2
 
-#### Версии и продавцы
+## Версии и продавцы
 
 <table>
   <tr>
@@ -44,12 +44,7 @@ description: "Доверенные ссылки продавцов и вариа
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcprov53hr2">Сайт</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov53hr2">Сайт</a>
@@ -178,5 +173,5 @@ description: "Доверенные ссылки продавцов и вариа
 
 
 ::: tip
-Выбор ссылки Weidian требует использования агента для доставки. Мы рекомендуем эту опцию только если вы хотите объединить доставку с другими товарами и знакомы с агентскими платформами. Для надёжного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy). Если вы новичок в использовании агентов, ознакомьтесь с нашим [руководством по заказу через KakoBuy](/ru/ordering/kakobuy).
+Выбор ссылки Weidian требует использования агента для доставки. Мы рекомендуем этот вариант только если вы хотите объединить доставку с другими товарами и знакомы с платформами агентов. Для надежного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy). Новичок в вопросе агентов? Ознакомьтесь с нашим [Руководством по заказу KakoBuy](/ru/ordering/kakobuy).
 :::

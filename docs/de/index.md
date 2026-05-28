@@ -1,33 +1,33 @@
 ---
 layout: home
 title: AirReps
-description: 'Der AirReps-Community-Leitfaden zu AirPods-Replikaten — auch bekannt als gefälschte AirPods oder AirPods-Klone. Finde vertrauenswürdige Verkäufer, Versionsvergleiche und ehrliche Bewertungen.'
+description: 'Der AirReps Community-Leitfaden Für AirPods-Repliken — Auch Bekannt Als Fake-AirPods Oder AirPods-Klone. Finde Vertrauenswürdige Verkäufer, Versionsvergleiche, Und Ehrliche Bewertungen.'
 hero:
   name: AirReps
-  text: AirPods-Replikate.
-  tagline: Eine Community für die Diskussion und Erforschung von AirPods-Klonen.
+  text: AirPods-Repliken.
+  tagline: Eine Community Für Die Diskussion Und Erforschung Von AirPods-Klonen.
   actions:
     - theme: brand
-      text: Lies den ultimativen Leitfaden
+      text: Den Ultimativen Leitfaden Lesen
       link: introduction/overview
     - theme: alt
-      text: Mach das Quiz
+      text: Mach Das Quiz
       link: quiz
 features:
   - icon: "🤝"
-    title: Helferteam
-    details: 'Engagierte Helfer, die bereit sind, fast jede Frage zu beantworten.'
+    title: Team Von Helfern
+    details: 'Engagierte Helfer, Die Bereit Sind, Fast Jede Frage Zu Beantworten, Die Du Haben Könntest.'
     link: 'https://airreps.link/discord'
-    linkText: Discord beitreten
+    linkText: Discord Beitreten
   - icon: ⏰
-    title: Auf dem neuesten Stand
-    details: 'Alle Ressourcen, Leitfäden und Apps werden von unserem engagierten Team stets auf dem neuesten Stand gehalten.'
+    title: Auf Dem Laufenden
+    details: 'Alle Ressourcen, Leitfäden Und Apps Werden Stets Vom Engagierten Mitarbeiterteam Auf Dem Neuesten Stand Gehalten.'
     link: /introduction/overview
-    linkText: Lies den Leitfaden
+    linkText: Leitfaden Lesen
   - icon: "💸"
-    title: Liste vertrauenswürdiger Verkäufer
-    details: 'Von der Community ausgewählte, gemeinnützige Verkäuferliste mit den neuesten Produkten und dem besten Support.'
+    title: Liste Vertrauenswürdiger Verkäufer
+    details: 'Von Der Community Ausgewählte, Nicht-Gewinnorientierte Verkäuferliste Mit Den Neuesten Produkten Und Dem Besten Support.'
     link: /links/info
-    linkText: Verkäufer anzeigen
+    linkText: Verkäufer Anzeigen
 ---
 <Contributor></Contributor>

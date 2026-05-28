@@ -1,9 +1,10 @@
 ---
+title: Dicionário de Réplicas de AirPods
 description: Um dicionário conciso de termos comuns usados na comunidade AirReps.
 ---
 # Dicionário
 
-## W2C: Onde Comprar/Onde Adquirir
+## W2C: Onde Comprar/Onde Encontrar
 
 "W2C" significa "Onde posso comprar este item?" Usado quando se procura a origem ou o vendedor de um produto.
 
@@ -11,21 +12,21 @@ description: Um dicionário conciso de termos comuns usados na comunidade AirRep
 
 ## Reps/Clones: Réplicas
 
-"Reps" ou "Clones" referem-se a imitações de produtos projetadas para copiar um determinado produto (neste caso, AirPods) o mais precisamente possível. Isto é distinto de um 'knockoff'.
+"Reps" ou "Clones" referem-se a imitações de produtos projetadas para copiar um determinado produto (neste caso, AirPods) o mais precisamente possível. Isso é distinto de um 'knockoff'.
 
-**Exemplo:** "Onde posso encontrar os melhores reps/clones de AirPods?"
+**Exemplo:** "Onde posso conseguir as melhores reps/clones dos AirPods?"
 
-## AirPods Falsos
+## Fake AirPods
 
-"AirPods falsos" é um termo informal para réplicas ou clones de AirPods. Neste guia, usamos "réplicas" ou "clones" para descrever produtos de terceiros de maior qualidade que visam igualar as funcionalidades da Apple a um preço mais baixo.
+"Fake AirPods" é um termo informal para réplicas ou clones de AirPods. Neste guia, usamos "réplicas" ou "clones" para descrever produtos de terceiros de maior qualidade que visam igualar recursos da Apple a um preço menor.
 
 ## Knockoffs
 
-"Knockoffs" referem-se a produtos projetados para se assemelhar a marcas populares enquanto evitam infrações de propriedade intelectual (por exemplo, "Gucce" em vez de "Gucci").
+"Knockoffs" referem-se a produtos projetados para se assemelhar a marcas populares evitando infração de propriedade intelectual (por exemplo, "Gucce" em vez de "Gucci").
 
 ## GP: Cobaia
 
-"Guinea Pigging" significa ser a primeira pessoa a encomendar e avaliar o produto de um vendedor, permitindo que a comunidade avalie sua qualidade.
+"Guinea Pigging" significa ser a primeira pessoa a encomendar e revisar o produto de um vendedor, permitindo que a comunidade avalie sua qualidade.
 
 **Exemplo:** "Alguém está disposto a GP os V4's do Troy?"
 
@@ -45,8 +46,8 @@ Uma "Legit Check" verifica a autenticidade de um produto, frequentemente usada a
 
 Um "Agent" é um terceiro que facilita compras seguras de vendedores (frequentemente na China) para compradores. Eles atuam como representantes, garantindo que os produtos não estejam defeituosos e que os compradores recebam o que encomendaram. Recomendamos [KakoBuy](https://airreps.link/kakobuy) — veja nosso [KakoBuy guide](/pt/ordering/kakobuy) para saber como usá-lo.
 
-**Exemplo:** "Você pode precisar usar um agent para consegui-los, pois atualmente HiCity não envia para as Filipinas."
+**Exemplo:** "Você pode precisar usar um agente para consegui-los, pois atualmente a HiCity não envia para as Filipinas."
 
-## Marcas: Rotulagem do Produto
+## Markings: Marcação do Produto
 
-"Markings" referem-se ao texto na case e nos AirPods que fornecem informações sobre o produto, incluindo o texto "Designed by Apple in California", números de modelo e números de série. Para saber mais sobre como as marcações variam entre réplicas e originais, veja [build quality](/pt/introduction/build-quality).
+"Markings" refere-se ao texto no estojo e nos AirPods que fornece informações sobre o produto, incluindo o texto "Designed by Apple in California", números de modelo e números de série. Para saber mais sobre como as marcações variam entre réplicas e originais, veja [build quality](/pt/introduction/build-quality).

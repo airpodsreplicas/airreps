@@ -1,52 +1,52 @@
 ---
-description: Opanuj AirPods QC & LC. Wykryj wady projektowe, zweryfikuj funkcje oprogramowania i odróżnij oryginały od replik.
+title: AirPods Replika QC & Weryfikacja Autentyczności
+description: 'Opanuj AirPods QC & LC. Wykrywaj wady konstrukcyjne, weryfikuj funkcje oprogramowania i odróżniaj autentyczne egzemplarze od replik.'
 ---
-
 # QC & LC
 
-Witaj! Jeśli tu jesteś, prawdopodobnie chcesz sprawdzić jakość swoich klonów AirPods lub rozważasz zakup oryginalnych. Ta sekcja poprowadzi Cię w rozróżnianiu między detalicznymi a klonowanymi AirPods, od prostych do zaawansowanych metod. Jeśli oferta wydaje się zbyt dobra, aby była prawdziwa, prawdopodobnie taka jest. Więcej o jakości wykonania replik znajdziesz w przewodniku [jakość wykonania](/pl/introduction/build-quality).
+Witamy! Jeśli tu jesteś, prawdopodobnie chcesz sprawdzić jakość swoich podróbek AirPods albo rozważasz zakup oryginalnych. Ta sekcja przeprowadzi Cię przez rozpoznawanie różnic między oryginalnymi a podróbkami AirPods — od prostych po zaawansowane metody. Jeśli oferta wydaje się zbyt dobra, by była prawdziwa, prawdopodobnie taka jest. Po więcej informacji o oczekiwanej jakości wykonania podróbek zobacz przewodnik o [jakości wykonania](/pl/introduction/build-quality).
 
 ::: tip
-Ta sekcja była kiedyś bardziej szczegółowa, ale w miarę jak klony stały się bardziej wyrafinowane, rozróżnienie między prawdziwymi a fałszywymi AirPods jest coraz trudniejsze. Naszą najlepszą radą dla zapewnienia autentyczności jest kupowanie AirPods od renomowanego sprzedawcy.
+Ta sekcja kiedyś była bardziej szczegółowa, ale w miarę jak podróbki stają się coraz bardziej zaawansowane, rozróżnienie prawdziwych i fałszywych AirPods jest coraz trudniejsze. Nasza najlepsza rada, aby mieć pewność autentyczności, to kupować AirPods od zaufanego sprzedawcy.
 :::
 
-## Sprawdzanie Wad Projektowych
+## Checking Design Flaws
 
-1. **Kolor Zawiasu**: Porównaj kolor zawiasu na etui z referencyjnymi obrazami. Możesz użyć tego obrazu dla pierwszej i drugiej generacji AirPods oraz tego obrazu dla AirPods Pro, Pro 2, Pro 3 i AirPods 4.
+1. **Hinge Color**: Porównaj kolor zawiasu etui z referencyjnymi zdjęciami. Możesz użyć tego obrazka dla AirPods pierwszej i drugiej generacji oraz tego obrazka dla AirPods Pro, Pro 2, Pro 3 i AirPods 4.
 
-![Kolor Zawiasu - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Hinge Color - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Kolor Zawiasu - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Hinge Color - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
 
-2. **Wyrównanie Przycisku**: Sprawdź, czy przycisk na etui jest równy z resztą etui. Jeśli nie, Twoje AirPods mogą być klonami. W oryginalnych AirPods przycisk powinien być równy z etui.
+2. **Button Alignment**: Sprawdź, czy przycisk na etui jest równo z powierzchnią reszty etui. Jeśli nie jest, Twoje AirPods mogą być podróbką. W oryginalnych AirPods przycisk powinien być wyrównany z obudową.
 
-3. **Wyrównanie Kabla**: Upewnij się, że kabel pasuje ciasno i w pełni do etui, jak pokazano na obrazku poniżej. Jeśli kabel wystaje choć trochę, prawdopodobnie jest to klon.
+3. **Cable Alignment**: Upewnij się, że kabel pasuje ciasno i całkowicie do etui, jak na poniższym zdjęciu. Jeśli kabel wystaje choćby trochę, najprawdopodobniej to podróbka.
 
-![Wyrównanie Kabla](/qc-lc/cable-alignment.webp)
+![Cable Alignment](/qc-lc/cable-alignment.webp)
 
-4. **Oprogramowanie - Find My Network**: Kluczowym wskaźnikiem klonu jest brak "Find My Network" (Precyzyjne Znajdowanie). Gdy sparujesz AirPods z telefonem i otworzysz aplikację "Znajdź Mój", oryginalne AirPods powinny obsługiwać precyzyjne znajdowanie. Jeśli opcja brakuje lub nie działa prawidłowo, jest to silny znak, że AirPods nie są oryginalne. **Uwaga:** Wszystkie obecne modele klonów nie mają funkcjonalności Find My Network.
+4. **Software - Find My Network**: Kluczowym wskaźnikiem podróbki jest brak funkcji "Find My Network" (Precision Finding). Po sparowaniu AirPods z telefonem i otwarciu aplikacji "Find My", oryginalne AirPods powinny obsługiwać precyzyjne wyszukiwanie. Jeśli opcja jest nieobecna lub nie działa poprawnie, to silny znak, że AirPods nie są autentyczne. **Uwaga:** Wszystkie obecne modele podróbek nie obsługują funkcji Find My Network.
 
-5. **Oprogramowanie - Strona Informacji**: Połącz AirPods z iPhone i przejdź do Ustawienia > Ogólne > To urządzenie. Jeśli jest sekcja "AirPods" podczas przewijania w dół, sprawdź, czy numer seryjny pokazany tam odpowiada numerowi seryjnemu wewnątrz pokrywy AirPods. Jeśli nie ma sekcji AirPods, Twoje AirPods są prawdopodobnie klonami. **Ważne:** Niektóre nowsze klony AirPods mogą mieć działającą stronę "Informacje", czyniąc to sprawdzenie mniej wiarygodnym. W takich przypadkach możesz sprawdzić obecność Dźwięku Przestrzennego ze śledzeniem głowy, lub zweryfikować, czy wersja firmware odpowiada najnowszej wersji wydanej przez Apple.
+5. **Software - About Page**: Podłącz AirPods do iPhone'a i przejdź do Ustawienia > Ogólne > Informacje. Jeśli przy przewijaniu znajduje się sekcja "AirPods", sprawdź, czy wyświetlany tam numer seryjny zgadza się z numerem seryjnym na wewnętrznej stronie pokrywy etui. Jeśli sekcja AirPods w ogóle się nie pojawia, to najpewniej masz podróbki. **Ważne:** Niektóre nowsze podróbki mogą mieć działającą stronę "Informacje", co sprawia, że ta metoda staje się mniej wiarygodna. W takich przypadkach możesz sprawdzić obecność Spatial Audio z śledzeniem ruchu głowy lub zweryfikować, czy wersja oprogramowania sprzętowego zgadza się z najnowszą wydaną przez Apple.
 
-6. **Oprogramowanie - Dźwięk Przestrzenny**: Oryginalne AirPods obsługują Dźwięk Przestrzenny ze śledzeniem głowy. Podczas gdy wiele obecnych klonów również obsługuje Dźwięk Przestrzenny, jakość i dokładność śledzenia głowy może się różnić. Jeśli Dźwięk Przestrzenny całkowicie brakuje, lub śledzenie głowy nie działa prawidłowo, może to wskazywać na klon niższej jakości lub podróbkę. Jednak samo to sprawdzenie nie jest definitywne, ponieważ niektóre klony mają dobrą implementację Dźwięku Przestrzennego.
+6. **Software - Spatial Audio**: Oryginalne AirPods obsługują Spatial Audio ze śledzeniem ruchu głowy. Chociaż wiele obecnych podróbek również wspiera Spatial Audio, jakość i dokładność śledzenia głowy może się różnić. Jeśli Spatial Audio jest całkowicie nieobecne lub śledzenie głowy nie działa poprawnie, może to wskazywać na podróbkę niskiej jakości lub fałszywy produkt. Jednak ta metoda sama w sobie nie jest rozstrzygająca, ponieważ niektóre podróbki dobrze imitują Spatial Audio.
 
-7. **Oznaczenia**: Aby zweryfikować autentyczność Twoich AirPods, jedną z najbardziej niezawodnych metod jest inspekcja oznaczeń regulacyjnych umieszczonych na wewnętrznej górnej części etui AirPods. Te oznaczenia różnią się w zależności od regionu i mogą pomóc ustalić, czy AirPods są oryginalne. Oto szczegółowe zestawienie:
+7. **Markings**: Jedną z najbardziej wiarygodnych metod weryfikacji autentyczności AirPods jest sprawdzenie oznaczeń regulacyjnych znajdujących się na wewnętrznej górnej części etui AirPods. Oznaczenia te różnią się w zależności od regionu i mogą pomóc ustalić, czy AirPods są oryginalne. Oto szczegółowe zestawienie:
 
-| **Region**         | **Kraj/Obszar**       | **Oznaczenie Regulacyjne**                                         |
-|--------------------|------------------------|-------------------------------------------------------------| 
-| **USA**            | Stany Zjednoczone          | FCC ID, "Designed by Apple in California"                   |
-| **Europa**         | Kraje UE           | CE (Conformité Européenne), WEEE                            |
+| **Region**         | **Kraj/Obszar**        | **Oznaczenie regulacyjne**                                  |
+|--------------------|------------------------|-------------------------------------------------------------|
+| **USA**            | Stany Zjednoczone      | FCC ID, "Designed by Apple in California"                   |
+| **Europa**         | Kraje UE               | CE (Conformité Européenne), WEEE                            |
 | **Azja**           | Chiny                  | CCC (China Compulsory Certificate)                          |
-|                    | Korea Południowa            | KC (Korea Certification)                                    |
-|                    | Japonia                  | MIC (Ministry of Internal Affairs and Communications)       |
+|                    | Korea Południowa       | KC (Korea Certification)                                    |
+|                    | Japonia                | MIC (Ministry of Internal Affairs and Communications)       |
 |                    | Indie                  | BIS (Bureau of Indian Standards)                            |
-| **Oceania**        | Australia, Nowa Zelandia | RCM (Regulatory Compliance Mark)                            |
+| **Oceania**        | Australia, Nowa Zelandia | RCM (Regulatory Compliance Mark)                          |
 | **Kanada**         | Kanada                 | IC (Industry Canada)                                        |
-| **Bliski Wschód**    | Arabia Saudyjska           | SASO (Saudi Standards, Metrology and Quality Organization)  |
+| **Bliski Wschód**  | Arabia Saudyjska       | SASO (Saudi Standards, Metrology and Quality Organization)  |
 |                    | ZEA                    | ESMA (Emirates Authority for Standardization and Metrology) |
-| **Ameryka Łacińska**  | Brazylia                 | Anatel (National Telecommunications Agency)                 |
+| **Ameryka Łacińska** | Brazylia             | Anatel (National Telecommunications Agency)                 |
 |                    | Meksyk                 | IFT (Instituto Federal de Telecomunicaciones)               |
-| **Rosja i WNP** | Rosja, Kraje WNP  | EAC (Eurasian Conformity)                                   |
+| **Rosja i WNP**    | Rosja, kraje WNP       | EAC (Eurasian Conformity)                                   |
 
 
-Dla dodatkowej pomocy dołącz do [AirReps Discord](https://airreps.link/discord), aby uzyskać porady i wsparcie od społeczności AirReps.
+For additional help, join the [AirReps Discord](https://airreps.link/discord) to get advice and support from the AirReps community.

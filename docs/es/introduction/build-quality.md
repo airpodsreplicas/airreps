@@ -1,59 +1,58 @@
 ---
-description: "Análisis profundo de la calidad de construcción: peso, bisagra, precisión del texto, imanes y difusores LED."
+title: Calidad De Fabricación De Réplicas De AirPods
+description: 'Análisis profundo de la calidad de fabricación: peso, bisagra, precisión del texto, imanes y difusores LED.'
 faq:
-  - q: "Can fake AirPods be charged in a real case or vice versa?"
-    a: "No, los AirPods falsos no deben cargarse en un estuche real. Hacerlo puede causar que los AirPods falsos se rompan. Tampoco se recomienda cargar AirPods reales en un estuche falso."
-  - q: "Will AirPods cases fit on clones?"
-    a: "Todos los estuches protectores de silicona suave encajarán, pero los estuches de plástico duro pueden no encajar en la mayoría de los clones (principalmente modelos más antiguos, ya que son ligeramente más grandes que los originales). Algunos estuches duros pueden encajar, pero pueden no salir o afectar el botón."
+  - q: ¿Se pueden cargar AirPods falsos en un estuche real o viceversa?
+    a: 'No, los AirPods falsos no deben cargarse en un estuche real. Hacerlo puede provocar que los AirPods falsos se rompan. Tampoco se recomienda cargar AirPods reales en un estuche falso.'
+  - q: ¿Los estuches de AirPods encajarán en clones?
+    a: 'Todos los protectores de silicona blanda encajarán, pero los estuches rígidos de plástico pueden no encajar en la mayoría de los clones (principalmente modelos más antiguos, ya que son un poco más grandes que los originales). Algunos estuches rígidos pueden encajar, pero puede que no se puedan quitar o que afecten al botón.'
 ---
+# Calidad de fabricación
 
-# Calidad de Construcción
-
-Entender la calidad de construcción de las réplicas de AirPods puede ayudarte a evaluar su durabilidad general y autenticidad.
+Entender la calidad de fabricación de las réplicas de AirPods puede ayudarte a evaluar su durabilidad y autenticidad.
 
 ## Peso
 
-El estuche y los auriculares generalmente tienen un buen peso. La mayoría de los modelos coinciden con el peso exacto de los AirPods originales.
+La caja y los auriculares generalmente tienen un buen peso. La mayoría de los modelos coinciden con el peso correcto de los AirPods originales.
 
 ## Bisagra
 
-Algunos modelos usan una bisagra de plástico con pintura metálica, mientras que otros emplean una bisagra de metal real. Algunas bisagras de plástico pueden sentirse baratas, chirriar, moverse y carecer de solidez. Aunque son usables, son notables en comparación con los AirPods originales. Las bisagras de metal se sienten significativamente superiores.
-Es importante saber que todas las réplicas vendidas en AirReps tienen bisagras de metal. Algunas unidades (como Huilian y HR<b>+</b>) usan una copia casi perfecta de la bisagra de Apple. Actualmente, HR+ tiene algunos problemas de alineación, por lo que la diferencia de precio puede no estar justificada. Consulta la [comparación de versiones de AirPods Pro 2](/es/version-info/airpods-pro-2) para diferencias detalladas entre las construcciones TB, HR y Huilian.
+Algunos modelos usan una bisagra de plástico con pintura metálica, mientras que otros emplean una bisagra de metal real. Algunas bisagras de plástico pueden sentirse baratas, chillar, moverse y carecer de solidez. Aunque son utilizables, se notan en comparación con los AirPods originales. Las bisagras metálicas se sienten significativamente superiores.
+Es importante saber que todas las réplicas vendidas en AirReps tienen bisagras metálicas. Algunas unidades (como Huilian and HR<b>+</b>) usan una copia casi perfecta de la bisagra de Apple. Por ahora, HR+ sí tiene algunos problemas de alineación, por lo que la diferencia de precio podría no estar justificada. Consulta la [Comparación de versiones de AirPods Pro 2](/es/version-info/airpods-pro-2) para ver las diferencias detalladas entre las construcciones TB, HR y Huilian.
 
 ## Texto
 
-El texto "Designed by Apple" en la parte trasera usa una fuente similar a la original. El texto dentro del estuche y los auriculares se ve similar pero no coincide exactamente con los AirPods originales. Algunos lotes tienen números de serie reales, mientras que otros no. La alineación y el color del texto pueden variar, a veces no está perfectamente recto o puede ser un gris más claro o más oscuro comparado con los originales. La calidad del texto "Designed by Apple" difiere por vendedor, siendo el grabado láser de Hicity menos preciso que el de Earhive y Jenny. Para más información sobre cómo detectar estas diferencias, consulta nuestra [guía de QC & LC](/es/ordering/qc-lc).
-
+El texto "Designed by Apple" en la parte trasera usa una tipografía similar a la original. El texto dentro de la caja y en los auriculares se parece, pero no coincide exactamente con los AirPods originales. Algunos lotes tienen números de serie reales, mientras que otros no. La alineación y el color del texto pueden variar; a veces no está perfectamente recto o puede ser un gris más claro o más oscuro en comparación con los originales. La calidad del texto "Designed by Apple" difiere según el vendedor, siendo el grabado láser de Hicity menos preciso que el de Earhive y Jenny. Para más información sobre cómo detectar estas diferencias, consulta nuestra [Guía de QC y LC](/es/ordering/qc-lc).
 :::tip
-Puedes solicitar grabado láser personalizado enviando un mensaje de WhatsApp a tu vendedor preferido con el texto que quieres grabado junto con tu número de pedido. Para solicitudes más especializadas como logos o diseños detallados puedes enviar tu arte favorito en formato .svg o .png a Jenny o Earhive. El texto regular y los emojis no requieren estos formatos de archivo.
+Puedes solicitar un grabado láser personalizado enviando un mensaje por WhatsApp a tu vendedor preferido con el texto que quieres grabar junto con tu número de pedido. Para solicitudes más especializadas como logotipos o diseños detallados puedes enviar tu obra favorita en formato .svg o .png a Jenny o Earhive. El texto regular y los emojis no requieren estos formatos de archivo.
 :::
 
-## Botón Trasero
+## Botón trasero
 
-El botón trasero está al ras con el estuche, pero en algunos modelos, hace más clic que el original y no se siente tan suave. Algunos lotes tienen un botón más pronunciado.
+El botón trasero está al ras de la caja, pero en algunos modelos hace un clic más fuerte que el original y no se siente tan suave. Algunos lotes presentan un botón más pronunciado.
 
-## Tapa e Imanes
+## Tapa e imanes
 
-Todos los modelos más recientes tienen imanes inversos, asegurando que la tapa permanezca abierta cuando sea necesario.
+Todos los modelos más recientes tienen imanes invertidos, lo que asegura que la tapa se mantenga abierta cuando es necesario.
 
 ## Difusor LED
 
 Los modelos más nuevos incluyen un difusor LED para atenuar el LED.
 
-## Puntas de Oído (Réplicas de AirPods Pro)
+## Almohadillas (réplicas de AirPods Pro)
 
-Para réplicas de AirPods Pro, evita quitar las puntas de oído a la fuerza ya que podría dañar los auriculares. Para quitar las puntas de oído, gíralas y jálalas. Cuando manejes los auriculares, sostenlos por la punta y no por el tallo para prevenir daños. Puedes usar el comando /eartip en el servidor de Discord para aprender más.
+Para las réplicas de AirPods Pro, evita quitar las almohadillas a la fuerza ya que podría dañar los auriculares. Para retirar las almohadillas, gíralas y tira de ellas. Al manipular los auriculares, sujétalos por la punta y no por la varilla para evitar daños. Puedes usar el comando /eartip en el servidor de Discord para obtener más información.
 
-::: warning
-Para réplicas de AirPods Pro, maneja los auriculares con cuidado para evitar daños. No quites las puntas de oído a la fuerza.
+:::warning
+Para las réplicas de AirPods Pro, maneja los auriculares con cuidado para evitar daños. No quites las almohadillas a la fuerza.
 :::
 
-## Preguntas Frecuentes
+## Preguntas frecuentes
 
-::: details ¿Se pueden cargar AirPods falsos en un estuche real o viceversa?
-No, los AirPods falsos no deben cargarse en un estuche real. Hacerlo puede causar que los AirPods falsos se rompan poco después. Tampoco se recomienda cargar AirPods reales en un estuche falso.
+:::details ¿Se pueden cargar AirPods falsos en una caja real o viceversa?
+No, los AirPods falsos no deben cargarse en una caja real. Hacerlo puede provocar que los AirPods falsos se estropeen poco después. Tampoco se recomienda cargar AirPods reales en una caja falsa.
 :::
 
-::: details ¿Los estuches de AirPods encajan en los clones?
-Todos los estuches protectores de silicona suave encajarán, pero los estuches de plástico duro pueden no encajar en la mayoría de los clones (mayormente modelos más antiguos ya que son ligeramente más grandes que los originales). Algunos estuches duros pueden encajar, pero pueden no salir o afectar el botón si sobresale ligeramente.
+:::details ¿Las fundas de AirPods encajan en clones?
+Todas las fundas protectoras de silicona blanda encajarán, pero las fundas de plástico duro pueden no encajar en la mayoría de los clones (principalmente modelos antiguos, ya que son ligeramente más grandes que los originales). Algunas fundas duras pueden encajar, pero pueden no salir o afectar al botón si sobresale ligeramente.
 :::
