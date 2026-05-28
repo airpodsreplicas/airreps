@@ -125,8 +125,16 @@ jobs:
           COUNT=$(git status --porcelain -- docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr | grep -c . || true)
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
-      - name: Push translations and open PR
+      # Build the site with the freshly-written translations BEFORE publishing.
+      # VitePress fails the build on dead links, so a mangled internal link in a
+      # translation is caught here and blocks the PR — instead of silently
+      # merging and breaking the GitHub Pages deploy afterwards.
+      - name: Validate translated build
         if: steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'
+        run: bunx vitepress build docs
+
+      - name: Push translations and open PR
+        if: success() && steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

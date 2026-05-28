@@ -2,6 +2,7 @@
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import OpenAI from 'openai';
 
@@ -129,27 +130,89 @@ function stripCodeFence(text) {
     return (fenced ? fenced[1] : trimmed).trim();
 }
 
+// Internal page links get a /{locale} prefix; assets (shared from docs/public/),
+// external links, anchors, and already-prefixed links are left exactly as
+// written. Deterministic, so the model can never mangle a slug.
+export function localizeUrl(url, locale) {
+    if (typeof url !== 'string' || !url.startsWith('/') || url.startsWith('//')) {
+        return url;
+    }
+    // Asset files live in docs/public/ and are shared across all locales.
+    if (
+        /\.(?:png|jpe?g|webp|avif|gif|svg|mp4|webm|mov|pdf|ico|txt|xml|json|woff2?|css|mjs|js|mp3|wav)(?=$|[?#])/i.test(
+            url
+        )
+    ) {
+        return url;
+    }
+    // Already locale-prefixed (/es/..., /da/..., etc.) — leave as-is.
+    if (Object.hasOwn(localeConfig, url.split('/')[1])) {
+        return url;
+    }
+    return `/${locale}${url}`;
+}
+
+const urlSentinel = (i) => `U${i}`;
+const URL_SENTINEL_RE = /U(\d+)/g;
+
+// Replace every markdown link/image target and HTML href/src URL with an opaque
+// sentinel so the model never sees — and therefore can never alter — a URL.
+// Link/image TEXT and alt stay in place and are still translated.
+export function protectBodyUrls(body) {
+    const urls = [];
+    const stash = (url) => {
+        const i = urls.length;
+        urls.push(url);
+        return urlSentinel(i);
+    };
+    // Markdown targets: the `](URL)` / `](URL "title")` segment. Matching each
+    // `](...)` independently also covers nested [![alt](IMG)](LINK).
+    let out = body.replace(
+        /\]\(\s*<?([^)\s<>]+)>?((?:\s+(?:"[^"]*"|'[^']*'))?\s*)\)/g,
+        (_m, url, tail) => `](${stash(url)}${tail})`
+    );
+    // HTML attribute URLs: href="URL" / src="URL" (single- or double-quoted).
+    out = out.replace(
+        /\b(href|src)\s*=\s*(["'])([^"']*)\2/gi,
+        (_m, attr, quote, url) => `${attr}=${quote}${stash(url)}${quote}`
+    );
+    return { body: out, urls };
+}
+
+// Re-inject the stashed URLs (locale-prefixed where appropriate). Throws if the
+// model dropped or duplicated a placeholder, so a damaged translation fails the
+// task instead of producing a broken link.
+export function restoreBodyUrls(body, urls, locale) {
+    const found = (body.match(URL_SENTINEL_RE) || []).length;
+    if (found !== urls.length) {
+        throw new Error(
+            `URL placeholder mismatch after translation: expected ${urls.length}, found ${found}`
+        );
+    }
+    return body.replace(URL_SENTINEL_RE, (_m, n) => localizeUrl(urls[Number(n)], locale));
+}
+
 async function translateBody(openai, body, locale, language) {
     if (!body.trim()) {
         return body;
     }
+
+    const { body: guardedBody, urls } = protectBodyUrls(body);
 
     const system = `You translate markdown documentation into ${language}.
 
 Rules:
 - Output ONLY the translated markdown. No commentary, no code fences wrapping the output.
 - Preserve markdown structure exactly: headings, lists, tables, links, emphasis, code fences, HTML tags, blank-line structure.
-- Translate natural-language prose. Do NOT translate code, file paths, URLs, brand names (e.g. "AirReps"), chipset names, or model numbers.
-- For internal markdown PAGE links whose URL starts with "/" (e.g. "/quiz", "/introduction/overview", "/links/info"), add the "/${locale}/" prefix so they point to the translated page. Example: [quiz](/quiz) becomes [translated quiz](/${locale}/quiz).
-- Do NOT prefix asset paths (images, videos, files). Paths like "/qc-lc/image.jpg", "/logo.webp", or anything ending in .png/.jpg/.jpeg/.webp/.gif/.svg/.mp4/.pdf live in docs/public/ and must stay exactly as written in the English source.
-- Do not modify links starting with http, https, mailto:, #, or ./
+- Translate natural-language prose only. Do NOT translate code, brand names (e.g. "AirReps"), chipset names, or model numbers.
+- The text contains opaque placeholder tokens (a private-use character, then "U", a number, then another private-use character) that stand in for URLs. Keep every placeholder EXACTLY as written and in the same position. Never translate, remove, reorder, duplicate, or otherwise alter a placeholder.
 - Keep existing translated wording when it is already accurate; minimize unrelated rewrites.`;
 
     const raw = await chatComplete(openai, [
         { role: 'system', content: system },
-        { role: 'user', content: body },
+        { role: 'user', content: guardedBody },
     ]);
-    return stripCodeFence(raw);
+    return restoreBodyUrls(stripCodeFence(raw), urls, locale);
 }
 
 function collectTranslatableStrings(data) {
@@ -377,7 +440,11 @@ async function main() {
     }
 }
 
-main().catch((error) => {
-    console.error(error instanceof Error ? error.message : error);
-    process.exit(1);
-});
+const invokedDirectly =
+    process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1]);
+if (invokedDirectly) {
+    main().catch((error) => {
+        console.error(error instanceof Error ? error.message : error);
+        process.exit(1);
+    });
+}
