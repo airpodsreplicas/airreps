@@ -12,7 +12,7 @@ iOS-popup'en vises næsten øjeblikkeligt på AirPods-replikater, selvom hastigh
 
 ## macOS-tilslutning
 
-Kun få nyere clones fungerer fejlfrit med macOS, hvilket ikke altid er tilfældet hos andre producenter. Vi anbefaler at vælge modellen "Huilian", hvis du planlægger at bruge dine replikater med din MacBook eller iMac. Dette skyldes, at andre clones enten ikke har iCloud-switching for problemfri iOS-integration, eller at deres lydstyrke sidder fast på 100% på macOS (TB). Vi har dog delvist løst problemet ved at bruge en tredjeparts FOSS-app; den eneste ulempe er, at lydstyrkegestus på AirPods ikke vil fungere på TB-modeller på grund af begrænsninger i den nævnte metode. For flere detaljer, besøg [vores fejlfindingguide](/da/troubleshooting/macOS-volume-slider-fixupup).
+Kun få nyere clones fungerer fejlfrit med macOS, hvilket ikke altid er tilfældet hos andre producenter. Vi anbefaler at vælge modellen "Huilian", hvis du planlægger at bruge dine replikater med din MacBook eller iMac. Dette skyldes, at andre clones enten ikke har iCloud-switching for problemfri iOS-integration, eller at deres lydstyrke sidder fast på 100% på macOS (TB). Vi har dog delvist løst problemet ved at bruge en tredjeparts FOSS-app; den eneste ulempe er, at lydstyrkegestus på AirPods ikke vil fungere på TB-modeller på grund af begrænsninger i den nævnte metode. For flere detaljer, besøg [vores fejlfindingguide](/da/troubleshooting/macOS-volume-slider-fixup).
 
 ## Rækkevidde
 
