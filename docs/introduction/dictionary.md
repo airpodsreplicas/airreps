@@ -1,4 +1,5 @@
 ---
+title: "AirPods Replica Dictionary"
 description: A concise dictionary of common terms used in the AirReps community.
 ---
 

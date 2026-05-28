@@ -1,5 +1,6 @@
 ---
-description: "Essential firmware update apps for AirPods replicas. Support for Airoha, Tigerbuilder, BES, HR, and Huilian."
+title: "AirPods Replica Firmware Apps"
+description: "Essential firmware update apps for AirPods replicas. Support for Airoha, TigerBuilder, BES, HR, and Huilian."
 ---
 
 # Useful Apps
@@ -8,15 +9,15 @@ Updating the firmware on your reps can often add new features, such as spatial a
 
 Below are apps that can be downloaded to aid you, alongside what versions and chipsets of reps they support. If you have problems in installing the non-Play Store apps, make sure to enable 'Install from unknown sources' in your settings (in the Security or Accessibility section). These apps can also help adjust [sound quality](/introduction/sound-quality) through EQ settings. For more information on how to use these apps and avoid problems, visit our [Discord](https://airreps.link/discord).
 
-## **Tigerbuilder**
+## **TigerBuilder**
 
-|[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)| [![FlyCC (IOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS) |
+|[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS) |
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | [![Airoha156x (Android)](/app_icon/airoha156x.png)](https://airreps.link/airoha156x) Airoha156x (Android) |
 
 :::warning **CloudCC** has been deprecated since TigerBuilder integrated OTA functionality into FlyCC. It should only be used as a workaround if you encounter the storage permission issue.
 :::
-:::tip Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE)
+:::tip Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE).
 :::
 
 ## **BES**

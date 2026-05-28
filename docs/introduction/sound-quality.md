@@ -1,4 +1,5 @@
 ---
+title: "AirPods Replica Sound Quality"
 description: Sound quality ratings, EQ settings, and realistic expectations for AirPods replicas.
 ---
 
@@ -19,7 +20,7 @@ Since AirPods Pro seal into the ear, they may sound significantly better than Ai
 Sound quality can vary depending on the [version, chip](/version-info/general), and batch. Many models emphasize bass without being overpowering. Mids are pronounced, but highs could be improved. Note that the EQ can vary by seller, and you can adjust it using your music player's settings or manufacturer apps — see [useful apps](/useful-apps) for download links.
 
 ::: tip
-The EQ can vary by seller. Use **FlyCC**, **BullSuper**, or **Starfun** to adjust it for **TigerBuilder**, **HR**, and **Huilian** devices respectively.
+The EQ can vary by seller. Use **FlyCC**, **BullSuper**, or **StarFun** to adjust it for **TigerBuilder**, **HR**, and **Huilian** devices respectively.
 :::
 
 ## Custom EQ Settings

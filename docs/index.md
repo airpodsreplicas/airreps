@@ -28,7 +28,7 @@ features:
     details: All resources, guides, and apps are always kept up to date by our dedicated staff team.
     link: /introduction/overview
     linkText: Read the Guide
-  - icon: 💸  
+  - icon: 💸
     title: Trusted seller list
     details: Community-picked, non-profit seller list with the latest products and best support.
     link: /links/info

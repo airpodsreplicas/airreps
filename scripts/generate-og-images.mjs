@@ -164,12 +164,8 @@ async function generateOgImage(title, description, outFile, label = 'GUIDE') {
 }
 
 async function main() {
-    // Use globby to find all markdown files
-    // Note: We need to install globby or just use recursion.
-    // Since I didn't install globby, I'll use a recursive function. (Correction: I didn't install globby in the previous step... I should have or just use recursive read)
-    // Let's implement a recursive file walker to be safe without extra deps if I missed them.
-    // Actually, I'll just use a simple proprietary walker.
-
+    // Recursively collect every markdown file under docs/, skipping
+    // node_modules, .vitepress, and public (no extra deps needed).
     const getAllFiles = (dir) => {
         let results = [];
         const list = fs.readdirSync(dir);

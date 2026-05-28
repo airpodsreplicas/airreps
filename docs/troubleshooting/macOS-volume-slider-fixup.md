@@ -1,11 +1,11 @@
 ---
-title: Volume Slider is Ineffective on MacOS
+title: Volume Slider is Ineffective on macOS
 description: Fix the macOS volume slider issue on Intel Macs. A simple workaround to regain control over your audio output.
 ---
 
 # The Problem: Volume Slider Bar won't work.
 
-This is one of the most well-known problem on the **Intel** version of macOS, where the volume slider bar that controls audio volume simply won't work, but only acts as a switch (happened to most replicas out there, though some were unaffected). While Apple themselves would never look into the problem, we can circumvent this with an [open sourced tool](https://github.com/briankendall/proxy-audio-device).
+This is one of the most well-known problems on the **Intel** version of macOS, where the volume slider bar that controls audio volume simply won't work, but only acts as a switch (it affects most replicas, though some are unaffected). While Apple themselves would never look into the problem, we can circumvent this with an [open sourced tool](https://github.com/briankendall/proxy-audio-device).
 
 :::warning
 This guide is meant for those that have Intel-based Macs (i3, i5, i7; not M series chip). If your Apple Silicon (M series chip) Mac won't play audio with your current AirReps, check out the [Common Bugs](/troubleshooting/other-common-bugs) section.
@@ -14,8 +14,8 @@ This guide is meant for those that have Intel-based Macs (i3, i5, i7; not M seri
 ## **Prerequisite**
 
 Before the tutorial, please make sure that you:
-- Have `sudo` access (or your macOS' account did have administrative access)
-- `brew` package installer (if not, simply follow this [section](#brew-installation))
+- Have `sudo` access (your macOS account must have administrative access)
+- Have the `brew` package installer (if not, follow this [section](#brew-installation))
 
 :::tip
 PS: using `brew` is much easier than manual installation, but if you want to skip using `brew`, you can read this and follow the steps [here](https://github.com/briankendall/proxy-audio-device#manual-installation).
@@ -40,7 +40,7 @@ Once everything is ready, you can start by opening Terminal, then run the follow
 <video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="install proxy-audio-device"></video>
 
 :::tip
-While installing, it's normal for the system audio to glitch a little. So make sure you are doing this while in the "cooking beat"-free environment (No audio manipulation softwares running).
+While installing, it's normal for the system audio to glitch a little. So do this while no audio is playing or being edited (no audio-manipulation software running).
 :::
 
 ### **Setting Up**
@@ -54,11 +54,11 @@ While installing, it's normal for the system audio to glitch a little. So make s
 
 Don't be tempted to click off this tutorial, most people like you can set them up like so:
 
-- `Proxy device name`: Name of the output, you can leave them as is.
+- `Proxy device name`: Name of the output; you can leave it as is.
 - `Proxied device`: Audio source (select your AirRep's name)
-- `Buffer size`: Permitted time for macOS to process audio (oversimplified) (please **leave them as is**, as 512 is sufficient for the majorities)
-- `Proxy device is active`: How the software works in the background. This is where it gets tricky, but it boils down to these option:
-    + If you don't mind the audio cut off (short duration sounds), pick `When proxied device is active`
+- `Buffer size`: Permitted time for macOS to process audio (oversimplified) (please **leave it as is**, as 512 is sufficient for most users)
+- `Proxy device is active`: How the software works in the background. This is where it gets tricky, but it boils down to these options:
+    + If you don't mind the audio cutting off (short-duration sounds), pick `When proxied device is active`
     + For most people, pick `When user is not idle`
     + For people who want consistent audio, or gaming, pick `Always`.
 
@@ -74,12 +74,12 @@ While it is fine to use most of the time, some users might face these issues:
 Unfortunately, you have to navigate to Control Center to control the audio (or use a keyboard shortcut).
 :::
 
-:::details No audio when disconnect
+:::details No audio when disconnected
 The app is only designed to always hook on the picked device. You have to manually re-select "Internal Speaker".
 :::
 
 :::details Crack/pop or one-sided audio
-You can get around this by increasing the buffer size / or pick `Always` in `Proxy Device in Active` option of the app.
+You can get around this by increasing the buffer size, or picking `Always` in the `Proxy device is active` option of the app.
 :::
 
 ## **Uninstalling**
@@ -92,6 +92,6 @@ If you wish to remove the app, you can simply run this command in the Terminal:
 
 ## **Optional: Survey**
 
-I've made a poll [here](http://poll-maker.com/poll5643879x05fb4568-166) to figure out if this workaround is actually working. It's incredibly simple to do and it helps a lot to get a whole picture of this workaround, I'll be much appreciated if you share your thoughts!
+I've made a poll [here](http://poll-maker.com/poll5643879x05fb4568-166) to figure out if this workaround is actually working. It's incredibly simple to do, and it helps a lot to get a full picture of this workaround. I'd really appreciate it if you shared your thoughts!
 
 [![poll](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)

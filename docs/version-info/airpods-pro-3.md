@@ -1,16 +1,17 @@
 ---
+title: "AirPods Pro 3 Replica Versions & Specs"
 description: "Compare AirPods Pro 3 replica versions (V7, V6, V5.5) by chip, features, and missing features."
 ---
 
 # AirPods Pro 3
 
-Click the hyper-link on the 'Version' column to find reviews for the given model.
+Click the hyperlink in the 'Version' column to find reviews for the given model.
 
 | Version | Chip | Has Features | Missing Features |
 |---------|------|--------------|------------------|
 | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Huilian 377H3 | USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup, iOS 26 Support, Live Translation, iCloud Connect, Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode | Find My Network |
-| [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1) | Airoha 1563E / Huilian 247 | USB-C, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio, Case Speaker, Hey Siri, Almost 1:1 hinge design, Good ANC, Pro 3 Popup, iOS 26 Support, Live Translation (Huilian only), iCloud Connect (Huilian only) | Heartrate sensor, Higher-end build quality, Nodding gestures, Find My Network |
-| [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) | Bluetrum 8922 | Decent ANC, Transparency mode, Pro 3 Popup, iOS 26 Support | Heartrate sensor, Higher-end build quality, Nodding gestures |
+| [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1) | Airoha 1563E / Huilian 247 | USB-C, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio, Case Speaker, Hey Siri, Almost 1:1 hinge design, Good ANC, Pro 3 Popup, iOS 26 Support, Live Translation (Huilian only), iCloud Connect (Huilian only) | Heart Rate Sensor, Higher-end build quality, Nodding gestures, Find My Network |
+| [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) | Bluetrum 8922 | Decent ANC, Transparency Mode, Pro 3 Popup, iOS 26 Support | Heart Rate Sensor, Higher-end build quality, Nodding gestures |
 
 ## V7 Overview
 

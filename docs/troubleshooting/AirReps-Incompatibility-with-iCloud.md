@@ -1,5 +1,6 @@
 ---
-description: AirReps Incompatibility with iCloud Connect
+title: "AirPods Replicas & iCloud Connect"
+description: "Why AirPods replicas can't fully use iCloud Connect on macOS, and a step-by-step fix for the pairing and verification issue."
 ---
 
 # **AirReps Incompatibility with iCloud Connect**
@@ -13,7 +14,7 @@ On your **iPhone/iPad** (or any device connected to iCloud), go to **Settings > 
 
 Find your **AirPods** in the list, tap the "i" icon, and select Forget This Device.
 
-Do this on any other connected Apple devices (iPad, Apple Watch, etc.)
+Do this on any other connected Apple devices (iPad, Apple Watch, etc.).
 
 ## **Step 2**: Forget **AirPods** from **macOS**
 

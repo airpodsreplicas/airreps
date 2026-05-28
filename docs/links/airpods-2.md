@@ -1,10 +1,11 @@
 ---
+title: "Buy AirPods 2 Replicas: Seller Links"
 description: "Trusted seller links and purchase options for AirPods 2 replicas."
 ---
 
 # AirPods 2
 
-#### Versions and Sellers
+## Versions and Sellers
 
 <table>
   <tr>

@@ -1,4 +1,5 @@
 ---
+title: "AirPods Replica Build Quality"
 description: "Build quality deep dive: Weight, hinge, text accuracy, magnets, and LED diffusers."
 faq:
   - q: "Can fake AirPods be charged in a real case or vice versa?"
@@ -22,7 +23,7 @@ It is important to know that all replicas sold in AirReps have metal hinges. Som
 
 ## Text
 
-The "Designed by Apple" text on the back uses a font similar to the original. The text inside the case and earbuds looks alike but does not match the original AirPods exactly. Some batches have real serial numbers, while others do not. The text alignment and color can vary, sometimes it's not perfectly straight or may be a lighter or darker grey compared to the originals. The quality of the "Designed by Apple" text differs by seller, with Hicity's laser engraving being less accurate than Earhive's and Jenny's. For more on how to spot these differences, see our [QC & LC guide](/ordering/qc-lc).
+The "Designed by Apple" text on the back uses a font similar to the original. The text inside the case and earbuds looks alike but does not match the original AirPods exactly. Some batches have real serial numbers, while others do not. The text alignment and color can vary; sometimes it's not perfectly straight or may be a lighter or darker grey compared to the originals. The quality of the "Designed by Apple" text differs by seller, with Hicity's laser engraving being less accurate than Earhive's and Jenny's. For more on how to spot these differences, see our [QC & LC guide](/ordering/qc-lc).
 :::tip
 You can request custom laser engraving by sending your preferred seller a WhatsApp message with the text you want engraved along with your order number. For more specialized requests like logos or detailed designs you can send your favorite artwork in .svg or .png format to Jenny or Earhive. Regular text and emojis don’t require these file formats.
 :::

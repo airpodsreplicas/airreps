@@ -1,4 +1,5 @@
 ---
+title: "Where to Buy AirPods Replicas"
 description: Directory of verified sellers and direct purchase links for all AirPods replica models.
 faq:
   - q: "Will I get a good quality unit?"
@@ -18,20 +19,20 @@ faq:
 # Links
 
 ::: tip
-This list is kept up to date. Higher version almost always equals better.
+This list is kept up to date. A higher version usually means a better product — but not always, so compare the [version info](/version-info/general) before buying.
 :::
 
 The following list contains links to verified sellers only. If you know of any sellers that are trustworthy and deserve verification, please inform an Ultimate Guide author or write a review about their product and publish it to the AirReps forums. To ensure the quality and authenticity of your Apple AirPods replicas, we recommend only purchasing from these verified sellers.
 
 ## Choose the product you want to view links for
 
-- [AirPods 2](airpods-2.md)
-- [AirPods 3](airpods-3.md)
-- [AirPods 4](airpods-4.md)
-- [AirPods Pro](airpods-pro.md)
-- [AirPods Pro 2](airpods-pro-2.md)
-- [AirPods Pro 3](airpods-pro-3.md)
-- [AirPods Max](airpods-max.md)
+- [AirPods 2](/links/airpods-2)
+- [AirPods 3](/links/airpods-3)
+- [AirPods 4](/links/airpods-4)
+- [AirPods Pro](/links/airpods-pro)
+- [AirPods Pro 2](/links/airpods-pro-2)
+- [AirPods Pro 3](/links/airpods-pro-3)
+- [AirPods Max](/links/airpods-max)
 
 ## Trusted sellers (official websites)
 
@@ -46,7 +47,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | Payment Method | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
 | **Credit / Debit Card** | ✅ | ✅ | ✅ |
-| **AliPay** | ✅ | ❌ | ✅ |
+| **Alipay** | ✅ | ❌ | ✅ |
 | **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
@@ -89,7 +90,7 @@ To contact sellers, you can join the AirReps Discord: https://airreps.link/disco
 :::
 
 ::: details Which is the best vendor?
-The best vendor cannot be definitively determined as it varies based on your needs and the platform you choose to purchase from. Vendors typically offer similar products, for example, the 'Pro 2 V5.2 TB' from Jenny is identical to the one from HiCity. However, differences arise in aspects such as support, shipping times, and the platforms through which the purchases are made.
+The best vendor cannot be definitively determined as it varies based on your needs and the platform you choose to purchase from. Vendors typically offer similar products; for example, the 'Pro 2 V5.2 TB' from Jenny is identical to the one from HiCity. However, differences arise in aspects such as support, shipping times, and the platforms through which the purchases are made.
 :::
 
 ::: details I ordered x days ago and my package hasn't arrived yet. What should I do?
@@ -113,5 +114,5 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 :::
 
 ::: tip
-Some seller websites providing credit card payments may have discrete website branding. Look for the version number you want - you can safely ignore generic product images. This is done to comply with copyright policies that some credit card payment gateways may have. 
+Some seller websites providing credit card payments may have discrete website branding. Look for the version number you want — you can safely ignore generic product images. This is done to comply with copyright policies that some credit card payment gateways may have.
 :::

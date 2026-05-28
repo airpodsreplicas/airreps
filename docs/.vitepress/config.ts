@@ -724,8 +724,7 @@ export default defineConfig({
         ['meta', { name: 'application-name', content: 'AirReps Ultimate Guide' }],
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
         ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
-        ['meta', { property: 'owner', content: 'AirReps' }],
-        ['meta', { property: 'author', content: 'AirReps' }],
+        ['meta', { name: 'author', content: 'AirReps' }],
     ],
 
     // Dynamically inject hreflang tags, localized OG meta, and JSON-LD into every page
@@ -1258,7 +1257,7 @@ export default defineConfig({
         },
         es: {
             label: 'Español',
-            lang: 'es',
+            lang: 'es-ES',
             description: 'Una comunidad para la discusión y exploración de clones de AirPods.',
             themeConfig: {
                 nav: getNav('es'),

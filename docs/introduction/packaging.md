@@ -1,4 +1,5 @@
 ---
+title: "AirPods Replica Packaging & Boxes"
 description: "Packaging types explained: No-logo, Apple Logo, and Double/Decoy boxes. Risks and quality details."
 ---
 

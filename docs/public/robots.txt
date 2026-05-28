@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /assets/
 Disallow: /hashmap.json
 
 # AI Crawlers - explicitly allowed

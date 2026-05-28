@@ -1,10 +1,11 @@
 ---
+title: "Buy AirPods Max Replicas: Seller Links"
 description: Verified AirPods Max replica versions and trusted seller links.
 ---
 
 # AirPods Max
 
-#### Versions and Sellers
+## Versions and Sellers
 
 <table>
   <tr>

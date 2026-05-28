@@ -1,4 +1,5 @@
 ---
+title: "AirPods Replica Battery Life"
 description: Battery life expectations, variations by model, and charging safety tips.
 ---
 

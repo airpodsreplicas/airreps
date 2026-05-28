@@ -1,8 +1,9 @@
 ---
+title: "How to Buy AirPods Replicas Safely"
 description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
 faq:
   - q: "What payment methods do trusted sellers accept?"
-    a: "Trusted sellers accept Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is currently not supported."
+    a: "Trusted sellers accept Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is not supported by sellers directly, though the KakoBuy agent accepts it."
   - q: "Why am I redirected to a crypto website when paying via Credit Card?"
     a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. To avoid KYC, use KakoBuy — an agent that accepts regular credit cards without identity checks."
   - q: "Note on Alibaba links and packaging"
@@ -17,7 +18,7 @@ Looking to buy AirPods replicas? This guide covers safe sourcing, payment method
 
 ## How to Buy
 
-We recommend always purchasing from [trusted sellers](/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [AliPay](#paying-with-alipay), Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — see our [KakoBuy guide](/ordering/kakobuy) for a full walkthrough.
+We recommend always purchasing from [trusted sellers](/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [Alipay](#paying-with-alipay), Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — see our [KakoBuy guide](/ordering/kakobuy) for a full walkthrough.
 
 The AirReps community recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
@@ -27,13 +28,13 @@ Ordering is simple: choose the product you want and check out. Not sure which mo
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours before your order is processed.
 :::
 
-## Paying with AliPay
+## Paying with Alipay
 
-Many trusted sellers now accept AliPay, allowing easy card payments without KYC verification.
+Many trusted sellers now accept Alipay, allowing easy card payments without KYC verification.
 
-**Quick Setup:** Download the AliPay app, create an account with your phone/email, then add a payment method.
+**Quick Setup:** Download the Alipay app, create an account with your phone/email, then add a payment method.
 
-**To Pay:** Place your order, select AliPay, then scan the displayed QR code with the AliPay app to complete payment.
+**To Pay:** Place your order, select Alipay, then scan the displayed QR code with the Alipay app to complete payment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
 
@@ -42,7 +43,7 @@ Many trusted sellers now accept AliPay, allowing easy card payments without KYC 
 
 ## Information about AliExpress/Alibaba
 
-When purchasing from AliExpress, keep in mind that customer service, refunds, and returns may not be as robust as with larger, more established retailers like Amazon. Your payment information is encrypted through AliPay, making purchases safe, but be aware of potential limitations on refunds and returns. *Buy at your own risk.*
+When purchasing from AliExpress, keep in mind that customer service, refunds, and returns may not be as robust as with larger, more established retailers like Amazon. Your payment information is encrypted through Alipay, making purchases safe, but be aware of potential limitations on refunds and returns. *Buy at your own risk.*
 
 Ensure you're satisfied with your purchase by thoroughly researching a seller before buying, taking note of their policies and reputation.
 
@@ -67,7 +68,7 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Trusted sellers accept multiple payment methods including Credit Cards, AliPay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). Note that PayPal is currently not supported by any seller. Payment options may vary by seller—see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
+Trusted sellers accept multiple payment methods including Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). Note that PayPal is not supported by sellers directly, though the [KakoBuy](https://airreps.link/kakobuy) agent accepts it. Payment options may vary by seller — see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?

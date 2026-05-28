@@ -1,4 +1,5 @@
 ---
+title: "AirPods Max Replica Versions & Specs"
 description: "Compare AirPods Max replica versions by chip, features, and missing features."
 ---
 
@@ -26,7 +27,7 @@ Click the hyperlink in the 'Version' column to find reviews for the given model.
 
 **V2 TB**: The V2 model delivers satisfactory sound quality with support for EQ adjustments. It features a firmer shell and offers future-proofing through firmware update capability.
 
-**V2.5**: This upgraded version provides enhanced Active Noise Cancellation (ANC) and improved transparency mode. It also features a superior headband design compared to the V2. While advertised as supporting firmware updates, no updates have been released for this model as of yet (for the Bluetrum 893x version); 
+**V2.5**: This upgraded version provides enhanced Active Noise Cancellation (ANC) and improved transparency mode. It also features a superior headband design compared to the V2. While advertised as supporting firmware updates, no updates have been released for this model as of yet (for the Bluetrum 893x version). 
 Realtek 8763ESE does support OTA. 
 
 ## V3 Overview
