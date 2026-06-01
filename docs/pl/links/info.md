@@ -50,7 +50,7 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 | **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ✅ | ✅ | ✅ |
+| **Xoom** | ❌ | ✅ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Bank Transfer** | ✅ | ✅ | ✅ |
