@@ -83,4 +83,12 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 Apple aggressively cracks down on replica links on platforms like AliExpress and Alibaba. While sellers (like Earhive) occasionally offer Alibaba links for purchasing, please be aware that **orders placed through Alibaba will always come with neutral packaging (no Apple logo box)** to avoid customs and copyright issues. Sellers' direct websites and Weidian stores are generally more secure and offer more Apple-like packaging options.
 :::
 
+::: details Are AirPods replicas legal?
+Buying replica AirPods for personal use is generally not something individuals are prosecuted for — enforcement targets manufacturers and large-scale sellers, not buyers. That said, replicas sit in a legal grey area: they imitate Apple's trademarked design, so importing them can occasionally mean customs delays or seizure, and reselling them as genuine is illegal. Laws vary by country, so check your local regulations. This guide is for informational purposes and is not legal advice.
+:::
+
+::: details Is it safe to buy replica AirPods?
+Yes — when you buy from the [trusted sellers](/links/info) listed in this guide. They have a long track record in the community, ship reliable products, and offer buyer support. To stay safe: order through a seller's official website, Weidian, or a reputable agent like [KakoBuy](https://airreps.link/kakobuy); use a payment method with some buyer protection where possible; and avoid random listings or "too good to be true" deals outside the verified list. Always review QC photos before shipping when your seller or agent offers them.
+:::
+
 

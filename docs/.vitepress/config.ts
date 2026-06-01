@@ -2,6 +2,7 @@ import { execSync } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { imageSize } from 'image-size';
 import { type DefaultTheme, defineConfig } from 'vitepress';
 import { redirectPlugin } from './plugins/redirect';
 
@@ -9,6 +10,34 @@ const configDir = path.dirname(fileURLToPath(import.meta.url));
 const docsDir = path.resolve(configDir, '..');
 const repoRoot = path.resolve(docsDir, '..');
 const ogImagesDir = path.join(docsDir, 'public', 'og');
+
+// Intrinsic dimensions for content images, read once per file at build and
+// cached. Injected into <img> tags that lack width/height so the browser can
+// reserve layout space before the image loads (avoids CLS). Only local
+// /public assets are resolved; remote URLs, data URIs, and missing files
+// return null and are skipped.
+const imgDimensionCache = new Map<string, { w: number; h: number } | null>();
+function getImageDimensions(src: string): { w: number; h: number } | null {
+    if (imgDimensionCache.has(src)) {
+        return imgDimensionCache.get(src) ?? null;
+    }
+    let dims: { w: number; h: number } | null = null;
+    if (src.startsWith('/') && !src.startsWith('//')) {
+        const clean = src.split('?')[0].split('#')[0];
+        try {
+            const { width, height } = imageSize(
+                fs.readFileSync(path.join(docsDir, 'public', clean))
+            );
+            if (width && height) {
+                dims = { w: width, h: height };
+            }
+        } catch {
+            dims = null;
+        }
+    }
+    imgDimensionCache.set(src, dims);
+    return dims;
+}
 
 // First-commit dates per markdown file, used for Article.datePublished so it
 // stops being equal to dateModified on every redeploy. Computed once at module
@@ -78,6 +107,41 @@ function extractFaqsFromMarkdown(absPath: string): Array<{ q: string; a: string 
         match = regex.exec(content);
     }
     return faqs;
+}
+
+// For /links/* pages: which trusted sellers actually have at least one link on
+// the page. Drives the CollectionPage ItemList so it doesn't advertise a seller
+// (e.g. HiCity on the AirPods 3 page, which lists none) that has no products
+// there. A seller's slugs (product, Weidian, Alibaba) only appear in its column
+// when that column has entries, so slug presence == seller present.
+const LINKS_PAGE_SELLERS: Array<{ key: string; name: string; url: string }> = [
+    { key: 'earhive', name: 'Earhive', url: 'https://earhive.com' },
+    { key: 'hicity', name: 'HiCity', url: 'https://hicitypods.com' },
+    { key: 'jenny', name: 'Jenny', url: 'https://jenny.airreps.info' },
+];
+function getSellersOnLinksPage(absPath: string): Array<{ name: string; url: string }> {
+    let content: string;
+    try {
+        content = fs.readFileSync(absPath, 'utf-8');
+    } catch {
+        return [];
+    }
+    const present = new Set<string>();
+    const matches = content.match(/airreps\.link\/([A-Za-z0-9_-]+)/g) ?? [];
+    for (const raw of matches) {
+        const slug = raw.slice('airreps.link/'.length);
+        if (slug.startsWith('hc') || slug.startsWith('hicity')) {
+            present.add('hicity');
+        } else if (slug.startsWith('j')) {
+            present.add('jenny');
+        } else if (slug.startsWith('e')) {
+            present.add('earhive');
+        }
+    }
+    return LINKS_PAGE_SELLERS.filter((s) => present.has(s.key)).map(({ name, url }) => ({
+        name,
+        url,
+    }));
 }
 
 // Shared sidebar structure - used to generate locale-specific sidebars
@@ -830,10 +894,12 @@ export default defineConfig({
         const localePrefix = currentLocale === 'en' ? '' : `/${currentLocale}`;
         const pageUrl = `https://airpodsreplicas.com${localePrefix}${canonicalBase}`;
 
-        // OG Image Path
-        // Use the generated OG image for the specific page
+        // OG Image Path — use the generated OG image for this page, falling back
+        // to the homepage image if it hasn't been generated yet (e.g. a new page
+        // added before the next `generate-og` run). Mirrors the sitemap's guard.
         const ogImageSlug = relativePath.replace(/\.md$/, '');
-        const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageSlug}.png`;
+        const ogImageOnDisk = fs.existsSync(path.join(ogImagesDir, `${ogImageSlug}.png`));
+        const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageOnDisk ? ogImageSlug : 'index'}.png`;
 
         // Section detection — drives breadcrumbs and per-section schema @type
         const sectionMap: Record<string, string> = {
@@ -846,9 +912,20 @@ export default defineConfig({
         const pathSegments = basePath.split('/').filter(Boolean);
         const sectionSlug = pathSegments.length > 1 ? pathSegments[0] : null;
         const sectionName = sectionSlug ? sectionMap[sectionSlug] : null;
-        const sectionUrl = sectionSlug
-            ? `https://airpodsreplicas.com${localePrefix}/${sectionSlug}/`
-            : null;
+        // Map each section to its real hub page so the position-2 breadcrumb
+        // links somewhere that exists — the bare `/links/`, `/troubleshooting/`
+        // etc. section roots have no page and return 404.
+        const sectionHubs: Record<string, string> = {
+            'version-info': 'version-info/general',
+            introduction: 'introduction/overview',
+            ordering: 'ordering/how-to-buy',
+            troubleshooting: 'troubleshooting/other-common-bugs',
+            links: 'links/info',
+        };
+        const sectionUrl =
+            sectionSlug && sectionHubs[sectionSlug]
+                ? `https://airpodsreplicas.com${localePrefix}/${sectionHubs[sectionSlug]}`
+                : null;
 
         const isHome = basePath === '';
         const isTroubleshooting = sectionSlug === 'troubleshooting';
@@ -890,6 +967,17 @@ export default defineConfig({
             '@id': 'https://airpodsreplicas.com/#organization',
             name: 'AirReps',
             alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
+            description:
+                'AirReps is the largest community for AirPods replicas, covering which models to buy, trusted sellers, version comparisons, features, sound quality, and troubleshooting.',
+            knowsAbout: [
+                'AirPods replicas',
+                'AirPods Pro 2 replicas',
+                'AirPods Pro 3 replicas',
+                'AirPods 4 replicas',
+                'AirPods Max replicas',
+                'replica earbuds',
+                'AirPods clones',
+            ],
             url: 'https://airpodsreplicas.com',
             logo: {
                 '@type': 'ImageObject',
@@ -948,6 +1036,7 @@ export default defineConfig({
             mainEntityOfPage: pageUrl,
             inLanguage: currentLocale,
             isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+            breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
             ...(sectionName ? { articleSection: sectionName } : {}),
             author: { '@id': 'https://airpodsreplicas.com/#organization' },
             publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
@@ -958,51 +1047,35 @@ export default defineConfig({
         // /links/* pages are seller directories. CollectionPage + ItemList of
         // trusted-seller Organizations describes them more honestly than Article
         // and surfaces the commercial intent to search engines.
-        const linksCollectionNode = isLinksPage
-            ? {
-                  '@type': 'CollectionPage',
-                  '@id': `${pageUrl}#webpage`,
-                  url: pageUrl,
-                  name: pageTitleClean,
-                  description: pageDescription,
-                  isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
-                  inLanguage: currentLocale,
-                  breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
-                  dateModified,
-                  mainEntity: {
-                      '@type': 'ItemList',
-                      itemListElement: [
-                          {
+        const linksPageSellers = isLinksPage
+            ? getSellersOnLinksPage(path.join(docsDir, relativePath))
+            : [];
+        const linksCollectionNode =
+            isLinksPage && linksPageSellers.length
+                ? {
+                      '@type': 'CollectionPage',
+                      '@id': `${pageUrl}#webpage`,
+                      url: pageUrl,
+                      name: pageTitleClean,
+                      description: pageDescription,
+                      isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+                      inLanguage: currentLocale,
+                      breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+                      dateModified,
+                      mainEntity: {
+                          '@type': 'ItemList',
+                          itemListElement: linksPageSellers.map((seller, i) => ({
                               '@type': 'ListItem',
-                              position: 1,
+                              position: i + 1,
                               item: {
                                   '@type': 'Organization',
-                                  name: 'Earhive',
-                                  url: 'https://earhive.com',
+                                  name: seller.name,
+                                  url: seller.url,
                               },
-                          },
-                          {
-                              '@type': 'ListItem',
-                              position: 2,
-                              item: {
-                                  '@type': 'Organization',
-                                  name: 'HiCity',
-                                  url: 'https://hicitypods.com',
-                              },
-                          },
-                          {
-                              '@type': 'ListItem',
-                              position: 3,
-                              item: {
-                                  '@type': 'Organization',
-                                  name: 'Jenny',
-                                  url: 'https://jenny.airreps.info',
-                              },
-                          },
-                      ],
-                  },
-              }
-            : null;
+                          })),
+                      },
+                  }
+                : null;
 
         const mainPageNode = isHome
             ? homeNode
@@ -1123,7 +1196,7 @@ export default defineConfig({
                         {
                             en: 'en_US',
                             pt: 'pt_BR',
-                            es: 'es_MX',
+                            es: 'es_ES',
                             da: 'da_DK',
                             pl: 'pl_PL',
                             ru: 'ru_RU',
@@ -1139,7 +1212,7 @@ export default defineConfig({
             ...(Object.entries({
                 en: 'en_US',
                 pt: 'pt_BR',
-                es: 'es_MX',
+                es: 'es_ES',
                 da: 'da_DK',
                 pl: 'pl_PL',
                 ru: 'ru_RU',
@@ -1166,9 +1239,17 @@ export default defineConfig({
             ...(() => {
                 const manualFaqs =
                     (frontmatter.faq as Array<{ q: string; a: string }> | undefined) ?? [];
-                const faqs = manualFaqs.length
-                    ? manualFaqs
-                    : extractFaqsFromMarkdown(path.join(docsDir, relativePath));
+                // Merge instead of either/or: manual `faq:` frontmatter entries
+                // win, then append any auto-extracted `::: details Question?`
+                // blocks not already covered (deduped case-insensitively on the
+                // question) so hand-authored and inline FAQs both reach schema.
+                const seenQuestions = new Set(manualFaqs.map((f) => f.q.trim().toLowerCase()));
+                const faqs = [
+                    ...manualFaqs,
+                    ...extractFaqsFromMarkdown(path.join(docsDir, relativePath)).filter(
+                        (f) => !seenQuestions.has(f.q.trim().toLowerCase())
+                    ),
+                ];
                 if (!faqs.length) {
                     return [];
                 }
@@ -1210,6 +1291,29 @@ export default defineConfig({
                 '<img class="VPImage logo" loading="eager" fetchpriority="high" width="24" height="24"$1>'
             )
             .replace(/<img(?![^>]*\bloading=)([^>]*)>/g, '<img loading="lazy" decoding="async"$1>')
+            // Stamp intrinsic width/height on content images that lack them so the
+            // browser reserves layout space before the image loads (avoids CLS).
+            // Paired with `.vp-doc img { height: auto }` so responsive scaling keeps
+            // the aspect ratio. Images without resolvable local dimensions are left
+            // untouched.
+            .replace(
+                /<img(?![^>]*\bwidth=)([^>]*?)\bsrc="([^"]+)"([^>]*)>/g,
+                (match, pre, src, post) => {
+                    const dims = getImageDimensions(src);
+                    return dims
+                        ? `<img${pre}src="${src}"${post} width="${dims.w}" height="${dims.h}">`
+                        : match;
+                }
+            )
+            // Outbound seller links (airreps.link) open in a new tab so readers
+            // keep the comparison page they were on; rel="noopener" for safety.
+            // These are plain links to public seller sites — deliberately NOT
+            // marked rel="sponsored". Only raw-HTML table anchors match here;
+            // markdown-rendered externals already carry target=.
+            .replace(
+                /<a(?![^>]*\btarget=)([^>]*\bhref="https:\/\/airreps\.link\/[^"]*"[^>]*)>/g,
+                '<a target="_blank" rel="noopener"$1>'
+            )
             .replace(
                 /<div class="VPContent is-home"/g,
                 '<div role="main" class="VPContent is-home"'

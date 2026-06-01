@@ -34,3 +34,13 @@ Our recommended trusted sellers provide excellent value and quality. While resel
 ::: warning
 Be cautious when purchasing from resellers, especially those not listed in our trusted sellers section. Some may overprice products or engage in questionable practices. A higher price does not guarantee better quality.
 :::
+
+## Frequently Asked Questions
+
+::: details Which AirPods replica seller is best?
+There's no single best seller — the trusted sellers (Earhive, HiCity, and Jenny) often carry the same versions, so the right choice depends on your priorities. Earhive tends to have the best prices, Jenny the fastest shipping, and HiCity the widest range of payment methods and support. Compare them and their products on the [purchase links](/links/info) page.
+:::
+
+::: details How do I know a seller is trustworthy?
+Stick to the verified sellers listed in this guide. They've been vetted by the AirReps community over time for product quality, reliable shipping, and support. Avoid unlisted sellers and marketplace listings that look unusually cheap — a lower price often means an older version or a worse experience, and you lose the community's track record as a safety net.
+:::

@@ -3,7 +3,9 @@ title: "Buy AirPods 4 Replicas: Seller Links"
 description: "Trusted seller links and purchase options for AirPods 4 replicas."
 ---
 
-# AirPods 4
+# Buy AirPods 4 Replicas
+
+AirPods 4 replicas bring an open-ear design, with ANC on the higher versions. See the [AirPods 4 version info](/version-info/airpods-4) for the differences between the V2 and V3 chipsets, or take the [quiz](/quiz) for a tailored pick.
 
 ## Versions and Sellers
 

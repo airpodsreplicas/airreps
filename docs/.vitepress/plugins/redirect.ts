@@ -19,6 +19,7 @@ const redirectHTML = (to: string) => `<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
+  <meta name="robots" content="noindex">
   <meta http-equiv="refresh" content="0; url=${to}">
   <link rel="canonical" href="${to}">
   <script>window.location.replace('${to}')</script>

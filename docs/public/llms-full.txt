@@ -4,6 +4,8 @@
 
 AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs a Discord server and subreddit.
 
+Last updated: 2026-06-01
+
 Website: https://airpodsreplicas.com
 Discord: https://airreps.link/discord
 Reddit: https://airreps.link/reddit (r/AirReps)
@@ -742,12 +744,13 @@ V2.5/KKX:
 
 The AirReps quiz at https://airpodsreplicas.com/quiz asks a few questions and recommends the best option. Here is a summary of the recommendation logic and approximate prices:
 
-Approximate Prices (USD, as of last update):
+Approximate Prices (USD, as of 2026-06-01; prices fluctuate):
 - AirPods Pro 2 V5.4 Huilian: $58
 - AirPods Pro 2 V5.3 TB: $55
 - AirPods Pro 2 V5.3 Huilian: $56
 - AirPods Pro 2 V5.3 HR: $50
 - AirPods Pro 2 V5.3 HR+: $58
+- AirPods Pro 3 V7 Huilian: $67
 - AirPods Pro 3 V6 TB: $37
 - AirPods Pro 3 V6 Huilian: $43
 - AirPods Pro 3 V5.5: $27

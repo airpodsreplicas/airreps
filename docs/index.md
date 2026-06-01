@@ -2,7 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: 'AirReps'
+title: 'AirPods Replicas: Trusted Sellers & Version Guide'
 description: 'The AirReps community guide to AirPods replicas — also known as fake AirPods or AirPods clones. Find trusted sellers, version comparisons, and honest reviews.'
 
 hero:
@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Take the Quiz
       link: quiz
+    - theme: alt
+      text: View Trusted Sellers
+      link: /links/info
 
 features:
   - icon: 🤝
