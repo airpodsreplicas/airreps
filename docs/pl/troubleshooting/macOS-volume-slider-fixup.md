@@ -91,6 +91,6 @@ Jeśli chcesz usunąć aplikację, wystarczy uruchomić to polecenie w Terminalu
 
 ## **Opcjonalnie: Ankieta**
 
-Przygotowałem ankietę [tutaj](http://poll-maker.com/poll5643879x05fb4568-166), aby sprawdzić, czy to obejście naprawdę działa. Jest wyjątkowo prosta do wypełnienia i bardzo pomaga uzyskać pełniejszy obraz tej metody. Będę wdzięczny za podzielenie się opinią!
+Przygotowałem ankietę [tutaj](https://poll-maker.com/poll5643879x05fb4568-166), aby sprawdzić, czy to obejście naprawdę działa. Jest wyjątkowo prosta do wypełnienia i bardzo pomaga uzyskać pełniejszy obraz tej metody. Będę wdzięczny za podzielenie się opinią!
 
-[![ankieta](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)
+[![ankieta](/volume_fix/poll.png)](https://poll-maker.com/poll5643879x05fb4568-166)

@@ -91,6 +91,6 @@ Si vous souhaitez supprimer l'application, vous pouvez simplement exécuter cett
 
 ## **Optionnel : Sondage**
 
-J'ai créé un sondage [ici](http://poll-maker.com/poll5643879x05fb4568-166) pour savoir si ce contournement fonctionne réellement. C'est extrêmement simple à faire, et cela aide beaucoup à obtenir une vue d'ensemble. J'apprécierais vraiment que vous partagiez vos impressions !
+J'ai créé un sondage [ici](https://poll-maker.com/poll5643879x05fb4568-166) pour savoir si ce contournement fonctionne réellement. C'est extrêmement simple à faire, et cela aide beaucoup à obtenir une vue d'ensemble. J'apprécierais vraiment que vous partagiez vos impressions !
 
-[![poll](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)
+[![poll](/volume_fix/poll.png)](https://poll-maker.com/poll5643879x05fb4568-166)

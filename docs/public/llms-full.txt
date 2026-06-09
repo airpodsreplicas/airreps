@@ -4,7 +4,7 @@
 
 AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs a Discord server and subreddit.
 
-Last updated: 2026-06-01
+Last updated: 2026-06-09
 
 Website: https://airpodsreplicas.com
 Discord: https://airreps.link/discord
@@ -501,7 +501,7 @@ Steps for AliExpress orders:
 4. Shipping Timer: Extend the timer if needed. Only click "Order Received" after confirming good condition.
 
 FAQ:
-- What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bank Transfer, Bitcoin. All have Weidian storefronts. PayPal is not supported by any seller.
+- What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bank Transfer, Bitcoin. All have Weidian storefronts. PayPal is not supported by sellers directly, though the KakoBuy agent accepts it.
 - Why am I redirected to a crypto website when paying via Credit Card? Sellers use a secure crypto payment gateway. Some processors may prompt for KYC. Alternative: Use KakoBuy (https://airreps.link/kakobuy) which never requires KYC verification.
 - Note on Alibaba: Orders through Alibaba always come with neutral packaging (no Apple logo box).
 
@@ -528,6 +528,8 @@ AliPay                  Yes       No       Yes
 PayPal                  No        No       No
 Revolut                 Yes       Yes      Yes
 Wise                    Yes       Yes      Yes
+Xoom                    No        Yes      No
+Cash App                No        Yes      No
 Cash App (Lightning)    Yes       Yes      Yes
 Bitcoin/Crypto          Yes       Yes      Yes
 Bank Transfer           Yes       Yes      Yes
@@ -548,6 +550,7 @@ Blik                    No        Yes      No
 PayU                    No        Yes      No
 Bancontact              No        Yes      No
 EPS                     No        Yes      No
+iDEAL                   No        Yes      No
 
 AirPods Pro 3 Purchase Links:
 - V6 (TB): Earhive (https://airreps.link/eprov6tb), HiCity (https://airreps.link/hcprov6tb), Jenny (https://airreps.link/jprov6tb)

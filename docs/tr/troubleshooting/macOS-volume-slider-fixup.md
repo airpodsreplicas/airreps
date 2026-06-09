@@ -91,6 +91,6 @@ Uygulamayı kaldırmak isterseniz, Terminal'de şu komutu çalıştırın:
 
 ## **İsteğe Bağlı: Anket**
 
-Bu çözümün gerçekten işe yarayıp yaramadığını öğrenmek için [burada](http://poll-maker.com/poll5643879x05fb4568-166) bir anket oluşturdum. Oldukça basit ve bu çözümün genel bir resmini elde etmeye çok yardımcı oluyor. Düşüncelerinizi paylaşırsanız çok memnun olurum!
+Bu çözümün gerçekten işe yarayıp yaramadığını öğrenmek için [burada](https://poll-maker.com/poll5643879x05fb4568-166) bir anket oluşturdum. Oldukça basit ve bu çözümün genel bir resmini elde etmeye çok yardımcı oluyor. Düşüncelerinizi paylaşırsanız çok memnun olurum!
 
-[![poll](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)
+[![poll](/volume_fix/poll.png)](https://poll-maker.com/poll5643879x05fb4568-166)

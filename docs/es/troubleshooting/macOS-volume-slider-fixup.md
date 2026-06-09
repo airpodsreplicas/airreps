@@ -91,6 +91,6 @@ Si deseas eliminar la app, simplemente ejecuta este comando en el Terminal:
 
 ## **Opcional: Encuesta**
 
-He creado una encuesta [aquí](http://poll-maker.com/poll5643879x05fb4568-166) para averiguar si esta solución realmente funciona. Es increíblemente simple de hacer y ayuda mucho a obtener una visión completa de este método. ¡Agradecería mucho si compartes tu opinión!
+He creado una encuesta [aquí](https://poll-maker.com/poll5643879x05fb4568-166) para averiguar si esta solución realmente funciona. Es increíblemente simple de hacer y ayuda mucho a obtener una visión completa de este método. ¡Agradecería mucho si compartes tu opinión!
 
-[![encuesta](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)
+[![encuesta](/volume_fix/poll.png)](https://poll-maker.com/poll5643879x05fb4568-166)

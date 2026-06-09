@@ -91,6 +91,6 @@ Wenn du die App entfernen möchtest, führe einfach folgenden Befehl im Terminal
 
 ## **Optional: Umfrage**
 
-Ich habe eine Umfrage [hier](http://poll-maker.com/poll5643879x05fb4568-166) erstellt, um herauszufinden, ob dieser Workaround tatsächlich funktioniert. Die Teilnahme ist sehr einfach und hilft enorm, ein vollständiges Bild dieses Workarounds zu bekommen. Ich würde mich sehr freuen, wenn du deine Meinung teilst!
+Ich habe eine Umfrage [hier](https://poll-maker.com/poll5643879x05fb4568-166) erstellt, um herauszufinden, ob dieser Workaround tatsächlich funktioniert. Die Teilnahme ist sehr einfach und hilft enorm, ein vollständiges Bild dieses Workarounds zu bekommen. Ich würde mich sehr freuen, wenn du deine Meinung teilst!
 
-[![Umfrage](/volume_fix/poll.png)](http://poll-maker.com/poll5643879x05fb4568-166)
+[![Umfrage](/volume_fix/poll.png)](https://poll-maker.com/poll5643879x05fb4568-166)

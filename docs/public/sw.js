@@ -11,7 +11,17 @@ const HTML = `${VERSION}-html`;
 const HASHED_ASSET = /^\/assets\/.+\.(?:js|css|woff2?)$/i;
 const STATIC_FILE = /\.(?:webp|png|jpg|jpeg|gif|svg|ico|webm|woff2?)$/i;
 
-self.addEventListener('install', () => {
+self.addEventListener('install', (event) => {
+    // Precache the homepage so the offline fallback in networkFirst() has
+    // something to serve even if the user never navigated to '/' before.
+    event.waitUntil(
+        caches
+            .open(HTML)
+            .then((cache) => cache.add('/'))
+            .catch(() => {
+                // Offline install or transient failure — fallback just stays empty.
+            })
+    );
     self.skipWaiting();
 });
 
