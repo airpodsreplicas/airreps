@@ -22,7 +22,7 @@
     "vitepress": "^2.0.0-alpha.16"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.4",
+    "@biomejs/biome": "^2.4.16",
     "@resvg/resvg-js": "^2.6.2",
     "fs-extra": "^11.3.3",
     "gray-matter": "^4.0.3",
