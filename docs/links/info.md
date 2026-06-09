@@ -61,7 +61,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 
 | Payment Method | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
-| **Credit / Debit Card** | ✅ | ✅ | ✅ |
+| [**Credit / Debit Card**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
 | **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
@@ -121,6 +121,8 @@ If you have tracking information that is in Chinese, you can copy the tracking n
 ::: details My card is not working. What should I do?
 If your card is not working, you should contact the seller and ask if they will accept a different form of payment. Keep in mind that some alternative payment methods, such as Wise, do not offer buyer protection. If the seller is unable to accept a different form of payment, you can try using a different card or purchasing from a different seller.
 :::
+
+<a id="credit-card"></a>
 
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
 Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card is used to buy crypto, which is then used to complete your order safely and efficiently.
