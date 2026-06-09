@@ -72,6 +72,28 @@ try {
     process.exit(0);
 }
 
+// satori-html escapes interpolated text (& -> &amp;), but satori draws text
+// children literally — so a title like "Sellers & Versions" would show up as
+// "Sellers &amp; Versions" on the image. Walk the VNode tree after parsing and
+// decode entities in text children to undo that escaping.
+function unescapeTextNodes(node) {
+    if (typeof node === 'string') {
+        return node
+            .replace(/&lt;/g, '<')
+            .replace(/&gt;/g, '>')
+            .replace(/&quot;/g, '"')
+            .replace(/&#0?39;/g, "'")
+            .replace(/&amp;/g, '&');
+    }
+    if (Array.isArray(node)) {
+        return node.map(unescapeTextNodes);
+    }
+    if (node && typeof node === 'object' && node.props && node.props.children !== undefined) {
+        node.props.children = unescapeTextNodes(node.props.children);
+    }
+    return node;
+}
+
 async function generateOgImage(title, description, outFile, label = 'GUIDE') {
     const markup = html`
     <div
@@ -130,7 +152,7 @@ async function generateOgImage(title, description, outFile, label = 'GUIDE') {
     </div>
     `;
 
-    const svg = await satori(markup, {
+    const svg = await satori(unescapeTextNodes(markup), {
         width,
         height,
         fonts: [
@@ -250,8 +272,19 @@ async function main() {
         const description = data.description || '';
 
         const label = data.ogLabel || 'GUIDE';
-        await generateOgImage(title, description, outFilePath, label);
+        try {
+            await generateOgImage(title, description, outFilePath, label);
+        } catch (err) {
+            // Keep going so one bad page doesn't hide errors in the rest,
+            // but fail the build — a silent partial run would deploy pages
+            // whose meta tags point at missing/outdated OG images.
+            console.error(`[generate-og] Failed for ${relPath}: ${err.message}`);
+            process.exitCode = 1;
+        }
     }
 }
 
-main().catch(console.error);
+main().catch((err) => {
+    console.error(err);
+    process.exitCode = 1;
+});
