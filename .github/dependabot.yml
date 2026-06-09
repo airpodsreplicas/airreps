@@ -1,6 +1,9 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
+  # "bun" (not "npm") so Dependabot updates bun.lock alongside package.json —
+  # npm-ecosystem PRs leave bun.lock stale, which fails the
+  # `bun install --frozen-lockfile` step in every workflow.
+  - package-ecosystem: "bun"
     directory: "/"
     schedule:
       interval: "weekly"

@@ -7,7 +7,9 @@ import { html } from 'satori-html';
 const width = 1200;
 const height = 630;
 
-const outDir = path.resolve('docs/public/og');
+// Scratch dir (gitignored) — NOT docs/public/og, which is committed and
+// deployed; test variants must never ship to production.
+const outDir = path.resolve('scripts/.og-variants');
 const logoPath = path.resolve('docs/public/logo.png');
 
 // Ensure output directory exists

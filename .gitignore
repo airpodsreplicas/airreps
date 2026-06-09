@@ -33,6 +33,9 @@
 # Package lock files
 package-lock.json
 
+# OG image test variants (scripts/test-og-variants.mjs scratch output)
+/scripts/.og-variants/
+
 # ========================
 # Claude Code / Skills
 # ========================

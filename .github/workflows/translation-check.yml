@@ -23,6 +23,7 @@ permissions:
   contents: write
   pull-requests: write
   issues: read
+  actions: write # to dispatch deploy.yml after the auto-merge (GITHUB_TOKEN merges don't trigger push workflows)
 
 jobs:
   sync-translations:
@@ -36,7 +37,7 @@ jobs:
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
         with:
-          bun-version: latest
+          bun-version: 1.3.11 # keep in sync with deploy.yml so the validate build matches the real deploy
 
       - name: Install dependencies
         run: bun install --frozen-lockfile
@@ -91,7 +92,9 @@ jobs:
             | sort)
 
           FILES=$(printf '%s' "$FILES" | grep -v '^$' | sort -u || true)
-          COUNT=$(echo "$FILES" | grep -c . || echo "0")
+          # grep -c prints 0 AND exits 1 on no matches — `|| echo 0` would emit a second
+          # line ("0\n0") and corrupt $GITHUB_OUTPUT, failing the run when nothing changed.
+          COUNT=$(printf '%s\n' "$FILES" | grep -c . || true)
           PROTECTED_LOCALES=$(printf '%s' "$PROTECTED_LOCALES" | grep -v '^$' | sort -u || true)
 
           echo "files<<EOF" >> $GITHUB_OUTPUT
@@ -157,6 +160,13 @@ jobs:
             PR=$(gh pr view "$PR_URL" --json number --jq '.number')
           fi
 
-          # Merge immediately (squash), or queue auto-merge if checks are required
-          gh pr merge "$PR" --squash --delete-branch || \
+          # Merge immediately (squash), or queue auto-merge if checks are required.
+          # Merges made with GITHUB_TOKEN don't fire push-triggered workflows, so
+          # explicitly dispatch the Pages deploy after a successful merge — without
+          # this the translations land on main but never ship.
+          if gh pr merge "$PR" --squash --delete-branch; then
+            gh workflow run deploy.yml --ref main
+          else
             gh pr merge "$PR" --squash --auto --delete-branch
+            echo "::warning::Auto-merge queued; run deploy.yml manually once the PR merges (GITHUB_TOKEN merges don't trigger it)."
+          fi
