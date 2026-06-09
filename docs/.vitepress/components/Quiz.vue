@@ -1131,6 +1131,7 @@ const sellers = {
             'PayU',
             'Bancontact',
             'EPS',
+            'iDEAL',
             'MBWAY',
             'Multibanco',
             'Swish',
