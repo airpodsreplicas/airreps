@@ -1,10 +1,12 @@
 ---
-title: 'Comprar AirPods Max Réplicas: Links de Vendedores'
-description: Versões verificadas de réplicas do AirPods Max e links de vendedores confiáveis.
+title: 'Compre Réplicas Dos AirPods Max: Links De Vendedores'
+description: Versões de réplica verificadas dos AirPods Max e links de vendedores confiáveis.
 ---
-# AirPods Max
+# Comprar réplicas do AirPods Max
 
-## Versões e Vendedores
+As réplicas do AirPods Max são a opção circumaural, variando de modelos baratos em plástico até o V3 com corpo metálico. Compare-os na [informações das versões do AirPods Max](/pt/version-info/airpods-max) antes de comprar, ou faça o [questionário](/pt/quiz).
+
+## Versões e vendedores
 
 <table>
   <tr>
@@ -98,5 +100,5 @@ description: Versões verificadas de réplicas do AirPods Max e links de vendedo
 > As réplicas do AirPods Max estão disponíveis em várias cores. Para opções detalhadas, consulte os sites dos respectivos vendedores.
 
 ::: tip
-Escolher um link do Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você desejar consolidar o envio com outros itens e estiver familiarizado com plataformas de agente. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedidos do KakoBuy](/pt/ordering/kakobuy).
+Escolher um link do Weidian requer o uso de um agente para envio. Recomendamos essa opção apenas se você quiser consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedidos do KakoBuy](/pt/ordering/kakobuy).
 :::

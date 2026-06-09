@@ -1,8 +1,10 @@
 ---
-title: 'Acheter Répliques AirPods 4: Liens Des Vendeurs'
-description: Liens de vendeurs fiables et options d'achat pour les répliques AirPods 4.
+title: 'Acheter AirPods 4 Répliques: Liens des Vendeurs'
+description: Liens de vendeurs fiables et options d'achat pour les répliques d'AirPods 4.
 ---
-# AirPods 4
+# Acheter des répliques d'AirPods 4
+
+Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC étant disponible sur les versions supérieures. Voir les [informations sur les versions d'AirPods 4](/fr/version-info/airpods-4) pour les différences entre les chipsets V2 et V3, ou faites le [quiz](/fr/quiz) pour un choix personnalisé.
 
 ## Versions et vendeurs
 
@@ -100,5 +102,5 @@ description: Liens de vendeurs fiables et options d'achat pour les répliques Ai
 
 
 ::: tip
-Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez regrouper l'expédition avec d'autres articles et que vous êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Nouveau aux agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
+Le choix d'un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez regrouper l'expédition avec d'autres articles et si vous êtes familiarisé avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Vous débutez avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
 :::

@@ -1,8 +1,10 @@
 ---
-title: 'Køb AirPods 4 Replikaer: Sælgerlinks'
-description: Pålidelige sælgerlinks og købsmuligheder for AirPods 4 replikaer.
+title: 'Køb AirPods 4-kopier: Sælgerlinks'
+description: Pålidelige links til sælgere og købsmuligheder for AirPods 4-kopier.
 ---
-# AirPods 4
+# Køb AirPods 4-kopier
+
+AirPods 4-kopier har et åbent-øre-design, med ANC på de højere versioner. Se [AirPods 4 versionsinfo](/da/version-info/airpods-4) for forskellene mellem V2- og V3-chipsæt, eller tag [quizzen](/da/quiz) for et tilpasset valg.
 
 ## Versioner og sælgere
 
@@ -100,5 +102,5 @@ description: Pålidelige sælgerlinks og købsmuligheder for AirPods 4 replikaer
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny med agenter? Se vores [KakoBuy bestillingsvejledning](/da/ordering/kakobuy).
+Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny med agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::

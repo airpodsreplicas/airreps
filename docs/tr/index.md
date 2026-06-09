@@ -1,11 +1,11 @@
 ---
 layout: home
-title: AirReps
-description: 'AirReps topluluğunun AirPods replikalarına yönelik rehberi — diğer adıyla sahte AirPods veya AirPods klonları. Güvenilir satıcılar, sürüm karşılaştırmaları ve dürüst incelemeler içerir.'
+title: 'AirPods Replikaları: Güvenilir Satıcılar & Versiyon Rehberi'
+description: 'AirReps topluluğunun AirPods replikalarına yönelik rehberi — diğer adıyla sahte AirPods veya AirPods klonları. Güvenilir satıcıları, versiyon karşılaştırmalarını ve dürüst incelemeleri keşfedin.'
 hero:
   name: AirReps
   text: AirPods replikaları.
-  tagline: AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk.
+  tagline: AirPods klonlarını tartışmak ve keşfetmek için bir topluluk.
   actions:
     - theme: brand
       text: Nihai Rehberi Oku
@@ -13,20 +13,23 @@ hero:
     - theme: alt
       text: Testi Çöz
       link: quiz
+    - theme: alt
+      text: Güvenilir Satıcıları Görüntüle
+      link: /links/info
 features:
   - icon: "🤝"
-    title: Yardımcılar Ekibi
-    details: Sahip olabileceğiniz neredeyse her soruyu yanıtlamaya hazır özel yardımcılar.
+    title: Yardım Ekibi
+    details: 'Neredeyse her sorunuza cevap vermeye hazır, özverili yardımcılar.'
     link: 'https://airreps.link/discord'
     linkText: Discord'a Katıl
   - icon: ⏰
     title: Güncel
-    details: 'Tüm kaynaklar, rehberler ve uygulamalar özverili personel ekibimiz tarafından her zaman güncel tutulur.'
+    details: 'Tüm kaynaklar, rehberler ve uygulamalar, özverili personel ekibimiz tarafından her zaman güncel tutulur.'
     link: /introduction/overview
     linkText: Rehberi Oku
   - icon: "💸"
-    title: Güvenilir satıcı listesi
-    details: 'Topluluk tarafından seçilen, kâr amacı gütmeyen bir satıcı listesi; en yeni ürünleri ve en iyi desteği içerir.'
+    title: Güvenilir Satıcı Listesi
+    details: 'Topluluk tarafından seçilen, kar amacı gütmeyen satıcı listesi; en yeni ürünler ve en iyi destek.'
     link: /links/info
     linkText: Satıcıları Görüntüle
 ---

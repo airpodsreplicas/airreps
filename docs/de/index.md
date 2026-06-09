@@ -1,32 +1,35 @@
 ---
 layout: home
-title: AirReps
-description: 'Der AirReps Community-Leitfaden Für AirPods-Repliken — Auch Bekannt Als Fake-AirPods Oder AirPods-Klone. Finde Vertrauenswürdige Verkäufer, Versionsvergleiche, Und Ehrliche Bewertungen.'
+title: 'AirPods-Replikate: Vertrauenswürdige Verkäufer & Versionsleitfaden'
+description: 'Der AirReps-Community-Leitfaden zu AirPods-Replikaten — auch bekannt als gefälschte AirPods oder AirPods-Klone. Finde vertrauenswürdige Verkäufer, Versionsvergleiche und ehrliche Bewertungen.'
 hero:
   name: AirReps
-  text: AirPods-Repliken.
-  tagline: Eine Community Für Die Diskussion Und Erforschung Von AirPods-Klonen.
+  text: AirPods-Replikate.
+  tagline: Eine Community für die Diskussion und Erforschung von AirPods-Klonen.
   actions:
     - theme: brand
-      text: Den Ultimativen Leitfaden Lesen
+      text: Lies Den Ultimativen Leitfaden
       link: introduction/overview
     - theme: alt
       text: Mach Das Quiz
       link: quiz
+    - theme: alt
+      text: Vertrauenswürdige Verkäufer Anzeigen
+      link: /links/info
 features:
   - icon: "🤝"
-    title: Team Von Helfern
-    details: 'Engagierte Helfer, Die Bereit Sind, Fast Jede Frage Zu Beantworten, Die Du Haben Könntest.'
+    title: Team von Helfern
+    details: 'Engagierte Helfer, die bereit sind, fast jede Frage zu beantworten, die du haben könntest.'
     link: 'https://airreps.link/discord'
-    linkText: Discord Beitreten
+    linkText: Tritt Discord Bei
   - icon: ⏰
     title: Auf Dem Laufenden
-    details: 'Alle Ressourcen, Leitfäden Und Apps Werden Stets Vom Engagierten Mitarbeiterteam Auf Dem Neuesten Stand Gehalten.'
+    details: 'Alle Ressourcen, Leitfäden und Apps werden von unserem engagierten Mitarbeiterteam stets auf dem neuesten Stand gehalten.'
     link: /introduction/overview
-    linkText: Leitfaden Lesen
+    linkText: Lies Den Leitfaden
   - icon: "💸"
-    title: Liste Vertrauenswürdiger Verkäufer
-    details: 'Von Der Community Ausgewählte, Nicht-Gewinnorientierte Verkäuferliste Mit Den Neuesten Produkten Und Dem Besten Support.'
+    title: Liste vertrauenswürdiger Verkäufer
+    details: 'Von der Community ausgewählte, nicht gewinnorientierte Verkäuferliste mit den neuesten Produkten und dem besten Support.'
     link: /links/info
     linkText: Verkäufer Anzeigen
 ---
