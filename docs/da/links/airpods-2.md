@@ -1,8 +1,10 @@
 ---
-title: 'Køb AirPods 2-replikaer: Links Til Sælgere'
-description: Pålidelige links til sælgere og købsmuligheder for AirPods 2-replikaer.
+title: 'Køb AirPods 2 Replikaer: Sælger Links'
+description: Pålidelige links til sælgere og købemuligheder for AirPods 2 replikaer.
 ---
-# AirPods 2
+# Køb AirPods 2-kopier
+
+AirPods 2-kopier er den billigste måde at komme ind i økosystemet på. Vælg en version nedenfor, eller læs [AirPods 2 versionsinfo](/da/version-info/airpods-2) for at se, hvad V3E tilbyder, før du køber. Er du ikke sikker på, hvilken model der passer til dig? Tag [quizzen](/da/quiz).
 
 ## Versioner og sælgere
 
@@ -40,5 +42,5 @@ description: Pålidelige links til sælgere og købsmuligheder for AirPods 2-rep
 
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelser med andre varer og er fortrolig med agentplatforme. For en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Er du ny til agenter? Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy).
+Hvis du vælger et Weidian-link, kræver det brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::

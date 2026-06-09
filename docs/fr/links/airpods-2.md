@@ -1,8 +1,10 @@
 ---
-title: 'Acheter Des Répliques D''AirPods 2 : Liens Des Vendeurs'
-description: Liens de vendeurs fiables et options d'achat pour les répliques d'AirPods 2.
+title: 'Acheter des Répliques d''AirPods 2: Liens des Vendeurs'
+description: Liens de vendeurs de confiance et options d'achat pour les répliques d'AirPods 2.
 ---
-# AirPods 2
+# Acheter des répliques d'AirPods 2
+
+Les répliques d'AirPods 2 sont le moyen le moins cher d'entrer dans l'écosystème. Choisissez une version ci‑dessous, ou lisez les [informations sur les versions des AirPods 2](/fr/version-info/airpods-2) pour voir ce que le V3E offre avant d'acheter. Vous ne savez pas quel modèle vous convient ? Faites le [quiz](/fr/quiz).
 
 ## Versions et vendeurs
 
@@ -40,5 +42,5 @@ description: Liens de vendeurs fiables et options d'achat pour les répliques d'
 
 
 ::: tip
-Le choix d'un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez regrouper l'expédition avec d'autres articles et que vous êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Nouveau avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
+Choisir un lien Weidian nécessite l'utilisation d'un agent pour la livraison. Nous recommandons cette option uniquement si vous souhaitez regrouper l'envoi avec d'autres articles et si vous êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Vous débutez avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
 :::

@@ -1,10 +1,12 @@
 ---
-title: 'Comprar AirPods Pro 2 Réplicas: Links de Vendedores'
-description: Links confiáveis de vendedores e opções de compra para AirPods Pro 2 réplicas.
+title: 'Comprar Réplicas do AirPods Pro 2: Links de Vendedores'
+description: Links de vendedores confiáveis e opções de compra para réplicas do AirPods Pro 2.
 ---
-# AirPods Pro 2
+# Comprar réplicas do AirPods Pro 2
 
-## Versões e Vendedores
+As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madura. Compare todas as versões na página [informações sobre versões do AirPods Pro 2](/pt/version-info/airpods-pro-2) — a V5.4 Huilian é a atual coringa — ou faça o [questionário](/pt/quiz) para uma recomendação.
+
+## Versões e vendedores
 
 <table>
   <tr>
@@ -173,5 +175,5 @@ description: Links confiáveis de vendedores e opções de compra para AirPods P
 
 
 ::: tip
-A escolha de um link Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você desejar consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Não conhece agentes? Consulte o nosso [Guia de pedidos KakoBuy](/pt/ordering/kakobuy).
+Escolher um link do Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você quiser consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedido do KakoBuy](/pt/ordering/kakobuy).
 :::

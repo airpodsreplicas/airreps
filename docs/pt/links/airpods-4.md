@@ -1,10 +1,12 @@
 ---
-title: 'Comprar AirPods 4 Réplicas: Links de Vendedores'
-description: Links de vendedores confiáveis e opções de compra para AirPods 4 réplicas.
+title: 'Comprar Réplicas de AirPods 4: Links de Vendedores'
+description: Links de vendedores confiáveis e opções de compra para réplicas de AirPods 4.
 ---
-# AirPods 4
+# Comprar réplicas de AirPods 4
 
-## Versões e Vendedores
+As réplicas de AirPods 4 apresentam um design de orelha aberta, com ANC nas versões superiores. Veja as [informações das versões do AirPods 4](/pt/version-info/airpods-4) para as diferenças entre os chipsets V2 e V3, ou faça o [quiz](/pt/quiz) para uma recomendação personalizada.
+
+## Versões e vendedores
 
 <table>
   <tr>
@@ -17,20 +19,20 @@ description: Links de vendedores confiáveis e opções de compra para AirPods 4
     <td><span class="version-badge">V3 TB</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e4v3tb">Website</a>
+        <a href="https://airreps.link/e4v3tb">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hc4v3tb">Website</a>
+        <a href="https://airreps.link/hc4v3tb">Site</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j4v3tb">Website</a>
+        <a href="https://airreps.link/j4v3tb">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -40,13 +42,13 @@ description: Links de vendedores confiáveis e opções de compra para AirPods 4
          <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hc4v2hr">Website</a>
+        <a href="https://airreps.link/hc4v2hr">Site</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j4v2hr">Website</a>
+        <a href="https://airreps.link/j4v2hr">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -55,20 +57,20 @@ description: Links de vendedores confiáveis e opções de compra para AirPods 4
     <td><span class="version-badge">V2 TB</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e4v2tb">Website</a>
+        <a href="https://airreps.link/e4v2tb">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hc4v2tb">Website</a>
+        <a href="https://airreps.link/hc4v2tb">Site</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j4v2tb">Website</a>
+        <a href="https://airreps.link/j4v2tb">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -77,20 +79,20 @@ description: Links de vendedores confiáveis e opções de compra para AirPods 4
     <td><span class="version-badge">V2 Huilian</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e4v2hl">Website</a>
+        <a href="https://airreps.link/e4v2hl">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hc4v2hl">Website</a>
+        <a href="https://airreps.link/hc4v2hl">Site</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j4v2hl">Website</a>
+        <a href="https://airreps.link/j4v2hl">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -100,5 +102,5 @@ description: Links de vendedores confiáveis e opções de compra para AirPods 4
 
 
 ::: tip
-Escolher um link Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você desejar consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte o nosso [Guia de pedidos KakoBuy](/pt/ordering/kakobuy).
+Escolher um link do Weidian requer o uso de um agente para envio. Recomendamos esta opção apenas se você quiser consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedidos do KakoBuy](/pt/ordering/kakobuy).
 :::

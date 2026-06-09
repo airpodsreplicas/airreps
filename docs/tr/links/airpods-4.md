@@ -2,13 +2,15 @@
 title: 'AirPods 4 Replikalarını Satın Al: Satıcı Bağlantıları'
 description: AirPods 4 replikaları için güvenilir satıcı bağlantıları ve satın alma seçenekleri.
 ---
-# AirPods 4
+# AirPods 4 replikalarını satın alın
 
-## Sürümler ve Satıcılar
+AirPods 4 replikalar açık kulak tasarımı sunar, daha üst versiyonlarda ANC bulunur. V2 ve V3 yonga setleri arasındaki farklar için [AirPods 4 sürüm bilgisi](/tr/version-info/airpods-4) sayfasına bakın veya size özel bir seçim için [testi](/tr/quiz) yapın.
+
+## Versiyonlar ve satıcılar
 
 <table>
   <tr>
-    <th>Sürüm</th>
+    <th>Versiyon</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
@@ -100,5 +102,5 @@ description: AirPods 4 replikaları için güvenilir satıcı bağlantıları ve
 
 
 ::: tip
-Weidian bağlantısı seçmek gönderim için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca gönderimi diğer ürünlerle birleştirmek istiyorsanız ve aracı platformlarına aşina iseniz öneriyoruz. Güvenilir bir aracı için [KakoBuy](https://airreps.link/kakobuy)'ı öneririz. Aracılara yeni misiniz? [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) göz atın.
+Weidian bağlantısı seçmek gönderim için bir acente kullanılmasını gerektirir. Bu seçeneği yalnızca gönderimi diğer ürünlerle birleştirmek istiyor ve acente platformlarına aşina iseniz öneririz. Güvenilir bir acente için [KakoBuy](https://airreps.link/kakobuy)'ı öneriyoruz. Acentelere yeni misiniz? [KakoBuy sipariş rehberine](/tr/ordering/kakobuy) göz atın.
 :::

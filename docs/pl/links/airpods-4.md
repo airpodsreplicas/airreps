@@ -1,8 +1,10 @@
 ---
-title: 'Kup Repliki AirPods 4: Linki Sprzedawców'
-description: Zaufane linki sprzedawców i opcje zakupu dla replik AirPods 4.
+title: 'Kup Repliki AirPods 4: Linki do Sprzedawców'
+description: Zaufane linki do sprzedawców i opcje zakupu replik AirPods 4.
 ---
-# AirPods 4
+# Kup repliki AirPods 4
+
+Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach występuje ANC. Zobacz [informacje o wersjach AirPods 4](/pl/version-info/airpods-4), aby poznać różnice między chipsetami V2 i V3, albo zrób [quiz](/pl/quiz), by otrzymać dopasowaną rekomendację.
 
 ## Wersje i sprzedawcy
 
@@ -100,5 +102,5 @@ description: Zaufane linki sprzedawców i opcje zakupu dla replik AirPods 4.
 
 
 ::: tip
-Wybór linku Weidian wymaga użycia agenta do wysyłki. Zalecamy tę opcję tylko wtedy, gdy chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Jesteś nowy w korzystaniu z agentów? Sprawdź nasz [poradnik zamawiania KakoBuy](/pl/ordering/kakobuy).
+Wybór linku Weidian wymaga skorzystania z agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy pośredników. Dla zaufanego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w temacie agentów? Sprawdź nasz [przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy).
 :::

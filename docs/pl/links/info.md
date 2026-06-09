@@ -45,12 +45,13 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 
 | Payment Method | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
-| **Credit / Debit Card** | ✅ | ✅ | ✅ |
+| [**Credit / Debit Card**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
 | **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ❌ | ✅ | ❌ |
+| **Cash App** | ❌ | ✅ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Bank Transfer** | ✅ | ✅ | ✅ |
@@ -71,6 +72,7 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+| **iDEAL** | ❌ | ✅ | ❌ |
 
 ::: tip
 Płatności przez Wise lub przelew bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może potrwać do 24 godzin.
@@ -103,6 +105,8 @@ Jeśli masz informacje o śledzeniu w języku chińskim, możesz skopiować nume
 ::: details Moja karta nie działa. Co powinienem zrobić?
 Jeśli Twoja karta nie działa, powinieneś skontaktować się ze sprzedawcą i zapytać, czy zaakceptują inną formę płatności. Pamiętaj, że niektóre alternatywne metody płatności, takie jak Wise, nie oferują ochrony kupującego. Jeśli sprzedawca nie będzie w stanie zaakceptować innej formy płatności, możesz spróbować użyć innej karty lub kupić od innego sprzedawcy.
 :::
+
+<a id="credit-card"></a>
 
 ::: details Dlaczego po próbie płatności kartą kredytową jestem przekierowywany na stronę związaną z kryptowalutami?
 Zaufani sprzedawcy używają bezpiecznej bramki płatności crypto do przetwarzania płatności kartami kredytowymi. Twoja karta jest używana do zakupu kryptowalut, które następnie są używane do zakończenia zamówienia bezpiecznie i efektywnie.

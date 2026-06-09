@@ -2,7 +2,9 @@
 title: 'Kup Repliki AirPods 3: Linki Do Sprzedawców'
 description: Zaufane linki do sprzedawców i opcje zakupu replik AirPods 3.
 ---
-# AirPods 3
+# Kup repliki AirPods 3
+
+Repliki AirPods 3 oferują dopasowanie typu stem bez ANC. Porównaj dostępne wersje na stronie [Informacje o wersjach AirPods 3](/pl/version-info/airpods-3), lub skorzystaj z [quizu](/pl/quiz), jeśli decydujesz się między modelami.
 
 ## Wersje i sprzedawcy
 
@@ -17,7 +19,6 @@ description: Zaufane linki do sprzedawców i opcje zakupu replik AirPods 3.
     <td><span class="version-badge">V1E</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/e3v1e">Strona</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
@@ -46,5 +47,5 @@ description: Zaufane linki do sprzedawców i opcje zakupu replik AirPods 3.
 
 
 ::: tip
-Wybór linku Weidian wymaga skorzystania z agenta do wysyłki. Zalecamy tę opcję tylko wtedy, gdy chcesz połączyć wysyłkę z innymi przedmiotami i znasz platformy agentów. Jeśli szukasz niezawodnego agenta, polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [Przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy).
+Wybór linku Weidian wymaga skorzystania z agenta do wysyłki. Polecamy tę opcję tylko wtedy, gdy chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [poradnik zamawiania KakoBuy](/pl/ordering/kakobuy).
 :::

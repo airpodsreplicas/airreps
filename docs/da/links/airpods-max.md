@@ -1,8 +1,10 @@
 ---
-title: 'Køb AirPods Max Replikker: Sælgerlinks'
-description: Bekræftede AirPods Max replikker og pålidelige sælgerlinks.
+title: 'Køb AirPods Max Kopier: Links Til Sælgere'
+description: Bekræftede AirPods Max-kopiudgaver og troværdige links til sælgere.
 ---
-# AirPods Max
+# Køb AirPods Max-kopier
+
+AirPods Max-kopier er over-ear-muligheden, fra billige plastmodeller til V3 med metalhus. Sammenlign dem på siden [AirPods Max versionsinfo](/da/version-info/airpods-max) før køb, eller tag [quizzen](/da/quiz).
 
 ## Versioner og sælgere
 
@@ -95,8 +97,8 @@ description: Bekræftede AirPods Max replikker og pålidelige sælgerlinks.
 
 
 > [!NOTE]
-> AirPods Max-replikaerne fås i en række farver. For detaljerede muligheder, se venligst de respektive sælgeres hjemmesider.
+> AirPods Max-kopier fås i en række farver. For detaljerede muligheder henvises der til de respektive sælgeres hjemmesider.
 
 ::: tip
-Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
+Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny med agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::
