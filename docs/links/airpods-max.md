@@ -3,7 +3,9 @@ title: "Buy AirPods Max Replicas: Seller Links"
 description: Verified AirPods Max replica versions and trusted seller links.
 ---
 
-# AirPods Max
+# Buy AirPods Max Replicas
+
+AirPods Max replicas are the over-ear option, ranging from budget plastic builds to the metal-bodied V3. Compare them on the [AirPods Max version info](/version-info/airpods-max) page before buying, or take the [quiz](/quiz).
 
 ## Versions and Sellers
 

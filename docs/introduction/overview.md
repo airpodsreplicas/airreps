@@ -32,6 +32,20 @@ We provide the knowledge and tools to distinguish between cheap imitations and q
 
 Our community-driven approach through [Discord](https://airreps.link/discord) ensures you stay informed with the latest updates and can make well-informed decisions about which AirPods replicas suit your needs. This guide also helps you distinguish replicas from authentic AirPods when buying second-hand, preventing potential scams.
 
+## Frequently Asked Questions
+
+::: details Are AirPods replicas worth it?
+For most people, yes. Replica AirPods cost a fraction of the retail price while offering similar functionality — ANC, spatial audio, and the iOS popup on higher versions. They won't perfectly match a genuine pair (Find My Network is the main gap), but with good care a quality replica typically lasts 3–4 years, making it a cost-effective alternative to spending $150+ on the real thing.
+:::
+
+::: details Which AirPods replica is the best?
+It depends on what you want. For most buyers the AirPods Pro 2 V5.4 Huilian is the best all-rounder, balancing the newest features with close-to-retail ANC. If you want the latest hardware, look at the AirPods Pro 3 V7; on a budget, the Pro 3 V5.5 or AirPods 2 V3E are the cheapest entry points. Take the [quiz](/quiz) for a personalised pick, or compare everything on the [version info](/version-info/general) page.
+:::
+
+::: details How long do replica AirPods last?
+With good care, replica AirPods typically last around 3–4 years before the battery noticeably degrades. Longevity depends on charging habits and usage, just like genuine AirPods.
+:::
+
 ::: warning Disclaimer
 Please note, the information contained in this guide is intended for informational and educational purposes only. Our aim is to provide a comprehensive resource to help users make informed decisions, as well as to prevent unknowingly buying replica Apple AirPods second-hand. We are, however, not responsible for how this information is used.
 

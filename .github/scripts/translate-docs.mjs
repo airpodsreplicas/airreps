@@ -203,8 +203,9 @@ async function translateBody(openai, body, locale, language) {
 
 Rules:
 - Output ONLY the translated markdown. No commentary, no code fences wrapping the output.
-- Preserve markdown structure exactly: headings, lists, tables, links, emphasis, code fences, HTML tags, blank-line structure.
-- Translate natural-language prose only. Do NOT translate code, brand names (e.g. "AirReps"), chipset names, or model numbers.
+- Preserve markdown STRUCTURE exactly: the heading markers (#, ##, ###), list bullets, table pipes, link/image syntax, emphasis, code fences, HTML tags, and blank-line layout. But DO translate the natural-language TEXT they contain — including heading text and table-cell prose.
+- Translate ALL natural-language prose, including every heading. A heading like "## Range" must become the target-language word(s), not stay in English. Do NOT translate code, brand names (e.g. "AirReps"), chipset names, or model numbers (e.g. "AirPods Pro 2", "V5.4", "Huilian 377").
+- Use the natural capitalization of the target language. Do NOT copy English Title Case: in German, French, Spanish, etc., capitalize only the first word and proper nouns in headings and sentences (German nouns stay capitalized; do not capitalize mid-sentence function words like "für", "und", "von", "oder").
 - The text contains opaque placeholder tokens (a private-use character, then "U", a number, then another private-use character) that stand in for URLs. Keep every placeholder EXACTLY as written and in the same position. Never translate, remove, reorder, duplicate, or otherwise alter a placeholder.
 - Keep existing translated wording when it is already accurate; minimize unrelated rewrites.`;
 

@@ -1131,6 +1131,7 @@ const sellers = {
             'PayU',
             'Bancontact',
             'EPS',
+            'iDEAL',
             'MBWAY',
             'Multibanco',
             'Swish',
@@ -1519,6 +1520,7 @@ const product = computed<ProductRec | null>(() => {
                 links: [
                     { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
                     { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
+                    { text: 'AirPods 2 Version Info (ultra-budget)', url: '/version-info/airpods-2' },
                     { text: 'Build Quality', url: '/introduction/build-quality' },
                     { text: 'Battery Life', url: '/introduction/battery-life' },
                 ],
@@ -1630,11 +1632,22 @@ const product = computed<ProductRec | null>(() => {
         links: [
             { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
             { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
+            { text: 'AirPods 2 Version Info (ultra-budget)', url: '/version-info/airpods-2' },
             { text: 'Sound Quality', url: '/introduction/sound-quality' },
             { text: 'Build Quality', url: '/introduction/build-quality' },
             { text: 'Battery Life', url: '/introduction/battery-life' },
         ],
     };
+});
+
+// Screen-reader announcement — the question/result swaps in place, so without a
+// live region SR users don't know the quiz advanced (WCAG 4.1.3).
+const srAnnouncement = computed(() => {
+    if (isDone.value) {
+        return product.value ? `${t('ourPick')}: ${product.value.title}` : '';
+    }
+    const q = activeQuestions.value[currentStep.value];
+    return q ? `${t('step')} ${currentStep.value + 1}: ${q.question}` : '';
 });
 
 // Get direct product link for the recommended seller
@@ -1697,6 +1710,7 @@ function restart() {
         :style="{ width: isDone ? '100%' : `${(currentStep / activeQuestions.length) * 100}%` }"
       />
     </div>
+    <p class="quiz-sr-only" aria-live="polite" role="status">{{ srAnnouncement }}</p>
     <div v-if="!isDone" class="quiz-step-count">
       {{ t('step') }} {{ currentStep + 1 }}
     </div>
@@ -1765,7 +1779,7 @@ function restart() {
 
         <!-- Alibaba -->
         <div v-else-if="answers.ordering === 'alibaba'" class="quiz-buy-list">
-          <a href="https://earhive.com" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
+          <a href="https://airreps.link/ehali" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ t('orderFromAlibaba') }}
           </a>
           <a :href="localeUrl('/ordering/how-to-buy')" class="quiz-buy-link secondary">
@@ -1856,6 +1870,19 @@ function restart() {
   font-size: 0.8rem;
   color: var(--vp-c-text-3);
   margin-bottom: 1.5rem;
+}
+
+/* Visually hidden, but announced by screen readers (aria-live region). */
+.quiz-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 .quiz-question h3 {

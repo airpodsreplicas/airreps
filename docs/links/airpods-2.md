@@ -3,7 +3,9 @@ title: "Buy AirPods 2 Replicas: Seller Links"
 description: "Trusted seller links and purchase options for AirPods 2 replicas."
 ---
 
-# AirPods 2
+# Buy AirPods 2 Replicas
+
+AirPods 2 replicas are the cheapest way into the ecosystem. Pick a version below, or read the [AirPods 2 version info](/version-info/airpods-2) to see what the V3E offers before you buy. Not sure which model suits you? Take the [quiz](/quiz).
 
 ## Versions and Sellers
 

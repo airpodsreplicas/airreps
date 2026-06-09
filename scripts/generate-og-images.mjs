@@ -33,26 +33,44 @@ async function fetchFont(url) {
     return Buffer.from(await res.arrayBuffer());
 }
 
-const fontData = await fetchFont(
-    'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-latin-700-normal.woff'
-);
-const fontRegularData = await fetchFont(
-    'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-latin-400-normal.woff'
-);
+// Load all font subsets up front. These come from a CDN, so a transient outage
+// would otherwise throw at module load — before `main().catch()` can handle it —
+// and abort the whole `docs:build`, blocking deploy. The generated OG images are
+// committed to the repo, so on any fetch failure we log and exit 0, leaving the
+// existing committed PNGs in place rather than failing the build.
+let fontData;
+let fontRegularData;
+let fontLatinExtData;
+let fontLatinExtRegularData;
+let fontCyrillicData;
+let fontCyrillicRegularData;
+try {
+    fontData = await fetchFont(
+        'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-latin-700-normal.woff'
+    );
+    fontRegularData = await fetchFont(
+        'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-latin-400-normal.woff'
+    );
 
-// Fetch Extra Subsets (Latin Ext + Cyrillic)
-const fontLatinExtData = await fetchFont(
-    'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-latin-ext-700-normal.woff'
-);
-const fontLatinExtRegularData = await fetchFont(
-    'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-latin-ext-400-normal.woff'
-);
-const fontCyrillicData = await fetchFont(
-    'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-cyrillic-700-normal.woff'
-);
-const fontCyrillicRegularData = await fetchFont(
-    'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-cyrillic-400-normal.woff'
-);
+    // Fetch Extra Subsets (Latin Ext + Cyrillic)
+    fontLatinExtData = await fetchFont(
+        'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-latin-ext-700-normal.woff'
+    );
+    fontLatinExtRegularData = await fetchFont(
+        'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-latin-ext-400-normal.woff'
+    );
+    fontCyrillicData = await fetchFont(
+        'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-cyrillic-700-normal.woff'
+    );
+    fontCyrillicRegularData = await fetchFont(
+        'https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.18/files/inter-cyrillic-400-normal.woff'
+    );
+} catch (err) {
+    console.warn(
+        `[generate-og] Skipping OG image generation (font fetch failed: ${err.message}). Using committed images.`
+    );
+    process.exit(0);
+}
 
 async function generateOgImage(title, description, outFile, label = 'GUIDE') {
     const markup = html`

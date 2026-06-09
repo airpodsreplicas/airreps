@@ -36,6 +36,13 @@ iframe[src*="youtube"] {
   aspect-ratio: 16 / 9;
 }
 
+/* Keep aspect ratio when intrinsic width/height are injected for CLS (config.ts
+   transformHtml). The width/height attrs reserve space; height:auto + the
+   browser-derived aspect-ratio prevent distortion when scaled responsively. */
+.vp-doc img:not(.VPImage) {
+  height: auto;
+}
+
 /* Block Buttons Layout */
 .link-column {
   display: flex;

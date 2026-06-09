@@ -16,7 +16,7 @@ faq:
     a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. If you want to avoid KYC, use KakoBuy, an agent that accepts regular credit cards without identity checks."
 ---
 
-# Links
+# Where to Buy AirPods Replicas
 
 ::: tip
 This list is kept up to date. A higher version usually means a better product — but not always, so compare the [version info](/version-info/general) before buying.
@@ -33,6 +33,21 @@ The following list contains links to verified sellers only. If you know of any s
 - [AirPods Pro 2](/links/airpods-pro-2)
 - [AirPods Pro 3](/links/airpods-pro-3)
 - [AirPods Max](/links/airpods-max)
+
+## How much do AirPods replicas cost?
+
+Prices vary by model and version and fluctuate over time, but as a rough guide trusted sellers typically charge:
+
+| Model | Typical price (USD) |
+|-------|---------------------|
+| AirPods 2 | ~$26 |
+| AirPods 3 | ~$30 |
+| AirPods 4 | ~$29–52 |
+| AirPods Pro 2 | ~$50–58 |
+| AirPods Pro 3 | ~$27–67 |
+| AirPods Max | ~$93–126 |
+
+Within each model, a higher version number usually costs more and adds features. Take the [quiz](/quiz) for a tailored pick, or open a model's links page above for exact per-version options.
 
 ## Trusted sellers (official websites)
 
@@ -52,6 +67,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ❌ | ✅ | ❌ |
+| **Cash App** | ❌ | ✅ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Bank Transfer** | ✅ | ✅ | ✅ |
@@ -72,6 +88,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+| **iDEAL** | ❌ | ✅ | ❌ |
 
 ::: tip
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours to process.
