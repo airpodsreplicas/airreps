@@ -65,7 +65,7 @@ Todos os vendedores confiáveis aceitam múltiplos métodos de pagamento para su
 | **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ❌ | ✅ | ❌ |
+| **Xoom** | ✅ | ❌ | ✅ |
 | **Cash App** | ❌ | ✅ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Cripto** | ✅ | ✅ | ✅ |
