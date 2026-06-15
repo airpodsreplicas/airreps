@@ -528,7 +528,7 @@ AliPay                  Yes       No       Yes
 PayPal                  No        No       No
 Revolut                 Yes       Yes      Yes
 Wise                    Yes       Yes      Yes
-Xoom                    Yes       Yes      Yes
+Xoom                    Yes       No       Yes
 Cash App                No        Yes      No
 Cash App (Lightning)    Yes       Yes      Yes
 Bitcoin/Crypto          Yes       Yes      Yes

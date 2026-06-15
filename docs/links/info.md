@@ -66,7 +66,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ✅ | ✅ | ✅ |
+| **Xoom** | ✅ | ❌ | ✅ |
 | **Cash App** | ❌ | ✅ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
