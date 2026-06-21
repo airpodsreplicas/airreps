@@ -67,7 +67,6 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ✅ | ❌ | ✅ |
-| **Cash App** | ❌ | ✅ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
 | **Bank Transfer** | ✅ | ✅ | ✅ |
@@ -88,7 +87,6 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
-| **iDEAL** | ❌ | ✅ | ❌ |
 
 ::: tip
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours to process.
