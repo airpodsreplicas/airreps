@@ -17,12 +17,7 @@ As r√©plicas do AirPods 3 oferecem o encaixe com haste sem ANC. Compare as vers√
   </tr>
   <tr>
     <td><span class="version-badge">V1E</span></td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">

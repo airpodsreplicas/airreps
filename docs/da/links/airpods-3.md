@@ -17,12 +17,7 @@ AirPods 3-kopier giver dig en stilkformet pasform uden ANC. Sammenlign de tilgæ
   </tr>
   <tr>
     <td><span class="version-badge">V1E</span></td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
