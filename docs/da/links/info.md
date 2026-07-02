@@ -1,27 +1,27 @@
 ---
-title: Hvor Kan Man Købe AirPods Replikaer
-description: Oversigt over verificerede sælgere og direkte købslinks for alle AirPods-replikaer.
+title: Hvor Kan Man Købe AirPods Kopier
+description: Katalog over verificerede sælgere og direkte købslinks for alle AirPods-kopimodeller.
 faq:
   - q: Vil jeg få en enhed af god kvalitet?
-    a: 'Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere selv mellem enheder fra samme sælger. Dog er betroede sælgere generelt kendt for at tilbyde produkter af god kvalitet.'
+    a: 'Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere selv mellem enheder fra samme sælger. Dog er troværdige sælgere generelt kendt for at tilbyde produkter af god kvalitet.'
   - q: Hvordan kontakter jeg sælgere?
-    a: 'Deltag i AirReps Discord på https://airreps.link/discord for at få sælgernes WhatsApp-numre. Alternativt kan du bruge AliExpress til at skrive til dem ved at klikke på Kontakt Leverandør.'
+    a: 'Deltag i AirReps Discord på https://airreps.link/discord for at få sælgeres WhatsApp-numre. Alternativt kan du bruge AliExpress til at sende dem en besked ved at klikke på Kontakt Leverandør.'
   - q: Hvilken er den bedste sælger?
-    a: 'Den bedste sælger varierer efter dine behov. Sælgere tilbyder typisk lignende produkter — for eksempel er en Pro 2 V5.2 TB fra Jenny identisk med en fra HiCity. Forskelle opstår i support, forsendelsestider og indkøbsplatforme.'
+    a: 'Den bedste sælger varierer afhængigt af dine behov. Sælgere tilbyder typisk lignende produkter — for eksempel er en Pro 2 V5.2 TB fra Jenny identisk med en fra HiCity. Forskelle opstår i support, leveringstider og købsplatforme.'
   - q: Mine sporingsoplysninger er på kinesisk. Hvad skal jeg gøre?
-    a: 'Kopier sporingsnummeret og indsæt det i 17Track (https://www.17track.net/) for at se opdateringer på engelsk. Alternativt kan du indsætte opdateringerne i Google Translate.'
+    a: 'Kopier sporingsnummeret og indsæt det i 17Track (https://www.17track.net/) for at se opdateringer på engelsk. Alternativt kan du indsætte sporingsopdateringerne i Google Translate.'
   - q: Mit kort virker ikke. Hvad skal jeg gøre?
-    a: 'Kontakt sælgeren for at høre om alternative betalingsmetoder. Nogle metoder, som Wise, tilbyder ikke køberbeskyttelse. Du kan også prøve et andet kort eller købe hos en anden sælger.'
-  - q: 'Hvorfor bliver jeg omdirigeret til en krypto-hjemmeside, når jeg betaler med kreditkort?'
-    a: 'Betroede sælgere bruger en sikker kryptobetalingsgateway til at behandle betalinger med kreditkort. Dit kort køber krypto, som fuldfører ordren. Hvis du vil undgå KYC, brug KakoBuy, en agent som accepterer almindelige kreditkort uden ID-kontrol.'
+    a: 'Kontakt sælgeren for at høre om alternative betalingsmetoder. Nogle metoder, som Wise, tilbyder ikke køberbeskyttelse. Du kan også prøve et andet kort eller købe fra en anden sælger.'
+  - q: 'Hvorfor bliver jeg omdirigeret til en kryptohjemmeside, når jeg betaler med kreditkort?'
+    a: 'Troværdige sælgere bruger en sikker krypto-betalingsgateway til at behandle kreditkortbetalinger. Dit kort køber krypto, som fuldfører ordren. Hvis du vil undgå KYC, brug KakoBuy, en agent som accepterer almindelige kreditkort uden ID-tjek.'
 ---
-# Hvor kan man købe AirPods-kopier
+# Hvor kan man købe kopier af AirPods
 
 ::: tip
-Denne liste holdes opdateret. Et højere versionsnummer betyder som regel et bedre produkt — men ikke altid, så sammenlign [versionsoplysningerne](/da/version-info/general) før køb.
+Denne liste holdes opdateret. En højere version betyder som regel et bedre produkt — men ikke altid, så sammenlign venligst [versionsoplysningerne](/da/version-info/general) før køb.
 :::
 
-Følgende liste indeholder kun links til verificerede sælgere. Hvis du kender nogen sælgere, der er troværdige og fortjener verifikation, så informer venligst en forfatter af Ultimate Guide eller skriv en anmeldelse af deres produkt og offentliggør den på AirReps-forummet. For at sikre kvaliteten og ægtheden af dine Apple AirPods-kopier anbefaler vi kun at købe fra disse verificerede sælgere.
+Følgende liste indeholder kun links til verificerede sælgere. Hvis du kender sælgere, der er troværdige og fortjener verifikation, så informer venligst en forfatter af Ultimate Guide eller skriv en anmeldelse af deres produkt og offentliggør den på AirReps-foraene. For at sikre kvaliteten og ægtheden af dine Apple AirPods-kopier anbefaler vi kun at købe fra disse verificerede sælgere.
 
 ## Vælg det produkt, du vil se links til
 
@@ -35,7 +35,7 @@ Følgende liste indeholder kun links til verificerede sælgere. Hvis du kender n
 
 ## Hvor meget koster AirPods-kopier?
 
-Priser varierer efter model og version og svinger over tid, men som en tommelfingerregel tager betroede sælgere typisk:
+Priser varierer efter model og version og ændrer sig over tid, men som en grov rettesnor tager betroede sælgere typisk:
 
 | Model | Typisk pris (USD) |
 |-------|---------------------|
@@ -46,9 +46,9 @@ Priser varierer efter model og version og svinger over tid, men som en tommelfin
 | AirPods Pro 3 | ~$27–67 |
 | AirPods Max | ~$93–126 |
 
-Inden for hver model koster et højere versionsnummer som regel mere og tilføjer funktioner. Tag [quizzen](/da/quiz) for et skræddersyet valg, eller åbn en models links-side ovenfor for præcise per-versionsmuligheder.
+Inden for hver model koster en højere version normalt mere og tilføjer funktioner. Tag [quizzen](/da/quiz) for et skræddersyet valg, eller åbn en models linkside ovenfor for præcise muligheder per version.
 
-## Betroede sælgere (officielle hjemmesider)
+## Pålidelige sælgere (officielle hjemmesider)
 
 - **Earhive**: https://earhive.com
 - **HiCity**: https://hicitypods.com
@@ -56,13 +56,13 @@ Inden for hver model koster et højere versionsnummer som regel mere og tilføje
 
 ## Betalingsmetoder
 
-Alle betroede sælgere accepterer flere betalingsmetoder for din bekvemmelighed:
+Alle pålidelige sælgere accepterer flere betalingsmetoder for din bekvemmelighed:
 
 | Betalingsmetode | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
 | [**Kredit-/debetkort**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ❌ | ❌ | ❌ |
+| **PayPal** | ✅ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ✅ | ❌ | ✅ |
@@ -90,45 +90,45 @@ Alle betroede sælgere accepterer flere betalingsmetoder for din bekvemmelighed:
 ::: tip
 Betalinger via Wise eller bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer at behandle.
 
-For Weidian-bestillinger skal du bruge en agent. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy), som accepterer kreditkort og flere betalingsmetoder — se vores [KakoBuy-guide](/da/ordering/kakobuy) for en trinvis gennemgang.
+For Weidian-ordrer skal du bruge en agent. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy), som accepterer kreditkort og flere betalingsmetoder — se vores [KakoBuy guide](/da/ordering/kakobuy) for en trin-for-trin gennemgang.
 :::
 
 ## Ofte stillede spørgsmål
 
 ::: details Får jeg en enhed af god kvalitet?
-Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere selv blandt enheder fra samme sælger. Dog er de sælgere, der er nævnt ovenfor, generelt kendt for at tilbyde produkter af god kvalitet.
+Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere selv blandt enheder fra samme sælger. Dog er de sælgere, der er nævnt i teksten ovenfor, generelt kendt for at tilbyde produkter af god kvalitet.
 :::
 
 ::: details Hvordan kontakter jeg sælgere?
-For at kontakte sælgere kan du tilslutte dig AirReps Discord: https://airreps.link/discord og få deres WhatsApp-numre, da disse ikke er offentligt tilgængelige. Alternativt kan du bruge AliExpress til at sende dem en besked ved at klikke på "Contact Supplier".
+For at kontakte sælgere kan du slutte dig til AirReps Discord: https://airreps.link/discord og få deres WhatsApp-numre, da de ikke er offentligt tilgængelige. Alternativt kan du bruge AliExpress til at skrive til dem ved at klikke på "Contact Supplier".
 :::
 
-::: details Hvilken er den bedste leverandør?
-Den bedste leverandør kan ikke fastslås entydigt, da det afhænger af dine behov og den platform, du vælger at købe fra. Leverandører tilbyder typisk lignende produkter; for eksempel er 'Pro 2 V5.2 TB' fra Jenny identisk med den fra HiCity. Forskelle opstår dog i aspekter som support, leveringstider og de platforme, købet foretages igennem.
+::: details Hvem er den bedste leverandør?
+Den bedste leverandør kan ikke entydigt bestemmes, da det afhænger af dine behov og den platform, du vælger at købe fra. Sælgere tilbyder typisk lignende produkter; for eksempel er 'Pro 2 V5.2 TB' fra Jenny identisk med den fra HiCity. Forskelle opstår dog i aspekter som support, forsendelsestider og de platforme, hvorigennem købene foretages.
 :::
 
-::: details Jeg bestilte for x dage siden, og min pakke er ikke kommet endnu. Hvad skal jeg gøre?
-Forsendelse fra Kina kan nogle gange tage tid. Trackinginformation kan forsvinde, når pakken forlader Kina, og vil kun blive opdateret, når den når tolden i dit land. Hvis der er gået lang tid, og der stadig ikke er trackinginformation tilgængelig, bør du kontakte din sælger for en opdatering.
+::: details Jeg bestilte for x dage siden, og min pakke er ikke ankommet endnu. Hvad skal jeg gøre?
+Forsendelse fra Kina kan nogle gange tage længere tid. Sporingsoplysninger kan forsvinde, når pakken forlader Kina, og vil først blive opdateret, når den når tolden i dit land. Hvis der er gået lang tid, og der stadig ikke er sporingsoplysninger, bør du kontakte din sælger for en opdatering.
 :::
 
-::: details Min trackinginformation er på kinesisk. Hvad skal jeg gøre?
-Hvis du har trackinginformation, der er på kinesisk, kan du kopiere trackingnummeret og indsætte det på webstedet [17Track](https://www.17track.net/). Dette giver dig opdateringer på engelsk. Alternativt kan du åbne trackingopdateringerne på en computer og indsætte dem i Google Translate for at se dem på et andet sprog.
+::: details Min sporingsinformation er på kinesisk. Hvad skal jeg gøre?
+Hvis du har sporingsinformation, der er på kinesisk, kan du kopiere sporingsnummeret og indsætte det på hjemmesiden [17Track](https://www.17track.net/). Det vil lade dig se opdateringer på engelsk. Alternativt kan du åbne sporingsopdateringerne på en computer og indsætte dem i Google Oversæt for at se dem på et andet sprog.
 :::
 
 ::: details Mit kort virker ikke. Hvad skal jeg gøre?
-Hvis dit kort ikke virker, bør du kontakte sælgeren og spørge, om de vil acceptere en anden betalingsform. Husk, at nogle alternative betalingsmetoder, som Wise, ikke tilbyder køberbeskyttelse. Hvis sælgeren ikke kan acceptere en anden betalingsform, kan du prøve at bruge et andet kort eller købe fra en anden sælger.
+Hvis dit kort ikke virker, bør du kontakte sælgeren og spørge, om de vil acceptere en anden betalingsform. Husk, at nogle alternative betalingsmetoder, såsom Wise, ikke tilbyder køberbeskyttelse. Hvis sælgeren ikke kan acceptere en anden betalingsform, kan du prøve at bruge et andet kort eller købe fra en anden sælger.
 :::
 
 <a id="credit-card"></a>
 
-::: details Hvorfor bliver jeg omdirigeret til en krypto-hjemmeside, når jeg betaler med kreditkort?
-Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle kreditkortbetalinger. Dit kort bruges til at købe krypto, som derefter bruges til at gennemføre din ordre sikkert og effektivt.
+::: details Hvorfor bliver jeg viderestillet til en krypto-hjemmeside, når jeg betaler med kreditkort?
+Pålidelige sælgere bruger en sikker krypto-betalingsgateway til at behandle kreditkortbetalinger. Dit kort bruges til at købe krypto, som derefter bruges til at fuldføre din ordre sikkert og effektivt.
 
-**Bemærk: Nogle betalingsudbydere kan lejlighedsvis anmode om en ID-kontrol (KYC) for at overholde lokale regler, selvom dette ikke altid er påkrævet.**
+**Bemærk: Nogle betalingsudbydere kan lejlighedsvis bede om et ID-tjek (KYC) for at overholde lokale regler, selvom det ikke altid er påkrævet.**
 
-**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, kan du overveje at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform, der køber produkter fra sælgere på dine vegne og leverer QC-billeder (kvalitetskontrol) før afsendelse. KakoBuy bruger almindelige betalingsprocessorer, der accepterer kredit- og debetkort og kræver **aldrig KYC-verifikation** eller identitetskontroller. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden KYC-krav, samtidig med at du får den ekstra sikkerhed ved QC-billeder. Se vores [Vejledning til bestilling via KakoBuy](/da/ordering/kakobuy) for en fuld gennemgang.
+**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, overvej at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform, der køber produkter fra sælgere på dine vegne og leverer QC-billeder (kvalitetskontrolbilleder) før afsendelse. KakoBuy bruger almindelige betalingsprocessorer, der accepterer kredit- og betalingskort og **kræver aldrig KYC-verifikation** eller identitetskontroller. Det gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden KYC-krav, samtidig med at du får den ekstra tryghed ved QC-billeder. Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy) for en fuld gennemgang.
 :::
 
 ::: tip
-Nogle sælgersider, der tilbyder betaling med kreditkort, kan have diskret webstedsbranding. Kig efter det versionsnummer, du ønsker — du kan trygt ignorere generiske produktbilleder. Dette gøres for at overholde ophavsretsregler, som nogle kreditkortbetalingsgateways måtte have.
+Nogle sælgerhjemmesider, der tilbyder kreditkortbetalinger, kan have diskret webstedsbranding. Kig efter det versionsnummer, du ønsker — du kan trygt ignorere generiske produktbilleder. Dette gøres for at overholde ophavsretsregler, som nogle kreditkortbetalingsgateways måtte have.
 :::
