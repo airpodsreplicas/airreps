@@ -3,7 +3,7 @@ title: "How to Buy AirPods Replicas Safely"
 description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
 faq:
   - q: "What payment methods do trusted sellers accept?"
-    a: "Trusted sellers accept Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is not supported by sellers directly, though the KakoBuy agent accepts it."
+    a: "Trusted sellers accept Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is supported by Earhive, and the KakoBuy agent also accepts it."
   - q: "Why am I redirected to a crypto website when paying via Credit Card?"
     a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. To avoid KYC, use KakoBuy — an agent that accepts regular credit cards without identity checks."
   - q: "Note on Alibaba links and packaging"
@@ -68,7 +68,7 @@ Let the sellers know that you are from the AirReps community. This will ensure t
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Trusted sellers accept multiple payment methods including Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). Note that PayPal is not supported by sellers directly, though the [KakoBuy](https://airreps.link/kakobuy) agent accepts it. Payment options may vary by seller — see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
+Trusted sellers accept multiple payment methods including Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). PayPal is supported by Earhive, and the [KakoBuy](https://airreps.link/kakobuy) agent also accepts it. Payment options may vary by seller — see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?
