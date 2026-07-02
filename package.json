@@ -19,7 +19,7 @@
     "lint:fix": "biome check --write --unsafe --no-errors-on-unmatched --files-ignore-unknown=true docs scripts"
   },
   "dependencies": {
-    "vitepress": "^2.0.0-alpha.16"
+    "vitepress": "^2.0.0-alpha.17"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.4",
