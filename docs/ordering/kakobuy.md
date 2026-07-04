@@ -39,7 +39,7 @@ If you already have an account with another agent and only want to order AirPods
 
 ### 1. Create an Account
 
-Sign up at [KakoBuy](https://airreps.link/kakobuy). You only need an email address to get started.
+Sign up at [KakoBuy](https://airreps.link/kakobuy). You only need an email address to get started. New accounts receive a welcome pack of shipping coupons — [KakoGuide's discount code page](https://kakoguide.com/guides/kakobuy-discount-codes) keeps track of what's currently active and how to redeem it.
 
 ![KakoBuy signup page](/images/kakobuy/signup.webp)
 
@@ -95,7 +95,7 @@ After shipment, track your parcel under **User Center** → **Parcel**. You'll s
 ## FAQ
 
 ::: details Is KakoBuy safe for buying AirPods replicas?
-KakoBuy is a legitimate Chinese shopping agent that has been used by the AirReps community for years. It holds your items at its warehouse, takes QC photos, and lets you inspect them before international shipping — so you can request a return or refund before committing. Payments go through standard processors (credit/debit card, PayPal, Apple Pay, Google Pay) with the same fraud protection as any other online purchase. For peace of mind on international transit, you can add shipping insurance to any shipping line for a small extra fee at checkout.
+KakoBuy is a legitimate Chinese shopping agent that has been used by the AirReps community for years. It holds your items at its warehouse, takes QC photos, and lets you inspect them before international shipping — so you can request a return or refund before committing. Payments go through standard processors (credit/debit card, PayPal, Apple Pay, Google Pay) with the same fraud protection as any other online purchase. For peace of mind on international transit, you can add shipping insurance to any shipping line for a small extra fee at checkout. If you want a longer answer with the platform's track record laid out, KakoGuide has a dedicated [is KakoBuy legit?](https://kakoguide.com/guides/is-kakobuy-legit) breakdown.
 :::
 
 ::: details How much does KakoBuy shipping cost for AirPods?
@@ -107,11 +107,11 @@ No. KakoBuy uses standard payment processors that accept credit/debit cards, Pay
 :::
 
 ::: details How does KakoBuy compare to Superbuy, CSSBuy, or Sugargoo?
-All four are Chinese shopping agents that do the same core job — purchase, warehouse, QC, and ship. KakoBuy is the AirReps recommendation for AirPods replicas because its payment flow doesn't trigger KYC, its UI handles Weidian links cleanly, and our [Links section](/links/info) has direct KakoBuy buttons for every trusted seller. **Superbuy** is larger and more established but has higher service fees and stricter verification on some payment methods. **CSSBuy** is older with a dated UI and occasionally requires phone verification. **Sugargoo** is popular for fashion buyers but doesn't offer a meaningful advantage for AirPods.
+All four are Chinese shopping agents that do the same core job — purchase, warehouse, QC, and ship. KakoBuy is the AirReps recommendation for AirPods replicas because its payment flow doesn't trigger KYC, its UI handles Weidian links cleanly, and our [Links section](/links/info) has direct KakoBuy buttons for every trusted seller. **Superbuy** is larger and more established but has higher service fees and stricter verification on some payment methods. **CSSBuy** is older with a dated UI and occasionally requires phone verification. **Sugargoo** is popular for fashion buyers but doesn't offer a meaningful advantage for AirPods. For a fee-by-fee comparison of the three, see [KakoBuy vs Superbuy vs Sugargoo](https://kakoguide.com/guides/kakobuy-vs-superbuy-vs-sugargoo).
 :::
 
 ::: details Will I be charged customs fees or VAT on a KakoBuy order?
-For most buyers, no. KakoBuy's **Triangle Shipping** lines declare a low parcel value and pay any VAT upfront on your behalf, so you don't get hit with a customs bill on arrival. This is the line most AirReps buyers use — it bundles the import taxes into the shipping fee, and you pay nothing extra when the parcel reaches your country. If you choose a non-Triangle shipping line, customs handling falls back to your country's standard rules and you may need to pay VAT yourself on delivery.
+For most buyers, no. KakoBuy's **Triangle Shipping** lines declare a low parcel value and pay any VAT upfront on your behalf, so you don't get hit with a customs bill on arrival. This is the line most AirReps buyers use — it bundles the import taxes into the shipping fee, and you pay nothing extra when the parcel reaches your country. If you choose a non-Triangle shipping line, customs handling falls back to your country's standard rules and you may need to pay VAT yourself on delivery. [KakoBuy shipping & VAT explained](https://kakoguide.com/guides/kakobuy-shipping-vat-explained) covers how the declared-value system works per region.
 :::
 
 ::: details Can I cancel or modify a KakoBuy order?
