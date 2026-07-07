@@ -21,7 +21,7 @@ Neuere Modelle bieten zusätzliche Fähigkeiten:
 Wenn Sie Android verwenden, können Sie alle Ihre Touch-Einstellungen an einem iPhone unter https://airreps.info/iossettings vornehmen. Diese Änderungen sollten auf Ihr Android-Gerät übertragen werden, obwohl das manchmal nicht funktioniert. Einige Hersteller haben auch [eigene Android-Apps](/de/useful-apps), die es ermöglichen, diese Einstellungen und mehr auf Android-Geräten zu ändern.
 :::
 
-## In-Ear-Sensoren
+## In-Ear-Sensoren {#in-ear-sensors}
 
 Die In-Ear-Sensoren der Nachbauten pausieren die Musik fast sofort (etwa 1 Sekunde Verzögerung*), wenn sie aus den Ohren genommen werden. Der „Piepton“ beim Einsetzen der AirPods entspricht bei den meisten aktuellen Modellen eng dem originalen Apple-Sound.
 

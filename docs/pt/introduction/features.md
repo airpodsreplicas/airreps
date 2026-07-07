@@ -21,7 +21,7 @@ Modelos mais recentes apresentam capacidades adicionais:
 Se você usa Android, pode fazer todas as alterações das configurações de toque em um iPhone em [https://airreps.info/iossettings](https://airreps.info/iossettings). Essas alterações devem ser transferidas para o seu Android, embora às vezes isso não funcione. Alguns fabricantes também têm [seus próprios aplicativos Android](/pt/useful-apps) que tornam possível alterar essas configurações e mais em dispositivos Android.
 :::
 
-## Sensores Intra-auriculares
+## Sensores Intra-auriculares {#in-ear-sensors}
 
 Os sensores intra-auriculares nas réplicas pausam a música quase instantaneamente (cerca de 1 segundo de atraso*) quando removidos dos ouvidos. O som de "bipe" ao inserir os AirPods combina de perto com o som original da Apple na maioria dos modelos atuais.
 

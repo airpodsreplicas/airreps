@@ -3,44 +3,59 @@ Allow: /
 Disallow: /hashmap.json
 
 # AI Crawlers - explicitly allowed
+# Note: named groups do NOT inherit rules from the * group, so each one
+# repeats the hashmap.json disallow.
 User-agent: GPTBot
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: Claude-Web
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: Perplexity-User
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: Meta-ExternalAgent
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: Amazonbot
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: Bytespider
 Allow: /
+Disallow: /hashmap.json
 
 User-agent: cohere-ai
 Allow: /
+Disallow: /hashmap.json
 
 Sitemap: https://airpodsreplicas.com/sitemap.xml
 # Algolia-Crawler-Verif: D3F2A44E9868FC75

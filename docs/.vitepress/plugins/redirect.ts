@@ -38,7 +38,9 @@ export function redirectPlugin(): Plugin {
                 const redirect = redirects[url];
 
                 if (redirect) {
-                    res.writeHead(301, { Location: redirect });
+                    // 302 in dev — browsers cache 301s, which makes edited
+                    // mappings stick until the cache is cleared.
+                    res.writeHead(302, { Location: redirect });
                     res.end();
                     return;
                 }
@@ -46,9 +48,14 @@ export function redirectPlugin(): Plugin {
                 next();
             });
         },
-        writeBundle(options, bundle) {
-            // Write redirect files after bundle is written
+        writeBundle(options) {
+            // Write redirect files after bundle is written. VitePress runs this
+            // plugin for both the client and SSR builds — skip the throwaway SSR
+            // bundle (written to .vitepress/.temp) so stubs only land in dist.
             const outDir = options.dir || 'dist';
+            if (outDir.includes('.temp')) {
+                return;
+            }
 
             Object.entries(redirects).forEach(([from, to]) => {
                 // Remove leading slash and create directory structure

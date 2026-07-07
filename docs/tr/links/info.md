@@ -54,7 +54,7 @@ Her model içinde daha yüksek bir sürüm numarası genellikle daha pahalıdır
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-## Ödeme yöntemleri
+## Ödeme yöntemleri {#payment-methods}
 
 Tüm güvenilir satıcılar kolaylığınız için birden fazla ödeme yöntemi kabul eder:
 

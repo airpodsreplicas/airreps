@@ -213,13 +213,9 @@ async function main() {
             const filePath = path.join(dir, name);
             const stat = fs.statSync(filePath);
             if (stat?.isDirectory()) {
-                if (
-                    !(
-                        filePath.includes('node_modules') ||
-                        filePath.includes('.vitepress') ||
-                        filePath.includes('public')
-                    )
-                ) {
+                // Match on the directory name, not the full path — a checkout
+                // under e.g. /var/www/public/... would otherwise skip everything.
+                if (!(name === 'node_modules' || name === '.vitepress' || name === 'public')) {
                     results = results.concat(getAllFiles(filePath));
                 }
             } else if (filePath.endsWith('.md')) {

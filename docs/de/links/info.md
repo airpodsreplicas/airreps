@@ -54,7 +54,7 @@ Innerhalb jedes Modells kostet eine höhere Versionsnummer in der Regel mehr und
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-## Zahlungsmethoden
+## Zahlungsmethoden {#payment-methods}
 
 Alle vertrauenswürdigen Verkäufer akzeptieren zur Ihrer Bequemlichkeit mehrere Zahlungsmethoden:
 

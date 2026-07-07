@@ -989,7 +989,9 @@ function t(key: string): string {
 }
 
 // --- Direct product links per seller ---
-const productLinks: Record<string, { earhive: string; jenny: string; hicity: string }> = {
+// A seller key is omitted when that seller doesn't stock the product —
+// directProductLink then falls back to the seller homepage.
+const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: string }> = {
     'pro2-v5.4-huilian': {
         earhive: 'https://airreps.link/eprov54hl',
         jenny: 'https://airreps.link/jprov54hl',
@@ -1008,7 +1010,6 @@ const productLinks: Record<string, { earhive: string; jenny: string; hicity: str
     'pro2-v5.3-hr': {
         earhive: 'https://airreps.link/eprov53hr2',
         jenny: 'https://airreps.link/jprov53hr2',
-        hicity: 'https://airreps.link/hcprov53hr2',
     },
     'pro3-v7-huilian': {
         earhive: 'https://airreps.link/eprov7hl',
@@ -1703,7 +1704,13 @@ function restart() {
 <template>
   <div class="quiz-container">
     <!-- Progress bar -->
-    <div class="quiz-progress">
+    <div
+      class="quiz-progress"
+      role="progressbar"
+      :aria-valuenow="isDone ? activeQuestions.length : currentStep"
+      aria-valuemin="0"
+      :aria-valuemax="activeQuestions.length"
+    >
       <div
         class="quiz-progress-bar"
         :style="{ width: isDone ? '100%' : `${(currentStep / activeQuestions.length) * 100}%` }"

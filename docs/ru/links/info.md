@@ -54,7 +54,7 @@ faq:
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-## Способы оплаты
+## Способы оплаты {#payment-methods}
 
 Все проверенные продавцы принимают несколько способов оплаты для вашего удобства:
 

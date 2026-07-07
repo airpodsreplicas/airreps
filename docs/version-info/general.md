@@ -1,6 +1,6 @@
 ---
 title: "AirPods Replica Versions Compared"
-description: "A summary of missing features across all AirPods replica models. Compare what each version lacks and discover shared features. Note that newer versions don't necessarily mean better quality."
+description: "Compare AirPods replica versions: what each model lacks, which features they share, and why a newer version isn't always better."
 ---
 
 # General

@@ -21,7 +21,7 @@ Nowsze modele oferują dodatkowe możliwości:
 Jeśli używasz Androida, możesz dokonać wszystkich zmian ustawień dotyku na iPhone'ie pod adresem https://airreps.info/iossettings. Te zmiany powinny przejść na Twoje urządzenie z Androidem, chociaż czasami to nie działa. Niektórzy producenci mają też [własne aplikacje na Androida](/pl/useful-apps), które umożliwiają zmianę tych ustawień i więcej na urządzeniach z Androidem.
 :::
 
-## Czujniki douszne
+## Czujniki douszne {#in-ear-sensors}
 
 Czujniki douszne w replikach zatrzymują muzykę niemal natychmiast (opóźnienie około 1 sekundy*), gdy są wyjęte z uszu. Dźwięk "beep" przy wkładaniu AirPods bardzo dobrze odpowiada oryginalnemu dźwiękowi Apple w większości obecnych modeli.
 

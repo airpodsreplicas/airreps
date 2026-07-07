@@ -21,7 +21,7 @@ Los modelos más recientes incluyen capacidades adicionales:
 Si usas Android, puedes realizar todos los cambios en los ajustes táctiles en un iPhone en [https://airreps.info/iossettings](https://airreps.info/iossettings). Estos cambios deberían trasladarse a tu Android, aunque a veces esto no funciona. Algunos fabricantes también tienen [sus propias apps para Android](/es/useful-apps) que permiten cambiar estos ajustes y más en dispositivos Android.
 :::
 
-## Sensores intraaurales
+## Sensores intraaurales {#in-ear-sensors}
 
 Los sensores intraaurales de las réplicas pausan la música casi al instante (aproximadamente 1 segundo de retraso*) cuando se retiran de los oídos. El sonido de "pitido" al insertar los AirPods coincide estrechamente con el sonido original de Apple en la mayoría de los modelos actuales.
 

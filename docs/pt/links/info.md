@@ -54,7 +54,7 @@ Dentro de cada modelo, um número de versão mais alto geralmente custa mais e a
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-## Métodos de pagamento
+## Métodos de pagamento {#payment-methods}
 
 Todos os vendedores confiáveis aceitam múltiplos métodos de pagamento para sua conveniência:
 

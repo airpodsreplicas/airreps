@@ -21,7 +21,7 @@ Nyere modeller har yderligere funktioner:
 Hvis du bruger Android, kan du foretage alle dine berøringsindstillinger på en iPhone på https://airreps.info/iossettings. Disse ændringer bør overføres til din Android, selvom det nogle gange ikke virker. Nogle producenter har også [deres egne Android-apps](/da/useful-apps), som gør det muligt at ændre disse indstillinger og mere på Android-enheder.
 :::
 
-## In-Ear Sensors
+## In-Ear Sensors {#in-ear-sensors}
 
 In-ear-sensorerne på replikaterne sætter musikken på pause næsten øjeblikkeligt (omkring 1 sekunds forsinkelse*), når de fjernes fra ørerne. Den "bip"-lyd, når man indsætter AirPods, matcher tæt den originale Apple-lyd på de fleste nuværende modeller.
 

@@ -54,7 +54,7 @@ Inden for hver model koster en højere version normalt mere og tilføjer funktio
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-## Betalingsmetoder
+## Betalingsmetoder {#payment-methods}
 
 Alle pålidelige sælgere accepterer flere betalingsmetoder for din bekvemmelighed:
 

@@ -21,7 +21,7 @@ Yeni modeller ek yeteneklere sahiptir:
 Android kullanıyorsanız, tüm dokunma ayarı değişikliklerinizi bir iPhone'da https://airreps.info/iossettings adresinde yapabilirsiniz. Bu değişikliklerin Android cihazınıza taşınması gerekir, ancak bazen bu çalışmayabilir. Bazı üreticilerin ayrıca Android cihazlarda bu ayarları ve daha fazlasını değiştirmenizi sağlayan [kendi Android uygulamaları](/tr/useful-apps) vardır.
 :::
 
-## Kulak İçi Sensörler
+## Kulak İçi Sensörler {#in-ear-sensors}
 
 Kopyalardaki kulak içi sensörler, kulaktan çıkarıldığında müziği neredeyse anında (yaklaşık 1 saniye gecikme*) duraklatır. AirPods takıldığında çıkan "bip" sesi çoğu güncel modelde orijinal Apple sesine yakından benzer.
 

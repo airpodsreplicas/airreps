@@ -22,7 +22,7 @@ Newer models feature additional capabilities:
 If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufacturers also have [their own Android apps](/useful-apps) that make it possible to change these settings and more on Android devices.
 :::
 
-## In-Ear Sensors
+## In-Ear Sensors {#in-ear-sensors}
 
 The in-ear sensors on the replicas pause the music almost instantly (around 1 second delay*) when removed from the ears. The "beep" sound when inserting the AirPods closely matches the original Apple sound on most current models.
 

@@ -4,7 +4,7 @@
 
 AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs a Discord server and subreddit.
 
-Last updated: 2026-06-09
+Last updated: 2026-07-07
 
 Website: https://airpodsreplicas.com
 Discord: https://airreps.link/discord
@@ -225,6 +225,12 @@ FAQ:
 ---
 
 ## AirPods Pro 3 Version Comparison
+
+V7 | Chip: Huilian 377H3
+Has: USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup, iOS 26 Support, Live Translation, iCloud Connect, Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode
+Missing: Find My Network
+Note: Early release — some first batches have reported ANC hissing and other rough edges; check recent V7 threads before buying.
+Reviews: https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1
 
 V6 | Chip: Airoha 1563E / Huilian 247
 Has: USB-C, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio, Case Speaker, Hey Siri, Almost 1:1 hinge design, Good ANC, Pro 3 Popup, iOS 26 Support, Live Translation (Huilian only), iCloud Connect (Huilian only)
@@ -501,7 +507,7 @@ Steps for AliExpress orders:
 4. Shipping Timer: Extend the timer if needed. Only click "Order Received" after confirming good condition.
 
 FAQ:
-- What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bank Transfer, Bitcoin. All have Weidian storefronts. PayPal is not supported by sellers directly, though the KakoBuy agent accepts it.
+- What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bank Transfer, Bitcoin. All have Weidian storefronts. PayPal is supported by Earhive, and the KakoBuy agent also accepts it.
 - Why am I redirected to a crypto website when paying via Credit Card? Sellers use a secure crypto payment gateway. Some processors may prompt for KYC. Alternative: Use KakoBuy (https://airreps.link/kakobuy) which never requires KYC verification.
 - Note on Alibaba: Orders through Alibaba always come with neutral packaging (no Apple logo box).
 
@@ -525,11 +531,10 @@ Payment Methods by Seller:
                         Earhive   HiCity   Jenny
 Credit/Debit Card       Yes       Yes      Yes
 AliPay                  Yes       No       Yes
-PayPal                  No        No       No
+PayPal                  Yes       No       No
 Revolut                 Yes       Yes      Yes
 Wise                    Yes       Yes      Yes
 Xoom                    Yes       No       Yes
-Cash App                No        Yes      No
 Cash App (Lightning)    Yes       Yes      Yes
 Bitcoin/Crypto          Yes       Yes      Yes
 Bank Transfer           Yes       Yes      Yes
@@ -550,16 +555,16 @@ Blik                    No        Yes      No
 PayU                    No        Yes      No
 Bancontact              No        Yes      No
 EPS                     No        Yes      No
-iDEAL                   No        Yes      No
 
 AirPods Pro 3 Purchase Links:
+- V7 (Huilian): Earhive (https://airreps.link/eprov7hl), HiCity (https://airreps.link/hcprov7hl), Jenny (https://airreps.link/jprov7hl)
 - V6 (TB): Earhive (https://airreps.link/eprov6tb), HiCity (https://airreps.link/hcprov6tb), Jenny (https://airreps.link/jprov6tb)
 - V6 (Huilian): Earhive (https://airreps.link/eprov6hl), HiCity (https://airreps.link/hcprov6hl), Jenny (https://airreps.link/jprov6hl)
 - V5.5: Earhive (https://airreps.link/eprov55), HiCity (https://airreps.link/hcprov55), Jenny (https://airreps.link/jprov55)
 
 AirPods Pro 2 Purchase Links:
 - V5.4 (Huilian): Earhive (https://airreps.link/eprov54hl), HiCity (https://airreps.link/hcprov54hl), Jenny (https://airreps.link/jprov54hl)
-- V5.3 (HR): Earhive (https://airreps.link/eprov53hr2), HiCity (https://airreps.link/hcprov53hr2), Jenny (https://airreps.link/jprov53hr2)
+- V5.3 (HR): Earhive (https://airreps.link/eprov53hr2), Jenny (https://airreps.link/jprov53hr2)
 - V5.3 (TB): Earhive (https://airreps.link/eprov53tb), HiCity (https://airreps.link/hcprov53tb), Jenny (https://airreps.link/jprov53tb)
 - V5.3 (Huilian): Earhive (https://airreps.link/eprov53hl), HiCity (https://airreps.link/hcprov53hl), Jenny (https://airreps.link/jprov53hl)
 - V5.2 (TB): Earhive (https://airreps.link/eprov52tb), HiCity (https://airreps.link/hcprov52tb), Jenny (https://airreps.link/jprov52tb)
@@ -568,7 +573,7 @@ AirPods Pro 2 Purchase Links:
 - V4.2: Earhive (https://airreps.link/eprov42), HiCity (https://airreps.link/hcprov42), Jenny (https://airreps.link/jprov42)
 
 AirPods Pro Purchase Links:
-- V4: HiCity (https://airreps.link/hcprov4)
+- AirPods Pro (1st gen) replicas are no longer stocked by trusted sellers. Buy AirPods Pro 2 (https://airpodsreplicas.com/links/airpods-pro-2) or AirPods Pro 3 (https://airpodsreplicas.com/links/airpods-pro-3) replicas instead.
 
 AirPods 4 Purchase Links:
 - V3 TB: Earhive (https://airreps.link/e4v3tb), HiCity (https://airreps.link/hc4v3tb), Jenny (https://airreps.link/j4v3tb)
@@ -577,7 +582,7 @@ AirPods 4 Purchase Links:
 - V2 Huilian: Earhive (https://airreps.link/e4v2hl), HiCity (https://airreps.link/hc4v2hl), Jenny (https://airreps.link/j4v2hl)
 
 AirPods 3 Purchase Links:
-- V1E: Earhive (https://airreps.link/e3v1e), HiCity (https://airreps.link/hcgen3v1e), Jenny (https://airreps.link/j3v1e)
+- V1E: Jenny (https://airreps.link/j3v1e)
 - V1.2+: Jenny (https://airreps.link/j3v12)
 
 AirPods 2 Purchase Links:

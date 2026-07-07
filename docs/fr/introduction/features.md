@@ -21,7 +21,7 @@ Les modèles plus récents offrent des fonctionnalités supplémentaires :
 Si vous utilisez Android, vous pouvez effectuer tous vos changements de commandes tactiles sur un iPhone à l'adresse [https://airreps.info/iossettings](https://airreps.info/iossettings). Ces changements devraient être transférés vers votre appareil Android, bien que parfois cela ne fonctionne pas. Certains fabricants disposent également de [leurs propres applications Android](/fr/useful-apps) qui permettent de modifier ces paramètres et plus encore sur les appareils Android.
 :::
 
-## Capteurs intra-auriculaires
+## Capteurs intra-auriculaires {#in-ear-sensors}
 
 Les capteurs intra-auriculaires des répliques mettent la musique en pause presque instantanément (environ 1 seconde de délai*) lorsqu'on les retire des oreilles. Le son de "bip" lors de l'insertion des AirPods correspond de près au son original d'Apple sur la plupart des modèles actuels.
 

@@ -54,7 +54,7 @@ W ramach każdego modelu wyższy numer wersji zwykle kosztuje więcej i dodaje f
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-## Metody płatności
+## Metody płatności {#payment-methods}
 
 Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 
