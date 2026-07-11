@@ -1,118 +1,118 @@
 ---
-description: 'KakoBuy rehberi AirPods replikaları için — adım adım sipariş verme, kargo ücreti, QC fotoğrafları, KYC olmadan ödeme ve KakoBuy''ın Superbuy ve Sugargoo ile nasıl karşılaştırıldığı.'
+description: 'KakoBuy rehberi AirPods replikaları için — adım adım sipariş, kargo maliyeti, QC fotoğrafları, KYC olmadan ödeme ve KakoBuy''in Superbuy ve Sugargoo ile karşılaştırması.'
 ---
-# KakoBuy Rehberi: AirPods Replikaları Nasıl Satın Alınır
+# KakoBuy kılavuzu: AirPods kopyaları nasıl alınır
 
 ## KakoBuy nedir?
 
-KakoBuy, Weidian, Taobao ve 1688 üzerindeki satıcılardan sizin adınıza ürün satın alan, ürünleri deposunda tutan, kalite kontrol (QC) fotoğrafları çeken ve uluslararası olarak size gönderen bir Çin alışveriş aracısıdır (aynı zamanda "taobao agent" olarak da anılır). AirPods replikaları için AirReps topluluğunun önerdiği aracı KakoBuy'dur çünkü KYC kimlik doğrulaması gerektirmeden kredi/banka kartı, PayPal, Apple Pay, Google Pay gibi standart ödeme yöntemlerini kabul eder.
+KakoBuy, sizin adınıza Weidian, Taobao ve 1688'deki satıcılardan ürün satın alan, ürünleri deposunda tutan, kalite kontrol (QC) fotoğrafları çeken ve uluslararası olarak size gönderen bir Çin alışveriş temsilcisidir (aynı zamanda "taobao agent" olarak da anılır). AirPods kopyaları için AirReps topluluğunun önerdiği temsilci KakoBuy'dir çünkü kredi/banka kartı, PayPal, Apple Pay ve Google Pay gibi standart ödeme yöntemlerini KYC kimlik doğrulaması gerektirmeden kabul eder.
 
 ::: info
-[KakoBuy](https://airreps.link/kakobuy) bir satın alma aracısıdır — Çinli satıcılardan sizin adınıza ürünleri satın alır, inceler ve uluslararası olarak gönderir. Bu, Çin'den diğer eşyalarla **kargo birleştirmek** istiyorsanız veya bir satıcının web sitesinden **doğrudan satın alamıyorsanız** özellikle kullanışlıdır. KakoBuy platformunun tamamına yönelik (AirPods dışındaki kategorileri kapsayan) ayrıntılı bir rehber için [KakoGuide](https://kakoguide.com)'a bakın.
+[KakoBuy](https://airreps.link/kakobuy) bir satın alma temsilcisidir — sizin adınıza Çinli satıcılardan ürünleri satın alır, onları denetler ve uluslararası olarak gönderir. Bu, **Çin'den diğer ögelerle birlikte kargo birleştirmek** istiyorsanız veya bir satıcının web sitesinden **doğrudan satın alamıyorsanız** özellikle kullanışlıdır. KakoBuy platformunun kendisine dair (AirPods dışındaki kategorileri de kapsayan) ayrıntılı bir rehber için [KakoGuide](https://kakoguide.com)'a bakın.
 :::
 
-## Neden Bir Aracı Kullanmalı?
+## Neden bir temsilci kullanmalı?
 
-- **QC Fotoğrafları** — KakoBuy, uluslararası sevkiyat öncesi ürününüzün fotoğraflarını çeker, böylece kaliteyi doğrulayabilirsiniz
-- **KYC Yok** — Kimlik doğrulaması olmadan kredi/banka kartı ile ödeme yapabilirsiniz
-- **Kargo Birleştirme** — Birden fazla ürünü tek bir pakette birleştirerek kargo maliyetlerinden tasarruf edebilirsiniz
-- **Alıcı Koruması** — Bir sorun varsa KakoBuy, iade/takas işlemlerini satıcıyla halleder
+- **Kalite kontrol (QC) fotoğrafları** — KakoBuy, uluslararası göndermeden önce ürünlerinizi fotoğraflar, böylece kaliteyi doğrulayabilirsiniz
+- **KYC yok** — kimlik doğrulaması olmadan kredi/banka kartıyla ödeme yapın
+- **Kargo birleştirme** — birkaç öğeyi tek bir pakette toplayarak kargo masraflarından tasarruf edin
+- **Alıcı koruması** — bir sorun çıkarsa KakoBuy iade/takas işlemlerini satıcı ile halleder
 
 ::: tip
-Tek bir AirPods çifti için KakoBuy ile kargo genellikle **7–10 USD** civarındadır. Sadece AirPods alıyorsanız, [satıcının web sitesinden doğrudan sipariş vermek](/tr/ordering/how-to-buy) daha basit olabilir. KakoBuy, siparişleri birleştirdiğinizde veya satıcının ödeme yöntemleri (kripto, AliPay, banka havalesi) sizin için çalışmadığında parlıyor — KakoBuy normal kredi/banka kartları, PayPal, Apple Pay ve Google Pay kabul eder.
+Tek bir çift AirPods için KakoBuy üzerinden gönderim genellikle **7–10 USD** tutar. Sadece AirPods alıyorsanız, [bir satıcının web sitesinden doğrudan sipariş vermek](/tr/ordering/how-to-buy) daha basit olabilir. Ancak KakoBuy, siparişleri birleştirdiğinizde veya satıcının ödeme yöntemleri (kripto, AliPay, banka havalesi) sizin için işe yaramadığında öne çıkar — KakoBuy normal kredi/banka kartlarını, PayPal, Apple Pay ve Google Pay'i kabul eder.
 :::
 
-## KakoBuy ve Diğer Aracılar
+## KakoBuy ve diğer alışveriş temsilcileri
 
-KakoBuy, replika pazarına hizmet veren birkaç alışveriş aracısından biridir. Diğerleri arasında **Superbuy**, **CSSBuy**, **Sugargoo**, **Hoobuy** ve **AllChinaBuy** bulunur. Hepsi temelde benzer işleri yapar — Çinli satıcılardan satın alır, ürünleri depolar, QC fotoğrafları çeker ve uluslararası gönderim yapar — ancak ücretler, ödeme yöntemleri ve kullanıcı arayüzü kalitesi açısından farklılık gösterirler.
+KakoBuy, replikalar pazarına hizmet eden birkaç alışveriş temsilcisinden biridir. Diğerleri arasında **Superbuy**, **CSSBuy**, **Sugargoo**, **Hoobuy** ve **AllChinaBuy** bulunur. Hepsi temelde aynı işi yapar — Çinli satıcılardan satın alma, depolama, QC fotoğrafları çekme ve uluslararası gönderim — ancak ücretler, ödeme yöntemleri ve kullanıcı arayüzü kalitesi açısından farklılık gösterirler.
 
-AirPods replikaları için özel olarak KakoBuy'ı öneriyoruz çünkü:
+Özellikle AirPods kopyaları için KakoBuy'ı öneriyoruz çünkü:
 
-- **KYC Yok** — kredi/banka kartı, PayPal, Apple Pay ve Google Pay kimlik doğrulaması olmadan çalışır
-- **Doğrudan Weidian entegrasyonu** — herhangi bir Weidian bağlantısını yapıştırabilir veya bizim [Links](/tr/links/info) bölümümüzdeki KakoBuy düğmelerini kullanarak tek tıkla ürün yükleyebilirsiniz
-- **Hafif ürünler için makul oranlar** — AirPods küçük ve hafiftir, bu nedenle KakoBuy'ın kargo seçenekleri, moda veya daha ağır paketlere odaklanan aracılara kıyasla rekabetçi olur
+- **KYC yok** — kredi/banka kartı, PayPal, Apple Pay ve Google Pay kimlik doğrulaması gerektirmeden çalışır
+- **Doğrudan Weidian entegrasyonu** — herhangi bir Weidian linkini yapıştırın veya bir tıkla ürün yükleme için [Bağlantılar](/tr/links/info) bölümümüzdeki KakoBuy düğmelerini kullanın
+- **Hafif ürünlerde makul oranlar** — AirPods küçük ve hafiftir, bu yüzden KakoBuy'ın gönderi hatları moda veya ağır parçalara optimize edilmiş temsilcilere kıyasla rekabetçi olur
 
-Zaten başka bir aracıda hesabınız varsa ve sadece AirPods sipariş etmek istiyorsanız, herhangi biri işinizi görür — aynı Weidian bağlantılarını bizim [Links](/tr/links/info) bölümünden kopyalayıp herhangi bir aracının arama çubuğuna yapıştırabilirsiniz.
+Zaten başka bir temsilcide hesabınız varsa ve sadece AirPods sipariş etmek istiyorsanız, herhangi biri işinizi görür — [Bağlantılar](/tr/links/info) bölümümüzden aynı Weidian linklerini herhangi bir temsilcinin arama çubuğuna yapıştırabilirsiniz.
 
-## Nasıl Sipariş Verilir
+## Nasıl sipariş verilir
 
-### 1. Hesap Oluşturun
+### 1. Hesap oluşturun
 
-[KakoBuy](https://airreps.link/kakobuy) sitesine kaydolun. Başlamak için yalnızca bir e-posta adresi yeterlidir.
+[KakoBuy](https://airreps.link/kakobuy)'a kaydolun. Başlamak için yalnızca bir e-posta adresine ihtiyacınız var. Yeni hesaplar hoş geldin paketinde kargo kuponları alır — hangi kuponların aktif olduğunu ve nasıl kullanılacağını takip etmek için [KakoGuide'ın indirim kodu sayfası](https://kakoguide.com/guides/kakobuy-discount-codes)'na bakın.
 
-![KakoBuy signup page](/images/kakobuy/signup.webp)
+![KakoBuy kayıt sayfası](/images/kakobuy/signup.webp)
 
-### 2. Ürünü Bulun
+### 2. Ürünü bulun
 
-Bizim [Links](/tr/links/info) bölümümüze gidin ve istediğiniz ürünü seçin. Her satıcının sayfasında ürünü doğrudan KakoBuy üzerinde açan bir **KakoBuy** düğmesi vardır — bağlantıları elle kopyalayıp yapıştırmanıza gerek yoktur.
+[Bağlantılar](/tr/links/info) bölümümüze gidin ve istediğiniz ürünü seçin. Her satıcının sayfasında sizi doğrudan KakoBuy'daki ürüne götüren bir **KakoBuy** düğmesi bulunur — linkleri elle kopyalayıp yapıştırmanıza gerek yok.
 
-![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.webp)
+![Weidian ve KakoBuy seçeneklerini gösteren AirReps bağlantı seçici](/images/kakobuy/link-chooser.webp)
 
-Alternatif olarak, herhangi bir **Weidian** bağlantısını kopyalayıp KakoBuy sayfasının en üstündeki arama çubuğuna yapıştırabilirsiniz.
+Alternatif olarak herhangi bir **Weidian** linkini kopyalayıp sayfanın üstündeki KakoBuy arama çubuğuna yapıştırabilirsiniz.
 
-### 3. Seçenekleri Seçin & Sepete Ekleyin
+### 3. Seçenekleri seçin ve sepete ekleyin
 
-KakoBuy ürün sayfasında, satıcının Weidian mağazasından çekilen ürün detaylarını — fiyat, mevcut modeller/sürümler ve referans fotoğrafları — göreceksiniz. Doğru modeli seçin (ör. Pro3-V6-TB, V5.3TB) ve **Add to Shopping Cart** veya **Buy now** üzerine tıklayın.
+KakoBuy ürün sayfasında, satıcının Weidian mağazasından çekilen fiyat, mevcut modeller/sürümler ve referans fotoğrafları gibi ürün detaylarını göreceksiniz. Doğru modeli seçin (ör. Pro3-V6-TB, V5.3TB) ve **Alışveriş Sepetine Ekle** veya **Şimdi satın al** düğmesine tıklayın.
 
-![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.webp)
+![HiCity AirPods model seçimi gösteren KakoBuy ürün sayfası](/images/kakobuy/product-page.webp)
 
-### 4. Siparişinizi Ödeyin
+### 4. Siparişinizi ödeyin
 
-Ödeme yapın ve tercih ettiğiniz yöntemi kullanın — kredi/banka kartı, PayPal, Apple Pay, Google Pay veya bakiye yüklemesi. KakoBuy birden fazla para birimini kabul eder ve **asla KYC doğrulaması gerektirmez**.
+İstediğiniz yöntemle ödeme yapın — kredi/banka kartı, PayPal, Apple Pay, Google Pay veya bakiye yüklemesi. KakoBuy birden çok para birimini kabul eder ve **asla KYC doğrulaması gerektirmez**.
 
-::: details Ne kadar sürer?
-KakoBuy siparişinizi 3–5 saat içinde inceler, ardından satıcıya iletir. Satıcı genellikle KakoBuy deposuna 3–5 gün içinde gönderir.
+::: details Bu ne kadar sürer?
+KakoBuy siparişinizi 3–5 saat içinde gözden geçirir, ardından satıcıya iletir. Satıcı genellikle KakoBuy deposuna 3–5 gün içinde gönderir.
 :::
 
-### 5. QC Fotoğraflarını İnceleyin
+### 5. QC fotoğraflarını inceleyin
 
-Ürün KakoBuy deposuna ulaşınca, kalite kontrol (QC) fotoğrafları çekerler. Bunları **User Center** → **Order** altında görebileceğiniz siparişlerde kontrol edin; her ürünün yanında QC fotoğrafları olacaktır. Bir şey doğru görünmüyorsa, uluslararası sevkiyat öncesi iade veya değişim talep edebilirsiniz.
+Ürün KakoBuy deposuna ulaştığında kalite kontrol (QC) fotoğrafları çekerler. Bunları **Kullanıcı Merkezi** → **Sipariş** bölümünde kontrol edin; her öğeye eklenmiş QC fotoğraflarını göreceksiniz. Bir şey ters görünürse, uluslararası gönderimden önce iade veya değişim talep edebilirsiniz.
 
-![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.webp)
+![QC fotoğraflarıyla KakoBuy siparişler sayfası](/images/kakobuy/orders-qc.webp)
 
 ::: tip
-Bir aracıyı kullanmanın büyük avantajlarından biri budur — AirPods replikanı uluslararası gönderime onay vermeden önce inceleyebilirsiniz. Nelere dikkat etmeniz gerektiği hakkında ipuçları için [QC & LC kılavuzunu](/tr/ordering/qc-lc) kontrol edin.
+Bir temsilci kullanmanın büyük bir avantajı budur — AirPods kopyanızı uluslararası gönderime onay vermeden önce inceleyebilirsiniz. Nelere bakmanız gerektiği konusunda ipuçları için [QC & LC rehberi](/tr/ordering/qc-lc)'ne göz atın.
 :::
 
-### 6. Uluslararası Gönderim Yapın
+### 6. Uluslararası gönderim yapın
 
-QC fotoğraflarından memnunsanız, bir gönderim talebi oluşturun:
+QC fotoğraflarından memnun kaldığınızda bir gönderi talebi gönderin:
 
-1. **User Center** → **Warehouse** bölümüne gidin
-2. Göndermek istediğiniz ürünleri seçin
-3. Kargo adresinizi doldurun ve bir gönderim yöntemi seçin
-4. Uluslararası kargo ücretini ödeyin
+1. **Kullanıcı Merkezi** → **Depo**'ya gidin  
+2. Göndermek istediğiniz öğeleri seçin  
+3. Gönderim adresinizi doldurun ve bir gönderi yöntemi seçin  
+4. Uluslararası nakliye ücretini ödeyin
 
-Sadece AirPods için, çoğu standart kargo hattı uygundur. Taşıyıcıya ve konumunuza bağlı olarak teslimat süresini **7–25 gün** olarak bekleyin. Birden çok öğeyi tek bir pakette birleştirerek kargo maliyetinden tasarruf edebilirsiniz.
+Sadece AirPods için çoğu standart gönderi hattı uygundur. Taşıyıcıya ve konumunuza bağlı olarak teslimat **7–25 gün** içinde beklenir. Kargo masraflarından tasarruf etmek için birden fazla öğeyi tek bir pakette birleştirebilirsiniz.
 
-### 7. Paketinizin Takibini Yapın
+### 7. Paketinizi takip edin
 
-Gönderim sonrası paketinizi **User Center** → **Parcel** altında takip edin. Gönderim yöntemi, takip numarası ve paket uluslararası taşımada ilerledikçe canlı durum güncellemelerini göreceksiniz.
+Gönderimden sonra paketinizi **Kullanıcı Merkezi** → **Paket** altında takip edin. Gönderim yöntemi, takip numarası ve paket uluslararası transitten geçerken güncel durum bilgilerini göreceksiniz.
 
-![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.webp)
+![KakoBuy paket takip sayfası](/images/kakobuy/parcel-tracking.webp)
 
 ## SSS
 
-::: details KakoBuy, AirPods replikaları için güvenli mi?
-KakoBuy, AirReps topluluğu tarafından yıllardır kullanılan meşru bir Çin alışveriş aracısıdır. Ürünlerinizi deposunda tutar, QC fotoğrafları çeker ve uluslararası gönderim öncesi inceleme yapmanıza izin verir — böylece taahhüt etmeden önce iade veya geri ödeme talep edebilirsiniz. Ödemeler standart işlemciler (kredi/banka kartı, PayPal, Apple Pay, Google Pay) aracılığıyla gerçekleşir ve diğer çevrimiçi alışverişlerde olduğu gibi dolandırıcılık korumasına sahiptir. Uluslararası taşımada gönül rahatlığı için, ödeme sayfasında küçük bir ücret karşılığında herhangi bir gönderim hattına kargo sigortası ekleyebilirsiniz.
+::: details AirPods kopyalarını satın almak için KakoBuy güvenli mi?
+KakoBuy, AirReps topluluğu tarafından yıllardır kullanılan meşru bir Çin alışveriş temsilcisidir. Ürünlerinizi deposunda tutar, QC fotoğrafları çeker ve uluslararası gönderimden önce bunları incelemenize izin verir — böylece taahhütte bulunmadan önce iade veya geri ödeme talep edebilirsiniz. Ödemeler kredi/banka kartı, PayPal, Apple Pay ve Google Pay gibi standart işlemciler üzerinden gider ve diğer çevrimiçi alışverişlerdekiyle aynı dolandırıcılık korumasına sahiptir. Uluslararası transit için gönül rahatlığı istiyorsanız, ödeme sırasında küçük bir ücret karşılığında herhangi bir gönderi hattına kargo sigortası ekleyebilirsiniz. Platformun sicili hakkında daha uzun bir açıklama isterseniz, KakoGuide'da özel bir [is KakoBuy legit?](https://kakoguide.com/guides/is-kakobuy-legit) incelemesi var.
 :::
 
-::: details KakoBuy ile AirPods kargosu ne kadar tutar?
-Tek bir AirPods çifti için uluslararası kargo maliyeti olarak **7–10 USD** bekleyin. Nihai maliyet varış ülkenize ve seçtiğiniz kargo hattına bağlıdır — ekspres hatlar (DHL, FedEx) daha pahalıdır, fakat KakoBuy'ın **Triangle Shipping** hattı vergi ve harçları gönderim ücretine dahil ettiğinden varışta ekstra ödeme yapmanız gerekmez. Birden çok öğeyi tek pakette birleştirerek öğe başına kargo maliyetini önemli ölçüde düşürebilirsiniz; bu, insanların bir aracı kullanmasının başlıca nedenlerinden biridir.
+::: details KakoBuy ile AirPods gönderimi ne kadar tutar?
+Tek bir çift AirPods için uluslararası gönderim beklenen maliyet **7–10 USD** arasındadır. Nihai maliyet varış ülkenize ve seçtiğiniz gönderi hattına bağlıdır — ekspres hatlar (DHL, FedEx) daha pahalıdır, oysa KakoBuy'ın **Triangle Shipping** hattı kargo ücretine KDV'yi dahil eder, böylece varışta ekstra bir ödeme yapmanız gerekmez. Birden fazla öğeyi tek pakette birleştirmek parça başına düşen gönderim maliyetini önemli ölçüde düşürür; bu, insanların temsilci kullanmasının başlıca sebeplerinden biridir.
 :::
 
-::: details KakoBuy KYC doğrulaması istiyor mu?
-Hayır. KakoBuy, kredi/banka kartları, PayPal, Apple Pay ve Google Pay'i kimlik doğrulaması olmadan kabul eden standart ödeme işlemcilerini kullanır. Bu, bazı alıcıların satıcılara doğrudan ödeme yapmaktansa KakoBuy'ı tercih etmesinin ana nedenlerinden biridir — bazı satıcı ödeme geçitleri kredi kartı ödemelerinde KYC tetikleyebilir ve KakoBuy bunu tamamen önler.
+::: details KakoBuy KYC doğrulaması gerektiriyor mu?
+Hayır. KakoBuy, kredi/banka kartları, PayPal, Apple Pay ve Google Pay'i kimlik doğrulaması olmadan kabul eden standart ödeme işlemcilerini kullanır. Bu, alıcıların doğrudan satıcıya ödeme yapmaya kıyasla KakoBuy'ı tercih etmelerinin ana sebeplerinden biridir — bazı satıcı ödeme kapıları kredi kartı ödemelerinde KYC kontrollerini tetikleyebilir ve KakoBuy bunu tamamen önler.
 :::
 
-::: details KakoBuy, Superbuy, CSSBuy veya Sugargoo ile nasıl karşılaştırılır?
-Bu dörtü de temel olarak aynı işi yapan Çin alışveriş aracılarıdır — satın alma, depolama, QC ve gönderim. AirPods replikaları için KakoBuy, ödeme akışının KYC tetiklemediği, kullanıcı arayüzünün Weidian bağlantılarını düzgün şekilde yönettiği ve her güvenilir satıcı için doğrudan KakoBuy düğmelerinin bulunduğu bizim [Links bölümümüz](/tr/links/info) nedeniyle AirReps tarafından önerilir. **Superbuy** daha büyük ve daha yerleşik bir servistir ancak hizmet ücretleri daha yüksek ve bazı ödeme yöntemlerinde daha sıkı doğrulama yapar. **CSSBuy** daha eski ve kullanıcı arayüzü demode olup zaman zaman telefon doğrulaması isteyebilir. **Sugargoo** moda alıcıları arasında popülerdir ancak AirPods için belirgin bir avantaj sunmaz.
+::: details KakoBuy, Superbuy, CSSBuy veya Sugargoo ile nasıl kıyaslanır?
+Dördü de satın alma, depo, QC ve gönderim gibi temel işleri yapan Çin alışveriş temsilcileridir. AirPods kopyaları için KakoBuy, ödeme akışının KYC tetiklemediği, Weidian linklerini sorunsuz işlediği ve her güvenilir satıcı için doğrudan KakoBuy düğmeleri içeren [Bağlantılar](/tr/links/info) bölümümüz olduğu için önerilmektedir. **Superbuy** daha büyük ve daha yerleşik bir hizmettir ancak daha yüksek servis ücretleri ve bazı ödeme yöntemlerinde daha sıkı doğrulamalar olabilir. **CSSBuy** daha eski bir arayüze sahiptir ve ara sıra telefon doğrulaması isteyebilir. **Sugargoo** moda alıcıları arasında popülerdir ancak AirPods için anlamlı bir avantaj sunmaz. Üçü arasında ücretlere göre karşılaştırma için [KakoBuy vs Superbuy vs Sugargoo](https://kakoguide.com/guides/kakobuy-vs-superbuy-vs-sugargoo)'yu inceleyin.
 :::
 
-::: details KakoBuy siparişimde gümrük ücreti veya KDV öder miyim?
-Çoğu alıcı için hayır. KakoBuy'ın **Triangle Shipping** hatları düşük paket değeri beyan eder ve KDV'yi sizin adınıza önceden öder, böylece varışta bir gümrük faturasıyla karşılaşmazsınız. Bu, çoğu AirReps alıcısının kullandığı hattır — ithalat vergilerini gönderim ücretine dahil eder ve paket ülkenize ulaştığında ekstra bir ödeme yapmazsınız. Triangle olmayan bir gönderim hattı seçerseniz, gümrük işlemleri ülkenizin standart kurallarına tabi olur ve teslimatta KDV ödemeniz gerekebilir.
+::: details KakoBuy siparişinde gümrük ücreti veya KDV alınır mı?
+Çoğu alıcı için hayır. KakoBuy'ın **Triangle Shipping** hatları düşük paket değeri beyan eder ve gerektiğinde KDV'yi sizin adınıza önceden öder, böylece varışta gümrük faturasıyla karşılaşmazsınız. Bu, çoğu AirReps alıcısının kullandığı hattır — ithalat vergilerini gönderim ücretine dahil eder ve paket ülkenize ulaştığında ekstra bir ödeme yapmazsınız. Triangle olmayan bir gönderi hattı seçerseniz, gümrük işlemleri ülkenizin standart kurallarına tabi olur ve teslimatta KDV ödemeniz gerekebilir. Bölgeye göre beyan edilen değer sisteminin nasıl çalıştığını [KakoBuy gönderim & KDV açıklaması](https://kakoguide.com/guides/kakobuy-shipping-vat-explained) ele alır.
 :::
 
-::: details KakoBuy siparişi iptal edebilir veya değiştirebilir miyim?
-Evet, satıcı henüz KakoBuy deposuna göndermediyse. **User Center** → **Order** bölümüne gidip iptal veya değişiklik talep edin — KakoBuy satıcı ile sizin adınıza iletişime geçecektir. Satıcı gönderimi yaptıktan sonra genellikle iptal edemezsiniz, ancak QC sırasında ürün yanlış modelde veya kusurluysa ürünü reddedebilir ve KakoBuy satıcı ile iade işlemini halleder.
+::: details KakoBuy siparişini iptal edebilir veya değiştirebilir miyim?
+Evet, satıcı KakoBuy deposuna göndermemişse. **Kullanıcı Merkezi** → **Sipariş** bölümüne gidin ve iptal veya değişiklik talep edin — KakoBuy sizin adınıza satıcıyla iletişime geçer. Satıcı gönderim yaptıktan sonra genellikle iptal edemezsiniz, ancak QC sırasında yanlış model veya kusurluysa ürünü reddedebilir ve KakoBuy satıcıyla iade işlemini halleder.
 :::
