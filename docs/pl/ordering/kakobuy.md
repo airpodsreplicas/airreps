@@ -1,118 +1,118 @@
 ---
-description: 'Przewodnik KakoBuy dotyczący replik AirPods — zamawianie krok po kroku, koszt wysyłki, zdjęcia QC, płatność bez KYC oraz porównanie KakoBuy z Superbuy i Sugargoo.'
+description: 'KakoBuy przewodnik po replikach AirPods — zamawianie krok po kroku, koszt wysyłki, zdjęcia QC, płatność bez KYC oraz jak KakoBuy wypada w porównaniu z Superbuy i Sugargoo.'
 ---
-# KakoBuy Guide: How to Buy AirPods Replicas
+# Przewodnik KakoBuy: jak kupować repliki AirPods
 
-## What is KakoBuy?
+## Czym jest KakoBuy?
 
-KakoBuy is a Chinese shopping agent (also called a "taobao agent") that purchases products from sellers on Weidian, Taobao, and 1688 on your behalf, holds the items at its warehouse, takes quality control (QC) photos, and ships them to you internationally. For AirPods replicas, KakoBuy is the agent the AirReps community recommends because it accepts standard payment methods — credit/debit card, PayPal, Apple Pay, Google Pay — without requiring KYC identity verification.
+KakoBuy to chiński agent zakupowy (zwany także „agentem taobao”), który kupuje produkty od sprzedawców na Weidian, Taobao i 1688 w twoim imieniu, przechowuje je w swoim magazynie, wykonuje zdjęcia kontroli jakości (QC) i wysyła je do ciebie międzynarodowo. W przypadku replik AirPods, KakoBuy jest agentem polecanym przez społeczność AirReps, ponieważ akceptuje standardowe metody płatności — kartę kredytową/debetową, PayPal, Apple Pay i Google Pay — bez wymogu weryfikacji tożsamości (KYC).
 
 ::: info
-[KakoBuy](https://airreps.link/kakobuy) is a purchasing agent — they buy products from Chinese sellers on your behalf, inspect them, and ship them to you internationally. This is especially useful if you want to **combine shipping with other items from China**, or if you **can't buy directly** from a seller's website. For a comprehensive walkthrough of the KakoBuy platform itself (covering categories beyond AirPods), see [KakoGuide](https://kakoguide.com).
+[KakoBuy](https://airreps.link/kakobuy) to agent zakupowy — kupują produkty od chińskich sprzedawców w twoim imieniu, sprawdzają je i wysyłają je do ciebie międzynarodowo. Jest to szczególnie przydatne, jeśli chcesz **połączyć wysyłkę z innymi przedmiotami z Chin**, lub jeśli **nie możesz kupić bezpośrednio** ze strony sprzedawcy. Aby uzyskać kompleksowy przewodnik po platformie KakoBuy (obejmujący kategorie inne niż AirPods), zobacz [KakoGuide](https://kakoguide.com).
 :::
 
-## Why Use an Agent?
+## Dlaczego warto użyć agenta?
 
-- **QC Photos** — KakoBuy photographs your items before shipping so you can verify quality
-- **No KYC** — Pay with credit/debit card without identity verification
-- **Combine Shipping** — Bundle multiple items into one parcel to save on shipping costs
-- **Buyer Protection** — KakoBuy handles returns/exchanges with the seller if something is wrong
+- **Zdjęcia QC** — KakoBuy fotografuje twoje przedmioty przed wysyłką, abyś mógł zweryfikować jakość
+- **Brak KYC** — płać kartą kredytową/debetową bez weryfikacji tożsamości
+- **Łączenie wysyłek** — zbij wiele przedmiotów w jedną paczkę, aby zaoszczędzić na kosztach wysyłki
+- **Ochrona kupującego** — KakoBuy zajmuje się zwrotami/wymianami ze sprzedawcą, jeśli coś jest nie tak
 
 ::: tip
-For a single pair of AirPods, shipping through KakoBuy typically costs **$7–10 USD**. If you're only buying AirPods and nothing else, it may be simpler to [order directly from a seller's website](/pl/ordering/how-to-buy). KakoBuy shines when you're combining orders or when the seller's payment methods (crypto, AliPay, bank transfer) don't work for you — KakoBuy accepts regular credit/debit cards, PayPal, Apple Pay, and Google Pay.
+Dla jednej pary AirPods, wysyłka przez KakoBuy zwykle kosztuje **$7–10 USD**. Jeśli kupujesz tylko AirPods i nic więcej, może być prościej [zamówić bezpośrednio ze strony sprzedawcy](/pl/ordering/how-to-buy). KakoBuy sprawdza się najlepiej, gdy łączysz zamówienia lub gdy metody płatności sprzedawcy (crypto, AliPay, przelew bankowy) nie działają dla ciebie — KakoBuy akceptuje standardowe karty kredytowe/debetowe, PayPal, Apple Pay i Google Pay.
 :::
 
-## KakoBuy vs Other Agents
+## KakoBuy a inne agencje
 
-KakoBuy is one of several shopping agents that serve the replica market. Others include **Superbuy**, **CSSBuy**, **Sugargoo**, **Hoobuy**, and **AllChinaBuy**. They all do roughly the same thing — purchase from Chinese sellers, warehouse the items, take QC photos, and ship internationally — but they differ in fees, payment methods, and UI quality.
+KakoBuy jest jedną z kilku agencji zakupowych obsługujących rynek replik. Inne to **Superbuy**, **CSSBuy**, **Sugargoo**, **Hoobuy** i **AllChinaBuy**. Wszystkie robią mniej więcej to samo — kupują od chińskich sprzedawców, magazynują przedmioty, robią zdjęcia QC i wysyłają je międzynarodowo — ale różnią się opłatami, metodami płatności i jakością interfejsu.
 
-For AirPods replicas specifically, we recommend KakoBuy because:
+W przypadku replik AirPods szczególnie polecamy KakoBuy, ponieważ:
 
-- **No KYC** — credit/debit card, PayPal, Apple Pay, and Google Pay all work without identity verification
-- **Direct Weidian integration** — paste any Weidian link, or use the KakoBuy buttons in our [sekcji linków](/pl/links/info) for one-click product loading
-- **Reasonable rates on light items** — AirPods are small and light, so KakoBuy's shipping lines work out competitively versus agents that are optimized for fashion or heavier parcels
+- **Brak KYC** — karta kredytowa/debetowa, PayPal, Apple Pay i Google Pay działają bez weryfikacji tożsamości
+- **Bezpośrednia integracja z Weidian** — wklej dowolny link Weidian lub użyj przycisków KakoBuy w naszej sekcji [Linki](/pl/links/info) do załadowania produktu jednym kliknięciem
+- **Rozsądne stawki dla lekkich przedmiotów** — AirPods są małe i lekkie, więc linie wysyłkowe KakoBuy wypadają konkurencyjnie w porównaniu do agencji optymalizowanych pod modę lub cięższe paczki
 
-If you already have an account with another agent and only want to order AirPods, any of them will work — you can paste the same Weidian links from our [sekcji linków](/pl/links/info) into any agent's search bar.
+Jeśli masz już konto u innego agenta i chcesz zamówić tylko AirPods, którykolwiek z nich się sprawdzi — możesz wkleić te same linki Weidian z naszej sekcji [Linki](/pl/links/info) do paska wyszukiwania dowolnego agenta.
 
-## How to Order
+## Jak zamówić
 
-### 1. Create an Account
+### 1. Utwórz konto
 
-Sign up at [KakoBuy](https://airreps.link/kakobuy). You only need an email address to get started.
+Zarejestruj się na [KakoBuy](https://airreps.link/kakobuy). Do rozpoczęcia potrzebny jest tylko adres e-mail. Nowe konta otrzymują pakiet powitalny z kuponami na wysyłkę — [strona z kodami rabatowymi KakoGuide](https://kakoguide.com/guides/kakobuy-discount-codes) śledzi, które są aktualnie aktywne i jak je zrealizować.
 
-![KakoBuy signup page](/images/kakobuy/signup.webp)
+![Strona rejestracji KakoBuy](/images/kakobuy/signup.webp)
 
-### 2. Find the Product
+### 2. Znajdź produkt
 
-Przejdź do [sekcji linków](/pl/links/info) i wybierz produkt, który chcesz. Każda strona sprzedawcy ma przycisk **KakoBuy**, który przenosi Cię bezpośrednio do produktu na KakoBuy — nie trzeba ręcznie kopiować i wklejać linków.
+Przejdź do naszej sekcji [Linki](/pl/links/info) i wybierz produkt, który chcesz. Na stronie każdego sprzedawcy znajduje się przycisk **KakoBuy**, który przenosi cię bezpośrednio do produktu na KakoBuy — nie trzeba kopiować i wklejać linków ręcznie.
 
-![AirReps link chooser showing Weidian and KakoBuy options](/images/kakobuy/link-chooser.webp)
+![Wybieracz linków AirReps pokazujący opcje Weidian i KakoBuy](/images/kakobuy/link-chooser.webp)
 
-Alternatively, you can copy any **Weidian** link and paste it into the KakoBuy search bar at the top of the page.
+Alternatywnie możesz skopiować dowolny link **Weidian** i wkleić go do paska wyszukiwania KakoBuy na górze strony.
 
-### 3. Select Options & Add to Cart
+### 3. Wybierz opcje i dodaj do koszyka
 
-On the KakoBuy product page, you'll see the product details pulled from the seller's Weidian store — including price, available models/versions, and reference photos. Select the correct model (e.g. Pro3-V6-TB, V5.3TB) and click **Add to Shopping Cart** or **Buy now**.
+Na stronie produktu w KakoBuy zobaczysz szczegóły pobrane ze sklepu sprzedawcy na Weidian — w tym cenę, dostępne modele/wersje oraz zdjęcia referencyjne. Wybierz właściwy model (np. Pro3-V6-TB, V5.3TB) i kliknij **Dodaj do koszyka** lub **Kup teraz**.
 
-![KakoBuy product page showing HiCity AirPods with model selection](/images/kakobuy/product-page.webp)
+![Strona produktu KakoBuy pokazująca HiCity AirPods z wyborem modelu](/images/kakobuy/product-page.webp)
 
-### 4. Pay for Your Order
+### 4. Opłać zamówienie
 
-Check out and pay using your preferred method — credit/debit card, PayPal, Apple Pay, Google Pay, or balance top-up. KakoBuy accepts multiple currencies and **never requires KYC verification**.
+Przejdź do kasy i zapłać wybraną metodą — kartą kredytową/debetową, PayPal, Apple Pay, Google Pay lub doładowaniem salda. KakoBuy akceptuje wiele walut i **nigdy nie wymaga weryfikacji KYC**.
 
-::: details How long does this take?
-KakoBuy reviews your order within 3–5 hours, then places it with the seller. The seller typically ships to KakoBuy's warehouse within 3–5 days.
+::: details Ile to trwa?
+KakoBuy przegląda twoje zamówienie w ciągu 3–5 godzin, a następnie składa je u sprzedawcy. Sprzedawca zwykle wysyła do magazynu KakoBuy w ciągu 3–5 dni.
 :::
 
-### 5. Review QC Photos
+### 5. Sprawdź zdjęcia QC
 
-Once the item arrives at KakoBuy's warehouse, they'll take quality control (QC) photos. Check these in **Centrum użytkownika** → **Zamówienia**, where you'll see the QC pictures attached to each item. If something looks off, you can request a return or exchange before shipping internationally.
+Gdy przedmiot dotrze do magazynu KakoBuy, zrobią zdjęcia kontroli jakości (QC). Sprawdź je w **Centrum użytkownika** → **Zamówienia**, gdzie zobaczysz zdjęcia QC dołączone do każdego przedmiotu. Jeśli coś wydaje się nie tak, możesz poprosić o zwrot lub wymianę przed wysyłką międzynarodową.
 
-![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.webp)
+![Strona zamówień KakoBuy ze zdjęciami QC](/images/kakobuy/orders-qc.webp)
 
 ::: tip
-This is a great perk of using an agent — you get to inspect your AirPods replica before committing to international shipping. Check the [poradnik QC i LC](/pl/ordering/qc-lc) for tips on what to look for.
+To duża zaleta korzystania z agenta — możesz obejrzeć swoją replikę AirPods przed wysyłką międzynarodową. Sprawdź [przewodnik QC i LC](/pl/ordering/qc-lc) po wskazówki, na co zwracać uwagę.
 :::
 
-### 6. Ship Internationally
+### 6. Wyślij międzynarodowo
 
-When you're happy with the QC photos, submit a shipping request:
+Kiedy jesteś zadowolony ze zdjęć QC, złóż prośbę o wysyłkę:
 
-1. Go to **Centrum użytkownika** → **Magazyn**
-2. Select the items you want to ship
-3. Fill in your shipping address and choose a shipping method
-4. Pay the international shipping fee
+1. Przejdź do **Centrum użytkownika** → **Magazyn**
+2. Wybierz przedmioty, które chcesz wysłać
+3. Wypełnij adres wysyłki i wybierz metodę wysyłki
+4. Zapłać opłatę za wysyłkę międzynarodową
 
-For AirPods only, most standard shipping lines work fine. Expect delivery in **7–25 days** depending on the carrier and your location. You can combine multiple items into one parcel to save on shipping costs.
+W przypadku samych AirPods większość standardowych linii wysyłkowych będzie odpowiednia. Oczekuj dostawy w ciągu **7–25 dni**, w zależności od przewoźnika i twojej lokalizacji. Możesz połączyć kilka przedmiotów w jedną paczkę, aby oszczędzić na kosztach wysyłki.
 
-### 7. Track Your Package
+### 7. Śledź swoją paczkę
 
-After shipment, track your parcel under **Centrum użytkownika** → **Paczka**. You'll see the shipping method, tracking number, and live status updates as the package moves through international transit.
+Po wysyłce śledź swoją przesyłkę w **Centrum użytkownika** → **Paczka**. Zobaczysz metodę wysyłki, numer śledzenia i aktualizacje statusu na żywo, gdy paczka przechodzi przez międzynarodowy transport.
 
-![KakoBuy parcel tracking page](/images/kakobuy/parcel-tracking.webp)
+![Strona śledzenia przesyłki KakoBuy](/images/kakobuy/parcel-tracking.webp)
 
-## FAQ
+## Najczęściej zadawane pytania
 
-::: details Is KakoBuy safe for buying AirPods replicas?
-KakoBuy is a legitimate Chinese shopping agent that has been used by the AirReps community for years. It holds your items at its warehouse, takes QC photos, and lets you inspect them before international shipping — so you can request a return or refund before committing. Payments go through standard processors (credit/debit card, PayPal, Apple Pay, Google Pay) with the same fraud protection as any other online purchase. For peace of mind on international transit, you can add shipping insurance to any shipping line for a small extra fee at checkout.
+::: details Czy KakoBuy jest bezpieczny przy zakupie replik AirPods?
+KakoBuy to legalny chiński agent zakupowy używany przez społeczność AirReps od lat. Przechowuje twoje przedmioty w swoim magazynie, robi zdjęcia QC i pozwala je obejrzeć przed wysyłką międzynarodową — dzięki temu możesz zażądać zwrotu lub refundacji przed wysyłką. Płatności przechodzą przez standardowe procesory (karta kredytowa/debetowa, PayPal, Apple Pay, Google Pay) z taką samą ochroną przed oszustwami jak przy innych zakupach online. Dla spokoju ducha podczas transportu międzynarodowego możesz dodać ubezpieczenie przesyłki do dowolnej linii wysyłkowej za niewielką dodatkową opłatą przy kasie. Jeśli chcesz dłuższą odpowiedź z historią platformy, KakoGuide ma dedykowane zestawienie [czy KakoBuy jest wiarygodny?](https://kakoguide.com/guides/is-kakobuy-legit).
 :::
 
-::: details How much does KakoBuy shipping cost for AirPods?
-For a single pair of AirPods, expect **$7–10 USD** for international shipping. Final cost depends on your destination country and the shipping line you choose — express lines (DHL, FedEx) cost more, while KakoBuy's **Triangle Shipping** line bundles VAT into the shipping fee so there's nothing extra to pay on arrival. Combining multiple items into one parcel lowers the per-item shipping cost significantly, which is one of the main reasons people use an agent in the first place.
+::: details Ile kosztuje wysyłka przez KakoBuy dla AirPods?
+Dla jednej pary AirPods spodziewaj się **$7–10 USD** za wysyłkę międzynarodową. Ostateczny koszt zależy od twojego kraju docelowego i wybranej linii wysyłkowej — linie ekspresowe (DHL, FedEx) kosztują więcej, podczas gdy linia **Triangle Shipping** KakoBuy uwzględnia VAT w opłacie za wysyłkę, więc nie trzeba nic dopłacać przy odbiorze. Połączenie kilku przedmiotów w jedną paczkę obniża znacząco koszt wysyłki na przedmiot, co jest jednym z głównych powodów, dla których ludzie korzystają z agenta.
 :::
 
-::: details Does KakoBuy require KYC verification?
-No. KakoBuy uses standard payment processors that accept credit/debit cards, PayPal, Apple Pay, and Google Pay without identity verification. This is one of the main reasons buyers choose KakoBuy over paying sellers directly — some seller payment gateways trigger KYC checks for credit card payments, and KakoBuy avoids that entirely.
+::: details Czy KakoBuy wymaga weryfikacji KYC?
+Nie. KakoBuy korzysta ze standardowych procesorów płatności, które akceptują karty kredytowe/debetowe, PayPal, Apple Pay i Google Pay bez weryfikacji tożsamości. To jeden z głównych powodów, dla których kupujący wybierają KakoBuy zamiast płacić sprzedawcom bezpośrednio — niektóre bramki płatnicze sprzedawców uruchamiają kontrolę KYC przy płatnościach kartą, a KakoBuy tego całkowicie unika.
 :::
 
-::: details How does KakoBuy compare to Superbuy, CSSBuy, or Sugargoo?
-All four are Chinese shopping agents that do the same core job — purchase, warehouse, QC, and ship. KakoBuy is the AirReps recommendation for AirPods replicas because its payment flow doesn't trigger KYC, its UI handles Weidian links cleanly, and our [sekcji linków](/pl/links/info) has direct KakoBuy buttons for every trusted seller. **Superbuy** is larger and more established but has higher service fees and stricter verification on some payment methods. **CSSBuy** is older with a dated UI and occasionally requires phone verification. **Sugargoo** is popular for fashion buyers but doesn't offer a meaningful advantage for AirPods.
+::: details Jak KakoBuy wypada w porównaniu do Superbuy, CSSBuy lub Sugargoo?
+Wszystkie cztery to chińscy agenci zakupowi wykonujący te same podstawowe zadania — zakup, magazynowanie, QC i wysyłka. KakoBuy to rekomendacja AirReps dla replik AirPods, ponieważ jego proces płatności nie uruchamia KYC, interfejs obsługuje linki Weidian sprawnie, a nasza sekcja [Linki](/pl/links/info) ma bezpośrednie przyciski KakoBuy dla każdego zaufanego sprzedawcy. **Superbuy** jest większy i bardziej ugruntowany, ale ma wyższe opłaty serwisowe i surowszą weryfikację dla niektórych metod płatności. **CSSBuy** jest starszy, z przestarzałym interfejsem i czasami wymaga weryfikacji telefonicznej. **Sugargoo** jest popularny wśród kupujących modę, ale nie daje istotnej przewagi przy AirPods. Dla porównania opłata po opłacie tych trzech zobacz [KakoBuy vs Superbuy vs Sugargoo](https://kakoguide.com/guides/kakobuy-vs-superbuy-vs-sugargoo).
 :::
 
-::: details Will I be charged customs fees or VAT on a KakoBuy order?
-For most buyers, no. KakoBuy's **Triangle Shipping** lines declare a low parcel value and pay any VAT upfront on your behalf, so you don't get hit with a customs bill on arrival. This is the line most AirReps buyers use — it bundles the import taxes into the shipping fee, and you pay nothing extra when the parcel reaches your country. If you choose a non-Triangle shipping line, customs handling falls back to your country's standard rules and you may need to pay VAT yourself on delivery.
+::: details Czy zostanę obciążony opłatami celnymi lub VAT przy zamówieniu przez KakoBuy?
+Dla większości kupujących nie. Linie **Triangle Shipping** KakoBuy deklarują niską wartość przesyłki i opłacają VAT z góry w twoim imieniu, więc nie dostaniesz rachunku celnego przy odbiorze. To linia używana przez większość kupujących AirReps — łączy podatki importowe z opłatą za wysyłkę i nie płacisz nic dodatkowego po dotarciu paczki do twojego kraju. Jeśli wybierzesz linię wysyłkową inną niż Triangle, obsługa celna podlega standardowym zasadom twojego kraju i może być konieczne samodzielne opłacenie VAT przy dostawie. [Wyjaśnienie wysyłki i VAT KakoBuy](https://kakoguide.com/guides/kakobuy-shipping-vat-explained) opisuje, jak system deklarowanej wartości działa w poszczególnych regionach.
 :::
 
-::: details Can I cancel or modify a KakoBuy order?
-Yes, as long as the seller hasn't shipped to the KakoBuy warehouse yet. Go to **Centrum użytkownika** → **Zamówienia** and request cancellation or modification — KakoBuy will contact the seller on your behalf. Once the seller has shipped, you generally can't cancel, but you can still refuse the item after QC if it's the wrong model or defective, and KakoBuy will handle the return with the seller.
+::: details Czy mogę anulować lub zmodyfikować zamówienie w KakoBuy?
+Tak, o ile sprzedawca jeszcze nie wysłał do magazynu KakoBuy. Przejdź do **Centrum użytkownika** → **Zamówienia** i poproś o anulowanie lub modyfikację — KakoBuy skontaktuje się ze sprzedawcą w twoim imieniu. Gdy sprzedawca już wysłał, zazwyczaj nie można anulować, ale nadal możesz odmówić przyjęcia przedmiotu po QC, jeśli to zły model lub wadliwy, a KakoBuy zajmie się zwrotem ze sprzedawcą.
 :::
