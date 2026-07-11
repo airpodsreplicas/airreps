@@ -35,7 +35,7 @@ Viele vertrauenswürdige Verkäufer akzeptieren jetzt Alipay, was einfache Karte
 
 **So zahlen Sie:** Geben Sie Ihre Bestellung auf, wählen Sie Alipay und scannen Sie dann den angezeigten QR-Code mit der Alipay-App, um die Zahlung abzuschließen.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
 
 
 

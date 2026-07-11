@@ -35,7 +35,7 @@ Birçok güvenilir satıcı artık Alipay kabul ediyor; bu, KYC doğrulaması ol
 
 **Ödemek için:** Siparişinizi verin, Alipay'i seçin, ardından ödeme işlemini tamamlamak için Alipay uygulamasıyla gösterilen QR kodu tarayın.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
 
 
 

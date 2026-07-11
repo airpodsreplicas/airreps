@@ -35,7 +35,7 @@ De nombreux vendeurs de confiance acceptent désormais Alipay, permettant des pa
 
 **Pour payer :** passez votre commande, sélectionnez Alipay, puis scannez le code QR affiché avec l'application Alipay pour finaliser le paiement.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QTtptEJPIWs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
 
 
 
