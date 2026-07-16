@@ -71,3 +71,56 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  indexnow:
+    # Ping IndexNow with the pages changed in this push so Bing-family engines
+    # (Bing/Copilot/ChatGPT search, Yandex, etc.) recrawl them quickly.
+    # Google does not use IndexNow. The key is public by design; it must match
+    # docs/public/<key>.txt served at the site root.
+    if: github.event_name == 'push'
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Submit changed URLs to IndexNow
+        env:
+          INDEXNOW_KEY: 4c037b783fbf7d87c71f574bef22136f
+          HOST: airpodsreplicas.com
+        run: |
+          BEFORE="${{ github.event.before }}"
+          # Force pushes and new branches have a null/unknown before SHA;
+          # fall back to just the head commit's changes.
+          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then
+            BEFORE="${{ github.sha }}^"
+          fi
+          # Map changed markdown pages to their cleanUrls form: index.md becomes
+          # the directory URL (trailing slash, matching sitemap canonicals),
+          # other pages drop the .md extension. Deleted pages are submitted too —
+          # IndexNow recrawls them and drops them from the index.
+          urls=$(git diff --name-only "$BEFORE" "${{ github.sha }}" -- docs/ \
+            | grep '\.md$' \
+            | grep -v -e '^docs/\.vitepress/' -e '^docs/public/' \
+            | sed -E "s|^docs/||; s|index\.md$||; s|\.md$||; s|^|https://$HOST/|" \
+            | sort -u)
+          if [ -z "$urls" ]; then
+            echo "No doc pages changed; skipping IndexNow ping."
+            exit 0
+          fi
+          echo "Submitting $(printf '%s\n' "$urls" | wc -l | tr -d ' ') URL(s) to IndexNow:"
+          printf '%s\n' "$urls"
+          payload=$(printf '%s\n' "$urls" | jq -R . | jq -s --arg host "$HOST" --arg key "$INDEXNOW_KEY" \
+            '{host: $host, key: $key, keyLocation: "https://\($host)/\($key).txt", urlList: .}')
+          status=$(curl -sS -o /tmp/indexnow-response.txt -w '%{http_code}' \
+            -X POST 'https://api.indexnow.org/indexnow' \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            -d "$payload")
+          echo "IndexNow response: HTTP $status"
+          cat /tmp/indexnow-response.txt || true
+          # 200 = OK, 202 = accepted (key validation pending)
+          if [ "$status" != "200" ] && [ "$status" != "202" ]; then
+            exit 1
+          fi
