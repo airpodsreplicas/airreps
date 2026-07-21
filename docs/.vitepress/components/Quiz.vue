@@ -1474,7 +1474,7 @@ const product = computed<ProductRec | null>(() => {
                 'Adds heart rate sensor, head gestures, AI Hybrid ANC, low-latency gaming mode',
                 'iCloud Connect, Live Translation, iOS 26 support',
                 'Early release — check the version page for current community sentiment before buying',
-                `Also consider: Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — keeps the heart rate sensor & Live Translation for less`,
+                `Also consider: Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — even better ANC & working spatial audio for less, but its heart rate sensor is inaccurate`,
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
