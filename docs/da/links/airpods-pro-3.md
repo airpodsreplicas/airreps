@@ -1,12 +1,12 @@
 ---
 title: 'Køb AirPods Pro 3 Replikaer: Sælgerlinks'
-description: 'Find AirPods Pro 3 replika-versioner (V7, V6, V5.5) og pålidelige sælgerlinks fra verificerede AirReps-sælgere.'
+description: 'Find AirPods Pro 3 replikaer (V7, SE, V6, V5.5) og pålidelige sælgerlinks fra verificerede AirReps-sælgere.'
 ---
-# Køb AirPods Pro 3-replikker
+# Køb AirPods Pro 3-replikaer
 
-AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i forskellige prisklasser. Se [AirPods Pro 3 versionsinfo](/da/version-info/airpods-pro-3) for hvad hver version tilføjer, eller tag [quizen](/da/quiz).
+AirPods Pro 3-replikaer er den nyeste in-ear-model med de seneste funktioner i forskellige prisklasser. Se [AirPods Pro 3 versionsinfo](/da/version-info/airpods-pro-3) for, hvad hver version tilføjer, eller tag [quizzen](/da/quiz).
 
-## Versioner og forhandlere
+## Versioner og sælgere
 
 <table>
   <tr>
@@ -33,6 +33,17 @@ AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i f
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov7hl">Hjemmeside</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">SE</span></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/jpro3se">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -108,5 +119,5 @@ AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i f
 
 
 ::: tip
-At vælge et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
+Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::
