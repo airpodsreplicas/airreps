@@ -1,6 +1,6 @@
 ---
 title: "Buy AirPods Pro 3 Replicas: Seller Links"
-description: "Find AirPods Pro 3 replica versions (V7, V6, V5.5) and trusted seller links from verified AirReps sellers."
+description: "Find AirPods Pro 3 replica versions (V7, SE, V6, V5.5) and trusted seller links from verified AirReps sellers."
 ---
 
 # Buy AirPods Pro 3 Replicas
@@ -34,6 +34,17 @@ AirPods Pro 3 replicas are the newest in-ear model, with the latest features at 
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov7hl">Website</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">SE</span></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/jpro3se">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>

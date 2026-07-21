@@ -1058,8 +1058,9 @@ const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: 
     },
 };
 
-// --- Pricing data (from earhive.com/store) ---
+// --- Pricing data (from earhive.com/store; Jenny-exclusives from jenny.airreps.info) ---
 const prices: Record<string, number> = {
+    'pro3-se': 48,
     'pro2-v5.4-huilian': 58,
     'pro2-v5.3-tb': 55,
     'pro2-v5.3-huilian': 56,
@@ -1473,6 +1474,7 @@ const product = computed<ProductRec | null>(() => {
                 'Adds heart rate sensor, head gestures, AI Hybrid ANC, low-latency gaming mode',
                 'iCloud Connect, Live Translation, iOS 26 support',
                 'Early release — check the version page for current community sentiment before buying',
+                `Also consider: Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — keeps the heart rate sensor & Live Translation for less`,
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
