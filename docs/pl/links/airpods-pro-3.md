@@ -1,10 +1,10 @@
 ---
 title: 'Kup Repliki AirPods Pro 3: Linki Sprzedawców'
-description: 'Znajdź wersje replik AirPods Pro 3 (V7, V6, V5.5) oraz zaufane linki od zweryfikowanych sprzedawców AirReps.'
+description: 'Znajdź wersje replik AirPods Pro 3 (V7, SE, V6, V5.5) oraz zaufane linki do sprzedawców zweryfikowanych przez AirReps.'
 ---
 # Kup repliki AirPods Pro 3
 
-Repliki AirPods Pro 3 są najnowszym modelem dousznym, z najnowszymi funkcjami w różnych przedziałach cenowych. Zobacz [informacje o wersjach AirPods Pro 3](/pl/version-info/airpods-pro-3), aby dowiedzieć się, co dodaje każda wersja, lub zrób [quiz](/pl/quiz).
+Repliki AirPods Pro 3 to najnowszy model douszny, oferujący najnowsze funkcje w różnych przedziałach cenowych. Zobacz [informacje o wersjach AirPods Pro 3](/pl/version-info/airpods-pro-3), aby dowiedzieć się, co dodaje każda wersja, lub zrób [quiz](/pl/quiz).
 
 ## Wersje i sprzedawcy
 
@@ -33,6 +33,17 @@ Repliki AirPods Pro 3 są najnowszym modelem dousznym, z najnowszymi funkcjami w
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov7hl">Strona</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">SE</span></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/jpro3se">Strona</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -108,5 +119,5 @@ Repliki AirPods Pro 3 są najnowszym modelem dousznym, z najnowszymi funkcjami w
 
 
 ::: tip
-Wybór linku Weidian wymaga użycia agenta do wysyłki. Zalecamy tę opcję tylko wtedy, gdy chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz się na platformach dla agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Jesteś nowy w korzystaniu z agentów? Sprawdź nasz [poradnik zamawiania KakoBuy](/pl/ordering/kakobuy).
+Wybór linku Weidian wymaga użycia agenta wysyłkowego. Zalecamy tę opcję tylko, jeśli chcesz scalić wysyłkę z innymi przedmiotami i masz doświadczenie w korzystaniu z platform agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy).
 :::

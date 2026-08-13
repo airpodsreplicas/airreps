@@ -1,10 +1,10 @@
 ---
-title: 'Acheter Des Répliques AirPods Pro 3 : Liens Des Vendeurs'
-description: 'Trouvez des versions répliques d''AirPods Pro 3 (V7, V6, V5.5) et des liens fiables vers des vendeurs AirReps vérifiés.'
+title: 'Acheter des Répliques d''AirPods Pro 3 : Liens des Vendeurs'
+description: 'Trouvez des versions répliques d''AirPods Pro 3 (V7, SE, V6, V5.5) et des liens vers des vendeurs de confiance vérifiés par AirReps.'
 ---
 # Acheter des répliques d'AirPods Pro 3
 
-Les répliques d'AirPods Pro 3 sont le dernier modèle intra-auriculaire, offrant les fonctionnalités les plus récentes à différents niveaux de prix. Consultez les [informations sur les versions d'AirPods Pro 3](/fr/version-info/airpods-pro-3) pour savoir ce que chaque version apporte, ou faites le [quiz](/fr/quiz).
+Les répliques d'AirPods Pro 3 sont le modèle intra-auriculaire le plus récent, avec les dernières fonctionnalités à différents niveaux de prix. Consultez les [informations sur les versions d'AirPods Pro 3](/fr/version-info/airpods-pro-3) pour savoir ce que chaque version apporte, ou faites le [quiz](/fr/quiz).
 
 ## Versions et vendeurs
 
@@ -33,6 +33,17 @@ Les répliques d'AirPods Pro 3 sont le dernier modèle intra-auriculaire, offran
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov7hl">Site web</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">SE</span></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/jpro3se">Site web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -108,5 +119,5 @@ Les répliques d'AirPods Pro 3 sont le dernier modèle intra-auriculaire, offran
 
 
 ::: tip
-Choisir un lien Weidian nécessite l’utilisation d’un agent pour l’expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l’expédition avec d’autres articles et que vous connaissez les plateformes d’agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Vous débutez avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
+Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez regrouper l'expédition avec d'autres articles et si vous êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Vous débutez avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
 :::
