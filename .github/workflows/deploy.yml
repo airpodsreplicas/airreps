@@ -51,6 +51,14 @@ jobs:
 
       - name: Build VitePress site
         run: bun run docs:build
+        env:
+          # Algolia search config is baked into the HTML at build time
+          # (docs/.vitepress/config.ts reads these from process.env).
+          APP_ID: ${{ secrets.APP_ID }}
+          API_KEY: ${{ secrets.API_KEY }}
+          INDEX_NAME: ${{ secrets.INDEX_NAME }}
+          ASSISTANT_ID: ${{ secrets.ASSISTANT_ID }}
+          ASSISTANT_INDEX_NAME: ${{ secrets.ASSISTANT_INDEX_NAME }}
 
       - name: List build directory contents
         run: ls -la docs/.vitepress/dist
