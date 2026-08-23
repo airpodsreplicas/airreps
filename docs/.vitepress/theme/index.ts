@@ -41,7 +41,7 @@ export default {
                     return within;
                 }
                 let node: Element | null = start;
-                for (let depth = 0; node && depth < 4; depth++) {
+                for (let depth = 0; node && depth < 4; depth += 1) {
                     const sib = node.nextElementSibling;
                     if (sib instanceof HTMLDetailsElement) {
                         return sib;

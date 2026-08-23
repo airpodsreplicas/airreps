@@ -31,7 +31,6 @@ const redirectHTML = (to: string) => `<!DOCTYPE html>
 
 export function redirectPlugin(): Plugin {
     return {
-        name: 'vitepress-redirect',
         configureServer(server) {
             server.middlewares.use((req, res, next) => {
                 const url = req.url?.split('?')[0] || '';
@@ -48,6 +47,7 @@ export function redirectPlugin(): Plugin {
                 next();
             });
         },
+        name: 'vitepress-redirect',
         writeBundle(options) {
             // Write redirect files after bundle is written. VitePress runs this
             // plugin for both the client and SSR builds — skip the throwaway SSR

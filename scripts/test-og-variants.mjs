@@ -131,46 +131,46 @@ async function generateOgImage(title, description, outFile, gradientStyle) {
     `;
 
     const svg = await satori(markup, {
-        width,
-        height,
         fonts: [
             {
-                name: 'Inter',
                 data: fontData,
-                weight: 700,
-                style: 'normal',
-            },
-            {
                 name: 'Inter',
+                style: 'normal',
+                weight: 700,
+            },
+            {
                 data: fontRegularData,
-                weight: 400,
+                name: 'Inter',
                 style: 'normal',
+                weight: 400,
             },
             {
-                name: 'InterLatinExt',
                 data: fontLatinExtData,
-                weight: 700,
-                style: 'normal',
-            },
-            {
                 name: 'InterLatinExt',
-                data: fontLatinExtRegularData,
-                weight: 400,
                 style: 'normal',
-            },
-            {
-                name: 'InterCyrillic',
-                data: fontCyrillicData,
                 weight: 700,
-                style: 'normal',
             },
             {
-                name: 'InterCyrillic',
-                data: fontCyrillicRegularData,
-                weight: 400,
+                data: fontLatinExtRegularData,
+                name: 'InterLatinExt',
                 style: 'normal',
+                weight: 400,
+            },
+            {
+                data: fontCyrillicData,
+                name: 'InterCyrillic',
+                style: 'normal',
+                weight: 700,
+            },
+            {
+                data: fontCyrillicRegularData,
+                name: 'InterCyrillic',
+                style: 'normal',
+                weight: 400,
             },
         ],
+        height,
+        width,
     });
 
     const resvg = new Resvg(svg);

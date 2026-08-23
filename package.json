@@ -19,17 +19,17 @@
     "lint:fix": "biome check --write --unsafe --no-errors-on-unmatched --files-ignore-unknown=true docs scripts"
   },
   "dependencies": {
-    "vitepress": "^2.0.0-alpha.16"
+    "vitepress": "^2.0.0-alpha.19"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.4",
+    "@biomejs/biome": "^2.5.10",
     "@resvg/resvg-js": "^2.6.2",
-    "fs-extra": "^11.3.3",
+    "fs-extra": "^11.4.0",
     "gray-matter": "^4.0.3",
     "image-size": "^2.0.2",
-    "openai": "^6.22.0",
-    "satori": "^0.26.0",
+    "openai": "^7.5.0",
+    "satori": "^0.33.3",
     "satori-html": "^0.3.2",
-    "ultracite": "^7.2.3"
+    "ultracite": "^7.10.6"
   }
 }

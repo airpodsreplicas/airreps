@@ -153,46 +153,46 @@ async function generateOgImage(title, description, outFile, label = 'GUIDE') {
     `;
 
     const svg = await satori(unescapeTextNodes(markup), {
-        width,
-        height,
         fonts: [
             {
-                name: 'Inter',
                 data: fontData,
-                weight: 700,
-                style: 'normal',
-            },
-            {
                 name: 'Inter',
+                style: 'normal',
+                weight: 700,
+            },
+            {
                 data: fontRegularData,
-                weight: 400,
+                name: 'Inter',
                 style: 'normal',
+                weight: 400,
             },
             {
-                name: 'InterLatinExt',
                 data: fontLatinExtData,
-                weight: 700,
-                style: 'normal',
-            },
-            {
                 name: 'InterLatinExt',
-                data: fontLatinExtRegularData,
-                weight: 400,
                 style: 'normal',
-            },
-            {
-                name: 'InterCyrillic',
-                data: fontCyrillicData,
                 weight: 700,
-                style: 'normal',
             },
             {
-                name: 'InterCyrillic',
-                data: fontCyrillicRegularData,
-                weight: 400,
+                data: fontLatinExtRegularData,
+                name: 'InterLatinExt',
                 style: 'normal',
+                weight: 400,
+            },
+            {
+                data: fontCyrillicData,
+                name: 'InterCyrillic',
+                style: 'normal',
+                weight: 700,
+            },
+            {
+                data: fontCyrillicRegularData,
+                name: 'InterCyrillic',
+                style: 'normal',
+                weight: 400,
             },
         ],
+        height,
+        width,
     });
 
     const resvg = new Resvg(svg);
@@ -227,57 +227,64 @@ async function main() {
 
     const files = getAllFiles(docsDir);
 
-    for (const file of files) {
-        const content = fs.readFileSync(file, 'utf-8');
-        const { data, content: markdownBody } = matter(content);
+    await Promise.all(
+        files.map(async (file) => {
+            const content = fs.readFileSync(file, 'utf-8');
+            const { data, content: markdownBody } = matter(content);
 
-        let title = data.title;
+            let { title } = data;
 
-        // If title is missing in frontmatter, try to find the first H1
-        if (!title) {
-            const h1Match = markdownBody.match(/^#\s+(.*$)/m);
-            if (h1Match) {
-                title = h1Match[1];
+            // If title is missing in frontmatter, try to find the first H1
+            if (!title) {
+                const h1Match = markdownBody.match(/^#\s+(.*$)/m);
+                if (h1Match) {
+                    const [, h1Title] = h1Match;
+                    title = h1Title;
+                }
             }
-        }
 
-        if (!title) {
-            continue; // Skip files without title
-        }
+            if (!title) {
+                return; // Skip files without title
+            }
 
-        // Clean title (remove markdown like ** **)
-        title = title.replace(/\*\*/g, '').replace(/__/g, '').replace(/\*/g, '').replace(/_/g, '');
+            // Clean title (remove markdown like ** **)
+            title = title
+                .replace(/\*\*/g, '')
+                .replace(/__/g, '')
+                .replace(/\*/g, '')
+                .replace(/_/g, '');
 
-        // Decode simple HTML entities in title
-        title = title
-            .replace(/&amp;/g, '&')
-            .replace(/&lt;/g, '<')
-            .replace(/&gt;/g, '>')
-            .replace(/&quot;/g, '"')
-            .replace(/&#39;/g, "'");
+            // Decode simple HTML entities in title
+            title = title
+                .replace(/&amp;/g, '&')
+                .replace(/&lt;/g, '<')
+                .replace(/&gt;/g, '>')
+                .replace(/&quot;/g, '"')
+                .replace(/&#39;/g, "'");
 
-        // Calculate relative path for filename
-        // e.g. docs/introduction/overview.md -> introduction/overview
-        // e.g. docs/es/introduction/overview.md -> es/introduction/overview
-        const relPath = path.relative(docsDir, file).replace(/\.md$/, '');
+            // Calculate relative path for filename
+            // e.g. docs/introduction/overview.md -> introduction/overview
+            // e.g. docs/es/introduction/overview.md -> es/introduction/overview
+            const relPath = path.relative(docsDir, file).replace(/\.md$/, '');
 
-        const outFilePath = path.join(outDir, `${relPath}.png`);
-        fs.ensureDirSync(path.dirname(outFilePath));
+            const outFilePath = path.join(outDir, `${relPath}.png`);
+            fs.ensureDirSync(path.dirname(outFilePath));
 
-        // Description is now manually shortened in frontmatter
-        const description = data.description || '';
+            // Description is now manually shortened in frontmatter
+            const description = data.description || '';
 
-        const label = data.ogLabel || 'GUIDE';
-        try {
-            await generateOgImage(title, description, outFilePath, label);
-        } catch (err) {
-            // Keep going so one bad page doesn't hide errors in the rest,
-            // but fail the build — a silent partial run would deploy pages
-            // whose meta tags point at missing/outdated OG images.
-            console.error(`[generate-og] Failed for ${relPath}: ${err.message}`);
-            process.exitCode = 1;
-        }
-    }
+            const label = data.ogLabel || 'GUIDE';
+            try {
+                await generateOgImage(title, description, outFilePath, label);
+            } catch (err) {
+                // Keep going so one bad page doesn't hide errors in the rest,
+                // but fail the build — a silent partial run would deploy pages
+                // whose meta tags point at missing/outdated OG images.
+                console.error(`[generate-og] Failed for ${relPath}: ${err.message}`);
+                process.exitCode = 1;
+            }
+        })
+    );
 }
 
 main().catch((err) => {

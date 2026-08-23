@@ -23,13 +23,14 @@ function getImageDimensions(src: string): { w: number; h: number } | null {
     }
     let dims: { w: number; h: number } | null = null;
     if (src.startsWith('/') && !src.startsWith('//')) {
-        const clean = src.split('?')[0].split('#')[0];
+        const [withoutQuery] = src.split('?');
+        const [clean] = withoutQuery.split('#');
         try {
             const { width, height } = imageSize(
                 fs.readFileSync(path.join(docsDir, 'public', clean))
             );
             if (width && height) {
-                dims = { w: width, h: height };
+                dims = { h: height, w: width };
             }
         } catch {
             dims = null;
@@ -101,7 +102,7 @@ function extractFaqsFromMarkdown(absPath: string): Array<{ q: string; a: string 
                 .replace(/\s+/g, ' ')
                 .trim();
             if (body) {
-                faqs.push({ q: title, a: body });
+                faqs.push({ a: body, q: title });
             }
         }
         match = regex.exec(content);
@@ -150,161 +151,161 @@ function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
 
     return [
         {
-            text: t.sidebar.ultimateGuide,
             collapsed: false,
             items: [
                 {
-                    text: t.sidebar.overview,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/overview`,
+                    text: t.sidebar.overview,
                 },
                 {
-                    text: t.sidebar.sellers,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/sellers`,
+                    text: t.sidebar.sellers,
                 },
                 {
-                    text: t.sidebar.packaging,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/packaging`,
+                    text: t.sidebar.packaging,
                 },
                 {
-                    text: t.sidebar.connectivity,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/connectivity`,
+                    text: t.sidebar.connectivity,
                 },
                 {
-                    text: t.sidebar.batteryLife,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/battery-life`,
+                    text: t.sidebar.batteryLife,
                 },
                 {
-                    text: t.sidebar.features,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/features`,
+                    text: t.sidebar.features,
                 },
                 {
-                    text: t.sidebar.ancExplained,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/anc-explained`,
+                    text: t.sidebar.ancExplained,
                 },
                 {
-                    text: t.sidebar.buildQuality,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/build-quality`,
+                    text: t.sidebar.buildQuality,
                 },
                 {
-                    text: t.sidebar.soundQuality,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/sound-quality`,
+                    text: t.sidebar.soundQuality,
                 },
                 {
-                    text: t.sidebar.dictionary,
                     link: `${lang === 'en' ? '' : `/${lang}`}/introduction/dictionary`,
+                    text: t.sidebar.dictionary,
                 },
             ],
+            text: t.sidebar.ultimateGuide,
         },
         {
-            text: t.sidebar.versionInfo,
             collapsed: true,
             items: [
                 {
-                    text: t.sidebar.general,
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/general`,
+                    text: t.sidebar.general,
                 },
                 {
-                    text: 'AirPods 2',
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-2`,
+                    text: 'AirPods 2',
                 },
                 {
-                    text: 'AirPods 3',
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-3`,
+                    text: 'AirPods 3',
                 },
                 {
-                    text: 'AirPods 4',
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-4`,
+                    text: 'AirPods 4',
                 },
                 {
-                    text: 'AirPods Pro',
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-pro`,
+                    text: 'AirPods Pro',
                 },
                 {
-                    text: 'AirPods Pro 2',
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-pro-2`,
+                    text: 'AirPods Pro 2',
                 },
                 {
-                    text: 'AirPods Pro 3',
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-pro-3`,
+                    text: 'AirPods Pro 3',
                 },
                 {
-                    text: 'AirPods Max',
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-max`,
+                    text: 'AirPods Max',
                 },
             ],
+            text: t.sidebar.versionInfo,
         },
         {
-            text: t.sidebar.ordering,
             collapsed: true,
             items: [
                 {
-                    text: t.sidebar.howToBuy,
                     link: `${lang === 'en' ? '' : `/${lang}`}/ordering/how-to-buy`,
+                    text: t.sidebar.howToBuy,
                 },
                 {
-                    text: t.sidebar.kakobuy,
                     link: `${lang === 'en' ? '' : `/${lang}`}/ordering/kakobuy`,
+                    text: t.sidebar.kakobuy,
                 },
-                { text: t.sidebar.qcLc, link: `${lang === 'en' ? '' : `/${lang}`}/ordering/qc-lc` },
+                { link: `${lang === 'en' ? '' : `/${lang}`}/ordering/qc-lc`, text: t.sidebar.qcLc },
             ],
+            text: t.sidebar.ordering,
         },
         {
-            text: t.sidebar.links,
             collapsed: false,
             items: [
-                { text: t.sidebar.info, link: `${lang === 'en' ? '' : `/${lang}`}/links/info` },
-                { text: 'AirPods 2', link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-2` },
-                { text: 'AirPods 3', link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-3` },
-                { text: 'AirPods 4', link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-4` },
+                { link: `${lang === 'en' ? '' : `/${lang}`}/links/info`, text: t.sidebar.info },
+                { link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-2`, text: 'AirPods 2' },
+                { link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-3`, text: 'AirPods 3' },
+                { link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-4`, text: 'AirPods 4' },
                 {
-                    text: 'AirPods Pro',
                     link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-pro`,
+                    text: 'AirPods Pro',
                 },
                 {
-                    text: 'AirPods Pro 2',
                     link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-pro-2`,
+                    text: 'AirPods Pro 2',
                 },
                 {
-                    text: 'AirPods Pro 3',
                     link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-pro-3`,
+                    text: 'AirPods Pro 3',
                 },
                 {
-                    text: 'AirPods Max',
                     link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-max`,
+                    text: 'AirPods Max',
                 },
             ],
+            text: t.sidebar.links,
         },
         {
-            text: t.sidebar.troubleshooting,
             collapsed: true,
             items: [
                 {
-                    text: t.sidebar.icloudIncompatibility,
                     link: `${lang === 'en' ? '' : `/${lang}`}/troubleshooting/AirReps-Incompatibility-with-iCloud`,
+                    text: t.sidebar.icloudIncompatibility,
                 },
                 {
-                    text: t.sidebar.otherBugs,
                     link: `${lang === 'en' ? '' : `/${lang}`}/troubleshooting/other-common-bugs`,
+                    text: t.sidebar.otherBugs,
                 },
                 {
-                    text: t.sidebar.macosVolume,
                     link: `${lang === 'en' ? '' : `/${lang}`}/troubleshooting/macOS-volume-slider-fixup`,
+                    text: t.sidebar.macosVolume,
                 },
             ],
+            text: t.sidebar.troubleshooting,
         },
         {
             items: [
                 {
-                    text: t.sidebar.usefulApps,
                     link: `${lang === 'en' ? '' : `/${lang}`}/useful-apps`,
+                    text: t.sidebar.usefulApps,
                 },
             ],
         },
         {
             items: [
                 {
-                    text: t.sidebar.contributing,
                     link: `${lang === 'en' ? '' : `/${lang}`}/contributing`,
+                    text: t.sidebar.contributing,
                 },
             ],
         },
@@ -316,10 +317,10 @@ function getNav(lang: string): DefaultTheme.NavItem[] {
     const prefix = lang === 'en' ? '' : `/${lang}`;
 
     return [
-        { text: t.nav.home, link: `${prefix}/` },
-        { text: t.nav.ultimateGuide, link: `${prefix}/introduction/overview` },
-        { text: t.nav.quiz, link: `${prefix}/quiz` },
-        { text: t.nav.links, link: `${prefix}/links/info` },
+        { link: `${prefix}/`, text: t.nav.home },
+        { link: `${prefix}/introduction/overview`, text: t.nav.ultimateGuide },
+        { link: `${prefix}/quiz`, text: t.nav.quiz },
+        { link: `${prefix}/links/info`, text: t.nav.links },
     ];
 }
 
@@ -359,340 +360,340 @@ const translations: Record<
         editLink: string;
     }
 > = {
-    en: {
-        nav: { home: 'Home', ultimateGuide: 'Ultimate Guide', links: 'Links', quiz: 'Quiz' },
-        sidebar: {
-            ultimateGuide: 'Ultimate Guide',
-            overview: 'Overview',
-            sellers: 'Sellers',
-            packaging: 'Packaging',
-            connectivity: 'Connectivity',
-            batteryLife: 'Battery Life',
-            features: 'Features',
-            ancExplained: 'ANC Explained',
-            buildQuality: 'Build Quality',
-            soundQuality: 'Sound Quality',
-            dictionary: 'Dictionary',
-            versionInfo: 'Version Info',
-            general: 'General',
-            ordering: 'Ordering',
-            howToBuy: 'How to buy',
-            kakobuy: 'KakoBuy Guide',
-            qcLc: 'QC & LC',
-            links: 'Links',
-            info: 'Info',
-            troubleshooting: 'Troubleshooting',
-            icloudIncompatibility: 'AirReps Incompatibility with iCloud',
-            otherBugs: 'Other Common Bugs',
-            macosVolume: 'Volume Slider is Ineffective on MacOS',
-            usefulApps: 'Useful Apps',
-            contributing: 'Contributing',
-        },
-        footer: {
-            message: 'Released under the GPLv3 License.',
-            copyright: `© Copyright ${new Date().getFullYear()} AirReps. All Rights Reserved.`,
-        },
-        editLink: 'Edit this page on GitHub',
-    },
-    pt: {
-        nav: { home: 'Início', ultimateGuide: 'Guia Definitivo', links: 'Links', quiz: 'Quiz' },
-        sidebar: {
-            ultimateGuide: 'Guia Definitivo',
-            overview: 'Visão Geral',
-            sellers: 'Vendedores',
-            packaging: 'Embalagem',
-            connectivity: 'Conectividade',
-            batteryLife: 'Duração da Bateria',
-            features: 'Recursos',
-            ancExplained: 'ANC Explicado',
-            buildQuality: 'Qualidade de Construção',
-            soundQuality: 'Qualidade de Som',
-            dictionary: 'Dicionário',
-            versionInfo: 'Info de Versão',
-            general: 'Geral',
-            ordering: 'Pedidos',
-            howToBuy: 'Como Comprar',
-            kakobuy: 'Guia KakoBuy',
-            qcLc: 'QC & LC',
-            links: 'Links',
-            info: 'Info',
-            troubleshooting: 'Solução de Problemas',
-            icloudIncompatibility: 'Incompatibilidade com iCloud',
-            otherBugs: 'Outros Bugs Comuns',
-            macosVolume: 'Controle de Volume no MacOS',
-            usefulApps: 'Apps Úteis',
-            contributing: 'Contribuir',
-        },
-        footer: {
-            message: 'Lançado sob a Licença GPLv3.',
-            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Todos os Direitos Reservados.`,
-        },
-        editLink: 'Editar esta página no GitHub',
-    },
-    es: {
-        nav: { home: 'Inicio', ultimateGuide: 'Guía Definitiva', links: 'Enlaces', quiz: 'Quiz' },
-        sidebar: {
-            ultimateGuide: 'Guía Definitiva',
-            overview: 'Descripción General',
-            sellers: 'Vendedores',
-            packaging: 'Embalaje',
-            connectivity: 'Conectividad',
-            batteryLife: 'Duración de Batería',
-            features: 'Características',
-            ancExplained: 'ANC Explicado',
-            buildQuality: 'Calidad de Construcción',
-            soundQuality: 'Calidad de Sonido',
-            dictionary: 'Diccionario',
-            versionInfo: 'Info de Versión',
-            general: 'General',
-            ordering: 'Pedidos',
-            howToBuy: 'Cómo Comprar',
-            kakobuy: 'Guía KakoBuy',
-            qcLc: 'QC & LC',
-            links: 'Enlaces',
-            info: 'Info',
-            troubleshooting: 'Solución de Problemas',
-            icloudIncompatibility: 'Incompatibilidad con iCloud',
-            otherBugs: 'Otros Errores Comunes',
-            macosVolume: 'Control de Volumen en MacOS',
-            usefulApps: 'Apps Útiles',
-            contributing: 'Contribuir',
-        },
-        footer: {
-            message: 'Publicado bajo la Licencia GPLv3.',
-            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Todos los Derechos Reservados.`,
-        },
-        editLink: 'Editar esta página en GitHub',
-    },
     da: {
-        nav: { home: 'Hjem', ultimateGuide: 'Ultimativ Guide', links: 'Links', quiz: 'Quiz' },
-        sidebar: {
-            ultimateGuide: 'Ultimativ Guide',
-            overview: 'Oversigt',
-            sellers: 'Sælgere',
-            packaging: 'Emballage',
-            connectivity: 'Forbindelse',
-            batteryLife: 'Batterilevetid',
-            features: 'Funktioner',
-            ancExplained: 'ANC Forklaret',
-            buildQuality: 'Byggekvalitet',
-            soundQuality: 'Lydkvalitet',
-            dictionary: 'Ordbog',
-            versionInfo: 'Versionsinfo',
-            general: 'Generelt',
-            ordering: 'Bestilling',
-            howToBuy: 'Sådan Køber Du',
-            kakobuy: 'KakoBuy Guide',
-            qcLc: 'QC & LC',
-            links: 'Links',
-            info: 'Info',
-            troubleshooting: 'Fejlfinding',
-            icloudIncompatibility: 'iCloud Inkompatibilitet',
-            otherBugs: 'Andre Almindelige Fejl',
-            macosVolume: 'Lydstyrke på MacOS',
-            usefulApps: 'Nyttige Apps',
-            contributing: 'Bidrag',
-        },
-        footer: {
-            message: 'Udgivet under GPLv3 Licensen.',
-            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Alle Rettigheder Forbeholdes.`,
-        },
         editLink: 'Rediger denne side på GitHub',
-    },
-    fr: {
-        nav: { home: 'Accueil', ultimateGuide: 'Guide Ultime', links: 'Liens', quiz: 'Quiz' },
+        footer: {
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Alle Rettigheder Forbeholdes.`,
+            message: 'Udgivet under GPLv3 Licensen.',
+        },
+        nav: { home: 'Hjem', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Ultimativ Guide' },
         sidebar: {
-            ultimateGuide: 'Guide Ultime',
-            overview: 'Aperçu',
-            sellers: 'Vendeurs',
+            ancExplained: 'ANC Forklaret',
+            batteryLife: 'Batterilevetid',
+            buildQuality: 'Byggekvalitet',
+            connectivity: 'Forbindelse',
+            contributing: 'Bidrag',
+            dictionary: 'Ordbog',
+            features: 'Funktioner',
+            general: 'Generelt',
+            howToBuy: 'Sådan Køber Du',
+            icloudIncompatibility: 'iCloud Inkompatibilitet',
+            info: 'Info',
+            kakobuy: 'KakoBuy Guide',
+            links: 'Links',
+            macosVolume: 'Lydstyrke på MacOS',
+            ordering: 'Bestilling',
+            otherBugs: 'Andre Almindelige Fejl',
+            overview: 'Oversigt',
             packaging: 'Emballage',
-            connectivity: 'Connectivité',
-            batteryLife: 'Autonomie',
-            features: 'Fonctionnalités',
-            ancExplained: 'ANC Expliqué',
-            buildQuality: 'Qualité de Fabrication',
-            soundQuality: 'Qualité Audio',
-            dictionary: 'Dictionnaire',
-            versionInfo: 'Info Version',
-            general: 'Général',
-            ordering: 'Commandes',
-            howToBuy: 'Comment Acheter',
-            kakobuy: 'Guide KakoBuy',
             qcLc: 'QC & LC',
-            links: 'Liens',
-            info: 'Info',
-            troubleshooting: 'Dépannage',
-            icloudIncompatibility: 'Incompatibilité avec iCloud',
-            otherBugs: 'Autres Bugs Courants',
-            macosVolume: 'Volume sur MacOS',
-            usefulApps: 'Apps Utiles',
-            contributing: 'Contribuer',
+            sellers: 'Sælgere',
+            soundQuality: 'Lydkvalitet',
+            troubleshooting: 'Fejlfinding',
+            ultimateGuide: 'Ultimativ Guide',
+            usefulApps: 'Nyttige Apps',
+            versionInfo: 'Versionsinfo',
         },
-        footer: {
-            message: 'Publié sous Licence GPLv3.',
-            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Tous Droits Réservés.`,
-        },
-        editLink: 'Modifier cette page sur GitHub',
-    },
-    pl: {
-        nav: {
-            home: 'Strona główna',
-            ultimateGuide: 'Kompletny Przewodnik',
-            links: 'Linki',
-            quiz: 'Quiz',
-        },
-        sidebar: {
-            ultimateGuide: 'Kompletny Przewodnik',
-            overview: 'Przegląd',
-            sellers: 'Sprzedawcy',
-            packaging: 'Opakowanie',
-            connectivity: 'Łączność',
-            batteryLife: 'Żywotność Baterii',
-            features: 'Funkcje',
-            ancExplained: 'ANC Wyjaśnione',
-            buildQuality: 'Jakość Wykonania',
-            soundQuality: 'Jakość Dźwięku',
-            dictionary: 'Słownik',
-            versionInfo: 'Info o Wersjach',
-            general: 'Ogólne',
-            ordering: 'Zamawianie',
-            howToBuy: 'Jak Kupić',
-            kakobuy: 'Poradnik KakoBuy',
-            qcLc: 'QC & LC',
-            links: 'Linki',
-            info: 'Info',
-            troubleshooting: 'Rozwiązywanie Problemów',
-            icloudIncompatibility: 'Niekompatybilność z iCloud',
-            otherBugs: 'Inne Częste Błędy',
-            macosVolume: 'Głośność na MacOS',
-            usefulApps: 'Przydatne Aplikacje',
-            contributing: 'Współtworzenie',
-        },
-        footer: {
-            message: 'Wydane na licencji GPLv3.',
-            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Wszelkie Prawa Zastrzeżone.`,
-        },
-        editLink: 'Edytuj tę stronę na GitHub',
     },
     de: {
+        editLink: 'Diese Seite auf GitHub bearbeiten',
+        footer: {
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Alle Rechte vorbehalten.`,
+            message: 'Veröffentlicht unter der GPLv3-Lizenz.',
+        },
         nav: {
             home: 'Startseite',
-            ultimateGuide: 'Ultimativer Leitfaden',
             links: 'Links',
             quiz: 'Quiz',
-        },
-        sidebar: {
             ultimateGuide: 'Ultimativer Leitfaden',
-            overview: 'Überblick',
-            sellers: 'Verkäufer',
-            packaging: 'Verpackung',
-            connectivity: 'Konnektivität',
-            batteryLife: 'Akkulaufzeit',
-            features: 'Funktionen',
-            ancExplained: 'ANC Erklärt',
-            buildQuality: 'Verarbeitungsqualität',
-            soundQuality: 'Klangqualität',
-            dictionary: 'Wörterbuch',
-            versionInfo: 'Versionsinfo',
-            general: 'Allgemein',
-            ordering: 'Bestellung',
-            howToBuy: 'Wie man kauft',
-            kakobuy: 'KakoBuy Anleitung',
-            qcLc: 'QC & LC',
-            links: 'Links',
-            info: 'Info',
-            troubleshooting: 'Fehlerbehebung',
-            icloudIncompatibility: 'iCloud-Inkompatibilität',
-            otherBugs: 'Andere häufige Fehler',
-            macosVolume: 'Lautstärkeregler auf MacOS',
-            usefulApps: 'Nützliche Apps',
-            contributing: 'Mitwirken',
-        },
-        footer: {
-            message: 'Veröffentlicht unter der GPLv3-Lizenz.',
-            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Alle Rechte vorbehalten.`,
-        },
-        editLink: 'Diese Seite auf GitHub bearbeiten',
-    },
-    tr: {
-        nav: {
-            home: 'Ana Sayfa',
-            ultimateGuide: 'Kapsamlı Rehber',
-            links: 'Bağlantılar',
-            quiz: 'Test',
         },
         sidebar: {
-            ultimateGuide: 'Kapsamlı Rehber',
-            overview: 'Genel Bakış',
-            sellers: 'Satıcılar',
-            packaging: 'Paketleme',
-            connectivity: 'Bağlantı',
-            batteryLife: 'Pil Ömrü',
-            features: 'Özellikler',
-            ancExplained: 'ANC Açıklaması',
-            buildQuality: 'Yapı Kalitesi',
-            soundQuality: 'Ses Kalitesi',
-            dictionary: 'Sözlük',
-            versionInfo: 'Sürüm Bilgisi',
-            general: 'Genel',
-            ordering: 'Sipariş',
-            howToBuy: 'Nasıl Satın Alınır',
-            kakobuy: 'KakoBuy Rehberi',
+            ancExplained: 'ANC Erklärt',
+            batteryLife: 'Akkulaufzeit',
+            buildQuality: 'Verarbeitungsqualität',
+            connectivity: 'Konnektivität',
+            contributing: 'Mitwirken',
+            dictionary: 'Wörterbuch',
+            features: 'Funktionen',
+            general: 'Allgemein',
+            howToBuy: 'Wie man kauft',
+            icloudIncompatibility: 'iCloud-Inkompatibilität',
+            info: 'Info',
+            kakobuy: 'KakoBuy Anleitung',
+            links: 'Links',
+            macosVolume: 'Lautstärkeregler auf MacOS',
+            ordering: 'Bestellung',
+            otherBugs: 'Andere häufige Fehler',
+            overview: 'Überblick',
+            packaging: 'Verpackung',
             qcLc: 'QC & LC',
-            links: 'Bağlantılar',
-            info: 'Bilgi',
-            troubleshooting: 'Sorun Giderme',
-            icloudIncompatibility: 'iCloud Uyumsuzluğu',
-            otherBugs: 'Diğer Yaygın Hatalar',
-            macosVolume: 'MacOS Ses Kontrolü',
-            usefulApps: 'Faydalı Uygulamalar',
-            contributing: 'Katkıda Bulunma',
+            sellers: 'Verkäufer',
+            soundQuality: 'Klangqualität',
+            troubleshooting: 'Fehlerbehebung',
+            ultimateGuide: 'Ultimativer Leitfaden',
+            usefulApps: 'Nützliche Apps',
+            versionInfo: 'Versionsinfo',
         },
+    },
+    en: {
+        editLink: 'Edit this page on GitHub',
         footer: {
-            message: 'GPLv3 Lisansı altında yayınlanmıştır.',
-            copyright: `© Telif Hakkı ${new Date().getFullYear()} AirReps. Tüm Hakları Saklıdır.`,
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. All Rights Reserved.`,
+            message: 'Released under the GPLv3 License.',
         },
-        editLink: "Bu sayfayı GitHub'da düzenle",
+        nav: { home: 'Home', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Ultimate Guide' },
+        sidebar: {
+            ancExplained: 'ANC Explained',
+            batteryLife: 'Battery Life',
+            buildQuality: 'Build Quality',
+            connectivity: 'Connectivity',
+            contributing: 'Contributing',
+            dictionary: 'Dictionary',
+            features: 'Features',
+            general: 'General',
+            howToBuy: 'How to buy',
+            icloudIncompatibility: 'AirReps Incompatibility with iCloud',
+            info: 'Info',
+            kakobuy: 'KakoBuy Guide',
+            links: 'Links',
+            macosVolume: 'Volume Slider is Ineffective on MacOS',
+            ordering: 'Ordering',
+            otherBugs: 'Other Common Bugs',
+            overview: 'Overview',
+            packaging: 'Packaging',
+            qcLc: 'QC & LC',
+            sellers: 'Sellers',
+            soundQuality: 'Sound Quality',
+            troubleshooting: 'Troubleshooting',
+            ultimateGuide: 'Ultimate Guide',
+            usefulApps: 'Useful Apps',
+            versionInfo: 'Version Info',
+        },
+    },
+    es: {
+        editLink: 'Editar esta página en GitHub',
+        footer: {
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Todos los Derechos Reservados.`,
+            message: 'Publicado bajo la Licencia GPLv3.',
+        },
+        nav: { home: 'Inicio', links: 'Enlaces', quiz: 'Quiz', ultimateGuide: 'Guía Definitiva' },
+        sidebar: {
+            ancExplained: 'ANC Explicado',
+            batteryLife: 'Duración de Batería',
+            buildQuality: 'Calidad de Construcción',
+            connectivity: 'Conectividad',
+            contributing: 'Contribuir',
+            dictionary: 'Diccionario',
+            features: 'Características',
+            general: 'General',
+            howToBuy: 'Cómo Comprar',
+            icloudIncompatibility: 'Incompatibilidad con iCloud',
+            info: 'Info',
+            kakobuy: 'Guía KakoBuy',
+            links: 'Enlaces',
+            macosVolume: 'Control de Volumen en MacOS',
+            ordering: 'Pedidos',
+            otherBugs: 'Otros Errores Comunes',
+            overview: 'Descripción General',
+            packaging: 'Embalaje',
+            qcLc: 'QC & LC',
+            sellers: 'Vendedores',
+            soundQuality: 'Calidad de Sonido',
+            troubleshooting: 'Solución de Problemas',
+            ultimateGuide: 'Guía Definitiva',
+            usefulApps: 'Apps Útiles',
+            versionInfo: 'Info de Versión',
+        },
+    },
+    fr: {
+        editLink: 'Modifier cette page sur GitHub',
+        footer: {
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Tous Droits Réservés.`,
+            message: 'Publié sous Licence GPLv3.',
+        },
+        nav: { home: 'Accueil', links: 'Liens', quiz: 'Quiz', ultimateGuide: 'Guide Ultime' },
+        sidebar: {
+            ancExplained: 'ANC Expliqué',
+            batteryLife: 'Autonomie',
+            buildQuality: 'Qualité de Fabrication',
+            connectivity: 'Connectivité',
+            contributing: 'Contribuer',
+            dictionary: 'Dictionnaire',
+            features: 'Fonctionnalités',
+            general: 'Général',
+            howToBuy: 'Comment Acheter',
+            icloudIncompatibility: 'Incompatibilité avec iCloud',
+            info: 'Info',
+            kakobuy: 'Guide KakoBuy',
+            links: 'Liens',
+            macosVolume: 'Volume sur MacOS',
+            ordering: 'Commandes',
+            otherBugs: 'Autres Bugs Courants',
+            overview: 'Aperçu',
+            packaging: 'Emballage',
+            qcLc: 'QC & LC',
+            sellers: 'Vendeurs',
+            soundQuality: 'Qualité Audio',
+            troubleshooting: 'Dépannage',
+            ultimateGuide: 'Guide Ultime',
+            usefulApps: 'Apps Utiles',
+            versionInfo: 'Info Version',
+        },
+    },
+    pl: {
+        editLink: 'Edytuj tę stronę na GitHub',
+        footer: {
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Wszelkie Prawa Zastrzeżone.`,
+            message: 'Wydane na licencji GPLv3.',
+        },
+        nav: {
+            home: 'Strona główna',
+            links: 'Linki',
+            quiz: 'Quiz',
+            ultimateGuide: 'Kompletny Przewodnik',
+        },
+        sidebar: {
+            ancExplained: 'ANC Wyjaśnione',
+            batteryLife: 'Żywotność Baterii',
+            buildQuality: 'Jakość Wykonania',
+            connectivity: 'Łączność',
+            contributing: 'Współtworzenie',
+            dictionary: 'Słownik',
+            features: 'Funkcje',
+            general: 'Ogólne',
+            howToBuy: 'Jak Kupić',
+            icloudIncompatibility: 'Niekompatybilność z iCloud',
+            info: 'Info',
+            kakobuy: 'Poradnik KakoBuy',
+            links: 'Linki',
+            macosVolume: 'Głośność na MacOS',
+            ordering: 'Zamawianie',
+            otherBugs: 'Inne Częste Błędy',
+            overview: 'Przegląd',
+            packaging: 'Opakowanie',
+            qcLc: 'QC & LC',
+            sellers: 'Sprzedawcy',
+            soundQuality: 'Jakość Dźwięku',
+            troubleshooting: 'Rozwiązywanie Problemów',
+            ultimateGuide: 'Kompletny Przewodnik',
+            usefulApps: 'Przydatne Aplikacje',
+            versionInfo: 'Info o Wersjach',
+        },
+    },
+    pt: {
+        editLink: 'Editar esta página no GitHub',
+        footer: {
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Todos os Direitos Reservados.`,
+            message: 'Lançado sob a Licença GPLv3.',
+        },
+        nav: { home: 'Início', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Guia Definitivo' },
+        sidebar: {
+            ancExplained: 'ANC Explicado',
+            batteryLife: 'Duração da Bateria',
+            buildQuality: 'Qualidade de Construção',
+            connectivity: 'Conectividade',
+            contributing: 'Contribuir',
+            dictionary: 'Dicionário',
+            features: 'Recursos',
+            general: 'Geral',
+            howToBuy: 'Como Comprar',
+            icloudIncompatibility: 'Incompatibilidade com iCloud',
+            info: 'Info',
+            kakobuy: 'Guia KakoBuy',
+            links: 'Links',
+            macosVolume: 'Controle de Volume no MacOS',
+            ordering: 'Pedidos',
+            otherBugs: 'Outros Bugs Comuns',
+            overview: 'Visão Geral',
+            packaging: 'Embalagem',
+            qcLc: 'QC & LC',
+            sellers: 'Vendedores',
+            soundQuality: 'Qualidade de Som',
+            troubleshooting: 'Solução de Problemas',
+            ultimateGuide: 'Guia Definitivo',
+            usefulApps: 'Apps Úteis',
+            versionInfo: 'Info de Versão',
+        },
     },
     ru: {
+        editLink: 'Редактировать на GitHub',
+        footer: {
+            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Все Права Защищены.`,
+            message: 'Выпущено под лицензией GPLv3.',
+        },
         nav: {
             home: 'Главная',
-            ultimateGuide: 'Полное Руководство',
             links: 'Ссылки',
             quiz: 'Тест',
+            ultimateGuide: 'Полное Руководство',
         },
         sidebar: {
-            ultimateGuide: 'Полное Руководство',
-            overview: 'Обзор',
-            sellers: 'Продавцы',
-            packaging: 'Упаковка',
-            connectivity: 'Подключение',
-            batteryLife: 'Время Работы Батареи',
-            features: 'Функции',
             ancExplained: 'ANC Объяснение',
+            batteryLife: 'Время Работы Батареи',
             buildQuality: 'Качество Сборки',
-            soundQuality: 'Качество Звука',
-            dictionary: 'Словарь',
-            versionInfo: 'Информация о Версиях',
-            general: 'Общее',
-            ordering: 'Заказ',
-            howToBuy: 'Как Купить',
-            kakobuy: 'Гид по KakoBuy',
-            qcLc: 'QC и LC',
-            links: 'Ссылки',
-            info: 'Информация',
-            troubleshooting: 'Устранение Неполадок',
-            icloudIncompatibility: 'Несовместимость с iCloud',
-            otherBugs: 'Другие Частые Ошибки',
-            macosVolume: 'Громкость на MacOS',
-            usefulApps: 'Полезные Приложения',
+            connectivity: 'Подключение',
             contributing: 'Участие',
+            dictionary: 'Словарь',
+            features: 'Функции',
+            general: 'Общее',
+            howToBuy: 'Как Купить',
+            icloudIncompatibility: 'Несовместимость с iCloud',
+            info: 'Информация',
+            kakobuy: 'Гид по KakoBuy',
+            links: 'Ссылки',
+            macosVolume: 'Громкость на MacOS',
+            ordering: 'Заказ',
+            otherBugs: 'Другие Частые Ошибки',
+            overview: 'Обзор',
+            packaging: 'Упаковка',
+            qcLc: 'QC и LC',
+            sellers: 'Продавцы',
+            soundQuality: 'Качество Звука',
+            troubleshooting: 'Устранение Неполадок',
+            ultimateGuide: 'Полное Руководство',
+            usefulApps: 'Полезные Приложения',
+            versionInfo: 'Информация о Версиях',
         },
+    },
+    tr: {
+        editLink: "Bu sayfayı GitHub'da düzenle",
         footer: {
-            message: 'Выпущено под лицензией GPLv3.',
-            copyright: `© Copyright ${new Date().getFullYear()} AirReps. Все Права Защищены.`,
+            copyright: `© Telif Hakkı ${new Date().getFullYear()} AirReps. Tüm Hakları Saklıdır.`,
+            message: 'GPLv3 Lisansı altında yayınlanmıştır.',
         },
-        editLink: 'Редактировать на GitHub',
+        nav: {
+            home: 'Ana Sayfa',
+            links: 'Bağlantılar',
+            quiz: 'Test',
+            ultimateGuide: 'Kapsamlı Rehber',
+        },
+        sidebar: {
+            ancExplained: 'ANC Açıklaması',
+            batteryLife: 'Pil Ömrü',
+            buildQuality: 'Yapı Kalitesi',
+            connectivity: 'Bağlantı',
+            contributing: 'Katkıda Bulunma',
+            dictionary: 'Sözlük',
+            features: 'Özellikler',
+            general: 'Genel',
+            howToBuy: 'Nasıl Satın Alınır',
+            icloudIncompatibility: 'iCloud Uyumsuzluğu',
+            info: 'Bilgi',
+            kakobuy: 'KakoBuy Rehberi',
+            links: 'Bağlantılar',
+            macosVolume: 'MacOS Ses Kontrolü',
+            ordering: 'Sipariş',
+            otherBugs: 'Diğer Yaygın Hatalar',
+            overview: 'Genel Bakış',
+            packaging: 'Paketleme',
+            qcLc: 'QC & LC',
+            sellers: 'Satıcılar',
+            soundQuality: 'Ses Kalitesi',
+            troubleshooting: 'Sorun Giderme',
+            ultimateGuide: 'Kapsamlı Rehber',
+            usefulApps: 'Faydalı Uygulamalar',
+            versionInfo: 'Sürüm Bilgisi',
+        },
     },
 };
 
@@ -709,11 +710,210 @@ const redditIcon =
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     base: '/',
-    title: 'AirReps',
+    cleanUrls: true,
     description: 'A community for the discussion and exploration of AirPods clones.',
 
+    head: [
+        ['link', { crossorigin: '', href: 'https://cdn.jsdelivr.net', rel: 'preconnect' }],
+        ['link', { href: '/favicon.ico', rel: 'icon', sizes: 'any' }],
+        ['link', { href: '/favicon-32x32.png', rel: 'icon', sizes: '32x32', type: 'image/png' }],
+        ['link', { href: '/favicon-16x16.png', rel: 'icon', sizes: '16x16', type: 'image/png' }],
+        ['link', { href: '/apple-touch-icon.png', rel: 'apple-touch-icon', sizes: '180x180' }],
+        ['link', { href: '/site.webmanifest', rel: 'manifest' }],
+        ['meta', { content: '#EC645D', name: 'theme-color' }],
+        ['meta', { content: 'yes', name: 'mobile-web-app-capable' }],
+        ['meta', { content: 'yes', name: 'apple-mobile-web-app-capable' }],
+        ['meta', { content: 'black', name: 'apple-mobile-web-app-status-bar-style' }],
+        ['meta', { content: 'AirReps Ultimate Guide', name: 'apple-mobile-web-app-title' }],
+        ['meta', { content: 'AirReps Ultimate Guide', name: 'application-name' }],
+        ['meta', { content: '#000000', name: 'msapplication-TileColor' }],
+        ['meta', { content: 'width=device-width, initial-scale=1', name: 'viewport' }],
+        ['meta', { content: 'AirReps', name: 'author' }],
+    ],
+
     lastUpdated: true,
-    cleanUrls: true,
+
+    // Locale configuration for i18n
+    locales: {
+        da: {
+            description: 'Et fællesskab for diskussion og udforskning af AirPods-kloner.',
+            label: 'Dansk',
+            lang: 'da-DK',
+            themeConfig: {
+                docFooter: { next: 'Næste side', prev: 'Forrige side' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.da.editLink,
+                },
+                footer: {
+                    copyright: translations.da.footer.copyright,
+                    message: translations.da.footer.message,
+                },
+                nav: getNav('da'),
+                outline: { label: 'På denne side' },
+                returnToTopLabel: 'Tilbage til toppen',
+                sidebar: getSidebar('da'),
+            },
+        },
+        de: {
+            description: 'Eine Community für die Diskussion und Erkundung von AirPods-Klonen.',
+            label: 'Deutsch',
+            lang: 'de-DE',
+            themeConfig: {
+                docFooter: { next: 'Nächste Seite', prev: 'Vorherige Seite' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.de.editLink,
+                },
+                footer: {
+                    copyright: translations.de.footer.copyright,
+                    message: translations.de.footer.message,
+                },
+                nav: getNav('de'),
+                outline: { label: 'Auf dieser Seite' },
+                returnToTopLabel: 'Zurück nach oben',
+                sidebar: getSidebar('de'),
+            },
+        },
+        es: {
+            description: 'Una comunidad para la discusión y exploración de clones de AirPods.',
+            label: 'Español',
+            lang: 'es-ES',
+            themeConfig: {
+                docFooter: { next: 'Página siguiente', prev: 'Página anterior' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.es.editLink,
+                },
+                footer: {
+                    copyright: translations.es.footer.copyright,
+                    message: translations.es.footer.message,
+                },
+                nav: getNav('es'),
+                outline: { label: 'En esta página' },
+                returnToTopLabel: 'Volver arriba',
+                sidebar: getSidebar('es'),
+            },
+        },
+        fr: {
+            description: "Une communauté pour la discussion et l'exploration des clones d'AirPods.",
+            label: 'Français',
+            lang: 'fr-FR',
+            themeConfig: {
+                docFooter: { next: 'Page suivante', prev: 'Page précédente' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.fr.editLink,
+                },
+                footer: {
+                    copyright: translations.fr.footer.copyright,
+                    message: translations.fr.footer.message,
+                },
+                nav: getNav('fr'),
+                outline: { label: 'Sur cette page' },
+                returnToTopLabel: 'Retour en haut',
+                sidebar: getSidebar('fr'),
+            },
+        },
+        pl: {
+            description: 'Społeczność do dyskusji i odkrywania klonów AirPods.',
+            label: 'Polski',
+            lang: 'pl-PL',
+            themeConfig: {
+                docFooter: { next: 'Następna strona', prev: 'Poprzednia strona' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.pl.editLink,
+                },
+                footer: {
+                    copyright: translations.pl.footer.copyright,
+                    message: translations.pl.footer.message,
+                },
+                nav: getNav('pl'),
+                outline: { label: 'Na tej stronie' },
+                returnToTopLabel: 'Powrót na górę',
+                sidebar: getSidebar('pl'),
+            },
+        },
+        pt: {
+            description: 'Uma comunidade para discussão e exploração de clones de AirPods.',
+            label: 'Português',
+            lang: 'pt-BR',
+            themeConfig: {
+                docFooter: { next: 'Próxima página', prev: 'Página anterior' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.pt.editLink,
+                },
+                footer: {
+                    copyright: translations.pt.footer.copyright,
+                    message: translations.pt.footer.message,
+                },
+                nav: getNav('pt'),
+                outline: { label: 'Nesta página' },
+                returnToTopLabel: 'Voltar ao topo',
+                sidebar: getSidebar('pt'),
+            },
+        },
+        root: {
+            label: 'English',
+            lang: 'en-US',
+            themeConfig: {
+                docFooter: { next: 'Next page', prev: 'Previous page' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.en.editLink,
+                },
+                footer: {
+                    copyright: translations.en.footer.copyright,
+                    message: translations.en.footer.message,
+                },
+                nav: getNav('en'),
+                outline: { label: 'On this page' },
+                sidebar: getSidebar('en'),
+            },
+        },
+        ru: {
+            description: 'Сообщество для обсуждения и изучения клонов AirPods.',
+            label: 'Русский',
+            lang: 'ru-RU',
+            themeConfig: {
+                docFooter: { next: 'Следующая страница', prev: 'Предыдущая страница' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.ru.editLink,
+                },
+                footer: {
+                    copyright: translations.ru.footer.copyright,
+                    message: translations.ru.footer.message,
+                },
+                nav: getNav('ru'),
+                outline: { label: 'На этой странице' },
+                returnToTopLabel: 'Вернуться наверх',
+                sidebar: getSidebar('ru'),
+            },
+        },
+        tr: {
+            description: 'AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk.',
+            label: 'Türkçe',
+            lang: 'tr-TR',
+            themeConfig: {
+                docFooter: { next: 'Sonraki sayfa', prev: 'Önceki sayfa' },
+                editLink: {
+                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
+                    text: translations.tr.editLink,
+                },
+                footer: {
+                    copyright: translations.tr.footer.copyright,
+                    message: translations.tr.footer.message,
+                },
+                nav: getNav('tr'),
+                outline: { label: 'Bu sayfada' },
+                returnToTopLabel: 'Başa dön',
+                sidebar: getSidebar('tr'),
+            },
+        },
+    },
 
     // Auto-generate sitemap with all locales for SEO + image sitemap entries
     sitemap: {
@@ -769,27 +969,60 @@ export default defineConfig({
         },
     },
 
-    vite: {
-        plugins: [redirectPlugin()],
-    },
+    themeConfig: {
+        logo: { alt: 'AirReps', src: '/logo.webp' },
 
-    head: [
-        ['link', { rel: 'preconnect', href: 'https://cdn.jsdelivr.net', crossorigin: '' }],
-        ['link', { rel: 'icon', sizes: 'any', href: '/favicon.ico' }],
-        ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
-        ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
-        ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
-        ['link', { rel: 'manifest', href: '/site.webmanifest' }],
-        ['meta', { name: 'theme-color', content: '#EC645D' }],
-        ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
-        ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-        ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-        ['meta', { name: 'apple-mobile-web-app-title', content: 'AirReps Ultimate Guide' }],
-        ['meta', { name: 'application-name', content: 'AirReps Ultimate Guide' }],
-        ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
-        ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
-        ['meta', { name: 'author', content: 'AirReps' }],
-    ],
+        outline: [2, 3],
+
+        search: {
+            options: {
+                apiKey: process.env.API_KEY as string,
+                appId: process.env.APP_ID as string,
+                askAi: {
+                    assistantId: process.env.ASSISTANT_ID as string,
+                    indexName: process.env.ASSISTANT_INDEX_NAME as string,
+                },
+                indexName: process.env.INDEX_NAME as string,
+                locales: {
+                    da: { placeholder: 'Søg', translations: { button: { buttonText: 'Søg' } } },
+                    de: {
+                        placeholder: 'Suchen',
+                        translations: { button: { buttonText: 'Suchen' } },
+                    },
+                    es: {
+                        placeholder: 'Buscar',
+                        translations: { button: { buttonText: 'Buscar' } },
+                    },
+                    fr: {
+                        placeholder: 'Rechercher',
+                        translations: { button: { buttonText: 'Rechercher' } },
+                    },
+                    pl: {
+                        placeholder: 'Szukaj',
+                        translations: { button: { buttonText: 'Szukaj' } },
+                    },
+                    pt: {
+                        placeholder: 'Pesquisar',
+                        translations: { button: { buttonText: 'Pesquisar' } },
+                    },
+                    ru: { placeholder: 'Поиск', translations: { button: { buttonText: 'Поиск' } } },
+                    tr: { placeholder: 'Ara', translations: { button: { buttonText: 'Ara' } } },
+                },
+            },
+            provider: 'algolia',
+        },
+
+        socialLinks: [
+            { icon: 'discord', link: 'https://airreps.link/discord' },
+            {
+                ariaLabel: 'Reddit',
+                icon: { svg: redditIcon },
+                link: 'https://reddit.com/r/airreps',
+            },
+            { icon: 'youtube', link: 'https://www.youtube.com/@AirReps' },
+        ],
+    },
+    title: 'AirReps',
 
     // Dynamically inject hreflang tags, localized OG meta, and JSON-LD into every page
     transformHead: ({ pageData }) => {
@@ -817,63 +1050,63 @@ export default defineConfig({
 
         // Flag emojis for each locale
         const localeFlags: Record<string, string> = {
+            da: '🇩🇰',
+            de: '🇩🇪',
             en: '🎧',
             es: '🇪🇸',
-            pt: '🇧🇷',
-            da: '🇩🇰',
             fr: '🇫🇷',
             pl: '🇵🇱',
+            pt: '🇧🇷',
             ru: '🇷🇺',
-            de: '🇩🇪',
             tr: '🇹🇷',
         };
 
         // Default OG metadata with flag emojis (used as fallback)
         const ogMetaDefaults: Record<string, { title: string; description: string }> = {
-            en: {
-                title: 'AirReps | Ultimate Guide',
-                description:
-                    'A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!',
-            },
-            es: {
-                title: 'AirReps | Guía Definitiva',
-                description:
-                    'Una comunidad para la discusión y exploración de clones de AirPods. Descubre alternativas asequibles y consulta nuestra Guía Definitiva para información detallada. ¡Comienza a explorar el mundo de los clones de AirPods hoy!',
-            },
-            pt: {
-                title: 'AirReps | Guia Definitivo',
-                description:
-                    'Uma comunidade para discussão e exploração de clones de AirPods. Descubra alternativas acessíveis e confira nosso Guia Definitivo para insights detalhados. Comece a explorar o mundo dos clones de AirPods hoje!',
-            },
             da: {
-                title: 'AirReps | Ultimativ Guide',
                 description:
                     'Et fællesskab for diskussion og udforskning af AirPods-kloner. Opdag overkommelige alternativer og tjek vores Ultimative Guide for detaljerede indsigter. Begynd at udforske verden af AirPods-kloner i dag!',
-            },
-            fr: {
-                title: 'AirReps | Guide Ultime',
-                description:
-                    "Une communauté pour la discussion et l'exploration des clones AirPods. Découvrez des alternatives abordables et consultez notre Guide Ultime pour des informations détaillées. Commencez à explorer le monde des clones AirPods dès aujourd'hui!",
-            },
-            pl: {
-                title: 'AirReps | Kompletny Przewodnik',
-                description:
-                    'Społeczność do dyskusji i odkrywania klonów AirPods. Odkryj przystępne cenowo alternatywy i sprawdź nasz Kompletny Przewodnik po szczegółowe informacje. Zacznij odkrywać świat klonów AirPods już dziś!',
-            },
-            ru: {
-                title: 'AirReps | Полное Руководство',
-                description:
-                    'Сообщество для обсуждения и изучения клонов AirPods. Откройте для себя доступные альтернативы и ознакомьтесь с нашим Полным Руководством для подробной информации. Начните исследовать мир клонов AirPods уже сегодня!',
+                title: 'AirReps | Ultimativ Guide',
             },
             de: {
-                title: 'AirReps | Ultimativer Leitfaden',
                 description:
                     'Eine Community für die Diskussion und Erkundung von AirPods-Klonen. Entdecke erschwingliche Alternativen und lies unseren Ultimativen Leitfaden für detaillierte Einblicke. Entdecke noch heute die Welt der AirPods-Klone!',
+                title: 'AirReps | Ultimativer Leitfaden',
+            },
+            en: {
+                description:
+                    'A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!',
+                title: 'AirReps | Ultimate Guide',
+            },
+            es: {
+                description:
+                    'Una comunidad para la discusión y exploración de clones de AirPods. Descubre alternativas asequibles y consulta nuestra Guía Definitiva para información detallada. ¡Comienza a explorar el mundo de los clones de AirPods hoy!',
+                title: 'AirReps | Guía Definitiva',
+            },
+            fr: {
+                description:
+                    "Une communauté pour la discussion et l'exploration des clones AirPods. Découvrez des alternatives abordables et consultez notre Guide Ultime pour des informations détaillées. Commencez à explorer le monde des clones AirPods dès aujourd'hui!",
+                title: 'AirReps | Guide Ultime',
+            },
+            pl: {
+                description:
+                    'Społeczność do dyskusji i odkrywania klonów AirPods. Odkryj przystępne cenowo alternatywy i sprawdź nasz Kompletny Przewodnik po szczegółowe informacje. Zacznij odkrywać świat klonów AirPods już dziś!',
+                title: 'AirReps | Kompletny Przewodnik',
+            },
+            pt: {
+                description:
+                    'Uma comunidade para discussão e exploração de clones de AirPods. Descubra alternativas acessíveis e confira nosso Guia Definitivo para insights detalhados. Comece a explorar o mundo dos clones de AirPods hoje!',
+                title: 'AirReps | Guia Definitivo',
+            },
+            ru: {
+                description:
+                    'Сообщество для обсуждения и изучения клонов AirPods. Откройте для себя доступные альтернативы и ознакомьтесь с нашим Полным Руководством для подробной информации. Начните исследовать мир клонов AirPods уже сегодня!',
+                title: 'AirReps | Полное Руководство',
             },
             tr: {
-                title: 'AirReps | Kapsamlı Rehber',
                 description:
                     'AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk. Uygun fiyatlı alternatifleri keşfedin ve detaylı bilgiler için Kapsamlı Rehberimize göz atın. AirPods klonlarının dünyasını bugün keşfetmeye başlayın!',
+                title: 'AirReps | Kapsamlı Rehber',
             },
         };
 
@@ -903,11 +1136,11 @@ export default defineConfig({
 
         // Section detection — drives breadcrumbs and per-section schema @type
         const sectionMap: Record<string, string> = {
-            'version-info': 'Version Info',
             introduction: 'Ultimate Guide',
+            links: 'Purchase Links',
             ordering: 'Ordering',
             troubleshooting: 'Troubleshooting',
-            links: 'Purchase Links',
+            'version-info': 'Version Info',
         };
         const pathSegments = basePath.split('/').filter(Boolean);
         const sectionSlug = pathSegments.length > 1 ? pathSegments[0] : null;
@@ -916,11 +1149,11 @@ export default defineConfig({
         // links somewhere that exists — the bare `/links/`, `/troubleshooting/`
         // etc. section roots have no page and return 404.
         const sectionHubs: Record<string, string> = {
-            'version-info': 'version-info/general',
             introduction: 'introduction/overview',
+            links: 'links/info',
             ordering: 'ordering/how-to-buy',
             troubleshooting: 'troubleshooting/other-common-bugs',
-            links: 'links/info',
+            'version-info': 'version-info/general',
         };
         const sectionUrl =
             sectionSlug && sectionHubs[sectionSlug]
@@ -940,32 +1173,31 @@ export default defineConfig({
         }> = [
             {
                 '@type': 'ListItem',
-                position: 1,
-                name: 'Home',
                 item: `https://airpodsreplicas.com${localePrefix}/`,
+                name: 'Home',
+                position: 1,
             },
         ];
         if (sectionName && sectionUrl) {
             breadcrumbItems.push({
                 '@type': 'ListItem',
-                position: 2,
-                name: sectionName,
                 item: sectionUrl,
+                name: sectionName,
+                position: 2,
             });
         }
         if (!isHome) {
             breadcrumbItems.push({
                 '@type': 'ListItem',
-                position: breadcrumbItems.length + 1,
-                name: title || 'Page',
                 item: pageUrl,
+                name: title || 'Page',
+                position: breadcrumbItems.length + 1,
             });
         }
 
         const organizationNode = {
-            '@type': 'Organization',
             '@id': 'https://airpodsreplicas.com/#organization',
-            name: 'AirReps',
+            '@type': 'Organization',
             alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
             description:
                 'AirReps is the largest community for AirPods replicas, covering which models to buy, trusted sellers, version comparisons, features, sound quality, and troubleshooting.',
@@ -978,17 +1210,18 @@ export default defineConfig({
                 'replica earbuds',
                 'AirPods clones',
             ],
-            url: 'https://airpodsreplicas.com',
             logo: {
                 '@type': 'ImageObject',
                 url: 'https://airpodsreplicas.com/logo.webp',
             },
+            name: 'AirReps',
             sameAs: [
                 'https://reddit.com/r/airreps',
                 'https://airreps.link/discord',
                 'https://www.youtube.com/@AirReps',
                 'https://github.com/AirPodsReplicas/AirReps',
             ],
+            url: 'https://airpodsreplicas.com',
         };
 
         const dateModified = pageData.lastUpdated
@@ -998,50 +1231,50 @@ export default defineConfig({
 
         // JSON-LD graph nodes
         const websiteNode = {
-            '@type': 'WebSite',
             '@id': 'https://airpodsreplicas.com/#website',
-            url: 'https://airpodsreplicas.com',
-            name: 'AirReps',
+            '@type': 'WebSite',
             alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
             description: defaults.description,
             inLanguage: ['en', ...SUPPORTED_LOCALES],
+            name: 'AirReps',
             publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
+            url: 'https://airpodsreplicas.com',
         };
 
         const breadcrumbNode = {
-            '@type': 'BreadcrumbList',
             '@id': `${pageUrl}#breadcrumb`,
+            '@type': 'BreadcrumbList',
             itemListElement: breadcrumbItems,
         };
 
         const homeNode = {
-            '@type': 'WebPage',
             '@id': `${pageUrl}#webpage`,
-            url: pageUrl,
-            name: pageTitleClean,
-            description: pageDescription,
-            isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
-            inLanguage: currentLocale,
+            '@type': 'WebPage',
             dateModified,
+            description: pageDescription,
+            inLanguage: currentLocale,
+            isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+            name: pageTitleClean,
+            url: pageUrl,
         };
 
         const articleNode = {
-            '@type': isTroubleshooting ? 'TechArticle' : 'Article',
             '@id': `${pageUrl}#article`,
-            headline: pageTitleClean,
+            '@type': isTroubleshooting ? 'TechArticle' : 'Article',
+            breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
             description: pageDescription,
+            headline: pageTitleClean,
             image: ogImageUrl,
-            thumbnailUrl: ogImageUrl,
-            url: pageUrl,
-            mainEntityOfPage: pageUrl,
             inLanguage: currentLocale,
             isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
-            breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+            mainEntityOfPage: pageUrl,
+            thumbnailUrl: ogImageUrl,
+            url: pageUrl,
             ...(sectionName ? { articleSection: sectionName } : {}),
             author: { '@id': 'https://airpodsreplicas.com/#organization' },
-            publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
-            datePublished,
             dateModified,
+            datePublished,
+            publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
         };
 
         // /links/* pages are seller directories. CollectionPage + ItemList of
@@ -1053,27 +1286,27 @@ export default defineConfig({
         const linksCollectionNode =
             isLinksPage && linksPageSellers.length
                 ? {
-                      '@type': 'CollectionPage',
                       '@id': `${pageUrl}#webpage`,
-                      url: pageUrl,
-                      name: pageTitleClean,
-                      description: pageDescription,
-                      isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
-                      inLanguage: currentLocale,
+                      '@type': 'CollectionPage',
                       breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
                       dateModified,
+                      description: pageDescription,
+                      inLanguage: currentLocale,
+                      isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
                       mainEntity: {
                           '@type': 'ItemList',
                           itemListElement: linksPageSellers.map((seller, i) => ({
                               '@type': 'ListItem',
-                              position: i + 1,
                               item: {
                                   '@type': 'Organization',
                                   name: seller.name,
                                   url: seller.url,
                               },
+                              position: i + 1,
                           })),
                       },
+                      name: pageTitleClean,
+                      url: pageUrl,
                   }
                 : null;
 
@@ -1093,131 +1326,131 @@ export default defineConfig({
             [
                 'link',
                 {
-                    rel: 'alternate',
+                    href: `https://airpodsreplicas.com${canonicalBase}`,
                     hreflang: 'en',
-                    href: `https://airpodsreplicas.com${canonicalBase}`,
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'es',
                     href: `https://airpodsreplicas.com/es${canonicalBase}`,
+                    hreflang: 'es',
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'pt',
                     href: `https://airpodsreplicas.com/pt${canonicalBase}`,
+                    hreflang: 'pt',
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'da',
                     href: `https://airpodsreplicas.com/da${canonicalBase}`,
+                    hreflang: 'da',
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'fr',
                     href: `https://airpodsreplicas.com/fr${canonicalBase}`,
+                    hreflang: 'fr',
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'pl',
                     href: `https://airpodsreplicas.com/pl${canonicalBase}`,
+                    hreflang: 'pl',
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'ru',
                     href: `https://airpodsreplicas.com/ru${canonicalBase}`,
+                    hreflang: 'ru',
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'de',
                     href: `https://airpodsreplicas.com/de${canonicalBase}`,
+                    hreflang: 'de',
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'tr',
                     href: `https://airpodsreplicas.com/tr${canonicalBase}`,
+                    hreflang: 'tr',
+                    rel: 'alternate',
                 },
             ],
             [
                 'link',
                 {
-                    rel: 'alternate',
-                    hreflang: 'x-default',
                     href: `https://airpodsreplicas.com${canonicalBase}`,
+                    hreflang: 'x-default',
+                    rel: 'alternate',
                 },
             ],
-            ['link', { rel: 'canonical', href: pageUrl }],
+            ['link', { href: pageUrl, rel: 'canonical' }],
             // Localized Open Graph meta tags — social previews keep the flag emoji.
-            ['meta', { property: 'og:site_name', content: 'AirReps' }],
-            ['meta', { property: 'og:title', content: pageTitleSocial }],
+            ['meta', { content: 'AirReps', property: 'og:site_name' }],
+            ['meta', { content: pageTitleSocial, property: 'og:title' }],
             [
                 'meta',
                 {
-                    property: 'og:type',
                     content: isHome ? 'website' : 'article',
+                    property: 'og:type',
                 },
             ],
-            ['meta', { property: 'og:url', content: pageUrl }],
-            ['meta', { property: 'og:description', content: pageDescription }],
-            ['meta', { property: 'og:image', content: ogImageUrl }],
-            ['meta', { property: 'og:image:width', content: '1200' }],
-            ['meta', { property: 'og:image:height', content: '630' }],
-            ['meta', { property: 'og:image:alt', content: pageTitleSocial }],
-            ['meta', { property: 'og:image:type', content: 'image/png' }],
+            ['meta', { content: pageUrl, property: 'og:url' }],
+            ['meta', { content: pageDescription, property: 'og:description' }],
+            ['meta', { content: ogImageUrl, property: 'og:image' }],
+            ['meta', { content: '1200', property: 'og:image:width' }],
+            ['meta', { content: '630', property: 'og:image:height' }],
+            ['meta', { content: pageTitleSocial, property: 'og:image:alt' }],
+            ['meta', { content: 'image/png', property: 'og:image:type' }],
             [
                 'meta',
                 {
-                    property: 'og:locale',
                     content:
                         {
-                            en: 'en_US',
-                            pt: 'pt_BR',
-                            es: 'es_ES',
                             da: 'da_DK',
-                            pl: 'pl_PL',
-                            ru: 'ru_RU',
-                            fr: 'fr_FR',
                             de: 'de_DE',
+                            en: 'en_US',
+                            es: 'es_ES',
+                            fr: 'fr_FR',
+                            pl: 'pl_PL',
+                            pt: 'pt_BR',
+                            ru: 'ru_RU',
                             tr: 'tr_TR',
                         }[currentLocale] || 'en_US',
+                    property: 'og:locale',
                 },
             ],
             // og:locale:alternate for every other supported locale.
             // `content` listed first so VitePress's mergeHead dedupe (which keys on the
             // first attribute) doesn't collapse these eight tags into one.
             ...(Object.entries({
-                en: 'en_US',
-                pt: 'pt_BR',
-                es: 'es_ES',
                 da: 'da_DK',
-                pl: 'pl_PL',
-                ru: 'ru_RU',
-                fr: 'fr_FR',
                 de: 'de_DE',
+                en: 'en_US',
+                es: 'es_ES',
+                fr: 'fr_FR',
+                pl: 'pl_PL',
+                pt: 'pt_BR',
+                ru: 'ru_RU',
                 tr: 'tr_TR',
             })
                 .filter(([locale]) => locale !== currentLocale)
@@ -1226,12 +1459,12 @@ export default defineConfig({
                     { content: ogLocale, property: 'og:locale:alternate' },
                 ]) as [string, Record<string, string>][]),
             // Twitter Card meta tags (Twitter spec uses name=, not property=)
-            ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-            ['meta', { name: 'twitter:url', content: pageUrl }],
-            ['meta', { name: 'twitter:title', content: pageTitleSocial }],
-            ['meta', { name: 'twitter:description', content: pageDescription }],
-            ['meta', { name: 'twitter:image', content: ogImageUrl }],
-            ['meta', { name: 'twitter:image:alt', content: pageTitleSocial }],
+            ['meta', { content: 'summary_large_image', name: 'twitter:card' }],
+            ['meta', { content: pageUrl, name: 'twitter:url' }],
+            ['meta', { content: pageTitleSocial, name: 'twitter:title' }],
+            ['meta', { content: pageDescription, name: 'twitter:description' }],
+            ['meta', { content: ogImageUrl, name: 'twitter:image' }],
+            ['meta', { content: pageTitleSocial, name: 'twitter:image:alt' }],
             // JSON-LD
             ['script', { type: 'application/ld+json' }, JSON.stringify(schema)],
             // FAQ JSON-LD — manual `faq:` frontmatter wins; otherwise auto-extracted
@@ -1262,11 +1495,11 @@ export default defineConfig({
                             '@type': 'FAQPage',
                             mainEntity: faqs.map((item) => ({
                                 '@type': 'Question',
-                                name: item.q,
                                 acceptedAnswer: {
                                     '@type': 'Answer',
                                     text: item.a,
                                 },
+                                name: item.q,
                             })),
                         }),
                     ],
@@ -1319,239 +1552,7 @@ export default defineConfig({
                 '<div role="main" class="VPContent is-home"'
             ),
 
-    // Locale configuration for i18n
-    locales: {
-        root: {
-            label: 'English',
-            lang: 'en-US',
-            themeConfig: {
-                nav: getNav('en'),
-                sidebar: getSidebar('en'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.en.editLink,
-                },
-                footer: {
-                    message: translations.en.footer.message,
-                    copyright: translations.en.footer.copyright,
-                },
-                docFooter: { prev: 'Previous page', next: 'Next page' },
-                outline: { label: 'On this page' },
-            },
-        },
-        pt: {
-            label: 'Português',
-            lang: 'pt-BR',
-            description: 'Uma comunidade para discussão e exploração de clones de AirPods.',
-            themeConfig: {
-                nav: getNav('pt'),
-                sidebar: getSidebar('pt'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.pt.editLink,
-                },
-                footer: {
-                    message: translations.pt.footer.message,
-                    copyright: translations.pt.footer.copyright,
-                },
-                docFooter: { prev: 'Página anterior', next: 'Próxima página' },
-                outline: { label: 'Nesta página' },
-                returnToTopLabel: 'Voltar ao topo',
-            },
-        },
-        es: {
-            label: 'Español',
-            lang: 'es-ES',
-            description: 'Una comunidad para la discusión y exploración de clones de AirPods.',
-            themeConfig: {
-                nav: getNav('es'),
-                sidebar: getSidebar('es'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.es.editLink,
-                },
-                footer: {
-                    message: translations.es.footer.message,
-                    copyright: translations.es.footer.copyright,
-                },
-                docFooter: { prev: 'Página anterior', next: 'Página siguiente' },
-                outline: { label: 'En esta página' },
-                returnToTopLabel: 'Volver arriba',
-            },
-        },
-        da: {
-            label: 'Dansk',
-            lang: 'da-DK',
-            description: 'Et fællesskab for diskussion og udforskning af AirPods-kloner.',
-            themeConfig: {
-                nav: getNav('da'),
-                sidebar: getSidebar('da'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.da.editLink,
-                },
-                footer: {
-                    message: translations.da.footer.message,
-                    copyright: translations.da.footer.copyright,
-                },
-                docFooter: { prev: 'Forrige side', next: 'Næste side' },
-                outline: { label: 'På denne side' },
-                returnToTopLabel: 'Tilbage til toppen',
-            },
-        },
-        fr: {
-            label: 'Français',
-            lang: 'fr-FR',
-            description: "Une communauté pour la discussion et l'exploration des clones d'AirPods.",
-            themeConfig: {
-                nav: getNav('fr'),
-                sidebar: getSidebar('fr'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.fr.editLink,
-                },
-                footer: {
-                    message: translations.fr.footer.message,
-                    copyright: translations.fr.footer.copyright,
-                },
-                docFooter: { prev: 'Page précédente', next: 'Page suivante' },
-                outline: { label: 'Sur cette page' },
-                returnToTopLabel: 'Retour en haut',
-            },
-        },
-        pl: {
-            label: 'Polski',
-            lang: 'pl-PL',
-            description: 'Społeczność do dyskusji i odkrywania klonów AirPods.',
-            themeConfig: {
-                nav: getNav('pl'),
-                sidebar: getSidebar('pl'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.pl.editLink,
-                },
-                footer: {
-                    message: translations.pl.footer.message,
-                    copyright: translations.pl.footer.copyright,
-                },
-                docFooter: { prev: 'Poprzednia strona', next: 'Następna strona' },
-                outline: { label: 'Na tej stronie' },
-                returnToTopLabel: 'Powrót na górę',
-            },
-        },
-        ru: {
-            label: 'Русский',
-            lang: 'ru-RU',
-            description: 'Сообщество для обсуждения и изучения клонов AirPods.',
-            themeConfig: {
-                nav: getNav('ru'),
-                sidebar: getSidebar('ru'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.ru.editLink,
-                },
-                footer: {
-                    message: translations.ru.footer.message,
-                    copyright: translations.ru.footer.copyright,
-                },
-                docFooter: { prev: 'Предыдущая страница', next: 'Следующая страница' },
-                outline: { label: 'На этой странице' },
-                returnToTopLabel: 'Вернуться наверх',
-            },
-        },
-        de: {
-            label: 'Deutsch',
-            lang: 'de-DE',
-            description: 'Eine Community für die Diskussion und Erkundung von AirPods-Klonen.',
-            themeConfig: {
-                nav: getNav('de'),
-                sidebar: getSidebar('de'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.de.editLink,
-                },
-                footer: {
-                    message: translations.de.footer.message,
-                    copyright: translations.de.footer.copyright,
-                },
-                docFooter: { prev: 'Vorherige Seite', next: 'Nächste Seite' },
-                outline: { label: 'Auf dieser Seite' },
-                returnToTopLabel: 'Zurück nach oben',
-            },
-        },
-        tr: {
-            label: 'Türkçe',
-            lang: 'tr-TR',
-            description: 'AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk.',
-            themeConfig: {
-                nav: getNav('tr'),
-                sidebar: getSidebar('tr'),
-                editLink: {
-                    pattern: 'https://github.com/AirPodsReplicas/AirReps/edit/main/docs/:path',
-                    text: translations.tr.editLink,
-                },
-                footer: {
-                    message: translations.tr.footer.message,
-                    copyright: translations.tr.footer.copyright,
-                },
-                docFooter: { prev: 'Önceki sayfa', next: 'Sonraki sayfa' },
-                outline: { label: 'Bu sayfada' },
-                returnToTopLabel: 'Başa dön',
-            },
-        },
-    },
-
-    themeConfig: {
-        logo: { src: '/logo.webp', alt: 'AirReps' },
-
-        outline: [2, 3],
-
-        socialLinks: [
-            { icon: 'discord', link: 'https://airreps.link/discord' },
-            {
-                icon: { svg: redditIcon },
-                link: 'https://reddit.com/r/airreps',
-                ariaLabel: 'Reddit',
-            },
-            { icon: 'youtube', link: 'https://www.youtube.com/@AirReps' },
-        ],
-
-        search: {
-            provider: 'algolia',
-            options: {
-                appId: process.env.APP_ID as string,
-                apiKey: process.env.API_KEY as string,
-                indexName: process.env.INDEX_NAME as string,
-                askAi: {
-                    assistantId: process.env.ASSISTANT_ID as string,
-                    indexName: process.env.ASSISTANT_INDEX_NAME as string,
-                },
-                locales: {
-                    pt: {
-                        placeholder: 'Pesquisar',
-                        translations: { button: { buttonText: 'Pesquisar' } },
-                    },
-                    es: {
-                        placeholder: 'Buscar',
-                        translations: { button: { buttonText: 'Buscar' } },
-                    },
-                    da: { placeholder: 'Søg', translations: { button: { buttonText: 'Søg' } } },
-                    fr: {
-                        placeholder: 'Rechercher',
-                        translations: { button: { buttonText: 'Rechercher' } },
-                    },
-                    pl: {
-                        placeholder: 'Szukaj',
-                        translations: { button: { buttonText: 'Szukaj' } },
-                    },
-                    ru: { placeholder: 'Поиск', translations: { button: { buttonText: 'Поиск' } } },
-                    de: {
-                        placeholder: 'Suchen',
-                        translations: { button: { buttonText: 'Suchen' } },
-                    },
-                    tr: { placeholder: 'Ara', translations: { button: { buttonText: 'Ara' } } },
-                },
-            },
-        },
+    vite: {
+        plugins: [redirectPlugin()],
     },
 });
