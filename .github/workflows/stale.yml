@@ -30,4 +30,7 @@ jobs:
             free to reopen if further action is required or additional
             information is provided.
           exempt-issue-labels: in-progress
-          exempt-pr-labels: in-progress
+          # translation-sync PRs need a human merge (the ruleset blocks the
+          # bot); the stale bot must never close them — PR #141's translations
+          # were silently lost that way.
+          exempt-pr-labels: in-progress,translation-sync

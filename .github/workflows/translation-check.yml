@@ -156,6 +156,7 @@ jobs:
           if [ -z "$PR" ]; then
             PR_URL=$(gh pr create --base main --head "$BRANCH" \
               --title "chore: sync translated docs" \
+              --label translation-sync \
               --body "Automated translation sync from GitHub Actions.")
             PR=$(gh pr view "$PR_URL" --json number --jq '.number')
           fi
