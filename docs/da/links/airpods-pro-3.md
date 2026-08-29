@@ -1,12 +1,12 @@
 ---
-title: 'Køb AirPods Pro 3 Replikaer: Sælgerlinks'
-description: 'Find AirPods Pro 3 replika-versioner (V7, V6, V5.5) og pålidelige sælgerlinks fra verificerede AirReps-sælgere.'
+title: 'Køb replikaer af AirPods Pro 3: Sælgerlinks'
+description: 'Find replika-versioner af AirPods Pro 3 (V7, SE, V6, V5.5) og pålidelige sælgerlinks fra verificerede AirReps-sælgere.'
 ---
-# Køb AirPods Pro 3-replikker
+# Køb replikaer af AirPods Pro 3
 
-AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i forskellige prisklasser. Se [AirPods Pro 3 versionsinfo](/da/version-info/airpods-pro-3) for hvad hver version tilføjer, eller tag [quizen](/da/quiz).
+Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i forskellige prisklasser. Se [oplysninger om versionerne af AirPods Pro 3](/da/version-info/airpods-pro-3) for at se, hvad hver version tilbyder, eller tag [quizzen](/da/quiz).
 
-## Versioner og forhandlere
+## Versioner og sælgere
 
 <table>
   <tr>
@@ -19,20 +19,31 @@ AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i f
     <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/eprov7hl">Hjemmeside</a>
+        <a href="https://airreps.link/eprov7hl">Websted</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Hjemmeside</a>
+        <a href="https://airreps.link/hcprov7hl">Websted</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/jprov7hl">Hjemmeside</a>
+        <a href="https://airreps.link/jprov7hl">Websted</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">SE</span></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/jpro3se">Websted</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -41,20 +52,20 @@ AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i f
     <td><span class="version-badge">V6 (TB)</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/eprov6tb">Hjemmeside</a>
+        <a href="https://airreps.link/eprov6tb">Websted</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov6tb">Hjemmeside</a>
+        <a href="https://airreps.link/hcprov6tb">Websted</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/jprov6tb">Hjemmeside</a>
+        <a href="https://airreps.link/jprov6tb">Websted</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -63,20 +74,20 @@ AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i f
     <td><span class="version-badge">V6 (Huilian)</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/eprov6hl">Hjemmeside</a>
+        <a href="https://airreps.link/eprov6hl">Websted</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov6hl">Hjemmeside</a>
+        <a href="https://airreps.link/hcprov6hl">Websted</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/jprov6hl">Hjemmeside</a>
+        <a href="https://airreps.link/jprov6hl">Websted</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -85,20 +96,20 @@ AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i f
     <td><span class="version-badge">V5.5</span></td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/eprov55">Hjemmeside</a>
+        <a href="https://airreps.link/eprov55">Websted</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov55">Hjemmeside</a>
+        <a href="https://airreps.link/hcprov55">Websted</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/jprov55">Hjemmeside</a>
+        <a href="https://airreps.link/jprov55">Websted</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -108,5 +119,5 @@ AirPods Pro 3-replikker er den nyeste in-ear-model, med de nyeste funktioner i f
 
 
 ::: tip
-At vælge et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
+Hvis du vælger et Weidian-link, skal du bruge en agent til forsendelsen. Vi anbefaler kun denne mulighed, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy) som en pålidelig agent. Er agenter nyt for dig? Se vores [vejledning til bestilling via KakoBuy](/da/ordering/kakobuy).
 :::
