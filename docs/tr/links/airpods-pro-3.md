@@ -1,10 +1,10 @@
 ---
-title: 'Satın Al AirPods Pro 3 Replikalar: Satıcı Bağlantıları'
-description: 'AirPods Pro 3 replika sürümlerini (V7, V6, V5.5) ve doğrulanmış AirReps satıcılarından güvenilir satıcı bağlantılarını bulun.'
+title: 'AirPods Pro 3 Taklitlerini Satın Alın: Satıcı Bağlantıları'
+description: 'AirPods Pro 3 taklit sürümlerini (V7, SE, V6, V5.5) ve doğrulanmış AirReps satıcılarından güvenilir satıcı bağlantılarını bulun.'
 ---
-# AirPods Pro 3 replikaları satın alın
+# AirPods Pro 3 replika satın al
 
-AirPods Pro 3 replikaları, çeşitli fiyat aralıklarında en son özelliklere sahip en yeni kulak içi modelidir. Hangi sürümün ne eklediğini görmek için [AirPods Pro 3 sürüm bilgilerine](/tr/version-info/airpods-pro-3) bakın veya [testi](/tr/quiz) çözün.
+AirPods Pro 3 replikaları, en yeni özellikleri farklı fiyat seçenekleriyle sunan en yeni kulak içi modeldir. Her sürümün neler sunduğunu görmek için [AirPods Pro 3 sürüm bilgilerine](/tr/version-info/airpods-pro-3) bakın veya [teste](/tr/quiz) katılın.
 
 ## Sürümler ve satıcılar
 
@@ -33,6 +33,17 @@ AirPods Pro 3 replikaları, çeşitli fiyat aralıklarında en son özelliklere 
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov7hl">Web sitesi</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">SE</span></td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/jpro3se">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -108,5 +119,5 @@ AirPods Pro 3 replikaları, çeşitli fiyat aralıklarında en son özelliklere 
 
 
 ::: tip
-Weidian bağlantısını seçmek, nakliye için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca gönderiyi diğer ürünlerle birleştirmek istiyorsanız ve aracı platformlara aşina iseniz öneriyoruz. Güvenilir bir aracı için [KakoBuy](https://airreps.link/kakobuy)'u öneriyoruz. Aracılara yeni misiniz? [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) göz atın.
+Weidian bağlantısını seçmek, gönderim için bir aracı kullanılmasını gerektirir. Bu seçeneği yalnızca gönderiyi diğer ürünlerle birleştirmek istiyorsanız ve aracı platformlara aşinaysanız öneriyoruz. Güvenilir bir aracı olarak [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. Aracılar hakkında yeni misiniz? [KakoBuy sipariş verme kılavuzumuza](/tr/ordering/kakobuy) göz atın.
 :::
