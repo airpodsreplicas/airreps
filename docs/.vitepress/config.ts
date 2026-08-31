@@ -1019,7 +1019,6 @@ export default defineConfig({
                 icon: { svg: redditIcon },
                 link: 'https://reddit.com/r/airreps',
             },
-            { icon: 'youtube', link: 'https://www.youtube.com/@AirReps' },
         ],
     },
     title: 'AirReps',
@@ -1218,7 +1217,6 @@ export default defineConfig({
             sameAs: [
                 'https://reddit.com/r/airreps',
                 'https://airreps.link/discord',
-                'https://www.youtube.com/@AirReps',
                 'https://github.com/AirPodsReplicas/AirReps',
             ],
             url: 'https://airpodsreplicas.com',
