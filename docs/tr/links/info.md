@@ -71,21 +71,15 @@ Tüm güvenilir satıcılar kolaylığınız için birden fazla ödeme yöntemi 
 | **Banka havalesi** | ✅ | ✅ | ✅ |
 | **Weidian (ajan aracılığıyla)** | ✅ | ✅ | ✅ |
 | **Alibaba** | ✅ | ❌ | ❌ |
-| **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
-| **Afterpay** | ❌ | ✅ | ❌ |
-| **Satispay** | ❌ | ✅ | ❌ |
-| **MBWAY** | ❌ | ✅ | ❌ |
-| **Multibanco** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
-| **Zip** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |
 | **Boleto** | ❌ | ✅ | ❌ |
-| **Mercado Pago** | ❌ | ✅ | ❌ |
-| **Blik** | ❌ | ✅ | ❌ |
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+HiCity'nin OnlyPay ödeme yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri 4 Eylül 2026 tarihinde HiCity'nin ödeme sayfasında kontrol edildi. OnlyPay her sipariş için son kullanılabilirliği doğrular. ABD, Kanada, Avustralya veya Fransa için OnlyPay seçeneği listelenmedi.
 
 ::: tip
 Wise veya banka havalesi ile yapılan ödemeler satıcı tarafından elle incelenmeyi gerektirir; işleme alınması 24 saate kadar sürebilir.

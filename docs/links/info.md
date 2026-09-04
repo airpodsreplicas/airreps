@@ -72,21 +72,15 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Bank Transfer** | ✅ | ✅ | ✅ |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
 | **Alibaba** | ✅ | ❌ | ❌ |
-| **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
-| **Afterpay** | ❌ | ✅ | ❌ |
-| **Satispay** | ❌ | ✅ | ❌ |
-| **MBWAY** | ❌ | ✅ | ❌ |
-| **Multibanco** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
-| **Zip** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |
 | **Boleto** | ❌ | ✅ | ❌ |
-| **Mercado Pago** | ❌ | ✅ | ❌ |
-| **Blik** | ❌ | ✅ | ❌ |
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options were checked in HiCity's cashier on 4 September 2026. OnlyPay confirms final availability for each order. No OnlyPay option was listed for the US, Canada, Australia or France.
 
 ::: tip
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours to process.

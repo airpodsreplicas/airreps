@@ -71,21 +71,15 @@ Alle vertrauenswürdigen Verkäufer akzeptieren zur Ihrer Bequemlichkeit mehrere
 | **Banküberweisung** | ✅ | ✅ | ✅ |
 | **Weidian (über Agenten)** | ✅ | ✅ | ✅ |
 | **Alibaba** | ✅ | ❌ | ❌ |
-| **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
-| **Afterpay** | ❌ | ✅ | ❌ |
-| **Satispay** | ❌ | ✅ | ❌ |
-| **MBWAY** | ❌ | ✅ | ❌ |
-| **Multibanco** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
-| **Zip** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |
 | **Boleto** | ❌ | ✅ | ❌ |
-| **Mercado Pago** | ❌ | ✅ | ❌ |
-| **Blik** | ❌ | ✅ | ❌ |
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+HiCitys OnlyPay-Zahlungsarten hängen vom Rechnungsland ab: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX und Boleto (BR). Diese Länderoptionen wurden am 4. September 2026 auf HiCitys Zahlungsseite geprüft. OnlyPay bestätigt die endgültige Verfügbarkeit für jede Bestellung. Für die USA, Kanada, Australien oder Frankreich war keine OnlyPay-Option aufgeführt.
 
 ::: tip
 Zahlungen über Wise oder Banküberweisung erfordern eine manuelle Prüfung durch den Verkäufer, die bis zu 24 Stunden dauern kann.

@@ -71,21 +71,15 @@ Alle pålidelige sælgere accepterer flere betalingsmetoder for din bekvemmeligh
 | **Bankoverførsel** | ✅ | ✅ | ✅ |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
 | **Alibaba** | ✅ | ❌ | ❌ |
-| **Skrill** | ❌ | ✅ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
-| **Afterpay** | ❌ | ✅ | ❌ |
-| **Satispay** | ❌ | ✅ | ❌ |
-| **MBWAY** | ❌ | ✅ | ❌ |
-| **Multibanco** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
-| **Zip** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |
 | **Boleto** | ❌ | ✅ | ❌ |
-| **Mercado Pago** | ❌ | ✅ | ❌ |
-| **Blik** | ❌ | ✅ | ❌ |
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+HiCitys OnlyPay-metoder afhænger af faktureringslandet: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX og Boleto (BR). Vi kontrollerede landene i HiCitys betalingsside den 4. september 2026. OnlyPay bekræfter de tilgængelige metoder for hver ordre. Ingen OnlyPay-metode var angivet for USA, Canada, Australien eller Frankrig.
 
 ::: tip
 Betalinger via Wise eller bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer at behandle.

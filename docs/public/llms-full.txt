@@ -540,21 +540,15 @@ Bitcoin/Crypto          Yes       Yes      Yes
 Bank Transfer           Yes       Yes      Yes
 Weidian (via agent)     Yes       Yes      Yes
 Alibaba                 Yes       No       No
-Skrill                  No        Yes      No
 Trustly                 No        Yes      No
-Afterpay                No        Yes      No
-Satispay                No        Yes      No
-MBWAY                   No        Yes      No
-Multibanco              No        Yes      No
 Swish                   No        Yes      No
-Zip                     No        Yes      No
 PIX                     No        Yes      No
 Boleto                  No        Yes      No
-Mercado Pago            No        Yes      No
-Blik                    No        Yes      No
 PayU                    No        Yes      No
 Bancontact              No        Yes      No
 EPS                     No        Yes      No
+
+HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options were checked in HiCity's cashier on 4 September 2026. OnlyPay confirms final availability for each order. No OnlyPay option was listed for the US, Canada, Australia or France.
 
 AirPods Pro 3 Purchase Links:
 - V7 (Huilian): Earhive (https://airreps.link/eprov7hl), HiCity (https://airreps.link/hcprov7hl), Jenny (https://airreps.link/jprov7hl)
