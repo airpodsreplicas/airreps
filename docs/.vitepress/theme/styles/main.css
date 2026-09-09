@@ -1,5 +1,38 @@
 /* Legacy styles removed — contributor styles now scoped in Contributors.vue */
 
+/* Apple's product silhouettes identify the same families in both sidebar groups.
+   Local masks inherit the label color in light, dark, active and hover states. */
+.VPSidebar .link[href$="/airpods"] {
+  --airpods-sidebar-icon: url("/icons/airpods/airpods.svg");
+}
+
+.VPSidebar .link[href$="/pro"] {
+  --airpods-sidebar-icon: url("/icons/airpods/airpods-pro.svg");
+}
+
+.VPSidebar .link[href$="/airpods-max"] {
+  --airpods-sidebar-icon: url("/icons/airpods/airpods-max.svg");
+}
+
+.VPSidebar
+  .link:is([href$="/airpods"], [href$="/pro"], [href$="/airpods-max"])
+  .text {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.VPSidebar
+  .link:is([href$="/airpods"], [href$="/pro"], [href$="/airpods-max"])
+  .text::before {
+  flex: 0 0 24px;
+  height: 24px;
+  content: "";
+  background-color: currentColor;
+  -webkit-mask: var(--airpods-sidebar-icon) center / contain no-repeat;
+  mask: var(--airpods-sidebar-icon) center / contain no-repeat;
+}
+
 /* Version Badges */
 .version-badge {
   display: inline-flex;

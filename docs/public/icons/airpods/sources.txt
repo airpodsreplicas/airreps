@@ -1,0 +1,12 @@
+Apple AirPods navigation icons
+Downloaded 2026-09-10 from https://www.apple.com/airpods/
+Original SVG path artwork; navigation padding cropped and titles added. Apple artwork is not covered by this repository’s GPL license.
+
+airpods.svg
+https://www.apple.com/v/airpods/af/images/chapternav/airpods_4__fqax1brwh46e_large.svg
+
+airpods-pro.svg
+https://www.apple.com/v/airpods/af/images/chapternav/airpods_pro_light__ets5a19rt3au_large.svg
+
+airpods-max.svg
+https://www.apple.com/v/airpods/af/images/chapternav/airpods_max_light__cvaaddhgazqu_large.svg
