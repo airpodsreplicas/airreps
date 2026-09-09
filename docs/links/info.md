@@ -26,12 +26,8 @@ The following list contains links to verified sellers only. If you know of any s
 
 ## Choose the product you want to view links for
 
-- [AirPods 2](/links/airpods-2)
-- [AirPods 3](/links/airpods-3)
-- [AirPods 4](/links/airpods-4)
-- [AirPods Pro](/links/airpods-pro)
-- [AirPods Pro 2](/links/airpods-pro-2)
-- [AirPods Pro 3](/links/airpods-pro-3)
+- [AirPods](/links/airpods) — AirPods 5 (Coming Soon), 4, 3, 2
+- [AirPods Pro](/links/pro) — Pro 3, Pro 2, Pro 1
 - [AirPods Max](/links/airpods-max)
 
 ## How much do AirPods replicas cost?

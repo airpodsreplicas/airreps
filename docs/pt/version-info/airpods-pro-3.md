@@ -21,6 +21,8 @@ O V7 é a réplica mais recente dos AirPods Pro 3, baseada no chipset Huilian 37
 
 Ainda é um lançamento recente — alguns membros relataram chiado com o ANC e outras imperfeições nos primeiros lotes. É provável que os lotes posteriores aprimorem esses aspectos, mas confira as [discussões recentes do V7 no r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) para saber a opinião atual da comunidade antes de comprar.
 
+<span id="se-overview"></span>
+
 ## Visão geral do SE
 
 O SE é uma réplica do Pro 3 exclusiva da Jenny, com preço entre o V6 Huilian e o V7.

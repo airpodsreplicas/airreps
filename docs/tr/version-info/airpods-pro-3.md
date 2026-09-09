@@ -21,6 +21,8 @@ V7, Huilian 377H3 çipi üzerine kurulmuş en yeni AirPods Pro 3 replikasıdır.
 
 Bu hâlâ erken bir sürüm — bazı kullanıcılar ilk partilerde ANC sırasında hışırtı ve başka pürüzler bildirdi. Sonraki partilerin bunları gidermesi muhtemel, ancak satın almadan önce güncel görüşler için r/AirReps'teki yakın tarihli [V7 başlıklarına](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) göz atın.
 
+<span id="se-overview"></span>
+
 ## SE genel bakışı
 
 SE, V6 Huilian ile V7 arasında fiyatlandırılmış, Jenny'ye özel bir Pro 3 replikasıdır.

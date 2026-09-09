@@ -4,6 +4,10 @@ description: 'Sammenlign AirPods-replikaudgaver: hvad hver model mangler, hvilke
 ---
 # Generelt
 
+::: info AirPods 5 — Kommer snart
+Se [AirPods 5-siden](/da/version-info/airpods#airpods-5) for opdateringer om AirPods 5-kopier.
+:::
+
 ::: tip Om versionsnumre
 Dette versionsnummereringssystem blev designet af AirReps-fællesskabet for at forenkle produktidentifikation på tværs af forskellige producenter. Når nye AirPods-modeller udgives (som AirPods Pro 2 eller Pro 3), fortsætter versionsnummereringen fra tidligere numre i stedet for at starte forfra.
 

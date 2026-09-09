@@ -4,6 +4,10 @@ description: 'Comparez les versions répliques d''AirPods : ce que chaque modèl
 ---
 # Général
 
+::: info AirPods 5 — Bientôt disponible
+Pour les nouveautés sur les répliques d’AirPods 5, consultez la [page AirPods 5](/fr/version-info/airpods#airpods-5).
+:::
+
 ::: tip À propos des numéros de version
 Ce système de numérotation des versions a été conçu par la communauté AirReps pour simplifier l'identification des produits entre différents fabricants. Lorsque de nouveaux modèles d'AirPods sont publiés (comme AirPods Pro 2 ou Pro 3), la numérotation des versions continue à partir des numéros précédents plutôt que de repartir de zéro.
 

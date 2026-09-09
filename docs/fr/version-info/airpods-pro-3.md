@@ -21,6 +21,8 @@ Le V7 est la toute dernière réplique des AirPods Pro 3, basée sur la puce Hui
 
 Il s’agit encore d’une sortie récente — certains membres ont signalé des sifflements avec la réduction de bruit active ainsi que d’autres défauts de finition sur les premiers lots. Les lots suivants devraient probablement corriger ces problèmes, mais consultez les [discussions récentes sur le V7 sur r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) pour connaître les avis actuels avant d’acheter.
 
+<span id="se-overview"></span>
+
 ## Présentation du SE
 
 Le SE est une réplique des Pro 3 exclusive à Jenny, proposée à un prix situé entre le V6 Huilian et le V7.

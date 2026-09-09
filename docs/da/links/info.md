@@ -25,12 +25,8 @@ Følgende liste indeholder kun links til verificerede sælgere. Hvis du kender s
 
 ## Vælg det produkt, du vil se links til
 
-- [AirPods 2](/da/links/airpods-2)
-- [AirPods 3](/da/links/airpods-3)
-- [AirPods 4](/da/links/airpods-4)
-- [AirPods Pro](/da/links/airpods-pro)
-- [AirPods Pro 2](/da/links/airpods-pro-2)
-- [AirPods Pro 3](/da/links/airpods-pro-3)
+- [AirPods](/da/links/airpods) — AirPods 5 (Kommer snart), 4, 3, 2
+- [AirPods Pro](/da/links/pro) — Pro 3, Pro 2, Pro 1
 - [AirPods Max](/da/links/airpods-max)
 
 ## Hvor meget koster AirPods-kopier?

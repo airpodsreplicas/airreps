@@ -21,6 +21,8 @@ Die V7 ist das neueste AirPods-Pro-3-Replikat und basiert auf dem Huilian-377H3-
 
 Es handelt sich noch um eine frühe Veröffentlichung — einige Mitglieder haben bei ANC und andere Unsauberkeiten in den ersten Chargen ein Zischen gemeldet. Spätere Chargen werden diese Probleme wahrscheinlich verbessern, aber prüfe vor dem Kauf aktuelle [V7-Threads auf r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1), um den derzeitigen Community-Eindruck zu erfahren.
 
+<span id="se-overview"></span>
+
 ## SE-Überblick
 
 Die SE ist ein Jenny-exklusives Pro-3-Replikat und preislich zwischen der V6 Huilian und der V7 angesiedelt.

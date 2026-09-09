@@ -5,6 +5,10 @@ description: "Compare AirPods replica versions: what each model lacks, which fea
 
 # General
 
+::: info AirPods 5 — Coming Soon
+For AirPods 5 replica updates, see the [AirPods 5 page](/version-info/airpods#airpods-5).
+:::
+
 ::: tip About Version Numbers
 This version numbering system was designed by the AirReps community to simplify product identification across different manufacturers. When new AirPods models are released (like AirPods Pro 2 or Pro 3), the version numbering continues from previous numbers rather than starting from scratch.
 

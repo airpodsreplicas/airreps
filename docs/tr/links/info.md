@@ -25,12 +25,8 @@ Aşağıdaki liste yalnızca doğrulanmış satıcıların bağlantılarını i�
 
 ## Bağlantılarını görüntülemek istediğiniz ürünü seçin
 
-- [AirPods 2](/tr/links/airpods-2)
-- [AirPods 3](/tr/links/airpods-3)
-- [AirPods 4](/tr/links/airpods-4)
-- [AirPods Pro](/tr/links/airpods-pro)
-- [AirPods Pro 2](/tr/links/airpods-pro-2)
-- [AirPods Pro 3](/tr/links/airpods-pro-3)
+- [AirPods](/tr/links/airpods) — AirPods 5 (Yakında), 4, 3, 2
+- [AirPods Pro](/tr/links/pro) — Pro 3, Pro 2, Pro 1
 - [AirPods Max](/tr/links/airpods-max)
 
 ## AirPods kopyaları ne kadar tutar?

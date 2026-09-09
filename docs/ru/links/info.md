@@ -25,12 +25,8 @@ faq:
 
 ## Выберите продукт, для которого хотите просмотреть ссылки
 
-- [AirPods 2](/ru/links/airpods-2)
-- [AirPods 3](/ru/links/airpods-3)
-- [AirPods 4](/ru/links/airpods-4)
-- [AirPods Pro](/ru/links/airpods-pro)
-- [AirPods Pro 2](/ru/links/airpods-pro-2)
-- [AirPods Pro 3](/ru/links/airpods-pro-3)
+- [AirPods](/ru/links/airpods) — AirPods 5 (Скоро), 4, 3, 2
+- [AirPods Pro](/ru/links/pro) — Pro 3, Pro 2, Pro 1
 - [AirPods Max](/ru/links/airpods-max)
 
 ## Сколько стоят реплики AirPods?

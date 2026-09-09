@@ -21,6 +21,8 @@ V7 er den nyeste AirPods Pro 3-kopi, bygget på Huilian 377H3-chipsættet. Den i
 
 Det er stadig en tidlig udgivelse — nogle medlemmer har rapporteret susen ved ANC og andre ujævnheder i de første partier. Senere partier vil sandsynligvis forbedre disse ting, men tjek de nyeste [V7-tråde på r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) for den aktuelle stemning, før du køber.
 
+<span id="se-overview"></span>
+
 ## SE-overblik
 
 SE er en Jenny-eksklusiv Pro 3-kopi, der er prissat mellem V6 Huilian og V7.

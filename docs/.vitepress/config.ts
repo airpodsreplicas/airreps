@@ -4,6 +4,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { imageSize } from 'image-size';
 import { type DefaultTheme, defineConfig } from 'vitepress';
+import { productFamiliesPlugin } from './plugins/product-families';
 import { redirectPlugin } from './plugins/redirect';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
@@ -70,13 +71,23 @@ function buildFirstCommitDates(): Map<string, string> {
 }
 const firstCommitDates = buildFirstCommitDates();
 
+// Family pages use VitePress includes to share the generation content. Read
+// those same sources when extracting seller and FAQ metadata for the page.
+function readPageContent(absPath: string): string {
+    return fs
+        .readFileSync(absPath, 'utf-8')
+        .replace(/<!--\s*@include:\s*(\.\/[\w-]+\.md)\s*-->/g, (_, relative: string) =>
+            fs.readFileSync(path.resolve(path.dirname(absPath), relative), 'utf-8')
+        );
+}
+
 // Pull Q&A pairs out of `::: details Question?` blocks in a page's markdown
 // source. Only blocks whose title ends with `?` count — that excludes the
 // generic collapsible content (e.g. troubleshooting side-effect notes).
 function extractFaqsFromMarkdown(absPath: string): Array<{ q: string; a: string }> {
     let content: string;
     try {
-        content = fs.readFileSync(absPath, 'utf-8');
+        content = readPageContent(absPath);
     } catch {
         return [];
     }
@@ -123,7 +134,7 @@ const LINKS_PAGE_SELLERS: Array<{ key: string; name: string; url: string }> = [
 function getSellersOnLinksPage(absPath: string): Array<{ name: string; url: string }> {
     let content: string;
     try {
-        content = fs.readFileSync(absPath, 'utf-8');
+        content = readPageContent(absPath);
     } catch {
         return [];
     }
@@ -204,28 +215,12 @@ function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
                     text: t.sidebar.general,
                 },
                 {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-2`,
-                    text: 'AirPods 2',
+                    link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods`,
+                    text: 'AirPods',
                 },
                 {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-3`,
-                    text: 'AirPods 3',
-                },
-                {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-4`,
-                    text: 'AirPods 4',
-                },
-                {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-pro`,
+                    link: `${lang === 'en' ? '' : `/${lang}`}/version-info/pro`,
                     text: 'AirPods Pro',
-                },
-                {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-pro-2`,
-                    text: 'AirPods Pro 2',
-                },
-                {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-pro-3`,
-                    text: 'AirPods Pro 3',
                 },
                 {
                     link: `${lang === 'en' ? '' : `/${lang}`}/version-info/airpods-max`,
@@ -253,20 +248,10 @@ function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
             collapsed: false,
             items: [
                 { link: `${lang === 'en' ? '' : `/${lang}`}/links/info`, text: t.sidebar.info },
-                { link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-2`, text: 'AirPods 2' },
-                { link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-3`, text: 'AirPods 3' },
-                { link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-4`, text: 'AirPods 4' },
+                { link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods`, text: 'AirPods' },
                 {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-pro`,
+                    link: `${lang === 'en' ? '' : `/${lang}`}/links/pro`,
                     text: 'AirPods Pro',
-                },
-                {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-pro-2`,
-                    text: 'AirPods Pro 2',
-                },
-                {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-pro-3`,
-                    text: 'AirPods Pro 3',
                 },
                 {
                     link: `${lang === 'en' ? '' : `/${lang}`}/links/airpods-max`,
@@ -913,6 +898,9 @@ export default defineConfig({
                 sidebar: getSidebar('tr'),
             },
         },
+    },
+    markdown: {
+        config: productFamiliesPlugin,
     },
 
     // Auto-generate sitemap with all locales for SEO + image sitemap entries

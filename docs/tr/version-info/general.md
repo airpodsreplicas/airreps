@@ -4,6 +4,10 @@ description: 'AirPods replika sürümlerini karşılaştırın: her modelde nele
 ---
 # Genel
 
+::: info AirPods 5 — Yakında
+AirPods 5 replikaları hakkındaki güncellemeler için [AirPods 5 sayfasına](/tr/version-info/airpods#airpods-5) bakın.
+:::
+
 ::: tip Sürüm numaraları hakkında
 Bu sürüm numaralandırma sistemi, farklı üreticiler arasında ürün tanımlamayı basitleştirmek için AirReps topluluğu tarafından tasarlanmıştır. Yeni AirPods modelleri çıktığında (ör. AirPods Pro 2 veya Pro 3), sürüm numaralandırması sıfırdan başlamayıp önceki numaralardan devam eder.
 
