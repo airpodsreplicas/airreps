@@ -99,3 +99,40 @@ iframe[src*="youtube"] {
 .link-column a:hover {
   background: var(--vp-c-default-mute);
 }
+
+/* Compact download links below the Useful Apps images. */
+.app-download-action {
+  display: inline-flex;
+  justify-content: center;
+  /* Match the 128px app images, including their scaling in narrow cells. */
+  width: min(128px, 100%);
+}
+
+.vp-doc a.app-download {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 32px;
+  padding: 0 12px;
+  margin-top: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+  text-decoration: none;
+  background-color: rgba(236, 100, 93, 0.1);
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 20px;
+  transition: background-color 0.2s;
+}
+
+.vp-doc a.app-download:hover {
+  color: var(--vp-c-text-1);
+  background-color: var(--vp-c-default-soft);
+}
+
+.vp-doc a.app-download:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 3px;
+}
