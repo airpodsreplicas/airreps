@@ -1,12 +1,12 @@
 ---
-title: Aplikacje do firmware'u replik AirPods
-description: 'Niezbędne aplikacje do aktualizacji firmware''u replik AirPods. Obsługa Airoha, TigerBuilder, BES, HR i Huilian.'
+title: Aplikacje Firmware Dla Replik AirPods
+description: 'Niezbędne aplikacje do aktualizacji firmware dla replik AirPods. Obsługa Airoha, TigerBuilder, BES, HR i Huilian.'
 ---
 # Przydatne aplikacje
 
-Aktualizowanie oprogramowania układowego replik może często dodać nowe funkcje, takie jak dźwięk przestrzenny, lub poprawić ich stabilność. Aby to zrobić, możesz użyć różnych aplikacji dostępnych do pobrania. Pamiętaj jednak, że **większość tych aplikacji jest dostępna tylko na urządzenia z Androidem**. Aby sprawdzić, jakiego chipsetu używają Twoje repliki, zobacz [tabele porównania wersji](/pl/version-info/general).
+Aktualizacja firmware'u twoich repliki (reps) często może dodać nowe funkcje, takie jak dźwięk przestrzenny, lub poprawić ich stabilność. Aby to zrobić, możesz użyć różnych aplikacji dostępnych do pobrania. Należy jednak pamiętać, że **większość tych aplikacji jest dostępna jedynie na urządzenia z Androidem**. Aby zidentyfikować, jakiego chipsetu używają twoje repliki, zobacz [tabele porównania wersji](/pl/version-info/general).
 
-Poniżej znajdują się aplikacje, które możesz pobrać, wraz z informacjami o obsługiwanych wersjach i chipsetach replik. Jeśli masz problemy z instalacją aplikacji spoza Sklepu Play, upewnij się, że w ustawieniach (w sekcji Bezpieczeństwo lub Dostępność) włączono opcję „Instalowanie z nieznanych źródeł”. Aplikacje te mogą również pomóc dostosować [jakość dźwięku](/pl/introduction/sound-quality) za pomocą ustawień korektora. Więcej informacji o korzystaniu z tych aplikacji i unikaniu problemów znajdziesz na naszym [Discordzie](https://airreps.link/discord).
+Poniżej znajdują się aplikacje, które można pobrać, aby ci pomóc, wraz z informacją, jakie wersje i chipsety repów obsługują. Jeśli masz problemy z instalacją aplikacji spoza Sklepu Play, upewnij się, że w ustawieniach włączyłeś opcję 'Zezwalaj na instalowanie z nieznanych źródeł' (w sekcji Bezpieczeństwo lub Ułatwienia dostępu). Aplikacje te mogą także pomóc w dostosowaniu [jakości dźwięku](/pl/introduction/sound-quality) poprzez ustawienia EQ. Aby uzyskać więcej informacji o tym, jak korzystać z tych aplikacji i unikać problemów, odwiedź nasz [Discord](https://airreps.link/discord).
 
 ## **TigerBuilder**
 
@@ -14,9 +14,9 @@ Poniżej znajdują się aplikacje, które możesz pobrać, wraz z informacjami o
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Pobierz APK dla CloudCC (Android)" target="_blank" rel="noreferrer">Pobierz APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Pobieranie niedostępne |
 
-:::warning **CloudCC** jest przestarzała od czasu zintegrowania funkcji OTA z FlyCC. Należy jej używać wyłącznie jako rozwiązania tymczasowego w przypadku napotkania problemu z uprawnieniami do pamięci.
+:::warning **CloudCC** zostało wycofane, ponieważ TigerBuilder zintegrował funkcję OTA z FlyCC. Powinno być używane tylko jako obejście, jeśli napotkasz problem z uprawnieniami do pamięci.
 :::
-:::tip Airoha156x należy używać wyłącznie do modyfikowania ustawień korektora w AirPods Max V2 (Airoha 1561M) i V3 (Airoha 1562AE).
+:::tip Airoha156x powinno być używane tylko do modyfikowania ustawień equalizera w AirPods Max V2 (Airoha 1561M) i V3 (Airoha 1562AE).
 :::
 
 ## **BES**
@@ -37,4 +37,4 @@ Poniżej znajdują się aplikacje, które możesz pobrać, wraz z informacjami o
 ## **V2.5/KKX**
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/kkx" aria-label="Pobierz APK dla KKX (Android)" target="_blank" rel="noreferrer">Pobierz APK</a></span> |
-|---|---|
+|---|

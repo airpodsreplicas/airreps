@@ -1,12 +1,12 @@
 ---
-title: AirPods Replica Firmware Uygulamaları
-description: 'AirPods replikaları için gerekli firmware güncelleme uygulamaları. Airoha, TigerBuilder, BES, HR ve Huilian desteği.'
+title: AirPods Replika Firmware Uygulamaları
+description: 'AirPods replikaları için gerekli firmware güncelleme uygulamaları. Airoha, TigerBuilder, BES, HR ve Huilian için destek.'
 ---
-# Kullanışlı uygulamalar
+# Useful Apps
 
-Replikalarınızın donanım yazılımını güncellemek, uzamsal ses gibi yeni özellikler ekleyebilir veya kararlılıklarını artırabilir. Bunu yapmak için indirilebilen çeşitli uygulamaları kullanabilirsiniz. Ancak lütfen **bu uygulamaların çoğunun yalnızca Android cihazlarda kullanılabildiğini** unutmayın. Replikalarınızın kullandığı yonga setini belirlemek için [sürüm karşılaştırma tablolarına](/tr/version-info/general) bakın.
+Updating the firmware on your reps can often add new features, such as spatial audio, or improve their stability. In order to do this, you can use a variety of apps that are available for download. However, please note that **most of these apps are only available for Android devices**. To identify which chipset your replicas use, see the [sürüm karşılaştırma tabloları](/tr/version-info/general).
 
-Aşağıda, size yardımcı olmak için indirilebilecek uygulamalar ve destekledikleri replika sürümleri ile yonga setleri yer almaktadır. Play Store dışındaki uygulamaları yüklerken sorun yaşıyorsanız ayarlarınızdan (Güvenlik veya Erişilebilirlik bölümünde) "Bilinmeyen kaynaklardan yüklemeye" izin verdiğinizden emin olun. Bu uygulamalar ayrıca EQ ayarları aracılığıyla [ses kalitesini](/tr/introduction/sound-quality) ayarlamanıza yardımcı olabilir. Bu uygulamaların nasıl kullanılacağı ve sorunlardan nasıl kaçınılacağı hakkında daha fazla bilgi için [Discord sunucumuzu](https://airreps.link/discord) ziyaret edin.
+Below are apps that can be downloaded to aid you, alongside what versions and chipsets of reps they support. If you have problems in installing the non-Play Store apps, make sure to enable 'Install from unknown sources' in your settings (in the Security or Accessibility section). These apps can also help adjust [ses kalitesi](/tr/introduction/sound-quality) through EQ settings. For more information on how to use these apps and avoid problems, visit our [Discord](https://airreps.link/discord).
 
 ## **TigerBuilder**
 
@@ -14,9 +14,9 @@ Aşağıda, size yardımcı olmak için indirilebilecek uygulamalar ve destekled
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="CloudCC (Android) için APK indir" target="_blank" rel="noreferrer">APK indir</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — İndirme kullanılamıyor |
 
-:::warning **CloudCC**, TigerBuilder OTA işlevselliğini FlyCC'ye entegre ettiğinden beri kullanımdan kaldırılmıştır. Yalnızca depolama izni sorunuyla karşılaşırsanız geçici çözüm olarak kullanılmalıdır.
+:::warning **CloudCC** has been deprecated since TigerBuilder integrated OTA functionality into FlyCC. It should only be used as a workaround if you encounter the storage permission issue.
 :::
-:::tip Airoha156x yalnızca AirPods Max V2 (Airoha 1561M) ve V3 (Airoha 1562AE) üzerindeki ekolayzır ayarlarını değiştirmek için kullanılmalıdır.
+:::tip Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE).
 :::
 
 ## **BES**

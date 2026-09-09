@@ -1,12 +1,12 @@
 ---
-title: Firmware-Apps für AirPods-Repliken
-description: 'Wichtige Firmware-Update-Apps für AirPods-Repliken. Unterstützung für Airoha, TigerBuilder, BES, HR und Huilian.'
+title: AirPods-Replika-Firmware-Apps
+description: 'Unverzichtbare Firmware-Update-Apps für AirPods-Repliken. Unterstützung für Airoha, TigerBuilder, BES, HR, und Huilian.'
 ---
 # Nützliche Apps
 
-Das Aktualisieren der Firmware deiner Repliken kann oft neue Funktionen wie Raumklang hinzufügen oder ihre Stabilität verbessern. Dafür kannst du verschiedene Apps verwenden, die zum Download verfügbar sind. Beachte jedoch, dass **die meisten dieser Apps nur für Android-Geräte verfügbar sind**. Um herauszufinden, welchen Chipsatz deine Repliken verwenden, siehe die [Versionsvergleichstabellen](/de/version-info/general).
+Das Aktualisieren der Firmware deiner Reps kann häufig neue Funktionen wie Spatial Audio hinzufügen oder deren Stabilität verbessern. Dafür kannst du verschiedene Apps verwenden, die zum Download bereitstehen. Bitte beachte jedoch, dass **die meisten dieser Apps nur für Android-Geräte verfügbar sind**. Um zu identifizieren, welchen Chipset deine Replikas verwenden, siehe die [Versionsvergleichstabellen](/de/version-info/general).
 
-Nachfolgend findest du Apps, die dich dabei unterstützen können, sowie die Versionen und Chipsätze der Repliken, die sie unterstützen. Falls du Probleme bei der Installation der Apps außerhalb des Play Store hast, stelle sicher, dass du in deinen Einstellungen (im Bereich „Sicherheit“ oder „Bedienungshilfen“) „Installation aus unbekannten Quellen“ aktivierst. Mit diesen Apps kannst du außerdem die [Klangqualität](/de/introduction/sound-quality) über EQ-Einstellungen anpassen. Weitere Informationen zur Verwendung dieser Apps und zur Vermeidung von Problemen findest du auf unserem [Discord](https://airreps.link/discord).
+Unten findest du Apps, die heruntergeladen werden können, sowie die Versionen und Chipsets der Reps, die sie unterstützen. Wenn du Probleme beim Installieren von Apps außerhalb des Play Stores hast, stelle sicher, dass du in den Einstellungen die Option 'Installation aus unbekannten Quellen erlauben' aktivierst (im Bereich Sicherheit oder Bedienungshilfen). Diese Apps können auch helfen, die [Klangqualität](/de/introduction/sound-quality) über EQ-Einstellungen anzupassen. Für weitere Informationen zur Nutzung dieser Apps und zur Vermeidung von Problemen besuche unseren [Discord](https://airreps.link/discord).
 
 ## **TigerBuilder**
 
@@ -14,9 +14,9 @@ Nachfolgend findest du Apps, die dich dabei unterstützen können, sowie die Ver
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="APK für CloudCC (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Download nicht verfügbar |
 
-:::warning **CloudCC** ist veraltet, seit TigerBuilder die OTA-Funktion in FlyCC integriert hat. Es sollte nur als Workaround verwendet werden, wenn das Problem mit der Speicherberechtigung auftritt.
+:::warning **CloudCC** ist veraltet, seit TigerBuilder die OTA-Funktionalität in FlyCC integriert hat. Es sollte nur als Workaround verwendet werden, wenn du auf das Problem mit der Speicherberechtigung stößt.
 :::
-:::tip Airoha156x sollte nur verwendet werden, um die Equalizer-Einstellungen der AirPods Max V2 (Airoha 1561M) und V3 (Airoha 1562AE) zu ändern.
+:::tip Airoha156x sollte nur verwendet werden, um die Equalizer-Einstellungen an den AirPods Max V2 (Airoha 1561M) und V3 (Airoha 1562AE) zu ändern.
 :::
 
 ## **BES**
@@ -37,4 +37,4 @@ Nachfolgend findest du Apps, die dich dabei unterstützen können, sowie die Ver
 ## **V2.5/KKX**
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/kkx" aria-label="APK für KKX (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span> |
-|---|---|
+|---|

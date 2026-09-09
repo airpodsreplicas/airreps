@@ -1,20 +1,20 @@
 ---
-title: Приложения для прошивки реплик AirPods
-description: 'Необходимые приложения для обновления прошивки реплик AirPods. Поддержка Airoha, TigerBuilder, BES, HR и Huilian.'
+title: Приложения Для Обновления Прошивки Реплик AirPods
+description: 'Необходимые приложения для обновления прошивки реплик AirPods. Поддержка Airoha, TigerBuilder, BES, HR, и Huilian.'
 ---
 # Полезные приложения
 
-Обновление прошивки ваших реплик часто может добавить новые функции, например пространственное аудио, или повысить их стабильность. Для этого можно использовать различные приложения, доступные для скачивания. Однако обратите внимание, что **большинство этих приложений доступны только для устройств Android**. Чтобы определить, какой чипсет используется в ваших репликах, см. [таблицы сравнения версий](/ru/version-info/general).
+Обновление прошивки ваших реплик часто может добавить новые функции, такие как пространственное аудио, или улучшить их стабильность. Для этого вы можете использовать различные приложения, доступные для загрузки. Обратите внимание, что **большинство этих приложений доступно только для устройств Android**. Чтобы определить, какой чипсет используется в ваших репликах, см. [таблицы сравнения версий](/ru/version-info/general).
 
-Ниже приведены приложения, которые можно скачать для этой цели, а также указаны поддерживаемые ими версии и чипсеты реплик. Если у вас возникли проблемы с установкой приложений не из Play Маркета, включите в настройках параметр «Установка из неизвестных источников» (в разделе «Безопасность» или «Специальные возможности»). Эти приложения также позволяют настраивать [качество звука](/ru/introduction/sound-quality) с помощью параметров эквалайзера. Дополнительную информацию об использовании этих приложений и способах избежать проблем можно найти на нашем сервере [Discord](https://airreps.link/discord).
+Ниже перечислены приложения, которые можно скачать для помощи, а также указаны версии и чипсеты реплик, которые они поддерживают. Если у вас возникают проблемы с установкой приложений не из Play Store, убедитесь, что в настройках включена опция «Установка из неизвестных источников» (в разделе Безопасность или Специальные возможности). Эти приложения также могут помочь настроить [качество звука](/ru/introduction/sound-quality) с помощью параметров эквалайзера. Для получения дополнительной информации о том, как использовать эти приложения и избегать проблем, посетите наш [Discord](https://airreps.link/discord).
 
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Скачать APK для FlyCC (Android)" target="_blank" rel="noreferrer">Скачать APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Скачать FlyCC (iOS) в App Store" target="_blank" rel="noreferrer">App Store</a></span> |
 |---|---|
-| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Скачать APK для CloudCC (Android)" target="_blank" rel="noreferrer">Скачать APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — скачивание недоступно |
+| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Скачать APK для CloudCC (Android)" target="_blank" rel="noreferrer">Скачать APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Скачивание недоступно |
 
-:::warning **CloudCC** устарел с тех пор, как TigerBuilder интегрировал функцию OTA в FlyCC. Его следует использовать только в качестве обходного решения, если вы столкнулись с проблемой разрешения на доступ к хранилищу.
+:::warning **CloudCC** устарел с тех пор, как TigerBuilder интегрировал функциональность OTA в FlyCC. Его следует использовать только как обходной путь, если вы столкнулись с проблемой разрешения доступа к хранилищу.
 :::
 :::tip Airoha156x следует использовать только для изменения настроек эквалайзера на AirPods Max V2 (Airoha 1561M) и V3 (Airoha 1562AE).
 :::
