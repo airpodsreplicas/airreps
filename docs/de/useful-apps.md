@@ -10,9 +10,9 @@ Unten findest du Apps, die heruntergeladen werden können, sowie die Versionen u
 
 ## **TigerBuilder**
 
-|[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS) |
+|[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="APK für FlyCC (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="FlyCC (iOS) im App Store herunterladen" target="_blank" rel="noreferrer">App Store</a></span> |
 |---|---|
-| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Download nicht verfügbar |
+| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="APK für CloudCC (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Download nicht verfügbar |
 
 :::warning **CloudCC** ist veraltet, seit TigerBuilder die OTA-Funktionalität in FlyCC integriert hat. Es sollte nur als Workaround verwendet werden, wenn du auf das Problem mit der Speicherberechtigung stößt.
 :::
@@ -21,20 +21,20 @@ Unten findest du Apps, die heruntergeladen werden können, sowie die Versionen u
 
 ## **BES**
 
-| [![HBluetooth (iOS)](/app_icon/hbluetooth.png)](https://airreps.link/hbluetooth) HBluetooth (iOS) |
+| [![HBluetooth (iOS)](/app_icon/hbluetooth.png)](https://airreps.link/hbluetooth) HBluetooth (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/hbluetooth" aria-label="HBluetooth (iOS) im App Store herunterladen" target="_blank" rel="noreferrer">App Store</a></span> |
 |---|
 
 ## **HR**
 
-|[![BullSuper (Android)](/app_icon/bullsuper.png)](https://airreps.link/bullsuperhr) BullSuper (Android)|[![G&Link (iOS)](/app_icon/g&link.png)](https://airreps.link/gnlink) G&Link (iOS)|
+|[![BullSuper (Android)](/app_icon/bullsuper.png)](https://airreps.link/bullsuperhr) BullSuper (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/bullsuperhr" aria-label="APK für BullSuper (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span>|[![G&Link (iOS)](/app_icon/g&link.png)](https://airreps.link/gnlink) G&Link (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/gnlink" aria-label="G&amp;Link (iOS) im App Store herunterladen" target="_blank" rel="noreferrer">App Store</a></span>|
 |---|---|
 
 ## **Huilian**
 
-|[![StarFun (Android)](/app_icon/starfun.png)](https://airreps.link/starfun) StarFun (Android)|[![StarFun (iOS)](/app_icon/starfun.png)](https://airreps.link/istarfun) StarFun (iOS)|
+|[![StarFun (Android)](/app_icon/starfun.png)](https://airreps.link/starfun) StarFun (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/starfun" aria-label="APK für StarFun (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span>|[![StarFun (iOS)](/app_icon/starfun.png)](https://airreps.link/istarfun) StarFun (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/istarfun" aria-label="StarFun (iOS) im App Store herunterladen" target="_blank" rel="noreferrer">App Store</a></span>|
 |---|---|
 
 ## **V2.5/KKX**
 
-| [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android) |
+| [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/kkx" aria-label="APK für KKX (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span> |
 |---|

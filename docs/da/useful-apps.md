@@ -10,9 +10,9 @@ Nedenfor er apps, som kan downloades for at hjælpe dig, samt hvilke versioner o
 
 ## **TigerBuilder**
 
-|[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS) |
+|[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Hent APK til FlyCC (Android)" target="_blank" rel="noreferrer">Hent APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Hent FlyCC (iOS) i App Store" target="_blank" rel="noreferrer">App Store</a></span> |
 |---|---|
-| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Download ikke tilgængelig |
+| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Hent APK til CloudCC (Android)" target="_blank" rel="noreferrer">Hent APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Download ikke tilgængelig |
 
 :::warning **CloudCC** er blevet udfaset siden TigerBuilder integrerede OTA-funktionalitet i FlyCC. Den bør kun bruges som en midlertidig løsning, hvis du støder på et problem med lager-tilladelser.
 :::
@@ -21,20 +21,20 @@ Nedenfor er apps, som kan downloades for at hjælpe dig, samt hvilke versioner o
 
 ## **BES**
 
-| [![HBluetooth (iOS)](/app_icon/hbluetooth.png)](https://airreps.link/hbluetooth) HBluetooth (iOS) |
+| [![HBluetooth (iOS)](/app_icon/hbluetooth.png)](https://airreps.link/hbluetooth) HBluetooth (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/hbluetooth" aria-label="Hent HBluetooth (iOS) i App Store" target="_blank" rel="noreferrer">App Store</a></span> |
 |---|
 
 ## **HR**
 
-|[![BullSuper (Android)](/app_icon/bullsuper.png)](https://airreps.link/bullsuperhr) BullSuper (Android)|[![G&Link (iOS)](/app_icon/g&link.png)](https://airreps.link/gnlink) G&Link (iOS)|
+|[![BullSuper (Android)](/app_icon/bullsuper.png)](https://airreps.link/bullsuperhr) BullSuper (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/bullsuperhr" aria-label="Hent APK til BullSuper (Android)" target="_blank" rel="noreferrer">Hent APK</a></span>|[![G&Link (iOS)](/app_icon/g&link.png)](https://airreps.link/gnlink) G&Link (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/gnlink" aria-label="Hent G&amp;Link (iOS) i App Store" target="_blank" rel="noreferrer">App Store</a></span>|
 |---|---|
 
 ## **Huilian**
 
-|[![StarFun (Android)](/app_icon/starfun.png)](https://airreps.link/starfun) StarFun (Android)|[![StarFun (iOS)](/app_icon/starfun.png)](https://airreps.link/istarfun) StarFun (iOS)|
+|[![StarFun (Android)](/app_icon/starfun.png)](https://airreps.link/starfun) StarFun (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/starfun" aria-label="Hent APK til StarFun (Android)" target="_blank" rel="noreferrer">Hent APK</a></span>|[![StarFun (iOS)](/app_icon/starfun.png)](https://airreps.link/istarfun) StarFun (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/istarfun" aria-label="Hent StarFun (iOS) i App Store" target="_blank" rel="noreferrer">App Store</a></span>|
 |---|---|
 
 ## **V2.5/KKX**
 
-| [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android) |
+| [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/kkx" aria-label="Hent APK til KKX (Android)" target="_blank" rel="noreferrer">Hent APK</a></span> |
 |---|
