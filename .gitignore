@@ -36,6 +36,10 @@ package-lock.json
 # OG image test variants (scripts/test-og-variants.mjs scratch output)
 /scripts/.og-variants/
 
+# Local seller link check reports and Python caches
+/seller-link-report/
+__pycache__/
+
 # ========================
 # Claude Code / Skills
 # ========================

@@ -27,6 +27,12 @@
   <li>Use <a href="https://github.com/airpodsreplicas/airreps/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title="><strong>Feature Request</strong></a> for suggesting new features or improvements.</li>
 </ul>
 
+<h2 id="seller-link-checks">Seller link checks</h2>
+
+<p>The <a href="https://github.com/airpodsreplicas/airreps/actions/workflows/check-seller-links.yml">weekly seller link check</a> runs every Monday at 07:17 UTC and can also be started with <strong>Run workflow</strong>. It discovers links from all languages' seller directories, seller introductions, and the quiz, follows redirects, and retries failures up to three attempts. Confirmed missing pages and persistent connection/server errors fail the check; access blocks and rate limits are reported separately for manual review. It checks reachability, not stock or whether a listing still describes the correct product.</p>
+
+<p>Each run has a summary and a <code>seller-link-report</code> artifact containing all source locations and redirect destinations, retained for 30 days. These checks run independently of site deployment and do not change guide links automatically. To run locally: <code>python3 scripts/check-seller-links.py</code>; reports are written to <code>seller-link-report/</code>.</p>
+
 <h2 id="contact">Contact</h2>
 
 <p>If you have any further questions or comments, please feel free to reach out to us. We have a dedicated team of helpers ready to assist you on our Discord server. You can join us by clicking <a href="https://airreps.link/discord"><strong>here</strong></a>.</p>

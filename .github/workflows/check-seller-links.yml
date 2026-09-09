@@ -1,0 +1,52 @@
+name: Weekly seller link check
+
+on:
+  schedule:
+    # Mondays at 07:17 UTC (08:17 CET / 09:17 CEST).
+    - cron: '17 7 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/check-seller-links.yml'
+      - 'scripts/check-seller-links.py'
+      - 'scripts/test_seller_links.py'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: seller-link-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+
+      - name: Test checker
+        run: python3 -m unittest discover -s scripts -p 'test_seller_links.py' -v
+
+      - name: Check seller and quiz links
+        run: python3 scripts/check-seller-links.py --output-dir "$RUNNER_TEMP/seller-links"
+
+      - name: Publish report to job summary
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/seller-links/report.md" ]; then
+            cat "$RUNNER_TEMP/seller-links/report.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload full report
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: seller-link-report
+          path: ${{ runner.temp }}/seller-links/
+          retention-days: 30
