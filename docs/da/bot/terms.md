@@ -46,7 +46,7 @@ Medarbejdere og bidragydere er frivillige. Intet, botten siger, er juridisk, pro
 
 ## Immaterielle rettigheder
 
-Bottens kildekode er udgivet under licensen [GPL-3.0-or-later](https://github.com/airpodsreplicas/AirReps-Bot). Navnet og brandingen AirReps tilhører stadig AirReps. Brug dem ikke til at antyde, at vi støtter eller er knyttet til et andet projekt, uden tilladelse. Botten er ikke tilknyttet Apple, Discord Inc., KakoBuy, Reddit eller nogen sælger.
+Bottens kildekode er udgivet under licensen [GPL-3.0-or-later](https://spdx.org/licenses/GPL-3.0-or-later.html). Navnet og brandingen AirReps tilhører stadig AirReps. Brug dem ikke til at antyde, at vi støtter eller er knyttet til et andet projekt, uden tilladelse. Botten er ikke tilknyttet Apple, Discord Inc., KakoBuy, Reddit eller nogen sælger.
 
 Indhold, du sender gennem botten (kommandoer, feedback, giveaway-UID'er, markedspladslinks og lignende), forbliver dit. Ved at bruge botten giver du os en licens til kun at behandle og gemme dette indhold i det omfang, det er nødvendigt for at drive tjenesten, som beskrevet i [privatlivspolitikken](/da/bot/privacy).
 

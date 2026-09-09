@@ -46,12 +46,7 @@ Las réplicas de AirPods 4 ofrecen un diseño de oreja abierta, con ANC en las v
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/j4v2hr">Sitio web</a>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>

@@ -12,7 +12,7 @@ Nedenfor er apps, som kan downloades for at hjælpe dig, samt hvilke versioner o
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS) |
 |---|---|
-| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | [![Airoha156x (Android)](/app_icon/airoha156x.png)](https://airreps.link/airoha156x) Airoha156x (Android) |
+| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Download ikke tilgængelig |
 
 :::warning **CloudCC** er blevet udfaset siden TigerBuilder integrerede OTA-funktionalitet i FlyCC. Den bør kun bruges som en midlertidig løsning, hvis du støder på et problem med lager-tilladelser.
 :::

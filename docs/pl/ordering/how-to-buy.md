@@ -27,6 +27,8 @@ Zamawianie jest proste: wybierz produkt, który chcesz i sfinalizuj zakup. Nie w
 Płatności przez Wise lub przelew bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może potrwać do 24 godzin, zanim Twoje zamówienie zostanie przetworzone.
 :::
 
+<span id="paying-with-alipay"></span>
+
 ## Płacenie przez Alipay
 
 Wielu zaufanych sprzedawców akceptuje teraz Alipay, co umożliwia łatwe płatności kartą bez weryfikacji KYC.

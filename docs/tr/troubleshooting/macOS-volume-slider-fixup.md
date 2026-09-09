@@ -20,6 +20,8 @@ Eğitime başlamadan önce lütfen şunların sağlandığından emin olun:
 PS: `brew` kullanmak manuel kurulumdan çok daha kolaydır, ancak `brew` kullanmak istemiyorsanız, bu rehberi okumayı bırakıp [buradaki](https://github.com/briankendall/proxy-audio-device#manual-installation) adımları takip edebilirsiniz.
 :::
 
+<span id="brew-installation"></span>
+
 ## **`brew` Kurulumu**
 
 Sisteminize `brew` yüklü değilse, buradan başlayabiliriz. Bu [sayfaya](https://brew.sh/) girin, komutu kopyalayın ve Terminal'de çalıştırın.

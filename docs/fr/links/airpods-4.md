@@ -46,12 +46,7 @@ Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC 
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/j4v2hr">Site web</a>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>

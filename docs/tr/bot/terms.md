@@ -46,7 +46,7 @@ Personel ve katkıda bulunanlar gönüllüdür. Botun söylediği hiçbir şey h
 
 ## Fikri Mülkiyet
 
-Botun kaynak kodu [GPL-3.0-or-later](https://github.com/airpodsreplicas/AirReps-Bot) lisansı altında yayımlanmıştır. AirReps adı ve markası yine AirReps'e aittir. İzin olmadan bunları başka bir projeyi desteklediğimizi veya başka bir projeyle bağlantılı olduğumuzu ima edecek şekilde kullanmayın. Botun Apple, Discord Inc., KakoBuy, Reddit veya herhangi bir satıcıyla bağlantısı yoktur.
+Botun kaynak kodu [GPL-3.0-or-later](https://spdx.org/licenses/GPL-3.0-or-later.html) lisansı altında yayımlanmıştır. AirReps adı ve markası yine AirReps'e aittir. İzin olmadan bunları başka bir projeyi desteklediğimizi veya başka bir projeyle bağlantılı olduğumuzu ima edecek şekilde kullanmayın. Botun Apple, Discord Inc., KakoBuy, Reddit veya herhangi bir satıcıyla bağlantısı yoktur.
 
 Bot üzerinden gönderdiğiniz içerik (komutlar, geri bildirimler, çekiliş UID'leri, pazar yeri bağlantıları ve benzerleri) size ait olmaya devam eder. Botu kullanmanız, [Gizlilik Politikasında](/tr/bot/privacy) açıklandığı üzere, bize bu içeriği yalnızca hizmeti yürütmek için gerektiği ölçüde işleme ve saklama lisansı verir.
 

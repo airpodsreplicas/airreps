@@ -46,7 +46,7 @@ Członkowie zespołu i współtwórcy są wolontariuszami. Żadna informacja prz
 
 ## Własność intelektualna
 
-Kod źródłowy Bota jest publikowany na licencji [GPL-3.0-or-later](https://github.com/airpodsreplicas/AirReps-Bot). Nazwa i marka AirReps nadal należą do AirReps. Nie używaj ich w sposób sugerujący, że popieramy inny projekt lub jesteśmy z nim powiązani, bez uzyskania zgody. Bot nie jest powiązany z Apple, Discord Inc., KakoBuy, Redditem ani żadnym sprzedawcą.
+Kod źródłowy Bota jest publikowany na licencji [GPL-3.0-or-later](https://spdx.org/licenses/GPL-3.0-or-later.html). Nazwa i marka AirReps nadal należą do AirReps. Nie używaj ich w sposób sugerujący, że popieramy inny projekt lub jesteśmy z nim powiązani, bez uzyskania zgody. Bot nie jest powiązany z Apple, Discord Inc., KakoBuy, Redditem ani żadnym sprzedawcą.
 
 Treści przesyłane przez Ciebie za pośrednictwem Bota (polecenia, opinie, UID używane w rozdaniach, linki do platform handlowych i podobne treści) pozostają Twoją własnością. Korzystanie z Bota udziela nam licencji na przetwarzanie i przechowywanie tych treści wyłącznie w zakresie niezbędnym do obsługi usługi, zgodnie z opisem w [Polityce prywatności](/pl/bot/privacy).
 

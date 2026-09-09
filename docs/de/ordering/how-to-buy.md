@@ -27,6 +27,8 @@ Das Bestellen ist einfach: Wählen Sie das gewünschte Produkt und schließen Si
 Zahlungen über Wise oder Banküberweisung erfordern eine manuelle Prüfung durch den Verkäufer, die bis zu 24 Stunden dauern kann, bevor Ihre Bestellung bearbeitet wird.
 :::
 
+<span id="paying-with-alipay"></span>
+
 ## Zahlung mit Alipay
 
 Viele vertrauenswürdige Verkäufer akzeptieren jetzt Alipay, was einfache Kartenzahlungen ohne KYC-Verifizierung ermöglicht.

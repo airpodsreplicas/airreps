@@ -27,6 +27,8 @@ Bestilling er enkelt: vælg det produkt, du ønsker, og betal. Er du ikke sikker
 Betalinger via Wise eller bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer, før din ordre behandles.
 :::
 
+<span id="paying-with-alipay"></span>
+
 ## Betaling med Alipay
 
 Mange betroede sælgere accepterer nu Alipay, hvilket gør det nemt at betale med kort uden KYC-verifikation.

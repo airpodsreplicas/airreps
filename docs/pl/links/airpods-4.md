@@ -46,12 +46,7 @@ Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach w
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/j4v2hr">Strona</a>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>

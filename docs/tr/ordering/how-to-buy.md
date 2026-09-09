@@ -27,6 +27,8 @@ Sipariş vermek basittir: istediğiniz ürünü seçin ve ödeme yapın. Hangi m
 Wise veya banka havalesi ile ödemeler satıcı tarafından manuel inceleme gerektirir; bu, siparişinizin işlenmesinden önce 24 saate kadar sürebilir.
 :::
 
+<span id="paying-with-alipay"></span>
+
 ## Alipay ile ödeme
 
 Birçok güvenilir satıcı artık Alipay kabul ediyor; bu, KYC doğrulaması olmadan kolay kart ödemeleri yapmanızı sağlar.

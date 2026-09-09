@@ -39,20 +39,9 @@ Les répliques d'AirPods Pro 2 sont le choix intra-auriculaire le plus populaire
   </tr>
   <tr>
     <td><span class="version-badge">V5.3 (HR)</span></td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/eprov53hr2">Site web</a>
-        <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
-      </div>
-    </td>
     <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/jprov53hr2">Site web</a>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
+    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">V5.3 (TB)</span></td>
@@ -141,12 +130,7 @@ Les répliques d'AirPods Pro 2 sont le choix intra-auriculaire le plus populaire
     <td><span class="version-badge">V5.2 (HR)</span></td>
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/jprov52hr">Site web</a>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">V4.2</span></td>

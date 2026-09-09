@@ -1,6 +1,24 @@
 import { mkdirSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import type { Plugin } from 'vite';
+import { PRODUCT_FAMILIES, productDestination, productRedirectScript } from '../product-routes';
+
+export function writeProductRedirects(outDir: string): void {
+    for (const locale of ['', '/da', '/de', '/es', '/fr', '/pl', '/pt', '/ru', '/tr']) {
+        for (const section of ['version-info', 'links']) {
+            for (const model of Object.keys(PRODUCT_FAMILIES)) {
+                const from = `${locale}/${section}/${model}`;
+                const destination = productDestination(from)!;
+                const file = join(outDir, from.slice(1), 'index.html');
+                mkdirSync(dirname(file), { recursive: true });
+                writeFileSync(
+                    file,
+                    `<!doctype html><html><head><meta charset="utf-8"><meta name="robots" content="noindex, follow"><link rel="canonical" href="https://airpodsreplicas.com${destination.split('#')[0]}"><script>${productRedirectScript(from)}</script><meta http-equiv="refresh" content="0; url=${destination}"></head><body><a href="${destination}">AirPods</a></body></html>`
+                );
+            }
+        }
+    }
+}
 
 // Redirect mappings for old dictionary pages
 const redirects: Record<string, string> = {

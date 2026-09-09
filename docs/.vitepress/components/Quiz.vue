@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useData } from 'vitepress';
 import { computed, ref } from 'vue';
+import { productDestination } from '../product-routes';
 
 const { lang } = useData();
 
@@ -9,7 +10,8 @@ const { lang } = useData();
 // page sends every non-EN visitor back to the English copies.
 const localeUrl = (path: string): string => {
     const base = lang.value.split('-')[0];
-    return base === 'en' ? path : `/${base}${path}`;
+    const localized = base === 'en' ? path : `/${base}${path}`;
+    return productDestination(localized) ?? localized;
 };
 
 // --- i18n ---
@@ -99,6 +101,7 @@ const i18n: Record<string, Record<string, string>> = {
         howToBuyGuide: 'How to Buy Guide',
         orderFrom: 'Order from',
         allSellerLinks: 'All seller links',
+        sellerUnavailable: 'No current listing from this seller. Check the other sellers below.',
         comparePayments: 'Compare payment methods',
         bestPrices: 'Best prices',
         fastestShipping: 'Fastest shipping',
@@ -199,6 +202,7 @@ const i18n: Record<string, Record<string, string>> = {
         howToBuyGuide: 'Gu\u00eda de compra',
         orderFrom: 'Pedir en',
         allSellerLinks: 'Todos los enlaces',
+        sellerUnavailable: 'Este vendedor no tiene un anuncio disponible. Consulta los demás vendedores abajo.',
         comparePayments: 'Comparar m\u00e9todos de pago',
         bestPrices: 'Mejores precios',
         fastestShipping: 'Env\u00edo m\u00e1s r\u00e1pido',
@@ -299,6 +303,7 @@ const i18n: Record<string, Record<string, string>> = {
         howToBuyGuide: 'Guia de compra',
         orderFrom: 'Pedir na',
         allSellerLinks: 'Todos os links',
+        sellerUnavailable: 'Este vendedor não tem um anúncio disponível. Confira os outros vendedores abaixo.',
         comparePayments: 'Comparar m\u00e9todos de pagamento',
         bestPrices: 'Melhores pre\u00e7os',
         fastestShipping: 'Envio mais r\u00e1pido',
@@ -399,6 +404,7 @@ const i18n: Record<string, Record<string, string>> = {
         howToBuyGuide: 'K\u00f8bsguide',
         orderFrom: 'Bestil fra',
         allSellerLinks: 'Alle s\u00e6lgerlinks',
+        sellerUnavailable: 'Denne sælger har ingen aktuel produktside. Se de andre sælgere nedenfor.',
         comparePayments: 'Sammenlign betalingsmetoder',
         bestPrices: 'Bedste priser',
         fastestShipping: 'Hurtigste forsendelse',
@@ -499,6 +505,7 @@ const i18n: Record<string, Record<string, string>> = {
         howToBuyGuide: "Guide d'achat",
         orderFrom: 'Commander chez',
         allSellerLinks: 'Tous les liens',
+        sellerUnavailable: 'Aucune offre disponible chez ce vendeur. Consultez les autres vendeurs ci-dessous.',
         comparePayments: 'Comparer les m\u00e9thodes de paiement',
         bestPrices: 'Meilleurs prix',
         fastestShipping: 'Livraison la plus rapide',
@@ -599,6 +606,7 @@ const i18n: Record<string, Record<string, string>> = {
         howToBuyGuide: 'Poradnik zakupowy',
         orderFrom: 'Zam\u00f3w w',
         allSellerLinks: 'Wszystkie linki',
+        sellerUnavailable: 'Ten sprzedawca nie ma aktualnej oferty. Sprawdź pozostałych sprzedawców poniżej.',
         comparePayments: 'Por\u00f3wnaj metody p\u0142atno\u015bci',
         bestPrices: 'Najlepsze ceny',
         fastestShipping: 'Najszybsza wysy\u0142ka',
@@ -755,6 +763,7 @@ const i18n: Record<string, Record<string, string>> = {
             '\u0413\u0430\u0439\u0434 \u043f\u043e \u043f\u043e\u043a\u0443\u043f\u043a\u0435',
         orderFrom: '\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0432',
         allSellerLinks: '\u0412\u0441\u0435 \u0441\u0441\u044b\u043b\u043a\u0438',
+        sellerUnavailable: 'У этого продавца нет актуального предложения. Посмотрите других продавцов ниже.',
         comparePayments:
             '\u0421\u0440\u0430\u0432\u043d\u0438\u0442\u044c \u0441\u043f\u043e\u0441\u043e\u0431\u044b \u043e\u043f\u043b\u0430\u0442\u044b',
         bestPrices: '\u041b\u0443\u0447\u0448\u0438\u0435 \u0446\u0435\u043d\u044b',
@@ -865,6 +874,7 @@ const i18n: Record<string, Record<string, string>> = {
         howToBuyGuide: 'Kaufanleitung',
         orderFrom: 'Bestellen bei',
         allSellerLinks: 'Alle Verk\u00e4ufer-Links',
+        sellerUnavailable: 'Für diesen Verkäufer gibt es kein aktuelles Angebot. Sieh dir unten die anderen Verkäufer an.',
         comparePayments: 'Zahlungsmethoden vergleichen',
         bestPrices: 'Beste Preise',
         fastestShipping: 'Schnellster Versand',
@@ -965,6 +975,7 @@ const i18n: Record<string, Record<string, string>> = {
         howToBuyGuide: 'Sat\u0131n Alma Rehberi',
         orderFrom: 'Sipari\u015f ver:',
         allSellerLinks: 'T\u00fcm sat\u0131c\u0131 linkleri',
+        sellerUnavailable: 'Bu satıcıda güncel bir ürün ilanı yok. Aşağıdaki diğer satıcılara bakın.',
         comparePayments: '\u00d6deme y\u00f6ntemlerini kar\u015f\u0131la\u015ft\u0131r',
         bestPrices: 'En iyi fiyatlar',
         fastestShipping: 'En h\u0131zl\u0131 kargo',
@@ -990,7 +1001,7 @@ function t(key: string): string {
 
 // --- Direct product links per seller ---
 // A seller key is omitted when that seller doesn't stock the product —
-// directProductLink then falls back to the seller homepage.
+// Missing listings send the reader to the product’s seller section.
 const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: string }> = {
     'pro2-v5.4-huilian': {
         earhive: 'https://airreps.link/eprov54hl',
@@ -1006,10 +1017,6 @@ const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: 
         earhive: 'https://airreps.link/eprov53hl',
         jenny: 'https://airreps.link/jprov53hl',
         hicity: 'https://airreps.link/hcprov53hl',
-    },
-    'pro2-v5.3-hr': {
-        earhive: 'https://airreps.link/eprov53hr2',
-        jenny: 'https://airreps.link/jprov53hr2',
     },
     'pro3-v7-huilian': {
         earhive: 'https://airreps.link/eprov7hl',
@@ -1054,7 +1061,6 @@ const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: 
     'max-v3p-tb': {
         earhive: 'https://airreps.link/emaxv3p',
         jenny: 'https://airreps.link/jmaxv3p',
-        hicity: 'https://airreps.link/hcmaxv3p',
     },
 };
 
@@ -1064,7 +1070,6 @@ const prices: Record<string, number> = {
     'pro2-v5.4-huilian': 58,
     'pro2-v5.3-tb': 55,
     'pro2-v5.3-huilian': 56,
-    'pro2-v5.3-hr': 50,
     'pro3-v7-huilian': 67,
     'pro3-v6-tb': 37,
     'pro3-v6-huilian': 43,
@@ -1212,23 +1217,6 @@ const activeQuestions = computed<QuizQuestion[]>(() => {
         ],
     });
 
-    // Sound preference question — only for in-ear, non-Mac, when priority is anc/stable, and useCase is not calls
-    if (
-        answers.value.formFactor === 'in-ear' &&
-        !needsMac.value &&
-        (answers.value.priority === 'anc' || answers.value.priority === 'stable') &&
-        answers.value.useCase !== 'calls'
-    ) {
-        qs.push({
-            id: 'sound',
-            question: t('q_sound'),
-            options: [
-                { value: 'bass', label: t('o_bass'), desc: t('o_bass_d') },
-                { value: 'balanced', label: t('o_balanced'), desc: t('o_balanced_d') },
-            ],
-        });
-    }
-
     // Ordering question
     qs.push({
         id: 'ordering',
@@ -1354,7 +1342,7 @@ const product = computed<ProductRec | null>(() => {
     if (!isDone.value) {
         return null;
     }
-    const { formFactor, priority, useCase, sound } = answers.value;
+    const { formFactor, priority, useCase } = answers.value;
 
     if (formFactor === 'over-ear') {
         if (priority === 'budget') {
@@ -1544,28 +1532,7 @@ const product = computed<ProductRec | null>(() => {
 
     // Non-Mac in-ear
     if (priority === 'anc' || priority === 'stable') {
-        // Sound-based or use-case-based branching
-        if (sound === 'balanced' || useCase === 'commute') {
-            return {
-                title: 'AirPods Pro 2 V5.3 HR',
-                linksPageKey: 'airpods-pro-2',
-                subtitle: 'Balanced sound, best transparency mode — ideal for commuters',
-                priceKey: 'pro2-v5.3-hr',
-                reasons: [
-                    'Balanced, even sound signature — great for all genres',
-                    'Best transparency mode of any rep — hear your surroundings clearly',
-                    '34.4 dB ANC — excellent noise cancelling',
-                    '7.5h battery without ANC, 5.5h with ANC',
-                ],
-                links: [
-                    { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
-                    { text: 'ANC Explained', url: '/introduction/anc-explained' },
-                    { text: 'Battery Life', url: '/introduction/battery-life' },
-                    { text: 'Sound Quality', url: '/introduction/sound-quality' },
-                ],
-            };
-        }
-        // bass, gym, or default (no sound question shown)
+        // HR listings are unavailable; recommend the available TB model.
         return {
             title: 'AirPods Pro 2 V5.3 TB',
             linksPageKey: 'airpods-pro-2',
@@ -1763,10 +1730,11 @@ function restart() {
 
         <!-- Agent ordering with recommended seller -->
         <div v-if="answers.ordering === 'agent' && recommendedSeller" class="quiz-buy-list">
-          <a :href="recommendedSeller.weidian" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
+          <a v-if="directProductLink" :href="recommendedSeller.weidian" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ recommendedSeller.name }} {{ t('weidianStore') }}
           </a>
-          <p class="quiz-seller-note">{{ recommendedSeller.strength }}</p>
+          <p v-if="directProductLink" class="quiz-seller-note">{{ recommendedSeller.strength }}</p>
+          <p v-else class="quiz-seller-note">{{ t('sellerUnavailable') }}</p>
           <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer" class="quiz-buy-link kakobuy">
             {{ t('kakobuySignup') }}
           </a>
@@ -1787,10 +1755,11 @@ function restart() {
 
         <!-- Direct seller recommended -->
         <div v-else-if="recommendedSeller" class="quiz-buy-list">
-          <a :href="directProductLink || recommendedSeller.url" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
+          <a v-if="directProductLink" :href="directProductLink" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ t('orderFrom') }} {{ recommendedSeller.name }}
           </a>
-          <p class="quiz-seller-note">{{ recommendedSeller.strength }}</p>
+          <p v-if="directProductLink" class="quiz-seller-note">{{ recommendedSeller.strength }}</p>
+          <p v-else class="quiz-seller-note">{{ t('sellerUnavailable') }}</p>
           <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allSellerLinks') }} &rarr;
           </a>

@@ -12,7 +12,7 @@ Poniżej znajdują się aplikacje, które można pobrać, aby ci pomóc, wraz z 
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS) |
 |---|---|
-| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | [![Airoha156x (Android)](/app_icon/airoha156x.png)](https://airreps.link/airoha156x) Airoha156x (Android) |
+| [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android) | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Pobieranie niedostępne |
 
 :::warning **CloudCC** zostało wycofane, ponieważ TigerBuilder zintegrował funkcję OTA z FlyCC. Powinno być używane tylko jako obejście, jeśli napotkasz problem z uprawnieniami do pamięci.
 :::

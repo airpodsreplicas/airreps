@@ -5,12 +5,41 @@ import './styles/main.css';
 import Contributor from '../components/Contributors.vue';
 // @ts-ignore - Vue component import
 import Quiz from '../components/Quiz.vue';
+import { productDestination } from '../product-routes';
 
 export default {
     ...Theme,
     enhanceApp(ctx) {
         ctx.app.component('Contributor', Contributor);
         ctx.app.component('Quiz', Quiz);
+
+        if (typeof window !== 'undefined') {
+            const beforeRoute = ctx.router.onBeforeRouteChange;
+            ctx.router.onBeforeRouteChange = async (to: string) => {
+                if ((await beforeRoute?.(to)) === false) {
+                    return false;
+                }
+                const destination = productDestination(to);
+                if (destination) {
+                    await ctx.router.go(destination, {
+                        replace: productDestination(window.location.pathname) !== null,
+                    });
+                    return false;
+                }
+            };
+            // Back/forward navigation loads pages without onBeforeRouteChange.
+            const beforePage = ctx.router.onBeforePageLoad;
+            ctx.router.onBeforePageLoad = async (to: string) => {
+                if ((await beforePage?.(to)) === false) {
+                    return false;
+                }
+                const destination = productDestination(to);
+                if (destination) {
+                    await ctx.router.go(destination, { replace: true });
+                    return false;
+                }
+            };
+        }
 
         if (typeof window !== 'undefined' && 'serviceWorker' in navigator) {
             window.addEventListener('load', () => {

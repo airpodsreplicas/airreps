@@ -1,62 +1,86 @@
 import type { MarkdownRenderer } from 'vitepress';
+import { productDestination } from '../product-routes';
 
-const families: Record<string, string> = {
-    'airpods-2': 'airpods',
-    'airpods-3': 'airpods',
-    'airpods-4': 'airpods',
-    'airpods-5': 'airpods',
-    'airpods-pro': 'pro',
-    'airpods-pro-2': 'pro',
-    'airpods-pro-3': 'pro',
-};
-
-// Family pages include the original generation pages. Keep their content in
-// one place while giving the combined document one H1 and generation anchors.
+// Includes remain the source of truth. Preserve each original subsection as a
+// generation-prefixed alias so bookmarks survive combining duplicate headings.
 export function productFamiliesPlugin(md: MarkdownRenderer): void {
     md.core.ruler.before('anchor', 'product-families', (state) => {
-        if (!state.src.includes('<!-- product-family -->')) {
-            return;
-        }
+        if (state.src.includes('<!-- product-family -->')) {
+            const titles = state.tokens.flatMap((token, index) =>
+                token.type === 'heading_open' && token.tag === 'h1' ? [index] : []
+            );
+            const lines = state.src.split('\n');
+            const aliases = new Set<string>();
+            const title = state.tokens[titles[0]];
+            title?.attrSet('id', 'product-family');
 
-        let seenTitle = false;
-        let inGeneration = false;
-        for (let i = 0; i < state.tokens.length; i += 1) {
-            const token = state.tokens[i];
-            if (token.type === 'heading_open') {
-                if (!seenTitle) {
-                    seenTitle = true;
-                    token.attrSet('id', 'product-family');
+            for (let generation = 1; generation < titles.length; generation += 1) {
+                const start = titles[generation];
+                const end = titles[generation + 1] ?? state.tokens.length;
+                const model = state.tokens[start + 1].content
+                    .match(/AirPods(?:\s+Pro)?(?:\s+\d+)?/i)?.[0]
+                    .toLowerCase()
+                    .replace(/\s+/g, '-');
+                if (!model) {
                     continue;
                 }
-                if (token.tag === 'h1') {
-                    inGeneration = true;
-                    const model = state.tokens[i + 1].content.match(
-                        /AirPods(?:\s+Pro)?(?:\s+\d+)?/i
-                    )?.[0];
-                    if (model) {
-                        token.attrSet('id', model.toLowerCase().replace(/\s+/g, '-'));
+                const firstLine = state.tokens[start].map?.[0] ?? 0;
+                const lastLine = state.tokens[end]?.map?.[0] ?? lines.length;
+                // No family marker in this slice: parsing it gives exactly the
+                // anchor IDs that VitePress assigned on the original page.
+                const original = md.parse(lines.slice(firstLine, lastLine).join('\n'), {});
+                const headings = original.filter((token) => token.type === 'heading_open');
+                let heading = 0;
+                const alias = (id: string): string => {
+                    const name = `${model}-${id}`;
+                    if (aliases.has(name)) {
+                        return '';
+                    }
+                    aliases.add(name);
+                    return `<span id="${md.utils.escapeHtml(name)}"></span>`;
+                };
+                for (let index = start; index < end; index += 1) {
+                    const token = state.tokens[index];
+                    if (token.type === 'heading_open') {
+                        const id = headings[heading]?.attrGet('id');
+                        heading += 1;
+                        const inline = state.tokens[index + 1];
+                        if (id && inline.children) {
+                            const span = new state.Token('html_inline', '', 0);
+                            span.content = alias(id);
+                            inline.children.unshift(span);
+                        }
+                        if (index === start) {
+                            token.attrSet('id', model);
+                        }
+                    }
+                    if (token.type === 'heading_open' || token.type === 'heading_close') {
+                        token.tag = `h${Math.min(Number(token.tag.slice(1)) + 1, 6)}`;
+                    }
+                    // Explicit anchors (including English aliases in translated
+                    // pages) need the same treatment as generated heading IDs.
+                    for (const html of [token, ...(token.children ?? [])]) {
+                        if (html.type === 'html_block' || html.type === 'html_inline') {
+                            const ids = [...html.content.matchAll(/\bid="([^"]+)"/g)];
+                            html.content =
+                                ids
+                                    .filter((match) => !aliases.has(match[1]))
+                                    .map((match) => alias(match[1]))
+                                    .join('') + html.content;
+                        }
                     }
                 }
             }
-            if (inGeneration && (token.type === 'heading_open' || token.type === 'heading_close')) {
-                token.tag = `h${Math.min(Number(token.tag.slice(1)) + 1, 6)}`;
-            }
+        }
 
-            // Cross-links between version info and sellers stay in the family
-            // views. Standalone generation pages keep their original URLs.
+        // Links throughout the guide go straight to their canonical sections.
+        for (const token of state.tokens) {
             for (const child of token.children ?? []) {
-                if (child.type !== 'link_open') {
-                    continue;
-                }
-                const href = child.attrGet('href') ?? '';
-                const match = href.match(
-                    /^(\/(?:[a-z]{2}\/)?(?:version-info|links)\/)(airpods(?:-pro)?(?:-\d+)?)(?:\.html|\.md)?(#[^\s]*)?$/
-                );
-                if (match && families[match[2]]) {
-                    child.attrSet(
-                        'href',
-                        `${match[1]}${families[match[2]]}${match[3] || `#${match[2]}`}`
-                    );
+                if (child.type === 'link_open') {
+                    const destination = productDestination(child.attrGet('href') ?? '');
+                    if (destination) {
+                        child.attrSet('href', destination);
+                    }
                 }
             }
         }

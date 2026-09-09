@@ -20,6 +20,8 @@ Avant le tutoriel, veuillez vous assurer que :
 PS : utiliser `brew` est beaucoup plus simple que l'installation manuelle, mais si vous voulez éviter `brew`, vous pouvez lire ceci et suivre les étapes [ici](https://github.com/briankendall/proxy-audio-device#manual-installation).
 :::
 
+<span id="brew-installation"></span>
+
 ## **Installation de `brew`**
 
 Si vous n'avez pas `brew` installé sur votre système, nous pouvons commencer ici. Allez sur cette page : [https://brew.sh/](https://brew.sh/), copiez la commande et exécutez-la dans le Terminal.

@@ -60,6 +60,12 @@ jobs:
           ASSISTANT_ID: ${{ secrets.ASSISTANT_ID }}
           ASSISTANT_INDEX_NAME: ${{ secrets.ASSISTANT_INDEX_NAME }}
 
+      - name: Check internal links and redirect bookmarks
+        run: python3 scripts/check-guide-links.py
+
+      - name: Test product navigation
+        run: bun test scripts/product-families.test.ts
+
       - name: List build directory contents
         run: ls -la docs/.vitepress/dist
 

@@ -20,6 +20,8 @@ Przed rozpoczęciem upewnij się, że:
 PS: używanie `brew` jest znacznie prostsze niż instalacja ręczna, ale jeśli chcesz pominąć `brew`, możesz przeczytać to i postępować według kroków [tutaj](https://github.com/briankendall/proxy-audio-device#manual-installation).
 :::
 
+<span id="brew-installation"></span>
+
 ## **Instalacja `brew`**
 
 Jeśli nie masz zainstalowanego `brew` na swoim systemie, możemy zacząć tutaj. Otwórz tę stronę: [https://brew.sh/](https://brew.sh/), skopiuj polecenie i uruchom je w Terminalu.

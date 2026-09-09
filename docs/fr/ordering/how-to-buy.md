@@ -27,6 +27,8 @@ Commander est simple : choisissez le produit que vous voulez et passez à la cai
 Les paiements via Wise ou virement bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures avant que votre commande ne soit traitée.
 :::
 
+<span id="paying-with-alipay"></span>
+
 ## Payer avec Alipay
 
 De nombreux vendeurs de confiance acceptent désormais Alipay, permettant des paiements par carte faciles sans vérification d'identité (KYC).

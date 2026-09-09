@@ -47,7 +47,7 @@ Staff and contributors are volunteers. Nothing the Bot says is legal, profession
 
 ## Intellectual Property
 
-The Bot's source is published under the [GPL-3.0-or-later](https://github.com/airpodsreplicas/AirReps-Bot) license. The AirReps name and branding still belong to AirReps. Do not use them to suggest we endorse or are tied to another project without permission. The Bot is not affiliated with Apple, Discord Inc., KakoBuy, Reddit, or any seller.
+The Bot's source is published under the [GPL-3.0-or-later](https://spdx.org/licenses/GPL-3.0-or-later.html) license. The AirReps name and branding still belong to AirReps. Do not use them to suggest we endorse or are tied to another project without permission. The Bot is not affiliated with Apple, Discord Inc., KakoBuy, Reddit, or any seller.
 
 Content you send through the Bot (commands, feedback, giveaway UIDs, marketplace links, and similar) stays yours. Using the Bot gives us a license to process and store that content only as needed to run the service, as described in the [Privacy Policy](/bot/privacy).
 

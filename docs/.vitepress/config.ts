@@ -5,7 +5,8 @@ import { fileURLToPath } from 'node:url';
 import { imageSize } from 'image-size';
 import { type DefaultTheme, defineConfig } from 'vitepress';
 import { productFamiliesPlugin } from './plugins/product-families';
-import { redirectPlugin } from './plugins/redirect';
+import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
+import { productDestination, productRedirectScript } from './product-routes';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
 const docsDir = path.resolve(configDir, '..');
@@ -695,6 +696,7 @@ const redditIcon =
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     base: '/',
+    buildEnd: (site) => writeProductRedirects(site.outDir),
     cleanUrls: true,
     description: 'A community for the discussion and exploration of AirPods clones.',
 
@@ -911,49 +913,51 @@ export default defineConfig({
             const locales = SUPPORTED_LOCALES;
             const host = 'https://airpodsreplicas.com';
 
-            return items.map((item) => {
-                // VitePress provides item.url without a leading slash (e.g. "contributing" or "da/contributing")
-                // Strip locale prefix to get the base path
-                let basePath = item.url;
-                for (const locale of locales) {
-                    if (basePath.startsWith(`${locale}/`)) {
-                        basePath = basePath.slice(locale.length + 1);
-                        break;
+            return items
+                .filter((item) => !productDestination(`/${item.url}`))
+                .map((item) => {
+                    // VitePress provides item.url without a leading slash (e.g. "contributing" or "da/contributing")
+                    // Strip locale prefix to get the base path
+                    let basePath = item.url;
+                    for (const locale of locales) {
+                        if (basePath.startsWith(`${locale}/`)) {
+                            basePath = basePath.slice(locale.length + 1);
+                            break;
+                        }
                     }
-                }
 
-                // Add language alternates for SEO
-                const links = [
-                    { lang: 'en', url: `${host}/${basePath}` },
-                    { lang: 'es', url: `${host}/es/${basePath}` },
-                    { lang: 'pt', url: `${host}/pt/${basePath}` },
-                    { lang: 'da', url: `${host}/da/${basePath}` },
-                    { lang: 'fr', url: `${host}/fr/${basePath}` },
-                    { lang: 'ru', url: `${host}/ru/${basePath}` },
-                    { lang: 'pl', url: `${host}/pl/${basePath}` },
-                    { lang: 'de', url: `${host}/de/${basePath}` },
-                    { lang: 'tr', url: `${host}/tr/${basePath}` },
-                    { lang: 'x-default', url: `${host}/${basePath}` },
-                ];
+                    // Add language alternates for SEO
+                    const links = [
+                        { lang: 'en', url: `${host}/${basePath}` },
+                        { lang: 'es', url: `${host}/es/${basePath}` },
+                        { lang: 'pt', url: `${host}/pt/${basePath}` },
+                        { lang: 'da', url: `${host}/da/${basePath}` },
+                        { lang: 'fr', url: `${host}/fr/${basePath}` },
+                        { lang: 'ru', url: `${host}/ru/${basePath}` },
+                        { lang: 'pl', url: `${host}/pl/${basePath}` },
+                        { lang: 'de', url: `${host}/de/${basePath}` },
+                        { lang: 'tr', url: `${host}/tr/${basePath}` },
+                        { lang: 'x-default', url: `${host}/${basePath}` },
+                    ];
 
-                // Image sitemap entry — point at this page's pre-generated OG image
-                // when it exists on disk. Locale homepages arrive as e.g. `da/`, so
-                // expand them to `da/index` to match the OG image filename.
-                let ogSlug = item.url || 'index';
-                if (ogSlug.endsWith('/')) {
-                    ogSlug = `${ogSlug}index`;
-                }
-                const ogImageDiskPath = path.join(ogImagesDir, `${ogSlug}.png`);
-                const img = fs.existsSync(ogImageDiskPath)
-                    ? [{ url: `${host}/og/${ogSlug}.png` }]
-                    : undefined;
+                    // Image sitemap entry — point at this page's pre-generated OG image
+                    // when it exists on disk. Locale homepages arrive as e.g. `da/`, so
+                    // expand them to `da/index` to match the OG image filename.
+                    let ogSlug = item.url || 'index';
+                    if (ogSlug.endsWith('/')) {
+                        ogSlug = `${ogSlug}index`;
+                    }
+                    const ogImageDiskPath = path.join(ogImagesDir, `${ogSlug}.png`);
+                    const img = fs.existsSync(ogImageDiskPath)
+                        ? [{ url: `${host}/og/${ogSlug}.png` }]
+                        : undefined;
 
-                return {
-                    ...item,
-                    links,
-                    ...(img ? { img } : {}),
-                };
-            });
+                    return {
+                        ...item,
+                        links,
+                        ...(img ? { img } : {}),
+                    };
+                });
         },
     },
 
@@ -1014,6 +1018,22 @@ export default defineConfig({
     // Dynamically inject hreflang tags, localized OG meta, and JSON-LD into every page
     transformHead: ({ pageData }) => {
         const { relativePath, frontmatter } = pageData;
+        const oldPath = `/${relativePath.replace(/\.md$/, '')}`;
+        const destination = productDestination(oldPath);
+        if (destination) {
+            return [
+                ['meta', { content: 'noindex, follow', name: 'robots' }],
+                [
+                    'link',
+                    {
+                        href: `https://airpodsreplicas.com${destination.split('#')[0]}`,
+                        rel: 'canonical',
+                    },
+                ],
+                ['script', {}, productRedirectScript(oldPath)],
+                ['meta', { content: `0; url=${destination}`, 'http-equiv': 'refresh' }],
+            ];
+        }
         // Remove locale prefix from path to get base path
         let basePath = relativePath.replace(/\.md$/, '');
         if (basePath === 'index') {

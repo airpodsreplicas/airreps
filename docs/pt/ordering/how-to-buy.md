@@ -27,6 +27,8 @@ Fazer o pedido é simples: escolha o produto que deseja e finalize a compra. Nã
 Pagamentos via Wise ou Transferência bancária exigem revisão manual pelo vendedor, o que pode levar até 24 horas antes do processamento do seu pedido.
 :::
 
+<span id="paying-with-alipay"></span>
+
 ## Pagando com Alipay
 
 Muitos vendedores confiáveis agora aceitam Alipay, permitindo pagamentos com cartão fáceis sem verificação KYC.
