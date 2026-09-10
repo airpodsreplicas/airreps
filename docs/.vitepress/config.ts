@@ -689,6 +689,21 @@ const translations: Record<
 // outputs (sitemap, OG locale list).
 const SUPPORTED_LOCALES = ['es', 'pt', 'da', 'fr', 'pl', 'ru', 'de', 'tr'] as const;
 
+// Refresh browser and social-preview caches when the shared branding changes.
+const BRANDING_VERSION = 'glass-20260910';
+
+// VitePress deduplicates meta tags by their first attribute. Keep the identity
+// before content even when the formatter sorts object keys, so matching OG and
+// Twitter values survive as separate tags.
+function metaTag(
+    key: string,
+    content: string,
+    attribute: 'name' | 'property' = 'property'
+): [string, Record<string, string>] {
+    const identity = { [attribute]: key };
+    return ['meta', { ...identity, content }];
+}
+
 // Reddit SVG icon
 const redditIcon =
     '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Reddit</title><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg>';
@@ -702,20 +717,43 @@ export default defineConfig({
 
     head: [
         ['link', { crossorigin: '', href: 'https://cdn.jsdelivr.net', rel: 'preconnect' }],
-        ['link', { href: '/favicon.ico', rel: 'icon', sizes: 'any' }],
-        ['link', { href: '/favicon-32x32.png', rel: 'icon', sizes: '32x32', type: 'image/png' }],
-        ['link', { href: '/favicon-16x16.png', rel: 'icon', sizes: '16x16', type: 'image/png' }],
-        ['link', { href: '/apple-touch-icon.png', rel: 'apple-touch-icon', sizes: '180x180' }],
-        ['link', { href: '/site.webmanifest', rel: 'manifest' }],
-        ['meta', { content: '#EC645D', name: 'theme-color' }],
-        ['meta', { content: 'yes', name: 'mobile-web-app-capable' }],
-        ['meta', { content: 'yes', name: 'apple-mobile-web-app-capable' }],
-        ['meta', { content: 'black', name: 'apple-mobile-web-app-status-bar-style' }],
-        ['meta', { content: 'AirReps Ultimate Guide', name: 'apple-mobile-web-app-title' }],
-        ['meta', { content: 'AirReps Ultimate Guide', name: 'application-name' }],
-        ['meta', { content: '#000000', name: 'msapplication-TileColor' }],
-        ['meta', { content: 'width=device-width, initial-scale=1', name: 'viewport' }],
-        ['meta', { content: 'AirReps', name: 'author' }],
+        ['link', { href: `/favicon.ico?v=${BRANDING_VERSION}`, rel: 'icon', sizes: 'any' }],
+        [
+            'link',
+            {
+                href: `/favicon-32x32.png?v=${BRANDING_VERSION}`,
+                rel: 'icon',
+                sizes: '32x32',
+                type: 'image/png',
+            },
+        ],
+        [
+            'link',
+            {
+                href: `/favicon-16x16.png?v=${BRANDING_VERSION}`,
+                rel: 'icon',
+                sizes: '16x16',
+                type: 'image/png',
+            },
+        ],
+        [
+            'link',
+            {
+                href: `/apple-touch-icon.png?v=${BRANDING_VERSION}`,
+                rel: 'apple-touch-icon',
+                sizes: '180x180',
+            },
+        ],
+        ['link', { href: `/site.webmanifest?v=${BRANDING_VERSION}`, rel: 'manifest' }],
+        metaTag('theme-color', '#EC645D', 'name'),
+        metaTag('mobile-web-app-capable', 'yes', 'name'),
+        metaTag('apple-mobile-web-app-capable', 'yes', 'name'),
+        metaTag('apple-mobile-web-app-status-bar-style', 'black', 'name'),
+        metaTag('apple-mobile-web-app-title', 'AirReps Ultimate Guide', 'name'),
+        metaTag('application-name', 'AirReps Ultimate Guide', 'name'),
+        metaTag('msapplication-TileColor', '#000000', 'name'),
+        metaTag('viewport', 'width=device-width, initial-scale=1', 'name'),
+        metaTag('author', 'AirReps', 'name'),
     ],
 
     lastUpdated: true,
@@ -962,7 +1000,7 @@ export default defineConfig({
     },
 
     themeConfig: {
-        logo: { alt: 'AirReps', src: '/logo.webp' },
+        logo: { alt: 'AirReps', src: `/logo.webp?v=${BRANDING_VERSION}` },
 
         outline: [2, 3],
 
@@ -1022,7 +1060,7 @@ export default defineConfig({
         const destination = productDestination(oldPath);
         if (destination) {
             return [
-                ['meta', { content: 'noindex, follow', name: 'robots' }],
+                metaTag('robots', 'noindex, follow', 'name'),
                 [
                     'link',
                     {
@@ -1139,7 +1177,7 @@ export default defineConfig({
         // added before the next `generate-og` run). Mirrors the sitemap's guard.
         const ogImageSlug = relativePath.replace(/\.md$/, '');
         const ogImageOnDisk = fs.existsSync(path.join(ogImagesDir, `${ogImageSlug}.png`));
-        const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageOnDisk ? ogImageSlug : 'index'}.png`;
+        const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageOnDisk ? ogImageSlug : 'index'}.png?v=${BRANDING_VERSION}`;
 
         // Section detection — drives breadcrumbs and per-section schema @type
         const sectionMap: Record<string, string> = {
@@ -1219,7 +1257,7 @@ export default defineConfig({
             ],
             logo: {
                 '@type': 'ImageObject',
-                url: 'https://airpodsreplicas.com/logo.webp',
+                url: `https://airpodsreplicas.com/logo.webp?v=${BRANDING_VERSION}`,
             },
             name: 'AirReps',
             sameAs: [
@@ -1411,22 +1449,16 @@ export default defineConfig({
             ],
             ['link', { href: pageUrl, rel: 'canonical' }],
             // Localized Open Graph meta tags — social previews keep the flag emoji.
-            ['meta', { content: 'AirReps', property: 'og:site_name' }],
-            ['meta', { content: pageTitleSocial, property: 'og:title' }],
-            [
-                'meta',
-                {
-                    content: isHome ? 'website' : 'article',
-                    property: 'og:type',
-                },
-            ],
-            ['meta', { content: pageUrl, property: 'og:url' }],
-            ['meta', { content: pageDescription, property: 'og:description' }],
-            ['meta', { content: ogImageUrl, property: 'og:image' }],
-            ['meta', { content: '1200', property: 'og:image:width' }],
-            ['meta', { content: '630', property: 'og:image:height' }],
-            ['meta', { content: pageTitleSocial, property: 'og:image:alt' }],
-            ['meta', { content: 'image/png', property: 'og:image:type' }],
+            metaTag('og:site_name', 'AirReps'),
+            metaTag('og:title', pageTitleSocial),
+            metaTag('og:type', isHome ? 'website' : 'article'),
+            metaTag('og:url', pageUrl),
+            metaTag('og:description', pageDescription),
+            metaTag('og:image', ogImageUrl),
+            metaTag('og:image:width', '1200'),
+            metaTag('og:image:height', '630'),
+            metaTag('og:image:alt', pageTitleSocial),
+            metaTag('og:image:type', 'image/png'),
             [
                 'meta',
                 {
@@ -1465,12 +1497,12 @@ export default defineConfig({
                     { content: ogLocale, property: 'og:locale:alternate' },
                 ]) as [string, Record<string, string>][]),
             // Twitter Card meta tags (Twitter spec uses name=, not property=)
-            ['meta', { content: 'summary_large_image', name: 'twitter:card' }],
-            ['meta', { content: pageUrl, name: 'twitter:url' }],
-            ['meta', { content: pageTitleSocial, name: 'twitter:title' }],
-            ['meta', { content: pageDescription, name: 'twitter:description' }],
-            ['meta', { content: ogImageUrl, name: 'twitter:image' }],
-            ['meta', { content: pageTitleSocial, name: 'twitter:image:alt' }],
+            metaTag('twitter:card', 'summary_large_image', 'name'),
+            metaTag('twitter:url', pageUrl, 'name'),
+            metaTag('twitter:title', pageTitleSocial, 'name'),
+            metaTag('twitter:description', pageDescription, 'name'),
+            metaTag('twitter:image', ogImageUrl, 'name'),
+            metaTag('twitter:image:alt', pageTitleSocial, 'name'),
             // JSON-LD
             ['script', { type: 'application/ld+json' }, JSON.stringify(schema)],
             // FAQ JSON-LD — manual `faq:` frontmatter wins; otherwise auto-extracted

@@ -1,4 +1,4 @@
-"""Check built page/asset links, fragments, source links and redirect bookmarks.
+"""Check built links, fragments, redirect bookmarks, and social-preview metadata.
 
 Run after docs:build. Uses only Python standard library; no network needed.
 """
@@ -21,10 +21,16 @@ class Page(HTMLParser):
         self.doc_ids = []
         self.doc_depth = 0
         self.refresh = None
+        self.meta = defaultdict(list)
         self.feed(html)
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
+        if tag == 'meta':
+            key = a.get('property', a.get('name', ''))
+            self.meta[key].append(a.get('content', ''))
+            if key in ['og:image', 'twitter:image'] and a.get('content'):
+                self.refs.append(('social-image', a['content']))
         if tag == 'div':
             if self.doc_depth:
                 self.doc_depth += 1
@@ -64,10 +70,19 @@ def run():
     external = defaultdict(set)
     git_links = defaultdict(set)
     duplicates = []
+    metadata_errors = []
     count = 0
     bookmark_count = 0
     for source, page in pages.items():
         source_route = route(source)
+        if not page.refresh:
+            for suffix in ['title', 'description', 'url', 'image', 'image:alt']:
+                og = page.meta['og:' + suffix]
+                twitter = page.meta['twitter:' + suffix]
+                if len(og) != 1 or not og[0] or og != twitter:
+                    metadata_errors.append((source_route, suffix, og, twitter))
+            if len(page.meta['og:locale:alternate']) != 8:
+                metadata_errors.append((source_route, 'og:locale:alternate', page.meta['og:locale:alternate']))
         if page.refresh and page.doc_ids:
             destination = urlsplit(page.refresh)
             family = pages.get(resolve(destination.path))
@@ -113,11 +128,12 @@ def run():
         'github_source_links': len(git_links), 'external_urls': len(external),
         'missing': [{'kind': kind, 'target': target, 'sources': sorted(sources)} for (kind, target), sources in missing.items()],
         'duplicate_ids': duplicates,
+        'metadata_errors': metadata_errors,
     }
     print(json.dumps(report, indent=2, ensure_ascii=False))
     if not pages:
         raise SystemExit('Build the guide before checking its links.')
-    if missing or duplicates:
+    if missing or duplicates or metadata_errors:
         raise SystemExit(1)
 
 if __name__ == '__main__': run()
