@@ -4,7 +4,7 @@
 // Other static files: stale-while-revalidate.
 // Bump VERSION to drop all old caches in one shot.
 
-const VERSION = 'airreps-v1';
+const VERSION = 'airreps-v2-liquid-glass';
 const RUNTIME = `${VERSION}-runtime`;
 const HTML = `${VERSION}-html`;
 
