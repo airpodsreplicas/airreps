@@ -42,7 +42,7 @@ Apple box (which always comes as a double box) is usually pre-selected at checko
 
 ## Box Quality
 
-The box's quality can range from well-made with correctly embossed text and aligned labels, to lower quality or sloppy. If the box quality matters to you, ask the seller for photos before making a purchase.
+The box's quality can range from well-made with correctly embossed text and aligned labels, to lower quality or sloppy. If the box quality matters to you, ask the seller for photos before making a purchase. And if you're inspecting a box to judge whether the AirPods inside are genuine, our article on [how to tell if AirPods are fake](/articles/how-to-spot-fake-airpods) covers the checks that actually matter.
 
 ::: tip
 Always ask for photos if the quality of the box is important to you.

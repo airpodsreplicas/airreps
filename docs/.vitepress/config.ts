@@ -282,6 +282,14 @@ function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
         {
             items: [
                 {
+                    link: `${lang === 'en' ? '' : `/${lang}`}/articles/`,
+                    text: t.sidebar.articles,
+                },
+            ],
+        },
+        {
+            items: [
+                {
                     link: `${lang === 'en' ? '' : `/${lang}`}/useful-apps`,
                     text: t.sidebar.usefulApps,
                 },
@@ -306,6 +314,7 @@ function getNav(lang: string): DefaultTheme.NavItem[] {
         { link: `${prefix}/`, text: t.nav.home },
         { link: `${prefix}/introduction/overview`, text: t.nav.ultimateGuide },
         { link: `${prefix}/quiz`, text: t.nav.quiz },
+        { link: `${prefix}/articles/`, text: t.sidebar.articles },
         { link: `${prefix}/links/info`, text: t.nav.links },
     ];
 }
@@ -317,6 +326,7 @@ const translations: Record<
         nav: { home: string; ultimateGuide: string; links: string; quiz: string };
         sidebar: {
             ultimateGuide: string;
+            articles: string;
             overview: string;
             sellers: string;
             packaging: string;
@@ -355,6 +365,7 @@ const translations: Record<
         nav: { home: 'Hjem', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Ultimativ Guide' },
         sidebar: {
             ancExplained: 'ANC Forklaret',
+            articles: 'Artikler',
             batteryLife: 'Batterilevetid',
             buildQuality: 'Byggekvalitet',
             connectivity: 'Forbindelse',
@@ -395,6 +406,7 @@ const translations: Record<
         },
         sidebar: {
             ancExplained: 'ANC Erklärt',
+            articles: 'Artikel',
             batteryLife: 'Akkulaufzeit',
             buildQuality: 'Verarbeitungsqualität',
             connectivity: 'Konnektivität',
@@ -430,6 +442,7 @@ const translations: Record<
         nav: { home: 'Home', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Ultimate Guide' },
         sidebar: {
             ancExplained: 'ANC Explained',
+            articles: 'Articles',
             batteryLife: 'Battery Life',
             buildQuality: 'Build Quality',
             connectivity: 'Connectivity',
@@ -465,6 +478,7 @@ const translations: Record<
         nav: { home: 'Inicio', links: 'Enlaces', quiz: 'Quiz', ultimateGuide: 'Guía Definitiva' },
         sidebar: {
             ancExplained: 'ANC Explicado',
+            articles: 'Artículos',
             batteryLife: 'Duración de Batería',
             buildQuality: 'Calidad de Construcción',
             connectivity: 'Conectividad',
@@ -500,6 +514,7 @@ const translations: Record<
         nav: { home: 'Accueil', links: 'Liens', quiz: 'Quiz', ultimateGuide: 'Guide Ultime' },
         sidebar: {
             ancExplained: 'ANC Expliqué',
+            articles: 'Articles',
             batteryLife: 'Autonomie',
             buildQuality: 'Qualité de Fabrication',
             connectivity: 'Connectivité',
@@ -540,6 +555,7 @@ const translations: Record<
         },
         sidebar: {
             ancExplained: 'ANC Wyjaśnione',
+            articles: 'Artykuły',
             batteryLife: 'Żywotność Baterii',
             buildQuality: 'Jakość Wykonania',
             connectivity: 'Łączność',
@@ -575,6 +591,7 @@ const translations: Record<
         nav: { home: 'Início', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Guia Definitivo' },
         sidebar: {
             ancExplained: 'ANC Explicado',
+            articles: 'Artigos',
             batteryLife: 'Duração da Bateria',
             buildQuality: 'Qualidade de Construção',
             connectivity: 'Conectividade',
@@ -615,6 +632,7 @@ const translations: Record<
         },
         sidebar: {
             ancExplained: 'ANC Объяснение',
+            articles: 'Статьи',
             batteryLife: 'Время Работы Батареи',
             buildQuality: 'Качество Сборки',
             connectivity: 'Подключение',
@@ -655,6 +673,7 @@ const translations: Record<
         },
         sidebar: {
             ancExplained: 'ANC Açıklaması',
+            articles: 'Makaleler',
             batteryLife: 'Pil Ömrü',
             buildQuality: 'Yapı Kalitesi',
             connectivity: 'Bağlantı',
@@ -1375,70 +1394,14 @@ export default defineConfig({
                     rel: 'alternate',
                 },
             ],
-            [
+            ...SUPPORTED_LOCALES.map((locale) => [
                 'link',
                 {
-                    href: `https://airpodsreplicas.com/es${canonicalBase}`,
-                    hreflang: 'es',
+                    href: `https://airpodsreplicas.com/${locale}${canonicalBase}`,
+                    hreflang: locale,
                     rel: 'alternate',
                 },
-            ],
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com/pt${canonicalBase}`,
-                    hreflang: 'pt',
-                    rel: 'alternate',
-                },
-            ],
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com/da${canonicalBase}`,
-                    hreflang: 'da',
-                    rel: 'alternate',
-                },
-            ],
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com/fr${canonicalBase}`,
-                    hreflang: 'fr',
-                    rel: 'alternate',
-                },
-            ],
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com/pl${canonicalBase}`,
-                    hreflang: 'pl',
-                    rel: 'alternate',
-                },
-            ],
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com/ru${canonicalBase}`,
-                    hreflang: 'ru',
-                    rel: 'alternate',
-                },
-            ],
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com/de${canonicalBase}`,
-                    hreflang: 'de',
-                    rel: 'alternate',
-                },
-            ],
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com/tr${canonicalBase}`,
-                    hreflang: 'tr',
-                    rel: 'alternate',
-                },
-            ],
+            ]),
             [
                 'link',
                 {

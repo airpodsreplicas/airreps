@@ -4,7 +4,7 @@
 
 AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs a Discord server and subreddit.
 
-Last updated: 2026-07-07
+Last updated: 2026-09-16
 
 ## Guide
 
@@ -43,6 +43,13 @@ Last updated: 2026-07-07
 - [AirPods 2 Links](https://airpodsreplicas.com/links/airpods-2): Per-version purchase links for AirPods 2 replicas.
 - [AirPods Max Links](https://airpodsreplicas.com/links/airpods-max): Per-version purchase links for AirPods Max replicas.
 - [Quality Control & Legit Check](https://airpodsreplicas.com/ordering/qc-lc): How to verify your product after purchase.
+
+## Articles
+
+- [How to Tell if AirPods Are Fake](https://airpodsreplicas.com/articles/how-to-spot-fake-airpods): 10 checks that catch fake AirPods — serial numbers, firmware, packaging, chip-detection apps, and price sanity.
+- [Best AirPods Replicas Under $50](https://airpodsreplicas.com/articles/best-airpods-replicas-under-50): The budget picks worth buying at each price point, with typical trusted-seller prices and what you give up.
+- [Replica AirPods vs Real AirPods](https://airpodsreplicas.com/articles/airpods-replicas-vs-real): Honest feature-by-feature comparison — what works on replicas, what's permanently missing, and who should buy which.
+- [AirPods Replicas on Android](https://airpodsreplicas.com/articles/airpods-replicas-on-android): How replicas behave on Android — pairing, what needs an iPhone, and why the best firmware apps are Android-only.
 
 ## Troubleshooting
 
