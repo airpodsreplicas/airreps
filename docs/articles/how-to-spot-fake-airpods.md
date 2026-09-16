@@ -1,6 +1,8 @@
 ---
 title: "How to Tell if AirPods Are Fake: 10 Checks That Actually Work"
 description: "Bought AirPods second-hand or from a sketchy store? Here's how to tell if AirPods are fake — serial numbers, firmware, packaging, and the checks that actually catch clones."
+category: "Fake vs real"
+order: 1
 ---
 
 # How to Tell if AirPods Are Fake
@@ -39,7 +41,24 @@ Genuine AirPods Pro cost $150+ (often $249 at launch). Replicas from trusted sel
 
 ### 7. Inspect the box — but know its limits
 
-Genuine packaging is well-made: correctly embossed text, aligned labels, serial numbers on the manual. Sloppy printing, missing serials, or generic cables are fake tells. But be careful reading too much into a *perfect* box: replicas ship in Apple-logo boxes too, and sellers routinely hide them inside a generic decoy box to survive customs. The box tells you what the seller wanted you to see. Our [packaging guide](/introduction/packaging) covers every box type.
+Genuine packaging is well-made: correctly embossed text, aligned labels, serial numbers on the manual. Sloppy printing, missing serials, or generic cables are fake tells. But be careful reading too much into a *perfect* box: replicas ship in Apple-logo boxes too, and sellers routinely hide them inside a generic decoy box to survive customs.
+
+<div class="box-gallery">
+  <figure>
+    <img src="/nologobox.webp" alt="No-logo AirPods replica box" width="300" height="400"/>
+    <figcaption>No-logo box</figcaption>
+  </figure>
+  <figure>
+    <img src="/applebox.webp" alt="Apple-logo AirPods replica box" width="300" height="400"/>
+    <figcaption>Apple-logo box</figcaption>
+  </figure>
+  <figure>
+    <img src="/doublebox.webp" alt="Double or decoy box with an Apple-logo box hidden inside" width="300" height="400"/>
+    <figcaption>Double / decoy box</figcaption>
+  </figure>
+</div>
+
+All three of these are replica packaging — the box tells you what the seller wanted you to see, not whether the AirPods are genuine. Our [packaging guide](/introduction/packaging) covers every box type in detail.
 
 ### 8. Try the community chip-detection apps
 

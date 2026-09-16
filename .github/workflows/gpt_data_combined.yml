@@ -26,6 +26,12 @@ jobs:
 
       - name: Combine Markdown Files
         run: |
+          # NOTE: docs/articles/ is intentionally excluded from the bot's
+          # knowledge base. Articles are search-facing content that restates
+          # material already in the guide, so feeding them to AirRepsGPT would
+          # duplicate the guide without adding anything. Only the guide
+          # sections listed below are combined.
+
           # Clear output file
           > ultimateguide.md
           

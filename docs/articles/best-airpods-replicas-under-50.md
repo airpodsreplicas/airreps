@@ -1,6 +1,8 @@
 ---
 title: "Best AirPods Replicas Under $50 (2026)"
 description: "The best AirPods replicas under $50 right now — budget AirPods 2/3/4 and Pro 3 V5.5 picks, what you give up at each price, and which cheap clones to skip."
+category: "Buying"
+order: 2
 ---
 
 # Best AirPods Replicas Under $50

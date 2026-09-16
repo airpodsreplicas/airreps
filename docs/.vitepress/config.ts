@@ -282,14 +282,6 @@ function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
         {
             items: [
                 {
-                    link: `${lang === 'en' ? '' : `/${lang}`}/articles/`,
-                    text: t.sidebar.articles,
-                },
-            ],
-        },
-        {
-            items: [
-                {
                     link: `${lang === 'en' ? '' : `/${lang}`}/useful-apps`,
                     text: t.sidebar.usefulApps,
                 },
