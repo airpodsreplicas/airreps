@@ -136,3 +136,35 @@ iframe[src*="youtube"] {
   outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 3px;
 }
+
+/* Image galleries inside article markdown. Reuses the packaging photos from
+   the guide, so the cards stay in step with the theme in light and dark. */
+.box-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 20px 0;
+}
+
+.box-gallery figure {
+  flex: 1 1 160px;
+  max-width: 220px;
+  margin: 0;
+}
+
+.box-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background-color: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+
+.box-gallery figcaption {
+  margin-top: 8px;
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--vp-c-text-3);
+  text-align: center;
+}

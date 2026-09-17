@@ -43,7 +43,7 @@ Prices vary by model and version and fluctuate over time, but as a rough guide t
 | AirPods Pro 3 | ~$27–67 |
 | AirPods Max | ~$93–126 |
 
-Within each model, a higher version number usually costs more and adds features. Take the [quiz](/quiz) for a tailored pick, or open a model's links page above for exact per-version options.
+Within each model, a higher version number usually costs more and adds features. Take the [quiz](/quiz) for a tailored pick, or open a model's links page above for exact per-version options. On a tight budget? Our roundup of the [best AirPods replicas under $50](/articles/best-airpods-replicas-under-50) compares the budget picks.
 
 ## Trusted sellers (official websites)
 

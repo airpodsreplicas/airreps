@@ -14,6 +14,7 @@ on:
       - 'docs/ordering/**/*.md'
       - 'docs/links/**/*.md'
       - 'docs/troubleshooting/**/*.md'
+      - 'docs/articles/**/*.md'
 
 concurrency:
   group: translation-sync

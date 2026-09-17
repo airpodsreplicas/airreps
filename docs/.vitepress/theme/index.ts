@@ -2,6 +2,8 @@ import Theme from 'vitepress/theme';
 import './styles/vars.css';
 import './styles/main.css';
 // @ts-ignore - Vue component import
+import Articles from '../components/Articles.vue';
+// @ts-ignore - Vue component import
 import Contributor from '../components/Contributors.vue';
 // @ts-ignore - Vue component import
 import Quiz from '../components/Quiz.vue';
@@ -12,6 +14,7 @@ export default {
     enhanceApp(ctx) {
         ctx.app.component('Contributor', Contributor);
         ctx.app.component('Quiz', Quiz);
+        ctx.app.component('Articles', Articles);
 
         if (typeof window !== 'undefined') {
             const beforeRoute = ctx.router.onBeforeRouteChange;

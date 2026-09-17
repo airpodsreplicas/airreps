@@ -110,6 +110,15 @@ def run():
             count += 1
             target = resolve(url.path)
             if target is None:
+                # If this is a link to an alternate locale version of a page whose
+                # primary English page exists, don't treat it as a broken link.
+                # In PR builds, new English pages have not yet been synced by
+                # translation-sync.yml (which runs upon merge to main).
+                path_parts = url.path.strip('/').split('/', 1)
+                if len(path_parts) == 2 and path_parts[0] in ['da', 'de', 'es', 'fr', 'pl', 'pt', 'ru', 'tr']:
+                    en_counterpart = resolve('/' + path_parts[1])
+                    if en_counterpart is not None:
+                        continue
                 missing[(kind, raw)].add(source_route)
                 continue
             fragment = unquote(url.fragment).split(':~:text=')[0]

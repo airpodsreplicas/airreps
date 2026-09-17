@@ -4,7 +4,7 @@
 
 AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs a Discord server and subreddit.
 
-Last updated: 2026-07-07
+Last updated: 2026-09-16
 
 ## Guide
 
@@ -43,6 +43,26 @@ Last updated: 2026-07-07
 - [AirPods 2 Links](https://airpodsreplicas.com/links/airpods-2): Per-version purchase links for AirPods 2 replicas.
 - [AirPods Max Links](https://airpodsreplicas.com/links/airpods-max): Per-version purchase links for AirPods Max replicas.
 - [Quality Control & Legit Check](https://airpodsreplicas.com/ordering/qc-lc): How to verify your product after purchase.
+
+## Articles
+
+- [How to Tell if AirPods Are Fake](https://airpodsreplicas.com/articles/how-to-spot-fake-airpods): 10 checks that catch fake AirPods — serial numbers, firmware, packaging, chip-detection apps, and price sanity.
+- [Best AirPods Replicas Under $50](https://airpodsreplicas.com/articles/best-airpods-replicas-under-50): The budget picks worth buying at each price point, with typical trusted-seller prices and what you give up.
+- [Replica AirPods vs Real AirPods](https://airpodsreplicas.com/articles/airpods-replicas-vs-real): Honest feature-by-feature comparison — what works on replicas, what's permanently missing, and who should buy which.
+- [AirPods Replicas on Android](https://airpodsreplicas.com/articles/airpods-replicas-on-android): How replicas behave on Android — pairing, what needs an iPhone, and why the best firmware apps are Android-only.
+- [Are AirPods Replicas Safe?](https://airpodsreplicas.com/articles/are-airpods-replicas-safe): Separates the scam risk from the hardware risk. No medical claims — what the community actually checks before ordering.
+- [Can People Tell Your AirPods Are Fake?](https://airpodsreplicas.com/articles/can-people-tell-airpods-are-fake): What gives clones away under close inspection versus what nobody notices in daily use.
+- [Customs and VAT](https://airpodsreplicas.com/articles/airpods-replica-customs-and-vat): Real seizure risk, why box choice matters, EU VAT handled upfront by trusted sellers, and how tracking behaves.
+- [Fake AirPods Won't Connect](https://airpodsreplicas.com/articles/fake-airpods-wont-connect): Ordered diagnostic walkthrough — pairing, chip identification, macOS quirks, and when it's the unit.
+- [How to Reset Fake AirPods](https://airpodsreplicas.com/articles/how-to-reset-fake-airpods): Soft reset vs hard reset vs the case-button reset, and when a reset is the wrong fix.
+- [Fake AirPods vs Budget Earbuds](https://airpodsreplicas.com/articles/fake-airpods-vs-budget-earbuds): Replicas against Anker/Soundcore/EarFun/JLab — warranty, apps and legal exposure versus the AirPods experience.
+- [Do Fake AirPods Work With New iPhones?](https://airpodsreplicas.com/articles/do-fake-airpods-work-with-new-iphone): The popup still works; what varies is the version you buy, not the phone. iCloud Connect and Jieli caveats.
+- [AirPods Max Dupe](https://airpodsreplicas.com/articles/airpods-max-dupe): What the over-ear replica copies, what it gives up against retail, and whether it's worth it over the in-ear replicas.
+- [FlyCC APK Guide](https://airpodsreplicas.com/articles/flycc-app-guide): How to configure and tune Airoha-based AirPods replicas with FlyCC — custom EQ, force sensor sensitivity, and OTA updates.
+- [AirPods Pro 2 vs AirPods Pro 3 Replicas](https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3): Mature V5.4 Huilian vs newly released Pro 3 V7 & SE — noise cancelling stability, heart rate sensors, and purchasing verdict.
+- [AirPods Max V3 vs V3P](https://airpodsreplicas.com/articles/airpods-max-v3-vs-v3p): Genuine CNC aluminum ear cups vs plastic build — is the $33 upgrade justified for over-ear replica buyers.
+- [How to Update Fake AirPods Firmware](https://airpodsreplicas.com/articles/how-to-update-fake-airpods-firmware): Safe flashing walkthrough for FlyCC, CloudCC, and Starfun — pre-update safety checklist and brick prevention.
+- [Fake AirPods on Mac](https://airpodsreplicas.com/articles/fake-airpods-on-mac): How to use replicas on macOS — fixing the binary volume slider bug, iCloud switching behavior, and choosing Huilian silicon.
 
 ## Troubleshooting
 

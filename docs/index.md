@@ -4,6 +4,9 @@ layout: home
 
 title: 'AirPods Replicas: Trusted Sellers & Version Guide'
 description: 'The AirReps community guide to AirPods replicas — also known as fake AirPods or AirPods clones. Find trusted sellers, version comparisons, and honest reviews.'
+articlesHeading: "Guides & articles"
+articlesSubtitle: "Straight answers on spotting fakes, picking a version, and buying safely — from the community that tests these units every day."
+articlesAllLabel: "All articles"
 
 hero:
   name: "AirReps"
@@ -39,3 +42,9 @@ features:
 ---
 
 <Contributor></Contributor>
+
+<script setup lang="ts">
+import { data as articles } from './index.data'
+</script>
+
+<Articles :articles="articles" variant="home" :limit="3" />
