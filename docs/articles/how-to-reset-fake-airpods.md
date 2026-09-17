@@ -11,6 +11,8 @@ Resetting is the first thing most people try when their replicas start misbehavi
 
 Here's the short version: a **soft reset** clears pairing quirks without touching your buds' stored settings. A **hard reset** is a deeper clean for when the soft reset won't stick. Before you start, know that reset behavior can differ by chipset, manufacturer, and firmware version, so treat these steps as the community-standard procedure rather than a universal button combo. If a step doesn't match what you see, confirm the current method in the [common issues guide](/troubleshooting/other-common-bugs) or ask in the Discord instead of guessing.
 
+> **Quick Answer:** To soft reset fake AirPods, forget them in your phone's Bluetooth menu, turn Bluetooth off, place the pods in the charging case with the lid open, hold the back button for 5–10 seconds until the LED flashes, and close the lid for 60 seconds. For severe sync issues or iCloud bugs, hold the back button for **15 seconds** until the LED cycles amber then white for a full factory controller reset.
+
 ## Soft reset (start here)
 
 A soft reset fixes the everyday stuff: one bud not connecting, a pairing that keeps dropping, or AirPods that refuse to show up when you open the lid. You're clearing the Bluetooth pairing state, not wiping the buds.
@@ -56,6 +58,12 @@ A reset only helps with pairing and connection glitches. It won't help in these 
 ## Settings you may need to redo
 
 After a reset, some of your preferences can go back to defaults. Name changes, tap controls, and similar settings are made **through iOS** — borrow an iPhone once, set them there, and they usually save to the buds and stick. The iOS pairing popup may also behave like a first-time setup again, so don't be surprised if it reappears or shows the generic name.
+
+Related troubleshooting and setup guides:
+- Earbuds still failing to advertise? Walk through [Fake AirPods Won't Connect](/articles/fake-airpods-wont-connect).
+- Using an Android device? Learn how settings carry over in [AirPods Replicas on Android](/articles/airpods-replicas-on-android).
+- Paired to a modern iPhone? Check compatibility nuances in [Do Fake AirPods Work With New iPhones?](/articles/do-fake-airpods-work-with-new-iphone).
+- Wondering if an uncooperative pair is genuine or cloned? Use our [How to Spot Fake AirPods Guide](/articles/how-to-spot-fake-airpods).
 
 ## FAQ
 

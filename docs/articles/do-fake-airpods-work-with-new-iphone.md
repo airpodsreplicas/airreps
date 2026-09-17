@@ -9,6 +9,8 @@ order: 11
 
 Short answer: yes. A replica's compatibility with a new iPhone has far more to do with the version you bought than with the phone in your pocket. Apple's phones all speak the same Bluetooth and the same popup language, so a working pair keeps working when you upgrade. The differences people actually run into are version differences — chipset, firmware, and feature list — not phone differences.
 
+> **Quick Answer:** Yes, replica AirPods work seamlessly with new iPhones and modern iOS versions. The pairing popup, battery percentage widget, in-ear detection, and swipe controls function normally. iOS will never brick or disable replica hardware; at most, an "Unverified AirPods" prompt may appear on initial pairing, which is bypassed in one tap.
+
 This is the plain version of what does and doesn't change when the phone is new and the buds are fake.
 
 ## The iOS popup still works
@@ -52,7 +54,11 @@ Two practical notes before you hit "Update" on a major release:
 
 Nothing here is a guarantee of support on any future iOS release — check current reports for your specific version.
 
-## FAQ
+Related guides and compatibility checks:
+- Having trouble pairing to your iPhone? Walk through [Fake AirPods Won't Connect](/articles/fake-airpods-wont-connect).
+- Need to reset or re-sync? Follow [How to Reset Fake AirPods](/articles/how-to-reset-fake-airpods).
+- Also using an Android device? Read [AirPods Replicas on Android](/articles/airpods-replicas-on-android).
+- Wondering if someone nearby can tell your AirPods are reps? See [Can People Tell Your AirPods Are Fake?](/articles/can-people-tell-airpods-are-fake).
 
 ::: details Will fake AirPods work with an iPhone 16?
 

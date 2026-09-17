@@ -9,6 +9,8 @@ order: 1
 
 Fake AirPods (replicas) have gotten good — the best clones have working ANC, Spatial Audio, and the iOS popup. That also means the old advice like "fakes feel cheap" or "the popup gives them away" doesn't cut it anymore. Here's what actually works, ordered from quickest to most conclusive.
 
+> **Quick Answer:** The fastest, most conclusive way to spot fake AirPods is checking Apple's **Find My network** (no clone at any price connects to native Find My tracking), verifying that the serial number in **Settings → General → About** matches the microscopic text inside the lid, or connecting to community chip-detection apps like **FlyCC** or **CloudCC** (which genuine AirPods ignore completely).
+
 ::: tip Bought second-hand?
 This is where most people get burned: the listing looked genuine, the box looked genuine, and the price was "too good to refuse". Run the checks below **before** money changes hands — or buy from a [verified seller](/links/info) instead and skip the guessing game.
 :::
@@ -62,7 +64,7 @@ All three of these are replica packaging — the box tells you what the seller w
 
 ### 8. Try the community chip-detection apps
 
-The community maintains [free apps](/useful-apps) that identify which chip your AirPods use — install a few and see which one connects. Genuine AirPods won't connect to any of them. One caveat: very low-end clones use a Jieli chipset and won't connect to anything either, so "no app connects" means cheap fake *or* real, never real for sure.
+The community maintains [free utility apps](/useful-apps) that identify which chip your AirPods use: **FlyCC** (detects Airoha 1562AE/E chipsets), **CloudCC** (Tigerbuilder/Airoha), and **Starfun** (Huilian 247). Install them on an Android phone or Mac and see which one connects. Genuine Apple AirPods will not respond to any of these third-party utilities. One caveat: bottom-tier clones use a cheap Jieli (Jerry) chipset that also ignores these apps, so "no app connects" means either cheap fake *or* genuine, never authentic for sure.
 
 ### 9. Ignore the buzzwords
 
@@ -83,6 +85,10 @@ Lots of people run these checks in reverse — they *want* the clone and just do
 - Browse the [trusted seller directory](/links/info) with current prices per model
 - Take the [quiz](/quiz) to get a pick for your budget
 - Read [how to buy](/ordering/how-to-buy) for payment methods and shipping
+- Compare [Replica AirPods vs Real AirPods](/articles/airpods-replicas-vs-real) for an honest feature breakdown
+- See [Best AirPods Replicas Under $50](/articles/best-airpods-replicas-under-50) for budget picks
+- Read [Can People Tell Your AirPods Are Fake?](/articles/can-people-tell-airpods-are-fake) to know what shows in daily use
+- If testing a glitchy pair, follow [How to Reset Fake AirPods](/articles/how-to-reset-fake-airpods) to clear stored state
 
 ## FAQ
 

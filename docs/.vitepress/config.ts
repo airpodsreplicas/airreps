@@ -1192,6 +1192,7 @@ export default defineConfig({
 
         // Section detection — drives breadcrumbs and per-section schema @type
         const sectionMap: Record<string, string> = {
+            articles: 'Articles',
             introduction: 'Ultimate Guide',
             links: 'Purchase Links',
             ordering: 'Ordering',
@@ -1205,6 +1206,7 @@ export default defineConfig({
         // links somewhere that exists — the bare `/links/`, `/troubleshooting/`
         // etc. section roots have no page and return 404.
         const sectionHubs: Record<string, string> = {
+            articles: 'articles/',
             introduction: 'introduction/overview',
             links: 'links/info',
             ordering: 'ordering/how-to-buy',
@@ -1217,7 +1219,12 @@ export default defineConfig({
                 : null;
 
         const isHome = basePath === '';
-        const isTroubleshooting = sectionSlug === 'troubleshooting';
+        const isTroubleshooting =
+            sectionSlug === 'troubleshooting' ||
+            (sectionSlug === 'articles' &&
+                (basePath.includes('wont-connect') ||
+                    basePath.includes('reset') ||
+                    basePath.includes('how-to-spot')));
         const isLinksPage = sectionSlug === 'links';
 
         // Multi-level breadcrumb (Home > Section > Page)

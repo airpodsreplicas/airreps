@@ -12,7 +12,21 @@ const props = withDefaults(
     { limit: 0, variant: 'page' }
 );
 
-const { frontmatter } = useData();
+const { frontmatter, lang } = useData();
+
+const localePrefix = computed(() => {
+    const code = (lang.value || 'en').split('-')[0];
+    return code === 'en' ? '' : `/${code}`;
+});
+
+const allHref = computed(() => `${localePrefix.value}/articles/`);
+
+function formatArticleUrl(url: string) {
+    if (!localePrefix.value || url.startsWith(localePrefix.value)) {
+        return url;
+    }
+    return `${localePrefix.value}${url}`;
+}
 
 // Labels come from page frontmatter so the translation sync keeps them in
 // sync with the rest of the page (see translatable frontmatter in the docs).
@@ -24,6 +38,8 @@ const heading = computed(() =>
 const subtitle = computed(() => String(frontmatter.value.articlesSubtitle || ''));
 // biome-ignore lint/correctness/noUnusedVariables: used in the template
 const allLabel = computed(() => String(frontmatter.value.articlesAllLabel || 'All articles'));
+// biome-ignore lint/correctness/noUnusedVariables: used in the template
+const readLabel = computed(() => String(frontmatter.value.articlesReadLabel || 'Read'));
 // biome-ignore lint/correctness/noUnusedVariables: used in the template
 const shown = computed(() =>
     props.limit > 0 ? props.articles.slice(0, props.limit) : props.articles
@@ -39,7 +55,7 @@ const shown = computed(() =>
         </component>
         <p v-if="subtitle" class="articles-subtitle">{{ subtitle }}</p>
       </div>
-      <a v-if="variant === 'home'" class="articles-all" href="/articles/">
+      <a v-if="variant === 'home'" class="articles-all" :href="allHref">
         {{ allLabel }}
       </a>
     </div>
@@ -48,13 +64,13 @@ const shown = computed(() =>
       <a
         v-for="article of shown"
         :key="article.url"
-        :href="article.url"
+        :href="formatArticleUrl(article.url)"
         class="article-card"
       >
         <span v-if="article.category" class="article-chip">{{ article.category }}</span>
         <h3 class="article-title">{{ article.title }}</h3>
         <p class="article-desc">{{ article.description }}</p>
-        <span class="article-more">Read</span>
+        <span class="article-more">{{ readLabel }}</span>
       </a>
     </div>
   </section>

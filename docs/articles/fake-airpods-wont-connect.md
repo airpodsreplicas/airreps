@@ -9,6 +9,8 @@ order: 8
 
 A replica that won't pair is annoying, but it's usually one of a few known things — and most have a fix. Work the steps top to bottom; they're ordered by how often they're the cause. If you reach the end and it still won't connect, that points to the unit, not you.
 
+> **Quick Answer:** If your fake AirPods won't connect, 80% of pairing failures are solved by a soft reset: Forget the AirPods in your phone's Bluetooth settings, turn Bluetooth OFF, put both earbuds in the case with the lid open, hold the rear button for 10–15 seconds until the LED flashes amber/white, close the lid for 60 seconds, turn Bluetooth back on, and reopen the lid next to your phone.
+
 ::: tip First time setting these up?
 Replicas often need a reset or two out of the box. Don't assume you've been sent a dead pair until you've worked through the steps below.
 :::
@@ -67,6 +69,12 @@ If the buds connect to your phone but misbehave on a Mac:
 If charging, a soft reset, a hard reset, and the iCloud fix all fail, you've probably received a faulty unit. A low-tier clone that no community app can see is a chip limitation — no setting turns a Jieli pair into a Huilian one.
 
 Trusted sellers replace faulty units, which is why the community points people to them. Contact your seller for a refund or replacement. If you're still choosing, buy from a [verified seller](/links/info) and follow the [ordering guide](/ordering/how-to-buy) so returns are easy.
+
+Related guides and fixes:
+- Need the deep drain or case button reset? See [How to Reset Fake AirPods](/articles/how-to-reset-fake-airpods).
+- Using a newer iOS device? Read [Do Fake AirPods Work With New iPhones?](/articles/do-fake-airpods-work-with-new-iphone).
+- Connecting on Android? Check [AirPods Replicas on Android](/articles/airpods-replicas-on-android).
+- Suspecting a fraudulent unit? Follow our [How to Spot Fake AirPods Guide](/articles/how-to-spot-fake-airpods).
 
 ## FAQ
 
