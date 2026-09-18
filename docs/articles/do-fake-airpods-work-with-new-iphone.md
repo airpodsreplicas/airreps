@@ -29,8 +29,8 @@ The practical note here is that these settings live on the buds once you make th
 
 Here's where the real compatibility questions live. Three things genuinely differ between versions, and none of them are about how new your iPhone is.
 
-- **iCloud Connect is Huilian-only.** Automatic switching between Apple devices only works on Huilian-based models — for example the AirPods Pro 2 V5.4 and the AirPods Pro 3 V6 Huilian. Other chipsets connect to multiple devices at once, but you switch manually. Our [connectivity page](/introduction/connectivity) spells this out.
-- **Live Translation and the newer feature set are on the current Pro 3 versions.** The [AirPods Pro 3 page](/version-info/airpods-pro-3) lists Live Translation on the V6 (Huilian only), the V7, and the SE, alongside features like the iOS 26 support listing, the About page, heart rate sensing, and head gesture controls on the top versions. Older models simply don't have these, regardless of the phone.
+- **iCloud Connect is Huilian-only.** Automatic switching between Apple devices only works on Huilian-based models — for example the AirPods Pro 2 V5.4, AirPods Pro 3 V6/V7 Huilian, and AirPods 4 V2 Huilian. Other chipsets connect to multiple devices at once via Bluetooth Multipoint, but you switch manually. Our [connectivity page](/introduction/connectivity) spells this out.
+- **Live Translation and the newer feature set are on the current Pro 3 versions.** The [AirPods Pro 3 page](/version-info/airpods-pro-3) lists Live Translation on the V6 (Huilian variant only), the V7, and the SE, alongside features like iOS 27 support, the About page, optical heart rate sensing, and head gesture controls on the top versions. Older models simply don't have these, regardless of the phone.
 - **Older low-tier clones with Jieli chipsets may not connect to the community apps at all.** The [general FAQ](/version-info/general) and [useful apps](/useful-apps) page are both direct about this: if none of the firmware apps detect your pair, it's a low-tier clone. That's a chipset limitation, not an iPhone one.
 
 In other words, if a feature is missing on your reps, the phone upgrade won't add it back. The version you bought is the ceiling.
@@ -66,9 +66,9 @@ Yes. Nothing about the phone model blocks a working replica. The pairing popup s
 
 :::
 
-::: details Do replica AirPods work with iOS 26?
+::: details Do replica AirPods work with iOS 27?
 
-Many current versions list iOS 26 support — the Pro 3 V5.5, V6, and V7 all do, and the SE lists a newer iOS generation still. Older and lower-tier clones are the ones that struggle. Check the [AirPods Pro 3 page](/version-info/airpods-pro-3) and the [general comparison](/version-info/general) for your exact version rather than assuming.
+All current versions recommended in this guide list iOS 27 support — including the Pro 3 series (V5.5, V6, SE, V7) and Pro 2 V5.x lineup. Older and lower-tier clones with un-updatable firmware are the ones that struggle when major iOS versions roll out. Check the [version info](/version-info/general) page for your exact version rather than assuming.
 
 :::
 

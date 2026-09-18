@@ -13,10 +13,12 @@ All current models of AirPods replicas support name changing, GPS, and changing 
 
 Newer models feature additional capabilities:
 - **USB-C charging** (AirPods Pro 2 V5.1+, AirPods Pro 3, AirPods 4, AirPods Max V3)
-- **iCloud Connect** (AirPods Pro 2 V5.4, AirPods Pro 3 V6, AirPods 4 V3)
-- **Adaptive Audio** (AirPods Pro 2 V5.3+)
-- **Conversation Awareness** (AirPods Pro 2 V5.3+)
-- **Live Translation** (AirPods Pro 3 V6)
+- **iCloud Connect** (AirPods Pro 2 V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7, AirPods 4 V2 Huilian)
+- **Adaptive Audio** (AirPods Pro 2 V5.2+, AirPods 4 V2 Huilian & V3 TB)
+- **Conversation Awareness** (AirPods Pro 2 V5.2+, AirPods Pro 3 V7 & V6 Huilian, AirPods 4 V2 Huilian & V3 TB)
+- **Live Translation** (AirPods Pro 3 V7, V6 Huilian, Pro 3 SE)
+- **Heart Rate Monitoring** (AirPods Pro 3 V7, Pro 3 SE)
+- **Head Gesture Controls** (AirPods Pro 2 V5.4, AirPods Pro 3 V7)
 
 ::: details Can the settings be changed using an Android device?
 If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufacturers also have [their own Android apps](/useful-apps) that make it possible to change these settings and more on Android devices. For the full Android picture — pairing, apps, and quirks — see our article on [AirPods replicas on Android](/articles/airpods-replicas-on-android).

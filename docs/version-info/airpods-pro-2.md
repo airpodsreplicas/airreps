@@ -11,17 +11,30 @@ Manufacturers are slowly transitioning development focus to newer models. AirPod
 
 **Quick verdict:** for most buyers the **V5.4 Huilian** is the best AirPods Pro 2 replica overall, balancing the newest features (iCloud Connect, adaptive audio, close-to-retail ANC) with strong all-round performance. Want the strongest noise cancelling instead? The **V5.3 TB** leads on ANC. See the [purchase links](/links/airpods-pro-2) for both.
 
-Click the hyperlink in the 'Version' column to find reviews for the given model.
+::: tip Shared Pro 2 Baseline
+All V5.x models share the core feature set: Active Noise Cancelling, Transparency Mode, swipe volume & Force Touch stem controls, Real Spatial Audio (with head-tracking), case speaker & lanyard loop, USB-C charging, Hey Siri, in-ear detection, iOS 27 support, and iOS About page.
+*(Note: No replica supports Apple's encrypted Find My network or retail-grade spatial audio DSP.)*
+:::
 
-| Version                                                              | Chip                        | Has Features                                                                                                                                                                                                                                                                                                                              | Missing Features                                                                                                                                                                |
-|----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) |  Huilian 377     | USB-C, Adaptive Audio, Conversation Awareness, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Close to retail ANC, iCloud Connect, OTA, EQ option. | Perfect Spatial Audio, Find My Network     |
-| [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | Airoha 1571AM(TB) / Airoha 1562AE(HR) / Huilian 277 (Pro Max)              | USB-C, Adaptive Audio, Conversation Awareness, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Close to retail ANC (Minor ANC compared to V5.2) | Perfect Spatial Audio, Find My Network     |
-| [<span class="version-badge">V5.3 Lite</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | Airoha 1563E(TB) / Huilian 227            | USB-C, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio & Conversation Awareness (Huilian exclusive), Case Speaker, Hey Siri, Almost 1:1 hinge design, Active Noise Cancellation (weaker than non-lite versions) | Perfect Spatial Audio, Find My Network, Retail ANC, Retail Transparency Mode, Adaptive Transparency, and other small details...     |
-| [<span class="version-badge">V5.2</span>](https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1) | Airoha 1562AE / Huilian 277 | USB-C, Adaptive Audio, Conversation Awareness, Active Noise Cancelling, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Close to retail ANC (Similar to V4.7/4.9)        | Perfect Spatial Audio, iCloud Connect, Find My Network                                                                                                                          |
-| [<span class="version-badge">V5.1</span>](https://www.reddit.com/r/AirReps/search?q=v5.1&restrict_sr=1) | Huilian 277 / BES2600IHC    | Active Noise Cancelling, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, 1:1 hinge design, Close to retail ANC (Similar to V4.7/4.9)                                                              | USB-C, Perfect Spatial Audio, iCloud Connect, Find My Network and many small details...                                                                                         |
-| [<span class="version-badge">V5.0</span>](https://www.reddit.com/r/AirReps/search?q=v5.0&restrict_sr=1) | Huilian 247B                | Active Noise Cancelling, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri                                                                                                                          | USB-C, Proper ANC, Perfect Spatial Audio, iCloud Connect, Find My Network and many small details...                                                                             |
-| [<span class="version-badge">V4.2</span>](https://www.reddit.com/r/AirReps/search?q=v4.2&restrict_sr=1) | Bluetrum                    | USB-C, Active Noise Cancelling, Transparency Mode, Volume Control, Force Touch Controls, About Page, Spatial Audio (no head-tracking - HiCity V4.2 only), Case Speaker                                                                                                                                                       | Stable sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, iCloud Connect, Spatial Audio, Accurate Case SFX, Find My Network and more noticeable details... |
+Click any version badge to find community reviews for that model.
+
+| Version → | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V5.3 Lite</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | [<span class="version-badge">V5.2</span>](https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1)<br>(TB / HR) |
+|:---|:---:|:---:|:---:|:---:|
+| **Chipset** | Huilian 377 | Airoha 1571AM / 1562AE | Airoha 1563E / Huilian 227 | Airoha 1562AE / Huilian 277 |
+| **ANC Level** | ~35–38 dB (Stable) | ~35–41 dB (Strongest) | Basic | ~35–39 dB |
+| **Adaptive Audio** | ✅ Yes | ✅ Yes | ❌ No | ✅ Yes |
+| **Conversation Awareness** | ✅ Yes | ✅ Yes | ⚠️ Huilian variant only | ✅ Yes |
+| **Spatial Audio (Head-tracking)** | ✅ Yes | ✅ Yes (ST Gyro) | ⚠️ Huilian variant only | ✅ Yes (ST Gyro) |
+| **Head Gesture Controls** | ✅ Yes (nod / shake) | ❌ No | ❌ No | ❌ No |
+| **Multi-Device / Switching** | ✅ iCloud Connect | Up to 3 devices | 1 device | 1 device |
+| **App EQ & Customization** | ✅ Starfun (Syncs to iOS) | ✅ CloudCC / FlyCC | ⚠️ Chip-dependent | ✅ CloudCC / FlyCC |
+| **Detailed Notes** | [V5.4 Details](#v5-4-version-differences) | [V5.3 Details](#v5-3-version-differences) | — | [V5.2 Details](#v5-2-version-differences) |
+
+::: info Older / Discontinued Pro 2 Versions
+Legacy models like **V5.1** (Lightning port), **V5.0**, and **V4.2** (Bluetrum) have been phased out or superseded by the V5.2+ lineup and are no longer recommended.
+:::
+
+
 
 
 ## V5.4 Version Differences:

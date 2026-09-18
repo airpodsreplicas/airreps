@@ -62,6 +62,18 @@ table .version-badge {
   font-size: 0.8em;
 }
 
+/* Align version tables to the top so badges and chip names line up with feature lists */
+.vp-doc table td {
+  vertical-align: top;
+}
+
+/* Subtle styling for the matrix corner axis label */
+.vp-doc table th:first-child {
+  color: var(--vp-c-text-2);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
 /* Responsive YouTube embeds */
 iframe[src*="youtube"] {
   max-width: 100%;

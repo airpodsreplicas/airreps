@@ -25,38 +25,43 @@ This table provides a summary of the most notable missing features for various A
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Network                                                                           |
-| [AirPods Gen 4](/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, Accurate Case SFX and more noticeable details                                                                           |
-| [AirPods Pro 2](/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfect Spatial Audio, Find My Network                                                                                                     |
-| [AirPods Gen 3](/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
-| [AirPods Max](/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Multi-Device Connect, Retail AirPods Max ANC, Better Transparency Mode, and More Subtle details                                            |
-| [AirPods Pro](/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (it's fairly close already), Find My Network                                                                            |
-| [AirPods Gen 2](/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
+| [AirPods Pro 3](/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Find My Network |
+| [AirPods Gen 4](/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Find My Network, and subtle retail finishing details |
+| [AirPods Pro 2](/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Perfect Spatial Audio, Find My Network |
+| [AirPods Gen 3](/version-info/airpods-3) | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | iCloud Connect, Find My Network |
+| [AirPods Max](/version-info/airpods-max) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1) | iCloud Connect, Retail AirPods Max ANC, Better Transparency Mode, and subtle retail finishing details |
+| [AirPods Pro](/version-info/airpods-pro) | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1) | 1:1 Noise Cancelling (it's fairly close already), Find My Network |
+| [AirPods Gen 2](/version-info/airpods-2) | [<span class="version-badge">V3E</span>](https://www.reddit.com/r/AirReps/search?q=v3e&restrict_sr=1) | iCloud Connect, Find My Network |
 
 **All Have:**
 
-All models have the following features:
+- Active Noise Cancelling (ANC), Transparency Mode, and Spatial Audio (Pro & Max models only)
+- Force Touch / Tap Controls
+- In-Ear / Optical Detection
+- USB-C (newer models) or Lightning
+- About Page, Name Changing, GPS Tracking (via iOS Settings)
+- Pop-Up Animation on iOS
 
-- Name Changing
-- GPS (iOS only)
-- Changing Tap Controls (iOS only)
-
-**All Missing:**
+**All Lack:**
 
 All models are missing the following feature:
 
-- "Find My Network" Availability
+- Find My Network (precision location tracking when away from your devices)
 
 **Note:** This list is ordered from newer to older models. A higher number does often but not always indicate a better model. Ready to buy? See [how to order](/ordering/how-to-buy) from our [trusted sellers](/links/info).
 
 ## FAQ
 
+::: details Are AirPods 5 reps available?
+Not yet, but we expect them to release very soon since there is very little change from the AirPods 4.
+:::
+
 ::: details Are AirPods Max reps available?
-AirPods Max replicas are now available and have become well-rounded replicas. Jenny and HiCity sell AirPods Max replicas using the Airoha 1561M. Prices have stabilized. For updates, visit the [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) and the [AirReps Discord](https://airreps.link/discord).
+AirPods Max replicas are available and mature. Flagship V3 Metal models use the Airoha 1562AE with aluminum cups, while budget V3P models use the Airoha 1561M with plastic cups. Prices have stabilized. For updates, visit the [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) and the [AirReps Discord](https://airreps.link/discord).
 :::
 
 ::: details Are AirPods Pro 3 reps available?
-AirPods Pro 3 replicas are available. The V7 (Huilian 377H3) is the newest version and adds a heart rate sensor, AI Hybrid ANC, and head gesture controls — it's an early release with some rough edges in the first batches. V6 is the more proven Pro 3 option, and V5.5 covers the budget end. All are available from trusted sellers. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
+AirPods Pro 3 replicas are available. The Jenny-exclusive SE (XiaoBai) is the top value pick with class-leading ANC. The V7 (Huilian 377H3) adds optical heart rate tracking, AI Hybrid ANC, and head gesture controls. V6 (Huilian/TB) offers a proven mid-tier with iCloud switching on Huilian, and V5.5 covers the budget entry. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
 :::
 
 ::: details Why might similar communities have newer products than this guide?

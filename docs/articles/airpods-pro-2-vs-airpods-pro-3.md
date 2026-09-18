@@ -11,7 +11,7 @@ With the release of AirPods Pro 3 replicas (specifically the **V7 Huilian**, **S
 
 While marketing hype always favors the newest generation, replica manufacturing follows a different curve. Early production runs of new form factors often have software bugs, while mature models benefit from years of batch revisions. Here is the honest head-to-head comparison from daily community testing.
 
-> **Quick Answer:** For 90% of buyers, the **AirPods Pro 2 V5.4 Huilian** (~$58) remains the superior everyday purchase: it delivers stable ~38dB Active Noise Cancellation, proven iCloud multi-device switching, and mature firmware. Buy the **AirPods Pro 3 replica** (such as the SE for ~$40 or V7 for ~$67) only if you specifically want the revised ergonomic form factor, want to experiment with early heart rate sensors, or prioritize Live Translation over raw hardware polish.
+> **Quick Answer:** For 90% of buyers, the **AirPods Pro 2 V5.4 Huilian** (~$58) remains the superior everyday purchase: it delivers stable ~38dB Active Noise Cancellation, proven iCloud multi-device switching, and mature firmware. Buy the **AirPods Pro 3 replica** (such as the SE for ~$48 or V7 for ~$68) only if you specifically want the revised ergonomic form factor, want to experiment with early heart rate sensors, or prioritize Live Translation over raw hardware polish.
 
 ::: tip Mature vs Bleeding Edge
 The AirPods Pro 2 replica ecosystem is at peak maturity. The newer AirPods Pro 3 family is exciting, but early batches of the flagship V7 have reported occasional ANC hissing and sensor quirks. Read the breakdown below before deciding.
@@ -21,11 +21,11 @@ The AirPods Pro 2 replica ecosystem is at peak maturity. The newer AirPods Pro 3
 
 | Category | AirPods Pro 2 Replica (V5.4 Huilian) | AirPods Pro 3 Replica (V7 Huilian / SE) |
 | :--- | :--- | :--- |
-| **Typical Price** | ~$50–$58 | ~$37 (V6) / ~$40 (SE) / ~$67 (V7) |
-| **Primary Chipset** | Huilian 377 / Airoha 1571AM | Huilian 377H3 (V7) / Proprietary (SE) |
+| **Typical Price** | ~$50–$58 | ~$38–$45 (V6) / ~$48 (SE) / ~$68–$75 (V7) |
+| **Primary Chipset** | Huilian 377 / Airoha 1571AM | Huilian 377H3 (V7) / XiaoBai (SE) |
 | **Active Noise Cancelling** | Stable ~35–38dB (Up to 41dB peak on V5.3 TB) | AI Hybrid ANC on V7; High-isolation on SE |
 | **Multi-Device Switching** | Full iCloud Connect (between Apple devices) | Huilian V6/V7 only; SE lacks iCloud switching |
-| **Special Hardware** | Standard touch/force sensors | Heart rate sensor & head gesture nodding (V7) |
+| **Special Hardware** | Standard touch/force sensors | Heart rate sensor (V7 & SE) & head gesture nodding (V7) |
 | **Earbud Battery Life** | ~6–8 hours | ~7 hours (45mAh cells) |
 | **Charging Case Port** | USB-C | USB-C |
 
@@ -40,9 +40,9 @@ Noise cancellation is where the maturity gap shows up most clearly:
 
 The Pro 3 clones introduce several new hardware capabilities:
 
-- **Heart Rate Sensor**: Present on the V7 and SE. On the SE, the sensor is notoriously inaccurate and should be treated as a novelty. On the V7, readings are more responsive but still lag behind dedicated fitness trackers.
+- **Heart Rate Sensor**: Present on the V7 and SE. On the SE, the sensor is inaccurate (tracks 15–20 bpm off) and should be treated as casual curiosity. On the V7, readings are more responsive via the optical sensor, but still lag behind dedicated fitness trackers.
 - **Head Gesture Controls**: The V7 allows you to nod your head to accept incoming phone calls or shake your head to decline. This functions surprisingly well in practice.
-- **Live Translation**: Both the V6 Huilian and V7 support iOS translation prompt popups, giving quick access to conversational audio translation.
+- **Live Translation**: Present on the Pro 3 V7, V6 Huilian, and SE. They trigger iOS translation prompt popups or companion app audio pass-through, giving quick access to conversational audio translation.
 
 ## 3. Apple Ecosystem & iCloud Connect
 

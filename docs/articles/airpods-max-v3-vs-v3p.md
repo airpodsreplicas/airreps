@@ -28,7 +28,7 @@ In-ear earbuds hide inside your ear canal where plastic is standard. Over-ear he
 | **Active Noise Cancelling** | Hybrid Dual-Mic ANC (~28–32dB) | Feedforward ANC (~20–24dB) |
 | **Digital Crown Action** | Weighted, smooth rotational resistance | Lighter click action |
 | **Battery Life** | ~45–50 hours | ~35–40 hours |
-| **Pairing Popup** | Supported (iOS 17/18/26) | Supported (iOS 17/18/26) |
+| **Pairing Popup** | Supported (iOS 17/18/27) | Supported (iOS 17/18/27) |
 
 ## 1. Materials & tactile feel: aluminum vs plastic
 

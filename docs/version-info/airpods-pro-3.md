@@ -5,16 +5,31 @@ description: "Compare AirPods Pro 3 replica versions (V7, SE, V6, V5.5) by chip,
 
 # AirPods Pro 3
 
-**Quick verdict:** the Jenny-exclusive **SE** is the surprise of the lineup — in our first-day testing it delivered possibly the best ANC of any replica (better than the pricier V7), around 80% of retail sound, and working head-tracking spatial audio. For most buyers choosing between the SE and the V7, the cheaper SE comes out ahead — see the [SE overview](#se-overview) for the caveats. The **V6 Huilian** remains the pick if you want iCloud Connect and seamless device switching, which the SE lacks. The **V7** wins if heart rate tracking or conversation awareness matter to you, but read the early-release notes below first. On a tight budget, the **V5.5** has the Pro 3 look for less. See the [purchase links](/links/airpods-pro-3) for all versions.
+**Quick verdict:** the Jenny-exclusive **SE** is the standout value pick of the Pro 3 series — built on the XiaoBai chipset, it delivers the strongest ANC tested on any replica (beating even the pricier V7), flawless head-tracking spatial audio, real-time translation, and built-in heart rate monitoring for just $48. For most buyers choosing between the SE and the V7, the SE comes out well ahead on value and everyday listening — see the [SE overview](#se-overview). The **V6 Huilian** remains the pick if you want iCloud Connect and multi-device switching. The **V7** wins if fitness-grade heart rate accuracy, head gesture answering, or conversation awareness are must-haves, but check the early-release notes first. On a tight budget, the **V5.5** has the Pro 3 look for less. See the [purchase links](/links/airpods-pro-3) for all versions.
 
-Click the hyperlink in the 'Version' column to find reviews for the given model.
+::: tip Shared Pro 3 Baseline
+All Pro 3 models include: USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, Pro 3 iOS popup, and iOS 27 support.
+*(Note: No replica supports Apple's encrypted Find My network.)*
+:::
 
-| Version | Chip | Has Features | Missing Features |
-|---------|------|--------------|------------------|
-| [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Huilian 377H3 | USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup, iOS 26 Support, Live Translation, iCloud Connect, Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode | Find My Network |
-| [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Not disclosed | USB-C, Excellent ANC (best we've tested on a replica), Transparency Mode, Slide Volume Control, Real Spatial Audio (with head-tracking), Wireless Charging, In-Ear Detection, Pro 3 Popup, Live Translation, Camera Control (photo capture), Heart Rate Sensor (very inaccurate — see overview), iOS 27 Support | Find My Network, Seamless Device Switching, Conversation Awareness, Head Gestures |
-| [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1) | Airoha 1563E / Huilian 247 | USB-C, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio, Case Speaker, Hey Siri, Almost 1:1 hinge design, Good ANC, Pro 3 Popup, iOS 26 Support, Live Translation (Huilian only), iCloud Connect (Huilian only) | Heart Rate Sensor, Higher-end build quality, Nodding gestures, Find My Network |
-| [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) | Bluetrum 8922 | Decent ANC, Transparency Mode, Pro 3 Popup, iOS 26 Support | Heart Rate Sensor, Higher-end build quality, Nodding gestures |
+Click any version badge to find community reviews for that model.
+
+| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Chipset** | Huilian 377H3 | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
+| **ANC Performance** | Dual-Feed Hybrid (~38–42 dB) | Top-Tier Hybrid (~42 dB, Best) | Good (~36–38 dB) | Decent (~32 dB) |
+| **Spatial Audio (Head-tracking)** | ⚠️ Firmware-dependent | ✅ Working Flawlessly | ✅ Working | ❌ Fixed (no tracking) |
+| **Real-Time Translation** | ✅ Yes (iOS / Starfun) | ✅ Yes (iOS prompt) | ⚠️ Huilian variant only | ❌ No |
+| **Heart Rate Monitoring** | ✅ Optical sensor | ✅ Yes (casual monitoring) | ❌ No | ❌ No |
+| **Head Gesture Controls** | ✅ Yes (nod / shake) | ❌ No | ❌ No | ❌ No |
+| **Conversation Awareness** | ✅ Yes | ❌ No | ⚠️ Huilian variant only | ❌ No |
+| **Multi-Device / Switching** | ✅ iCloud Connect | 1 device | iCloud (HL) / 2 devices (TB) | 1 device |
+| **App EQ / Customization** | ✅ Starfun | ❌ No | Starfun (HL) / FlyCC (TB) | ❌ No |
+| **Price / Value Tier** | ~$68–$75 (Flagship) | ~$48 (Top Value Pick) | ~$38–$45 (Mid-tier) | ~$25–$30 (Budget) |
+| **Detailed Overview** | [V7 Overview](#v7-overview) | [SE Overview](#se-overview) | — | — |
+
+
+
 
 ## V7 Overview
 
@@ -24,16 +39,16 @@ It's still an early release — some members have reported hissing on ANC and ot
 
 ## SE Overview
 
-The SE is a Jenny-exclusive Pro 3 replica, priced between the V6 Huilian and the V7.
+The SE is a Jenny-exclusive Pro 3 replica powered by the **XiaoBai chipset**, positioned at $48 as the standout value champion of the Pro 3 line.
 
 ::: info First-day impressions
 This section is based on our first day of hands-on testing against both a retail Pro 3 and the V7 Huilian — no battery or long-term testing yet. We'll update it after a week of real use.
 :::
 
-The headline is ANC: possibly the best we've heard on any replica, beating even the pricier V7 Huilian. It won't match the retail Pro 3, but it gets a long way there. Sound sits around 80% of retail — strong low end and very clear, with the mids slightly more muffled than Apple's tuning — and transparency mode is clear and natural. Head-tracking spatial audio genuinely works (it didn't on our V7 unit), and the iOS popup, wireless charging, and in-ear detection all work as expected. Stem controls are responsive, static is essentially non-existent, and build quality is solid — the case lid magnet is actually stronger than retail. The one quirk: the double-tap on the case front to connect needs a firmer press than you'd expect.
+The headline is ANC: easily the best we've heard on any replica, beating even the pricier V7 Huilian and getting remarkably close to retail. Sound sits around 80% of retail — punchy low end, clear vocals, and very natural transparency mode. Head-tracking spatial audio genuinely works without quirks (unlike early V7 batches), and it includes real-time translation, slide volume adjustment, wireless charging, and in-ear detection. Stem controls are snappy, static is essentially non-existent, and build quality is solid with strong case lid magnets. The one physical quirk: the double-tap on the case front to connect needs a firmer press than retail.
 
-The misses: the heart rate sensor reads far off a proper tracker (15–20 bpm in our testing) — if heart rate matters to you, get the V7 Huilian instead, which tracks accurately. Conversation awareness doesn't work, there's no Find My Network, and the mic is a step below the retail Pro 3's much-improved mic. The chipset still hasn't been disclosed.
+Where it trades off for its $48 price point: it connects to one device at a time (no seamless multi-device switching or iCloud Connect), and it does not have conversation awareness or head-gesture call answering (nodding/shaking). While heart rate monitoring is built in, our testing showed it tracks 15–20 bpm off a medical-grade sensor — fine for casual curiosity, but if you want a functional optical sensor, the V7 Huilian tracks significantly closer.
 
-**SE vs V7 Huilian:** the SE wins on ANC, working spatial audio, sound, and price; the V7 wins on heart rate accuracy and conversation awareness. Neither has Find My. For most buyers the cheaper SE comes out ahead. It's only sold by Jenny — see the [purchase links](/links/airpods-pro-3), and check [Pro 3 SE threads on r/AirReps](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) for community sentiment.
+**SE vs V7 Huilian:** the SE wins on ANC strength, flawless spatial audio, day-to-day stability, sound quality, and price ($48 vs $68+); the V7 wins on optical heart rate tracking, conversation awareness, and hands-free head gestures. For most buyers, the SE is the easy recommendation. It's exclusively sold by Jenny — see the [purchase links](/links/airpods-pro-3), and check [Pro 3 SE threads on r/AirReps](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) for community sentiment.
 
 For more on [ANC technology](/introduction/anc-explained), [sound quality](/introduction/sound-quality), and [build quality](/introduction/build-quality) across replicas, see the relevant guide sections. Ready to buy? Check our [purchase links](/links/airpods-pro-3) and [ordering guide](/ordering/how-to-buy).

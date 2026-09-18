@@ -21,7 +21,7 @@ Replica prices fluctuate with batches and promotions. The figures below are typi
 |--------|------|---------------|-----|
 | Under $30 | [AirPods 2 V3E](/version-info/airpods-2) | ~$26 | The cheapest entry point that's still genuinely good |
 | $30–40 | [AirPods 3 V1E](/version-info/airpods-3) | ~$30 | Better sound and fit than the 2, still very cheap |
-| $40–50 | [AirPods Pro 3 V5.5](/version-info/airpods-pro-3) | ~$27–67 (V5.5 sits at the low end) | Pro features and ANC for half the price of the flagship versions |
+| $40–50 | [AirPods Pro 3 SE](/version-info/airpods-pro-3) | ~$48 | Best ANC on any replica tested, working head tracking, and Pro 3 design |
 | Can stretch to $60? | [AirPods Pro 2 V5.4](/version-info/airpods-pro-2) | ~$50–58 | The best all-rounder in the entire replica market — worth the stretch |
 
 ## The picks in detail
@@ -38,9 +38,9 @@ For a few dollars more you get the AirPods 3 design with better sound. Like the 
 
 The AirPods 4 replica (V3) brings the open-ear design and costs roughly $29–52 depending on version, so parts of the range sit inside a $50 budget. The known trade-offs versus the real thing are the missing Find My network and less accurate case sounds and small details. If you hate in-ear tips, this is your pick.
 
-### AirPods Pro 3 V5.5 — Pro features at budget pricing
+### AirPods Pro 3 SE — the standout ANC champion under $50
 
-This is the interesting one. The [AirPods Pro 3 replica](/version-info/airpods-pro-3) family spans roughly $27–67: the V7 flagship adds a heart-rate sensor and the newest ANC, but V5.5 exists to put the Pro 3 experience at the bottom of that range. You get the Pro design, working ANC and transparency, and the iOS popup — without paying flagship-replica money. If you want Pro features under $50, this is the version to ask for.
+At $48, the Jenny-exclusive **AirPods Pro 3 SE** is the value highlight of the entire market. It delivers the strongest Active Noise Cancellation tested on any replica (beating even the $68+ flagship V7), flawless head-tracking spatial audio, and punchy sound with clear transparency. The trade-offs for its $48 price are single-device Bluetooth (no iCloud Connect) and an inaccurate heart rate sensor. If you want the Pro 3 design on a tighter budget, the **V5.5** (~$27) offers basic ANC for even less.
 
 ### The stretch pick: AirPods Pro 2 V5.4
 

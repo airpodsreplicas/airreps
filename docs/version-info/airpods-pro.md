@@ -5,21 +5,39 @@ description: "Compare AirPods Pro replica versions by chip, features, and missin
 
 # AirPods Pro
 
-::: tip
-This product line is no longer being actively updated by manufacturers, as development has shifted to newer models. AirPods Pro replicas are still excellent products and remain popular choices. If you're looking for the latest features and improvements, consider checking out [AirPods Pro 2](/version-info/airpods-pro-2) or [AirPods Pro 3](/version-info/airpods-pro-3).
+::: warning No longer stocked by trusted sellers
+Original **AirPods Pro (1st gen)** replicas are no longer actively produced or stocked by trusted sellers. For current Pro models, check out [AirPods Pro 2](/version-info/airpods-pro-2) or [AirPods Pro 3](/version-info/airpods-pro-3). This comparison is kept for reference.
 :::
 
-Click the hyperlink in the 'Version' column to find reviews for the given model. For purchase links, see [AirPods Pro links](/links/airpods-pro). To learn about [ANC technology](/introduction/anc-explained) and [features](/introduction/features), check the guide sections.
+**Quick verdict:** the **V4.9 (Airoha 1562AE)** was the peak of the original AirPods Pro lineup — featuring retail-grade hybrid ANC, ST gyroscope head-tracking spatial audio, and dual-device connectivity. All versions below V4.9 are discontinued.
 
-| Version                                                              | Chip                        | Has Features                                                                                                                                                                                                      | Missing Features                                                                                                                                              |
-|----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1) | Airoha 1562AE               | Hybrid Active Noise Cancelling, Transparency Mode, Metal Vents, Force Touch Controls, Improved Mic, Spatial Audio, Head Tracking, Improved ANC and Transparency Mode, Almost 1:1 Hinge Design, Retail/Perfect ANC | Perfect Spatial Audio, Better SFX, iCloud Connect and more subtle details                                                                                     |
-| [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1) | BES 2300ZP                  | Hybrid Active Noise Cancelling, Transparency Mode, Metal Vents, Force Touch Controls, Spatial Audio, Head Tracking, Improved ANC and Transparency Mode, 1:1 Hinge Design                                          | Retail/Perfect ANC, Perfect Spatial Audio, iCloud Connect, and more subtle details                                                    |
-| [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1) | HUILIAN A6 PRO / BES 2300ZP | Hybrid Active Noise Cancelling, Transparency Mode, Metal Vents, Force Touch Controls, Spatial Audio, Head Tracking, Close to retail ANC, 1:1 Hinge Design                                                         | Multi-Device Connect, Retail/Perfect ANC, Perfect Spatial Audio, iCloud Connect and more subtle details                                                       |
-| [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1) | Airoha 1562A                | Hybrid Active Noise Cancelling, Transparency Mode, Metal Vents, Force Touch Controls, Spatial Audio, iCloud Connect                                                                                               | Improved SFX, Multi-Device Connect, Retail/Perfect ANC, 1:1 Hinge Design, Perfect Spatial Audio, iCloud Connect and more subtle details                       |
-| [<span class="version-badge">V4</span>](https://www.reddit.com/r/AirReps/search?q=v4&restrict_sr=1)     | Bluetrum                    | Active Noise Cancelling, Transparency Mode, Metal Vents, Force Touch Controls, About Page, Spatial Audio (no head-tracking - HiCity V4 only)                                                                      | Stable sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, Spatial Audio, iCloud Connect and more noticeable details... |
-| [<span class="version-badge">V3.9</span>](https://www.reddit.com/r/AirReps/search?q=v3.9&restrict_sr=1) | Airoha 1536 + ANC1425       | Single Mic Active Noise Cancelling, Transparency Mode, Metal Vents, Improved Build Quality, Force Touch Controls, About Page                                                                                     | Better sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, Spatial Audio, iCloud Connect  and more subtle details...     |
-| [<span class="version-badge">V3.8</span>](https://www.reddit.com/r/AirReps/search?q=v3.8&restrict_sr=1) | Airoha 1536                 | Transparency Mode, Metal Hinge, Metal Vents, Improved Build Quality, Force Touch Controls, Audio Share, About Page                                                                                                | ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, Spatial Audio, iCloud Connect and more subtle details...                                   |
+::: tip Shared Pro 1 Baseline
+All Pro 1 models include: in-ear silicone tip design, Transparency Mode, metal vents, Force Touch stem controls, Lightning charging case, and iOS 27 support with About page popup.
+*(Note: Pro 1 replicas do not feature USB-C charging, volume swipe controls, or Apple's encrypted Find My network.)*
+:::
+
+Click any version badge to find community reviews for that model.
+
+| Version → | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)<br>(BES) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1)<br>(Huilian / BES) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1)<br>(Airoha) |
+|:---|:---:|:---:|:---:|:---:|
+| **Chipset** | Airoha 1562AE | BES 2300ZP | Huilian A6 Pro / BES | Airoha 1562A |
+| **ANC Performance** | Retail-Grade Hybrid (~38 dB) | Improved Hybrid (~35 dB) | Hybrid (~33 dB) | Early Hybrid (~30 dB) |
+| **Transparency Mode** | ✅ Natural & Clear | ✅ Improved | ⚠️ Basic | ⚠️ Basic |
+| **Spatial Audio (Head-tracking)** | ✅ Yes (ST Gyro) | ❌ Fixed (no tracking) | ✅ Yes | ❌ Fixed (no tracking) |
+| **Multi-Device Connect** | ✅ Dual-Device | ❌ 1 Device | ❌ 1 Device | ❌ 1 Device |
+| **App EQ & Updates** | ✅ FlyCC / CloudCC | ❌ No | ⚠️ Chip-dependent | ❌ No |
+| **iOS Compatibility** | iOS 27 | iOS 27 | Basic iOS | Basic iOS |
+| **Model Status** | **Final (Reference)** | Discontinued | Discontinued | Discontinued |
+| **Detailed Notes** | [V4.9 Differences](#v4-9-version-differences) | Discontinued | Discontinued | Discontinued |
+
+::: info Discontinued Pro 1 Models
+All versions below V4.9 are discontinued by manufacturers:
+- **V4.8** (BES 2300ZP)
+- **V4.7** (Huilian A6 Pro / BES 2300ZP)
+- **V4.5** (Airoha 1562A)
+- **V4** (Bluetrum)
+- **V3.9** & **V3.8** (Airoha 1536)
+:::
 
 ## V4.9 Version Differences:
 
@@ -27,15 +45,4 @@ Click the hyperlink in the 'Version' column to find reviews for the given model.
 
 **HR** - The HR headset has a yellowish, softer case that is less sweatproof than the TB model. It also has slightly better ANC performance, although it is similar in most situations, with occasional differences of up to 1 dB. The battery life of the HR model is 6 hours without ANC, and 4 hours with ANC turned on.
 
-
-::: tip
-Older pro clone models have been removed from the list as we do not encourage anyone to buy older versions than these.
-:::
-
-**Please note** that the following models are **discontinued**:
-
-- **V4.8**
-- **V4.7**
-- **V4.5**
-- **V3.9**
-- **V3.8**
+Ready to buy a current Pro model? See [AirPods Pro 2 links](/links/airpods-pro-2) and [AirPods Pro 3 links](/links/airpods-pro-3).
