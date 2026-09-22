@@ -106,13 +106,16 @@ async function chatComplete(openai, messages) {
     let lastErr;
     for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
         try {
+            const model =
+                process.env.TRANSLATION_MODEL ||
+                process.env.OPENAI_TRANSLATION_MODEL ||
+                'openai/gpt-6-luna';
             const res = await withTimeout(
                 openai.chat.completions.create({
-                    model:
-                        process.env.TRANSLATION_MODEL ||
-                        process.env.OPENAI_TRANSLATION_MODEL ||
-                        'openai/gpt-5-mini',
-                    temperature: 0.2,
+                    model,
+                    ...(model === 'openai/gpt-6-luna'
+                        ? { reasoning: { effort: 'low' } }
+                        : { temperature: 0.2 }),
                     messages,
                 }),
                 REQUEST_TIMEOUT_MS
