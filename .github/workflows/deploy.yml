@@ -63,8 +63,8 @@ jobs:
       - name: Check internal links and redirect bookmarks
         run: python3 scripts/check-guide-links.py
 
-      - name: Test product navigation
-        run: bun test scripts/product-families.test.ts
+      - name: Test product navigation and translated articles
+        run: bun test scripts/product-families.test.ts scripts/articles.test.ts scripts/translation-sync.test.ts
 
       - name: List build directory contents
         run: ls -la docs/.vitepress/dist

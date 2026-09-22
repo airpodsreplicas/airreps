@@ -34,6 +34,11 @@ const TRANSLATABLE_FRONTMATTER_KEYS = new Set([
     'ogLabel',
     'q',
     'a',
+    'articlesHeading',
+    'articlesSubtitle',
+    'articlesAllLabel',
+    'articlesReadLabel',
+    'category',
 ]);
 
 const MAX_RETRIES = 3;
@@ -217,7 +222,7 @@ Rules:
     return restoreBodyUrls(stripCodeFence(raw), urls, locale);
 }
 
-function collectTranslatableStrings(data) {
+export function collectTranslatableStrings(data) {
     const refs = [];
     const walk = (node, pathArr) => {
         if (Array.isArray(node)) {
@@ -358,7 +363,7 @@ async function translateDocument(openai, sourcePath, targetPath, locale, languag
     return { changed: true, targetPath: relTarget };
 }
 
-async function runPool(tasks, concurrency) {
+export async function runPool(tasks, concurrency) {
     const results = [];
     const errors = [];
     let idx = 0;
@@ -380,7 +385,7 @@ async function runPool(tasks, concurrency) {
         Array.from({ length: Math.min(concurrency, tasks.length) }, () => worker())
     );
     if (errors.length > 0) {
-        console.warn(`${errors.length} translation(s) failed but continuing with the rest.`);
+        throw new Error(`${errors.length} translation(s) failed; refusing to publish a partial sync.`);
     }
     return results;
 }

@@ -31,13 +31,13 @@ Click any version badge to find community reviews for that model.
 
 
 
-## V7 Overview
+## V7 Overview {#v7-overview}
 
 V7 is the newest AirPods Pro 3 replica, built on the Huilian 377H3 chipset. It introduces a heart rate sensor, head gesture controls for answering calls, AI Hybrid ANC, and a low-latency gaming mode. The 45mAh earbuds are rated around 7 hours of playback, and the 500mAh case delivers 3–4 full charges.
 
 It's still an early release — some members have reported hissing on ANC and other rough edges in the first batches. Later batches are likely to refine these, but check recent [V7 threads on r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) for current sentiment before you buy.
 
-## SE Overview
+## SE Overview {#se-overview}
 
 The SE is a Jenny-exclusive Pro 3 replica powered by the **XiaoBai chipset**, positioned at $48 as the standout value champion of the Pro 3 line.
 

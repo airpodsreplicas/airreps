@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import { useData } from 'vitepress';
 import { computed } from 'vue';
-import type { ArticleSummary } from '../articles';
+import { articlesForLocale } from '../articles';
+import { data as articles } from '../articles.data';
 
 const props = withDefaults(
     defineProps<{
-        articles: ArticleSummary[];
         limit?: number;
         variant?: 'home' | 'page';
     }>(),
@@ -21,13 +21,6 @@ const localePrefix = computed(() => {
 
 const allHref = computed(() => `${localePrefix.value}/articles/`);
 
-function formatArticleUrl(url: string) {
-    if (!localePrefix.value || url.startsWith(localePrefix.value)) {
-        return url;
-    }
-    return `${localePrefix.value}${url}`;
-}
-
 // Labels come from page frontmatter so the translation sync keeps them in
 // sync with the rest of the page (see translatable frontmatter in the docs).
 // biome-ignore lint/correctness/noUnusedVariables: used in the template
@@ -41,13 +34,14 @@ const allLabel = computed(() => String(frontmatter.value.articlesAllLabel || 'Al
 // biome-ignore lint/correctness/noUnusedVariables: used in the template
 const readLabel = computed(() => String(frontmatter.value.articlesReadLabel || 'Read'));
 // biome-ignore lint/correctness/noUnusedVariables: used in the template
-const shown = computed(() =>
-    props.limit > 0 ? props.articles.slice(0, props.limit) : props.articles
-);
+const shown = computed(() => {
+    const localized = articlesForLocale(articles, localePrefix.value);
+    return props.limit > 0 ? localized.slice(0, props.limit) : localized;
+});
 </script>
 
 <template>
-  <section :class="['articles', `articles--${variant}`]">
+  <section v-if="shown.length" :class="['articles', `articles--${variant}`]">
     <div class="articles-head">
       <div>
         <component :is="variant === 'home' ? 'h2' : 'h1'" class="articles-heading">
@@ -64,7 +58,7 @@ const shown = computed(() =>
       <a
         v-for="article of shown"
         :key="article.url"
-        :href="formatArticleUrl(article.url)"
+        :href="article.url"
         class="article-card"
       >
         <span v-if="article.category" class="article-chip">{{ article.category }}</span>

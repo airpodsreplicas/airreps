@@ -12,8 +12,8 @@ AirPods replicas offer a variety of features that mimic those of the original Ai
 All current models of AirPods replicas support name changing, GPS, and changing tap controls (iOS and macOS only). Many models also support Spatial Audio, Audio Share, and Live Listen (all iOS and macOS only). Transparency mode and [Active Noise Cancelling (ANC)](/introduction/anc-explained) are available on AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max models. The ANC on these replicas is really close to the original AirPods as shown in many reviews, but is not 1:1.
 
 Newer models feature additional capabilities:
-- **USB-C charging** (AirPods Pro 2 V5.1+, AirPods Pro 3, AirPods 4, AirPods Max V3)
-- **iCloud Connect** (AirPods Pro 2 V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7, AirPods 4 V2 Huilian)
+- **USB-C charging** (AirPods Pro 2 V5.2+, AirPods Pro 3, AirPods 4, AirPods Max V3)
+- **iCloud Connect** (AirPods Pro 2 V5.3 Huilian & V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7, AirPods 4 V2 Huilian)
 - **Adaptive Audio** (AirPods Pro 2 V5.2+, AirPods 4 V2 Huilian & V3 TB)
 - **Conversation Awareness** (AirPods Pro 2 V5.2+, AirPods Pro 3 V7 & V6 Huilian, AirPods 4 V2 Huilian & V3 TB)
 - **Live Translation** (AirPods Pro 3 V7, V6 Huilian, Pro 3 SE)

@@ -25,7 +25,8 @@ This table provides a summary of the most notable missing features for various A
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Find My Network |
+| [AirPods Pro 3](/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Find My Network; head-tracking reliability depends on firmware |
+| [AirPods Pro 3](/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Find My Network, iCloud switching, Conversation Awareness, head-gesture call controls; heart-rate readings are inaccurate |
 | [AirPods Gen 4](/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Find My Network, and subtle retail finishing details |
 | [AirPods Pro 2](/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Perfect Spatial Audio, Find My Network |
 | [AirPods Gen 3](/version-info/airpods-3) | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | iCloud Connect, Find My Network |

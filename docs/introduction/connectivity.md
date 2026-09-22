@@ -28,7 +28,7 @@ Some AirPods replicas may have better latency than original AirPods, resulting i
 Currently, most replicas support connecting to multiple devices at once. But only Huilian models can connect to several Apple devices using iCloud Connect.
 
 ::: tip
-Multi-device connectivity via **iCloud Connect** (seamless Apple ID device syncing) is exclusive to Huilian-based models: AirPods Pro 2 V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7, and AirPods 4 V2 Huilian. Other advanced chipsets (such as Airoha 1562AE/1571AM) support standard **Bluetooth Multipoint** across 2–3 devices, allowing multi-device switching without Apple ID integration.
+Multi-device connectivity via **iCloud Connect** (seamless Apple ID device syncing) is exclusive to Huilian-based models: AirPods Pro 2 V5.3 Huilian and V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7, and AirPods 4 V2 Huilian. Other advanced chipsets (such as Airoha 1562AE/1571AM) support standard **Bluetooth Multipoint** across 2–3 devices, allowing multi-device switching without Apple ID integration.
 :::
 
 ## Initial Connectivity with iOS Devices

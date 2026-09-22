@@ -7,6 +7,7 @@ description: 'The AirReps community guide to AirPods replicas — also known as 
 articlesHeading: "Guides & articles"
 articlesSubtitle: "Straight answers on spotting fakes, picking a version, and buying safely — from the community that tests these units every day."
 articlesAllLabel: "All articles"
+articlesReadLabel: "Read"
 
 hero:
   name: "AirReps"
@@ -43,8 +44,4 @@ features:
 
 <Contributor></Contributor>
 
-<script setup lang="ts">
-import { data as articles } from './index.data'
-</script>
-
-<Articles :articles="articles" variant="home" :limit="3" />
+<Articles variant="home" :limit="3" />

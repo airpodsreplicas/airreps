@@ -1,13 +1,20 @@
 // Shared article metadata for the /articles index and the homepage teaser.
-// Both pages load `articles/*.md` through VitePress content loaders and run the
-// same transform, so a new article only needs frontmatter (`category`, `order`)
-// to show up in both places automatically.
+// One loader collects English and translated articles. Each page selects its
+// own language so cards use translated titles and real destination URLs.
 
 export interface ArticleSummary {
     category: string;
     description: string;
     title: string;
     url: string;
+}
+
+export function articlesForLocale(
+    articles: ArticleSummary[],
+    localePrefix: string
+): ArticleSummary[] {
+    const prefix = `${localePrefix}/articles/`;
+    return articles.filter((article) => article.url.startsWith(prefix));
 }
 
 interface RawArticle {

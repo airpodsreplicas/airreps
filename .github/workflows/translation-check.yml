@@ -43,6 +43,9 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
+      - name: Test translation and article handling
+        run: bun test scripts/articles.test.ts scripts/translation-sync.test.ts
+
       - name: Get changed English files
         id: changed
         run: |
@@ -122,6 +125,22 @@ jobs:
           CHANGED_FILES: ${{ steps.changed.outputs.files }}
         run: bun .github/scripts/translate-docs.mjs
 
+      - name: Save generated translations for recovery
+        if: always() && steps.changed.outputs.count != '0'
+        uses: actions/upload-artifact@v7
+        with:
+          name: translated-docs
+          retention-days: 7
+          path: |
+            docs/es
+            docs/pt
+            docs/da
+            docs/fr
+            docs/pl
+            docs/ru
+            docs/de
+            docs/tr
+
       - name: Detect locale file changes
         if: steps.changed.outputs.count != '0'
         id: locale_changes
@@ -135,7 +154,9 @@ jobs:
       # merging and breaking the GitHub Pages deploy afterwards.
       - name: Validate translated build
         if: steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'
-        run: bunx vitepress build docs
+        run: |
+          bunx vitepress build docs
+          python3 scripts/check-guide-links.py
 
       - name: Push translations and open PR
         if: success() && steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'

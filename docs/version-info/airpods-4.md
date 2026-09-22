@@ -8,7 +8,7 @@ description: "Compare AirPods 4 replica versions by chip, features, and missing 
 **Quick verdict:** for open-ear listening with active noise cancellation, the **V3 TB (Airoha 1571AM)** is the current gold standard — featuring top-tier dual-mic hybrid ANC for an open-ear design, dual ST bone-voiceprint gyroscopes for head-tracking spatial audio, AI conversation awareness, and 1-to-3 multi-device switching. If you want seamless Apple ecosystem switching, the **V2 Huilian** provides iCloud Connect and Starfun EQ syncing. On a budget, the **V2 TB / HR** offers great open-ear sound with basic ANC. See the [AirPods 4 purchase links](/links/airpods-4).
 
 ::: tip Shared AirPods 4 Baseline
-All AirPods 4 models feature: open-fit (non-in-ear) design, USB-C charging case with case speaker, Force Touch stem controls, Hey Siri, in-ear detection, and iOS 27 support with About page popup.
+All AirPods 4 models feature: open-fit (non-in-ear) design, USB-C charging case with case speaker, stem playback controls, Hey Siri, in-ear detection, and iOS 27 support with About page popup.
 *(Note: No replica supports Apple's encrypted Find My network. Open-ear ANC naturally reduces less low-frequency rumble than silicone-tip in-ear Pro models.)*
 :::
 
@@ -27,11 +27,11 @@ Click any version badge to find community reviews for that model.
 | **App EQ & Customization** | ✅ FlyCC (Android) | ✅ Starfun (Syncs to iOS) | ✅ CloudCC / FlyCC | ❌ No |
 | **Detailed Notes** | [V3 Overview](#v3-overview) | [V2 Overview](#v2-overview) | [V2 Overview](#v2-overview) | — |
 
-## V3 Overview
+## V3 Overview {#v3-overview}
 
 The V3 TigerBuilder (TB) is built on the high-performance **Airoha 1571AM** chipset and represents the premier open-ear replica available. It features dual ST bone-voiceprint gyroscopes that deliver accurate real-time head tracking for spatial audio, AI Conversation Awareness that automatically lowers audio when you speak, and responsive case speaker sound effects. It also supports seamless switching across up to 3 paired devices and can be updated via the FlyCC Android app.
 
-## V2 Overview
+## V2 Overview {#v2-overview}
 
 The V2 tier offers reliable open-ear audio with slight differences depending on the manufacturer:
 

@@ -25,10 +25,12 @@ In-ear earbuds hide inside your ear canal where plastic is standard. Over-ear he
 | **Ear Cup Material** | Real CNC Anodized Aluminum | Painted ABS Plastic |
 | **Headband Assembly** | Stainless steel core with knit mesh | Composite plastic & alloy |
 | **Weight** | ~384g (Close to retail Apple's 384.8g) | ~320g (Noticeably lighter) |
-| **Active Noise Cancelling** | Hybrid Dual-Mic ANC (~28–32dB) | Feedforward ANC (~20–24dB) |
+| **Active Noise Cancelling** | Four-mic hybrid ANC (up to 45dB advertised) | Hybrid ANC (seller-listed) |
 | **Digital Crown Action** | Weighted, smooth rotational resistance | Lighter click action |
-| **Battery Life** | ~45–50 hours | ~35–40 hours |
+| **Battery Life** | 20h (seller-listed) | 20h (seller-listed) |
 | **Pairing Popup** | Supported (iOS 17/18/27) | Supported (iOS 17/18/27) |
+
+The battery figures and advertised V3 ANC rating come from [Jenny's V3 listing](https://jenny.airreps.info/product/max-v3-tb/) and [V3P listing](https://jenny.airreps.info/product/max-v3p-tb/), checked September 22, 2026. They are seller specifications, not measured results under matching conditions. Do not infer equal runtime or sound quality from those figures.
 
 ## 1. Materials & tactile feel: aluminum vs plastic
 
@@ -44,7 +46,7 @@ If your goal is to wear headphones that look and feel completely indistinguishab
 Because aluminum is significantly denser than plastic, the acoustic chambers behave differently:
 
 - **Acoustic Resonance**: The V3's aluminum chassis reduces internal harmonic distortion, resulting in tighter, more controlled sub-bass extension. The V3P's plastic housing has more internal reverberation, producing a warmer, slightly muddier low-end.
-- **Noise Cancellation**: The V3 incorporates a hybrid microphone array that filters low-frequency engine rumbles on trains and flights by roughly 28–32dB. The V3P relies on a single external feedforward microphone per cup, providing adequate office chatter suppression (~20dB) but struggling with deep transit bass.
+- **Noise Cancellation**: The V3 uses an upgraded four-mic hybrid ANC system. The V3P retains the older Airoha 1561M platform. Seller descriptions identify both as hybrid ANC; we do not have a comparable test supporting the previous 28–32dB versus 20–24dB figures.
 
 ## 3. Digital crown, buttons, and headband mesh
 

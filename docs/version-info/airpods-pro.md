@@ -39,7 +39,7 @@ All versions below V4.9 are discontinued by manufacturers:
 - **V3.9** & **V3.8** (Airoha 1536)
 :::
 
-## V4.9 Version Differences:
+## V4.9 Version Differences: {#v4-9-version-differences}
 
 **TB** - The TB headset is known for its white, tougher case that is more sweatproof than the HR model. It also features a ST gyroscope, similar to the V4.7 and Retail versions, which provides excellent spatial audio. With ANC on, it has a battery life of 6 hours, while the HR model only lasts for 4 hours.
 
