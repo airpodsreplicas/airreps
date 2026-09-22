@@ -67,10 +67,15 @@ table .version-badge {
   vertical-align: top;
 }
 
+/* Center version badges and link stacks within seller table rows. */
+.vp-doc table:has(.link-column) td {
+  vertical-align: middle;
+}
+
 /* Subtle styling for the matrix corner axis label */
 .vp-doc table th:first-child {
-  color: var(--vp-c-text-2);
   font-weight: 500;
+  color: var(--vp-c-text-2);
   white-space: nowrap;
 }
 
