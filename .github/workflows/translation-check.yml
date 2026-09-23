@@ -33,7 +33,7 @@ jobs:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-          ref: main # Always checkout latest main so a surviving queued run sees all pending changes
+          ref: ${{ github.event_name == 'workflow_dispatch' && github.ref_name || 'main' }} # Manual recovery can use a prepared branch; pushes always use latest main
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2

@@ -1,37 +1,37 @@
 ---
-title: Czas Pracy Baterii AirPods Replica
-description: 'Oczekiwana żywotność baterii, różnice w zależności od modelu i wskazówki dotyczące bezpiecznego ładowania.'
+title: Czas pracy baterii replik AirPods
+description: 'Oczekiwana żywotność baterii, różnice w zależności od modelu oraz wskazówki dotyczące bezpiecznego ładowania.'
 ---
-# Żywotność baterii
+# Czas pracy baterii
 
-Zrozumienie żywotności baterii replik AirPods pomoże Ci odpowiednio zarządzać oczekiwaniami i używać ich efektywnie.
+Zrozumienie czasu pracy baterii replik AirPods może pomóc w dostosowaniu oczekiwań i efektywnym korzystaniu z nich.
 
-## Średni czas pracy na baterii
+## Średni czas pracy baterii
 
-Średni czas pracy na baterii replik AirPods to około 8-10 godzin na jedno ładowanie przy 75% głośności. Etui może zapewnić 2-3 pełne ładowania dla słuchawek, dając łączny czas użytkowania 24-30 godzin. Starsze modele zazwyczaj osiągały 5-7 godzin na jedno ładowanie, podczas gdy niektóre modele wyższej klasy, takie jak Pro 2 V5.3 TB, średnio około 7-8 godzin.
+Średni czas pracy baterii dousznych replik AirPods wynosi około 5–8 godzin na jednym ładowaniu przy umiarkowanej głośności (w zależności od tego, czy ANC jest aktywne). Na przykład Pro 2 V5.4 Huilian działają około 4,5 godziny z ANC i około 6 godzin bez ANC, podczas gdy V5.3 TB osiągają do 6 godzin z ANC i 8 godzin bez ANC. W przypadku modeli nausznych [porównanie AirPods Max](/pl/version-info/airpods-max) rozróżnia czas pracy deklarowany przez sprzedawcę od zmierzonych wyników. Etui ładujące zapewnia 2–3 pełne doładowania słuchawek.
 
 ::: tip
-Obecne modele replik zazwyczaj oferują 8-10 godzin pracy na baterii, choć wydajność może się różnić między partiami i jakością produkcji.
+Obecne douszne modele replik zazwyczaj oferują 5–8 godzin słuchania na jednym ładowaniu. Porównuj dane dotyczące baterii przy tej samej głośności i tych samych ustawieniach ANC; wartości podawane przez sprzedawców nie są bezpośrednio porównywalne z testami praktycznymi.
 :::
 
-## Różnice w czasie pracy na baterii
+## Różnice w czasie pracy baterii
 
-Rzeczywisty czas pracy na baterii może się różnić w zależności od wersji modelu, generacji chipu, partii produkcyjnej i wzorców użytkowania. Czynniki takie jak poziom głośności, [funkcje](/pl/introduction/features) oraz wiek repliki mogą wpływać na wydajność. Sprawdź [tabele porównania wersji](/pl/version-info/general) dla danych dotyczących czasu pracy na baterii dla poszczególnych modeli.
+Rzeczywisty czas pracy baterii może się różnić w zależności od wersji modelu, generacji układu, partii produkcyjnej i sposobu użytkowania. Czynniki takie jak poziom głośności, [używane funkcje](/pl/introduction/features) oraz wiek repliki mogą wpływać na wydajność. Sprawdź [tabele porównawcze wersji](/pl/version-info/general), aby znaleźć dane dotyczące czasu pracy dla poszczególnych modeli.
 
-## Dokładność wskazań poziomu baterii
+## Dokładność wskazania poziomu baterii
 
-Wskaźniki poziomu baterii na urządzeniach iOS nie zawsze mogą być dokładne, chociaż problem ten został w dużej mierze rozwiązany w nowszych replikach. Jednak, podobnie jak oryginalne AirPods, repliki wydadzą dźwięk, gdy bateria osiągnie 20%. Na urządzeniach Android poziom baterii można sprawdzić w ustawieniach Bluetooth lub używając aplikacji takich jak TWTools, Materialpods lub Andropods dla dokładniejszych odczytów. Zobacz naszą stronę [przydatne aplikacje](/pl/useful-apps) po linki do pobrania aplikacji producentów i narzędziowych.
+Wskazania poziomu baterii na urządzeniach z systemem iOS nie zawsze są dokładne, choć problem ten został w dużej mierze rozwiązany w nowszych replikach. Jednak podobnie jak oryginalne AirPods, repliki wydają sygnał dźwiękowy, gdy poziom baterii spadnie do 20%. Na urządzeniach z Androidem poziom baterii można sprawdzić w ustawieniach Bluetooth lub za pomocą aplikacji takich jak TWTools, Materialpods czy Andropods, które zapewniają dokładniejsze odczyty. Odwiedź stronę [przydatne aplikacje](/pl/useful-apps), aby znaleźć linki do pobrania aplikacji producentów i narzędzi.
 
 ::: warning
-Wskazania poziomu baterii na urządzeniach iOS mogą być nie zawsze dokładne. Użytkownicy Androida mogą użyć określonych aplikacji do dokładniejszego monitorowania.
+Wskazania poziomu baterii na urządzeniach z systemem iOS nie zawsze są dokładne. Użytkownicy Androida mogą korzystać z określonych aplikacji, aby monitorować poziom baterii z większą precyzją.
 :::
 
-## Bezprzewodowe i szybkie ładowanie
+## Ładowanie bezprzewodowe i szybkie
 
-AirReps obsługują zarówno ładowanie bezprzewodowe, jak i przewodowe szybkie ładowanie, ale starsze modele mogą się przegrzewać lub nawet ulec uszkodzeniu, jeśli pozostaną na ładowarce zbyt długo, szczególnie podczas korzystania z ładowania bezprzewodowego. Dla bezpieczeństwa unikaj ładowania dłużej niż 2-3 godziny naraz i odłącz je, jeśli etui zacznie być ciepłe.
+AirReps obsługują zarówno szybkie ładowanie bezprzewodowe, jak i przewodowe, ale starsze modele mogą się przegrzewać, a nawet ulec uszkodzeniu, jeśli pozostaną zbyt długo na ładowarce, zwłaszcza podczas ładowania bezprzewodowego. Aby zachować bezpieczeństwo, unikaj ładowania przez ponad 2–3 godziny jednorazowo i odłącz słuchawki, jeśli etui zacznie się nagrzewać.
 
-Nowsze modele, takie jak **5.3TB**, **5.3HR+** i **5.4Huilian**, radzą sobie z szybkim ładowaniem znacznie lepiej i są bezpieczne w użyciu zarówno z ładowarkami przewodowymi, jak i bezprzewodowymi.
+Nowsze modele, takie jak **5.3TB**, **5.3HR+** i **5.4Huilian**, znacznie lepiej radzą sobie z szybkim ładowaniem i można ich bezpiecznie używać zarówno z ładowarkami przewodowymi, jak i bezprzewodowymi.
 
 ::: danger
-Długotrwałe ładowanie bezprzewodowe lub szybkie może powodować przegrzewanie się niektórych modeli, szczególnie starszych wersji. Zawsze monitoruj temperaturę podczas ładowania bezprzewodowego.
+Długotrwałe ładowanie bezprzewodowe lub szybkie może powodować przegrzewanie się niektórych modeli, szczególnie starszych wersji. Podczas ładowania bezprzewodowego zawsze monitoruj temperaturę.
 :::

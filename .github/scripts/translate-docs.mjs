@@ -188,16 +188,19 @@ export function protectBodyUrls(body) {
 // model dropped or duplicated a placeholder, so a damaged translation fails the
 // task instead of producing a broken link.
 export function restoreBodyUrls(body, urls, locale) {
-    const found = (body.match(URL_SENTINEL_RE) || []).length;
-    if (found !== urls.length) {
+    const found = [...body.matchAll(URL_SENTINEL_RE)].map((match) => Number(match[1]));
+    if (
+        found.length !== urls.length ||
+        found.some((index, position) => index !== position)
+    ) {
         throw new Error(
-            `URL placeholder mismatch after translation: expected ${urls.length}, found ${found}`
+            `URL placeholder mismatch after translation: expected indices 0–${urls.length - 1} once in order, found ${found.join(',')}`
         );
     }
     return body.replace(URL_SENTINEL_RE, (_m, n) => localizeUrl(urls[Number(n)], locale));
 }
 
-async function translateBody(openai, body, locale, language) {
+export async function translateBody(openai, body, locale, language) {
     if (!body.trim()) {
         return body;
     }
@@ -215,11 +218,26 @@ Rules:
 - The text contains opaque placeholder tokens (a private-use character, then "U", a number, then another private-use character) that stand in for URLs. Keep every placeholder EXACTLY as written and in the same position. Never translate, remove, reorder, duplicate, or otherwise alter a placeholder.
 - Keep existing translated wording when it is already accurate; minimize unrelated rewrites.`;
 
-    const raw = await chatComplete(openai, [
+    const messages = [
         { role: 'system', content: system },
         { role: 'user', content: guardedBody },
-    ]);
-    return restoreBodyUrls(stripCodeFence(raw), urls, locale);
+    ];
+    for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+        const raw = await chatComplete(openai, messages);
+        try {
+            return restoreBodyUrls(stripCodeFence(raw), urls, locale);
+        } catch (err) {
+            if (attempt === MAX_RETRIES) throw err;
+            console.warn(`  Translation attempt ${attempt}/${MAX_RETRIES} failed: ${err.message}`);
+            messages.push(
+                { role: 'assistant', content: raw },
+                {
+                    role: 'user',
+                    content: `Your previous translation changed URL placeholders. Translate the original text again. Keep each placeholder exactly once, in its original order: ${urls.map((_, i) => urlSentinel(i)).join(' ')}. Output only the corrected markdown.`,
+                }
+            );
+        }
+    }
 }
 
 export function collectTranslatableStrings(data) {

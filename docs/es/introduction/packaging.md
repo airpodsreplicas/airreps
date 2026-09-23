@@ -1,56 +1,56 @@
 ---
-title: AirPods Embalaje & Cajas Réplica
-description: 'Tipos de embalaje explicados: Sin-logo, Apple Logo, y Cajas Dobles/Señuelo. Riesgos y detalles de calidad.'
+title: Embalaje y cajas de réplicas de AirPods
+description: 'Tipos de embalaje explicados: sin logotipo, logotipo de Apple y cajas dobles/de señuelo. Riesgos y detalles de calidad.'
 ---
-# Empaque
+# Embalaje
 
-Las réplicas de AirPods vienen en diferentes tipos de empaques, cada uno con sus propias características únicas y riesgos potenciales.
+Las réplicas de AirPods vienen en distintos tipos de embalaje, cada uno con sus propias características y posibles riesgos.
 
-## Caja sin logo
+## Caja sin logotipo
 
-La caja sin logo es blanca y tiene una forma similar a la caja original de AirPods. Muestra una imagen de AirPods pero carece del texto "AirPods", los logotipos de Apple o las marcas registradas. El manual incluido y el cable de carga son genéricos, sin los números de serie que suelen encontrarse en el embalaje original de AirPods.
+La caja sin logotipo es blanca y tiene una forma similar a la caja original de AirPods. Muestra una imagen de AirPods, pero no incluye el texto «AirPods», logotipos de Apple ni marcas comerciales. El manual y el cable de carga incluidos son genéricos y no tienen los números de serie que suelen encontrarse en el embalaje original de AirPods.
 
-<img src="/nologobox.webp" alt="Caja sin logo" width="300" height="400"/>
+<img src="/nologobox.webp" alt="Caja sin logotipo" width="300" height="400"/>
 
 ::: warning
-Si pides usando un enlace de **Alibaba**, tus réplicas **siempre** se enviarán en una caja neutral, sin logo, para evitar incautaciones en aduanas y reclamaciones por derechos de autor. Las cajas con la marca Apple no están disponibles a través de Alibaba.
+Si haces el pedido mediante un enlace de **Alibaba**, tus réplicas **siempre** se enviarán en una caja neutra y sin logotipo para evitar incautaciones aduaneras y reclamaciones por derechos de autor. Las cajas con la marca Apple no están disponibles a través de Alibaba.
 :::
 
 
-## Caja con logo de Apple
+## Caja con logotipo de Apple
 
-La caja con el logo de Apple imita el embalaje de los AirPods legítimos, presentando el texto tradicional "AirPods" y los logotipos de Apple. Los manuales y el cable de carga en su interior llevan marcas de Apple. Sin embargo, solicitar una "caja Apple" podría aumentar el riesgo de incautación del producto en aduanas, lo que puede conllevar multas o destrucción del producto. Para mitigar este riesgo, muchos vendedores usan una técnica de caja doble, ocultando la caja real de Apple dentro de una caja genérica con forma de auriculares.
+La caja con el logotipo de Apple reproduce el embalaje de unos AirPods legítimos, con el tradicional texto «AirPods» y los logotipos de Apple. Los manuales y el cable de carga del interior llevan marcas de Apple. Sin embargo, solicitar una «caja de Apple» podría aumentar el riesgo de que el producto sea incautado en la aduana, lo que podría ocasionar multas o la destrucción del producto. Para reducir este riesgo, muchos vendedores utilizan una técnica de doble caja, ocultando la caja de Apple real dentro de una caja genérica con forma de auriculares.
 
-<img src="/applebox.webp" alt="Caja con logo de Apple" width="300" height="400"/>
+<img src="/applebox.webp" alt="Caja con logotipo de Apple" width="300" height="400"/>
 
 ::: danger
-Solicitar una "caja Apple" puede provocar la incautación del producto en aduanas. Muchos vendedores usan la técnica de caja doble para reducir este riesgo.
+Solicitar una «caja de Apple» puede provocar la incautación del producto en la aduana. Muchos vendedores utilizan una técnica de doble caja para reducir este riesgo.
 :::
 
-## Caja doble/cebo
+## Caja doble/de señuelo
 
-La mejor opción para la mayoría de compradores. Una caja exterior genérica que parece auriculares comunes, con la caja con logo de Apple oculta en su interior. Esto reduce significativamente el riesgo de incautación en aduanas mientras aún te da el embalaje completo con la marca Apple.
+La mejor opción para la mayoría de los compradores. Una caja exterior genérica que parece la de unos auriculares comunes, con la caja con el logotipo de Apple oculta en el interior. Esto reduce considerablemente el riesgo de incautación aduanera y, al mismo tiempo, te permite recibir todo el embalaje con la marca Apple.
 
-Cuando seleccionas la caja con logo de Apple en el momento del pago, la caja doble se incluye automáticamente: los vendedores siempre envían las cajas de Apple dentro de una caja señuelo para protección. La opción de caja Apple suele estar preseleccionada en la mayoría de los métodos de pago, aunque algunos pueden cobrar una pequeña tarifa adicional. Si estás pidiendo a través de **Alibaba**, la caja Apple/caja doble **no está disponible**: siempre recibirás una caja sin logo.
+Cuando seleccionas la caja con el logotipo de Apple al realizar el pago, la doble caja se incluye automáticamente: los vendedores siempre envían las cajas de Apple dentro de una caja de señuelo para protegerlas. La opción de caja de Apple viene preseleccionada en la mayoría de los métodos de pago, aunque algunos pueden cobrar una pequeña tarifa adicional. Si haces el pedido a través de **Alibaba**, la caja de Apple/doble **no está disponible**: siempre recibirás una caja sin logotipo.
 
-<img src="/doublebox.webp" alt="Caja doble/cebo" width="300" height="400"/>
+<img src="/doublebox.webp" alt="Caja doble/de señuelo" width="300" height="400"/>
 
 ::: tip
-La caja Apple (que siempre viene como caja doble) suele estar preseleccionada al pagar. Verifica que esté marcada antes de completar tu pedido.
+La caja de Apple (que siempre viene como una doble caja) suele estar preseleccionada al realizar el pago. Comprueba que esté marcada antes de completar el pedido.
 :::
 
 ## Calidad de la caja
 
-La calidad de la caja puede ir desde bien hecha con texto correctamente en relieve y etiquetas alineadas, hasta de menor calidad o descuidada. Si la calidad de la caja te importa, pide fotos al vendedor antes de comprar.
+La calidad de la caja puede variar desde una fabricación cuidada, con el texto correctamente estampado y las etiquetas alineadas, hasta una calidad inferior o un acabado descuidado. Si la calidad de la caja es importante para ti, pide al vendedor que te envíe fotos antes de realizar la compra. Y si estás examinando una caja para determinar si los AirPods del interior son auténticos, nuestro artículo sobre [cómo saber si unos AirPods son falsos](/es/articles/how-to-spot-fake-airpods) explica las comprobaciones que realmente importan.
 
 ::: tip
-Siempre pide fotos si la calidad de la caja es importante para ti.
+Pide siempre fotos si la calidad de la caja es importante para ti.
 :::
 
 ## Manipulación y envío
 
-La caja o el embalaje podrían llegar ligeramente abollados o arrugados debido a la manipulación por parte de transportistas internacionales y locales, no por el vendedor. Para consejos sobre el proceso de pedido y las expectativas de envío, consulta [cómo comprar](/es/ordering/how-to-buy).
+La caja o el embalaje pueden llegar ligeramente abollados o arrugados debido a la manipulación por parte de los transportistas internacionales y locales, no del vendedor. Para obtener consejos sobre el proceso de pedido y las expectativas de envío, consulta [cómo comprar](/es/ordering/how-to-buy).
 
 ## Cable de carga
 
-El cable de carga incluido puede no soportar transferencia de datos como muchos otros cables USB. [Vendedores](/es/introduction/sellers) a menudo usan cables con pines falsos en lugar de pines funcionales reales para reducir costos.
+Es posible que el cable de carga incluido no admita la transferencia de datos, a diferencia de muchos otros cables USB. Los [vendedores](/es/introduction/sellers) suelen utilizar cables con pines falsos en lugar de pines reales y funcionales para reducir costes.

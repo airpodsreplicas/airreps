@@ -1,40 +1,47 @@
 ---
-title: AirPods Pro Replika Sürümleri & Özellikleri
-description: 'AirPods Pro replika sürümlerini çip, özellikler ve eksik özelliklere göre karşılaştırın.'
+title: AirPods Pro Replika Sürümleri ve Teknik Özellikleri
+description: 'AirPods Pro replika sürümlerini çip, özellikler ve eksik özellikler açısından karşılaştırın.'
 ---
 # AirPods Pro
 
-::: tip
-Bu ürün serisi, üreticilerin geliştirmeyi daha yeni modellere kaydırması nedeniyle artık aktif olarak güncellenmemektedir. AirPods Pro kopyaları hâlâ mükemmel ürünlerdir ve popüler tercihler olmaya devam etmektedir. En son özellikler ve geliştirmeleri arıyorsanız, [AirPods Pro 2](/tr/version-info/airpods-pro-2) veya [AirPods Pro 3](/tr/version-info/airpods-pro-3) sayfalarına göz atmayı düşünebilirsiniz.
+::: warning Artık güvenilir satıcılarda stokta yok
+Orijinal **AirPods Pro (1. nesil)** replikaları artık aktif olarak üretilmiyor veya güvenilir satıcılarda stoklanmıyor. Güncel Pro modelleri için [AirPods Pro 2](/tr/version-info/airpods-pro-2) veya [AirPods Pro 3](/tr/version-info/airpods-pro-3) sayfalarına göz atın. Bu karşılaştırma referans olması için tutulmaktadır.
 :::
 
-Sütundaki 'Version' (Versiyon) bağlantısına tıklayarak verilen modelin incelemelerine ulaşabilirsiniz. Satın alma bağlantıları için bkz. [AirPods Pro links](/tr/links/airpods-pro). [ANC teknolojisi](/tr/introduction/anc-explained) ve [özellikler](/tr/introduction/features) hakkında bilgi edinmek için kılavuz bölümlerine bakın.
+**Kısa sonuç:** **V4.9 (Airoha 1562AE)**, orijinal AirPods Pro serisinin zirvesiydi — perakende kalitesinde hibrit ANC, ST jiroskoplu kafa takibi özellikli uzamsal ses ve çift cihaz bağlantısı sunuyordu. V4.9'un altındaki tüm sürümler üretimden kaldırılmıştır.
 
-| Versiyon                                                              | Chip                        | Sahip Olduğu Özellikler                                                                                                                                                                                            | Eksik Özellikler                                                                                                                                                 |
-|----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1) | Airoha 1562AE               | Hibrit Aktif Gürültü Engelleme (Hybrid ANC), Şeffaflık Modu, Metal Havalandırma, Force Touch Kontrolleri, Geliştirilmiş Mikrofon, Mekansal Ses, Baş Takibi, Geliştirilmiş ANC ve Şeffaflık Modu, Neredeyse 1:1 Menteşe Tasarımı, Perakende/Kusursuz ANC | Kusursuz Mekansal Ses, Daha İyi Ses Efektleri (SFX), iCloud Connect ve daha ince ayrıntılar                                                                        |
-| [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1) | BES 2300ZP                  | Hibrit Aktif Gürültü Engelleme, Şeffaflık Modu, Metal Havalandırma, Force Touch Kontrolleri, Mekansal Ses, Baş Takibi, Geliştirilmiş ANC ve Şeffaflık Modu, 1:1 Menteşe Tasarımı                                                           | Perakende/Kusursuz ANC, Kusursuz Mekansal Ses, iCloud Connect ve daha ince ayrıntılar                                                                               |
-| [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1) | HUILIAN A6 PRO / BES 2300ZP | Hibrit Aktif Gürültü Engelleme, Şeffaflık Modu, Metal Havalandırma, Force Touch Kontrolleri, Mekansal Ses, Baş Takibi, Perakende ANC'ye yakın performans, 1:1 Menteşe Tasarımı                                                           | Çoklu Cihaz Bağlantısı, Perakende/Kusursuz ANC, Kusursuz Mekansal Ses, iCloud Connect ve daha ince ayrıntılar                                                        |
-| [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1) | Airoha 1562A                | Hibrit Aktif Gürültü Engelleme, Şeffaflık Modu, Metal Havalandırma, Force Touch Kontrolleri, Mekansal Ses, iCloud Connect                                                                                              | Geliştirilmiş SFX, Çoklu Cihaz Bağlantısı, Perakende/Kusursuz ANC, 1:1 Menteşe Tasarımı, Kusursuz Mekansal Ses, iCloud Connect ve daha ince ayrıntılar                 |
-| [<span class="version-badge">V4</span>](https://www.reddit.com/r/AirReps/search?q=v4&restrict_sr=1)     | Bluetrum                    | Aktif Gürültü Engelleme, Şeffaflık Modu, Metal Havalandırma, Force Touch Kontrolleri, Hakkında Sayfası, Mekansal Ses (baş takibi yok - yalnızca HiCity V4)                                                              | Kararlı ses kalitesi, Doğru/Perakende düzeyinde ANC, Geliştirilmiş SFX, Daha İyi Şeffaflık Modu, Çoklu Cihaz Bağlantısı, Mekansal Ses, iCloud Connect ve daha belirgin ayrıntılar... |
-| [<span class="version-badge">V3.9</span>](https://www.reddit.com/r/AirReps/search?q=v3.9&restrict_sr=1) | Airoha 1536 + ANC1425       | Tek Mikrofonlu Aktif Gürültü Engelleme, Şeffaflık Modu, Metal Havalandırma, Geliştirilmiş Yapı Kalitesi, Force Touch Kontrolleri, Hakkında Sayfası                                                                    | Daha iyi ses kalitesi, Doğru/Perakende düzeyinde ANC, Geliştirilmiş SFX, Daha İyi Şeffaflık Modu, Çoklu Cihaz Bağlantısı, Mekansal Ses, iCloud Connect ve daha ince ayrıntılar...     |
-| [<span class="version-badge">V3.8</span>](https://www.reddit.com/r/AirReps/search?q=v3.8&restrict_sr=1) | Airoha 1536                 | Şeffaflık Modu, Metal Menteşe, Metal Havalandırma, Geliştirilmiş Yapı Kalitesi, Force Touch Kontrolleri, Ses Paylaşımı, Hakkında Sayfası                                                                               | ANC, Geliştirilmiş SFX, Daha İyi Şeffaflık Modu, Çoklu Cihaz Bağlantısı, Mekansal Ses, iCloud Connect ve daha ince ayrıntılar...                                    |
-
-## V4.9 Versiyon Farkları:
-
-**TB** - TB kulaklık, HR modeline göre daha ter geçirmez, daha sert beyaz bir kasasıyla bilinir. Ayrıca V4.7 ve perakende sürümlerine benzer bir ST jiroskopa sahiptir; bu da mükemmel mekansal ses sağlar. ANC açıkken pil ömrü 6 saattir; HR modelinde ise yalnızca 4 saat sürer.
-
-**HR** - HR kulaklık, TB modeline göre daha sarımtırak, daha yumuşak bir kasaya sahiptir ve daha az ter geçirmektedir. ANC performansı biraz daha iyi olabilir, ancak çoğu durumda benzer olup zaman zaman 1 dB'ye kadar farklar görülebilir. HR modelinin pil ömrü ANC kapalıyken 6 saat, ANC açıkken 4 saattir.
-
-
-::: tip
-Eski pro klon modeller listeden çıkarıldı çünkü bu sürümlerden daha eski olanları satın almayı teşvik etmiyoruz.
+::: tip Pro 1 için ortak temel özellikler
+Tüm Pro 1 modelleri şunları içerir: kulak içi silikon uç tasarımı, Şeffaflık Modu, metal havalandırma delikleri, Force Touch sap kontrolleri, Lightning şarj kutusu ve Hakkında sayfası açılır penceresiyle iOS 27 desteği.
+*(Not: Pro 1 replikalarında USB-C şarjı, kaydırarak ses seviyesi kontrolü veya Apple'ın şifreli Bul ağı bulunmaz.)*
 :::
 
-**Lütfen dikkat** edin ki aşağıdaki modellerin üretimi **durdurulmuştur**:
+Bu modelle ilgili topluluk incelemelerini bulmak için herhangi bir sürüm rozetine tıklayın.
 
-- **V4.8**
-- **V4.7**
-- **V4.5**
-- **V3.9**
-- **V3.8**
+| Sürüm → | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)<br>(BES) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1)<br>(Huilian / BES) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1)<br>(Airoha) |
+|:---|:---:|:---:|:---:|:---:|
+| **Yonga seti** | Airoha 1562AE | BES 2300ZP | Huilian A6 Pro / BES | Airoha 1562A |
+| **ANC performansı** | Perakende kalitesinde hibrit (~38 dB) | Geliştirilmiş hibrit (~35 dB) | Hibrit (~33 dB) | İlk nesil hibrit (~30 dB) |
+| **Şeffaflık Modu** | ✅ Doğal ve net | ✅ Geliştirilmiş | ⚠️ Temel | ⚠️ Temel |
+| **Uzamsal ses (kafa takibi)** | ✅ Evet (ST jiroskopu) | ❌ Sabit (takip yok) | ✅ Evet | ❌ Sabit (takip yok) |
+| **Çoklu cihaz bağlantısı** | ✅ Çift cihaz | ❌ 1 cihaz | ❌ 1 cihaz | ❌ 1 cihaz |
+| **Uygulama EQ'su ve güncellemeler** | ✅ FlyCC / CloudCC | ❌ Yok | ⚠️ Yongaya bağlı | ❌ Yok |
+| **iOS uyumluluğu** | iOS 27 | iOS 27 | Temel iOS | Temel iOS |
+| **Model durumu** | **Son (Referans)** | Üretimden kaldırıldı | Üretimden kaldırıldı | Üretimden kaldırıldı |
+| **Ayrıntılı notlar** | [V4.9 farkları](#v4-9-version-differences) | Üretimden kaldırıldı | Üretimden kaldırıldı | Üretimden kaldırıldı |
+
+::: info Üretimden kaldırılan Pro 1 modelleri
+V4.9'un altındaki tüm sürümler üreticiler tarafından üretimden kaldırılmıştır:
+- **V4.8** (BES 2300ZP)
+- **V4.7** (Huilian A6 Pro / BES 2300ZP)
+- **V4.5** (Airoha 1562A)
+- **V4** (Bluetrum)
+- **V3.9** ve **V3.8** (Airoha 1536)
+:::
+
+## V4.9 sürüm farkları: {#v4-9-version-differences}
+
+**TB** - TB kulaklık, HR modeline göre tere daha dayanıklı olan beyaz ve daha sağlam kutusuyla bilinir. Ayrıca V4.7 ve perakende sürümlerine benzer şekilde mükemmel uzamsal ses sağlayan bir ST jiroskopuna sahiptir. ANC açıkken 6 saat pil ömrü sunarken HR modeli yalnızca 4 saat dayanır.
+
+**HR** - HR kulaklık, TB modeline göre tere daha az dayanıklı olan sarımsı ve daha yumuşak kutuya sahiptir. Ayrıca ANC performansı biraz daha iyidir; ancak çoğu durumda benzerdir ve arada 1 dB'ye kadar fark görülebilir. HR modelinin pil ömrü ANC kapalıyken 6 saat, ANC açıkken 4 saattir.
+
+Güncel bir Pro modeli satın almaya hazır mısınız? [AirPods Pro 2 bağlantılarına](/tr/links/airpods-pro-2) ve [AirPods Pro 3 bağlantılarına](/tr/links/airpods-pro-3) göz atın.

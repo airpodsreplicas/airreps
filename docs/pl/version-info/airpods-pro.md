@@ -1,40 +1,47 @@
 ---
-title: Wersje Replik AirPods Pro & Specyfikacje
+title: Wersje replik AirPods Pro i specyfikacje
 description: 'Porównaj wersje replik AirPods Pro pod kątem układu, funkcji i brakujących funkcji.'
 ---
 # AirPods Pro
 
-::: tip
-Ta linia produktów nie jest już aktywnie aktualizowana przez producentów, ponieważ rozwój przeniósł się na nowsze modele. Repliki AirPods Pro nadal są świetnymi produktami i pozostają popularnym wyborem. Jeśli szukasz najnowszych funkcji i ulepszeń, rozważ sprawdzenie [AirPods Pro 2](/pl/version-info/airpods-pro-2) lub [AirPods Pro 3](/pl/version-info/airpods-pro-3).
+::: warning Nie są już dostępne u zaufanych sprzedawców
+Oryginalne repliki **AirPods Pro (1. generacji)** nie są już aktywnie produkowane ani dostępne u zaufanych sprzedawców. W przypadku aktualnych modeli Pro sprawdź [AirPods Pro 2](/pl/version-info/airpods-pro-2) lub [AirPods Pro 3](/pl/version-info/airpods-pro-3). To porównanie pozostawiono w celach informacyjnych.
 :::
 
-Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje dla danego modelu. Aby znaleźć linki zakupowe, zobacz [Linki AirPods Pro](/pl/links/airpods-pro). Aby dowiedzieć się o [technologii ANC](/pl/introduction/anc-explained) i [funkcjach](/pl/introduction/features), sprawdź sekcje przewodnika.
+**Szybki werdykt:** **V4.9 (Airoha 1562AE)** był szczytowym osiągnięciem oryginalnej serii AirPods Pro — oferował hybrydowy ANC klasy detalicznej, dźwięk przestrzenny ze śledzeniem ruchów głowy za pomocą żyroskopu ST oraz łączność z dwoma urządzeniami. Wszystkie wersje starsze niż V4.9 zostały wycofane.
 
-| Wersja                                                              | Układ                       | Posiada funkcje                                                                                                                                                                                                    | Brakujące funkcje                                                                                                                                              |
-|----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1) | Airoha 1562AE               | Hybrydowe aktywne tłumienie hałasu (ANC), tryb Przezroczystości, metalowe otwory wentylacyjne, sterowanie Force Touch, ulepszony mikrofon, przestrzenny dźwięk (Spatial Audio), śledzenie głowy, ulepszone ANC i tryb Przezroczystości, prawie 1:1 projekt zawiasu, Retail/Perfect ANC | Perfekcyjny przestrzenny dźwięk, lepsze efekty dźwiękowe (SFX), iCloud Connect i więcej subtelnych detali                                                       |
-| [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1) | BES 2300ZP                  | Hybrydowe aktywne tłumienie hałasu, tryb Przezroczystości, metalowe otwory wentylacyjne, sterowanie Force Touch, przestrzenny dźwięk (Spatial Audio), śledzenie głowy, ulepszone ANC i tryb Przezroczystości, konstrukcja zawiasu 1:1                                          | Retail/Perfect ANC, perfekcyjny przestrzenny dźwięk, iCloud Connect i więcej subtelnych detali                                                    |
-| [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1) | HUILIAN A6 PRO / BES 2300ZP | Hybrydowe aktywne tłumienie hałasu, tryb Przezroczystości, metalowe otwory wentylacyjne, sterowanie Force Touch, przestrzenny dźwięk (Spatial Audio), śledzenie głowy, zbliżone do retail ANC, konstrukcja zawiasu 1:1                                                         | Możliwość połączenia z wieloma urządzeniami, Retail/Perfect ANC, perfekcyjny przestrzenny dźwięk, iCloud Connect i więcej subtelnych detali                                                       |
-| [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1) | Airoha 1562A                | Hybrydowe aktywne tłumienie hałasu, tryb Przezroczystości, metalowe otwory wentylacyjne, sterowanie Force Touch, przestrzenny dźwięk (Spatial Audio), iCloud Connect                                                                                               | Lepsze efekty dźwiękowe (SFX), możliwość połączenia z wieloma urządzeniami, Retail/Perfect ANC, projekt zawiasu 1:1, perfekcyjny przestrzenny dźwięk, iCloud Connect i więcej subtelnych detali                       |
-| [<span class="version-badge">V4</span>](https://www.reddit.com/r/AirReps/search?q=v4&restrict_sr=1)     | Bluetrum                    | Aktywne tłumienie hałasu (ANC), tryb Przezroczystości, metalowe otwory wentylacyjne, sterowanie Force Touch, strona "About", przestrzenny dźwięk (Spatial Audio) (bez śledzenia głowy - tylko HiCity V4)                                                                      | Stabilna jakość dźwięku, właściwe ANC, lepsze efekty dźwiękowe (SFX), lepszy tryb Przezroczystości, możliwość połączenia z wieloma urządzeniami, pełne Spatial Audio, iCloud Connect i bardziej zauważalne detale... |
-| [<span class="version-badge">V3.9</span>](https://www.reddit.com/r/AirReps/search?q=v3.9&restrict_sr=1) | Airoha 1536 + ANC1425       | Pojedynczy mikrofon z aktywnym tłumieniem hałasu, tryb Przezroczystości, metalowe otwory wentylacyjne, poprawiona jakość wykonania, sterowanie Force Touch, strona "About"                                                                                     | Lepsza jakość dźwięku, właściwe ANC, lepsze efekty dźwiękowe (SFX), lepszy tryb Przezroczystości, możliwość połączenia z wieloma urządzeniami, Spatial Audio, iCloud Connect i więcej subtelnych detali...     |
-| [<span class="version-badge">V3.8</span>](https://www.reddit.com/r/AirReps/search?q=v3.8&restrict_sr=1) | Airoha 1536                 | Tryb Przezroczystości, metalowy zawias, metalowe otwory wentylacyjne, poprawiona jakość wykonania, sterowanie Force Touch, Audio Share, strona "About"                                                                                                | ANC, lepsze efekty dźwiękowe (SFX), lepszy tryb Przezroczystości, możliwość połączenia z wieloma urządzeniami, Spatial Audio, iCloud Connect i więcej subtelnych detali...                                   |
-
-## Różnice w wersji V4.9:
-
-**TB** - Słuchawki TB znane są z białego, twardszego etui, które jest bardziej odporne na pot niż model HR. Mają też żyroskop ST, podobny do wersji V4.7 i Retail, co zapewnia znakomity dźwięk przestrzenny. Z włączonym ANC czas pracy na baterii wynosi około 6 godzin, podczas gdy model HR działa tylko 4 godziny.
-
-**HR** - Słuchawki HR mają żółtawy, miększy futerał, który jest mniej odporny na pot niż model TB. Mają też nieco lepszą skuteczność ANC, choć w większości sytuacji jest podobna, z okazjonalnymi różnicami do 1 dB. Czas pracy baterii modelu HR to 6 godzin bez ANC i 4 godziny przy włączonym ANC.
-
-
-::: tip
-Starsze klony modeli Pro zostały usunięte z listy, ponieważ nie zachęcamy nikogo do kupowania wersji starszych niż te.
+::: tip Wspólna baza Pro 1
+Wszystkie modele Pro 1 obejmują: konstrukcję douszną z silikonowymi końcówkami, tryb przezroczystości, metalowe otwory wentylacyjne, sterowanie trzonkiem Force Touch, etui ładujące Lightning oraz obsługę iOS 27 z wyskakującym oknem na stronie informacji.
+*(Uwaga: repliki Pro 1 nie obsługują ładowania przez USB-C, sterowania przesuwaniem w celu regulacji głośności ani szyfrowanej przez Apple sieci Find My.)*
 :::
 
-**Należy pamiętać**, że następujące modele zostały **wycofane**:
+Kliknij dowolną plakietkę wersji, aby znaleźć opinie społeczności na temat danego modelu.
 
-- **V4.8**
-- **V4.7**
-- **V4.5**
-- **V3.9**
-- **V3.8**
+| Wersja → | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)<br>(BES) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1)<br>(Huilian / BES) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1)<br>(Airoha) |
+|:---|:---:|:---:|:---:|:---:|
+| **Chipset** | Airoha 1562AE | BES 2300ZP | Huilian A6 Pro / BES | Airoha 1562A |
+| **Skuteczność ANC** | Hybrydowy klasy detalicznej (~38 dB) | Ulepszony hybrydowy (~35 dB) | Hybrydowy (~33 dB) | Wczesna wersja hybrydowa (~30 dB) |
+| **Tryb przezroczystości** | ✅ Naturalny i wyraźny | ✅ Ulepszony | ⚠️ Podstawowy | ⚠️ Podstawowy |
+| **Dźwięk przestrzenny (śledzenie ruchów głowy)** | ✅ Tak (żyroskop ST) | ❌ Stały (bez śledzenia) | ✅ Tak | ❌ Stały (bez śledzenia) |
+| **Łączność z wieloma urządzeniami** | ✅ Dwa urządzenia | ❌ 1 urządzenie | ❌ 1 urządzenie | ❌ 1 urządzenie |
+| **Korektor aplikacji i aktualizacje** | ✅ FlyCC / CloudCC | ❌ Nie | ⚠️ Zależne od chipsetu | ❌ Nie |
+| **Kompatybilność z iOS** | iOS 27 | iOS 27 | Podstawowa obsługa iOS | Podstawowa obsługa iOS |
+| **Status modelu** | **Ostateczna (referencyjna)** | Wycofana | Wycofana | Wycofana |
+| **Szczegółowe informacje** | [Różnice V4.9](#v4-9-version-differences) | Wycofana | Wycofana | Wycofana |
+
+::: info Wycofane modele Pro 1
+Wszystkie wersje starsze niż V4.9 zostały wycofane przez producentów:
+- **V4.8** (BES 2300ZP)
+- **V4.7** (Huilian A6 Pro / BES 2300ZP)
+- **V4.5** (Airoha 1562A)
+- **V4** (Bluetrum)
+- **V3.9** i **V3.8** (Airoha 1536)
+:::
+
+## Różnice wersji V4.9: {#v4-9-version-differences}
+
+**TB** — słuchawki TB są znane z białego, wytrzymalszego etui, które jest bardziej odporne na pot niż model HR. Wyposażono je także w żyroskop ST, podobnie jak w wersji V4.7 i wersjach detalicznych, co zapewnia doskonały dźwięk przestrzenny. Przy włączonym ANC działają przez 6 godzin, podczas gdy model HR zapewnia tylko 4 godziny pracy.
+
+**HR** — słuchawki HR mają żółtawe, bardziej miękkie etui, które jest mniej odporne na pot niż model TB. Oferują także nieco lepszą skuteczność ANC, choć w większości sytuacji jest ona podobna, a sporadyczne różnice sięgają 1 dB. Model HR działa przez 6 godzin bez ANC i 4 godziny przy włączonym ANC.
+
+Chcesz kupić aktualny model Pro? Zobacz [linki do AirPods Pro 2](/pl/links/airpods-pro-2) i [linki do AirPods Pro 3](/pl/links/airpods-pro-3).

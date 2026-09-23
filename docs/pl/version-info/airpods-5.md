@@ -1,22 +1,25 @@
 ---
-title: "Wersje replik AirPods 5 — Wkrótce"
-description: "Nie zweryfikowano jeszcze żadnych wersji replik AirPods 5 na potrzeby tego poradnika. Numery wersji, chipy i funkcje zostaną dodane po potwierdzeniu."
+title: AirPods 5 — Wersje replik już wkrótce
+description: 'Nie zweryfikowano jeszcze żadnych wersji replik AirPods 5 na potrzeby tego przewodnika. Numery wersji, układy i funkcje zostaną dodane po potwierdzeniu.'
 ---
-
 # AirPods 5
 
 ::: warning Wkrótce
-Nie zweryfikowano jeszcze żadnych wersji replik AirPods 5 na potrzeby tego poradnika. Numery wersji, chipy i funkcje zostaną dodane po potwierdzeniu.
+Żadne repliki AirPods 5 nie zostały jeszcze zweryfikowane na potrzeby tego przewodnika. Spodziewamy się ich wydania już wkrótce, ponieważ w porównaniu z AirPods 4 zaszło bardzo niewiele zmian. Numery wersji, układy i funkcje zostaną dodane po ich potwierdzeniu.
 :::
 
-| Wersja | Chip | Funkcje | Brakujące funkcje |
-| --- | --- | --- | --- |
-| Wkrótce | Wkrótce | Wkrótce | Wkrótce |
+| Wersja → | [<span class="version-badge">Generacja 5</span>](#airpods-5)<br>(Oczekiwana) |
+|:---|:---:|
+| **Status wydania** | Oczekiwany wkrótce (minimalne zmiany w porównaniu z AirPods 4) |
+| **Konstrukcja** | Otwarta |
+| **Układ** | Do ustalenia (Airoha / Huilian) |
+| **Port ładowania** | USB-C |
+| **Kompatybilność z iOS** | iOS 27 |
 
-[Aktualności od sprzedawców AirPods 5](/pl/links/airpods-5)
+[Aktualizacje od sprzedawców AirPods 5](/pl/links/airpods-5)
 
 ::: tip
-W międzyczasie sprawdź nasz [poradnik AirPods 4](/pl/version-info/airpods-4).
+W międzyczasie zapoznaj się z naszym [przewodnikiem po AirPods 4](/pl/version-info/airpods-4).
 
-Dołącz do naszej [społeczności na Discordzie](https://airreps.link/discord), aby śledzić aktualności.
+Dołącz do naszej [społeczności na Discordzie](https://airreps.link/discord), aby otrzymywać aktualizacje.
 :::

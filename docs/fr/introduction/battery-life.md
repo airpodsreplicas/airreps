@@ -1,37 +1,37 @@
 ---
-title: Autonomie Des Répliques D'AirPods
-description: 'Attentes en matière d''autonomie, variations selon le modèle et conseils de sécurité lors de la charge.'
+title: Autonomie de la batterie des répliques d’AirPods
+description: 'Attentes concernant l’autonomie de la batterie, variations selon le modèle et conseils de sécurité pour la recharge.'
 ---
 # Autonomie de la batterie
 
-Comprendre l'autonomie des répliques d'AirPods peut vous aider à gérer vos attentes et à les utiliser efficacement.
+Comprendre l’autonomie des répliques d’AirPods peut vous aider à gérer vos attentes et à les utiliser efficacement.
 
 ## Autonomie moyenne
 
-L'autonomie moyenne des répliques d'AirPods est d'environ 8 à 10 heures par charge à 75 % du volume. Le boîtier peut fournir 2 à 3 charges complètes pour les écouteurs, ce qui vous donne un temps d'utilisation total de 24 à 30 heures. Les modèles plus anciens atteignaient généralement 5 à 7 heures par charge, tandis que certains modèles haut de gamme comme le Pro 2 V5.3 TB affichent en moyenne environ 7 à 8 heures.
+L’autonomie moyenne des répliques d’AirPods intra-auriculaires est d’environ 5 à 8 heures par charge à volume modéré (selon que l’ANC est activée ou non). Par exemple, les Pro 2 V5.4 Huilian offrent environ 4,5 heures avec l’ANC et environ 6 heures sans ANC, tandis que les V5.3 TB atteignent jusqu’à 6 heures avec l’ANC et 8 heures sans ANC. Pour les modèles circum-auriculaires, la [comparaison des AirPods Max](/fr/version-info/airpods-max) distingue l’autonomie annoncée par les vendeurs des résultats mesurés. Le boîtier de recharge fournit 2 à 3 recharges complètes des écouteurs.
 
 ::: tip
-Les modèles actuels de répliques offrent généralement 8 à 10 heures d'autonomie, bien que les performances puissent varier selon les lots et la qualité de fabrication.
+Les modèles répliques intra-auriculaires actuels offrent généralement 5 à 8 heures d’écoute par charge. Comparez les chiffres d’autonomie au même volume et avec le même réglage d’ANC ; les estimations des vendeurs ne sont pas directement comparables aux tests pratiques.
 :::
 
-## Variations de l'autonomie
+## Variations de l’autonomie
 
-L'autonomie réelle peut varier en fonction de la version du modèle, de la génération de puce, du lot de fabrication et des habitudes d'utilisation. Des facteurs tels que le niveau de volume, [les fonctionnalités utilisées](/fr/introduction/features), et l'âge de la réplique peuvent tous affecter les performances. Consultez les [tableaux de comparaison des versions](/fr/version-info/general) pour les données d'autonomie par modèle.
+L’autonomie réelle peut varier selon la version du modèle, la génération de la puce, le lot de fabrication et les habitudes d’utilisation. Des facteurs comme le niveau de volume, les [fonctionnalités utilisées](/fr/introduction/features) et l’ancienneté de la réplique peuvent tous avoir un impact sur les performances. Consultez les [tableaux comparatifs des versions](/fr/version-info/general) pour obtenir les données d’autonomie de chaque modèle.
 
 ## Précision du niveau de batterie
 
-Les niveaux de batterie sur les appareils iOS peuvent ne pas toujours être précis, bien que ce problème ait été en grande partie résolu sur les répliques récentes. Toutefois, comme les AirPods originaux, les répliques émettent un bip lorsque la batterie atteint 20 %. Sur les appareils Android, les niveaux de batterie peuvent être consultés dans les paramètres Bluetooth ou à l'aide d'apps comme TWTools, Materialpods ou Andropods pour des relevés plus précis. Consultez notre page [applications utiles](/fr/useful-apps) pour les liens de téléchargement des apps fabricant et utilitaires.
+Les niveaux de batterie affichés sur les appareils iOS peuvent ne pas toujours être précis, même si ce problème a été largement résolu sur les répliques plus récentes. Cependant, comme les AirPods originaux, les répliques émettent un bip lorsque la batterie atteint 20 %. Sur les appareils Android, le niveau de batterie peut être vérifié dans les paramètres Bluetooth ou à l’aide d’applications comme TWTools, Materialpods ou Andropods pour obtenir des indications plus précises. Consultez notre page consacrée aux [applications utiles](/fr/useful-apps) pour accéder aux liens de téléchargement des applications des fabricants et des utilitaires.
 
 ::: warning
-Les relevés du niveau de batterie sur les appareils iOS peuvent ne pas toujours être précis. Les utilisateurs Android peuvent utiliser des apps spécifiques pour une surveillance plus précise.
+Les indications du niveau de batterie sur les appareils iOS peuvent ne pas toujours être précises. Les utilisateurs d’Android peuvent utiliser des applications spécifiques pour un suivi plus précis.
 :::
 
-## Charge sans fil et charge rapide
+## Recharge sans fil/rapide
 
-AirReps prennent en charge à la fois la charge sans fil et la charge rapide filaire, mais les modèles plus anciens peuvent surchauffer ou même être endommagés s'ils restent sur le chargeur trop longtemps, surtout en utilisant la charge sans fil. Pour rester en sécurité, évitez de charger plus de 2 à 3 heures d'affilée et débranchez-les si le boîtier commence à devenir chaud.
+AirReps prennent en charge la recharge rapide sans fil et filaire, mais les anciens modèles peuvent surchauffer, voire être endommagés s’ils restent trop longtemps sur le chargeur, en particulier avec la recharge sans fil. Par mesure de sécurité, évitez de les recharger pendant plus de 2 à 3 heures d’affilée et débranchez-les si le boîtier commence à être chaud au toucher.
 
-Les modèles plus récents comme **5.3TB**, **5.3HR+** et **5.4Huilian** gèrent beaucoup mieux la charge rapide et sont sûrs à utiliser avec des chargeurs filaires et sans fil.
+Les modèles plus récents comme **5.3TB**, **5.3HR+** et **5.4Huilian** supportent beaucoup mieux la recharge rapide et peuvent être utilisés sans danger avec des chargeurs filaires comme sans fil.
 
 ::: danger
-La charge sans fil prolongée ou la charge rapide peut provoquer une surchauffe sur certains modèles, en particulier les versions plus anciennes. Surveillez toujours la température lors de la charge sans fil.
+Une recharge sans fil prolongée ou une recharge rapide peut provoquer une surchauffe sur certains modèles, en particulier les anciennes versions. Surveillez toujours la température pendant la recharge sans fil.
 :::

@@ -1,25 +1,37 @@
 ---
-title: AirPods 3 Versions de Réplique & Spécifications
-description: 'Comparez les versions de réplique des AirPods 3 par puce, fonctionnalités et fonctionnalités manquantes.'
+title: Versions de réplique des AirPods 3 et spécifications
+description: 'Comparez les versions de réplique des AirPods 3 selon la puce, les fonctionnalités et les fonctionnalités manquantes.'
 ---
 # AirPods 3
 
 ::: tip
-Cette gamme de produits n'est plus activement mise à jour par les fabricants, le développement s'étant orienté vers des modèles plus récents. Les répliques d'AirPods 3 restent d'excellents produits et demeurent des choix populaires. Si vous recherchez les dernières fonctionnalités et améliorations, envisagez de consulter [AirPods 4](/fr/version-info/airpods-4).
+Cette gamme de produits n’est plus activement mise à jour par les fabricants, qui ont reporté leurs efforts de développement sur des modèles plus récents. Les répliques d’AirPods 3 restent d’excellents produits et demeurent des choix populaires. Si vous recherchez les dernières fonctionnalités et améliorations, consultez les [AirPods 4](/fr/version-info/airpods-4).
 :::
 
-Cliquez sur l'hyperlien dans la colonne « Version » pour trouver des avis sur le modèle en question.
+**Verdict rapide :** le **V1E (Airoha 1562E)** est la réplique définitive des AirPods 3 et le seul modèle encore activement produit de cette gamme — avec basculement entre plusieurs appareils, audio spatial avec suivi de la tête, 7 à 8 heures d’autonomie et recharge sans fil MagSafe. Consultez les [liens d’achat des AirPods 3](/fr/links/airpods-3).
 
-| Version                                                              | Chip         | Has Features                                                                                                                                                                    | Missing Features                                                        |
-|----------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?q=V1.3&restrict_sr=1) | BES 2500YP   | Connexion multi-appareils, stabilité générale, son amélioré, audio spatial complet, suivi de la tête, qualité de fabrication améliorée, recharge sans fil améliorée, autonomie de 7 à 8 heures, MagSafe | Détails mineurs, iCloud Connect                                           |
-| [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1)   | Airoha 1562E | Connexion multi-appareils, stabilité générale, son amélioré, audio spatial complet, suivi de la tête, qualité de fabrication améliorée, recharge sans fil améliorée, autonomie de 7 à 8 heures, MagSafe | Détails mineurs, charnière 1:1, iCloud Connect                             |
-| [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | HUILIAN A10  | Tout ce que possèdent les autres versions, son amélioré, audio spatial complet, suivi de la tête, qualité de fabrication améliorée, recharge sans fil améliorée, autonomie de 7 à 8 heures, MagSafe      | Connexion multi-appareils, stabilité générale, charnière 1:1, iCloud Connect      |
-| [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1)     | Airoha 1562M | Tout ce que possèdent les autres versions, son amélioré, qualité de fabrication améliorée, recharge sans fil améliorée, autonomie de 8 à 9 heures, stabilité générale                               | Connexion multi-appareils, audio spatial, MagSafe, charnière 1:1, iCloud Connect |
+::: tip Base commune des AirPods 3
+Tous les modèles d’AirPods 3 disposent d’un design profilé à ajustement ouvert avec des tiges plus courtes, de commandes de lecture par capteur de pression, de la détection intra-auriculaire, de la recharge sans fil et de la prise en charge d’iOS 27 avec une fenêtre contextuelle sur la page « À propos ». Notez que les répliques d’AirPods 3 ne disposent pas de la réduction active du bruit (ANC).
+:::
 
-**Veuillez noter** que les modèles suivants sont **abandonnés** :
+Cliquez sur n’importe quel badge de version pour consulter les avis de la communauté concernant ce modèle.
 
-- **V1**
-- **V1.2**
-- **V1.2U**
-- **V1.3**
+| Version → | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?q=V1.3&restrict_sr=1) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Puce** | Airoha 1562E | BES 2500YP | Huilian A10 | Airoha 1562M |
+| **Audio spatial (suivi de la tête)** | ✅ Oui (gyroscope ST) | ✅ Oui | ✅ Oui | ❌ Fixe / aucun |
+| **Connexion à plusieurs appareils** | ✅ Deux appareils | ✅ Deux appareils | ❌ 1 appareil | ❌ 1 appareil |
+| **Autonomie** | ~7–8 heures | ~7–8 heures | ~7–8 heures | ~8–9 heures |
+| **Recharge sans fil et MagSafe** | ✅ Oui | ✅ Oui | ✅ Oui | ⚠️ Qi basique |
+| **Égaliseur et personnalisation via l’application** | ✅ FlyCC / CloudCC | ❌ Non | ✅ Starfun | ❌ Non |
+| **Qualité de la charnière** | Charnière en métal | Charnière dépolie 1:1 | Charnière en métal | Plastique / basique |
+| **Statut du modèle** | **Actif (meilleur choix)** | Abandonné | Abandonné | Abandonné |
+
+::: info Modèles Gen 3 abandonnés
+Les anciens modèles Gen 3 suivants ont été abandonnés par les fabricants :
+- **V1.3** (BES 2500YP)
+- **V1.2** et **V1.2U** (Huilian A10)
+- **V1** (Airoha 1562M)
+:::
+
+Prêt à acheter ? Consultez nos [liens d’achat des AirPods 3](/fr/links/airpods-3) et notre [guide de commande](/fr/ordering/how-to-buy).

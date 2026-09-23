@@ -1,28 +1,38 @@
 ---
-title: AirPods 2 Replika-versioner & Specifikationer
-description: 'Sammenlign AirPods 2 replika-versioner efter chip, funktioner og manglende funktioner. Nogle modeller er udgået.'
+title: AirPods 2-replikaversioner og specifikationer
+description: 'Sammenlign AirPods 2-replikaversioner efter chip, funktioner og manglende funktioner. Nogle modeller er udgået.'
 ---
 # AirPods 2
 
 ::: tip
-Denne produktlinje opdateres ikke længere aktivt af producenterne, da udviklingen er flyttet til nyere modeller. AirPods 2-kopier er stadig fremragende produkter og forbliver populære valg. Hvis du leder efter de nyeste funktioner og forbedringer, kan du overveje at kigge på [AirPods 3](/da/version-info/airpods-3) eller [AirPods 4](/da/version-info/airpods-4).
+Denne produktserie bliver ikke længere aktivt opdateret af producenterne, da udviklingen er skiftet til nyere modeller. AirPods 2-kopier er stadig fremragende produkter og er fortsat populære valg. Hvis du leder efter de nyeste funktioner og forbedringer, kan du overveje at se nærmere på [AirPods 3](/da/version-info/airpods-3) eller [AirPods 4](/da/version-info/airpods-4).
 :::
 
-Klik på hyperlinket i kolonnen 'Version' for at finde anmeldelser af den pågældende model.
+**Kort konklusion:** **V3E (Airoha 1562E)** er den eneste tilbageværende aktivt producerede AirPods Gen 2-kopi — med forbindelse til to enheder, EQ-tilpasning via FlyCC-appen, pålidelig batteritid på 5–6 timer og solid understøttelse af iOS 27 til en uovertruffen budgetpris. Se [købslinks til AirPods 2](/da/links/airpods-2).
 
-| Version                                                                    | Chip             | Has Features                                                                                                                                                                 | Missing Features                                                                |
-|----------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| [<span class="version-badge">V3M/V3U/V3E</span>](https://www.reddit.com/r/AirReps/search?q=v3e&restrict_sr=1) | Airoha 1562M/U/E | Alt hvad de andre versioner har, forbedret lyd, forbedret byggekvalitet, forbedret trådløs opladning, 5–6 timers batterilevetid, flere små forbedringer, forbindelse til flere enheder | iCloud Connect, bedre SFX                                                      |
-| [<span class="version-badge">V3F</span>](https://www.reddit.com/r/AirReps/search?q=v3m&restrict_sr=1)         | Airoha 1562F     | Alt hvad de andre versioner har, forbedret lyd, forbedret byggekvalitet, forbedret trådløs opladning, 5–9 timers batterilevetid, flere små forbedringer                       | Forbindelse til flere enheder, bedre SFX                                       |
-| [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=v3&restrict_sr=1)           | Airoha 1536      | Nøjagtige batteriindikatorer, forbedret lydkvalitet, forbedret knap / metalhængsel, Live Listen, Om-side, Audio Share, 3–4 timers batterilevetid                               | Forbindelse til flere enheder, andre små forbedringer som byggekvalitet, lyd osv. |
-| [<span class="version-badge">V2.5</span>](https://www.reddit.com/r/AirReps/search?q=v2.5&restrict_sr=1)       | Airoha 1536      | Forbedret lydkvalitet, forbedret knap / metalhængsel, Live Listen, 3–4 timers batterilevetid                                                                                   | Forbindelse til flere enheder, nøjagtige batteriindikatorer, andre små forbedringer       |
-| [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=v2&restrict_sr=1)           | Airoha 1536      | Forbedret byggekvalitet, Live Listen, 3–4 timers batterilevetid                                                                                                                  | Audio Share, metalhængsel, nøjagtige batteriindikatorer, forbindelse til flere enheder       |
-| [<span class="version-badge">V1.5</span>](https://www.reddit.com/r/AirReps/search?q=v1.5&restrict_sr=1)       | JL (Jieli)       | Live Listen, metalhængsel, 3–4 timers batterilevetid                                                                                                                             | Audio Share, nøjagtige batteriindikatorer, forbindelse til flere enheder                    |
+::: tip Fælles grundlag for AirPods 2
+Alle Gen 2-modeller har: klassisk pasform med den originale lange stilk, trykknapper (tryk to gange for at afspille/sætte på pause/springe over), optisk registrering i øret, Lightning-opladning og understøttelse af iOS 27 med pop op på Om-siden. Bemærk, at Gen 2-øretelefoner ikke har ANC eller Spatial Audio.
+:::
 
-**Bemærk** at følgende modeller er **udgået**:
+Klik på et versionsmærke for at finde anmeldelser fra fællesskabet af den pågældende model.
 
-- **V3F**
-- **V3**
-- **V2.5**
-- **V2**
-- **V1.5**
+| Version → | [<span class="version-badge">V3E</span>](https://www.reddit.com/r/AirReps/search?q=v3e&restrict_sr=1) | [<span class="version-badge">V3M</span>](https://www.reddit.com/r/AirReps/search?q=v3m&restrict_sr=1) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=v3&restrict_sr=1) | [<span class="version-badge">V2 / V1.5</span>](https://www.reddit.com/r/AirReps/search?q=v2&restrict_sr=1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Chipset** | Airoha 1562E | Airoha 1562M | Airoha 1536 | JL (Jieli) / Airoha |
+| **Forbindelse til flere enheder** | ✅ To enheder | ❌ 1 enhed | ❌ 1 enhed | ❌ 1 enhed |
+| **Batteritid** | ~5–6 timer | ~5–6 timer | ~3–4 timer | ~3–4 timer |
+| **Lydkvalitet** | Afstemt og balanceret | Balanceret | Standard | Grundlæggende |
+| **Trådløs opladning** | ✅ Qi-trådløs | ✅ Qi-trådløs | ⚠️ Grundlæggende Qi | ❌ Kun kabel |
+| **Konstruktion og hængsel** | Galvaniseret metal | Metalhængsel | Metalhængsel | Grundlæggende / plastik |
+| **App-EQ og tilpasning** | ✅ FlyCC / CloudCC | ✅ FlyCC | ❌ Nej | ❌ Nej |
+| **iOS-kompatibilitet** | iOS 27 | iOS 27 | iOS 27 | Grundlæggende iOS |
+| **Modelstatus** | **Aktiv (bedste valg)** | Udgået | Udgået | Udgået |
+
+::: info Udgåede Gen 2-modeller
+Følgende ældre Gen 2-modeller er udgået hos producenterne:
+- **V3M**, **V3U** og **V3F** (Airoha 1562M/F)
+- **V3** og **V2.5** (Airoha 1536)
+- **V2** og **V1.5** (Airoha 1536 / JL)
+:::
+
+Klar til at købe? Se vores [købslinks til AirPods 2](/da/links/airpods-2) og [bestillingsvejledning](/da/ordering/how-to-buy).

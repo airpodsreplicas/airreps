@@ -1,37 +1,37 @@
 ---
-title: Gdzie Kupić Repliki AirPods
-description: Katalog zweryfikowanych sprzedawców i bezpośrednich linków do zakupu wszystkich modeli replik AirPods.
+title: Gdzie kupić podróbki AirPods
+description: Katalog zweryfikowanych sprzedawców i bezpośrednich linków do zakupu wszystkich modeli podróbek AirPods.
 faq:
   - q: Czy otrzymam egzemplarz dobrej jakości?
-    a: 'Nie można zagwarantować jakości egzemplarza, ponieważ może się ona różnić nawet między sztukami od tego samego sprzedawcy. Jednak zaufani sprzedawcy są na ogół znani z oferowania produktów dobrej jakości.'
+    a: 'Nie można zagwarantować jakości egzemplarza, ponieważ może się ona różnić nawet w przypadku egzemplarzy od tego samego sprzedawcy. Zaufani sprzedawcy są jednak ogólnie znani z oferowania produktów dobrej jakości.'
   - q: Jak skontaktować się ze sprzedawcami?
-    a: 'Dołącz do Discorda AirReps pod adresem https://airreps.link/discord, aby uzyskać numery WhatsApp sprzedawców. Alternatywnie użyj AliExpress, aby wysłać im wiadomość, klikając Skontaktuj się z dostawcą.'
+    a: 'Dołącz do AirReps Discord pod adresem https://airreps.link/discord, aby uzyskać numery WhatsApp sprzedawców. Możesz też użyć AliExpress, aby wysłać im wiadomość, klikając Skontaktuj się z dostawcą.'
   - q: Który sprzedawca jest najlepszy?
-    a: 'Najlepszy sprzedawca zależy od twoich potrzeb. Sprzedawcy zwykle oferują podobne produkty — na przykład Pro 2 V5.2 TB od Jenny jest identyczny z tym od HiCity. Różnice dotyczą wsparcia, czasu wysyłki i platform zakupowych.'
-  - q: Moje informacje o śledzeniu są w języku chińskim. Co powinienem zrobić?
-    a: 'Skopiuj numer śledzenia i wklej go do 17Track (https://www.17track.net/), aby zobaczyć aktualizacje po angielsku. Alternatywnie wklej aktualizacje śledzenia do Google Translate.'
-  - q: Moja karta nie działa. Co powinienem zrobić?
-    a: 'Skontaktuj się ze sprzedawcą, aby zapytać o alternatywne metody płatności. Niektóre metody, takie jak Wise, nie oferują ochrony kupującego. Możesz też spróbować innej karty lub kupić od innego sprzedawcy.'
-  - q: Dlaczego jestem przekierowywany na stronę kryptowalutową podczas płatności kartą kredytową?
-    a: 'Zaufani sprzedawcy korzystają z bezpiecznej bramki płatności kryptowalutowych do obsługi płatności kartą kredytową. Twoja karta kupuje kryptowaluty, które finalizują zamówienie. Jeśli chcesz uniknąć KYC, użyj KakoBuy — agenta, który akceptuje zwykłe karty kredytowe bez weryfikacji tożsamości.'
+    a: 'Najlepszy sprzedawca zależy od Twoich potrzeb. Sprzedawcy zazwyczaj oferują podobne produkty — na przykład Pro 2 V5.2 TB od Jenny jest identyczny z tym od HiCity. Różnice dotyczą wsparcia, czasu wysyłki i platform zakupowych.'
+  - q: Informacje o śledzeniu przesyłki są w języku chińskim. Co mam zrobić?
+    a: 'Skopiuj numer śledzenia i wklej go do 17Track (https://www.17track.net/), aby zobaczyć aktualizacje w języku angielskim. Możesz też wkleić aktualizacje dotyczące śledzenia do Google Translate.'
+  - q: Moja karta nie działa. Co mam zrobić?
+    a: 'Skontaktuj się ze sprzedawcą, aby zapytać o alternatywne metody płatności. Niektóre metody, takie jak Wise, nie oferują ochrony kupującego. Możesz też spróbować użyć innej karty lub kupić produkt od innego sprzedawcy.'
+  - q: Dlaczego podczas płatności kartą kredytową następuje przekierowanie do strony internetowej związanej z kryptowalutami?
+    a: 'Zaufani sprzedawcy korzystają z bezpiecznej bramki płatności kryptowalutowych do przetwarzania płatności kartą kredytową. Twoja karta służy do zakupu kryptowaluty, która finalizuje zamówienie. Jeśli chcesz uniknąć KYC, użyj KakoBuy — agenta, który akceptuje zwykłe karty kredytowe bez weryfikacji tożsamości.'
 ---
 # Gdzie kupić repliki AirPods
 
 ::: tip
-Ta lista jest na bieżąco aktualizowana. Wyższa wersja zwykle oznacza lepszy produkt — ale nie zawsze, więc przed zakupem porównaj [informacje o wersji](/pl/version-info/general).
+Ta lista jest na bieżąco aktualizowana. Wyższa wersja zazwyczaj oznacza lepszy produkt — ale nie zawsze, dlatego przed zakupem porównaj [informacje o wersjach](/pl/version-info/general).
 :::
 
-Poniższa lista zawiera linki tylko do zweryfikowanych sprzedawców. Jeśli znasz jakichś sprzedawców, którym można zaufać i którzy zasługują na weryfikację, poinformuj autora Ultimate Guide lub napisz recenzję ich produktu i opublikuj ją na forum AirReps. Aby zapewnić jakość i autentyczność Twoich replik Apple AirPods, zalecamy kupowanie tylko od tych zweryfikowanych sprzedawców.
+Poniższa lista zawiera wyłącznie linki do zweryfikowanych sprzedawców. Jeśli znasz sprzedawców, którzy są godni zaufania i zasługują na weryfikację, poinformuj autora Ultimate Guide albo napisz recenzję ich produktu i opublikuj ją na forum AirReps. Aby zapewnić jakość i autentyczność replik Apple AirPods, zalecamy kupowanie wyłącznie od tych zweryfikowanych sprzedawców.
 
-## Wybierz produkt, dla którego chcesz zobaczyć linki
+## Wybierz produkt, dla którego chcesz wyświetlić linki
 
-- [AirPods](/pl/links/airpods) — AirPods 5 (Wkrótce), 4, 3, 2
+- [AirPods](/pl/links/airpods) — AirPods 5 (wkrótce), 4, 3, 2
 - [AirPods Pro](/pl/links/pro) — Pro 3, Pro 2, Pro 1
 - [AirPods Max](/pl/links/airpods-max)
 
 ## Ile kosztują repliki AirPods?
 
-Ceny różnią się w zależności od modelu i wersji oraz zmieniają się w czasie, ale jako ogólna wskazówka zaufani sprzedawcy zazwyczaj pobierają:
+Ceny różnią się w zależności od modelu i wersji oraz zmieniają się z czasem, ale orientacyjnie zaufani sprzedawcy zazwyczaj pobierają:
 
 | Model | Typowa cena (USD) |
 |-------|---------------------|
@@ -42,7 +42,7 @@ Ceny różnią się w zależności od modelu i wersji oraz zmieniają się w cza
 | AirPods Pro 3 | ~$27–67 |
 | AirPods Max | ~$93–126 |
 
-W ramach każdego modelu wyższy numer wersji zwykle kosztuje więcej i dodaje funkcje. Rozwiąż [quiz](/pl/quiz), aby uzyskać dopasowaną propozycję, lub otwórz stronę z linkami danego modelu powyżej, aby zobaczyć dokładne opcje dla poszczególnych wersji.
+W obrębie każdego modelu wyższy numer wersji zazwyczaj oznacza wyższą cenę i dodatkowe funkcje. Rozwiąż [quiz](/pl/quiz), aby otrzymać dopasowaną rekomendację, albo otwórz powyżej stronę z linkami do danego modelu, aby zobaczyć dokładne opcje dla każdej wersji. Masz ograniczony budżet? Nasze zestawienie [najlepszych replik AirPods do 50 USD](/pl/articles/best-airpods-replicas-under-50) porównuje najtańsze propozycje.
 
 ## Zaufani sprzedawcy (oficjalne strony internetowe)
 
@@ -55,8 +55,8 @@ W ramach każdego modelu wyższy numer wersji zwykle kosztuje więcej i dodaje f
 Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 
 | Metoda płatności | Earhive | HiCity | Jenny |
-|------------------|---------|--------|-------|
-| [**Karta kredytowa/debetowa**](#credit-card) | ✅ | ✅ | ✅ |
+|----------------|---------|--------|-------|
+| [**Karta kredytowa / debetowa**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
 | **PayPal** | ✅ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
@@ -75,50 +75,50 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Metody OnlyPay w HiCity zależą od kraju rozliczeniowego: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX i Boleto (BR). Opcje sprawdzono na stronie płatności HiCity 4 września 2026 r. OnlyPay potwierdza ostateczną dostępność dla każdego zamówienia. Nie było żadnej opcji OnlyPay dla USA, Kanady, Australii ani Francji.
+Metody płatności OnlyPay dostępne w HiCity zależą od kraju rozliczeniowego: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX i Boleto (BR). Te opcje krajowe zostały sprawdzone w systemie płatności HiCity 4 września 2026 roku. OnlyPay potwierdza ostateczną dostępność dla każdego zamówienia. Dla Stanów Zjednoczonych, Kanady, Australii i Francji nie wyświetlono żadnej opcji OnlyPay.
 
 ::: tip
 Płatności przez Wise lub przelew bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może potrwać do 24 godzin.
 
-W przypadku zamówień z Weidian będziesz musiał użyć agenta. Polecamy [KakoBuy](https://airreps.link/kakobuy), który akceptuje karty kredytowe i różne metody płatności — zobacz nasz [przewodnik KakoBuy](/pl/ordering/kakobuy) krok po kroku.
+W przypadku zamówień z Weidian musisz skorzystać z agenta. Polecamy [KakoBuy](https://airreps.link/kakobuy), który akceptuje karty kredytowe i wiele innych metod płatności — szczegółowe instrukcje znajdziesz w naszym [poradniku KakoBuy](/pl/ordering/kakobuy).
 :::
 
-## Najczęściej zadawane pytania
+## FAQ
 
 ::: details Czy otrzymam produkt dobrej jakości?
-Nie można zagwarantować jakości produktu, ponieważ może się ona różnić nawet między sztukami od tego samego sprzedawcy. Jednak wymienieni sprzedawcy są ogólnie znani z oferowania produktów dobrej jakości.
+Nie da się zagwarantować jakości produktu, ponieważ może się ona różnić nawet w przypadku produktów od tego samego sprzedawcy. Sprzedawcy wymienieni w oryginalnym tekście są jednak ogólnie znani z oferowania produktów dobrej jakości.
 :::
 
 ::: details Jak skontaktować się ze sprzedawcami?
-Aby skontaktować się ze sprzedawcami, możesz dołączyć do Discorda AirReps: https://airreps.link/discord i uzyskać ich numery WhatsApp, ponieważ nie są one publicznie dostępne. Alternatywnie możesz użyć AliExpress, aby wysłać wiadomość, klikając „Contact Supplier”.
+Aby skontaktować się ze sprzedawcami, możesz dołączyć do serwera AirReps na Discordzie: https://airreps.link/discord i uzyskać ich numery WhatsApp, ponieważ nie są one publicznie dostępne. Możesz też skorzystać z AliExpress i napisać do nich, klikając „Contact Supplier”.
 :::
 
 ::: details Który sprzedawca jest najlepszy?
-Nie można jednoznacznie określić najlepszego sprzedawcy, ponieważ zależy to od Twoich potrzeb i platformy, z której chcesz kupić. Sprzedawcy zwykle oferują podobne produkty; na przykład 'Pro 2 V5.2 TB' od Jenny jest identyczny jak ten od HiCity. Różnice pojawiają się jednak w kwestiach takich jak wsparcie, czas wysyłki i platformy, przez które realizowane są zakupy.
+Nie da się jednoznacznie określić najlepszego sprzedawcy, ponieważ zależy to od Twoich potrzeb i platformy, za pośrednictwem której chcesz dokonać zakupu. Sprzedawcy zazwyczaj oferują podobne produkty; na przykład „Pro 2 V5.2 TB” od Jenny jest identyczny z tym od HiCity. Różnice dotyczą jednak takich aspektów jak pomoc, czas wysyłki oraz platformy, za pośrednictwem których dokonywane są zakupy.
 :::
 
-::: details Zamówiłem x dni temu i moja paczka jeszcze nie dotarła. Co robić?
-Wysyłka z Chin czasami może zająć trochę czasu. Informacje o śledzeniu mogą zniknąć po opuszczeniu Chin i będą aktualizowane ponownie dopiero po dotarciu przesyłki do urzędu celnego w Twoim kraju. Jeśli minęło dużo czasu i nadal nie ma dostępnych informacji o śledzeniu, powinieneś skontaktować się ze sprzedawcą w celu uzyskania aktualizacji.
+::: details Zamówiłem produkt x dni temu, ale paczka jeszcze nie dotarła. Co mam zrobić?
+Wysyłka z Chin może czasami trochę potrwać. Informacje o śledzeniu mogą zniknąć po opuszczeniu przez paczkę Chin i zostaną zaktualizowane dopiero po dotarciu przesyłki do urzędu celnego w Twoim kraju. Jeśli minęło dużo czasu i nadal nie ma dostępnych informacji o śledzeniu, skontaktuj się ze sprzedawcą, aby uzyskać aktualne informacje.
 :::
 
-::: details Moje informacje śledzenia są po chińsku. Co robić?
-Jeśli masz informacje o śledzeniu w języku chińskim, możesz skopiować numer śledzenia i wkleić go na stronie [17Track](https://www.17track.net/). Pozwoli to zobaczyć aktualizacje po angielsku. Alternatywnie możesz otworzyć aktualizacje śledzenia na komputerze i wkleić je do Google Translate, aby zobaczyć je w innym języku.
+::: details Informacje o śledzeniu są po chińsku. Co mam zrobić?
+Jeśli informacje o śledzeniu są po chińsku, możesz skopiować numer przesyłki i wkleić go na stronie [17Track](https://www.17track.net/). Dzięki temu zobaczysz aktualizacje w języku angielskim. Możesz też otworzyć aktualizacje dotyczące śledzenia na komputerze i wkleić je do Tłumacza Google, aby wyświetlić je w innym języku.
 :::
 
-::: details Moja karta nie działa. Co robić?
-Jeśli Twoja karta nie działa, skontaktuj się ze sprzedawcą i zapytaj, czy zaakceptuje inną formę płatności. Pamiętaj, że niektóre alternatywne metody płatności, takie jak Wise, nie oferują ochrony kupującego. Jeśli sprzedawca nie może zaakceptować innej formy płatności, możesz spróbować użyć innej karty lub kupić u innego sprzedawcy.
+::: details Moja karta nie działa. Co mam zrobić?
+Jeśli Twoja karta nie działa, skontaktuj się ze sprzedawcą i zapytaj, czy zaakceptuje inną formę płatności. Pamiętaj, że niektóre alternatywne metody płatności, takie jak Wise, nie oferują ochrony kupującego. Jeśli sprzedawca nie może zaakceptować innej formy płatności, spróbuj użyć innej karty lub kupić produkt od innego sprzedawcy.
 :::
 
 <a id="credit-card"></a>
 
-::: details Dlaczego jestem przekierowywany na stronę kryptowalutową podczas płatności kartą kredytową?
-Zaufani sprzedawcy używają bezpiecznej bramki płatniczej kryptowalut do przetwarzania płatności kartą kredytową. Twoja karta jest używana do zakupu kryptowalut, które następnie są wykorzystywane do bezpiecznego i efektywnego sfinalizowania zamówienia.
+::: details Dlaczego podczas płatności kartą kredytową jestem przekierowywany na stronę kryptowalutową?
+Zaufani sprzedawcy korzystają z bezpiecznej bramki płatności kryptowalutowych do obsługi płatności kartą kredytową. Twoja karta służy do zakupu kryptowaluty, która jest następnie używana do bezpiecznego i sprawnego sfinalizowania zamówienia.
 
-**Uwaga:** Niektórzy dostawcy płatności mogą czasami poprosić o weryfikację tożsamości (KYC), aby spełnić lokalne przepisy, choć nie zawsze jest to wymagane.
+**Uwaga: Niektórzy operatorzy płatności mogą od czasu do czasu poprosić o weryfikację dokumentu tożsamości (KYC) w celu zachowania zgodności z lokalnymi przepisami, choć nie zawsze jest ona wymagana.**
 
-**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [KakoBuy](https://airreps.link/kakobuy), platformy agenta, która kupuje produkty od sprzedawców w Twoim imieniu i zapewnia zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy używa standardowych procesorów płatności, które akceptują karty kredytowe i debetowe i **nigdy nie wymagają weryfikacji KYC** ani kontroli tożsamości. Jest to doskonała opcja, jeśli wolisz używać karty bez wymogów KYC, jednocześnie otrzymując dodatkowe zapewnienie w postaci zdjęć QC. Zobacz nasz [przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy) dla pełnego opisu krok po kroku.
+**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ skorzystanie z [KakoBuy](https://airreps.link/kakobuy) — platformy agentów, która kupuje produkty od sprzedawców w Twoim imieniu i udostępnia zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy korzysta ze standardowych operatorów płatności, którzy akceptują karty kredytowe i debetowe, i **nigdy nie wymagają weryfikacji KYC ani potwierdzenia tożsamości**. To doskonała opcja, jeśli chcesz płacić kartą bez wymogu KYC, a jednocześnie korzystać z dodatkowego zabezpieczenia w postaci zdjęć QC. Pełne instrukcje znajdziesz w naszym [poradniku składania zamówień w KakoBuy](/pl/ordering/kakobuy).
 :::
 
 ::: tip
-Niektóre strony sprzedawców oferujące płatności kartą kredytową mogą mieć dyskretne elementy brandingu na stronie. Szukaj numeru wersji, której chcesz — możesz bezpiecznie zignorować ogólne obrazy produktu. Jest to robione w celu zgodności z politykami praw autorskich, które niektóre bramki płatnicze mogą mieć.
+Niektóre strony sprzedawców oferujące płatności kartą kredytową mogą mieć dyskretne oznaczenia marki. Szukaj numeru wersji, którego potrzebujesz — możesz bezpiecznie zignorować ogólne zdjęcia produktów. Ma to na celu przestrzeganie zasad dotyczących praw autorskich, które mogą obowiązywać w niektórych bramkach płatności kartą kredytową.
 :::
