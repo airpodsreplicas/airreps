@@ -1,83 +1,89 @@
 ---
-title: AirPods Replika Sürümleri Karşılaştırıldı
-description: 'AirPods replika sürümlerini karşılaştırın: her modelde nelerin eksik olduğu, hangi özellikleri paylaştıkları ve neden daha yeni bir sürümün her zaman daha iyi olmadığı.'
+title: AirPods Taklit Sürümleri Karşılaştırması
+description: 'AirPods taklit sürümlerini karşılaştırın: her modelde nelerin eksik olduğunu, hangi özellikleri paylaştıklarını ve neden daha yeni bir sürümün her zaman daha iyi olmadığını öğrenin.'
 ---
 # Genel
 
 ::: info AirPods 5 — Yakında
-AirPods 5 replikaları hakkındaki güncellemeler için [AirPods 5 sayfasına](/tr/version-info/airpods#airpods-5) bakın.
+AirPods 5 taklit ürün güncellemeleri için [AirPods 5 sayfasına](/tr/version-info/airpods#airpods-5) bakın.
 :::
 
 ::: tip Sürüm numaraları hakkında
-Bu sürüm numaralandırma sistemi, farklı üreticiler arasında ürün tanımlamayı basitleştirmek için AirReps topluluğu tarafından tasarlanmıştır. Yeni AirPods modelleri çıktığında (ör. AirPods Pro 2 veya Pro 3), sürüm numaralandırması sıfırdan başlamayıp önceki numaralardan devam eder.
+Bu sürüm numaralandırma sistemi, farklı üreticilerin ürünlerini tanımlamayı kolaylaştırmak için AirReps topluluğu tarafından tasarlanmıştır. Yeni AirPods modelleri (AirPods Pro 2 veya Pro 3 gibi) piyasaya sürüldüğünde, sürüm numaraları sıfırdan başlamak yerine önceki numaralardan devam eder.
 
-TigerBuilder ve Huilian gibi üreticiler kendi ürün adlarını (örneğin "377super") kullanırlar; bu da farklı üreticiler arasındaki ürünleri karşılaştırmayı zorlaştırabilir. Topluluk adlandırma şemamız, üreticiler arasında karşılaştırılabilir ürünleri hatırlamak zorunda kalmadan kolayca bulmayı sağlayan standart bir sürüm numarası sağlar.
+TigerBuilder ve Huilian gibi üreticiler kendi ürün adlarını (örneğin "377super") kullanır; bu da farklı üreticilerin ürünlerini karşılaştırmayı zorlaştırabilir. Topluluğumuzun adlandırma sistemi, üreticiler arasında karşılaştırılabilir ürünleri bulmayı kolaylaştıran standart bir sürüm numarası sağlayarak bu sorunu çözer; böylece onlarca farklı adı hatırlamanız gerekmez.
 
-**Not:** Üreticiler satıcılarla aynı şey değildir. Üreticilerden doğrudan satın alamazsınız—ürünü bu üreticilerden temin eden satıcılardan satın alırsınız.
+**Not:** Üreticiler ve satıcılar aynı şey değildir. Doğrudan üreticilerden satın alamazsınız; ürünleri bu üreticilerden temin eden satıcılardan satın alırsınız.
 :::
 
-::: tip Hangi modeli seçmeniz gerektiğinden emin değil misiniz?
-[Kısa anket](/tr/quiz)i çözün — birkaç soruyu yanıtlayın ve kişiselleştirilmiş bir öneri alın.
+::: tip Hangi modeli seçeceğinizden emin değil misiniz?
+[Hızlı testimizi](/tr/quiz) yapın — birkaç soruyu yanıtlayın ve size özel bir öneri alın.
 :::
 
-Bu tablo, belirli sürümlere dayanan çeşitli AirPods modelleri için en dikkate değer eksik özelliklerin bir özetini sağlar.
+Bu tablo, belirli sürümlere göre çeşitli AirPods modellerinde bulunmayan en dikkat çekici özellikleri özetlemektedir.
 
-| AirPods modeli | Dayandığı sürüm | Eksik özellikler                                                                                                                                         |
-|---------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/tr/version-info/airpods-pro-3) | <span class="version-badge">V7</span>   | Find My Network                                                                           |
-| [AirPods Gen 4](/tr/version-info/airpods-4) | <span class="version-badge">V3</span>   | Find My Network, Accurate Case SFX ve daha belirgin detaylar                                                                           |
-| [AirPods Pro 2](/tr/version-info/airpods-pro-2) | <span class="version-badge">V5.4</span> | Perfect Spatial Audio, Find My Network                                                                                                     |
-| [AirPods Gen 3](/tr/version-info/airpods-3) | <span class="version-badge">V1E</span>  | iCloud Connect, Find My Network                                                                                                            |
-| [AirPods Max](/tr/version-info/airpods-max)   | <span class="version-badge">V3</span>   | Multi-Device Connect, Retail AirPods Max ANC, Better Transparency Mode ve daha ince detaylar                                            |
-| [AirPods Pro](/tr/version-info/airpods-pro)   | <span class="version-badge">V4.9</span> | 1:1 Noise Cancelling (zaten oldukça yakın), Find My Network                                                                            |
-| [AirPods Gen 2](/tr/version-info/airpods-2) | <span class="version-badge">V3E</span>  | iCloud Connect, Find My Network                                                                                                              |
+| AirPods Modeli | Esas Alınan Sürüm | Eksik Özellikler                                                                                                                                         |
+|---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [AirPods Pro 3](/tr/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Bul Ağı; kafa takibinin güvenilirliği aygıt yazılımına bağlıdır |
+| [AirPods Pro 3](/tr/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Bul Ağı, iCloud geçişi, Konuşma Farkındalığı, kafa hareketleriyle arama kontrolleri; kalp atış hızı ölçümleri doğru değildir |
+| [AirPods Gen 4](/tr/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Bul Ağı ve özgün ürünlerin ince son işlem detayları |
+| [AirPods Pro 2](/tr/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Kusursuz Uzamsal Ses, Bul Ağı |
+| [AirPods Gen 3](/tr/version-info/airpods-3) | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | iCloud bağlantısı, Bul Ağı |
+| [AirPods Max](/tr/version-info/airpods-max) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1) | iCloud bağlantısı, özgün AirPods Max ANC, daha iyi Şeffaf Mod ve özgün ürünlerin ince son işlem detayları |
+| [AirPods Pro](/tr/version-info/airpods-pro) | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1) | 1:1 gürültü engelleme (zaten oldukça yakın), Bul Ağı |
+| [AirPods Gen 2](/tr/version-info/airpods-2) | [<span class="version-badge">V3E</span>](https://www.reddit.com/r/AirReps/search?q=v3e&restrict_sr=1) | iCloud bağlantısı, Bul Ağı |
 
-**Tüm modellerde bulunanlar:**
+**Hepsinde bulunanlar:**
 
-Tüm modellerde aşağıdaki özellikler bulunur:
+- Aktif Gürültü Engelleme (ANC), Şeffaf Mod ve Uzamsal Ses (yalnızca Pro ve Max modellerinde)
+- Force Touch / Dokunmatik Kontroller
+- Kulak İçi / Optik Algılama
+- USB-C (daha yeni modellerde) veya Lightning
+- Hakkında sayfası, ad değiştirme, GPS ile takip (iOS Ayarları üzerinden)
+- iOS'ta açılır pencere animasyonu
 
-- İsim değiştirme
-- GPS (yalnızca iOS)
-- Dokunma kontrollerini değiştirme (yalnızca iOS)
+**Hiçbirinde bulunmayanlar:**
 
-**Tüm modellerde eksik:**
+Tüm modellerde şu özellik eksiktir:
 
-Tüm modellerde aşağıdaki özellik eksiktir:
+- Bul Ağı (aygıtlarınızdan uzaktayken hassas konum takibi)
 
-- "Find My Network" kullanılabilirliği
+**Not:** Bu liste yeni modellerden eski modellere doğru sıralanmıştır. Daha yüksek bir sayı çoğu zaman daha iyi bir modele işaret etse de bu her zaman geçerli değildir. Satın almaya hazır mısınız? [Nasıl sipariş vereceğinizi](/tr/ordering/how-to-buy) öğrenmek için [güvenilir satıcılarımıza](/tr/links/info) bakın.
 
-**Not:** Bu liste yeni modellerden eski modellere doğru sıralanmıştır. Daha yüksek bir numara genellikle ama her zaman daha iyi bir modeli göstermez. Satın almaya hazır mısınız? [Nasıl sipariş verileceğini](/tr/ordering/how-to-buy) ve [güvenilir satıcılarımızı](/tr/links/info) görün.
+## SSS
 
-## Sıkça sorulan sorular
-
-::: details AirPods Max replikaları mevcut mu?
-AirPods Max replikaları artık mevcut ve olgunlaşmış replikalar haline geldiler. Jenny ve HiCity, Airoha 1561M kullanan AirPods Max replikalarını satıyor. Fiyatlar istikrar kazandı. Güncellemeler için [r/AirReps subreddit](https://www.reddit.com/r/AirReps/) ve [AirReps Discord](https://airreps.link/discord) sayfalarını ziyaret edin.
+::: details AirPods 5 taklitleri satışta mı?
+Henüz değil, ancak AirPods 4'te çok az değişiklik olduğundan yakında piyasaya sürülmelerini bekliyoruz.
 :::
 
-::: details AirPods Pro 3 replikaları mevcut mu?
-AirPods Pro 3 replikaları mevcuttur. V7 (Huilian 377H3) en yeni sürümdür ve bir kalp atış hızı sensörü, AI Hybrid ANC ve baş hareketi kontrolleri ekler — ilk partilerde bazı pürüzleri olan erken bir sürümdür. V6 daha kanıtlanmış bir Pro 3 seçeneğidir ve V5.5 bütçe tarafını kapsar. Hepsi güvenilir satıcılardan temin edilebilir. Daha fazla bilgi için [AirPods Pro 3 sürüm bilgileri](/tr/version-info/airpods-pro-3) sayfasına bakın.
+::: details AirPods Max taklitleri satışta mı?
+AirPods Max taklitleri satışta ve bu ürünler artık olgunlaşmış durumda. Üst düzey V3 Metal modeller, alüminyum kulaklık kaplarıyla Airoha 1562AE kullanırken bütçe dostu V3P modeller, plastik kulaklık kaplarıyla Airoha 1561M kullanır. Fiyatlar istikrara kavuşmuştur. Güncellemeler için [r/AirReps subreddit'ini](https://www.reddit.com/r/AirReps/) ve [AirReps Discord sunucusunu](https://airreps.link/discord) ziyaret edin.
 :::
 
-::: details Benzer toplulukların bu kılavuzdan daha yeni ürünlere sahip olmasının nedeni ne olabilir?
-Bu kılavuzda listelenen ürünler en yüksek kaliteye sahip olanlar arasından özenle seçilmiştir. Listeyi yalnızca en iyi ürünlerin dahil edildiğinden emin olmak için günlük olarak güncelliyoruz. Diğer topluluklar daha düşük standartlara sahip olabilir ve daha az kaliteli ürünleri listeleyebilir. Ayrıca, farklı bir adlandırma şeması kullanıyor olmaları, onların bu kılavuzdan daha yeni ürünlere sahip gibi görünmelerine neden olabilir.
+::: details AirPods Pro 3 taklitleri satışta mı?
+AirPods Pro 3 taklitleri satışta. Yalnızca Jenny'de bulunan SE (XiaoBai), sınıfının en iyisi ANC performansıyla en iyi fiyat-performans seçeneğidir. V7 (Huilian 377H3), optik kalp atış hızı takibi, AI Hybrid ANC ve kafa hareketi kontrolleri ekler. V6 (Huilian/TB), Huilian modelinde iCloud geçişi sunan, kendini kanıtlamış orta sınıf bir seçenektir; V5.5 ise bütçe dostu giriş seviyesi seçeneğidir. Daha fazla bilgi için [AirPods Pro 3 sürüm bilgileri](/tr/version-info/airpods-pro-3) sayfasına bakın.
 :::
 
-::: details Hangi model en iyisidir?
-Listede en üstte yer alan model en yeni olandır; diğer modeller ise önceki sürümlerdir. Sizin için en iyisini bulmak için bütçe, gönderim uygunluğu ve istediğiniz özellikler gibi faktörleri göz önünde bulundurun. Ayrıca farklı modellerin incelemelerini aramak ve bu bilgilere dayanarak kendi kararınızı vermek iyi bir fikirdir.
+::: details Benzer topluluklarda neden bu rehberdekilerden daha yeni ürünler bulunabiliyor?
+Bu rehberde listelenen ürünler en yüksek kalitedekilerdir ve standartlarımızı karşılamaları için özenle seçilir. Yalnızca en iyi ürünlerin listede yer aldığından emin olmak için listeyi her gün güncelleriz. Diğer toplulukların standartları daha düşük olabilir ve listelerinde aynı kalitede olmayan ürünler bulunabilir. Ayrıca ürünleri için farklı bir adlandırma sistemi kullanıyor olabilirler; bu da rehberimizdekilerden daha yeni ürünleri varmış gibi görünmelerine yol açabilir.
 :::
 
-::: details Bulduğum bir klonun sürümünü nasıl belirleyebilirim?
-Bir klonun sürümünü gerçekten kullanmadan belirlemek mümkün değildir. Satıcıların verdiği çip numaraları ve fotoğraflar klonun sürümünü güvenilir şekilde göstermez. Satıcılara bir klonun belirli bir sürüm olup olmadığını sormak genellikle işe yaramaz; çünkü soruyu anlamayabilirler. Risk almak istiyorsanız rastgele bir klon satın alabilirsiniz. Ancak hangi modeli aldığınızı kesin olarak bilmek istiyorsanız doğrulanmış satıcılardan satın almak en iyisidir.
+::: details En iyi model hangisi?
+Listenin en üstündeki model en yeni modeldir; diğer modeller ise önceki sürümlerdir. Sizin için en uygun modeli bulmak üzere bütçeniz, gönderim seçenekleri ve istediğiniz özellikler gibi etkenleri göz önünde bulundurun. Farklı modellerin yorumlarını aramak ve bu bilgilere dayanarak karar vermek de iyi bir fikirdir.
 :::
 
-::: details AirPods'larımdaki çipi nasıl belirleyebilirim?
-AirPods klonlarınızdaki çipi belirlemek için bu [kullanışlı uygulamalar](/tr/useful-apps) listesine bakın. Her uygulamayı ayrı ayrı test ederek hangi uygulamaya bağlandıklarını tespit edin. Bu, üreticiyi ve çipseti hızlıca belirlemenize yardımcı olacaktır. Çok düşük kalitede bir AirPods ise hiçbir uygulamaya bağlanmayabilir; böyle durumlarda büyük olasılıkla Jieli çipseti kullanıyorlardır.
+::: details Bulduğum taklidin sürümünü nasıl öğrenebilirim?
+Gerçekten kullanmadan bir taklidin sürümünü belirlemek mümkün değildir. Satıcıların verdiği çip numaraları ve fotoğraflar, taklidin sürümünü güvenilir biçimde göstermez. Satıcılara belirli bir taklidin belli bir sürüm olup olmadığını sormak işe yaramaz; çünkü soruyu anlamayabilirler. Riski göze alıyorsanız rastgele bir taklit satın alabilirsiniz. Ancak hangi modeli aldığınızdan emin olmak için doğrulanmış satıcılardan satın almanız en iyisidir.
 :::
 
-::: details AirPods'larımın gerçek olup olmadığını nasıl anlayabilirim?
-Hızlıca kontrol etmek için AirPods'larınızı bir iPhone'a bağlayın ve Ayarlar > Genel > Hakkında'ya gidin. Aşağı kaydırdığınızda bir "AirPods" bölümü varsa, orada gösterilen seri numarasının AirPods kapağının içindeki seri numarasıyla eşleştiğini kontrol edin ([Buradan kontrol edin](https://airreps.info/aboutsection)). Eğer bir AirPods bölümü yoksa, AirPods'larınız muhtemelen sahtektir. Bazı yeni replikaların çalışan bir "Hakkında" sayfası olabilir; bu durumda Spatial Audio ve baş takip desteğinin varlığını kontrol edebilirsiniz. AirPods'lar için ayrıca Hakkında sayfasındaki yazılım sürümünü kontrol ederek bunun Apple tarafından yayımlanan en son sürümle eşleşip eşleşmediğini doğrulayabilirsiniz. Satın almadan önce gerçekliğinden emin olamıyorsanız yardım istemek için [r/airreps subreddit](https://www.reddit.com/r/AirReps/) veya [Discord](https://airreps.link/discord) üzerinden destek isteyebilirsiniz.
+::: details AirPods'umda hangi çipin bulunduğunu nasıl öğrenebilirim?
+AirPods taklitlerinizdeki çipi belirlemek için [kullanışlı uygulamalar](/tr/useful-apps) listesine bakın. AirPods'unuzun hangisine bağlandığını belirlemek için her uygulamayı ayrı ayrı deneyin. Bu, üreticiyi ve yonga setini hızlıca belirlemenize yardımcı olur. AirPods'unuz çok düşük segmentliyse hiçbir uygulamaya bağlanamayabileceğini unutmayın. Böyle durumlarda büyük olasılıkla Jieli yonga seti kullanıyordur.
 :::
 
-::: details i9999, Superpods vb. ürünler Supercopy veya kılavuzda listelenen ürünlerden daha mı iyi?
-Eskiden bu isimler, replikalara yapılan yükseltmeleri veya iyileştirmeleri belirtmek için kullanılıyordu. Ancak Çinli satıcılar bu adları, aslında önceki ürünleri tekrar satarken daha yeni veya daha iyi ürünler sunuyormuş gibi göstermek için kullanmaya başladı. Sonuç olarak, bu isimlerin artık bir anlamı kalmadı ve göz ardı edilmelidir. Satın alma kararınızı verirken ürünlerin gerçek özelliklerine ve kalitesine odaklanın.
+::: details AirPods'larımın orijinal olup olmadığını nasıl anlayabilirim?
+AirPods'larınızın orijinal olup olmadığını hızlıca kontrol etmek için onları bir iPhone'a bağlayın ve Ayarlar > Genel > Hakkında bölümüne gidin. Orijinal bir çiftte "AirPods" bölümü görünür ve buradaki seri numarası kapağın iç kısmına basılı numarayla eşleşmelidir ([Buradan kontrol edin](https://airreps.info/aboutsection)). AirPods bölümünün görünmemesi, ürünün neredeyse kesinlikle sahte olduğu anlamına gelir — ancak çalışan bir Hakkında sayfası tek başına ürünün orijinal olduğunu kanıtlamaz; çünkü yeni taklitler bu özelliği taklit edebilir. Tam kontrol listesi (aygıt yazılımı, Uzamsal Ses, ambalaj ve çip algılama uygulamaları) için [AirPods'un sahte olup olmadığını anlama rehberimizi](/tr/articles/how-to-spot-fake-airpods) okuyun.
+:::
+
+::: details i9999, Superpods vb. ürünler Supercopy'den veya rehberde listelenen ürünlerden daha mı iyi?
+Geçmişte bu adlar, AirPods taklitlerindeki yükseltme veya iyileştirmeleri belirtmek için kullanılırdı. Ancak Çinli satıcılar, aslında önceki ürünlerin aynısını satarken daha yeni veya daha iyi ürünler sunuyorlarmış gibi göstermek için bu adları kullanmaya başladı. Sonuç olarak bu adlar artık anlam taşımıyor ve dikkate alınmamalıdır. Bunun yerine satın alma kararı verirken ürünlerin gerçek özelliklerine ve kalitesine odaklanın.
 :::
