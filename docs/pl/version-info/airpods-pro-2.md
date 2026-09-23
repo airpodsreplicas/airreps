@@ -1,63 +1,78 @@
 ---
-title: AirPods Pro 2 Wersje Replik & Specyfikacje
-description: 'Porównaj wersje replik AirPods Pro 2 według układu, funkcji i brakujących funkcji.'
+title: Wersje replik AirPods Pro 2 i specyfikacja
+description: 'Porównaj wersje replik AirPods Pro 2 pod względem układu, funkcji i brakujących funkcji.'
 ---
 # AirPods Pro 2
 
 ::: tip
-Producenci stopniowo przenoszą fokus rozwoju na nowsze modele. Repliki AirPods Pro 2 wciąż są doskonałymi produktami i pozostają najdojrzalszą oraz najbardziej funkcjonalną opcją w linii Pro. Jeśli chcesz najnowsze funkcje, [AirPods Pro 3 V7](/pl/version-info/airpods-pro-3) dodaje czujnik tętna i hybrydowy ANC oparty na AI — choć to wczesne wydanie z niedociągnięciami, o których warto przeczytać przed zakupem.
+Producenci stopniowo przenoszą zainteresowanie na nowsze modele. Repliki AirPods Pro 2 pozostają świetnymi produktami i nadal są najbardziej dojrzałą oraz najlepiej wyposażoną opcją w ofercie Pro. Jeśli zależy Ci na najnowszych funkcjach, [AirPods Pro 3 V7](/pl/version-info/airpods-pro-3) oferują czujnik tętna i hybrydowe ANC z AI — są jednak we wczesnej wersji, więc przed zakupem warto zapoznać się z ich niedociągnięciami.
 :::
 
-**Szybki werdykt:** dla większości kupujących najlepszą repliką AirPods Pro 2 jest **V5.4 Huilian**, oferująca równowagę między najnowszymi funkcjami (iCloud Connect, adaptive audio, ANC zbliżone do oryginału) a solidną wydajnością w każdym obszarze. Chcesz najsilniejszego tłumienia hałasu? **V5.3 TB** przoduje w ANC. Zobacz [linki zakupu](/pl/links/airpods-pro-2) dla obu.
+**Szybki werdykt:** dla większości kupujących **V5.4 Huilian** to ogólnie najlepsza replika AirPods Pro 2, łącząca najnowsze funkcje (iCloud Connect, dźwięk adaptacyjny, ANC zbliżone do wersji sklepowej) z wysoką wszechstronną wydajnością. Zależy Ci przede wszystkim na najmocniejszym wyciszaniu? **V5.3 TB** prowadzi pod względem ANC. Zobacz [linki do zakupu](/pl/links/airpods-pro-2) obu modeli.
 
-Kliknij hiperłącze w kolumnie 'Wersja', aby znaleźć recenzje dla danego modelu.
+::: tip Wspólna baza Pro 2
+Modele V5.2 i nowsze opisane poniżej mają wspólne funkcje: aktywną redukcję hałasu, tryb kontaktu, regulację głośności przesunięciem palca i sterowanie trzpieniem Force Touch, głośnik w etui i uchwyt na smycz, ładowanie przez USB-C, Hey Siri, wykrywanie słuchawek w uszach oraz stronę informacji w iOS. Śledzenie ruchów głowy zależy od chipsetu, szczególnie w modelu V5.3 Lite — zobacz tabelę. Starsze modele V5.0 i V5.1 korzystają ze złącza Lightning.
+*(Uwaga: żadna replika nie obsługuje szyfrowanej sieci Apple Find My ani przestrzennego dźwięku DSP klasy sklepowej.)*
+:::
 
-| Wersja                                                              | Układ                        | Zawiera funkcje                                                                                                                                                                                                                                                                                                                              | Brakujące funkcje                                                                                                                                                                |
-|----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) |  Huilian 377     | USB-C, Adaptive Audio, Conversation Awareness, lepszy tryb transparentności, sterowanie głośnością, sterowanie Force Touch, strona Informacje, ulepszone efekty dźwiękowe, prawdziwe audio przestrzenne (ze śledzeniem ruchu głowy), głośnik w etui, Hey Siri, projekt zawiasu prawie 1:1, ANC zbliżone do oryginalnego, iCloud Connect, OTA, opcja EQ. | Idealne audio przestrzenne, Find My Network     |
-| [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | Airoha 1571AM(TB) / Airoha 1562AE(HR) / Huilian 277 (Pro Max)              | USB-C, Adaptive Audio, Conversation Awareness, lepszy tryb transparentności, sterowanie głośnością, sterowanie Force Touch, strona Informacje, ulepszone efekty dźwiękowe, prawdziwe audio przestrzenne (ze śledzeniem ruchu głowy), głośnik w etui, Hey Siri, projekt zawiasu prawie 1:1, ANC zbliżone do oryginalnego (nieco słabsze niż V5.2) | Idealne audio przestrzenne, Find My Network     |
-| [<span class="version-badge">V5.3 Lite</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | Airoha 1563E(TB) / Huilian 227            | USB-C, tryb transparentności, sterowanie głośnością, sterowanie Force Touch, strona Informacje, ulepszone efekty dźwiękowe, prawdziwe audio przestrzenne i Conversation Awareness (wyłącznie Huilian), głośnik w etui, Hey Siri, projekt zawiasu prawie 1:1, aktywne tłumienie hałasu (słabsze niż w wersjach non-lite) | Idealne audio przestrzenne, Find My Network, oryginalne ANC, oryginalny tryb transparentności, Adaptive Transparency i inne drobne szczegóły...     |
-| [<span class="version-badge">V5.2</span>](https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1) | Airoha 1562AE / Huilian 277 | USB-C, Adaptive Audio, Conversation Awareness, aktywne tłumienie hałasu, lepszy tryb transparentności, sterowanie głośnością, sterowanie Force Touch, strona Informacje, ulepszone efekty dźwiękowe, prawdziwe audio przestrzenne (ze śledzeniem ruchu głowy), głośnik w etui, Hey Siri, projekt zawiasu prawie 1:1, ANC zbliżone do oryginalnego (podobne do V4.7/4.9)        | Idealne audio przestrzenne, iCloud Connect, Find My Network                                                                                                                          |
-| [<span class="version-badge">V5.1</span>](https://www.reddit.com/r/AirReps/search?q=v5.1&restrict_sr=1) | Huilian 277 / BES2600IHC    | Aktywne tłumienie hałasu, lepszy tryb transparentności, sterowanie głośnością, sterowanie Force Touch, strona Informacje, ulepszone efekty dźwiękowe, prawdziwe audio przestrzenne (ze śledzeniem ruchu głowy), głośnik w etui, Hey Siri, konstrukcja zawiasu 1:1, ANC zbliżone do oryginalnego (podobne do V4.7/4.9)                                                              | USB-C, idealne audio przestrzenne, iCloud Connect, Find My Network i wiele drobnych szczegółów...                                                                                         |
-| [<span class="version-badge">V5.0</span>](https://www.reddit.com/r/AirReps/search?q=v5.0&restrict_sr=1) | Huilian 247B                | Aktywne tłumienie hałasu, lepszy tryb transparentności, sterowanie głośnością, sterowanie Force Touch, strona Informacje, ulepszone efekty dźwiękowe, prawdziwe audio przestrzenne (ze śledzeniem ruchu głowy), głośnik w etui, Hey Siri                                                                                                                          | USB-C, poprawne ANC, idealne audio przestrzenne, iCloud Connect, Find My Network i wiele drobnych szczegółów...                                                                             |
-| [<span class="version-badge">V4.2</span>](https://www.reddit.com/r/AirReps/search?q=v4.2&restrict_sr=1) | Bluetrum                    | USB-C, aktywne tłumienie hałasu, tryb transparentności, sterowanie głośnością, sterowanie Force Touch, strona Informacje, audio przestrzenne (bez śledzenia ruchu głowy - tylko HiCity V4.2), głośnik w etui                                                                                                                                                       | Stabilna jakość dźwięku, poprawne ANC, ulepszone efekty dźwiękowe, lepszy tryb transparentności, łączenie z wieloma urządzeniami, iCloud Connect, audio przestrzenne, dokładne efekty dźwiękowe etui, Find My Network i bardziej zauważalne szczegóły... |
+Kliknij dowolny znaczek wersji, aby znaleźć opinie społeczności dotyczące danego modelu.
 
+| Wersja → | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3%20huilian&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V5.3 Lite</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | [<span class="version-badge">V5.2</span>](https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1)<br>(TB / HR) |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| **Chipset** | Huilian 377 | Airoha 1571AM / 1562AE | Huilian 277 Pro Max | Airoha 1563E / Huilian 227 | Airoha 1562AE |
+| **Poziom ANC** | ~35–38 dB (stabilny) | ~35–41 dB (najmocniejsze) | ~30–32 dB średnio; 38 dB maks. | Podstawowe | ~35–39 dB |
+| **Dźwięk adaptacyjny** | ✅ Tak | ✅ Tak | ✅ Tak | ❌ Nie | ✅ Tak |
+| **Wykrywanie rozmowy** | ✅ Tak | ✅ Tak | ✅ Tak | ⚠️ Tylko wariant Huilian | ✅ Tak |
+| **Dźwięk przestrzenny (śledzenie ruchów głowy)** | ✅ Tak | ✅ Tak (żyroskop ST) | ✅ Tak | ⚠️ Tylko wariant Huilian | ✅ Tak (żyroskop ST) |
+| **Sterowanie gestami głowy** | ✅ Tak (kiwanie / potrząsanie) | ❌ Nie | Podawane przez sprzedawcę; zależne od oprogramowania układowego | ❌ Nie | ❌ Nie |
+| **Wiele urządzeń / przełączanie** | ✅ iCloud Connect | Do 3 urządzeń | ✅ iCloud Connect / 2 urządzenia | 1 urządzenie | 1 urządzenie |
+| **Korektor i personalizacja w aplikacji** | ✅ Starfun (synchronizacja z iOS) | ✅ CloudCC / FlyCC | ✅ Starfun | ⚠️ Zależne od chipsetu | ✅ CloudCC / FlyCC |
+| **Szczegółowe informacje** | [Szczegóły V5.4](#v5-4-version-differences) | [Szczegóły V5.3](#v5-3-version-differences) | [Szczegóły V5.3](#v5-3-version-differences) | — | [Szczegóły V5.2](#v5-2-version-differences) |
 
-## Różnice w wersji V5.4:
+V5.3 Huilian to osobny wariant, różniący się od TB i HR. [Oferta produktu Jenny](https://jenny.airreps.info/product/v5-3-huilian/) określa chipset Huilian 277 Pro Max, śledzenie ruchów głowy, dźwięk adaptacyjny, wykrywanie rozmowy i łączność z iCloud; reklamowane funkcje gestów mogą zależeć od oprogramowania układowego. Oferta sprawdzona 22 września 2026 r.
 
-Ta wersja jest jedynie aktualizacją dla modeli Huilian; zawiera kilka usprawnień. Wydajność [ANC](/pl/introduction/anc-explained) została poprawiona, a stabilność wydaje się być lepsza. Pod względem sprzętowym niewiele się zmieniło, poza układem. Te ulepszenia wydają się być bardziej aktualizacjami firmware'u, które będą ograniczone do tej nowej jednostki. Gotowy do zakupu? Sprawdź nasze [linki zakupu](/pl/links/airpods-pro-2) i [poradnik zamówienia](/pl/ordering/how-to-buy).  
-
-
-## Różnice w wersji V5.3:
-
-**TB** - Słuchawki TB są znane z białego, twardszego etui, które jest bardziej odporne na pot niż model HR. Mają też żyroskop ST, podobny do V4.7 i wersji oryginalnej, co zapewnia doskonałe audio przestrzenne. Czas pracy na baterii modelu TB to 8 godzin bez ANC i 6 godzin z włączonym ANC. Strojone pod kątem mocnego basu. TB ma najlepsze ANC wśród 5.3 (średnio 34,5 dB, maksymalnie 41 dB).
-
-**HR** - Słuchawki HR mają żółtawy, miększy futerał, który jest mniej odporny na pot niż model TB. Czas pracy na baterii modelu HR to 7,5 godziny bez ANC i 5,5 godziny z włączonym ANC. Strojone w sposób zrównoważony z lekkim naciskiem na bas. HR ma także najlepszy tryb transparentności. ANC jest drugie po TB z powodu starszego układu 1562AE (34,4 dB, maksymalnie 39 dB).
-
-**Huilian** - Słuchawki Huilian używają etui o średniej twardości, twardszego niż HR, ale miększego niż TB, i wyposażone są w zawias 1:1. Jednak ze względu na układ Huilian, ANC jest znacząco gorsze niż w pozostałych dwóch modelach — 5.3TB i 5.3HR (średnio 30–32 dB, maksymalnie 38 dB). Czas pracy na baterii modelu Huilian to 6 godzin bez ANC i 4,5 godziny z włączonym ANC.
-
-Gotowy do zakupu V5.3? Zobacz [linki zakupu AirPods Pro 2](/pl/links/airpods-pro-2).
+::: info Starsze / wycofane wersje Pro 2
+Starsze modele, takie jak **V5.1** (złącze Lightning), **V5.0** i **V4.2** (Bluetrum), zostały wycofane lub zastąpione przez serię V5.2+ i nie są już rekomendowane.
+:::
 
 
-## Różnice w wersji V5.2:
-
-**TB** - Słuchawki TB są znane z białego, twardszego etui, które jest bardziej odporne na pot niż model HR. Mają też żyroskop ST, podobny do V4.7 i wersji oryginalnej, co zapewnia doskonałe audio przestrzenne. Czas pracy na baterii modelu TB to 8 godzin bez ANC i 6 godzin z włączonym ANC. Strojone pod kątem mocnego basu. TB ma znacznie lepsze ANC niż Huilian (średnio 33,6 dB, maksymalnie 39 dB).
-
-**HR** - Słuchawki HR mają żółtawy, miększy futerał, który jest mniej odporny na pot niż model TB. Czas pracy na baterii modelu HR to 7 godzin bez ANC i 5 godzin z włączonym ANC. Strojone pod kątem mocnego basu. HR ma także najlepszy tryb transparentności i wydajność ANC (średnio 34,2 dB, maksymalnie 39 dB), choć w większości sytuacji jest podobny do TB.
-
-**Huilian** - Słuchawki Huilian używają etui o średniej twardości, twardszego niż HR, ale miększego niż TB, i wyposażone są w zawias 1:1. Jednak ze względu na układ Huilian, ANC jest znacząco gorsze niż w pozostałych dwóch modelach — 5.2TB i 5.2HR (średnio 30–32 dB, maksymalnie 38 dB). Czas pracy na baterii modelu Huilian to 6 godzin bez ANC i 4,5 godziny z włączonym ANC.
-
-Gotowy do zakupu V5.2? Zobacz [linki zakupu AirPods Pro 2](/pl/links/airpods-pro-2).
 
 
-## Wersja 5.3TB vs wersja 5.2TB: czy aktualizacja jest uzasadniona?
+## Różnice między wersjami V5.4: {#v5-4-version-differences}
 
-- Głośnik został zaktualizowany z F10.2 do F11, choć zmiana jest stosunkowo niewielka.
-- Bateria została zaktualizowana, ale bez zwiększenia pojemności.
-- Urządzenie teraz obsługuje połączenie z maksymalnie trzema urządzeniami jednocześnie.
-- Funkcjonalność Adaptive ANC została poprawiona, ale zysk wydajności jest marginalny, szacowany na zaledwie 5% poprawy w porównaniu z wersją 5.2.
+Ta wersja jest ulepszeniem wyłącznie dla modeli Huilian i wprowadza kilka usprawnień. Poprawiono działanie [ANC](/pl/introduction/anc-explained), a stabilność wydaje się lepsza. Pod względem sprzętowym niewiele się zmieniło poza chipsetem. Te ulepszenia wyglądają raczej na aktualizacje oprogramowania układowego, które będą ograniczone do tego nowego urządzenia. Chcesz kupić? Sprawdź nasze [linki do zakupu](/pl/links/airpods-pro-2) i [instrukcję składania zamówienia](/pl/ordering/how-to-buy).
 
-**Zwróć uwagę**, że następujące modele zostały **wycofane**:
+
+## Różnice między wersjami V5.3: {#v5-3-version-differences}
+
+**TB** — Słuchawki TB są znane z białego, solidniejszego etui, które jest bardziej odporne na pot niż model HR. Mają również żyroskop ST, podobnie jak wersje V4.7 i sklepowe, co zapewnia świetny dźwięk przestrzenny. Czas pracy baterii modelu TB wynosi 8 godzin bez ANC i 6 godzin przy włączonym ANC. Brzmienie dostrojono z mocnym basem. TB ma najlepsze ANC wśród modeli 5.3 (średnio 34,5 dB, maks. 41 dB).
+
+**HR** — Słuchawki HR mają żółtawe, bardziej miękkie etui, które jest mniej odporne na pot niż model TB. Czas pracy baterii modelu HR wynosi 7,5 godziny bez ANC i 5,5 godziny przy włączonym ANC. Brzmienie dostrojono z zachowaniem równowagi i lekkim podkreśleniem basu. HR ma również najlepszy tryb kontaktu. ANC ustępuje modelowi TB ze względu na starszy chipset 1562AE (34,4 dB, maks. 39 dB).
+
+**Huilian** — Słuchawki Huilian mają etui ze średniej półki, sztywniejsze niż w HR, ale bardziej miękkie niż w TB, oraz zawias w proporcji 1:1. Jednak ze względu na chipset Huilian ANC jest wyraźnie gorsze niż w dwóch pozostałych modelach — 5.3TB i 5.3HR (średnio 30–32 dB, maks. 38 dB). Czas pracy baterii modelu Huilian wynosi 6 godzin bez ANC i 4,5 godziny przy włączonym ANC.
+
+Chcesz kupić V5.3? Zobacz [linki do zakupu AirPods Pro 2](/pl/links/airpods-pro-2).
+
+
+## Różnice między wersjami V5.2: {#v5-2-version-differences}
+
+**TB** — Słuchawki TB są znane z białego, solidniejszego etui, które jest bardziej odporne na pot niż model HR. Mają również żyroskop ST, podobnie jak wersje V4.7 i sklepowe, co zapewnia świetny dźwięk przestrzenny. Czas pracy baterii modelu TB wynosi 8 godzin bez ANC i 6 godzin przy włączonym ANC. Brzmienie dostrojono z mocnym basem. TB ma znacznie lepsze ANC niż Huilian (średnio 33,6 dB, maks. 39 dB).
+
+**HR** — Słuchawki HR mają żółtawe, bardziej miękkie etui, które jest mniej odporne na pot niż model TB. Czas pracy baterii modelu HR wynosi 7 godzin bez ANC i 5 godzin przy włączonym ANC. Brzmienie dostrojono z mocnym basem. HR ma również najlepszy tryb kontaktu i działanie ANC (średnio 34,2 dB, maks. 39 dB), choć w większości sytuacji jest podobny do TB.
+
+**Huilian** — Słuchawki Huilian mają etui ze średniej półki, sztywniejsze niż w HR, ale bardziej miękkie niż w TB, oraz zawias w proporcji 1:1. Jednak ze względu na chipset Huilian ANC jest wyraźnie gorsze niż w dwóch pozostałych modelach — 5.2TB i 5.2HR (średnio 30–32 dB, maks. 38 dB). Czas pracy baterii modelu Huilian wynosi 6 godzin bez ANC i 4,5 godziny przy włączonym ANC.
+
+Chcesz kupić V5.2? Zobacz [linki do zakupu AirPods Pro 2](/pl/links/airpods-pro-2).
+
+
+## Wersja 5.3TB a wersja 5.2TB: czy ulepszenie jest uzasadnione?
+
+- Głośnik został ulepszony z F10.2 do F11, choć zmiana jest stosunkowo niewielka.
+- Zaktualizowano baterię, ale bez zwiększenia jej pojemności.
+- Urządzenie obsługuje teraz połączenie z maksymalnie trzema urządzeniami jednocześnie.
+- Ulepszono funkcję adaptacyjnego ANC, ale wzrost wydajności jest marginalny i szacuje się go na zaledwie 5% w porównaniu z wersją 5.2.
+
+**Pamiętaj**, że następujące modele zostały **wycofane**:
 
 - **V5.2 Huilian**
 - **V5.1 Huilian**

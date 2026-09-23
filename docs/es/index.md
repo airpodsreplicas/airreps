@@ -1,36 +1,42 @@
 ---
 layout: home
-title: 'AirPods Réplicas: Vendedores De Confianza & Guía De Versiones'
-description: 'La guía comunitaria de AirReps sobre réplicas de AirPods — también conocidas como AirPods falsos o clones de AirPods. Encuentra vendedores de confianza, comparaciones de versiones y reseñas honestas.'
+title: 'Réplicas de AirPods: vendedores de confianza y guía de versiones'
+description: 'La guía de la comunidad AirReps sobre las réplicas de AirPods, también conocidas como AirPods falsos o clones de AirPods. Encuentra vendedores de confianza, comparativas de versiones y reseñas honestas.'
+articlesHeading: Guías y artículos
+articlesSubtitle: 'Respuestas claras para identificar falsificaciones, elegir una versión y comprar de forma segura, de parte de la comunidad que prueba estas unidades todos los días.'
+articlesAllLabel: Todos los artículos
+articlesReadLabel: Leer
 hero:
   name: AirReps
-  text: AirPods réplicas.
-  tagline: Una comunidad para la discusión y exploración de clones de AirPods.
+  text: Réplicas de AirPods.
+  tagline: Una comunidad para debatir y explorar clones de AirPods.
   actions:
     - theme: brand
-      text: Lee La Guía Definitiva
+      text: Leer la guía definitiva
       link: introduction/overview
     - theme: alt
-      text: Haz El Cuestionario
+      text: Haz el cuestionario
       link: quiz
     - theme: alt
-      text: Ver Vendedores De Confianza
+      text: Ver vendedores de confianza
       link: /links/info
 features:
   - icon: "🤝"
-    title: Equipo de ayudantes
-    details: Ayudantes dedicados listos para responder casi cualquier pregunta que puedas tener.
+    title: Equipo de colaboradores
+    details: 'Colaboradores dedicados, listos para responder casi cualquier pregunta que puedas tener.'
     link: 'https://airreps.link/discord'
-    linkText: Únete A Discord
+    linkText: Únete a Discord
   - icon: ⏰
-    title: Al Día
-    details: 'Todos los recursos, guías y aplicaciones son siempre mantenidos al día por nuestro equipo de personal dedicado.'
+    title: Al día
+    details: 'Todos los recursos, guías y aplicaciones se mantienen siempre al día gracias a nuestro equipo dedicado.'
     link: /introduction/overview
-    linkText: Leer La Guía
+    linkText: Leer la guía
   - icon: "💸"
     title: Lista de vendedores de confianza
-    details: 'Lista de vendedores elegidos por la comunidad, sin fines de lucro, con los productos más recientes y el mejor soporte.'
+    details: 'Lista de vendedores sin fines de lucro, seleccionados por la comunidad, con los productos más recientes y la mejor asistencia.'
     link: /links/info
-    linkText: Ver Vendedores
+    linkText: Ver vendedores
 ---
 <Contributor></Contributor>
+
+<Articles variant="home" :limit="3" />

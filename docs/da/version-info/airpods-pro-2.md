@@ -1,63 +1,78 @@
 ---
-title: AirPods Pro 2 Replika-versioner & Specifikationer
-description: 'Sammenlign AirPods Pro 2 replika-versioner efter chip, funktioner og manglende funktioner.'
+title: AirPods Pro 2-kopiversioner og specifikationer
+description: 'Sammenlign AirPods Pro 2-kopiversioner efter chip, funktioner og manglende funktioner.'
 ---
 # AirPods Pro 2
 
 ::: tip
-Producenterne skifter langsomt udviklingsfokus til nyere modeller. AirPods Pro 2-kopier forbliver fremragende produkter og er stadig det mest modne og funktionsfyldte valg i Pro-udvalget. Hvis du vil have de nyeste funktioner, tilføjer [AirPods Pro 3 V7](/da/version-info/airpods-pro-3) en pulssensor og AI Hybrid ANC — men det er en tidlig udgivelse med særegenheder, som du bør sætte dig ind i, før du køber.
+Producenterne flytter langsomt udviklingsfokus til nyere modeller. AirPods Pro 2-kopier er stadig fremragende produkter og er fortsat den mest modne og funktionskomplette løsning i Pro-serien. Hvis du vil have de nyeste funktioner, tilføjer [AirPods Pro 3 V7](/da/version-info/airpods-pro-3) en pulssensor og AI Hybrid ANC — men det er en tidlig udgivelse med særheder, som det er værd at læse op på, før du køber.
 :::
 
-**Kort konklusion:** for de fleste købere er **V5.4 Huilian** den bedste AirPods Pro 2-kopi samlet set, da den balancerer de nyeste funktioner (iCloud Connect, adaptiv lyd, ANC tæt på originalen) med stærk allround ydeevne. Vil du i stedet have den stærkeste støjreduktion? **V5.3 TB** fører på ANC. Se [købslinksene](/da/links/airpods-pro-2) for begge.
+**Hurtig vurdering:** For de fleste købere er **V5.4 Huilian** samlet set den bedste AirPods Pro 2-kopi, fordi den kombinerer de nyeste funktioner (iCloud Connect, adaptiv lyd og ANC tæt på originalniveau) med stærk alsidig ydeevne. Vil du i stedet have den stærkeste støjreduktion? **V5.3 TB** fører på ANC. Se [købslinksene](/da/links/airpods-pro-2) til begge.
 
-Click the hyperlink in the 'Version' column to find reviews for the given model.
+::: tip Fælles Pro 2-grundlag
+V5.2- og nyere modeller, der sammenlignes nedenfor, har Aktiv støjreduktion, Transparensfunktion, lydstyrkeregulering ved at swipe og Force Touch-styring på stilkene, en højttaler og en stropstrop på etuiet, USB-C-opladning, Hey Siri, registrering i øret og iOS' Om-side. Hovedsporing varierer efter chipset, især på V5.3 Lite; se matricen. Ældre V5.0- og V5.1-modeller bruger Lightning.
+*(Bemærk: Ingen kopi understøtter Apples krypterede Find My-netværk eller spatial audio-DSP i originalkvalitet.)*
+:::
 
-| Version                                                              | Chip                        | Has Features                                                                                                                                                                                                                                                                                                                              | Missing Features                                                                                                                                                                |
-|----------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) |  Huilian 377     | USB-C, adaptiv lyd, samtalebevidsthed, forbedret transparensfunktion, volumenkontrol, Force Touch-kontroller, om-siden, forbedrede lydeffekter, ægte rumlyd (med hovedsporing), højttaler i etuiet, Hey Siri, næsten 1:1-hængsel, ANC tæt på originalen, iCloud Connect, OTA, EQ-mulighed. | Perfekt rumlyd, Find My Network     |
-| [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | Airoha 1571AM(TB) / Airoha 1562AE(HR) / Huilian 277 (Pro Max)              | USB-C, adaptiv lyd, samtalebevidsthed, forbedret transparensfunktion, volumenkontrol, Force Touch-kontroller, om-siden, forbedrede lydeffekter, ægte rumlyd (med hovedsporing), højttaler i etuiet, Hey Siri, næsten 1:1-hængsel, ANC tæt på originalen (mindre ANC sammenlignet med V5.2) | Perfekt rumlyd, Find My Network     |
-| [<span class="version-badge">V5.3 Lite</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | Airoha 1563E(TB) / Huilian 227            | USB-C, transparensfunktion, volumenkontrol, Force Touch-kontroller, om-siden, forbedrede lydeffekter, ægte rumlyd & samtalebevidsthed (eksklusivt for Huilian), højttaler i etuiet, Hey Siri, næsten 1:1-hængsel, aktiv støjreduktion (svagere end ikke-lite versioner) | Perfekt rumlyd, Find My Network, originalens ANC, originalens Transparency Mode, adaptiv transparens og andre små detaljer...     |
-| [<span class="version-badge">V5.2</span>](https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1) | Airoha 1562AE / Huilian 277 | USB-C, adaptiv lyd, samtalebevidsthed, aktiv støjreduktion, forbedret transparensfunktion, volumenkontrol, Force Touch-kontroller, om-siden, forbedrede lydeffekter, ægte rumlyd (med hovedsporing), højttaler i etuiet, Hey Siri, næsten 1:1-hængsel, ANC tæt på originalen (ligner V4.7/4.9)        | Perfekt rumlyd, iCloud Connect, Find My Network                                                                                                                          |
-| [<span class="version-badge">V5.1</span>](https://www.reddit.com/r/AirReps/search?q=v5.1&restrict_sr=1) | Huilian 277 / BES2600IHC    | Aktiv støjreduktion, forbedret transparensfunktion, volumenkontrol, Force Touch-kontroller, om-siden, forbedrede lydeffekter, ægte rumlyd (med hovedsporing), højttaler i etuiet, Hey Siri, 1:1-hængsel, ANC tæt på originalen (ligner V4.7/4.9)                                                              | USB-C, perfekt rumlyd, iCloud Connect, Find My Network og mange små detaljer...                                                                                         |
-| [<span class="version-badge">V5.0</span>](https://www.reddit.com/r/AirReps/search?q=v5.0&restrict_sr=1) | Huilian 247B                | Aktiv støjreduktion, forbedret transparensfunktion, volumenkontrol, Force Touch-kontroller, om-siden, forbedrede lydeffekter, ægte rumlyd (med hovedsporing), højttaler i etuiet, Hey Siri                                                                                                                          | USB-C, korrekt ANC, perfekt rumlyd, iCloud Connect, Find My Network og mange små detaljer...                                                                             |
-| [<span class="version-badge">V4.2</span>](https://www.reddit.com/r/AirReps/search?q=v4.2&restrict_sr=1) | Bluetrum                    | USB-C, aktiv støjreduktion, transparensfunktion, volumenkontrol, Force Touch-kontroller, om-siden, rumlyd (ingen hovedsporing - kun HiCity V4.2), højttaler i etuiet                                                                                                                                                       | Stabil lydkvalitet, korrekt ANC, forbedrede lydeffekter, bedre transparensfunktion, multi-enhedsforbindelse, iCloud Connect, rumlyd, præcise etui-lydeffekter, Find My Network og flere mærkbare detaljer... |
+Klik på et versionsmærke for at finde brugeranmeldelser af den pågældende model.
 
+| Version → | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3%20huilian&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V5.3 Lite</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | [<span class="version-badge">V5.2</span>](https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1)<br>(TB / HR) |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| **Chipset** | Huilian 377 | Airoha 1571AM / 1562AE | Huilian 277 Pro Max | Airoha 1563E / Huilian 227 | Airoha 1562AE |
+| **ANC-niveau** | ~35–38 dB (stabilt) | ~35–41 dB (stærkest) | ~30–32 dB i gennemsnit; 38 dB maksimum | Grundlæggende | ~35–39 dB |
+| **Adaptiv lyd** | ✅ Ja | ✅ Ja | ✅ Ja | ❌ Nej | ✅ Ja |
+| **Samtalegenkendelse** | ✅ Ja | ✅ Ja | ✅ Ja | ⚠️ Kun Huilian-varianten | ✅ Ja |
+| **Spatial audio (hovedsporing)** | ✅ Ja | ✅ Ja (ST-gyroskop) | ✅ Ja | ⚠️ Kun Huilian-varianten | ✅ Ja (ST-gyroskop) |
+| **Styring med hovedbevægelser** | ✅ Ja (nik / ryst) | ❌ Nej | Angivet af sælger; firmwareafhængigt | ❌ Nej | ❌ Nej |
+| **Flere enheder / skift** | ✅ iCloud Connect | Op til 3 enheder | ✅ iCloud Connect / 2 enheder | 1 enhed | 1 enhed |
+| **App-EQ og tilpasning** | ✅ Starfun (synkroniserer med iOS) | ✅ CloudCC / FlyCC | ✅ Starfun | ⚠️ Chipsetafhængigt | ✅ CloudCC / FlyCC |
+| **Detaljerede noter** | [V5.4-detaljer](#v5-4-version-differences) | [V5.3-detaljer](#v5-3-version-differences) | [V5.3-detaljer](#v5-3-version-differences) | — | [V5.2-detaljer](#v5-2-version-differences) |
 
-## Versionsforskelle for V5.4:
+V5.3 Huilian er en separat variant fra TB og HR. [Jennys produktoversigt](https://jenny.airreps.info/product/v5-3-huilian/) angiver Huilian 277 Pro Max-chipsættet, hovedsporing, adaptiv lyd, samtalegenkendelse og iCloud-forbindelse; de annoncerede gestusfunktioner kan afhænge af firmwaren. Produktoversigten blev kontrolleret den 22. september 2026.
 
-Denne version er kun en opgradering for Huilian-modeller; den har nogle få forbedringer. [ANC](/da/introduction/anc-explained)-ydelsen er blevet forbedret, og stabiliteten ser ud til at være bedre. Hardwaremæssigt er der ikke ændret meget, bortset fra chippen. Disse opgraderinger ser ud til i højere grad at være firmwareopdateringer, som vil være begrænset til denne nye enhed. Klar til at købe? Tjek vores [købslinks](/da/links/airpods-pro-2) og [bestillingsguide](/da/ordering/how-to-buy).  
-
-
-## Versionsforskelle for V5.3:
-
-**TB** - TB‑øretelefonerne er kendt for deres hvide, mere hårdføre etui, som er mere svedafvisende end HR‑modellen. De har også et ST-gyroskop, ligesom V4.7 og detailversionerne, hvilket giver fremragende rumlyd. Batterilevetiden for TB‑modellen er 8 timer uden ANC og 6 timer med ANC tændt. Stemmet til tung bas. TB har den bedste ANC blandt 5.3 (gennemsnit 34,5 dB, top 41 dB).
-
-**HR** - HR‑øretelefonerne har et gulligt, blødere etui, som er mindre svedafvisende end TB‑modellen. Batterilevetiden for HR‑modellen er 7,5 timer uden ANC og 5,5 timer med ANC tændt. Stemmet til at være afbalanceret med et let fokus på bas. HR har også den bedste transparens. ANC er toer efter TB på grund af den ældre 1562AE‑chip (gennemsnit 34,4 dB, top 39 dB).
-
-**Huilian** - Huilian‑øretelefonerne bruger et mellemfast etui, fastere end HR men blødere end TB, og er udstyret med et 1:1-hængsel. Dog er ANC på grund af Huilian-chipen markant dårligere end de to andre modeller — 5.3TB og 5.3HR (gennemsnit 30–32 dB, top 38 dB). Batterilevetiden for Huilian‑modellen er 6 timer uden ANC og 4,5 timer med ANC tændt.
-
-Klar til at købe en V5.3? Se [købslinks til AirPods Pro 2](/da/links/airpods-pro-2).
+::: info Ældre / udgåede Pro 2-versioner
+Ældre modeller som **V5.1** (Lightning-port), **V5.0** og **V4.2** (Bluetrum) er blevet udfaset eller afløst af V5.2+-serien og anbefales ikke længere.
+:::
 
 
-## Versionsforskelle for V5.2:
-
-**TB** - TB‑øretelefonerne er kendt for deres hvide, mere hårdføre etui, som er mere svedafvisende end HR‑modellen. De har også et ST-gyroskop, ligesom V4.7 og detailversionerne, hvilket giver fremragende rumlyd. Batterilevetiden for TB‑modellen er 8 timer uden ANC og 6 timer med ANC tændt. Stemmet til tung bas. TB har betydeligt bedre ANC end Huilian (gennemsnit 33,6 dB, top 39 dB).
-
-**HR** - HR‑øretelefonerne har et gulligt, blødere etui, som er mindre svedafvisende end TB‑modellen. Batterilevetiden for HR‑modellen er 7 timer uden ANC og 5 timer med ANC tændt. Stemmet til tung bas. HR har også den bedste transparens og ANC‑ydelse (gennemsnit 34,2 dB, top 39 dB), selvom den i de fleste situationer ligner TB.
-
-**Huilian** - Huilian‑øretelefonerne bruger et mellemfast etui, fastere end HR men blødere end TB, og er udstyret med et 1:1-hængsel. Dog er ANC på grund af Huilian-chipen markant dårligere end de to andre modeller — 5.2TB og 5.2HR (gennemsnit 30–32 dB, top 38 dB). Batterilevetiden for Huilian‑modellen er 6 timer uden ANC og 4,5 timer med ANC tændt.
-
-Klar til at købe en V5.2? Se [købslinks til AirPods Pro 2](/da/links/airpods-pro-2).
 
 
-## Version 5.3TB vs version 5.2TB: er opgraderingen berettiget?
+## Forskelle på V5.4-versionen: {#v5-4-version-differences}
 
-- Højttaleren er opgraderet fra F10.2 til F11, selvom ændringen er relativt lille.
-- Batteriet er opdateret, men uden øget kapacitet.
-- Enheden understøtter nu forbindelse til op til tre enheder samtidig.
-- Funktionaliteten for adaptiv ANC er forbedret, men ydelsesforbedringen er marginal, anslået til kun ca. 5% bedre end version 5.2.
+Denne version er kun en opgradering for Huilian-modeller; den har nogle få forbedringer. [ANC](/da/introduction/anc-explained)-ydeevnen er blevet forbedret, og stabiliteten ser ud til at være bedre. Hvad hardwaren angår, er der ikke rigtig ændret noget bortset fra chipsættet. Disse opgraderinger ser ud til primært at være firmwareopdateringer, som vil være begrænset til denne nye enhed. Klar til at købe? Se vores [købslinks](/da/links/airpods-pro-2) og [bestillingsvejledning](/da/ordering/how-to-buy).
 
-**Bemærk venligst** at følgende modeller er **udgået**:
+
+## Forskelle på V5.3-versionen: {#v5-3-version-differences}
+
+**TB** – TB-øretelefonerne er kendt for deres hvide, mere robuste etui, som er mere svedafvisende end HR-modellen. De har også et ST-gyroskop, der minder om V4.7- og originalversionerne, hvilket giver fremragende spatial audio. Batteritiden for TB-modellen er 8 timer uden ANC og 6 timer med ANC slået til. Tunet med fokus på bas. TB har den bedste ANC blandt 5.3-modellerne (34,5 dB i gennemsnit, 41 dB maksimum).
+
+**HR** – HR-øretelefonerne har et gulligt, blødere etui, der er mindre svedafvisende end TB-modellen. Batteritiden for HR-modellen er 7,5 timer uden ANC og 5,5 timer med ANC slået til. Tunet balanceret med en let vægt på bas. HR har også den bedste transparens. ANC er næstbedst efter TB på grund af det ældre 1562AE-chipset (34,4 dB, 39 dB maksimum).
+
+**Huilian** – Huilian-øretelefonerne bruger et etui i mellemklassen, fastere end HR, men blødere end TB, og er udstyret med et 1:1-hængsel. På grund af Huilian-chipsættet er ANC dog betydeligt dårligere end på de to andre modeller — 5.3TB og 5.3HR (30–32 dB i gennemsnit, 38 dB maksimum). Batteritiden for Huilian-modellen er 6 timer uden ANC og 4,5 timer med ANC slået til.
+
+Klar til at købe en V5.3? Se [købslinksene til AirPods Pro 2](/da/links/airpods-pro-2).
+
+
+## Forskelle på V5.2-versionen: {#v5-2-version-differences}
+
+**TB** – TB-øretelefonerne er kendt for deres hvide, mere robuste etui, som er mere svedafvisende end HR-modellen. De har også et ST-gyroskop, der minder om V4.7- og originalversionerne, hvilket giver fremragende spatial audio. Batteritiden for TB-modellen er 8 timer uden ANC og 6 timer med ANC slået til. Tunet med fokus på bas. TB har betydeligt bedre ANC end Huilian (33,6 dB i gennemsnit, 39 dB maksimum).
+
+**HR** – HR-øretelefonerne har et gulligt, blødere etui, der er mindre svedafvisende end TB-modellen. Batteritiden for HR-modellen er 7 timer uden ANC og 5 timer med ANC slået til. Tunet med fokus på bas. HR har også den bedste transparens og ANC-ydeevne (34,2 dB i gennemsnit, 39 dB maksimum), selv om den i de fleste situationer minder om TB.
+
+**Huilian** – Huilian-øretelefonerne bruger et etui i mellemklassen, fastere end HR, men blødere end TB, og er udstyret med et 1:1-hængsel. På grund af Huilian-chipsættet er ANC dog betydeligt dårligere end på de to andre modeller — 5.2TB og 5.2HR (30–32 dB i gennemsnit, 38 dB maksimum). Batteritiden for Huilian-modellen er 6 timer uden ANC og 4,5 timer med ANC slået til.
+
+Klar til at købe en V5.2? Se [købslinksene til AirPods Pro 2](/da/links/airpods-pro-2).
+
+
+## Version 5.3TB vs. version 5.2TB: Er opgraderingen berettiget?
+
+- Højttaleren er blevet opgraderet fra F10.2 til F11, selv om ændringen er relativt lille.
+- Batteriet er blevet opdateret, men uden nogen forøgelse af kapaciteten.
+- Enheden understøtter nu forbindelse til op til tre enheder samtidigt.
+- Den adaptive ANC-funktionalitet er blevet forbedret, men ydelsesforbedringen er marginal og anslås kun til 5 % i forhold til version 5.2.
+
+**Bemærk venligst**, at følgende modeller er **udgået**:
 
 - **V5.2 Huilian**
 - **V5.1 Huilian**

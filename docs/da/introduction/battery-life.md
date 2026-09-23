@@ -1,37 +1,37 @@
 ---
-title: AirPods Replika Batterilevetid
-description: 'Forventninger til batterilevetid, variationer mellem modeller og tips til sikker opladning.'
+title: Batterilevetid for AirPods-kopier
+description: 'Forventninger til batterilevetid, variationer efter model og tips til sikker opladning.'
 ---
 # Batterilevetid
 
-At forstå batterilevetiden på AirPods-replikater kan hjælpe dig med at styre dine forventninger og bruge dem effektivt.
+Hvis du forstår batterilevetiden for AirPods-kopier, kan det hjælpe dig med at afstemme dine forventninger og bruge dem effektivt.
 
 ## Gennemsnitlig batterilevetid
 
-Den gennemsnitlige batterilevetid for AirPods-replikater er omkring 8–10 timer pr. opladning ved 75% lydstyrke. Etuiet kan give 2–3 fulde opladninger til øretelefonerne, hvilket giver en samlet brugstid på 24–30 timer. Ældre modeller opnåede typisk 5–7 timer pr. opladning, mens nogle high-end modeller som Pro 2 V5.3 TB i gennemsnit ligger omkring 7–8 timer.
+Den gennemsnitlige batterilevetid for in-ear AirPods-kopier er omkring 5–8 timer pr. opladning ved moderat lydstyrke (afhængigt af, om ANC er aktiveret). Pro 2 V5.4 Huilian giver f.eks. ~4,5 timer med ANC og ~6 timer uden, mens V5.3 TB når op på 6 timer med ANC og 8 timer uden. For over-ear-modeller skelner [sammenligningen af AirPods Max](/da/version-info/airpods-max) mellem den aktuelle, sælgerangivne driftstid og målte resultater. Opladningsetuiet giver 2–3 fulde genopladninger af øretelefonerne.
 
 ::: tip
-Nuværende replikamodeller tilbyder generelt 8–10 timers batterilevetid, selvom ydeevnen kan variere mellem produktionspartier og fremstillingskvalitet.
+Aktuelle in-ear-kopimodeller tilbyder generelt 5–8 timers lyttetid pr. opladning. Sammenlign batterital ved samme lydstyrke og ANC-indstilling; sælgerangivelser kan ikke sammenlignes direkte med praktiske tests.
 :::
 
 ## Variationer i batterilevetid
 
-Den faktiske batterilevetid kan variere afhængigt af modelversion, chipgeneration, produktionsparti og brugsadfærd. Faktorer som lydstyrkeniveau, [brugte funktioner](/da/introduction/features) og replikatets alder kan alle påvirke ydeevnen. Se [sammenligningstabeller for versioner](/da/version-info/general) for batterilevetidsdata pr. model.
+Den faktiske batterilevetid kan variere afhængigt af modelversionen, chipgenerationen, produktionspartiet og brugsmønstrene. Faktorer som lydstyrken, [anvendte funktioner](/da/introduction/features) og kopiens alder kan alle påvirke ydeevnen. Se [sammenligningstabellerne for versioner](/da/version-info/general) for data om batterilevetid for hver model.
 
 ## Nøjagtighed af batteriniveau
 
-Batteriniveauer på iOS-enheder er muligvis ikke altid nøjagtige, selvom dette problem stort set er løst i nyere replikater. Ligesom originale AirPods vil replikaterne dog bippe, når batteriet når 20%. På Android-enheder kan batteriniveauer kontrolleres i Bluetooth-indstillingerne eller ved at bruge apps som TWTools, Materialpods eller Andropods for mere præcise aflæsninger. Se vores side med [nyttige apps](/da/useful-apps) for downloadlinks til producent- og hjælpeapps.
+Batteriniveauerne på iOS-enheder er ikke altid nøjagtige, selvom dette problem i vid udstrækning er blevet løst i nyere kopier. Ligesom originale AirPods bipper kopierne dog, når batteriet når 20 %. På Android-enheder kan batteriniveauet kontrolleres i Bluetooth-indstillingerne eller ved hjælp af apps som TWTools, Materialpods eller Andropods for mere nøjagtige aflæsninger. Se vores side om [nyttige apps](/da/useful-apps) for downloadlinks til producent- og hjælpeapps.
 
 ::: warning
-Batteriniveauaflæsninger på iOS-enheder er muligvis ikke altid nøjagtige. Android-brugere kan bruge specifikke apps til mere præcis overvågning.
+Aflæsninger af batteriniveauet på iOS-enheder er ikke altid nøjagtige. Android-brugere kan anvende specifikke apps til mere præcis overvågning.
 :::
 
-## Trådløs/fast opladning
+## Trådløs opladning/hurtigopladning
 
-AirReps understøtter både trådløs og kablet hurtigopladning, men ældre modeller kan blive overophedede eller endda blive beskadigede, hvis de efterlades på opladeren for længe, især ved trådløs opladning. For at være på den sikre side, undgå at oplade i mere end 2–3 timer ad gangen, og træk stikket, hvis etuiet begynder at føles varmt.
+AirReps understøtter både trådløs og kablet hurtigopladning, men ældre modeller kan blive overophedede eller endda tage skade, hvis de efterlades på opladeren for længe, især ved trådløs opladning. For en sikkerheds skyld bør du undgå at oplade dem i mere end 2–3 timer ad gangen og tage dem fra opladeren, hvis etuiet begynder at føles varmt.
 
-Nyere modeller som **5.3TB**, **5.3HR+**, og **5.4Huilian** håndterer hurtigopladning meget bedre og er sikre at bruge med både kablede og trådløse opladere.
+Nyere modeller som **5.3TB**, **5.3HR+** og **5.4Huilian** håndterer hurtigopladning meget bedre og er sikre at bruge med både kablede og trådløse opladere.
 
 ::: danger
-Langvarig trådløs opladning eller hurtigopladning kan forårsage overophedning i nogle modeller, især ældre versioner. Overvåg altid temperaturen under trådløs opladning.
+Langvarig trådløs opladning eller hurtigopladning kan medføre overophedning i nogle modeller, især ældre versioner. Overvåg altid temperaturen under trådløs opladning.
 :::

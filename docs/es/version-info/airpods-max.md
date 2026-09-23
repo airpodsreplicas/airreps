@@ -1,33 +1,47 @@
 ---
-title: AirPods Max Versiones & Especificaciones de Réplica
-description: 'Compare las versiones de réplica de AirPods Max según el chip, las características y las funciones ausentes.'
+title: Versiones y especificaciones de las réplicas de AirPods Max
+description: 'Compara las versiones réplica de AirPods Max por chip, funciones y funciones ausentes.'
 ---
 # AirPods Max
 
-Haga clic en el hipervínculo en la columna 'Versión' para encontrar reseñas del modelo correspondiente. Para enlaces de compra, vea [Enlaces de AirPods Max](/es/links/airpods-max). Para aprender sobre [ANC](/es/introduction/anc-explained) y [calidad de sonido](/es/introduction/sound-quality), consulte las secciones de la guía.
+**Veredicto rápido:** elige el **V3 Metal (Airoha 1562AE)** por sus copas metálicas, la ANC híbrida mejorada y el audio espacial con seguimiento de la cabeza. El **V3P (Airoha 1561M)**, más económico, utiliza una carcasa de plástico y acero y un chipset diferente; no es simplemente el V3 con una carcasa de plástico. El **V2.5** es una alternativa de gama media con seguimiento de la cabeza y conectividad con dos dispositivos en la variante Realtek. Consulta los [enlaces de compra de AirPods Max](/es/links/airpods-max).
 
-| Versión                                                                           | Chip             | Características                                                                                                                                                      | Características faltantes                                                                                                                 |
-|-----------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1) | Airoha 1562AE     | USB-C, ANC híbrido mejorado, Modo Transparencia, Copas de oreja y diadema metálicas acolchadas, Detección intraauricular, Cambio de nombre Bluetooth, Compartir audio, Audio espacial (seguimiento de la cabeza), Actualizaciones OTA (Android), Bluetooth 5.3, ~50h de batería | Conexión multi-dispositivo, ANC de los AirPods Max oficiales, Mejor modo Transparencia, y más detalles sutiles...                   |
-| [<span class="version-badge">V3P</span>](https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1) | Airoha 1561M     | USB-C, ANC híbrido, Modo Transparencia, Copas de oreja y diadema de plástico, Detección intraauricular, Cambio de nombre Bluetooth, Compartir audio, Actualizaciones OTA (Android), Bluetooth 5.3, ~50h de batería | Conexión multi-dispositivo, ANC de los AirPods Max oficiales, Mejor modo Transparencia, Audio espacial (seguimiento de la cabeza), y más detalles sutiles...                   |
-| [<span class="version-badge">V2.5</span>](https://www.reddit.com/r/AirReps/search?q=max%20v2.5&restrict_sr=1) | Bluetrum BT893X/Realtek 8763ESE    | ANC activo híbrido, Modo Transparencia, Construcción de aluminio, Mejor calidad de construcción, Audio espacial, Controles Digital Crown, Compartir audio, Página 'Acerca de', Conexión multi-dispositivo | ANC de los AirPods Max oficiales, Mejor modo Transparencia, Copas metálicas, Más detalles sutiles...                               |
-| [<span class="version-badge">V2 Metal</span>](https://www.reddit.com/r/AirReps/search?q=max%20v2metal&restrict_sr=1) | Airoha 1561M     | ANC activo híbrido, Modo Transparencia, Construcción de aluminio, Mejor calidad de construcción, Audio espacial (fijo), Controles Digital Crown, Compartir audio, Página 'Acerca de', Conexión multi-dispositivo | ANC de los AirPods Max oficiales, Mejor modo Transparencia, Audio espacial (seguimiento de la cabeza), y más detalles sutiles...                               |
-| [<span class="version-badge">V2 BES</span>](https://www.reddit.com/r/AirReps/search?q=max%20v2bes&restrict_sr=1)     | BES 2600IHC      | ANC activo híbrido, Modo Transparencia, Construcción de aluminio, Mejor calidad de construcción, Audio espacial, Controles Digital Crown, Compartir audio, Página 'Acerca de' | ANC de los AirPods Max oficiales, Mejor modo Transparencia, Conexión multi-dispositivo, y más detalles sutiles...                               |
-| [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=max%20v2&restrict_sr=1)            | Airoha 1561M     | ANC activo híbrido, Modo Transparencia, Construcción de plástico, Mejor calidad de construcción, Audio espacial, Controles Digital Crown, Compartir audio, Página 'Acerca de'   | ANC de los AirPods Max oficiales, Mejor modo Transparencia, Audio espacial (seguimiento de la cabeza), Conexión multi-dispositivo, y más detalles sutiles...                               |
-| [<span class="version-badge">V1.6</span>](https://www.reddit.com/r/AirReps/search?q=max%20v1.6&restrict_sr=1)        | Bluetrum 8892E   | ANC activo híbrido, Modo Transparencia, Construcción de plástico, Mejor calidad de construcción, Controles Digital Crown, Compartir audio, Página 'Acerca de', Carcasa metálica   | ANC de los AirPods Max oficiales, Mejor modo Transparencia, Conexión multi-dispositivo, Audio espacial, y más detalles sutiles...                |
-| [<span class="version-badge">V1.5</span>](https://www.reddit.com/r/AirReps/search?q=max%20v1.5&restrict_sr=1)        | Bluetrum 8892E   | ANC activo híbrido, Modo Transparencia, Construcción de plástico, Mejor calidad de construcción, Controles Digital Crown, Compartir audio, Página 'Acerca de'                  | ANC de los AirPods Max oficiales, Carcasa metálica, Mejor modo Transparencia, Conexión multi-dispositivo, Audio espacial, y más detalles sutiles... |
-| [<span class="version-badge">V1 P9 Max</span>](https://www.reddit.com/r/AirReps/search?q=max%20p9&restrict_sr=1)     | Bluetrum desconocido | Construcción de plástico, Diadema de malla                                                                                                                               | ANC, Carcasa metálica y calidad general de construcción, Modo Transparencia, Conexión multi-dispositivo, Audio espacial, y más detalles sutiles... |
+::: tip Base común de AirPods Max
+Todos los modelos Max incluyen: diseño circumaural con diadema de malla, rueda Digital Crown para el volumen y la reproducción, botón dedicado de control de ruido, detección intraauricular / de colocación en la cabeza, uso compartido de audio y compatibilidad con iOS 27, incluida una ventana emergente en la página «Acerca de».
+*(Nota: ninguna réplica iguala exactamente la profundidad de la ANC de los Max comerciales ni es compatible con la red cifrada Find My de Apple.)*
+:::
 
-**Tenga en cuenta** que los siguientes modelos están **descontinuados**:
+Haz clic en cualquier distintivo de versión para consultar las reseñas de la comunidad sobre ese modelo.
 
-- **V1.6**
+| Versión → | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1)<br>(Metal TB) | [<span class="version-badge">V3P</span>](https://www.reddit.com/r/AirReps/search?q=max%20v3p&restrict_sr=1)<br>(Plástico TB) | [<span class="version-badge">V2.5</span>](https://www.reddit.com/r/AirReps/search?q=max%20v2.5&restrict_sr=1)<br>(Realtek) | [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=max%20v2&restrict_sr=1)<br>(Metal TB) |
+|:---|:---:|:---:|:---:|:---:|
+| **Chipset** | Airoha 1562AE | Airoha 1561M | Realtek 8763ESE / Bluetrum | Airoha 1561M |
+| **Material de las copas** | Metal completo (aluminio) | Plástico y acero | Aleación de aluminio | Aleación de aluminio |
+| **Rendimiento de la ANC** | Híbrida de cuatro micrófonos; hasta 45 dB según el vendedor | ANC híbrida (según el vendedor) | ANC híbrida | ANC híbrida |
+| **Modo transparencia** | ✅ Natural y claro | ✅ Aceptable | ✅ Aceptable | ⚠️ Básico |
+| **Audio espacial (seguimiento de la cabeza)** | ✅ Sí (giroscopio ST) | ❌ Fijo (sin seguimiento) | ✅ Sí (Realtek) | ❌ Fijo (sin seguimiento) |
+| **Duración de la batería** | 20 h (según el vendedor) | 20 h (según el vendedor) | No verificada | No verificada |
+| **Conexión multidispositivo** | ✅ Dos dispositivos | ❌ 1 dispositivo | ✅ Dos dispositivos | ⚠️ 1 dispositivo |
+| **Ecualizador y actualizaciones mediante la aplicación** | ✅ FlyCC (Android) | ✅ FlyCC (Android) | ⚠️ OTA depende del chipset | ✅ FlyCC (Android) |
+| **Puerto de carga** | USB-C | USB-C | USB-C / Lightning | Lightning / USB-C |
+| **Notas detalladas** | [Descripción general del V3](#v3-overview) | [Descripción general del V3](#v3-overview) | [Detalles del V2.5](#v2-v2-5-version-differences) | [Detalles del V2](#v2-v2-5-version-differences) |
 
-## Diferencias entre V2 y V2.5:
+Especificaciones de los vendedores comprobadas el 22 de septiembre de 2026: [Jenny V3](https://jenny.airreps.info/product/max-v3-tb/), [Jenny V3P](https://jenny.airreps.info/product/max-v3p-tb/) y [Earhive V3P](https://earhive.com/product/max-v3p-tb/). La cifra de 45 dB de ANC y las cifras de 20 horas de batería son afirmaciones de los vendedores, no mediciones comparables de la comunidad. La autonomía depende del volumen, la ANC, el firmware y el lote; las estimaciones anteriores de 35–50 horas de las guías no estaban respaldadas por una prueba documentada.
 
-**V2 TB**: El modelo V2 ofrece una calidad de sonido satisfactoria con soporte para ajustes de ecualización. Presenta una carcasa más firme y ofrece compatibilidad a futuro mediante la capacidad de actualización de firmware.
+::: info Modelos Max descatalogados
+Los siguientes modelos antiguos han sido descatalogados por los fabricantes y ya no se recomiendan:
+- **V2 BES** (BES 2600IHC)
+- **V2 Plastic**
+- **V1.6** y **V1.5** (Bluetrum 8892E)
+- **V1 P9 Max** (Carcasa genérica económica)
+:::
 
-**V2.5**: Esta versión mejorada proporciona una Cancelación Activa de Ruido (ANC) mejorada y un modo Transparencia mejorado. También presenta un diseño de diadema superior en comparación con la V2. Aunque se anuncia como compatible con actualizaciones de firmware, hasta ahora no se han publicado actualizaciones para este modelo (para la versión Bluetrum 893x). Realtek 8763ESE sí admite OTA. 
+## Descripción general del V3 {#v3-overview}
 
-## Resumen de V3
+El V3 supone una mejora significativa con respecto al V2.5, ya que incorpora un chipset diferente (Airoha 1562AE) y funciones mejoradas, como ANC híbrida mejorada, audio espacial con seguimiento de la cabeza y opciones de construcción metálica. La versión V3 Metal ofrece copas y diadema metálicas acolchadas, mientras que la versión V3P utiliza una construcción de plástico. Ambas usan USB-C, pero la V3P conserva la plataforma Airoha 1561M anterior y carece del seguimiento de la cabeza del V3. No des por hecho que el rendimiento de audio o la duración de la batería sean idénticos por compartir el mismo diseño.
 
-V3 es una mejora significativa respecto a V2.5, con un chipset diferente (Airoha 1562AE) y características mejoradas que incluyen ANC híbrido mejorado, audio espacial con seguimiento de la cabeza y opciones de construcción metálica. La versión V3 Metal ofrece copas de oreja y diadema metálicas acolchadas, mientras que la versión V3P utiliza construcción de plástico.
+## Diferencias entre las versiones V2 y V2.5: {#v2-v2-5-version-differences}
+
+**V2 TB**: el modelo V2 ofrece una calidad de sonido satisfactoria y permite ajustar el ecualizador mediante FlyCC. Cuenta con una carcasa más firme y ofrece mayor vigencia gracias a la posibilidad de actualizar el firmware.
+
+**V2.5**: esta versión mejorada proporciona una cancelación activa de ruido (ANC) más eficaz y un modo transparencia mejorado. También cuenta con un diseño de diadema superior al del V2. La versión Realtek 8763ESE admite actualizaciones de firmware OTA y conexión con dos dispositivos. ¿Listo para comprar? Consulta nuestros [enlaces de compra de AirPods Max](/es/links/airpods-max).
