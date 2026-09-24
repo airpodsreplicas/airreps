@@ -21,7 +21,7 @@ Las réplicas de AirPods 3 te ofrecen el ajuste con vástago sin cancelación ac
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v1e">Sitio web</a>
+        <span class="unavailable-link">Sitio web no disponible</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>

@@ -21,7 +21,7 @@ Les répliques d'AirPods 3 offrent l'ajustement de type tige sans ANC. Comparez 
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v1e">Site web</a>
+        <span class="unavailable-link">Site web indisponible</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
