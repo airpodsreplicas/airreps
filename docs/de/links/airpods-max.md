@@ -66,7 +66,7 @@ AirPods Max-Replikate sind die Over-Ear-Option und reichen von preisgünstigen K
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/jmaxv25">Website</a>
+        <span class="unavailable-link">Website nicht verfügbar</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>

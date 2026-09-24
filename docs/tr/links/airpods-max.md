@@ -66,7 +66,7 @@ AirPods Max replikaları kulak üstü seçeneğidir; ucuz plastik yapımlardan m
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/jmaxv25">Web sitesi</a>
+        <span class="unavailable-link">Web sitesi kullanılamıyor</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
