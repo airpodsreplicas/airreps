@@ -117,6 +117,17 @@ iframe[src*="youtube"] {
   background: var(--vp-c-default-mute);
 }
 
+.link-column .unavailable-link {
+  padding: 4px 6px;
+  font-size: 13px;
+  line-height: 1.2;
+  text-align: center;
+  color: var(--vp-c-text-2);
+  background: var(--vp-c-default-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+}
+
 /* Compact download links below the Useful Apps images. */
 .app-download-action {
   display: inline-flex;
