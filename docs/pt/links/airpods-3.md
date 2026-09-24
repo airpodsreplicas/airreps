@@ -21,7 +21,7 @@ As réplicas do AirPods 3 oferecem o encaixe com haste sem ANC. Compare as vers�
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v1e">Site</a>
+        <span class="unavailable-link">Site indisponível</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>

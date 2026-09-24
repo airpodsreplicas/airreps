@@ -21,7 +21,7 @@ AirPods 3-kopier giver dig en stilkformet pasform uden ANC. Sammenlign de tilgæ
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v1e">Hjemmeside</a>
+        <span class="unavailable-link">Hjemmeside ikke tilgængelig</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
