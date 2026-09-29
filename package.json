@@ -28,7 +28,7 @@
     "gray-matter": "^4.0.3",
     "image-size": "^2.0.2",
     "openai": "^7.8.0",
-    "satori": "^0.33.4",
+    "satori": "^0.33.5",
     "satori-html": "^0.3.2",
     "ultracite": "^7.10.7"
   }
