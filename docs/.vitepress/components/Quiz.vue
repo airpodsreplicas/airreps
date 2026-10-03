@@ -1885,7 +1885,8 @@ function restart() {
   border-radius: 8px;
   background: var(--vp-c-bg-soft);
   cursor: pointer;
-  transition: border-color 0.2s, background 0.2s;
+  box-shadow: var(--depth-ghost-sm);
+  transition: border-color 0.2s, background 0.2s, box-shadow 0.18s ease, transform 0.15s ease;
   text-align: left;
   width: 100%;
   font-family: inherit;
@@ -1923,7 +1924,8 @@ function restart() {
   color: var(--vp-c-text-2);
   cursor: pointer;
   font-family: inherit;
-  transition: border-color 0.2s, color 0.2s;
+  box-shadow: var(--depth-ghost-sm);
+  transition: border-color 0.2s, color 0.2s, box-shadow 0.18s ease, transform 0.15s ease;
 }
 
 .quiz-back:hover,
@@ -2050,12 +2052,23 @@ function restart() {
   font-weight: 600;
   text-decoration: none;
   text-align: center;
-  transition: opacity 0.2s;
+  border: 1px solid transparent;
+  box-shadow: var(--depth-ghost-sm);
+  transition: opacity 0.2s, box-shadow 0.18s ease, transform 0.15s ease;
 }
 
 .quiz-buy-link.primary {
-  background: var(--vp-c-brand-1);
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--vp-c-brand-1) 90%, #fff),
+    var(--vp-c-brand-1) 58%,
+    color-mix(in srgb, var(--vp-c-brand-1) 90%, #000)
+  );
+  border-color: color-mix(in srgb, var(--vp-c-brand-1) 72%, #000);
   color: #fff;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.42), inset 0 -2px 2px rgba(0, 0, 0, 0.1),
+    0 2px 3px rgba(0, 0, 0, 0.12),
+    0 8px 18px -8px color-mix(in srgb, var(--vp-c-brand-1) 42%, transparent);
 }
 
 .quiz-buy-link.kakobuy {
@@ -2073,6 +2086,19 @@ function restart() {
   opacity: 0.85;
 }
 
+.quiz-option:active,
+.quiz-back:active,
+.quiz-restart:active,
+.quiz-buy-link.secondary:active,
+.quiz-buy-link.kakobuy:active {
+  box-shadow: var(--depth-press);
+  transform: translateY(1px);
+}
+
+.quiz-buy-link.primary:active {
+  transform: scale(0.98);
+}
+
 .quiz-seller-note {
   font-size: 0.8rem;
   color: var(--vp-c-text-3);
@@ -2088,7 +2114,10 @@ function restart() {
   width: 100%;
   margin: 0;
   padding: 0.8rem 1rem;
-  background: #5865F2;
+  background: linear-gradient(180deg, #6773f4, #5865F2 58%, #4f5bda);
+  border: 1px solid #3f49ae;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), inset 0 -2px 2px rgba(0, 0, 0, 0.1),
+    0 2px 3px rgba(0, 0, 0, 0.12), 0 8px 18px -8px rgba(88, 101, 242, 0.45);
   color: #fff;
   border-radius: 8px;
   text-decoration: none;
@@ -2101,11 +2130,14 @@ function restart() {
 
 .quiz-discord-cta:hover,
 .quiz-discord-cta:focus-visible {
-  background: #4752C4;
   color: #fff;
+  filter: brightness(0.92);
   transform: translateY(-1px);
-  box-shadow: 0 6px 16px rgba(88, 101, 242, 0.28);
-  outline: none;
+}
+
+.quiz-discord-cta:focus-visible {
+  outline: 2px solid #5865F2;
+  outline-offset: 3px;
 }
 
 .quiz-discord-cta:active {
