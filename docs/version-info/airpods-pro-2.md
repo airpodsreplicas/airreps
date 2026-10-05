@@ -16,6 +16,10 @@ The V5.2-and-newer models compared below share Active Noise Cancelling, Transpar
 *(Note: No replica supports Apple's encrypted Find My network or retail-grade spatial audio DSP.)*
 :::
 
+::: tip V5.3 TB and iOS 27
+**V5.3 TB is compatible with iOS 27 on the latest firmware.** Connect your earbuds to [FlyCC](/useful-apps#tigerbuilder) and check for firmware updates. If FlyCC on iOS reports that the earbuds already have the latest firmware, you can update your iPhone to iOS 27.
+:::
+
 Click any version badge to find community reviews for that model.
 
 | Version → | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V5.3</span>](https://www.reddit.com/r/AirReps/search?q=v5.3%20huilian&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V5.3 Lite</span>](https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1) | [<span class="version-badge">V5.2</span>](https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1)<br>(TB / HR) |
