@@ -26,6 +26,7 @@ BLOCKED_TITLE = re.compile(
     r"security (?:check|verification)|verify (?:you are|you're)|"
     r"robot check|checking your browser", re.I
 )
+OUT_OF_STOCK = re.compile(r'class="stock out-of-stock"|schema\.org\\?/OutOfStock')
 MISSING_TITLE = re.compile(r"\b404\b|page not found|product not found|page doesn't exist", re.I)
 USER_AGENT = "Mozilla/5.0 (compatible; AirRepsLinkChecker/1.0; +https://github.com/airpodsreplicas/airreps)"
 
@@ -91,6 +92,7 @@ def fetch(url, timeout):
         response = error
     with response:
         title = ""
+        out_of_stock = False
         content_type = response.headers.get("Content-Type", "").lower()
         if "html" in content_type:
             parser = PageTitle()
@@ -102,10 +104,11 @@ def fetch(url, timeout):
                 body = raw_body.decode("utf-8", errors="replace")
             parser.feed(body)
             title = " ".join("".join(parser.parts).split())[:300]
-        return response.status, response.geturl(), title
+            out_of_stock = bool(OUT_OF_STOCK.search(body))
+        return response.status, response.geturl(), title, out_of_stock
 
 
-def classify(status, title):
+def classify(status, title, out_of_stock=False):
     if status in {401, 403, 429} or BLOCKED_TITLE.search(title):
         return "blocked", "Automated access blocked or rate limited; verify in a browser"
     if status in {404, 410}:
@@ -113,6 +116,8 @@ def classify(status, title):
     if 200 <= status < 300:
         if MISSING_TITLE.search(title):
             return "broken", "Page title reports a missing page despite HTTP success"
+        if out_of_stock:
+            return "broken", "Product page reports out of stock; buyers hit a dead end"
         return "healthy", "Responded successfully"
     return "unreachable", f"HTTP {status}: persistent HTTP or redirect error"
 
@@ -121,8 +126,8 @@ def check_link(url, sources, *, timeout=15, attempts=3, backoff=2):
     history = []
     for attempt in range(1, attempts + 1):
         try:
-            status, final_url, title = fetch(url, timeout)
-            state, reason = classify(status, title)
+            status, final_url, title, out_of_stock = fetch(url, timeout)
+            state, reason = classify(status, title, out_of_stock)
             result = {"state": state, "reason": reason, "http_status": status,
                       "final_url": final_url, "title": title}
         except (URLError, OSError, HTTPException, ValueError) as error:
