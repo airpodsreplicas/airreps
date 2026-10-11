@@ -32,7 +32,7 @@ Repliki AirPods 3 oferują dopasowanie typu stem bez ANC. Porównaj dostępne we
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v12">Strona</a>
+        <span class="unavailable-link">Strona niedostępna</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>

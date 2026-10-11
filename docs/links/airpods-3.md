@@ -33,7 +33,7 @@ AirPods 3 replicas give you the stem-style fit without ANC. Compare the availabl
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v12">Website</a>
+        <span class="unavailable-link">Website unavailable</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
