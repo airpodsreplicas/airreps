@@ -44,13 +44,15 @@ class Handler(BaseHTTPRequestHandler):
             "/missing": (404, "Not found"),
             "/gone": (410, "Gone"),
             "/soft-missing": (200, "Page not found – Seller"),
+            "/sold-out": (200, "Pro 2 V5.3 Huilian – HiCity"),
             "/challenge": (200, "Just a moment..."),
             "/blocked": (403, "Forbidden"),
             "/limited": (429, "Too many requests"),
             "/unavailable": (503, "Unavailable"),
             "/flaky": (503, "Unavailable") if self.calls[self.path] < 2 else (200, "Product"),
         }[self.path]
-        body = f"<html><head><title>{title}</title></head><body>Shop</body></html>".encode()
+        stock = '<p class="stock out-of-stock">Out of stock</p>' if self.path == "/sold-out" else ""
+        body = f"<html><head><title>{title}</title></head><body>Shop{stock}</body></html>".encode()
         self.send_response(status)
         self.send_header("Content-Type", "text/html; charset=utf-8")
         self.send_header("Content-Length", str(len(body)))
@@ -132,7 +134,7 @@ class SellerLinkTests(unittest.TestCase):
 
     def test_missing_pages_blocks_and_persistent_errors_remain_distinct(self):
         for path, state in {"/missing": "broken", "/gone": "broken", "/soft-missing": "broken",
-                            "/challenge": "blocked", "/blocked": "blocked", "/limited": "blocked",
+                            "/sold-out": "broken", "/challenge": "blocked", "/blocked": "blocked", "/limited": "blocked",
                             "/unavailable": "unreachable"}.items():
             with self.subTest(path=path):
                 result = self.check(path)
