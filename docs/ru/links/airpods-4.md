@@ -37,17 +37,6 @@ description: Надёжные ссылки продавцов и вариант�
       </div>
     </td>
   </tr>
-   <tr>
-    <td><span class="version-badge">V2 HR</span></td>
-         <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hc4v2hr">Сайт</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
-    <td style="text-align: center;">-</td>
-  </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>
     <td>

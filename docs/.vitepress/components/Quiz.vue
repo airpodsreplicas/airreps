@@ -1016,7 +1016,6 @@ const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: 
     'pro2-v5.3-huilian': {
         earhive: 'https://airreps.link/eprov53hl',
         jenny: 'https://airreps.link/jprov53hl',
-        hicity: 'https://airreps.link/hcprov53hl',
     },
     'pro3-v7-huilian': {
         earhive: 'https://airreps.link/eprov7hl',
