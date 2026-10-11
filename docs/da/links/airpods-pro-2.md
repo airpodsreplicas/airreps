@@ -74,12 +74,7 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
         <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/hcprov53hl">Hjemmeside</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
+    <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/jprov53hl">Hjemmeside</a>
