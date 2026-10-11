@@ -32,7 +32,7 @@ description: Надежные ссылки продавцов и вариант�
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v12">Сайт</a>
+        <span class="unavailable-link">Сайт недоступен</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>

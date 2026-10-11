@@ -32,7 +32,7 @@ AirPods 3-Kopien bieten dir die Stielform ohne ANC. Vergleiche die verfügbaren 
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/j3v12">Webseite</a>
+        <span class="unavailable-link">Webseite nicht verfügbar</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
