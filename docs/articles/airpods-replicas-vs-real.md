@@ -1,6 +1,6 @@
 ---
 title: "Replica AirPods vs Real AirPods: An Honest Comparison"
-description: "Replica AirPods vs real AirPods compared honestly — which features actually work on clones, what's genuinely missing, and how to decide which to buy."
+description: "Replica vs real AirPods, compared honestly: which features work on clones, what's missing, and which to buy."
 category: "Comparison"
 order: 3
 ---

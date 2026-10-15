@@ -1,6 +1,6 @@
 ---
 title: "How to Tell if AirPods Are Fake: 10 Checks That Actually Work"
-description: "Bought AirPods second-hand or from a sketchy store? Here's how to tell if AirPods are fake — serial numbers, firmware, packaging, and the checks that actually catch clones."
+description: 'How to tell if AirPods are fake: serial numbers, firmware, packaging and the checks that actually catch clones.'
 category: "Fake vs real"
 order: 1
 ---

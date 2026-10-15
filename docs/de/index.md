@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'AirPods-Kopien: Vertrauenswürdige Verkäufer & Versionsleitfaden'
-description: 'Der Community-Leitfaden von AirReps zu AirPods-Kopien – auch bekannt als gefälschte AirPods oder AirPods-Klone. Finde vertrauenswürdige Verkäufer, Versionsvergleiche und ehrliche Bewertungen.'
+description: 'Der AirReps-Leitfaden zu AirPods-Kopien: vertrauenswürdige Verkäufer, Versionsvergleiche und ehrliche Bewertungen.'
 articlesHeading: Anleitungen & Artikel
 articlesSubtitle: 'Klare Antworten zum Erkennen von Fälschungen, zur Auswahl einer Version und zum sicheren Kaufen – von der Community, die diese Geräte täglich testet.'
 articlesAllLabel: Alle Artikel

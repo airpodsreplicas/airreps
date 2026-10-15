@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'AirPods-kopier: Pålidelige sælgere og versionsguide'
-description: 'AirReps-fællesskabets guide til AirPods-kopier — også kendt som falske AirPods eller AirPods-kloner. Find pålidelige sælgere, versionssammenligninger og ærlige anmeldelser.'
+description: 'AirReps-guiden til AirPods-kopier: pålidelige sælgere, versionssammenligninger og ærlige anmeldelser.'
 articlesHeading: Guides og artikler
 articlesSubtitle: 'Få klare svar på, hvordan du opdager kopier, vælger en version og handler sikkert — fra fællesskabet, der tester disse enheder hver dag.'
 articlesAllLabel: Alle artikler

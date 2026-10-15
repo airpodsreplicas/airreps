@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'AirPods Replikaları: Güvenilir Satıcılar ve Sürüm Rehberi'
-description: 'AirReps topluluğunun AirPods replikaları — sahte AirPods veya AirPods klonları olarak da bilinir — rehberi. Güvenilir satıcıları, sürüm karşılaştırmalarını ve dürüst incelemeleri bulun.'
+description: 'AirReps AirPods replika rehberi: güvenilir satıcılar, sürüm karşılaştırmaları ve dürüst incelemeler.'
 articlesHeading: Rehberler ve makaleler
 articlesSubtitle: 'Sahte ürünleri tespit etme, bir sürüm seçme ve güvenle satın alma konusunda doğrudan yanıtlar — bu ürünleri her gün test eden topluluktan.'
 articlesAllLabel: Tüm makaleler

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'Repliki AirPods: zaufani sprzedawcy i przewodnik po wersjach'
-description: 'Przewodnik społeczności AirReps po replikach AirPods — znanych również jako podróbki AirPods lub klony AirPods. Znajdź zaufanych sprzedawców, porównania wersji i szczere recenzje.'
+description: 'Przewodnik AirReps po replikach AirPods: zaufani sprzedawcy, porównania wersji i szczere recenzje.'
 articlesHeading: Poradniki i artykuły
 articlesSubtitle: 'Konkretne odpowiedzi na pytania dotyczące rozpoznawania podróbek, wyboru wersji i bezpiecznych zakupów — od społeczności, która codziennie testuje te urządzenia.'
 articlesAllLabel: Wszystkie artykuły
