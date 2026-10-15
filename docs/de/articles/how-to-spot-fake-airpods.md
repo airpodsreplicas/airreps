@@ -1,108 +1,108 @@
 ---
-title: 'Woran du erkennst, ob AirPods gefälscht sind: 10 Prüfungen, die wirklich funktionieren'
-description: 'Du hast AirPods gebraucht oder in einem dubiosen Geschäft gekauft? So erkennst du, ob AirPods gefälscht sind — Seriennummern, Firmware, Verpackung und die Prüfungen, mit denen sich Klone tatsächlich entlarven lassen.'
-category: Fake vs. echt
+title: 'So erkennen Sie gefälschte AirPods: 10 Prüfungen, die wirklich funktionieren'
+description: 'So erkennen Sie gefälschte AirPods: Seriennummern, Firmware, Verpackung und Prüfungen, mit denen sich Klone tatsächlich entlarven lassen.'
+category: Fälschung vs. Original
 order: 1
 ---
-# So erkennst du gefälschte AirPods
+# So erkennst du, ob AirPods gefälscht sind
 
-Gefälschte AirPods (Nachbildungen) sind ziemlich gut geworden – die besten Klone haben funktionierendes ANC, 3D-Audio und das iOS-Popup. Das bedeutet auch, dass alte Ratschläge wie „Fälschungen fühlen sich billig an“ oder „Das Popup verrät sie“ inzwischen nicht mehr ausreichen. Hier erfährst du, was tatsächlich funktioniert – geordnet von der schnellsten bis zur zuverlässigsten Methode.
+Gefälschte AirPods (Nachbildungen) sind inzwischen ziemlich gut — die besten Klone haben funktionierendes ANC, Spatial Audio und das iOS-Popup. Deshalb reichen die alten Ratschläge wie „Fälschungen fühlen sich billig an“ oder „am Popup erkennt man sie“ nicht mehr aus. Hier erfährst du, was tatsächlich funktioniert — vom schnellsten bis zum eindeutigsten Test.
 
-> **Kurzantwort:** Die schnellste und zuverlässigste Methode, gefälschte AirPods zu erkennen, ist die Überprüfung von Apples **Find-My-Netzwerk** (kein Klon verbindet sich unabhängig vom Preis mit der nativen Find-My-Ortung), der Abgleich der Seriennummer unter **Einstellungen → Allgemein → Info** mit dem winzigen Text im Inneren des Deckels oder die Verbindung mit Community-Apps zur Chip-Erkennung wie **FlyCC** oder **CloudCC** (auf die echte AirPods überhaupt nicht reagieren).
+> **Kurzantwort:** Am schnellsten und zuverlässigsten erkennst du gefälschte AirPods, indem du das **„Wo ist?“-Netzwerk von Apple** überprüfst (kein Klon kann sich unabhängig vom Preis mit der nativen „Wo ist?“-Ortung verbinden), die Seriennummer unter **Einstellungen → Allgemein → Info** mit dem winzigen Aufdruck im Deckel vergleichst oder eine Community-App zur Chiperkennung wie **FlyCC** oder **CloudCC** ausprobierst (echte AirPods reagieren überhaupt nicht auf diese Apps).
 
-::: tip Aus zweiter Hand gekauft?
-Hier werden die meisten Leute übers Ohr gehauen: Das Angebot sah echt aus, die Verpackung sah echt aus und der Preis war „zu gut, um ihn abzulehnen“. Führe die folgenden Prüfungen **durch, bevor Geld den Besitzer wechselt** – oder kaufe stattdessen bei einem [geprüften Verkäufer](/de/links/info) und erspare dir das Rätselraten.
+::: tip Gebraucht gekauft?
+Hier werden die meisten übers Ohr gehauen: Das Angebot sah echt aus, die Verpackung sah echt aus und der Preis war „zu gut, um ihn abzulehnen“. Führe die folgenden Prüfungen **durch, bevor das Geld den Besitzer wechselt** — oder kaufe stattdessen bei einem [verifizierten Verkäufer](/de/links/info) und erspare dir das Rätselraten.
 :::
 
 ## Die 10 Prüfungen
 
-### 1. Überprüfe die Seite „Info“ in den Einstellungen
+### 1. Prüfe die Seite „Info“ in den Einstellungen
 
-Verbinde die AirPods mit einem iPhone und gehe dann zu **Einstellungen → Allgemein → Info**. Wenn ein echtes Paar verbunden ist, erscheint beim Herunterscrollen ein **AirPods-Bereich**. Kein AirPods-Bereich? Dann hältst du mit ziemlicher Sicherheit eine Fälschung in der Hand.
+Verbinde die AirPods mit einem iPhone und gehe dann zu **Einstellungen → Allgemein → Info**. Wenn echte AirPods verbunden sind, erscheint beim Scrollen ein eigener **AirPods-Abschnitt**. Kein AirPods-Abschnitt? Dann hast du mit ziemlicher Sicherheit eine Fälschung in der Hand.
 
 ### 2. Vergleiche die Seriennummern
 
-Überprüfe auf derselben Info-Seite die dort angezeigte Seriennummer mit der Seriennummer, die auf der Innenseite des Deckels des Ladecase aufgedruckt ist ([hier findest du sie](https://airreps.info/aboutsection)). Bei echten AirPods stimmen sie überein. Eine Abweichung ist eines der eindeutigsten Anzeichen für eine Fälschung.
+Vergleiche auf derselben Seite „Info“ die angezeigte Seriennummer mit der Seriennummer auf der Innenseite des Ladecase-Deckels ([hier findest du sie](https://airreps.info/aboutsection)). Bei echten AirPods stimmen sie überein. Eine Abweichung ist eines der eindeutigsten Fälschungsmerkmale überhaupt.
 
-### 3. Überprüfe die Firmware-Version
+### 3. Prüfe die Firmwareversion
 
-Sieh auf der Info-Seite nach der Firmware-Version und vergleiche sie mit der neuesten Version, die Apple für dieses Modell veröffentlicht hat. Nachbildungen erhalten keine Apple-Firmware – eine veraltete oder ungewöhnlich nummerierte Firmware ist ein Warnsignal. (Eine Nachbildung kann *aktualisiert* werden, aber nur mit Community-[Firmware-Apps](/de/useful-apps), niemals über Apple.)
+Sieh dir auf der Seite „Info“ auch die Firmwareversion an und vergleiche sie mit der neuesten Version, die Apple für dieses Modell veröffentlicht hat. Nachbildungen erhalten keine Apple-Firmware — eine veraltete oder ungewöhnlich nummerierte Firmware ist ein Warnsignal. (Eine Nachbildung lässt sich zwar *aktualisieren*, aber nur mit Community-[Firmware-Apps](/de/useful-apps), niemals über Apple.)
 
-### 4. Teste 3D-Audio und die Kopfverfolgung
+### 4. Teste Spatial Audio und die Kopfbewegungserkennung
 
-Einige neuere Nachbildungen haben eine funktionierende „Info“-Seite, wodurch die Prüfungen 1–3 nicht mehr ausreichen. Hier kommt der Funktionstest ins Spiel: Spiele etwas mit 3D-Audio ab und drehe deinen Kopf. Die echte Kopfverfolgung reagiert natürlich; viele Klone setzen sie nicht richtig um. Dies ist auch der schnellste Weg, einen hochwertigen Klon zu erkennen – wichtig, wenn du aus zweiter Hand kaufst und wissen möchtest, *was* du bekommst, nicht nur, *ob* es eine Fälschung ist.
+Manche neueren Nachbildungen haben eine funktionierende Seite „Info“, wodurch die Prüfungen 1–3 nicht mehr ausreichen. Hier hilft ein Funktionstest: Spiele etwas mit Spatial Audio ab und drehe den Kopf. Die Kopfbewegungserkennung echter AirPods reagiert natürlich; viele Klone setzen sie nicht richtig um. Das ist auch der schnellste Weg, einen hochwertigen Klon zu erkennen — wichtig, wenn du gebraucht kaufst und wissen willst, *was* du bekommst und nicht nur, *ob* es eine Fälschung ist.
 
-### 5. Probiere „Find My“ aus
+### 5. Probiere „Wo ist?“ aus
 
-Jede auf dem Markt erhältliche AirPods-Nachbildung unterstützt Apples **Find-My-Netzwerk** nicht – es ist die eine Funktion, die die Community noch nicht geknackt hat. Wenn „Find My“ die Ohrhörer in Apples Netzwerk anzeigt, sind sie echt. Behauptet der Verkäufer etwas anderes, liegt er falsch oder lügt.
+Allen AirPods-Nachbildungen auf dem Markt fehlt Apples **„Wo ist?“-Netzwerk** — das ist die eine Funktion, die die Community noch nicht geknackt hat. Werden die Ohrhörer im Netzwerk von Apple unter „Wo ist?“ angezeigt, sind sie echt. Behauptet der Verkäufer das Gegenteil, liegt er falsch oder lügt.
 
 ### 6. Setze den Preis in Relation zur Realität
 
-Echte AirPods Pro kosten mindestens 150 $ (bei der Markteinführung oft 249 $). Nachbildungen von vertrauenswürdigen Verkäufern kosten ungefähr 26 $ für ein einfaches Paar bis 126 $ für eine Over-Ear-[AirPods-Max-Nachbildung](/de/version-info/airpods-max). „Brandneue, versiegelte AirPods Pro“ für 60 $ von einem Fremden im Internet sind kein Schnäppchen – sondern ein Klon oder Betrug. Prüfung 10 weiter unten erklärt, warum selbst eine perfekt aussehende Verpackung nichts beweist.
+Echte AirPods Pro kosten mindestens 150 $ (bei Markteinführung oft 249 $). Nachbildungen von vertrauenswürdigen Verkäufern kosten ungefähr 26 $ für ein einfaches Paar bis 126 $ für eine Over-Ear-[AirPods-Max-Nachbildung](/de/version-info/airpods-max). „Brandneue, versiegelte AirPods Pro“ für 60 $ von einer unbekannten Person im Internet sind kein Schnäppchen — sondern ein Klon oder Betrug. Unter Punkt 10 erfährst du, warum selbst eine perfekt aussehende Verpackung nichts beweist.
 
-### 7. Untersuche die Verpackung – aber kenne ihre Grenzen
+### 7. Prüfe die Verpackung — aber beachte ihre Grenzen
 
-Originalverpackungen sind hochwertig: korrekt geprägter Text, ausgerichtete Etiketten und Seriennummern auf der Anleitung. Schlampiger Druck, fehlende Seriennummern oder generische Kabel sind Anzeichen für eine Fälschung. Aber sei vorsichtig, wenn du zu viel in eine *perfekte* Verpackung hineininterpretierst: Nachbildungen werden ebenfalls in Kartons mit Apple-Logo verschickt, und Verkäufer verstecken sie häufig in einem generischen Tarnkarton, damit sie den Zoll passieren.
+Originalverpackungen sind hochwertig verarbeitet: der Text ist korrekt geprägt, die Etiketten sind ausgerichtet und die Seriennummern stehen in der Anleitung. Schlampiger Druck, fehlende Seriennummern oder generische Kabel sind Hinweise auf eine Fälschung. Aber ziehe aus einer *perfekten* Verpackung nicht zu viele Schlüsse: Nachbildungen werden ebenfalls in Kartons mit Apple-Logo versandt, und Verkäufer verstecken diese oft in einem unauffälligen Zweitkarton, damit sie beim Zoll nicht auffallen.
 
 <div class="box-gallery">
   <figure>
-    <img src="/nologobox.webp" alt="AirPods-Nachbildung ohne Logo" width="300" height="400"/>
-    <figcaption>Karton ohne Logo</figcaption>
+    <img src="/nologobox.webp" alt="AirPods-Nachbildung in einer Schachtel ohne Logo" width="300" height="400"/>
+    <figcaption>Schachtel ohne Logo</figcaption>
   </figure>
   <figure>
-    <img src="/applebox.webp" alt="AirPods-Nachbildung in einem Karton mit Apple-Logo" width="300" height="400"/>
-    <figcaption>Karton mit Apple-Logo</figcaption>
+    <img src="/applebox.webp" alt="AirPods-Nachbildung in einer Schachtel mit Apple-Logo" width="300" height="400"/>
+    <figcaption>Schachtel mit Apple-Logo</figcaption>
   </figure>
   <figure>
-    <img src="/doublebox.webp" alt="Doppelter oder Tarnkarton mit verstecktem Karton mit Apple-Logo" width="300" height="400"/>
-    <figcaption>Doppelter / Tarnkarton</figcaption>
+    <img src="/doublebox.webp" alt="Doppel- oder Tarnkarton mit einer darin versteckten Schachtel mit Apple-Logo" width="300" height="400"/>
+    <figcaption>Doppel- / Tarnkarton</figcaption>
   </figure>
 </div>
 
-Alle drei sind Verpackungen für Nachbildungen – der Karton zeigt dir, was der Verkäufer dich sehen lassen wollte, nicht, ob die AirPods echt sind. Unser [Verpackungsratgeber](/de/introduction/packaging) behandelt jeden Kartontyp ausführlich.
+Alle drei Verpackungen gehören zu Nachbildungen — die Schachtel verrät dir, was der Verkäufer zeigen wollte, nicht, ob die AirPods echt sind. Unser [Verpackungsratgeber](/de/introduction/packaging) beschreibt alle Schachteltypen im Detail.
 
-### 8. Probiere die Community-Apps zur Chip-Erkennung aus
+### 8. Probiere die Community-Apps zur Chiperkennung aus
 
-Die Community pflegt [kostenlose Dienstprogramme](/de/useful-apps), die erkennen, welchen Chip deine AirPods verwenden: **FlyCC** (erkennt Airoha-1562AE/E-Chipsätze), **CloudCC** (Tigerbuilder/Airoha) und **Starfun** (Huilian 247). Installiere sie auf einem Android-Telefon oder Mac und sieh, welche App eine Verbindung herstellt. Echte Apple AirPods reagieren auf keines dieser Dienstprogramme von Drittanbietern. Eine Einschränkung: Klone der untersten Preisklasse verwenden einen günstigen Jieli-(Jerry-)Chipsatz, der diese Apps ebenfalls ignoriert. „Keine App verbindet sich“ bedeutet daher entweder billige Fälschung *oder* echtes Produkt – niemals sicher ein Original.
+Die Community pflegt [kostenlose Hilfs-Apps](/de/useful-apps), mit denen du herausfinden kannst, welcher Chip in deinen AirPods steckt: **FlyCC** (erkennt Airoha-1562AE/E-Chipsätze), **CloudCC** (Tigerbuilder/Airoha) und **Starfun** (Huilian 247). Installiere sie auf einem Android-Smartphone oder Mac und prüfe, welche App eine Verbindung herstellt. Echte Apple AirPods reagieren auf keines dieser Drittanbieterprogramme. Ein Vorbehalt: Billigste Klone verwenden einen günstigen Jieli- (Jerry-)Chipsatz, der diese Apps ebenfalls ignoriert. „Keine App stellt eine Verbindung her“ bedeutet also entweder billige Fälschung *oder* echte AirPods — aber beweist niemals zweifelsfrei, dass sie echt sind.
 
 ### 9. Ignoriere die Schlagwörter
 
-„i9999“, „Superpods“, „AirPods Pro 3 Super Copy“ – diese Namen signalisierten früher Verbesserungen, aber Verkäufer kleben sie inzwischen auf dieselben alten Produkte, damit sie neuer klingen, als sie sind. Die Namen haben keinerlei Bedeutung. Beurteile die tatsächlichen Funktionen oder kaufe besser eine Version, die von Leuten geprüft wurde, die dies täglich testen.
+„i9999“, „Superpods“, „AirPods Pro 3 Super Copy“ — früher deuteten diese Namen auf Verbesserungen hin, aber inzwischen kleben Verkäufer sie auf dieselben alten Produkte, damit sie neuer wirken. Die Namen bedeuten nichts. Beurteile die tatsächlichen Funktionen oder — noch besser — kaufe eine Version, die von Leuten überprüft wurde, die sie täglich testen.
 
-### 10. Frage die Community
+### 10. Frag die Community
 
-Noch unsicher? Poste auf [r/AirReps](https://www.reddit.com/r/AirReps/) oder tritt dem [Discord](https://airreps.link/discord) bei – die Leute erkennen Klone den ganzen Tag anhand eines einzigen QC-Fotos. Das ist kostenlos und schneller als jede Website zur Seriennummernprüfung.
+Immer noch unsicher? Poste auf [r/AirReps](https://www.reddit.com/r/AirReps/) oder tritt dem [Discord-Server](https://airreps.link/discord) bei — die Leute dort erkennen täglich Klone anhand eines einzigen QC-Fotos. Das ist kostenlos und geht schneller als jede Website zur Seriennummernprüfung.
 
 ::: warning
-Keine einzelne Prüfung ist endgültig – die besten Klone bestehen mehrere davon. Wenn du ein gebrauchtes Paar überprüft hast, weißt du jetzt genau, was es ist: kein Betrug, sondern eine Nachbildung. Ob das ein Problem ist, hängt vom Preis ab, den du dafür bezahlt hast.
+Keine einzelne Prüfung ist eindeutig — die besten Klone bestehen mehrere davon. Wenn du ein gebrauchtes Paar überprüft hast, weißt du jetzt genau, was es ist: kein Betrug, sondern eine Nachbildung. Ob das ein Problem ist, hängt davon ab, wie viel du dafür bezahlt hast.
 :::
 
 ## Wenn du absichtlich echte Nachbildungen möchtest
 
-Viele Leute führen diese Prüfungen umgekehrt durch – sie *wollen* den Klon und möchten nur nicht von einem zufälligen Wiederverkäufer betrogen werden. Der sichere Weg ist, bei einem von der Community geprüften Verkäufer zu kaufen, bei dem du genau weißt, welche [Version](/de/version-info/general) du bekommst:
+Viele Leute führen diese Prüfungen genau umgekehrt durch — sie *wollen* einen Klon und möchten nur nicht von einem beliebigen Wiederverkäufer betrogen werden. Sicher kaufst du bei einem Verkäufer, den die Community verifiziert hat und bei dem du genau weißt, welche [Version](/de/version-info/general) du bekommst:
 
-- Durchsuche das [Verzeichnis vertrauenswürdiger Verkäufer](/de/links/info) mit aktuellen Preisen pro Modell
-- Mache das [Quiz](/de/quiz), um eine Empfehlung für dein Budget zu erhalten
-- Lies [So kaufst du](/de/ordering/how-to-buy) für Zahlungsmethoden und Versand
-- Vergleiche [AirPods-Nachbildungen mit echten AirPods](/de/articles/airpods-replicas-vs-real) für eine ehrliche Übersicht der Funktionen
-- Sieh dir [Die besten AirPods-Nachbildungen unter 50 $](/de/articles/best-airpods-replicas-under-50) für Empfehlungen im niedrigen Preisbereich an
-- Lies [Können andere erkennen, dass deine AirPods gefälscht sind?](/de/articles/can-people-tell-airpods-are-fake), um zu erfahren, was im täglichen Gebrauch auffällt
-- Wenn du ein fehlerhaftes Paar testest, befolge [So setzt du gefälschte AirPods zurück](/de/articles/how-to-reset-fake-airpods), um den gespeicherten Zustand zu löschen
+- Durchsuche das [Verzeichnis vertrauenswürdiger Verkäufer](/de/links/info) mit aktuellen Preisen für jedes Modell
+- Mach das [Quiz](/de/quiz) und finde ein Modell, das zu deinem Budget passt
+- Lies [So kaufst du ein](/de/ordering/how-to-buy), um mehr über Zahlungsmethoden und Versand zu erfahren
+- Vergleiche [AirPods-Nachbildungen und echte AirPods](/de/articles/airpods-replicas-vs-real) anhand einer ehrlichen Aufschlüsselung der Funktionen
+- Sieh dir [Die besten AirPods-Nachbildungen unter 50 $](/de/articles/best-airpods-replicas-under-50) an, wenn du ein günstiges Modell suchst
+- Lies [Erkennen andere, dass deine AirPods gefälscht sind?](/de/articles/can-people-tell-airpods-are-fake), um zu erfahren, was im Alltag auffällt
+- Wenn du ein fehlerhaftes Paar testest, folge der Anleitung [Gefälschte AirPods zurücksetzen](/de/articles/how-to-reset-fake-airpods), um gespeicherte Zustände zu löschen
 
-## FAQ
+## Häufig gestellte Fragen
 
 ::: details Können gefälschte AirPods eine funktionierende Seriennummer haben?
-Ja – gute Nachbildungen zeigen eine Seriennummer auf der iOS-Info-Seite an. Deshalb ist Prüfung 2 wichtig: Bei echten AirPods stimmt die Seriennummer auf der Info-Seite mit der im Deckel überein, während sie bei Klonen normalerweise nicht übereinstimmt. Einige Klone kopieren inzwischen auch das, daher solltest du mehrere Prüfungen kombinieren und dich nicht auf eine einzige verlassen.
+Ja — gute Nachbildungen zeigen auf der iOS-Infoseite eine Seriennummer an. Deshalb ist Prüfung 2 wichtig: Bei echten AirPods stimmt die Seriennummer auf der Infoseite mit der im Deckel überein, bei Klonen normalerweise nicht. Manche Klone können inzwischen auch das nachahmen. Verlasse dich deshalb auf mehrere Prüfungen statt nur auf eine.
 :::
 
 ::: details Zeigen gefälschte AirPods das iOS-Popup an?
-Nachbildungen höherer Versionen zeigen das iOS-Popup tatsächlich an, manchmal sogar schneller als echte AirPods. Das Popup allein beweist in keine Richtung etwas.
+Höherwertige Nachbildungen zeigen das iOS-Popup an, manchmal sogar schneller als echte AirPods. Das Popup allein beweist weder das eine noch das andere.
 :::
 
 ::: details Sind gefälschte AirPods gefährlich?
-Der Betrug ist das größere Risiko als die Hardware: einen Originalpreis für einen Klon zu bezahlen oder dass ein Paket wegen eines Kartons mit Apple-Logo beim Zoll beschlagnahmt wird. Was die Hardware betrifft, sind die Chipsätze seriöser Klone nicht riskanter als die anderer nicht markengebundener Ohrhörer. Kaufe bei [geprüften Verkäufern](/de/links/info), dann vermeidest du die meisten dieser beiden Probleme.
+Das größere Risiko ist der Betrug, nicht die Hardware: den Originalpreis für einen Klon zu bezahlen oder dass ein Paket wegen einer Schachtel mit Apple-Logo beim Zoll beschlagnahmt wird. Was die Hardware angeht, sind Chipsätze renommierter Klone nicht riskanter als andere Ohrhörer ohne Markenkennzeichnung. Kaufe bei [verifizierten Verkäufern](/de/links/info), dann vermeidest du die meisten dieser Probleme.
 :::
 
-::: details Wie kann ich ohne iPhone überprüfen, ob meine AirPods gefälscht sind?
-Ohne iOS ist es schwieriger – für die Prüfungen der Info-Seite und der Firmware brauchst du ein iPhone. Unter Android kannst du die Community-[Apps zur Chip-Erkennung](/de/useful-apps) ausprobieren: Echte AirPods verbinden sich mit keiner davon, und die billigsten Klone ebenfalls nicht. Eine physische Untersuchung und ein realistischer Preis (Prüfung 6) funktionieren weiterhin überall.
+::: details Wie prüfe ich ohne iPhone, ob meine AirPods gefälscht sind?
+Ohne iOS ist es schwieriger — für die Prüfungen auf der Infoseite und zur Firmware brauchst du ein iPhone. Auf Android kannst du die Community-[Apps zur Chiperkennung](/de/useful-apps) ausprobieren: Echte AirPods verbinden sich mit keiner davon, die billigsten Klone allerdings auch nicht. Eine Sichtprüfung und ein Realitätscheck des Preises (Prüfung 6) funktionieren überall.
 :::

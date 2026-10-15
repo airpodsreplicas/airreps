@@ -1,65 +1,65 @@
 ---
-title: 'Replika AirPods vs Gerçek AirPods: Dürüst Bir Karşılaştırma'
-description: 'Replika AirPods ile gerçek AirPods dürüstçe karşılaştırıldı — klonlarda hangi özellikler gerçekten çalışıyor, hangileri gerçekten eksik ve hangisini alacağınıza nasıl karar verebilirsiniz.'
+title: 'Replika AirPods ve Gerçek AirPods: Dürüst Bir Karşılaştırma'
+description: 'Replika AirPods ile gerçek AirPods''u dürüstçe karşılaştırıyoruz: Klonlarda hangi özellikler çalışıyor, neler eksik ve hangisini satın almalısınız?'
 category: Karşılaştırma
 order: 3
 ---
-# Replika AirPods ve Gerçek AirPods: Dürüst Bir Karşılaştırma
+# Sahte AirPods ile Gerçek AirPods: Dürüst Bir Karşılaştırma
 
-Replikalar, artık dürüstçe sorulması gereken sorunun “çalışıyorlar mı?” değil, “deneyimin hangi kısımlarını kopyalıyorlar ve hangi kısımlarını kopyalayamıyorlar?” olduğu noktaya ulaştı. Her ikisini de günlük olarak satın alıp test eden bir topluluktan, özellik özellik doğrudan yanıt.
+Sahte ürünler öyle bir noktaya geldi ki asıl soru artık “çalışıyorlar mı?” değil — “deneyimin hangi kısımlarını taklit ediyorlar, hangilerini edemiyorlar?” Hem sahtelerini hem gerçeklerini her gün satın alıp test eden bir topluluktan, özellik özellik açık yanıt.
 
-> **Kısa yanıt:** Üst düzey AirPods replikaları (Pro 2 V5.4 Huilian veya V5.3TB gibi), orijinal AirPods deneyiminin yaklaşık %85–90’ını fiyatın %20–25’i karşılığında ($50–$60’a karşı $249) sunuyor. Dış ölçülerde, anlık iOS eşleştirme pencerelerinde, dokunma/kaydırma hareketlerinde ve etkili ~35–38dB ANC’de Apple’a yetişiyorlar. Kalıcı tavizler ise Apple’ın Find My ağının tamamen bulunmaması, gerçek anlamda kesintisiz çoklu cihaz iCloud geçişi ve resmî Apple Store garanti desteğinin olmaması.
+> **Kısa yanıt:** Üst düzey AirPods sahteleri (Pro 2 V5.4 Huilian veya V5.3TB gibi), fiyatın %20–25’ine ($50–$60’a karşı $249) gerçek AirPods deneyiminin yaklaşık %85–90’ını sunuyor. Dış boyutlarda, anında açılan iOS eşleştirme pencerelerinde, dokunma/kaydırma hareketlerinde ve etkili yaklaşık 35–38 dB ANC’de Apple’la yarışıyorlar. Kalıcı eksiklikler ise Apple’ın Bul ağının tamamen bulunmaması, iCloud üzerinden cihazlar arasında gerçekten sorunsuz geçiş yapılamaması ve resmî Apple Store garanti desteğinin olmaması.
 
 ## Fiyat farkı
 
-Orijinal AirPods yaklaşık $150’dan başlıyor ve Pro modelleri bunun oldukça üzerinde fiyatlanıyor. [Güvenilir satıcılardan](/tr/links/info) alınabilen replikalar ise aynı ürün gamını yaklaşık $26’dan (AirPods 2) $126’ya (AirPods Max) kadar kapsıyor; amiral gemisi Pro sürümleri yaklaşık $50–67 civarında. Tüm fikir tek cümlede özetlenebilir: aşağıda listelenen eksikleri kabul ettiğiniz sürece, fiyatın çok küçük bir kısmı karşılığında 3–4 yıllık kullanım ömrü.
+Orijinal AirPods yaklaşık $150’dan başlıyor, Pro modellerin fiyatı ise bunun çok üstünde. [Güvenilir satıcılardaki](/tr/links/info) sahteler, aynı ürün yelpazesini yaklaşık $26’dan (AirPods 2) $126’ya (AirPods Max) kadar sunuyor; amiral gemisi Pro sürümlerin fiyatı ise yaklaşık $50–67. Tüm avantajı tek cümlede özetlemek gerekirse: aşağıda listelenen eksiklikleri kabul ettiğiniz sürece, fiyatın çok küçük bir kısmına 3–4 yıl kullanabileceğiniz bir ürün.
 
-## Replikaların doğru yaptığı şeyler
+## Sahtelerin iyi yaptığı şeyler
 
-- **ANC ve şeffaflık.** Güncel sürümlerde gürültü engelleme gerçek ürüne oldukça yakın — ilk nesil Pro replikasının bile 1:1’e “oldukça yakın” olduğu söyleniyor ve yeni çipler bu durumu geliştirmeye devam ediyor. Nasıl çalıştığını [ANC açıklamamızda](/tr/introduction/anc-explained) ele alıyoruz.
-- **iOS deneyimi.** Eşleştirme penceresi neredeyse anında beliriyor — bazen orijinal AirPods’tan bile daha hızlı. İsim değiştirme, GPS gösterimi ve yapılandırılabilir dokunma kontrollerinin tümü iPhone’da çalışıyor.
-- **Ses.** Bunu “replika” etiketi değil, çipset kalitesi daha çok belirliyor. Üst sürümler gerçekten oldukça yakın; [ses kalitesi](/tr/introduction/sound-quality) sayfamız ayrıntıları açıklıyor ve topluluğun [firmware uygulamaları](/tr/useful-apps) bunun üzerine EQ ayarı ekliyor.
-- **Günlük kullanım özellikleri.** Menzil (~10 metre), gecikme (bazen orijinalden *daha iyi*), yapı kalitesi ve [pil ömrü](/tr/introduction/battery-life), güncel sürümlerde orijinal seviyesinde veya buna oldukça yakın.
+- **ANC ve şeffaflık modu.** Güncel sürümlerde gürültü engelleme gerçek ürününkine yakın — ilk nesil Pro sahtesi bile şimdiden 1:1’e “oldukça yakın” diye tanımlanıyor ve yeni çipler bunu daha da iyileştiriyor. Nasıl çalıştığını [ANC açıklayıcımızda](/tr/introduction/anc-explained) ele alıyoruz.
+- **iOS deneyimi.** Eşleştirme penceresi neredeyse anında beliriyor — bazen orijinal AirPods’tan bile daha hızlı. Ad değiştirme, GPS görüntüleme ve özelleştirilebilir dokunma kontrollerinin tümü iPhone’da çalışıyor.
+- **Ses.** Ses kalitesini “sahte” etiketi değil, çipsetin kalitesi belirliyor. Üst düzey sürümler gerçekten yakın sonuç veriyor; [ses kalitesi](/tr/introduction/sound-quality) sayfamız ayrıntıları açıklıyor, topluluğun [yazılım uygulamaları](/tr/useful-apps) da üzerine EQ ayarı ekliyor.
+- **Günlük kullanım.** Menzil (yaklaşık 10 metre), gecikme (bazen orijinallerden *daha iyi*), üretim kalitesi ve [pil ömrü](/tr/introduction/battery-life), güncel sürümlerde orijinal düzeyinde ya da buna çok yakın.
 
-## Replikaların gerçekten yapamadığı şeyler
+## Sahtelerin gerçekten yapamadığı şeyler
 
-- **Find My ağı.** Hiçbir replikada, hiçbir fiyata bulunmayan tek özellik. Kayıp kulaklıkları Apple’ın ağı üzerinden takip etmek sizin için önemliyse, orijinal AirPods satın almalısınız.
-- **Kusursuz Spatial Audio.** Güncel Pro 2 amiral gemisinde özellikle *kusursuz* Spatial Audio eksik — çalışıyor, ancak mağazadaki orijinal ürünle tamamen aynı değil.
-- **Tam ekosistem geçişi.** Yalnızca Huilian tabanlı modeller iCloud Connect üzerinden ve yalnızca Apple cihazları arasında çoklu cihaz geçişi yapabiliyor. AirPods Max replikasında da orijinal ürüne kıyasla çoklu cihaz bağlantısı ve ANC/şeffaflık iyileştirmelerinin bir kısmı bulunmuyor.
-- **Apple garantisi ve firmware.** Replikalar Apple firmware güncellemelerini veya servis desteğini alamıyor. Güncellemeler topluluğun [uygulamaları](/tr/useful-apps) üzerinden, destek ise satıcı ve topluluk tarafından sağlanıyor.
+- **Bul ağı.** Hiçbir sahtede, fiyatı ne olursa olsun, bulunmayan tek özellik. Kayıp kulaklıkları Apple ağı üzerinden takip etmek sizin için önemliyse, orijinal AirPods satın alın.
+- **Kusursuz Uzamsal Ses.** Mevcut Pro 2 amiral gemisi sürümünde özellikle *kusursuz* Uzamsal Ses eksik — özellik çalışıyor, ancak mağazadaki ürünle birebir aynı değil.
+- **Eksiksiz ekosistem geçişi.** Yalnızca Huilian tabanlı modeller, iCloud Connect üzerinden birden fazla cihaz arasında geçiş yapıyor ve bu geçiş yalnızca Apple cihazları arasında mümkün. AirPods Max sahtesi de mağazadaki ürüne kıyasla çoklu cihaz bağlantısından ve ANC/şeffaflık modundaki bazı iyileştirmelerden yoksun.
+- **Apple garantisi ve yazılımı.** Sahteler Apple yazılım güncellemelerini veya servis desteğini alamıyor. Güncellemeler topluluğun [uygulamaları](/tr/useful-apps) üzerinden, destek ise satıcıdan ve topluluktan geliyor.
 
-## Kimsenin bahsetmediği sorun: sürüm kalitesi
+## Kimsenin bahsetmediği pürüz: sürüm kalitesi
 
-“Replika ve gerçek” karşılaştırması, replika dünyasındaki en büyük fark için yanlış eksen — asıl mesele *sürüm ve sürüm*. Bir V7 [Pro 3](/tr/version-info/airpods-pro-3) ile markasız bir pazar yeri klonu, ikisi de “sahte AirPods” olsa da uzaktan yakından aynı ürün değil. Sürüm numaraları, satıcı ilanları güvenilmez olduğu için topluluk tarafından özellikle oluşturuldu: çip fotoğrafları ve “Superpods” gibi moda sözcükler size hiçbir şey söylemez. Bir şey satın almadan önce [sürüm bilgileri](/tr/version-info/general) sayfasında sürümleri karşılaştırın.
+“Sahtesi mi, gerçeği mi?” sorusu, sahte ürün dünyasındaki en büyük farkı değerlendirmek için yanlış bir ölçüt — asıl ölçüt *sürümden sürüme* karşılaştırma. Bir V7 [Pro 3](/tr/version-info/airpods-pro-3) ile adı sanı bilinmeyen bir pazar yeri kopyası, ikisi de “sahte AirPods”; ama uzaktan yakından aynı ürün değiller. Sürüm numaraları, satıcı ilanları güvenilmez olduğu için topluluk tarafından özellikle oluşturuldu: çip fotoğrafları ve “Superpods” gibi moda sözcükler hiçbir şey anlatmıyor. Bir şey satın almadan önce [sürüm bilgileri](/tr/version-info/general) sayfasındaki sürümleri karşılaştırın.
 
-## Peki hangisini satın almalısınız?
+## Peki hangisini almalısınız?
 
-**Orijinal satın alın, eğer:** Find My’a güveniyorsanız, Apple garantisi ve ikinci el değerini istiyorsanız ya da Apple ekosistemine yeterince bağlı olduğunuz için kusurlu cihaz geçişi günlük olarak sizi rahatsız edecekse.
+**Orijinalini alın, eğer:** Bul’a güveniyorsanız, Apple garantisi ve ikinci el değeri istiyorsanız ya da Apple ekosistemine o kadar bağlıysanız ki cihazlar arasında kusurlu geçiş yapmak her gün canınızı sıkacaksa.
 
-**Replika satın alın, eğer:** Fiyat en büyük engelse, kulaklıklarınızı zorlu koşullarda kullanıyorsanız (spor salonu, seyahat, işe gidip gelme), $250’lık kulaklıkları asla götürmeyeceğiniz yerler için ikinci bir çift istiyorsanız veya mağaza fiyatını ödemeden önce merakınızı gidermek ve denemek istiyorsanız.
+**Sahte alın, eğer:** Önünüzdeki başlıca engel fiyatsa, kulaklıklarınızı yoğun kullanıyorsanız (spor salonu, seyahat, işe gidiş geliş), $250’lık kulaklıklarınızı asla götürmeyeceğiniz yerlerde kullanmak için ikinci bir çift istiyorsanız ya da orijinal fiyatı ödemeden önce merakınızı gidermek ve denemek istiyorsanız.
 
-Replika almaya karar verirseniz, size uygun seçimi bulmak için [testi](/tr/quiz) çözün, dolandırıcılık tuzaklarından kaçınmak için [nasıl satın alınır](/tr/ordering/how-to-buy) rehberini okuyun ve bir [doğrulanmış satıcıdan](/tr/links/info) satın alın — ödediğiniz fiyattan çok, gerçekten elinize ulaşan sürüm önemlidir. Zaten sahip olduğunuz bir çifti değerlendiriyorsanız (veya ikinci el alıyorsanız), [AirPods’un sahte olup olmadığı nasıl anlaşılır](/tr/articles/how-to-spot-fake-airpods) rehberimiz klonları ortaya çıkaran kontrolleri adım adım açıklıyor.
+Sahte almaya karar verirseniz, size uygun seçeneği bulmak için [testi](/tr/quiz) yapın, dolandırıcılık tuzaklarından kaçınmak için [satın alma rehberini](/tr/ordering/how-to-buy) okuyun ve [onaylı bir satıcıdan](/tr/links/info) alın — elinize gerçekten ulaşan sürüm, ödediğiniz fiyattan daha önemlidir. Elinizdeki bir çifti değerlendiriyorsanız (ya da ikinci el alacaksanız), [AirPods’un sahte olup olmadığı nasıl anlaşılır](/tr/articles/how-to-spot-fake-airpods) rehberimiz kopyaları ele veren kontrolleri anlatıyor.
 
 İlgili karşılaştırma rehberleri:
-- Bütçeniz oldukça kısıtlı mı? [50 doların altındaki en iyi AirPods replikalarına](/tr/articles/best-airpods-replicas-under-50) göz atın.
-- Güvenilir mağaza alternatiflerini mi değerlendiriyorsunuz? [Sahte AirPods ve bütçe dostu kulaklıklar](/tr/articles/fake-airpods-vs-budget-earbuds) yazısını okuyun.
-- Klonların güvenli olup olmadığını mı merak ediyorsunuz? [AirPods replikaları güvenli mi?](/tr/articles/are-airpods-replicas-safe) yazısına bakın.
-- Kulak üstü kulaklıklarla mı ilgileniyorsunuz? [AirPods Max benzeri ürünler rehberimizi](/tr/articles/airpods-max-dupe) okuyun.
+- Bütçeniz kısıtlı mı? [$50 Altındaki En İyi AirPods Sahteleri](/tr/articles/best-airpods-replicas-under-50) yazımıza göz atın.
+- Mağazadan alınabilecek uygun fiyatlı alternatifleri mi düşünüyorsunuz? [Sahte AirPods ile Uygun Fiyatlı Kulaklıklar](/tr/articles/fake-airpods-vs-budget-earbuds) yazımızı okuyun.
+- Taklit ürünlerin güvenli olup olmadığını mı merak ediyorsunuz? [AirPods Sahteleri Güvenli mi?](/tr/articles/are-airpods-replicas-safe) yazımıza göz atın.
+- Kulak üstü kulaklıklarla mı ilgileniyorsunuz? [AirPods Max Muadil Ürün Rehberimizi](/tr/articles/airpods-max-dupe) okuyun.
 
 ## SSS
 
-::: details AirPods replikaları almaya değer mi?
-Çoğu kişi için evet. ANC, uzamsal ses ve iOS penceresi gibi özellikleri mağaza fiyatının çok küçük bir kısmına sunuyorlar. Kalıcı olan başlıca eksik Find My ağı. Kaliteli bir replika, iyi bakıldığında 3–4 yıl dayanıyor; hesabı mümkün kılan da bu.
+::: details Sahte AirPods almaya değer mi?
+Çoğu kişi için evet. ANC, Uzamsal Ses ve iOS eşleştirme penceresi gibi özellikleri sunarken mağaza fiyatının çok küçük bir kısmına mal oluyorlar. Kalıcı en büyük eksiklik Bul ağı. İyi bakıldığında kaliteli bir sahte 3–4 yıl dayanıyor; hesabı mantıklı kılan da bu.
 :::
 
-::: details İnsanlar AirPods’umun sahte olduğunu anlayabilir mi?
-Üst sürümlerde görünüş veya his açısından genellikle hayır — ikinci el dolandırıcılıklarının işe yaramasının nedeni tam olarak bu. Klonları ele veren ipuçları (seri numarası uyuşmazlıkları, Find My’ın bulunmaması, çip tespit uygulamaları), yalnızca cihaz elinizdeyken kontrol edebileceğiniz şeylerdir.
+::: details İnsanlar AirPods’larımın sahte olduğunu anlayabilir mi?
+Üst düzey sürümlerin görünüşünden veya hissinden anlamak genellikle mümkün değil — ikinci el dolandırıcılıklarının işe yaramasının nedeni de bu. Kopyaları ele veren seri numarası uyuşmazlıkları, Bul’un bulunmaması ve çip algılama uygulamaları gibi işaretleri ancak cihaz elinizdeyken kontrol edebilirsiniz.
 :::
 
-::: details AirPods replikaları gerçekleri kadar uzun süre dayanır mı?
-Ömürleri benzer — iyi bakımla yaklaşık 3–4 yıl — çünkü pilin yıpranması aynı şekilde gerçekleşiyor. Fark şu: pil ömrünün sonunda bitmiş pili değiştirmek için gidebileceğiniz bir Apple Store yok.
+::: details Sahte AirPods’lar gerçekleri kadar dayanır mı?
+İyi bakıldığında yaklaşık 3–4 yıl dayanarak orijinallere benzer bir kullanım ömrü sunuyorlar; çünkü pilin yıpranması aynı şekilde gerçekleşiyor. Farkı şu: pil ömrü tükendiğinde değişim yaptırabileceğiniz bir Apple Store yok.
 :::
 
-::: details AirPods replikası satın almak yasa dışı mı?
-Kişisel kullanım amacıyla replika satın almak, ülkeye göre değişen gri bir alandır; onları orijinalmiş gibi satmak ise her yerde dolandırıcılıktır. Alıcılar açısından pratik risk gümrüktür: Apple markalı kutular içeren paketlere daha sık el konulur; satıcıların markasız ambalajı tercih etmesinin nedeni budur — [ambalaj rehberimize](/tr/introduction/packaging) bakın.
+::: details Sahte AirPods satın almak yasa dışı mı?
+Kişisel kullanım için sahte ürün satın almak, ülkeye göre değişen belirsiz bir alandır; bunları orijinal diye satmak ise her yerde dolandırıcılıktır. Alıcılar açısından pratik risk gümrükte: Apple logolu kutuların bulunduğu paketlere daha sık el konuyor. Bu nedenle satıcılar genellikle logosuz ambalaj kullanıyor — [ambalaj rehberimize](/tr/introduction/packaging) göz atın.
 :::
