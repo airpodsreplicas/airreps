@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'Réplicas de AirPods: vendedores confiáveis e guia de versões'
-description: 'O guia da comunidade AirReps para réplicas de AirPods — também conhecidas como AirPods falsos ou clones de AirPods. Encontre vendedores confiáveis, comparações de versões e avaliações honestas.'
+description: 'O guia AirReps de réplicas de AirPods: vendedores confiáveis, comparações de versões e avaliações honestas.'
 articlesHeading: Guias e artigos
 articlesSubtitle: 'Respostas diretas sobre como identificar falsificações, escolher uma versão e comprar com segurança — da comunidade que testa essas unidades todos os dias.'
 articlesAllLabel: Todos os artigos

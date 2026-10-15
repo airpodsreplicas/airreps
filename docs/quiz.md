@@ -8,6 +8,8 @@ ogLabel: "QUIZ"
 
 Not sure where to start? Answer a few quick questions and we'll recommend the best option for you.
 
+AirPods replicas come in many versions, and the right pick depends on which model you want (AirPods, AirPods Pro or AirPods Max), which phone you use, how much you want to spend, and which features matter most to you, such as noise cancellation, battery life or how close the packaging is to the original. The quiz asks about each of these and points you to a version and trusted seller from our guide, so you don't have to compare every option yourself. It takes under a minute, and you can retake it as often as you like.
+
 <Quiz />
 
 ::: tip Still unsure?
