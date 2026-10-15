@@ -1099,9 +1099,13 @@ export default defineConfig({
             }
         }
 
-        // Locale homepages end up as 'index' after stripping — normalize to ''
+        // Locale homepages end up as 'index' after stripping — normalize to ''.
+        // Section indexes (e.g. articles/index) canonicalise to their directory
+        // URL with a trailing slash, matching the sitemap loc.
         if (basePath === 'index') {
             basePath = '';
+        } else if (basePath.endsWith('/index')) {
+            basePath = basePath.slice(0, -'index'.length);
         }
 
         // Flag emojis for each locale
