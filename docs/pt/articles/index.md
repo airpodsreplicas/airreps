@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Artigos e guias de compra sobre réplicas de AirPods
-description: 'Guias práticos da AirReps: como identificar AirPods falsos, as melhores réplicas por menos de US$ 50, réplicas versus originais e marcas econômicas, segurança, alfândega, solução de problemas e compatibilidade com Android e iPhone.'
+title: Artigos sobre réplicas de AirPods e guias de compra
+description: 'Guias da AirReps: como identificar AirPods falsos, melhores réplicas por menos de US$ 50, réplicas versus originais, segurança, alfândega e compatibilidade com Android/iPhone.'
 articlesHeading: Guias e artigos
-articlesSubtitle: Respostas práticas às perguntas que as pessoas fazem antes de comprar — escritas pela comunidade que testa essas unidades todos os dias.
+articlesSubtitle: Respostas práticas às perguntas que as pessoas fazem antes de comprar — escritas pela comunidade que testa esses modelos todos os dias.
 articlesAllLabel: Todos os artigos
 articlesReadLabel: Ler
 ---
