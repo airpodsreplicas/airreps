@@ -95,11 +95,19 @@ function unescapeTextNodes(node) {
 }
 
 async function generateOgImage(title, description, outFile, label = 'GUIDE') {
+    // satori 0.48 resolves percentages and absolute offsets on the content box
+    // and lays padding outside width/height. 0.33.4 treated the 1200×630 frame
+    // as the border box, so `right: 60px` kept the logo on-canvas and
+    // `max-width: 80%` wrapped text at 864px (80% of the 1080px content width).
+    // Pin that geometry: border-box frame, an explicit logo size (flex-shrink
+    // 0) so the absolute badge is measured from a real edge, and fixed text
+    // widths so lines break where they used to.
     const markup = html`
     <div
         style="
-        height: 100%;
-        width: 100%;
+        height: 630px;
+        width: 1200px;
+        box-sizing: border-box;
         display: flex;
         flex-direction: column;
         justify-content: flex-end;
@@ -118,15 +126,18 @@ async function generateOgImage(title, description, outFile, label = 'GUIDE') {
           position: absolute;
           top: 60px;
           right: 60px;
+          width: 120px;
+          height: 120px;
           display: flex;
+          flex-shrink: 0;
           align-items: center;
         "
       >
-        <img src="${logoBase64}" style="width: 120px; height: 120px;" />
+        <img src="${logoBase64}" style="width: 120px; height: 120px; flex-shrink: 0;" />
       </div>
 
       <!-- Content Bottom Left -->
-      <div style="display: flex; flex-direction: column; max-width: 80%;">
+      <div style="display: flex; flex-direction: column; width: 864px; flex-shrink: 0;">
          <div
           style="
             background: #589DBA;
@@ -138,14 +149,15 @@ async function generateOgImage(title, description, outFile, label = 'GUIDE') {
             align-self: flex-start;
             margin-bottom: 24px;
             display: flex;
+            flex-shrink: 0;
           "
         >
           ${label}
         </div>
-        <div style="font-size: 72px; font-weight: 700; line-height: 1.1; margin-bottom: 16px; display: flex; color: #ffffff;">
+        <div style="font-size: 72px; font-weight: 700; line-height: 1.1; margin-bottom: 16px; display: flex; color: #ffffff; width: 864px; flex-shrink: 0;">
           ${title}
         </div>
-         <div style="font-size: 32px; color: #cccccc; line-height: 1.4; display: flex;">
+         <div style="font-size: 32px; color: #cccccc; line-height: 1.4; display: flex; width: 864px; flex-shrink: 0;">
           ${description || 'The Ultimate Guide to AirPods Replicas'}
         </div>
       </div>
