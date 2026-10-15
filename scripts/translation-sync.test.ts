@@ -7,11 +7,15 @@ import {
 } from '../.github/scripts/translate-docs.mjs';
 
 describe('translation sync', () => {
-    test('rejects duplicated, reordered, or missing URL placeholders', () => {
+    test('rejects duplicated or missing URL placeholders and restores any order', () => {
         const urls = ['/useful-apps', '/links/info'];
-        expect(() => restoreBodyUrls('U0 U0', urls, 'tr')).toThrow();
-        expect(() => restoreBodyUrls('U1 U0', urls, 'tr')).toThrow();
-        expect(() => restoreBodyUrls('U0', urls, 'tr')).toThrow();
+        expect(() => restoreBodyUrls('U0 U0', urls, 'tr')).toThrow(
+            'expected indices 0–1 exactly once'
+        );
+        expect(() => restoreBodyUrls('U0', urls, 'tr')).toThrow(
+            'expected indices 0–1 exactly once'
+        );
+        expect(restoreBodyUrls('U1 U0', urls, 'tr')).toBe('/tr/links/info /tr/useful-apps');
         expect(restoreBodyUrls('U0 U1', urls, 'tr')).toBe('/tr/useful-apps /tr/links/info');
     });
 

@@ -187,17 +187,16 @@ export function protectBodyUrls(body) {
     return { body: out, urls };
 }
 
-// Re-inject the stashed URLs (locale-prefixed where appropriate). Throws if the
-// model dropped or duplicated a placeholder, so a damaged translation fails the
-// task instead of producing a broken link.
+// Re-inject the stashed URLs (locale-prefixed where appropriate). Placeholders
+// are restored by number, so order does not matter. Throws unless each index
+// 0..N-1 appears exactly once, so a damaged translation fails the task instead
+// of producing a broken link.
 export function restoreBodyUrls(body, urls, locale) {
     const found = [...body.matchAll(URL_SENTINEL_RE)].map((match) => Number(match[1]));
-    if (
-        found.length !== urls.length ||
-        found.some((index, position) => index !== position)
-    ) {
+    const sorted = [...found].sort((a, b) => a - b);
+    if (found.length !== urls.length || sorted.some((n, i) => n !== i)) {
         throw new Error(
-            `URL placeholder mismatch after translation: expected indices 0–${urls.length - 1} once in order, found ${found.join(',')}`
+            `URL placeholder mismatch after translation: expected indices 0–${urls.length - 1} exactly once, found ${found.join(',')}`
         );
     }
     return body.replace(URL_SENTINEL_RE, (_m, n) => localizeUrl(urls[Number(n)], locale));
@@ -236,7 +235,7 @@ Rules:
                 { role: 'assistant', content: raw },
                 {
                     role: 'user',
-                    content: `Your previous translation changed URL placeholders. Translate the original text again. Keep each placeholder exactly once, in its original order: ${urls.map((_, i) => urlSentinel(i)).join(' ')}. Output only the corrected markdown.`,
+                    content: `Your previous translation changed URL placeholders. Translate the original text again. Keep each placeholder exactly once, unaltered (order may follow natural target-language word order): ${urls.map((_, i) => urlSentinel(i)).join(' ')}. Output only the corrected markdown.`,
                 }
             );
         }
