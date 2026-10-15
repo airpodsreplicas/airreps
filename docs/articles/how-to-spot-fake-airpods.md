@@ -107,3 +107,4 @@ The scam is the bigger risk than the hardware: paying genuine prices for a clone
 ::: details How do I check if my AirPods are fake without an iPhone?
 It's harder without iOS — the About-page and firmware checks need an iPhone. On Android you can try the community [chip-detection apps](/useful-apps): genuine AirPods won't connect to any of them, and neither will the cheapest clones. Physical inspection and price sanity (check 6) still work anywhere.
 :::
+
