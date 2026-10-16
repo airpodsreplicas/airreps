@@ -117,13 +117,6 @@ iframe[src*="youtube"] {
   background: var(--vp-c-default-mute);
 }
 
-.link-column .link-note {
-  font-size: 12px;
-  line-height: 1.35;
-  text-align: center;
-  color: var(--vp-c-text-2);
-}
-
 .link-column .unavailable-link {
   padding: 4px 6px;
   font-size: 13px;

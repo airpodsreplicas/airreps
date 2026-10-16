@@ -16,7 +16,7 @@ Les répliques d’AirPods Pro 3 sont le modèle intra-auriculaire le plus réce
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V7</span></td>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Site web</a>
@@ -26,10 +26,8 @@ Les répliques d’AirPods Pro 3 sont le modèle intra-auriculaire le plus réce
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Huilian</a>
+        <a href="https://airreps.link/hcprov7hl">Site web</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
-        <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
-        <span class="link-note">⚠️ Pas de fenêtre contextuelle iOS et pas de numéro de série. Utilise l'application FlyCC à la place, pas pour tout le monde.</span>
       </div>
     </td>
     <td>
@@ -38,6 +36,17 @@ Les répliques d’AirPods Pro 3 sont le modèle intra-auriculaire le plus réce
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">V7 (TB)</span></td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Site web</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">SE</span></td>

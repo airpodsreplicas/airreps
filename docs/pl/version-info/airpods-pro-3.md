@@ -7,30 +7,27 @@ description: 'Porównaj wersje replik AirPods Pro 3 (V7, SE, V6, V5.5) pod kąte
 **Szybki werdykt:** dostępny wyłącznie u Jenny model **SE** to najlepszy wybór pod względem stosunku jakości do ceny w serii Pro 3 — oparty na chipsecie XiaoBai zapewnia najmocniejsze ANC przetestowane w jakiejkolwiek replice (pokonując nawet droższy V7), bezproblemowy dźwięk przestrzenny ze śledzeniem ruchów głowy, tłumaczenie w czasie rzeczywistym oraz wbudowane monitorowanie tętna za jedyne 48 USD. Dla większości kupujących wybierających między SE a V7 model SE wypada zdecydowanie lepiej pod względem opłacalności i codziennego słuchania — zobacz [przegląd SE](#se-overview). **V6 Huilian** pozostaje najlepszym wyborem, jeśli zależy Ci na iCloud Connect i przełączaniu między wieloma urządzeniami. **V7** wygrywa, jeśli kluczowe są dokładność pomiaru tętna na poziomie sprzętu fitness, odbieranie połączeń gestami głowy lub rozpoznawanie rozmów, ale najpierw zapoznaj się z informacjami o wczesnej wersji. Przy ograniczonym budżecie **V5.5** oferuje wygląd Pro 3 w niższej cenie. Wszystkie wersje znajdziesz w [linkach do zakupu](/pl/links/airpods-pro-3).
 
 ::: tip Wspólna baza Pro 3
-Wszystkie modele Pro 3 obejmują: ładowanie przez USB-C, regulację głośności przesuwaniem po zauszniku, aktywną redukcję hałasu, tryb transparentny, wykrywanie słuchawek w uszach, wyskakujące okno Pro 3 w iOS (nie w Tiger Builder) oraz obsługę iOS 27.
+Wszystkie modele Pro 3 obejmują: ładowanie przez USB-C, regulację głośności przesuwaniem po zauszniku, aktywną redukcję hałasu, tryb transparentny, wykrywanie słuchawek w uszach, wyskakujące okno Pro 3 w iOS (brak w V7 od Tiger Builder) oraz obsługę iOS 27.
 *(Uwaga: żadna replika nie obsługuje szyfrowanej sieci Apple Znajdź.)*
 :::
 
 Kliknij dowolną plakietkę wersji, aby znaleźć opinie społeczności na temat tego modelu.
 
-| Wersja → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>([Huilian](https://airreps.link/hcprov7hl) / [TB](https://hicitypods.com/product/pro-3-v7-tb/)) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Wersja → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(Huilian / TB) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
-| **Skuteczność ANC** | Hybrydowe z dwoma kanałami (~38–42 dB) / Adaptacyjne (do 52 dB) | Hybrydowe klasy premium (~42 dB, najlepsze) | Dobre (~36–38 dB) | Przyzwoite (~32 dB) |
+| **Skuteczność ANC** | Hybrydowe z dwoma kanałami (~38–42 dB) | Hybrydowe klasy premium (~42 dB, najlepsze) | Dobre (~36–38 dB) | Przyzwoite (~32 dB) |
 | **Dźwięk przestrzenny (śledzenie ruchów głowy)** | ✅ Działa | ✅ Działa bez zarzutu | ✅ Działa | ❌ Stałe (bez śledzenia) |
-| **Tłumaczenie w czasie rzeczywistym** | ✅ Tak (iOS / Starfun) / ❌ Nie | ✅ Tak (monit iOS) | ⚠️ Tylko wariant Huilian | ❌ Nie |
+| **Tłumaczenie w czasie rzeczywistym** | ⚠️ Tylko wariant Huilian | ✅ Tak (monit iOS) | ⚠️ Tylko wariant Huilian | ❌ Nie |
 | **Monitorowanie tętna** | ✅ Czujnik optyczny | ✅ Tak (monitorowanie orientacyjne) | ❌ Nie | ❌ Nie |
 | **Sterowanie gestami głowy** | ✅ Tak (kiwanie / potrząśnięcie) | ❌ Nie | ❌ Nie | ❌ Nie |
 | **Rozpoznawanie rozmów** | ✅ Tak | ❌ Nie | ⚠️ Tylko wariant Huilian | ❌ Nie |
-| **Wiele urządzeń / przełączanie** | iCloud (Huilian) / 3 urządzenia (Tiger Builder) | 1 urządzenie | iCloud (HL) / 2 urządzenia (TB) | 1 urządzenie |
-| **Korektor w aplikacji / personalizacja** | Starfun (Huilian) / FlyCC (Tiger Builder) | ❌ Nie | Starfun (HL) / FlyCC (TB) | ❌ Nie |
-| **Cena / poziom opłacalności** | ~68–75 USD (flagowy) / 68 USD (zamiast 78 USD) | ~48 USD (najlepszy wybór pod względem opłacalności) | ~38–45 USD (średnia półka) | ~25–30 USD (budżetowy) |
+| **Wiele urządzeń / przełączanie** | iCloud (HL) / 3 urządzenia (TB) | 1 urządzenie | iCloud (HL) / 2 urządzenia (TB) | 1 urządzenie |
+| **Korektor w aplikacji / personalizacja** | Starfun (HL) / FlyCC (TB) | ❌ Nie | Starfun (HL) / FlyCC (TB) | ❌ Nie |
+| **Cena / poziom opłacalności** | ~68–75 USD (flagowy) | ~48 USD (najlepszy wybór pod względem opłacalności) | ~38–45 USD (średnia półka) | ~25–30 USD (budżetowy) |
 | **Szczegółowy przegląd** | [Przegląd V7](#v7-overview) | [Przegląd SE](#se-overview) | — | — |
 
-
-
-
-*⚠️ Tiger Builder: Brak wyskakującego okienka iOS i brak numeru seryjnego. Zamiast tego używa aplikacji FlyCC, nie dla każdego.*
+*⚠️ Pro 3 V7 (tylko wersja Tiger Builder): brak wyskakującego okna iOS i brak numeru seryjnego. Zamiast tego używa aplikacji FlyCC — nie dla każdego. Wersja V7 od Huilian nie jest objęta tym ograniczeniem.*
 
 ## Przegląd V7 {#v7-overview}
 
@@ -38,7 +35,7 @@ V7 to najnowsza replika AirPods Pro 3, oparta na chipsecie Huilian 377H3. Wprowa
 
 To wciąż wczesna wersja — niektórzy użytkownicy zgłaszali syczenie przy ANC i inne niedopracowania w pierwszych partiach. Późniejsze partie prawdopodobnie je poprawią, ale przed zakupem sprawdź najnowsze [wątki V7 na r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1), aby poznać aktualne opinie.
 
-**[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)** - Airoha 1571AM (昇龙悦虎八代 / Yuehu 8. generacji), cena 68 USD (zamiast 78 USD). Funkcje podane przez sprzedawcę: czujnik tętna, adaptacyjne ANC do 52 dB, rozpoznawanie rozmów, dźwięk przestrzenny z dwoma żyroskopami ST, gesty głowy, głośność przesunięciem, ENC z dwoma mikrofonami, przetwornik 10 mm, słuchawki 45 mAh i etui Qi 550 mAh, głośnik etui oraz multipoint dla 3 urządzeń. ⚠️ Brak wyskakującego okienka iOS i brak numeru seryjnego. Zamiast tego używa aplikacji FlyCC, nie dla każdego.
+**Tiger Builder** to druga wersja V7, oparta na chipsecie Airoha 1571AM, w cenie około 68 USD. Funkcje podawane przez sprzedawcę obejmują czujnik tętna, adaptacyjne ANC, rozpoznawanie rozmów, dźwięk przestrzenny ze śledzeniem ruchów głowy, gesty głowy, regulację głośności przesuwaniem, ENC z dwoma mikrofonami, przetwornik 10 mm, słuchawki 45 mAh z etui Qi o pojemności 550 mAh, głośnik w etui oraz multipoint dla 3 urządzeń. ⚠️ Nie ma wyskakującego okna iOS ani numeru seryjnego i zamiast tego używa aplikacji FlyCC — nie dla każdego; wersja V7 od Huilian nie jest objęta tym ograniczeniem. Sprzedaje ją HiCity — zobacz [linki do zakupu](/pl/links/airpods-pro-3).
 
 ## Przegląd SE {#se-overview}
 

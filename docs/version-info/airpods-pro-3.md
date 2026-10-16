@@ -8,30 +8,27 @@ description: "Compare AirPods Pro 3 replica versions (V7, SE, V6, V5.5) by chip,
 **Quick verdict:** the Jenny-exclusive **SE** is the standout value pick of the Pro 3 series — built on the XiaoBai chipset, it delivers the strongest ANC tested on any replica (beating even the pricier V7), flawless head-tracking spatial audio, real-time translation, and built-in heart rate monitoring for just $48. For most buyers choosing between the SE and the V7, the SE comes out well ahead on value and everyday listening — see the [SE overview](#se-overview). The **V6 Huilian** remains the pick if you want iCloud Connect and multi-device switching. The **V7** wins if fitness-grade heart rate accuracy, head gesture answering, or conversation awareness are must-haves, but check the early-release notes first. On a tight budget, the **V5.5** has the Pro 3 look for less. See the [purchase links](/links/airpods-pro-3) for all versions.
 
 ::: tip Shared Pro 3 Baseline
-All Pro 3 models include: USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, Pro 3 iOS popup (not on Tiger Builder), and iOS 27 support.
+All Pro 3 models include: USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, Pro 3 iOS popup (not on the Tiger Builder V7), and iOS 27 support.
 *(Note: No replica supports Apple's encrypted Find My network.)*
 :::
 
 Click any version badge to find community reviews for that model.
 
-| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>([Huilian](https://airreps.link/hcprov7hl) / [TB](https://hicitypods.com/product/pro-3-v7-tb/)) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(Huilian / TB) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
-| **ANC Performance** | Dual-Feed Hybrid (~38–42 dB) / Adaptive (up to 52 dB) | Top-Tier Hybrid (~42 dB, Best) | Good (~36–38 dB) | Decent (~32 dB) |
+| **ANC Performance** | Dual-Feed Hybrid (~38–42 dB) | Top-Tier Hybrid (~42 dB, Best) | Good (~36–38 dB) | Decent (~32 dB) |
 | **Spatial Audio (Head-tracking)** | ✅ Working | ✅ Working Flawlessly | ✅ Working | ❌ Fixed (no tracking) |
-| **Real-Time Translation** | ✅ Yes (iOS / Starfun) / ❌ No | ✅ Yes (iOS prompt) | ⚠️ Huilian variant only | ❌ No |
+| **Real-Time Translation** | ⚠️ Huilian variant only | ✅ Yes (iOS prompt) | ⚠️ Huilian variant only | ❌ No |
 | **Heart Rate Monitoring** | ✅ Optical sensor | ✅ Yes (casual monitoring) | ❌ No | ❌ No |
 | **Head Gesture Controls** | ✅ Yes (nod / shake) | ❌ No | ❌ No | ❌ No |
 | **Conversation Awareness** | ✅ Yes | ❌ No | ⚠️ Huilian variant only | ❌ No |
-| **Multi-Device / Switching** | iCloud (Huilian) / 3 devices (Tiger Builder) | 1 device | iCloud (HL) / 2 devices (TB) | 1 device |
-| **App EQ / Customization** | Starfun (Huilian) / FlyCC (Tiger Builder) | ❌ No | Starfun (HL) / FlyCC (TB) | ❌ No |
-| **Price / Value Tier** | ~$68–$75 (Flagship) / $68 (regular $78) | ~$48 (Top Value Pick) | ~$38–$45 (Mid-tier) | ~$25–$30 (Budget) |
+| **Multi-Device / Switching** | iCloud (HL) / 3 devices (TB) | 1 device | iCloud (HL) / 2 devices (TB) | 1 device |
+| **App EQ / Customization** | Starfun (HL) / FlyCC (TB) | ❌ No | Starfun (HL) / FlyCC (TB) | ❌ No |
+| **Price / Value Tier** | ~$68–$75 (Flagship) | ~$48 (Top Value Pick) | ~$38–$45 (Mid-tier) | ~$25–$30 (Budget) |
 | **Detailed Overview** | [V7 Overview](#v7-overview) | [SE Overview](#se-overview) | — | — |
 
-
-
-
-*⚠️ Tiger Builder: No iOS popup and no serial number. Uses the FlyCC app instead, not for everyone.*
+*⚠️ Pro 3 V7 (Tiger Builder version only): no iOS popup and no serial number. Uses the FlyCC app instead, not for everyone. The Huilian V7 is not affected.*
 
 ## V7 Overview {#v7-overview}
 
@@ -39,7 +36,7 @@ V7 is the newest AirPods Pro 3 replica, built on the Huilian 377H3 chipset. It i
 
 It's still an early release — some members have reported hissing on ANC and other rough edges in the first batches. Later batches are likely to refine these, but check recent [V7 threads on r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) for current sentiment before you buy.
 
-**[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)** - Airoha 1571AM (昇龙悦虎八代 / Yuehu 8th gen), listed at $68 (regular $78). Seller-listed features include a heart-rate sensor, adaptive ANC up to 52 dB, conversation awareness, spatial audio with dual ST gyros, head gestures, swipe volume, dual-mic ENC, a 10 mm driver, 45 mAh earbuds and a 550 mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ No iOS popup and no serial number. Uses the FlyCC app instead, not for everyone.
+**Tiger Builder** is the second V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ It has no iOS popup and no serial number, and uses the FlyCC app instead — not for everyone; the Huilian V7 is not affected. It's sold by HiCity — see the [purchase links](/links/airpods-pro-3).
 
 ## SE Overview {#se-overview}
 

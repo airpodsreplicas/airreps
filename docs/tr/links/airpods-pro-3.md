@@ -16,7 +16,7 @@ AirPods Pro 3 replikaları, en yeni özellikleri farklı fiyat seçenekleriyle s
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V7</span></td>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Web sitesi</a>
@@ -26,10 +26,8 @@ AirPods Pro 3 replikaları, en yeni özellikleri farklı fiyat seçenekleriyle s
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Huilian</a>
+        <a href="https://airreps.link/hcprov7hl">Web sitesi</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
-        <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
-        <span class="link-note">⚠️ iOS açılır penceresi yok ve seri numarası yok. Bunun yerine FlyCC uygulamasını kullanır, herkes için uygun değil.</span>
       </div>
     </td>
     <td>
@@ -38,6 +36,17 @@ AirPods Pro 3 replikaları, en yeni özellikleri farklı fiyat seçenekleriyle s
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">V7 (TB)</span></td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Web sitesi</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">SE</span></td>

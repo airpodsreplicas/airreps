@@ -16,7 +16,7 @@ Repliki AirPods Pro 3 to najnowszy model douszny, oferujący najnowsze funkcje w
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V7</span></td>
+    <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Witryna</a>
@@ -26,10 +26,8 @@ Repliki AirPods Pro 3 to najnowszy model douszny, oferujący najnowsze funkcje w
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Huilian</a>
+        <a href="https://airreps.link/hcprov7hl">Witryna</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
-        <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
-        <span class="link-note">⚠️ Brak wyskakującego okienka iOS i brak numeru seryjnego. Zamiast tego używa aplikacji FlyCC, nie dla każdego.</span>
       </div>
     </td>
     <td>
@@ -38,6 +36,17 @@ Repliki AirPods Pro 3 to najnowszy model douszny, oferujący najnowsze funkcje w
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">V7 (TB)</span></td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Witryna</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">SE</span></td>
