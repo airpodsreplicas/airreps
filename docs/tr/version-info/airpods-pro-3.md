@@ -13,26 +13,28 @@ Tüm Pro 3 modelleri şunları içerir: USB-C şarj, gövde üzerinden kaydırar
 
 Bu model hakkındaki topluluk incelemelerini bulmak için herhangi bir sürüm rozetine tıklayın.
 
-| Sürüm → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>[Helium](https://airreps.link/hcprov7hl)<br>[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)<br>⚠️ iOS açılır penceresi yok ve seri numarası yok. Bunun yerine FlyCC uygulamasını kullanır, herkes için uygun değil. | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny'ye özel) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Sürüm → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>([Huilian](https://airreps.link/hcprov7hl) / [TB](https://hicitypods.com/product/pro-3-v7-tb/)) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny'ye özel) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
 | **Yonga seti** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
 | **ANC performansı** | Çift beslemeli hibrit (~38–42 dB) / Uyarlanabilir (52 dB'ye kadar) | Üst düzey hibrit (~42 dB, en iyi) | İyi (~36–38 dB) | Makul (~32 dB) |
-| **Uzamsal ses (kafa takibi)** | ⚠️ Ürün yazılımına bağlı / ✅ Çift ST jiroskop | ✅ Kusursuz çalışıyor | ✅ Çalışıyor | ❌ Sabit (takip yok) |
+| **Uzamsal ses (kafa takibi)** | ✅ Çalışıyor | ✅ Kusursuz çalışıyor | ✅ Çalışıyor | ❌ Sabit (takip yok) |
 | **Gerçek zamanlı çeviri** | ✅ Evet (iOS / Starfun) / ❌ Hayır | ✅ Evet (iOS istemi) | ⚠️ Yalnızca Huilian varyantı | ❌ Hayır |
 | **Kalp atış hızı takibi** | ✅ Optik sensör | ✅ Evet (gündelik takip) | ❌ Hayır | ❌ Hayır |
 | **Kafa hareketi kontrolleri** | ✅ Evet (baş sallama / sağa sola çevirme) | ❌ Hayır | ❌ Hayır | ❌ Hayır |
 | **Konuşma farkındalığı** | ✅ Evet | ❌ Hayır | ⚠️ Yalnızca Huilian varyantı | ❌ Hayır |
-| **Çoklu cihaz / geçiş** | iCloud (Helium) / 3 cihaz (Tiger Builder) | 1 cihaz | iCloud (HL) / 2 cihaz (TB) | 1 cihaz |
-| **Uygulama EQ'su / özelleştirme** | Starfun (Helium) / FlyCC (Tiger Builder) | ❌ Hayır | Starfun (HL) / FlyCC (TB) | ❌ Hayır |
+| **Çoklu cihaz / geçiş** | iCloud (Huilian) / 3 cihaz (Tiger Builder) | 1 cihaz | iCloud (HL) / 2 cihaz (TB) | 1 cihaz |
+| **Uygulama EQ'su / özelleştirme** | Starfun (Huilian) / FlyCC (Tiger Builder) | ❌ Hayır | Starfun (HL) / FlyCC (TB) | ❌ Hayır |
 | **Fiyat / değer seviyesi** | ~68–75 $ (Amiral gemisi) / 68 $ (normal 78 $) | ~48 $ (En iyi fiyat-performans) | ~38–45 $ (Orta seviye) | ~25–30 $ (Bütçe) |
 | **Ayrıntılı genel bakış** | [V7 genel bakışı](#v7-overview) | [SE genel bakışı](#se-overview) | — | — |
 
 
 
 
+*⚠️ Tiger Builder: iOS açılır penceresi yok ve seri numarası yok. Bunun yerine FlyCC uygulamasını kullanır, herkes için uygun değil.*
+
 ## V7 genel bakışı {#v7-overview}
 
-V7, Huilian 377H3 yonga seti üzerine kurulu en yeni AirPods Pro 3 replikasıdır. Kalp atış hızı sensörü, aramaları yanıtlamak için kafa hareketi kontrolleri, AI Hibrit ANC ve düşük gecikmeli oyun modu sunar. 45 mAh kapasiteli kulaklıkların yaklaşık 7 saatlik oynatma süresi bulunur; 500 mAh kapasiteli kutu ise 3–4 tam şarj sağlar.
+V7, Huilian 377H3 yonga seti üzerine kurulu en yeni AirPods Pro 3 replikasıdır. Kalp atış hızı sensörü, aramaları yanıtlamak için kafa hareketi kontrolleri, AI Hibrit ANC, çalışan kafa takipli uzamsal ses ve düşük gecikmeli oyun modu sunar. 45 mAh kapasiteli kulaklıkların yaklaşık 7 saatlik oynatma süresi bulunur; 500 mAh kapasiteli kutu ise 3–4 tam şarj sağlar.
 
 Model hâlâ erken bir sürüm — bazı üyeler ilk partilerde ANC açıkken hışırtı ve başka pürüzler bildirdi. Sonraki partilerin bunları gidermesi muhtemel; ancak satın almadan önce güncel görüşler için [r/AirReps'teki V7 başlıklarına](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) göz atın.
 
@@ -46,7 +48,7 @@ SE, **XiaoBai yonga seti** ile güçlendirilmiş ve 48 $ fiyatıyla Pro 3 serisi
 Bu bölüm, hem perakende bir Pro 3'e hem de V7 Huilian'a karşı gerçekleştirdiğimiz ilk gün uygulamalı testlerine dayanmaktadır — henüz pil veya uzun dönem testi yapılmadı. Gerçek kullanımda bir haftanın ardından bölümü güncelleyeceğiz.
 :::
 
-Öne çıkan özellik ANC: şimdiye kadar herhangi bir replikada duyduğumuz en iyisi; daha pahalı V7 Huilian'ı bile geride bırakıyor ve perakende modele şaşırtıcı derecede yaklaşıyor. Ses, perakende modelin yaklaşık %80'i seviyesinde — güçlü bas, net vokaller ve çok doğal bir şeffaflık modu. Kafa takibi özellikli uzamsal ses gerçekten sorunsuz çalışıyor (ilk V7 partilerinin aksine) ve gerçek zamanlı çeviri, kaydırarak ses ayarı, kablosuz şarj ve kulak içi algılama özelliklerini içeriyor. Gövde kontrolleri hızlı tepki veriyor, parazit neredeyse hiç yok ve kasa kapağının güçlü mıknatıslarıyla yapı kalitesi sağlam. Tek fiziksel tuhaflık: bağlanmak için kutunun önüne iki kez dokunmak, perakende modele kıyasla daha güçlü bir basınç gerektiriyor.
+Öne çıkan özellik ANC: şimdiye kadar herhangi bir replikada duyduğumuz en iyisi; daha pahalı V7 Huilian'ı bile geride bırakıyor ve perakende modele şaşırtıcı derecede yaklaşıyor. Ses, perakende modelin yaklaşık %80'i seviyesinde — güçlü bas, net vokaller ve çok doğal bir şeffaflık modu. Kafa takibi özellikli uzamsal ses gerçekten sorunsuz çalışıyor ve gerçek zamanlı çeviri, kaydırarak ses ayarı, kablosuz şarj ve kulak içi algılama özelliklerini içeriyor. Gövde kontrolleri hızlı tepki veriyor, parazit neredeyse hiç yok ve kasa kapağının güçlü mıknatıslarıyla yapı kalitesi sağlam. Tek fiziksel tuhaflık: bağlanmak için kutunun önüne iki kez dokunmak, perakende modele kıyasla daha güçlü bir basınç gerektiriyor.
 
 48 $'lık fiyatı karşılığında verilen ödünler şunlar: aynı anda yalnızca bir cihaza bağlanıyor (sorunsuz çoklu cihaz geçişi veya iCloud Connect yok) ve konuşma farkındalığı ya da kafa hareketleriyle arama yanıtlama (baş sallama/sağa sola çevirme) özellikleri bulunmuyor. Kalp atış hızı takibi yerleşik olsa da testlerimiz, tıbbi sınıf bir sensörden 15–20 bpm sapmayla ölçüm yaptığını gösterdi — gündelik merak için yeterli, ancak işlevsel bir optik sensör istiyorsanız V7 Huilian belirgin şekilde daha yakın sonuçlar veriyor.
 

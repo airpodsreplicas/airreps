@@ -26,7 +26,7 @@ Les répliques d’AirPods Pro 3 sont le modèle intra-auriculaire le plus réce
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Helium</a>
+        <a href="https://airreps.link/hcprov7hl">Huilian</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
         <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
         <span class="link-note">⚠️ Pas de fenêtre contextuelle iOS et pas de numéro de série. Utilise l'application FlyCC à la place, pas pour tout le monde.</span>

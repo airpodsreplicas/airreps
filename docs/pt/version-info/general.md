@@ -24,7 +24,7 @@ Esta tabela fornece um resumo dos recursos mais importantes ausentes em vários 
 
 | Modelo de AirPods | Baseado em | Recursos ausentes                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/pt/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Rede Buscar; a confiabilidade do rastreamento da cabeça depende do firmware; Tiger Builder não tem pop-up do iOS nem número de série |
+| [AirPods Pro 3](/pt/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Rede Buscar; Tiger Builder não tem pop-up do iOS nem número de série |
 | [AirPods Pro 3](/pt/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Rede Buscar, alternância do iCloud, Reconhecimento de Conversa, controles de chamadas por gestos da cabeça; as leituras da frequência cardíaca são imprecisas |
 | [AirPods Gen 4](/pt/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Rede Buscar e detalhes sutis de acabamento dos modelos originais |
 | [AirPods Pro 2](/pt/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Áudio Espacial perfeito, Rede Buscar |

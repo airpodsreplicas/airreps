@@ -27,7 +27,7 @@ AirPods Pro 3 replicas are the newest in-ear model, with the latest features at 
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Helium</a>
+        <a href="https://airreps.link/hcprov7hl">Huilian</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
         <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
         <span class="link-note">⚠️ No iOS popup and no serial number. Uses the FlyCC app instead, not for everyone.</span>

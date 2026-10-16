@@ -24,7 +24,7 @@ Denne tabel giver en oversigt over de mest bemærkelsesværdige manglende funkti
 
 | AirPods-model | Baseret på | Manglende funktioner                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/da/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Find-netværket; pålideligheden af hovedsporing afhænger af firmwaren; Tiger Builder har ingen iOS-popup og intet serienummer |
+| [AirPods Pro 3](/da/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Find-netværket; Tiger Builder har ingen iOS-popup og intet serienummer |
 | [AirPods Pro 3](/da/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Find-netværket, skift mellem iCloud-konti, samtalebevidsthed og opkaldsstyring med hovedbevægelser; pulsmålingerne er unøjagtige |
 | [AirPods Gen 4](/da/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Find-netværket samt diskrete detaljer i den originale finish |
 | [AirPods Pro 2](/da/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Perfekt rumlig lyd, Find-netværket |

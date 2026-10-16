@@ -13,26 +13,28 @@ Todos os modelos Pro 3 incluem: carregamento USB-C, controle de volume deslizant
 
 Clique em qualquer selo de versão para encontrar avaliações da comunidade sobre esse modelo.
 
-| Versão → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>[Helium](https://airreps.link/hcprov7hl)<br>[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)<br>⚠️ Sem pop-up do iOS e sem número de série. Usa o app FlyCC em vez disso, não é para todos. | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Exclusivo Jenny) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Versão → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>([Huilian](https://airreps.link/hcprov7hl) / [TB](https://hicitypods.com/product/pro-3-v7-tb/)) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Exclusivo Jenny) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
 | **Desempenho do ANC** | Híbrido de alimentação dupla (~38–42 dB) / Adaptativo (até 52 dB) | Híbrido de alto nível (~42 dB, melhor) | Bom (~36–38 dB) | Razoável (~32 dB) |
-| **Áudio espacial (rastreamento da cabeça)** | ⚠️ Depende do firmware / ✅ Dois giroscópios ST | ✅ Funciona perfeitamente | ✅ Funciona | ❌ Fixo (sem rastreamento) |
+| **Áudio espacial (rastreamento da cabeça)** | ✅ Funciona | ✅ Funciona perfeitamente | ✅ Funciona | ❌ Fixo (sem rastreamento) |
 | **Tradução em tempo real** | ✅ Sim (iOS / Starfun) / ❌ Não | ✅ Sim (prompt do iOS) | ⚠️ Apenas na variante Huilian | ❌ Não |
 | **Monitoramento de frequência cardíaca** | ✅ Sensor óptico | ✅ Sim (monitoramento casual) | ❌ Não | ❌ Não |
 | **Controles por gestos da cabeça** | ✅ Sim (assentir / balançar) | ❌ Não | ❌ Não | ❌ Não |
 | **Reconhecimento de conversas** | ✅ Sim | ❌ Não | ⚠️ Apenas na variante Huilian | ❌ Não |
-| **Vários dispositivos / alternância** | iCloud (Helium) / 3 dispositivos (Tiger Builder) | 1 dispositivo | iCloud (HL) / 2 dispositivos (TB) | 1 dispositivo |
-| **Equalizador / personalização pelo app** | Starfun (Helium) / FlyCC (Tiger Builder) | ❌ Não | Starfun (HL) / FlyCC (TB) | ❌ Não |
+| **Vários dispositivos / alternância** | iCloud (Huilian) / 3 dispositivos (Tiger Builder) | 1 dispositivo | iCloud (HL) / 2 dispositivos (TB) | 1 dispositivo |
+| **Equalizador / personalização pelo app** | Starfun (Huilian) / FlyCC (Tiger Builder) | ❌ Não | Starfun (HL) / FlyCC (TB) | ❌ Não |
 | **Faixa de preço / valor** | ~US$ 68–75 (Topo de linha) / US$ 68 (de US$ 78) | ~US$ 48 (Melhor custo-benefício) | ~US$ 38–45 (Intermediário) | ~US$ 25–30 (Econômico) |
 | **Visão geral detalhada** | [Visão geral do V7](#v7-overview) | [Visão geral do SE](#se-overview) | — | — |
 
 
 
 
+*⚠️ Tiger Builder: Sem pop-up do iOS e sem número de série. Usa o app FlyCC em vez disso, não é para todos.*
+
 ## Visão geral do V7 {#v7-overview}
 
-O V7 é a réplica mais recente do AirPods Pro 3, baseada no chipset Huilian 377H3. Ele introduz um sensor de frequência cardíaca, controles por gestos da cabeça para atender chamadas, ANC Híbrido com IA e um modo de jogos de baixa latência. Os fones de 45 mAh têm autonomia estimada em cerca de 7 horas de reprodução, e o estojo de 500 mAh oferece de 3 a 4 cargas completas.
+O V7 é a réplica mais recente do AirPods Pro 3, baseada no chipset Huilian 377H3. Ele introduz um sensor de frequência cardíaca, controles por gestos da cabeça para atender chamadas, ANC Híbrido com IA, áudio espacial com rastreamento da cabeça funcionando e um modo de jogos de baixa latência. Os fones de 45 mAh têm autonomia estimada em cerca de 7 horas de reprodução, e o estojo de 500 mAh oferece de 3 a 4 cargas completas.
 
 Ele ainda está em lançamento inicial — alguns membros relataram chiado com o ANC e outros problemas nas primeiras unidades. É provável que os lotes posteriores aperfeiçoem esses aspectos, mas confira as discussões recentes do [V7 no r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) para saber a opinião atual antes de comprar.
 
@@ -46,7 +48,7 @@ O SE é uma réplica do Pro 3 exclusiva da Jenny, equipada com o **chipset XiaoB
 Esta seção é baseada em nosso primeiro dia de testes práticos comparando-o tanto com um Pro 3 original quanto com o V7 Huilian — ainda não realizamos testes de bateria ou de longo prazo. Vamos atualizá-la após uma semana de uso real.
 :::
 
-O destaque é o ANC: facilmente o melhor que já ouvimos em qualquer réplica, superando até mesmo o V7 Huilian, mais caro, e chegando surpreendentemente perto do original. O som fica em torno de 80% do original — graves marcantes, vocais nítidos e modo Transparência muito natural. O áudio espacial com rastreamento da cabeça realmente funciona sem problemas (ao contrário dos primeiros lotes do V7), e ele inclui tradução em tempo real, ajuste deslizante do volume, carregamento sem fio e detecção intra-auricular. Os controles da haste respondem rapidamente, praticamente não há estática e a qualidade de construção é sólida, com ímãs fortes na tampa do estojo. A única particularidade física: é preciso pressionar com mais firmeza o toque duplo na frente do estojo para conectá-lo do que no original.
+O destaque é o ANC: facilmente o melhor que já ouvimos em qualquer réplica, superando até mesmo o V7 Huilian, mais caro, e chegando surpreendentemente perto do original. O som fica em torno de 80% do original — graves marcantes, vocais nítidos e modo Transparência muito natural. O áudio espacial com rastreamento da cabeça realmente funciona sem problemas, e ele inclui tradução em tempo real, ajuste deslizante do volume, carregamento sem fio e detecção intra-auricular. Os controles da haste respondem rapidamente, praticamente não há estática e a qualidade de construção é sólida, com ímãs fortes na tampa do estojo. A única particularidade física: é preciso pressionar com mais firmeza o toque duplo na frente do estojo para conectá-lo do que no original.
 
 As concessões para chegar ao preço de US$ 48 são: ele se conecta a apenas um dispositivo por vez (sem alternância contínua entre vários dispositivos ou iCloud Connect) e não possui reconhecimento de conversas nem atendimento de chamadas por gestos da cabeça (assentir/balançar). Embora o monitoramento de frequência cardíaca seja integrado, nossos testes mostraram uma diferença de 15–20 bpm em relação a um sensor de nível médico — suficiente para uma curiosidade casual, mas, se você quer um sensor óptico funcional, o V7 Huilian acompanha os valores com muito mais precisão.
 

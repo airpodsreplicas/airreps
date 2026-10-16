@@ -24,7 +24,7 @@ Bu tablo, belirli sürümlere göre çeşitli AirPods modellerinde bulunmayan en
 
 | AirPods Modeli | Esas Alınan Sürüm | Eksik Özellikler                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/tr/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Bul Ağı; kafa takibinin güvenilirliği aygıt yazılımına bağlıdır; Tiger Builder'da iOS açılır penceresi ve seri numarası yok |
+| [AirPods Pro 3](/tr/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Bul Ağı; Tiger Builder'da iOS açılır penceresi ve seri numarası yok |
 | [AirPods Pro 3](/tr/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Bul Ağı, iCloud geçişi, Konuşma Farkındalığı, kafa hareketleriyle arama kontrolleri; kalp atış hızı ölçümleri doğru değildir |
 | [AirPods Gen 4](/tr/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Bul Ağı ve özgün ürünlerin ince son işlem detayları |
 | [AirPods Pro 2](/tr/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Kusursuz Uzamsal Ses, Bul Ağı |

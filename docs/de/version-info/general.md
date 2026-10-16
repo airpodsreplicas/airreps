@@ -24,7 +24,7 @@ Diese Tabelle enthält eine Zusammenfassung der wichtigsten fehlenden Funktionen
 
 | AirPods-Modell | Basierend auf | Fehlende Funktionen                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/de/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Wo ist?-Netzwerk; die Zuverlässigkeit der Kopfverfolgung hängt von der Firmware ab; Tiger Builder hat kein iOS-Popup und keine Seriennummer |
+| [AirPods Pro 3](/de/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Wo ist?-Netzwerk; Tiger Builder hat kein iOS-Popup und keine Seriennummer |
 | [AirPods Pro 3](/de/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Wo ist?-Netzwerk, iCloud-Wechsel, Konversationserkennung und Anrufsteuerung per Kopfbewegung; die Herzfrequenzmessungen sind ungenau |
 | [AirPods Gen 4](/de/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Wo ist?-Netzwerk sowie subtile Details der Verarbeitung des Originals |
 | [AirPods Pro 2](/de/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Perfektes 3D-Audio, Wo ist?-Netzwerk |

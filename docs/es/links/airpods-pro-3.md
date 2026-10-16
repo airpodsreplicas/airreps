@@ -26,7 +26,7 @@ Las réplicas de AirPods Pro 3 son el modelo intraauricular más reciente, con l
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Helium</a>
+        <a href="https://airreps.link/hcprov7hl">Huilian</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
         <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
         <span class="link-note">⚠️ Sin ventana emergente de iOS y sin número de serie. Usa la app FlyCC en su lugar, no es para todo el mundo.</span>

@@ -13,26 +13,28 @@ Alle Pro-3-Modelle umfassen: USB-C-Laden, Lautstärkeregelung durch Wischen am S
 
 Klicke auf ein beliebiges Versionsabzeichen, um Community-Reviews zu diesem Modell zu finden.
 
-| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>[Helium](https://airreps.link/hcprov7hl)<br>[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)<br>⚠️ Kein iOS-Popup und keine Seriennummer. Nutzt stattdessen die FlyCC-App, nicht für jeden. | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(exklusiv bei Jenny) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>([Huilian](https://airreps.link/hcprov7hl) / [TB](https://hicitypods.com/product/pro-3-v7-tb/)) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(exklusiv bei Jenny) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipsatz** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
 | **ANC-Leistung** | Hybrid mit zwei Mikrofon-Feeds (~38–42 dB) / Adaptiv (bis 52 dB) | Hybrid der Spitzenklasse (~42 dB, am besten) | Gut (~36–38 dB) | Ordentlich (~32 dB) |
-| **Spatial Audio (Head-Tracking)** | ⚠️ Von der Firmware abhängig / ✅ Zwei ST-Gyros | ✅ Funktioniert fehlerfrei | ✅ Funktioniert | ❌ Fixiert (kein Tracking) |
+| **Spatial Audio (Head-Tracking)** | ✅ Funktioniert | ✅ Funktioniert fehlerfrei | ✅ Funktioniert | ❌ Fixiert (kein Tracking) |
 | **Echtzeitübersetzung** | ✅ Ja (iOS / Starfun) / ❌ Nein | ✅ Ja (iOS-Prompt) | ⚠️ Nur Huilian-Variante | ❌ Nein |
 | **Herzfrequenzmessung** | ✅ Optischer Sensor | ✅ Ja (für gelegentliche Messungen) | ❌ Nein | ❌ Nein |
 | **Steuerung per Kopfbewegung** | ✅ Ja (Nicken / Kopfschütteln) | ❌ Nein | ❌ Nein | ❌ Nein |
 | **Konversationsbewusstsein** | ✅ Ja | ❌ Nein | ⚠️ Nur Huilian-Variante | ❌ Nein |
-| **Mehrere Geräte / Wechsel** | iCloud (Helium) / 3 Geräte (Tiger Builder) | 1 Gerät | iCloud (HL) / 2 Geräte (TB) | 1 Gerät |
-| **App-EQ / Anpassung** | Starfun (Helium) / FlyCC (Tiger Builder) | ❌ Nein | Starfun (HL) / FlyCC (TB) | ❌ Nein |
+| **Mehrere Geräte / Wechsel** | iCloud (Huilian) / 3 Geräte (Tiger Builder) | 1 Gerät | iCloud (HL) / 2 Geräte (TB) | 1 Gerät |
+| **App-EQ / Anpassung** | Starfun (Huilian) / FlyCC (Tiger Builder) | ❌ Nein | Starfun (HL) / FlyCC (TB) | ❌ Nein |
 | **Preis / Preis-Leistungs-Kategorie** | ~68–75 $ (Flaggschiff) / 68 $ (statt 78 $) | ~48 $ (Top-Preis-Leistungs-Tipp) | ~38–45 $ (Mittelklasse) | ~25–30 $ (Budget) |
 | **Detaillierte Übersicht** | [V7-Übersicht](#v7-overview) | [SE-Übersicht](#se-overview) | — | — |
 
 
 
 
+*⚠️ Tiger Builder: Kein iOS-Popup und keine Seriennummer. Nutzt stattdessen die FlyCC-App, nicht für jeden.*
+
 ## V7-Übersicht {#v7-overview}
 
-Die V7 ist die neueste AirPods-Pro-3-Replica und basiert auf dem Huilian-377H3-Chipsatz. Sie führt einen Herzfrequenzsensor, Steuerung per Kopfbewegung zum Annehmen von Anrufen, hybride KI-ANC und einen Gaming-Modus mit niedriger Latenz ein. Die 45-mAh-Ohrhörer sind für eine Wiedergabezeit von etwa 7 Stunden ausgelegt, und das 500-mAh-Case ermöglicht 3–4 vollständige Aufladungen.
+Die V7 ist die neueste AirPods-Pro-3-Replica und basiert auf dem Huilian-377H3-Chipsatz. Sie führt einen Herzfrequenzsensor, Steuerung per Kopfbewegung zum Annehmen von Anrufen, hybride KI-ANC, funktionierendes Spatial Audio mit Head-Tracking und einen Gaming-Modus mit niedriger Latenz ein. Die 45-mAh-Ohrhörer sind für eine Wiedergabezeit von etwa 7 Stunden ausgelegt, und das 500-mAh-Case ermöglicht 3–4 vollständige Aufladungen.
 
 Sie ist noch eine frühe Veröffentlichung — einige Mitglieder haben bei den ersten Chargen Zischen während der ANC-Nutzung und weitere Kinderkrankheiten gemeldet. Spätere Chargen werden diese wahrscheinlich verbessern, aber sieh dir vor dem Kauf die aktuellen [V7-Threads auf r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) an, um die derzeitige Einschätzung der Community zu erfahren.
 
@@ -46,7 +48,7 @@ Die SE ist eine exklusiv bei Jenny erhältliche Pro-3-Replica mit dem **XiaoBai-
 Dieser Abschnitt basiert auf unserem ersten Tag praktischer Tests im Vergleich zu einer Pro 3 aus dem Handel und der V7 Huilian — bisher wurden weder die Akkulaufzeit noch die Langzeitnutzung getestet. Wir aktualisieren ihn nach einer Woche echter Nutzung.
 :::
 
-Das Hauptargument ist die ANC: Sie ist mit Abstand die beste, die wir bei einer Replica gehört haben, übertrifft sogar die teurere V7 Huilian und kommt bemerkenswert nah an das Original heran. Der Klang erreicht etwa 80 % des Originals — druckvoller Tieftonbereich, klare Stimmen und ein sehr natürlicher Transparenzmodus. Spatial Audio mit Head-Tracking funktioniert tatsächlich ohne Auffälligkeiten (anders als bei den frühen V7-Chargen), außerdem bietet sie Echtzeitübersetzung, Lautstärkeregelung durch Wischen, kabelloses Laden und In-Ear-Erkennung. Die Bedienelemente am Stiel reagieren schnell, statische Geräusche sind praktisch nicht vorhanden und die Verarbeitungsqualität ist solide, mit starken Magneten im Case-Deckel. Die einzige physische Besonderheit: Für die Verbindung per Doppeltipp auf die Vorderseite des Cases ist ein festerer Druck als beim Original erforderlich.
+Das Hauptargument ist die ANC: Sie ist mit Abstand die beste, die wir bei einer Replica gehört haben, übertrifft sogar die teurere V7 Huilian und kommt bemerkenswert nah an das Original heran. Der Klang erreicht etwa 80 % des Originals — druckvoller Tieftonbereich, klare Stimmen und ein sehr natürlicher Transparenzmodus. Spatial Audio mit Head-Tracking funktioniert tatsächlich ohne Auffälligkeiten, außerdem bietet sie Echtzeitübersetzung, Lautstärkeregelung durch Wischen, kabelloses Laden und In-Ear-Erkennung. Die Bedienelemente am Stiel reagieren schnell, statische Geräusche sind praktisch nicht vorhanden und die Verarbeitungsqualität ist solide, mit starken Magneten im Case-Deckel. Die einzige physische Besonderheit: Für die Verbindung per Doppeltipp auf die Vorderseite des Cases ist ein festerer Druck als beim Original erforderlich.
 
 Abstriche für den Preis von 48 $: Sie verbindet sich jeweils nur mit einem Gerät (kein nahtloser Wechsel zwischen mehreren Geräten und kein iCloud Connect) und verfügt weder über Konversationsbewusstsein noch über das Annehmen von Anrufen per Kopfbewegung (Nicken/Kopfschütteln). Die Herzfrequenzmessung ist zwar integriert, unsere Tests zeigten jedoch eine Abweichung von 15–20 Schlägen pro Minute gegenüber einem medizinischen Sensor — für gelegentliche Neugier ausreichend, aber wenn du einen funktionalen optischen Sensor möchtest, misst die V7 Huilian deutlich genauer.
 

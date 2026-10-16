@@ -26,7 +26,7 @@ AirPods Pro 3-Nachbildungen sind das neueste In-Ear-Modell mit den aktuellsten F
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Helium</a>
+        <a href="https://airreps.link/hcprov7hl">Huilian</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
         <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
         <span class="link-note">⚠️ Kein iOS-Popup und keine Seriennummer. Nutzt stattdessen die FlyCC-App, nicht für jeden.</span>

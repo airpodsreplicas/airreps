@@ -24,7 +24,7 @@ Ta tabela zawiera podsumowanie najważniejszych brakujących funkcji różnych m
 
 | Model AirPods | Na podstawie | Brakujące funkcje                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/pl/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Sieć Find My; niezawodność śledzenia ruchów głowy zależy od oprogramowania sprzętowego; Tiger Builder nie ma wyskakującego okienka iOS ani numeru seryjnego |
+| [AirPods Pro 3](/pl/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Sieć Find My; Tiger Builder nie ma wyskakującego okienka iOS ani numeru seryjnego |
 | [AirPods Pro 3](/pl/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Sieć Find My, przełączanie iCloud, rozpoznawanie rozmowy, sterowanie połączeniami za pomocą gestów głowy; odczyty tętna są niedokładne |
 | [AirPods Gen 4](/pl/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Sieć Find My oraz subtelne detale wykończenia jak w produkcie detalicznym |
 | [AirPods Pro 2](/pl/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Idealny dźwięk przestrzenny, sieć Find My |
