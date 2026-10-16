@@ -58,7 +58,7 @@ Todos os vendedores confiáveis aceitam vários métodos de pagamento para sua c
 |----------------|---------|--------|-------|
 | [**Cartão de crédito / débito**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ✅ | ❌ | ❌ |
+| **PayPal** | ✅ | ✅ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ✅ | ❌ | ✅ |

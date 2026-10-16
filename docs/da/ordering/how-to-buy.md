@@ -3,7 +3,7 @@ title: Sådan Køber Du AirPods-Kopier Sikkert
 description: 'Bestil AirPods-kopier sikkert. Betalingsmetoder, betroede sælgere, forsendelsestips og undgå svindel.'
 faq:
   - q: Hvilke betalingsmetoder accepterer betroede sælgere?
-    a: 'Betroede sælgere accepterer Kreditkort, Alipay, Revolut, Wise, Bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, der kan tilgås gennem agenter som KakoBuy. PayPal understøttes af Earhive, og KakoBuy-agenten accepterer det også.'
+    a: 'Betroede sælgere accepterer Kreditkort, Alipay, Revolut, Wise, Bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, der kan tilgås gennem agenter som KakoBuy. PayPal understøttes af Earhive og HiCity, og KakoBuy-agenten accepterer det også.'
   - q: 'Hvorfor bliver jeg omdirigeret til et krypto-websted, når jeg betaler med Kreditkort?'
     a: 'Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle Kreditkortbetalinger. Dit kort køber krypto, hvilket fuldfører ordren. For at undgå KYC, brug KakoBuy — en agent, der accepterer almindelige kreditkort uden identitetskontrol.'
   - q: Bemærkning om Alibaba-links og emballage
@@ -69,7 +69,7 @@ Fortæl sælgerne, at du er fra AirReps-fællesskabet. Dette vil sikre, at de yd
 ## Ofte stillede spørgsmål
 
 ::: details Hvilke betalingsmetoder accepterer betroede sælgere?
-Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, Alipay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, der kan nås gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [trin-for-trin KakoBuy-guide](/da/ordering/kakobuy). PayPal understøttes af Earhive, og agenten [KakoBuy](https://airreps.link/kakobuy) accepterer det også. Betalingsmuligheder kan variere efter sælger — se [betalingsmetodetabellen](/da/links/info#payment-methods) for en detaljeret oversigt.
+Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, Alipay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, der kan nås gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [trin-for-trin KakoBuy-guide](/da/ordering/kakobuy). PayPal understøttes af Earhive og HiCity, og agenten [KakoBuy](https://airreps.link/kakobuy) accepterer det også. Betalingsmuligheder kan variere efter sælger — se [betalingsmetodetabellen](/da/links/info#payment-methods) for en detaljeret oversigt.
 :::
 <span id="credit-card-note"></span>
 ::: details Hvorfor bliver jeg omdirigeret til en crypto-hjemmeside, når jeg betaler med kreditkort?
