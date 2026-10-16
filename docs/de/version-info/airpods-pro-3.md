@@ -7,24 +7,24 @@ description: 'Vergleiche die Replica-Versionen von AirPods Pro 3 (V7, SE, V6, V5
 **Kurzurteil:** Die exklusive **SE** von Jenny ist der herausragende Preis-Leistungs-Tipp der Pro-3-Serie — basierend auf dem XiaoBai-Chipsatz liefert sie die stärkste ANC-Leistung, die bei einer Replica getestet wurde (und übertrifft sogar die teurere V7), ein fehlerfreies Spatial Audio mit Head-Tracking, Echtzeitübersetzung und integrierte Herzfrequenzmessung für nur 48 $. Für die meisten Käufer, die zwischen SE und V7 wählen, liegt die SE beim Preis-Leistungs-Verhältnis und beim alltäglichen Hören deutlich vorn — siehe die [SE-Übersicht](#se-overview). Die **V6 Huilian** bleibt die richtige Wahl, wenn du iCloud Connect und den Wechsel zwischen mehreren Geräten möchtest. Die **V7** gewinnt, wenn Herzfrequenzgenauigkeit auf Fitnessniveau, Antworten per Kopfbewegung oder Konversationsbewusstsein unverzichtbar sind; lies aber zuerst die Hinweise zur frühen Veröffentlichung. Bei knappem Budget bietet die **V5.5** den Pro-3-Look für weniger Geld. Alle Versionen findest du in den [Kauflinks](/de/links/airpods-pro-3).
 
 ::: tip Gemeinsame Pro-3-Grundausstattung
-Alle Pro-3-Modelle umfassen: USB-C-Laden, Lautstärkeregelung durch Wischen am Stiel, aktive Geräuschunterdrückung, Transparenzmodus, In-Ear-Erkennung, Pro-3-iOS-Popup und Unterstützung für iOS 27.
+Alle Pro-3-Modelle umfassen: USB-C-Laden, Lautstärkeregelung durch Wischen am Stiel, aktive Geräuschunterdrückung, Transparenzmodus, In-Ear-Erkennung, Pro-3-iOS-Popup (nicht bei Tiger Builder) und Unterstützung für iOS 27.
 *(Hinweis: Keine Replica unterstützt Apples verschlüsseltes „Wo ist?“-Netzwerk.)*
 :::
 
 Klicke auf ein beliebiges Versionsabzeichen, um Community-Reviews zu diesem Modell zu finden.
 
-| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(exklusiv bei Jenny) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>[Helium](https://airreps.link/hcprov7hl)<br>[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)<br>⚠️ Kein iOS-Popup und keine Seriennummer. Nutzt stattdessen die FlyCC-App, nicht für jeden. | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(exklusiv bei Jenny) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
-| **Chipsatz** | Huilian 377H3 | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
-| **ANC-Leistung** | Hybrid mit zwei Mikrofon-Feeds (~38–42 dB) | Hybrid der Spitzenklasse (~42 dB, am besten) | Gut (~36–38 dB) | Ordentlich (~32 dB) |
-| **Spatial Audio (Head-Tracking)** | ⚠️ Von der Firmware abhängig | ✅ Funktioniert fehlerfrei | ✅ Funktioniert | ❌ Fixiert (kein Tracking) |
-| **Echtzeitübersetzung** | ✅ Ja (iOS / Starfun) | ✅ Ja (iOS-Prompt) | ⚠️ Nur Huilian-Variante | ❌ Nein |
+| **Chipsatz** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
+| **ANC-Leistung** | Hybrid mit zwei Mikrofon-Feeds (~38–42 dB) / Adaptiv (bis 52 dB) | Hybrid der Spitzenklasse (~42 dB, am besten) | Gut (~36–38 dB) | Ordentlich (~32 dB) |
+| **Spatial Audio (Head-Tracking)** | ⚠️ Von der Firmware abhängig / ✅ Zwei ST-Gyros | ✅ Funktioniert fehlerfrei | ✅ Funktioniert | ❌ Fixiert (kein Tracking) |
+| **Echtzeitübersetzung** | ✅ Ja (iOS / Starfun) / ❌ Nein | ✅ Ja (iOS-Prompt) | ⚠️ Nur Huilian-Variante | ❌ Nein |
 | **Herzfrequenzmessung** | ✅ Optischer Sensor | ✅ Ja (für gelegentliche Messungen) | ❌ Nein | ❌ Nein |
 | **Steuerung per Kopfbewegung** | ✅ Ja (Nicken / Kopfschütteln) | ❌ Nein | ❌ Nein | ❌ Nein |
 | **Konversationsbewusstsein** | ✅ Ja | ❌ Nein | ⚠️ Nur Huilian-Variante | ❌ Nein |
-| **Mehrere Geräte / Wechsel** | ✅ iCloud Connect | 1 Gerät | iCloud (HL) / 2 Geräte (TB) | 1 Gerät |
-| **App-EQ / Anpassung** | ✅ Starfun | ❌ Nein | Starfun (HL) / FlyCC (TB) | ❌ Nein |
-| **Preis / Preis-Leistungs-Kategorie** | ~68–75 $ (Flaggschiff) | ~48 $ (Top-Preis-Leistungs-Tipp) | ~38–45 $ (Mittelklasse) | ~25–30 $ (Budget) |
+| **Mehrere Geräte / Wechsel** | iCloud (Helium) / 3 Geräte (Tiger Builder) | 1 Gerät | iCloud (HL) / 2 Geräte (TB) | 1 Gerät |
+| **App-EQ / Anpassung** | Starfun (Helium) / FlyCC (Tiger Builder) | ❌ Nein | Starfun (HL) / FlyCC (TB) | ❌ Nein |
+| **Preis / Preis-Leistungs-Kategorie** | ~68–75 $ (Flaggschiff) / 68 $ (statt 78 $) | ~48 $ (Top-Preis-Leistungs-Tipp) | ~38–45 $ (Mittelklasse) | ~25–30 $ (Budget) |
 | **Detaillierte Übersicht** | [V7-Übersicht](#v7-overview) | [SE-Übersicht](#se-overview) | — | — |
 
 
@@ -35,6 +35,8 @@ Klicke auf ein beliebiges Versionsabzeichen, um Community-Reviews zu diesem Mode
 Die V7 ist die neueste AirPods-Pro-3-Replica und basiert auf dem Huilian-377H3-Chipsatz. Sie führt einen Herzfrequenzsensor, Steuerung per Kopfbewegung zum Annehmen von Anrufen, hybride KI-ANC und einen Gaming-Modus mit niedriger Latenz ein. Die 45-mAh-Ohrhörer sind für eine Wiedergabezeit von etwa 7 Stunden ausgelegt, und das 500-mAh-Case ermöglicht 3–4 vollständige Aufladungen.
 
 Sie ist noch eine frühe Veröffentlichung — einige Mitglieder haben bei den ersten Chargen Zischen während der ANC-Nutzung und weitere Kinderkrankheiten gemeldet. Spätere Chargen werden diese wahrscheinlich verbessern, aber sieh dir vor dem Kauf die aktuellen [V7-Threads auf r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) an, um die derzeitige Einschätzung der Community zu erfahren.
+
+**[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)** - Airoha 1571AM (昇龙悦虎八代 / Yuehu 8. Generation), gelistet für 68 $ (statt 78 $). Vom Verkäufer angegebene Funktionen: Herzfrequenzsensor, adaptives ANC bis 52 dB, Konversationsbewusstsein, Spatial Audio mit zwei ST-Gyros, Kopfbewegungen, Wisch-Lautstärke, Dual-Mic-ENC, 10-mm-Treiber, 45-mAh-Ohrhörer und 550-mAh-Qi-Case, Case-Lautsprecher und Multipoint für 3 Geräte. ⚠️ Kein iOS-Popup und keine Seriennummer. Nutzt stattdessen die FlyCC-App, nicht für jeden.
 
 ## SE-Übersicht {#se-overview}
 

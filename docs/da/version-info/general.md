@@ -24,7 +24,7 @@ Denne tabel giver en oversigt over de mest bemærkelsesværdige manglende funkti
 
 | AirPods-model | Baseret på | Manglende funktioner                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/da/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Find-netværket; pålideligheden af hovedsporing afhænger af firmwaren |
+| [AirPods Pro 3](/da/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Find-netværket; pålideligheden af hovedsporing afhænger af firmwaren; Tiger Builder har ingen iOS-popup og intet serienummer |
 | [AirPods Pro 3](/da/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Find-netværket, skift mellem iCloud-konti, samtalebevidsthed og opkaldsstyring med hovedbevægelser; pulsmålingerne er unøjagtige |
 | [AirPods Gen 4](/da/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Find-netværket samt diskrete detaljer i den originale finish |
 | [AirPods Pro 2](/da/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Perfekt rumlig lyd, Find-netværket |
@@ -61,7 +61,7 @@ AirPods Max-kopier er tilgængelige og modne. Flagskibsmodellerne V3 Metal bruge
 :::
 
 ::: details Findes der AirPods Pro 3-kopier?
-AirPods Pro 3-kopier er tilgængelige. Den Jenny-eksklusive SE (XiaoBai) er det bedste valg til prisen med ANC i særklasse. V7 (Huilian 377H3) tilføjer optisk pulssporing, AI Hybrid ANC og styring med hovedbevægelser. V6 (Huilian/TB) tilbyder en gennemprøvet mellemklassemodel med skift mellem iCloud-konti på Huilian, mens V5.5 dækker budgetsegmentet. Se siden med [versionsoplysninger om AirPods Pro 3](/da/version-info/airpods-pro-3) for flere oplysninger.
+AirPods Pro 3-kopier er tilgængelige. Den Jenny-eksklusive SE (XiaoBai) er det bedste valg til prisen med ANC i særklasse. V7 (Huilian 377H3) tilføjer optisk pulssporing, AI Hybrid ANC og styring med hovedbevægelser. V6 (Huilian/TB) tilbyder en gennemprøvet mellemklassemodel med skift mellem iCloud-konti på Huilian, mens V5.5 dækker budgetsegmentet. Tiger Builder (Airoha 1571AM, 68 $, normalpris 78 $) er den anden V7-udgave: ingen iOS-popup og intet serienummer, og den bruger FlyCC-appen. Se siden med [versionsoplysninger om AirPods Pro 3](/da/version-info/airpods-pro-3) for flere oplysninger.
 :::
 
 ::: details Hvorfor har lignende fællesskaber måske nyere produkter end denne vejledning?

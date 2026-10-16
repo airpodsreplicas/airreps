@@ -7,24 +7,24 @@ description: 'Sammenlign replika-versioner af AirPods Pro 3 (V7, SE, V6, V5.5) e
 **Kort dom:** den Jenny-eksklusive **SE** er det bedste køb i Pro 3-serien — med XiaoBai-chipsettet leverer den den stærkeste ANC, der er testet på en kopi (den slår endda den dyrere V7), fejlfri rumlig lyd med hovedsporing, realtidsoversættelse og indbygget pulsmåling for kun 48 $. For de fleste købere, der vælger mellem SE og V7, er SE klart bedst på værdi og daglig lytning — se [SE-oversigten](#se-overview). **V6 Huilian** er stadig valget, hvis du ønsker iCloud Connect og skift mellem flere enheder. **V7** vinder, hvis træningspræcis pulsmåling, besvarelse med hovedbevægelser eller samtalebevidsthed er ufravigelige krav, men læs noterne om den tidlige udgivelse først. Med et stramt budget giver **V5.5** dig Pro 3-designet billigere. Se [købslinks](/da/links/airpods-pro-3) til alle versioner.
 
 ::: tip Fælles Pro 3-grundlag
-Alle Pro 3-modeller inkluderer: USB-C-opladning, lydstyrkekontrol ved at skubbe på stilken, aktiv støjreduktion, transparenstilstand, registrering i øret, Pro 3-iOS-popup og understøttelse af iOS 27.
+Alle Pro 3-modeller inkluderer: USB-C-opladning, lydstyrkekontrol ved at skubbe på stilken, aktiv støjreduktion, transparenstilstand, registrering i øret, Pro 3-iOS-popup (ikke på Tiger Builder) og understøttelse af iOS 27.
 *(Bemærk: Ingen kopi understøtter Apples krypterede Find My-netværk.)*
 :::
 
 Klik på et versionsmærke for at finde fællesskabsanmeldelser af den model.
 
-| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>[Helium](https://airreps.link/hcprov7hl)<br>[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)<br>⚠️ Ingen iOS-popup og intet serienummer. Bruger FlyCC-appen i stedet, ikke for alle. | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
-| **Chipset** | Huilian 377H3 | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
-| **ANC-ydeevne** | Hybrid med dobbelt feed (~38–42 dB) | Hybrid i topklasse (~42 dB, bedst) | God (~36–38 dB) | Acceptabel (~32 dB) |
-| **Rumlig lyd (hovedsporing)** | ⚠️ Afhænger af firmwaren | ✅ Fungerer fejlfrit | ✅ Fungerer | ❌ Fast (ingen sporing) |
-| **Realtidsoversættelse** | ✅ Ja (iOS / Starfun) | ✅ Ja (iOS-prompt) | ⚠️ Kun Huilian-varianten | ❌ Nej |
+| **Chipset** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
+| **ANC-ydeevne** | Hybrid med dobbelt feed (~38–42 dB) / Adaptiv (op til 52 dB) | Hybrid i topklasse (~42 dB, bedst) | God (~36–38 dB) | Acceptabel (~32 dB) |
+| **Rumlig lyd (hovedsporing)** | ⚠️ Afhænger af firmwaren / ✅ To ST-gyroskoper | ✅ Fungerer fejlfrit | ✅ Fungerer | ❌ Fast (ingen sporing) |
+| **Realtidsoversættelse** | ✅ Ja (iOS / Starfun) / ❌ Nej | ✅ Ja (iOS-prompt) | ⚠️ Kun Huilian-varianten | ❌ Nej |
 | **Pulsmåling** | ✅ Optisk sensor | ✅ Ja (lejlighedsvis måling) | ❌ Nej | ❌ Nej |
 | **Kontrol med hovedbevægelser** | ✅ Ja (nik / ryst) | ❌ Nej | ❌ Nej | ❌ Nej |
 | **Samtalebevidsthed** | ✅ Ja | ❌ Nej | ⚠️ Kun Huilian-varianten | ❌ Nej |
-| **Flere enheder / skift** | ✅ iCloud Connect | 1 enhed | iCloud (HL) / 2 enheder (TB) | 1 enhed |
-| **App-EQ / tilpasning** | ✅ Starfun | ❌ Nej | Starfun (HL) / FlyCC (TB) | ❌ Nej |
-| **Pris / værditrin** | ~68–75 $ (flagskib) | ~48 $ (bedste køb) | ~38–45 $ (mellemklasse) | ~25–30 $ (budget) |
+| **Flere enheder / skift** | iCloud (Helium) / 3 enheder (Tiger Builder) | 1 enhed | iCloud (HL) / 2 enheder (TB) | 1 enhed |
+| **App-EQ / tilpasning** | Starfun (Helium) / FlyCC (Tiger Builder) | ❌ Nej | Starfun (HL) / FlyCC (TB) | ❌ Nej |
+| **Pris / værditrin** | ~68–75 $ (flagskib) / 68 $ (normal 78 $) | ~48 $ (bedste køb) | ~38–45 $ (mellemklasse) | ~25–30 $ (budget) |
 | **Detaljeret oversigt** | [V7-oversigt](#v7-overview) | [SE-oversigt](#se-overview) | — | — |
 
 
@@ -35,6 +35,8 @@ Klik på et versionsmærke for at finde fællesskabsanmeldelser af den model.
 V7 er den nyeste AirPods Pro 3-kopi, bygget på Huilian 377H3-chipsettet. Den introducerer en pulssensor, kontrol med hovedbevægelser til besvarelse af opkald, AI-hybrid-ANC og en spiltilstand med lav latenstid. De 45 mAh-store øretelefoner er angivet til omkring 7 timers afspilning, og etuiet på 500 mAh leverer 3–4 fulde opladninger.
 
 Det er stadig en tidlig udgivelse — nogle medlemmer har rapporteret hissen ved ANC og andre ujævnheder i de første partier. Senere partier vil sandsynligvis forbedre dette, men tjek de seneste [V7-tråde på r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) for den aktuelle stemning, før du køber.
+
+**[Tiger Builder](https://hicitypods.com/product/pro-3-v7-tb/)** - Airoha 1571AM (昇龙悦虎八代 / Yuehu 8. generation), angivet til 68 $ (normalpris 78 $). Funktioner angivet af sælgeren: pulssensor, adaptiv ANC op til 52 dB, samtalebevidsthed, rumlig lyd med to ST-gyroskoper, hovedbevægelser, swipe-lydstyrke, dual-mic ENC, 10 mm driver, 45 mAh ørepropper og et 550 mAh Qi-etui, etuihøjttaler og multipoint til 3 enheder. ⚠️ Ingen iOS-popup og intet serienummer. Bruger FlyCC-appen i stedet, ikke for alle.
 
 ## SE-oversigt {#se-overview}
 

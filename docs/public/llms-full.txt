@@ -214,7 +214,7 @@ All Models Missing: "Find My Network" Availability
 
 FAQ:
 - Are AirPods Max reps available? Yes. Jenny and HiCity sell them using the Airoha 1561M/1562AE. Prices have stabilized.
-- Are AirPods Pro 3 reps available? Yes, but only mid-end versions so far. No high-end TigerBuilder versions yet.
+- Are AirPods Pro 3 reps available? Yes. V7 covers Helium and Tiger Builder (Airoha 1571AM, https://hicitypods.com/product/pro-3-v7-tb/); Tiger Builder has no iOS popup and no serial number and uses the FlyCC app. SE, V6, and V5.5 are also available.
 - Why might similar communities have newer products? Other communities may have lower standards or use different naming schemes.
 - Which model is the best? The top-listed model is the latest. Consider your budget, shipping availability, and desired features.
 - How can I determine the version of a clone I found? Not possible without using it. Chip numbers and seller pictures are unreliable. Purchase from verified sellers to know exactly what you are getting.
@@ -226,10 +226,12 @@ FAQ:
 
 ## AirPods Pro 3 Version Comparison
 
-V7 | Chip: Huilian 377H3
+V7 | Chip: Huilian 377H3 (Helium) / Airoha 1571AM (Tiger Builder)
 Has: USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup, iOS 26 Support, Live Translation, iCloud Connect, Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode
 Missing: Find My Network
 Note: Early release — some first batches have reported ANC hissing and other rough edges; check recent V7 threads before buying.
+Helium: https://airreps.link/hcprov7hl
+Tiger Builder (https://hicitypods.com/product/pro-3-v7-tb/): heart-rate sensor, adaptive ANC up to 52 dB, conversation awareness, spatial audio with dual ST gyros and head gestures, swipe volume, dual-mic ENC, 10 mm driver, 45 mAh buds / 550 mAh Qi case, case speaker, multipoint for 3 devices. ⚠️ No iOS popup and no serial number. Uses the FlyCC app instead, not for everyone. Price $68 (regular $78).
 Reviews: https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1
 
 V6 | Chip: Airoha 1563E / Huilian 247
@@ -551,7 +553,7 @@ EPS                     No        Yes      No
 HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options were checked in HiCity's cashier on 4 September 2026. OnlyPay confirms final availability for each order. No OnlyPay option was listed for the US, Canada, Australia or France.
 
 AirPods Pro 3 Purchase Links:
-- V7 (Huilian): Earhive (https://airreps.link/eprov7hl), HiCity (https://airreps.link/hcprov7hl), Jenny (https://airreps.link/jprov7hl)
+- V7: Helium — Earhive (https://airreps.link/eprov7hl), HiCity (https://airreps.link/hcprov7hl), Jenny (https://airreps.link/jprov7hl); Tiger Builder — HiCity (https://hicitypods.com/product/pro-3-v7-tb/). ⚠️ No iOS popup and no serial number. Uses the FlyCC app instead, not for everyone.
 - V6 (TB): Earhive (https://airreps.link/eprov6tb), HiCity (https://airreps.link/hcprov6tb), Jenny (https://airreps.link/jprov6tb)
 - V6 (Huilian): Earhive (https://airreps.link/eprov6hl), HiCity (https://airreps.link/hcprov6hl), Jenny (https://airreps.link/jprov6hl)
 - V5.5: Earhive (https://airreps.link/eprov55), HiCity (https://airreps.link/hcprov55), Jenny (https://airreps.link/jprov55)
@@ -751,7 +753,7 @@ Approximate Prices (USD, as of 2026-06-01; prices fluctuate):
 - AirPods Pro 2 V5.3 Huilian: $56
 - AirPods Pro 2 V5.3 HR: $50
 - AirPods Pro 2 V5.3 HR+: $58
-- AirPods Pro 3 V7 Huilian: $67
+- AirPods Pro 3 V7: Helium $67; Tiger Builder $68 (regular $78)
 - AirPods Pro 3 V6 TB: $37
 - AirPods Pro 3 V6 Huilian: $43
 - AirPods Pro 3 V5.5: $27

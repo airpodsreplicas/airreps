@@ -24,7 +24,7 @@ description: 'Сравните версии реплик AirPods: чего не 
 
 | Модель AirPods | На основе | Отсутствующие функции                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/ru/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Сеть Find My; надёжность отслеживания движений головы зависит от прошивки |
+| [AirPods Pro 3](/ru/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Сеть Find My; надёжность отслеживания движений головы зависит от прошивки; у Tiger Builder нет всплывающего окна iOS и серийного номера |
 | [AirPods Pro 3](/ru/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Сеть Find My, переключение iCloud, распознавание разговора, управление звонками жестами головы; показания пульса неточны |
 | [AirPods Gen 4](/ru/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Сеть Find My и некоторые незаметные детали отделки оригинальных моделей |
 | [AirPods Pro 2](/ru/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Идеальное пространственное аудио, сеть Find My |
@@ -61,7 +61,7 @@ description: 'Сравните версии реплик AirPods: чего не 
 :::
 
 ::: details Доступны ли реплики AirPods Pro 3?
-Реплики AirPods Pro 3 доступны. Эксклюзивная для Jenny модель SE (XiaoBai) — лучший вариант по соотношению цены и качества с лучшим в своём классе ANC. V7 (Huilian 377H3) добавляет оптическое отслеживание пульса, гибридное ИИ-шумоподавление и управление жестами головы. V6 (Huilian/TB) предлагает проверенную модель среднего уровня с переключением iCloud в версии Huilian, а V5.5 предназначена для бюджетного сегмента. Подробнее см. на странице [информации о версиях AirPods Pro 3](/ru/version-info/airpods-pro-3).
+Реплики AirPods Pro 3 доступны. Эксклюзивная для Jenny модель SE (XiaoBai) — лучший вариант по соотношению цены и качества с лучшим в своём классе ANC. V7 (Huilian 377H3) добавляет оптическое отслеживание пульса, гибридное ИИ-шумоподавление и управление жестами головы. V6 (Huilian/TB) предлагает проверенную модель среднего уровня с переключением iCloud в версии Huilian, а V5.5 предназначена для бюджетного сегмента. Tiger Builder (Airoha 1571AM, $68, обычная цена $78) — вторая сборка V7: нет всплывающего окна iOS и серийного номера, используется приложение FlyCC. Подробнее см. на странице [информации о версиях AirPods Pro 3](/ru/version-info/airpods-pro-3).
 :::
 
 ::: details Почему в похожих сообществах могут быть более новые продукты, чем в этом руководстве?

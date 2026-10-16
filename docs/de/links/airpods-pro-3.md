@@ -16,7 +16,7 @@ AirPods Pro 3-Nachbildungen sind das neueste In-Ear-Modell mit den aktuellsten F
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td><span class="version-badge">V7</span></td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Website</a>
@@ -26,8 +26,10 @@ AirPods Pro 3-Nachbildungen sind das neueste In-Ear-Modell mit den aktuellsten F
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Website</a>
+        <a href="https://airreps.link/hcprov7hl">Helium</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
+        <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
+        <span class="link-note">⚠️ Kein iOS-Popup und keine Seriennummer. Nutzt stattdessen die FlyCC-App, nicht für jeden.</span>
       </div>
     </td>
     <td>

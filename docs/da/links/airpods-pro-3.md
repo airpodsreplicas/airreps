@@ -16,7 +16,7 @@ Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td><span class="version-badge">V7</span></td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Websted</a>
@@ -26,8 +26,10 @@ Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i
     </td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/hcprov7hl">Websted</a>
+        <a href="https://airreps.link/hcprov7hl">Helium</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
+        <a href="https://hicitypods.com/product/pro-3-v7-tb/" target="_blank" rel="noopener">Tiger Builder</a>
+        <span class="link-note">⚠️ Ingen iOS-popup og intet serienummer. Bruger FlyCC-appen i stedet, ikke for alle.</span>
       </div>
     </td>
     <td>

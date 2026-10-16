@@ -24,7 +24,7 @@ Esta tabela fornece um resumo dos recursos mais importantes ausentes em vários 
 
 | Modelo de AirPods | Baseado em | Recursos ausentes                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/pt/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Rede Buscar; a confiabilidade do rastreamento da cabeça depende do firmware |
+| [AirPods Pro 3](/pt/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Rede Buscar; a confiabilidade do rastreamento da cabeça depende do firmware; Tiger Builder não tem pop-up do iOS nem número de série |
 | [AirPods Pro 3](/pt/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Rede Buscar, alternância do iCloud, Reconhecimento de Conversa, controles de chamadas por gestos da cabeça; as leituras da frequência cardíaca são imprecisas |
 | [AirPods Gen 4](/pt/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Rede Buscar e detalhes sutis de acabamento dos modelos originais |
 | [AirPods Pro 2](/pt/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Áudio Espacial perfeito, Rede Buscar |
@@ -61,7 +61,7 @@ As réplicas dos AirPods Max estão disponíveis e são maduras. Os modelos V3 M
 :::
 
 ::: details As réplicas dos AirPods Pro 3 estão disponíveis?
-As réplicas dos AirPods Pro 3 estão disponíveis. O SE exclusivo da Jenny (XiaoBai) é a melhor opção em custo-benefício, com ANC líder da categoria. O V7 (Huilian 377H3) acrescenta rastreamento óptico da frequência cardíaca, ANC híbrido com IA e controles por gestos da cabeça. O V6 (Huilian/TB) oferece uma opção intermediária comprovada, com alternância do iCloud na Huilian, enquanto o V5.5 é a opção de entrada econômica. Para mais informações, consulte a página de [informações sobre as versões dos AirPods Pro 3](/pt/version-info/airpods-pro-3).
+As réplicas dos AirPods Pro 3 estão disponíveis. O SE exclusivo da Jenny (XiaoBai) é a melhor opção em custo-benefício, com ANC líder da categoria. O V7 (Huilian 377H3) acrescenta rastreamento óptico da frequência cardíaca, ANC híbrido com IA e controles por gestos da cabeça. O V6 (Huilian/TB) oferece uma opção intermediária comprovada, com alternância do iCloud na Huilian, enquanto o V5.5 é a opção de entrada econômica. Tiger Builder (Airoha 1571AM, US$ 68, de US$ 78) é a outra versão V7: sem pop-up do iOS e sem número de série, e usa o app FlyCC. Para mais informações, consulte a página de [informações sobre as versões dos AirPods Pro 3](/pt/version-info/airpods-pro-3).
 :::
 
 ::: details Por que comunidades semelhantes podem ter produtos mais novos do que os deste guia?
