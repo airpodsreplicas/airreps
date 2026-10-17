@@ -214,7 +214,7 @@ All Models Missing: "Find My Network" Availability
 
 FAQ:
 - Are AirPods Max reps available? Yes. Jenny and HiCity sell them using the Airoha 1561M/1562AE. Prices have stabilized.
-- Are AirPods Pro 3 reps available? Yes. The flagship V7 comes in two builds, Huilian (377H3) and Tiger Builder (Airoha 1571AM); the Tiger Builder V7 has no iOS popup and no serial number and uses the FlyCC app instead. The SE, V6, and V5.5 are also available.
+- Are AirPods Pro 3 reps available? Yes. The flagship V7 comes in two builds, Huilian (377H3) and TigerBuilder (Airoha 1571AM); the TigerBuilder V7 has no iOS popup and no serial number and uses the FlyCC app instead. The SE, V6, and V5.5 are also available.
 - Why might similar communities have newer products? Other communities may have lower standards or use different naming schemes.
 - Which model is the best? The top-listed model is the latest. Consider your budget, shipping availability, and desired features.
 - How can I determine the version of a clone I found? Not possible without using it. Chip numbers and seller pictures are unreliable. Purchase from verified sellers to know exactly what you are getting.
@@ -226,11 +226,11 @@ FAQ:
 
 ## AirPods Pro 3 Version Comparison
 
-V7 | Chip: Huilian 377H3 / Airoha 1571AM (Tiger Builder)
-Has: USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup (not on the Tiger Builder V7), iOS 26 Support, Live Translation (Huilian only), iCloud Connect (Huilian only), Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode
+V7 | Chip: Huilian 377H3 / Airoha 1571AM (TigerBuilder)
+Has: USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup (not on the TigerBuilder V7), iOS 26 Support, Live Translation (Huilian only), iCloud Connect (Huilian only), Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode
 Missing: Find My Network
 Note: Early release — some first batches have reported ANC hissing and other rough edges; check recent V7 threads before buying.
-Note: Pro 3 V7 (Tiger Builder version only): no iOS popup and no serial number. Uses the FlyCC app instead, not for everyone. The Huilian V7 is not affected. The Huilian build uses the Starfun app and iCloud Connect; the Tiger Builder build uses the FlyCC app and multipoint for 3 devices.
+Note: Pro 3 V7 (TigerBuilder version only): no iOS popup and no serial number. Uses the FlyCC app instead, not for everyone. The Huilian V7 is not affected. The Huilian build uses the Starfun app and iCloud Connect; the TigerBuilder build uses the FlyCC app and multipoint for 3 devices.
 Reviews: https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1
 
 V6 | Chip: Airoha 1563E / Huilian 247

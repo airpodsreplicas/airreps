@@ -24,7 +24,7 @@ Ta tabela zawiera podsumowanie najważniejszych brakujących funkcji różnych m
 
 | Model AirPods | Na podstawie | Brakujące funkcje                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/pl/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Sieć Find My; brak wyskakującego okna iOS i numeru seryjnego w V7 od Tiger Builder (używa aplikacji FlyCC) |
+| [AirPods Pro 3](/pl/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Sieć Find My; brak wyskakującego okna iOS i numeru seryjnego w V7 od TigerBuilder (używa aplikacji FlyCC) |
 | [AirPods Pro 3](/pl/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Sieć Find My, przełączanie iCloud, rozpoznawanie rozmowy, sterowanie połączeniami za pomocą gestów głowy; odczyty tętna są niedokładne |
 | [AirPods Gen 4](/pl/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Sieć Find My oraz subtelne detale wykończenia jak w produkcie detalicznym |
 | [AirPods Pro 2](/pl/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Idealny dźwięk przestrzenny, sieć Find My |
@@ -61,7 +61,7 @@ Repliki AirPods Max są dostępne i dopracowane. Flagowe modele V3 Metal wykorzy
 :::
 
 ::: details Czy repliki AirPods Pro 3 są dostępne?
-Repliki AirPods Pro 3 są dostępne. Dostępny wyłącznie u Jenny model SE (XiaoBai) to najlepszy wybór pod względem stosunku jakości do ceny, oferujący najlepszą w swojej klasie redukcję hałasu ANC. V7 (Huilian 377H3 / Tiger Builder Airoha 1571AM) dodaje optyczne śledzenie tętna, hybrydową redukcję hałasu ANC wspomaganą przez AI oraz sterowanie gestami głowy; pamiętaj, że V7 od Tiger Builder nie ma wyskakującego okna iOS ani numeru seryjnego i zamiast tego używa aplikacji FlyCC. V6 (Huilian/TB) oferuje sprawdzony model ze średniej półki, z przełączaniem iCloud w Huilian, a V5.5 to budżetowy wariant. Więcej informacji znajdziesz na stronie [informacje o wersjach AirPods Pro 3](/pl/version-info/airpods-pro-3).
+Repliki AirPods Pro 3 są dostępne. Dostępny wyłącznie u Jenny model SE (XiaoBai) to najlepszy wybór pod względem stosunku jakości do ceny, oferujący najlepszą w swojej klasie redukcję hałasu ANC. V7 (Huilian 377H3 / TigerBuilder Airoha 1571AM) dodaje optyczne śledzenie tętna, hybrydową redukcję hałasu ANC wspomaganą przez AI oraz sterowanie gestami głowy; pamiętaj, że V7 od TigerBuilder nie ma wyskakującego okna iOS ani numeru seryjnego i zamiast tego używa aplikacji FlyCC. V6 (Huilian/TB) oferuje sprawdzony model ze średniej półki, z przełączaniem iCloud w Huilian, a V5.5 to budżetowy wariant. Więcej informacji znajdziesz na stronie [informacje o wersjach AirPods Pro 3](/pl/version-info/airpods-pro-3).
 :::
 
 ::: details Dlaczego podobne społeczności mogą mieć nowsze produkty niż ten przewodnik?

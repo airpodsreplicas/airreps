@@ -7,7 +7,7 @@ description: 'Compara las versiones réplica de AirPods Pro 3 (V7, SE, V6, V5.5)
 **Veredicto rápido:** la **SE** exclusiva de Jenny es la opción con mejor relación calidad-precio de la serie Pro 3: basada en el chipset XiaoBai, ofrece la ANC más potente probada en cualquier réplica (superando incluso a la más cara V7), audio espacial con seguimiento de la cabeza que funciona a la perfección, traducción en tiempo real y monitorización de la frecuencia cardíaca integrada por solo 48 $. Para la mayoría de compradores que dudan entre la SE y la V7, la SE ofrece mucho más valor y una mejor experiencia de escucha diaria; consulta la [descripción general de la SE](#se-overview). La **V6 Huilian** sigue siendo la opción indicada si quieres iCloud Connect y cambio entre varios dispositivos. La **V7** gana si la precisión de la frecuencia cardíaca de nivel deportivo, responder con gestos de la cabeza o la detección de conversaciones son imprescindibles, pero consulta primero las notas sobre el lanzamiento inicial. Con un presupuesto ajustado, la **V5.5** ofrece el diseño de la Pro 3 por menos dinero. Consulta los [enlaces de compra](/es/links/airpods-pro-3) para ver todas las versiones.
 
 ::: tip Base común de la Pro 3
-Todos los modelos Pro 3 incluyen: carga USB-C, control deslizante del volumen en el tallo, cancelación activa de ruido, modo Transparencia, detección intraauricular, ventana emergente de la Pro 3 en iOS (no en la V7 de Tiger Builder) y compatibilidad con iOS 27.
+Todos los modelos Pro 3 incluyen: carga USB-C, control deslizante del volumen en el tallo, cancelación activa de ruido, modo Transparencia, detección intraauricular, ventana emergente de la Pro 3 en iOS (no en la V7 de TigerBuilder) y compatibilidad con iOS 27.
 *(Nota: ninguna réplica es compatible con la red cifrada Buscar de Apple.)*
 :::
 
@@ -27,7 +27,7 @@ Haz clic en cualquier distintivo de versión para consultar las reseñas de la c
 | **Precio / categoría de valor** | ~68–75 $ (gama alta) | ~48 $ (mejor relación calidad-precio) | ~38–45 $ (gama media) | ~25–30 $ (económica) |
 | **Descripción general detallada** | [Descripción general de la V7](#v7-overview) | [Descripción general de la SE](#se-overview) | — | — |
 
-*⚠️ Pro 3 V7 (solo la versión de Tiger Builder): sin ventana emergente de iOS y sin número de serie. Usa la app FlyCC en su lugar, no es para todo el mundo. La V7 de Huilian no está afectada.*
+*⚠️ Pro 3 V7 (solo la versión de TigerBuilder): sin ventana emergente de iOS y sin número de serie. Usa la app FlyCC en su lugar, no es para todo el mundo. La V7 de Huilian no está afectada.*
 
 ## Descripción general de la V7 {#v7-overview}
 
@@ -35,7 +35,7 @@ La V7 es la réplica más reciente de los AirPods Pro 3, basada en el chipset Hu
 
 Sigue siendo un lanzamiento inicial: algunos miembros han informado de siseos con la ANC y otros problemas menores en las primeras tandas. Es probable que las tandas posteriores los mejoren, pero consulta los [hilos recientes de la V7 en r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) para conocer la opinión actual antes de comprar.
 
-**Tiger Builder** es la segunda variante de la V7, basada en el chipset Airoha 1571AM, por unos 68 $. Entre las funciones que indica el vendedor están un sensor de frecuencia cardíaca, ANC adaptativa, detección de conversaciones, audio espacial con seguimiento de la cabeza, gestos de la cabeza, ajuste deslizante del volumen, ENC de doble micrófono, un controlador de 10 mm, auriculares de 45 mAh con estuche Qi de 550 mAh, altavoz en el estuche y conexión multipunto con 3 dispositivos. ⚠️ No tiene ventana emergente de iOS ni número de serie y usa la app FlyCC en su lugar; no es para todo el mundo. La V7 de Huilian no está afectada. La vende HiCity: consulta los [enlaces de compra](/es/links/airpods-pro-3).
+**TigerBuilder** es la segunda variante de la V7, basada en el chipset Airoha 1571AM, por unos 68 $. Entre las funciones que indica el vendedor están un sensor de frecuencia cardíaca, ANC adaptativa, detección de conversaciones, audio espacial con seguimiento de la cabeza, gestos de la cabeza, ajuste deslizante del volumen, ENC de doble micrófono, un controlador de 10 mm, auriculares de 45 mAh con estuche Qi de 550 mAh, altavoz en el estuche y conexión multipunto con 3 dispositivos. ⚠️ No tiene ventana emergente de iOS ni número de serie y usa la app FlyCC en su lugar; no es para todo el mundo. La V7 de Huilian no está afectada. La vende HiCity: consulta los [enlaces de compra](/es/links/airpods-pro-3).
 
 ## Descripción general de la SE {#se-overview}
 

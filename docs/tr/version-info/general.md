@@ -24,7 +24,7 @@ Bu tablo, belirli sürümlere göre çeşitli AirPods modellerinde bulunmayan en
 
 | AirPods Modeli | Esas Alınan Sürüm | Eksik Özellikler                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/tr/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Bul Ağı; Tiger Builder V7'de iOS açılır penceresi ve seri numarası yok (FlyCC uygulamasını kullanır) |
+| [AirPods Pro 3](/tr/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Bul Ağı; TigerBuilder V7'de iOS açılır penceresi ve seri numarası yok (FlyCC uygulamasını kullanır) |
 | [AirPods Pro 3](/tr/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Bul Ağı, iCloud geçişi, Konuşma Farkındalığı, kafa hareketleriyle arama kontrolleri; kalp atış hızı ölçümleri doğru değildir |
 | [AirPods Gen 4](/tr/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Bul Ağı ve özgün ürünlerin ince son işlem detayları |
 | [AirPods Pro 2](/tr/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Kusursuz Uzamsal Ses, Bul Ağı |
@@ -61,7 +61,7 @@ AirPods Max taklitleri satışta ve bu ürünler artık olgunlaşmış durumda. 
 :::
 
 ::: details AirPods Pro 3 taklitleri satışta mı?
-AirPods Pro 3 taklitleri satışta. Yalnızca Jenny'de bulunan SE (XiaoBai), sınıfının en iyisi ANC performansıyla en iyi fiyat-performans seçeneğidir. V7 (Huilian 377H3 / Tiger Builder Airoha 1571AM), optik kalp atış hızı takibi, AI Hybrid ANC ve kafa hareketi kontrolleri ekler; Tiger Builder V7'de iOS açılır penceresi ve seri numarası olmadığını, bunun yerine FlyCC uygulamasının kullanıldığını unutmayın. V6 (Huilian/TB), Huilian modelinde iCloud geçişi sunan, kendini kanıtlamış orta sınıf bir seçenektir; V5.5 ise bütçe dostu giriş seviyesi seçeneğidir. Daha fazla bilgi için [AirPods Pro 3 sürüm bilgileri](/tr/version-info/airpods-pro-3) sayfasına bakın.
+AirPods Pro 3 taklitleri satışta. Yalnızca Jenny'de bulunan SE (XiaoBai), sınıfının en iyisi ANC performansıyla en iyi fiyat-performans seçeneğidir. V7 (Huilian 377H3 / TigerBuilder Airoha 1571AM), optik kalp atış hızı takibi, AI Hybrid ANC ve kafa hareketi kontrolleri ekler; TigerBuilder V7'de iOS açılır penceresi ve seri numarası olmadığını, bunun yerine FlyCC uygulamasının kullanıldığını unutmayın. V6 (Huilian/TB), Huilian modelinde iCloud geçişi sunan, kendini kanıtlamış orta sınıf bir seçenektir; V5.5 ise bütçe dostu giriş seviyesi seçeneğidir. Daha fazla bilgi için [AirPods Pro 3 sürüm bilgileri](/tr/version-info/airpods-pro-3) sayfasına bakın.
 :::
 
 ::: details Benzer topluluklarda neden bu rehberdekilerden daha yeni ürünler bulunabiliyor?
