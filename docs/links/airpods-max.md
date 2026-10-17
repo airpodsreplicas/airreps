@@ -22,7 +22,6 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -44,7 +43,6 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -61,7 +59,6 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -78,7 +75,6 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>

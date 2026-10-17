@@ -125,7 +125,7 @@ function extractFaqsFromMarkdown(absPath: string): Array<{ q: string; a: string 
 // For /links/* pages: which trusted sellers actually have at least one link on
 // the page. Drives the CollectionPage ItemList so it doesn't advertise a seller
 // (e.g. HiCity on the AirPods 3 page, which lists none) that has no products
-// there. A seller's slugs (product, Weidian, Alibaba) only appear in its column
+// there. A seller's slugs (product, Weidian) only appear in its column
 // when that column has entries, so slug presence == seller present.
 const LINKS_PAGE_SELLERS: Array<{ key: string; name: string; url: string }> = [
     { key: 'earhive', name: 'Earhive', url: 'https://earhive.com' },

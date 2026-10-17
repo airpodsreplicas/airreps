@@ -140,11 +140,11 @@ Hybrid ANC: Combines both methods using internal and external microphones. Suppr
 
 ## Packaging
 
-No-Logo Box: White box, similar shape to original, with an image of AirPods but no "AirPods" text, Apple logos, or trademarks. Generic manual and cable. If you order using an Alibaba link, replicas will always be shipped in a No-Logo box.
+No-Logo Box: White box, similar shape to original, with an image of AirPods but no "AirPods" text, Apple logos, or trademarks. Generic manual and cable.
 
 Apple Logo Box: Mirrors legitimate AirPods packaging with "AirPods" text and Apple logos. Requesting this increases risk of customs seizure and potential fines. Many sellers use a double box technique.
 
-Double/Decoy Box: Best option for most buyers. Generic outer box with the Apple Logo Box hidden inside. Significantly reduces customs seizure risk. When you select Apple Logo Box at checkout, the double box is automatically included. Pre-selected on most payment methods. Not available through Alibaba.
+Double/Decoy Box: Best option for most buyers. Generic outer box with the Apple Logo Box hidden inside. Significantly reduces customs seizure risk. When you select Apple Logo Box at checkout, the double box is automatically included. Pre-selected on most payment methods.
 
 Box Quality: Can range from well-made to lower quality. Ask the seller for photos if box quality matters to you.
 
@@ -499,19 +499,9 @@ Note: Payments via Wise or Bank Transfer require manual review (up to 24 hours).
 
 Paying with AliPay: Many trusted sellers accept AliPay for easy card payments without KYC verification. Download the AliPay app, create an account, add a payment method, then scan the QR code at checkout.
 
-AliExpress/Alibaba Information: Customer service, refunds, and returns may not be as robust as with larger retailers. Payment is encrypted through AliPay. Research sellers before buying.
-
-Steps for AliExpress orders:
-1. Taxes: Trusted sellers take care of VAT/Taxes beforehand for European buyers.
-2. Product Box: Request "with Apple box" if desired, but this increases customs seizure risk. The AirPods inside are identical regardless of box.
-3. Order Confirmation (Optional): Message the seller to confirm the correct product. Let sellers know you are from the AirReps community.
-4. Shipping Timer: Extend the timer if needed. Only click "Order Received" after confirming good condition.
-
 FAQ:
 - What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bank Transfer, Bitcoin. All have Weidian storefronts. PayPal is supported by Earhive and HiCity, and the KakoBuy agent also accepts it.
 - Why am I redirected to a crypto website when paying via Credit Card? Sellers use a secure crypto payment gateway. Some processors may prompt for KYC. Alternative: Use KakoBuy (https://airreps.link/kakobuy) which never requires KYC verification.
-- Note on Alibaba: Orders through Alibaba always come with neutral packaging (no Apple logo box).
-
 ---
 
 ## Purchase Links
@@ -525,7 +515,6 @@ All sellers also have Weidian storefronts (requires agent like KakoBuy):
 - Earhive Weidian: https://airreps.link/earhivew
 - HiCity Weidian: https://airreps.link/hicityw
 - Jenny Weidian: https://airreps.link/jennyw
-- Earhive Alibaba: https://airreps.link/ehali
 
 Payment Methods by Seller:
 
@@ -540,7 +529,6 @@ Cash App (Lightning)    Yes       Yes      Yes
 Bitcoin/Crypto          Yes       Yes      Yes
 Bank Transfer           Yes       Yes      Yes
 Weidian (via agent)     Yes       Yes      Yes
-Alibaba                 Yes       No       No
 Trustly                 No        Yes      No
 Swish                   No        Yes      No
 PIX                     No        Yes      No

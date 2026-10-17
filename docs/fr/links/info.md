@@ -66,7 +66,6 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 | **Bitcoin / cryptomonnaies** | ✅ | ✅ | ✅ |
 | **Virement bancaire** | ✅ | ✅ | ✅ |
 | **Weidian (par l’intermédiaire d’un agent)** | ✅ | ✅ | ✅ |
-| **Alibaba** | ✅ | ❌ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |

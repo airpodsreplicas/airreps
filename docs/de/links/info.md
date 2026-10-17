@@ -66,7 +66,6 @@ Alle vertrauenswürdigen Verkäufer akzeptieren mehrere Zahlungsmethoden:
 | **Bitcoin / Kryptowährung** | ✅ | ✅ | ✅ |
 | **Banküberweisung** | ✅ | ✅ | ✅ |
 | **Weidian (über einen Agenten)** | ✅ | ✅ | ✅ |
-| **Alibaba** | ✅ | ❌ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |

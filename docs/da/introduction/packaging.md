@@ -12,10 +12,6 @@ AirPods-kopier fås i forskellige typer emballage, som hver har sine egne særli
 
 <img src="/nologobox.webp" alt="Æske uden logo" width="300" height="400"/>
 
-::: warning
-Hvis du bestiller via et **Alibaba**-link, bliver dine kopier **altid** sendt i en neutral æske uden logo for at undgå toldbeslaglæggelser og ophavsretskrav. Æsker med Apple-branding fås ikke via Alibaba.
-:::
-
 
 ## Æske med Apple-logo
 
@@ -31,7 +27,7 @@ Hvis du beder om en "Apple-æske", kan produktet blive beslaglagt i tolden. Mang
 
 Den bedste løsning for de fleste købere. En generisk yderæske, der ligner almindelige øretelefoner, med Apple-logoæsken skjult indeni. Det mindsker risikoen for toldbeslaglæggelse betydeligt, samtidig med at du stadig får den komplette Apple-brandede emballage.
 
-Når du vælger Apple-logoæsken ved betaling, medfølger dobbeltæsken automatisk — sælgere sender altid Apple-æsker indeni en lokkeæske som beskyttelse. Apple-æskeindstillingen er forudvalgt ved de fleste betalingsmetoder, men nogle kan opkræve et mindre ekstra gebyr. Hvis du bestiller via **Alibaba**, fås Apple-/dobbeltæsken **ikke** — du modtager altid en æske uden logo.
+Når du vælger Apple-logoæsken ved betaling, medfølger dobbeltæsken automatisk — sælgere sender altid Apple-æsker indeni en lokkeæske som beskyttelse. Apple-æskeindstillingen er forudvalgt ved de fleste betalingsmetoder, men nogle kan opkræve et mindre ekstra gebyr.
 
 <img src="/doublebox.webp" alt="Dobbelt-/lokkeæske" width="300" height="400"/>
 

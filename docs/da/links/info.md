@@ -66,7 +66,6 @@ Alle troværdige sælgere accepterer flere betalingsmetoder for din bekvemmeligh
 | **Bitcoin/krypto** | ✅ | ✅ | ✅ |
 | **Bankoverførsel** | ✅ | ✅ | ✅ |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
-| **Alibaba** | ✅ | ❌ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |

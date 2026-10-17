@@ -12,10 +12,6 @@ Logosuz kutu beyazdır ve orijinal AirPods kutusuna benzer bir şekle sahiptir. 
 
 <img src="/nologobox.webp" alt="Logosuz kutu" width="300" height="400"/>
 
-::: warning
-**Alibaba** bağlantısını kullanarak sipariş verirseniz replikalarınız, gümrükte el konulmasını ve telif hakkı ihlali bildirimlerini önlemek için **her zaman** nötr, logosuz bir kutuda gönderilir. Apple markalı kutular Alibaba üzerinden kullanılamaz.
-:::
-
 
 ## Apple logolu kutu
 
@@ -31,7 +27,7 @@ Apple logolu kutu, geleneksel “AirPods” yazısı ve Apple logolarını içer
 
 Çoğu alıcı için en iyi seçenek. Sıradan kulaklıklara benzeyen genel bir dış kutunun içinde Apple logolu kutu gizlenir. Bu yöntem, size Apple markalı ambalajın tamamını sunmaya devam ederken gümrükte el konulması riskini önemli ölçüde azaltır.
 
-Ödeme sırasında Apple logolu kutuyu seçtiğinizde çift kutu otomatik olarak eklenir — satıcılar koruma amacıyla Apple kutularını her zaman aldatıcı bir kutunun içinde gönderir. Apple kutusu seçeneği çoğu ödeme yönteminde önceden seçilidir, ancak bazıları küçük bir ek ücret talep edebilir. **Alibaba** üzerinden sipariş veriyorsanız Apple/çift kutu **kullanılamaz** — her zaman logosuz bir kutu alırsınız.
+Ödeme sırasında Apple logolu kutuyu seçtiğinizde çift kutu otomatik olarak eklenir — satıcılar koruma amacıyla Apple kutularını her zaman aldatıcı bir kutunun içinde gönderir. Apple kutusu seçeneği çoğu ödeme yönteminde önceden seçilidir, ancak bazıları küçük bir ek ücret talep edebilir.
 
 <img src="/doublebox.webp" alt="Çift/aldatıcı kutu" width="300" height="400"/>
 

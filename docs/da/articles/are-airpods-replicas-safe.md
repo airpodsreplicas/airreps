@@ -19,7 +19,7 @@ De fleste, der føler sig snydt af kopier, blev ikke skadet af elektronikken. De
 Der er tre almindelige versioner af dette:
 
 - **At betale ægte priser for en kopi.** Hvis et »helt nyt, forseglet par AirPods Pro« dukker op til 60 $ fra en fremmed, er der én af to ting, der foregår, og ingen af dem er gode. Tjek de aktuelle priser på kopier, og sammenlign dem derefter med et ægte tilbud — forskellen burde fortælle dig alt. Vores [guide til at afsløre kopier](/da/articles/how-to-spot-fake-airpods) dækker prisvurderingen og resten.
-- **En pakke, der beslaglægges i tolden.** En kasse med Apple-logoer på er en kasse, som tolden har en grund til at åbne. Hvis du specifikt beder om en »Apple-æske«, øger det reelt risikoen for beslaglæggelse, bøder eller destruktion, og derfor sender betroede sælgere Apple-æsker inde i en almindelig lokkeæske. Neutral emballage er den sikrere løsning, og det er den eneste mulighed gennem Alibaba.
+- **En pakke, der beslaglægges i tolden.** En kasse med Apple-logoer på er en kasse, som tolden har en grund til at åbne. Hvis du specifikt beder om en »Apple-æske«, øger det reelt risikoen for beslaglæggelse, bøder eller destruktion, og derfor sender betroede sælgere Apple-æsker inde i en almindelig lokkeæske. Neutral emballage er den sikrere løsning.
 - **Ingen mulighed for at få hjælp, når noget går galt.** Nogle betalingsmetoder, såsom Wise og bankoverførsel, tilbyder ikke køberbeskyttelse. Det er fint, når alt fungerer; det er et dårligt tidspunkt, når det ikke gør. At bestille fra en [betroet sælger](/da/introduction/sellers) og gennemgå kvalitetskontrolbilleder før afsendelse er det, der gør dette håndterbart.
 
 Det handler ikke om øretelefonerne. Det handler om handlen.

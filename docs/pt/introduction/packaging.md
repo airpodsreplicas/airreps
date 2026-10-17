@@ -12,10 +12,6 @@ A caixa sem logotipo é branca e tem um formato semelhante ao da caixa original 
 
 <img src="/nologobox.webp" alt="Caixa sem logotipo" width="300" height="400"/>
 
-::: warning
-Se você fizer o pedido usando um link do **Alibaba**, suas réplicas **sempre** serão enviadas em uma caixa neutra e sem logotipo, para evitar apreensões na alfândega e reclamações por violação de direitos autorais. Caixas com a marca Apple não estão disponíveis pelo Alibaba.
-:::
-
 
 ## Caixa com logotipo da Apple
 
@@ -31,7 +27,7 @@ Solicitar uma “caixa da Apple” pode levar à apreensão do produto na alfân
 
 A melhor opção para a maioria dos compradores. Uma caixa externa genérica que se parece com a de fones de ouvido comuns, com a caixa com logotipo da Apple escondida dentro. Isso reduz significativamente o risco de apreensão na alfândega, ao mesmo tempo que oferece toda a embalagem com a marca Apple.
 
-Quando você seleciona a caixa com logotipo da Apple na finalização da compra, a caixa dupla é incluída automaticamente — os vendedores sempre enviam as caixas da Apple dentro de uma caixa chamariz para proteção. A opção de caixa da Apple vem pré-selecionada na maioria dos métodos de pagamento, embora alguns possam cobrar uma pequena taxa adicional. Se você fizer o pedido pelo **Alibaba**, a caixa Apple/dupla **não está disponível** — você sempre receberá uma caixa sem logotipo.
+Quando você seleciona a caixa com logotipo da Apple na finalização da compra, a caixa dupla é incluída automaticamente — os vendedores sempre enviam as caixas da Apple dentro de uma caixa chamariz para proteção. A opção de caixa da Apple vem pré-selecionada na maioria dos métodos de pagamento, embora alguns possam cobrar uma pequena taxa adicional.
 
 <img src="/doublebox.webp" alt="Caixa dupla/chamariz" width="300" height="400"/>
 

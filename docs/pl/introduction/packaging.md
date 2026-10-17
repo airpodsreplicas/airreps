@@ -12,10 +12,6 @@ Pudełko bez logo jest białe i ma kształt podobny do oryginalnego pudełka Air
 
 <img src="/nologobox.webp" alt="Pudełko bez logo" width="300" height="400"/>
 
-::: warning
-Jeśli zamówisz produkt za pomocą linku **Alibaba**, Twoje podróbki **zawsze** zostaną wysłane w neutralnym pudełku bez logo, aby uniknąć zatrzymania przesyłki przez urząd celny i roszczeń z tytułu naruszenia praw autorskich. Pudełka z logo Apple nie są dostępne za pośrednictwem Alibaba.
-:::
-
 
 ## Pudełko z logo Apple
 
@@ -31,7 +27,7 @@ Prośba o „pudełko Apple” może doprowadzić do zatrzymania produktu przez 
 
 Najlepsza opcja dla większości kupujących. Uniwersalne pudełko zewnętrzne, które wygląda jak zwykłe opakowanie słuchawek dousznych, z ukrytym w środku pudełkiem z logo Apple. Znacznie zmniejsza to ryzyko zatrzymania przesyłki przez urząd celny, a jednocześnie pozwala otrzymać pełne opakowanie z logo Apple.
 
-Po wybraniu pudełka z logo Apple przy finalizacji zamówienia podwójne pudełko jest dołączane automatycznie — sprzedawcy zawsze wysyłają pudełka Apple wewnątrz podstępnego pudełka dla ochrony. Opcja pudełka Apple jest wstępnie zaznaczona przy większości metod płatności, choć niektóre z nich mogą wiązać się z niewielką dodatkową opłatą. Jeśli zamawiasz za pośrednictwem **Alibaba**, pudełko Apple/podwójne pudełko **nie jest dostępne** — zawsze otrzymasz pudełko bez logo.
+Po wybraniu pudełka z logo Apple przy finalizacji zamówienia podwójne pudełko jest dołączane automatycznie — sprzedawcy zawsze wysyłają pudełka Apple wewnątrz podstępnego pudełka dla ochrony. Opcja pudełka Apple jest wstępnie zaznaczona przy większości metod płatności, choć niektóre z nich mogą wiązać się z niewielką dodatkową opłatą.
 
 <img src="/doublebox.webp" alt="Podwójne/podstępne pudełko" width="300" height="400"/>
 

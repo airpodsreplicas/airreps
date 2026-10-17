@@ -6,8 +6,6 @@ faq:
     a: 'Vendedores confiáveis aceitam Cartões de Crédito, Alipay, Revolut, Wise, Transferência Bancária e Bitcoin. Todos os vendedores têm lojas Weidian acessíveis através de agentes como KakoBuy. PayPal é aceito pela Earhive e pela HiCity, e o agente KakoBuy também o aceita.'
   - q: Por que sou redirecionado para um site de cripto ao pagar com Cartão de Crédito?
     a: 'Vendedores confiáveis usam um gateway de pagamento cripto seguro para processar pagamentos com Cartão de Crédito. Seu cartão compra criptomoeda, que conclui o pedido. Para evitar KYC, use o KakoBuy — um agente que aceita cartões de crédito comuns sem verificações de identidade.'
-  - q: Nota sobre links do Alibaba e embalagem
-    a: A Apple reprime links de réplicas no AliExpress e no Alibaba. Pedidos feitos pelo Alibaba sempre vêm com embalagem neutra (sem caixa com logotipo da Apple). Os sites diretos dos vendedores e as lojas Weidian oferecem mais opções de embalagem.
 ---
 # Encomendas
 
@@ -39,33 +37,6 @@ Muitos vendedores confiáveis agora aceitam Alipay, permitindo pagamentos com ca
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-## Informações sobre AliExpress/Alibaba
-
-Ao comprar no AliExpress, tenha em mente que o atendimento ao cliente, reembolsos e devoluções podem não ser tão robustos quanto em varejistas maiores e mais estabelecidos, como a Amazon. As informações do seu pagamento são criptografadas pelo Alipay, tornando as compras seguras, mas esteja ciente das possíveis limitações em reembolsos e devoluções. *Compre por sua conta e risco.*
-
-Garanta que está satisfeito com sua compra pesquisando cuidadosamente o vendedor antes de comprar, observando suas políticas e reputação.
-
-Recomendamos os passos a seguir:
-
-1. **Impostos**: Recomendamos apenas vendedores confiáveis que cuidam do IVA/impostos antecipadamente para compradores europeus, para que você não tenha que pagar IVA quando o pacote chegar à UE.
-
-2. **Caixa do produto**: Para uma caixa com logos da Apple, solicite uma "caixa com logo da Apple" em vez de uma "caixa sem logo". No entanto, isso acarreta um risco maior de a encomenda ser apreendida na alfândega e você não receber um reembolso. Não recomendamos essa opção, pois os AirPods no interior são idênticos independentemente da caixa. Se quiser correr o risco, você pode solicitar uma caixa com logos da Apple. Saiba mais sobre tipos de caixa em nosso [guia de embalagem](/pt/introduction/packaging).
-
-::: warning
-Esta informação aplica-se ao fazer pedidos em vendedores diferentes dos sites HiCity ou Jenny AirReps. Se você pedir nesses sites, não precisa se preocupar com declarações alfandegárias ou tipo de caixa, pois serão tratados automaticamente.
-:::
-
-3. **Confirmação do pedido** (opcional): Após a compra, vá para a página do seu pedido e verifique o nome do produto (por exemplo, Pro 2 V5.2 TB). Clique em "Contact Supplier" para enviar uma mensagem ao vendedor e confirmar que estão enviando o produto correto. Não pergunte sobre recursos específicos ou detalhes como "Isto é v5.2 com chip Airoha?", pois os vendedores podem não usar esses nomes.
-
-::: tip
-Informe aos vendedores que você é da comunidade AirReps. Isso garantirá que ofereçam um serviço excelente e mantenham os padrões da nossa comunidade. Além disso, nos dá alavanca para defender futuros compradores como você.
-:::
-
-4. **Temporizador de envio**: Na sua página de pedido no AliExpress, haverá um temporizador de contagem regressiva de envio que confirmará automaticamente a entrega após determinado número de dias. Se o temporizador estiver prestes a expirar e você não tiver recebido seu pedido, certifique-se de clicar em "Estender prazo de envio" para se dar mais 15 dias. Só clique em "Pedido recebido" depois de ter recebido seu pedido e confirmado que está em bom funcionamento.
-
 ## Perguntas frequentes
 
 ::: details Quais métodos de pagamento os vendedores confiáveis aceitam?
@@ -78,10 +49,6 @@ Vendedores confiáveis usam um gateway de pagamento cripto seguro para processar
 **Nota: Alguns processadores de pagamento podem ocasionalmente solicitar verificação de identidade (KYC) para cumprir regulamentos locais, embora isso nem sempre seja necessário.**
 
 **Alternativa:** Se quiser evitar qualquer possibilidade de verificação KYC, considere usar [KakoBuy](https://airreps.link/kakobuy), uma plataforma de agente que compra produtos dos vendedores em seu nome e fornece fotos de controle de qualidade (QC) antes do envio. O KakoBuy usa processadores de pagamento regulares que aceitam cartões de crédito e débito e **nunca exigem verificação KYC** ou checagens de identidade. Isso o torna uma excelente opção se você prefere usar seu cartão sem requisitos KYC, ao mesmo tempo em que obtém a garantia adicional das fotos de QC. Veja nosso [guia de pedidos do KakoBuy](/pt/ordering/kakobuy) para detalhes.
-:::
-
-::: details Observação sobre links do Alibaba e embalagem
-A Apple age firmemente contra links de réplicas em plataformas como AliExpress e Alibaba. Embora vendedores (como a Earhive) ocasionalmente ofereçam links do Alibaba para compra, esteja ciente de que **pedidos feitos pelo Alibaba sempre virão com embalagem neutra (sem caixa com logo da Apple)** para evitar problemas com alfândega e direitos autorais. Os sites diretos dos vendedores e as lojas Weidian geralmente são mais seguros e oferecem opções de embalagem mais parecidas com as da Apple.
 :::
 
 ::: details As réplicas de AirPods são legais?

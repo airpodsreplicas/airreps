@@ -12,10 +12,6 @@ La caja sin logotipo es blanca y tiene una forma similar a la caja original de A
 
 <img src="/nologobox.webp" alt="Caja sin logotipo" width="300" height="400"/>
 
-::: warning
-Si haces el pedido mediante un enlace de **Alibaba**, tus réplicas **siempre** se enviarán en una caja neutra y sin logotipo para evitar incautaciones aduaneras y reclamaciones por derechos de autor. Las cajas con la marca Apple no están disponibles a través de Alibaba.
-:::
-
 
 ## Caja con logotipo de Apple
 
@@ -31,7 +27,7 @@ Solicitar una «caja de Apple» puede provocar la incautación del producto en l
 
 La mejor opción para la mayoría de los compradores. Una caja exterior genérica que parece la de unos auriculares comunes, con la caja con el logotipo de Apple oculta en el interior. Esto reduce considerablemente el riesgo de incautación aduanera y, al mismo tiempo, te permite recibir todo el embalaje con la marca Apple.
 
-Cuando seleccionas la caja con el logotipo de Apple al realizar el pago, la doble caja se incluye automáticamente: los vendedores siempre envían las cajas de Apple dentro de una caja de señuelo para protegerlas. La opción de caja de Apple viene preseleccionada en la mayoría de los métodos de pago, aunque algunos pueden cobrar una pequeña tarifa adicional. Si haces el pedido a través de **Alibaba**, la caja de Apple/doble **no está disponible**: siempre recibirás una caja sin logotipo.
+Cuando seleccionas la caja con el logotipo de Apple al realizar el pago, la doble caja se incluye automáticamente: los vendedores siempre envían las cajas de Apple dentro de una caja de señuelo para protegerlas. La opción de caja de Apple viene preseleccionada en la mayoría de los métodos de pago, aunque algunos pueden cobrar una pequeña tarifa adicional.
 
 <img src="/doublebox.webp" alt="Caja doble/de señuelo" width="300" height="400"/>
 

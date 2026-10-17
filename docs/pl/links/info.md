@@ -66,7 +66,6 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 | **Bitcoin / kryptowaluty** | ✅ | ✅ | ✅ |
 | **Przelew bankowy** | ✅ | ✅ | ✅ |
 | **Weidian (przez agenta)** | ✅ | ✅ | ✅ |
-| **Alibaba** | ✅ | ❌ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |

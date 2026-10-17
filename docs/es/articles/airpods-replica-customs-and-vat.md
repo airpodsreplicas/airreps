@@ -30,17 +30,13 @@ La caja doble existe porque los vendedores conocen el problema. Cuando seleccion
 
 Si quieres disfrutar de un desembalaje al estilo Apple, la caja doble es la forma de conseguirlo con el menor riesgo adicional. De lo contrario, la caja sin logotipo es la opción más discreta.
 
-## Los pedidos de Alibaba siempre usan embalaje neutro
-
-Hay una excepción que conviene conocer: **los pedidos realizados a través de Alibaba siempre se envían en una caja neutra y sin logotipo.** El embalaje con la marca Apple no está disponible allí en absoluto, y la [guía sobre cómo comprar](/es/ordering/how-to-buy) explica por qué: Alibaba y AliExpress están sometidos a una fuerte presión por parte de Apple debido a los anuncios de réplicas, así que el embalaje neutro es la forma en que los vendedores evitan problemas de aduanas y derechos de autor en esas plataformas. Si haces el pedido a través de Alibaba, esta decisión ya está tomada por ti.
-
 ## Compradores de la UE: los vendedores de confianza gestionan el IVA por adelantado
 
 La otra gran preocupación relacionada con aduanas es la factura inesperada: una solicitud de pago antes de que liberen tu paquete. Si haces el pedido a un [vendedor de confianza](/es/links/info), normalmente eso no ocurre.
 
 La [guía sobre cómo comprar](/es/ordering/how-to-buy) recomienda únicamente vendedores de confianza que «se encargan del IVA y los impuestos por adelantado para los compradores europeos, por lo que no tendrás que pagar el IVA cuando el paquete llegue a la UE». Pagas al finalizar la compra; no hay un segundo cobro a la llegada. El [resumen de opciones por menos de 50 $](/es/articles/best-airpods-replicas-under-50) repite el mismo punto para quienes buscan opciones económicas.
 
-Si haces el pedido directamente en las páginas web de HiCity o Jenny, el proceso requiere aún menos intervención: la guía sobre cómo comprar señala que en esos sitios las declaraciones de aduanas y el tipo de caja se gestionan automáticamente, así que no hay nada que configurar. Con otros vendedores —especialmente en anuncios de AliExpress— tú gestionas estas opciones. Ese es el compromiso, y por eso hacer el pedido a través de la propia página web del vendedor o de su tienda de Weidian suele ser la opción más segura.
+Si haces el pedido directamente en las páginas web de HiCity o Jenny, el proceso requiere aún menos intervención: la guía sobre cómo comprar señala que en esos sitios las declaraciones de aduanas y el tipo de caja se gestionan automáticamente, así que no hay nada que configurar. Con otros vendedores tú gestionas estas opciones. Ese es el compromiso, y por eso hacer el pedido a través de la propia página web del vendedor o de su tienda de Weidian suele ser la opción más segura.
 
 ## El seguimiento se quedará en silencio. Es normal
 

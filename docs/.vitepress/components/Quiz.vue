@@ -66,8 +66,6 @@ const i18n: Record<string, Record<string, string>> = {
         o_agent_d: 'Consolidate shipping, QC photos, more options',
         o_direct: 'Direct from a trusted seller',
         o_direct_d: 'Order from seller websites directly',
-        o_alibaba: 'Via Alibaba',
-        o_alibaba_d: 'Easy ordering, familiar platform',
         o_unsure: 'Not sure yet',
         o_unsure_d: "I'll decide later",
         q_seller: 'What matters most in a seller?',
@@ -97,7 +95,6 @@ const i18n: Record<string, Record<string, string>> = {
         fromEarhive: 'from Earhive',
         orderViaKakoBuy: 'Order via KakoBuy',
         viewWeidianLinks: 'View Weidian links',
-        orderFromAlibaba: 'Order from Earhive (Alibaba)',
         howToBuyGuide: 'How to Buy Guide',
         orderFrom: 'Order from',
         allSellerLinks: 'All seller links',
@@ -167,8 +164,6 @@ const i18n: Record<string, Record<string, string>> = {
         o_agent_d: 'Consolidar env\u00edos, fotos QC, m\u00e1s opciones',
         o_direct: 'Directo de un vendedor',
         o_direct_d: 'Pedir directamente en sitios web de vendedores',
-        o_alibaba: 'V\u00eda Alibaba',
-        o_alibaba_d: 'Pedido f\u00e1cil, plataforma conocida',
         o_unsure: 'A\u00fan no estoy seguro',
         o_unsure_d: 'Lo decidir\u00e9 despu\u00e9s',
         q_seller: '\u00bfQu\u00e9 es lo m\u00e1s importante en un vendedor?',
@@ -198,7 +193,6 @@ const i18n: Record<string, Record<string, string>> = {
         fromEarhive: 'en Earhive',
         orderViaKakoBuy: 'Pedir v\u00eda KakoBuy',
         viewWeidianLinks: 'Ver enlaces Weidian',
-        orderFromAlibaba: 'Pedir en Earhive (Alibaba)',
         howToBuyGuide: 'Gu\u00eda de compra',
         orderFrom: 'Pedir en',
         allSellerLinks: 'Todos los enlaces',
@@ -268,8 +262,6 @@ const i18n: Record<string, Record<string, string>> = {
         o_agent_d: 'Consolidar envios, fotos QC, mais op\u00e7\u00f5es',
         o_direct: 'Direto de um vendedor',
         o_direct_d: 'Pedir diretamente nos sites dos vendedores',
-        o_alibaba: 'Via Alibaba',
-        o_alibaba_d: 'Pedido f\u00e1cil, plataforma conhecida',
         o_unsure: 'Ainda n\u00e3o sei',
         o_unsure_d: 'Vou decidir depois',
         q_seller: 'O que \u00e9 mais importante em um vendedor?',
@@ -299,7 +291,6 @@ const i18n: Record<string, Record<string, string>> = {
         fromEarhive: 'na Earhive',
         orderViaKakoBuy: 'Pedir via KakoBuy',
         viewWeidianLinks: 'Ver links Weidian',
-        orderFromAlibaba: 'Pedir na Earhive (Alibaba)',
         howToBuyGuide: 'Guia de compra',
         orderFrom: 'Pedir na',
         allSellerLinks: 'Todos os links',
@@ -369,8 +360,6 @@ const i18n: Record<string, Record<string, string>> = {
         o_agent_d: 'Konsolider forsendelser, QC-billeder, flere muligheder',
         o_direct: 'Direkte fra en s\u00e6lger',
         o_direct_d: 'Bestil direkte fra s\u00e6lgers hjemmesider',
-        o_alibaba: 'Via Alibaba',
-        o_alibaba_d: 'Nem bestilling, kendt platform',
         o_unsure: 'Ikke sikker endnu',
         o_unsure_d: 'Jeg beslutter senere',
         q_seller: 'Hvad er vigtigst ved en s\u00e6lger?',
@@ -400,7 +389,6 @@ const i18n: Record<string, Record<string, string>> = {
         fromEarhive: 'fra Earhive',
         orderViaKakoBuy: 'Bestil via KakoBuy',
         viewWeidianLinks: 'Se Weidian-links',
-        orderFromAlibaba: 'Bestil fra Earhive (Alibaba)',
         howToBuyGuide: 'K\u00f8bsguide',
         orderFrom: 'Bestil fra',
         allSellerLinks: 'Alle s\u00e6lgerlinks',
@@ -470,8 +458,6 @@ const i18n: Record<string, Record<string, string>> = {
         o_agent_d: "Consolider les envois, photos QC, plus d'options",
         o_direct: 'Direct chez un vendeur',
         o_direct_d: 'Commander directement sur les sites des vendeurs',
-        o_alibaba: 'Via Alibaba',
-        o_alibaba_d: 'Commande facile, plateforme connue',
         o_unsure: 'Pas encore s\u00fbr',
         o_unsure_d: 'Je d\u00e9ciderai plus tard',
         q_seller: "Qu'est-ce qui compte le plus chez un vendeur ?",
@@ -501,7 +487,6 @@ const i18n: Record<string, Record<string, string>> = {
         fromEarhive: 'chez Earhive',
         orderViaKakoBuy: 'Commander via KakoBuy',
         viewWeidianLinks: 'Voir les liens Weidian',
-        orderFromAlibaba: 'Commander chez Earhive (Alibaba)',
         howToBuyGuide: "Guide d'achat",
         orderFrom: 'Commander chez',
         allSellerLinks: 'Tous les liens',
@@ -571,8 +556,6 @@ const i18n: Record<string, Record<string, string>> = {
         o_agent_d: 'Konsolidacja wysy\u0142ek, zdj\u0119cia QC, wi\u0119cej opcji',
         o_direct: 'Bezpo\u015brednio od sprzedawcy',
         o_direct_d: 'Zam\u00f3w bezpo\u015brednio na stronach sprzedawc\u00f3w',
-        o_alibaba: 'Przez Alibab\u0119',
-        o_alibaba_d: '\u0141atwe zamawianie, znana platforma',
         o_unsure: 'Jeszcze nie wiem',
         o_unsure_d: 'Zdecyduj\u0119 p\u00f3\u017aniej',
         q_seller: 'Co jest najwa\u017cniejsze u sprzedawcy?',
@@ -602,7 +585,6 @@ const i18n: Record<string, Record<string, string>> = {
         fromEarhive: 'w Earhive',
         orderViaKakoBuy: 'Zam\u00f3w przez KakoBuy',
         viewWeidianLinks: 'Zobacz linki Weidian',
-        orderFromAlibaba: 'Zam\u00f3w w Earhive (Alibaba)',
         howToBuyGuide: 'Poradnik zakupowy',
         orderFrom: 'Zam\u00f3w w',
         allSellerLinks: 'Wszystkie linki',
@@ -709,9 +691,6 @@ const i18n: Record<string, Record<string, string>> = {
             '\u041d\u0430\u043f\u0440\u044f\u043c\u0443\u044e \u043e\u0442 \u043f\u0440\u043e\u0434\u0430\u0432\u0446\u0430',
         o_direct_d:
             '\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u043d\u0430 \u0441\u0430\u0439\u0442\u0430\u0445 \u043f\u0440\u043e\u0434\u0430\u0432\u0446\u043e\u0432',
-        o_alibaba: '\u0427\u0435\u0440\u0435\u0437 Alibaba',
-        o_alibaba_d:
-            '\u041f\u0440\u043e\u0441\u0442\u043e\u0439 \u0437\u0430\u043a\u0430\u0437, \u0437\u043d\u0430\u043a\u043e\u043c\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430',
         o_unsure: '\u0415\u0449\u0451 \u043d\u0435 \u0443\u0432\u0435\u0440\u0435\u043d',
         o_unsure_d: '\u0420\u0435\u0448\u0443 \u043f\u043e\u0437\u0436\u0435',
         q_seller:
@@ -757,8 +736,6 @@ const i18n: Record<string, Record<string, string>> = {
             '\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0447\u0435\u0440\u0435\u0437 KakoBuy',
         viewWeidianLinks:
             '\u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u0441\u044b\u043b\u043a\u0438 Weidian',
-        orderFromAlibaba:
-            '\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0432 Earhive (Alibaba)',
         howToBuyGuide:
             '\u0413\u0430\u0439\u0434 \u043f\u043e \u043f\u043e\u043a\u0443\u043f\u043a\u0435',
         orderFrom: '\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0432',
@@ -839,8 +816,6 @@ const i18n: Record<string, Record<string, string>> = {
         o_agent_d: 'Versand b\u00fcndeln, QC-Fotos, mehr Auswahl',
         o_direct: 'Direkt beim Verk\u00e4ufer',
         o_direct_d: 'Direkt auf den Websites der Verk\u00e4ufer bestellen',
-        o_alibaba: '\u00dcber Alibaba',
-        o_alibaba_d: 'Einfache Bestellung, bekannte Plattform',
         o_unsure: 'Noch unsicher',
         o_unsure_d: 'Entscheide ich sp\u00e4ter',
         q_seller: 'Was ist dir bei einem Verk\u00e4ufer am wichtigsten?',
@@ -870,7 +845,6 @@ const i18n: Record<string, Record<string, string>> = {
         fromEarhive: 'bei Earhive',
         orderViaKakoBuy: '\u00dcber KakoBuy bestellen',
         viewWeidianLinks: 'Weidian-Links ansehen',
-        orderFromAlibaba: 'Bei Earhive bestellen (Alibaba)',
         howToBuyGuide: 'Kaufanleitung',
         orderFrom: 'Bestellen bei',
         allSellerLinks: 'Alle Verk\u00e4ufer-Links',
@@ -940,8 +914,6 @@ const i18n: Record<string, Record<string, string>> = {
         o_agent_d: 'Kargo birle\u015ftirme, QC foto\u011fraflar\u0131, daha fazla se\u00e7enek',
         o_direct: 'Do\u011frudan sat\u0131c\u0131dan',
         o_direct_d: 'Sat\u0131c\u0131 web sitelerinden do\u011frudan sipari\u015f ver',
-        o_alibaba: 'Alibaba \u00fczerinden',
-        o_alibaba_d: 'Kolay sipari\u015f, bilinen platform',
         o_unsure: 'Hen\u00fcz emin de\u011filim',
         o_unsure_d: 'Sonra karar veririm',
         q_seller: 'Bir sat\u0131c\u0131da senin i\u00e7in en \u00f6nemli olan ne?',
@@ -971,7 +943,6 @@ const i18n: Record<string, Record<string, string>> = {
         fromEarhive: "Earhive'den",
         orderViaKakoBuy: 'KakoBuy ile sipari\u015f ver',
         viewWeidianLinks: 'Weidian linklerini g\u00f6r',
-        orderFromAlibaba: "Earhive'den sipari\u015f ver (Alibaba)",
         howToBuyGuide: 'Sat\u0131n Alma Rehberi',
         orderFrom: 'Sipari\u015f ver:',
         allSellerLinks: 'T\u00fcm sat\u0131c\u0131 linkleri',
@@ -1097,7 +1068,6 @@ const sellers = {
             'Cash App',
             'Bitcoin/Crypto',
             'Bank Transfer',
-            'Alibaba',
         ],
     },
     jenny: {
@@ -1224,7 +1194,6 @@ const activeQuestions = computed<QuizQuestion[]>(() => {
         options: [
             { value: 'agent', label: t('o_agent'), desc: t('o_agent_d') },
             { value: 'direct', label: t('o_direct'), desc: t('o_direct_d') },
-            { value: 'alibaba', label: t('o_alibaba'), desc: t('o_alibaba_d') },
             { value: 'unsure', label: t('o_unsure'), desc: t('o_unsure_d') },
         ],
     });
@@ -1283,10 +1252,6 @@ const rotatedDefault = rotatedSellers[0].seller;
 // --- Seller recommendation ---
 const recommendedSeller = computed(() => {
     const { ordering, sellerPriority, payment } = answers.value;
-
-    if (ordering === 'alibaba') {
-        return sellers.earhive;
-    }
 
     if (ordering === 'agent' || ordering === 'direct') {
         if (sellerPriority === 'price') {
@@ -1739,16 +1704,6 @@ function restart() {
           </a>
           <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allSellerLinks') }} &rarr;
-          </a>
-        </div>
-
-        <!-- Alibaba -->
-        <div v-else-if="answers.ordering === 'alibaba'" class="quiz-buy-list">
-          <a href="https://airreps.link/ehali" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
-            {{ t('orderFromAlibaba') }}
-          </a>
-          <a :href="localeUrl('/ordering/how-to-buy')" class="quiz-buy-link secondary">
-            {{ t('howToBuyGuide') }} &rarr;
           </a>
         </div>
 

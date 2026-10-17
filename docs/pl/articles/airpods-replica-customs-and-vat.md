@@ -30,17 +30,13 @@ Podwójne pudełko istnieje, ponieważ sprzedawcy znają ten problem. Gdy podcza
 
 Jeśli zależy Ci na rozpakowywaniu w stylu Apple, podwójne pudełko pozwala uzyskać ten efekt przy najmniejszym dodatkowym ryzyku. W przeciwnym razie pudełko bez logo jest mniej rzucającym się w oczy wyborem.
 
-## Zamówienia z Alibaba są zawsze neutralne
-
-Warto znać jeden wyjątek: **zamówienia składane za pośrednictwem Alibaba są zawsze wysyłane w neutralnym pudełku bez logo.** Markowe opakowanie Apple nie jest tam w ogóle dostępne, a [przewodnik zakupowy](/pl/ordering/how-to-buy) wyjaśnia dlaczego — Alibaba i AliExpress znajdują się pod silną presją Apple z powodu ofert replik, więc neutralne opakowanie pozwala sprzedawcom unikać problemów celnych i związanych z prawami autorskimi na tych platformach. Jeśli zamawiasz przez Alibaba, ta decyzja została już podjęta za Ciebie.
-
 ## Kupujący z UE: zaufani sprzedawcy opłacają VAT z góry
 
 Drugą dużą obawą związaną z odprawą celną jest niespodziewany rachunek — żądanie opłaty przed zwolnieniem paczki. Jeśli zamawiasz od [zaufanego sprzedawcy](/pl/links/info), zwykle do tego nie dochodzi.
 
 [Przewodnik zakupowy](/pl/ordering/how-to-buy) zaleca wyłącznie zaufanych sprzedawców, którzy „zajmują się VAT-em/podatkami z wyprzedzeniem w przypadku kupujących z Europy, dzięki czemu nie trzeba płacić VAT-u po dotarciu paczki do UE”. Płacisz przy zakupie — przy odbiorze nie ma drugiej opłaty. [Zestawienie opcji poniżej 50 USD](/pl/articles/best-airpods-replicas-under-50) powtarza tę samą informację w przypadku kupujących z ograniczonym budżetem.
 
-Jeśli zamawiasz bezpośrednio ze stron internetowych HiCity lub Jenny, wszystko jest jeszcze prostsze — przewodnik zakupowy podaje, że na tych stronach deklaracje celne i rodzaj pudełka są obsługiwane automatycznie, więc nie ma czego konfigurować. W przypadku innych sprzedawców — szczególnie ofert na AliExpress — samodzielnie zarządzasz tymi wyborami. To kompromis i właśnie dlatego zamawianie za pośrednictwem własnej strony sprzedawcy lub sklepu Weidian jest zazwyczaj bezpieczniejszym rozwiązaniem.
+Jeśli zamawiasz bezpośrednio ze stron internetowych HiCity lub Jenny, wszystko jest jeszcze prostsze — przewodnik zakupowy podaje, że na tych stronach deklaracje celne i rodzaj pudełka są obsługiwane automatycznie, więc nie ma czego konfigurować. W przypadku innych sprzedawców samodzielnie zarządzasz tymi wyborami. To kompromis i właśnie dlatego zamawianie za pośrednictwem własnej strony sprzedawcy lub sklepu Weidian jest zazwyczaj bezpieczniejszym rozwiązaniem.
 
 ## Śledzenie przestanie działać. To normalne
 

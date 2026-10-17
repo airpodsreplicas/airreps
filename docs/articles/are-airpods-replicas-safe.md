@@ -20,7 +20,7 @@ Most people who feel burned by replicas weren't harmed by the electronics. They 
 There are three common versions of this:
 
 - **Paying genuine prices for a clone.** If a "brand new sealed AirPods Pro" shows up for $60 from a stranger, one of two things is happening, and neither is good. Check current replica pricing, then compare it against a real listing — the gap should tell you everything. Our [fake-spotting guide](/articles/how-to-spot-fake-airpods) covers the price sanity check and the rest.
-- **A package seized at customs.** A box with Apple logos on it is a box customs has a reason to open. Requesting an "Apple box" genuinely increases the odds of seizure, fines, or destruction, which is why trusted sellers ship Apple boxes inside a plain decoy box. Neutral packaging is the safer route, and it's the only option through Alibaba.
+- **A package seized at customs.** A box with Apple logos on it is a box customs has a reason to open. Requesting an "Apple box" genuinely increases the odds of seizure, fines, or destruction, which is why trusted sellers ship Apple boxes inside a plain decoy box. Neutral packaging is the safer route.
 - **No recourse when something goes wrong.** Some payment methods, like Wise and bank transfer, don't offer buyer protection. That's fine when everything works; it's a bad time when it doesn't. Ordering from a [trusted seller](/introduction/sellers) and reviewing QC photos before shipping is what keeps this manageable.
 
 None of that is about the earbuds. It's about the transaction.

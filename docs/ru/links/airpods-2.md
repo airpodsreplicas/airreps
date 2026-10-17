@@ -21,7 +21,6 @@ description: Надёжные ссылки продавцов и вариант�
       <div class="link-column">
         <a href="https://airreps.link/e2v3e">Сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

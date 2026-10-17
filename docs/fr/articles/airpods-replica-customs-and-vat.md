@@ -30,17 +30,13 @@ La boîte double existe parce que les vendeurs connaissent le problème. Lorsque
 
 Si vous voulez un déballage complet dans le style Apple, la boîte double est la solution qui ajoute le moins de risques. Sinon, la boîte sans logo est le choix le plus discret.
 
-## Les commandes Alibaba sont toujours neutres
-
-Une exception mérite d’être connue : **les commandes passées via Alibaba sont toujours expédiées dans une boîte neutre, sans logo.** Les emballages aux couleurs d’Apple n’y sont pas du tout disponibles, et le [guide d’achat](/fr/ordering/how-to-buy) explique pourquoi — Alibaba et AliExpress subissent une forte pression d’Apple concernant les annonces de répliques, si bien que l’emballage neutre permet aux vendeurs d’éviter les problèmes de douane et de droits d’auteur sur ces plateformes. Si vous commandez via Alibaba, cette décision est déjà prise pour vous.
-
 ## Acheteurs de l’UE : la TVA est réglée à l’avance par les vendeurs de confiance
 
 L’autre grande inquiétude liée à la douane est la facture surprise — une demande de paiement avant la libération de votre colis. Si vous commandez auprès d’un [vendeur de confiance](/fr/links/info), cela n’arrive généralement pas.
 
 Le [guide d’achat](/fr/ordering/how-to-buy) recommande uniquement des vendeurs de confiance qui « s’occupent à l’avance de la TVA et des taxes pour les acheteurs européens, afin que vous n’ayez pas à payer la TVA à l’arrivée du colis dans l’UE ». Vous payez au moment de la commande ; il n’y a pas de second paiement à l’arrivée. Le [récapitulatif des modèles à moins de 50 $](/fr/articles/best-airpods-replicas-under-50) rappelle le même point pour les acheteurs à petit budget.
 
-Si vous commandez directement sur les sites de HiCity ou de Jenny, c’est encore plus simple — le guide d’achat précise que, sur ces sites, les déclarations en douane et le type de boîte sont gérés automatiquement, et qu’il n’y a donc rien à configurer. Avec les autres vendeurs — en particulier les annonces AliExpress — vous gérez vous-même ces choix. C’est le compromis, et c’est pourquoi commander sur le site du vendeur ou sa boutique Weidian constitue généralement la configuration la plus sûre.
+Si vous commandez directement sur les sites de HiCity ou de Jenny, c’est encore plus simple — le guide d’achat précise que, sur ces sites, les déclarations en douane et le type de boîte sont gérés automatiquement, et qu’il n’y a donc rien à configurer. Avec les autres vendeurs vous gérez vous-même ces choix. C’est le compromis, et c’est pourquoi commander sur le site du vendeur ou sa boutique Weidian constitue généralement la configuration la plus sûre.
 
 ## Le suivi va s’interrompre. C’est normal
 

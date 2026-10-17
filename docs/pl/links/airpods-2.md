@@ -21,7 +21,6 @@ Repliki AirPods 2 to najtańszy sposób wejścia do ekosystemu. Wybierz wersję 
       <div class="link-column">
         <a href="https://airreps.link/e2v3e">Strona</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

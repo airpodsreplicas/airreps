@@ -12,10 +12,6 @@ Die Box ohne Logo ist weiß und hat eine ähnliche Form wie die originale AirPod
 
 <img src="/nologobox.webp" alt="Box ohne Logo" width="300" height="400"/>
 
-::: warning
-Wenn du über einen **Alibaba**-Link bestellst, werden deine Nachbildungen **immer** in einer neutralen Box ohne Logo versendet, um Beschlagnahmungen durch den Zoll und Urheberrechtsprobleme zu vermeiden. Apple-gebrandete Boxen sind über Alibaba nicht erhältlich.
-:::
-
 
 ## Box mit Apple-Logo
 
@@ -31,7 +27,7 @@ Die Anforderung einer „Apple-Box“ kann zu einer Beschlagnahmung durch den Zo
 
 Für die meisten Käufer die beste Option. Eine generische Außenbox, die wie gewöhnliche Ohrhörer aussieht, mit der darin versteckten Box mit Apple-Logo. Dadurch wird das Risiko einer Beschlagnahmung durch den Zoll deutlich verringert, während du weiterhin die vollständige Verpackung mit Apple-Kennzeichnung erhältst.
 
-Wenn du beim Bezahlen die Box mit Apple-Logo auswählst, ist die Doppelbox automatisch enthalten – Verkäufer versenden Apple-Boxen zum Schutz immer in einer Tarnbox. Die Apple-Box-Option ist bei den meisten Zahlungsmethoden vorausgewählt, wobei einige möglicherweise eine kleine zusätzliche Gebühr berechnen. Wenn du über **Alibaba** bestellst, ist eine Apple-/Doppelbox **nicht verfügbar** – du erhältst immer eine Box ohne Logo.
+Wenn du beim Bezahlen die Box mit Apple-Logo auswählst, ist die Doppelbox automatisch enthalten – Verkäufer versenden Apple-Boxen zum Schutz immer in einer Tarnbox. Die Apple-Box-Option ist bei den meisten Zahlungsmethoden vorausgewählt, wobei einige möglicherweise eine kleine zusätzliche Gebühr berechnen.
 
 <img src="/doublebox.webp" alt="Doppel-/Tarnbox" width="300" height="400"/>
 

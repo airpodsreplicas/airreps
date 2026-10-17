@@ -6,8 +6,6 @@ faq:
     a: "Trusted sellers accept Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is supported by Earhive and HiCity, and the KakoBuy agent also accepts it."
   - q: "Why am I redirected to a crypto website when paying via Credit Card?"
     a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. To avoid KYC, use KakoBuy — an agent that accepts regular credit cards without identity checks."
-  - q: "Note on Alibaba links and packaging"
-    a: "Apple cracks down on replica links on AliExpress and Alibaba. Orders through Alibaba always come with neutral packaging (no Apple logo box). Sellers' direct websites and Weidian stores offer more packaging options."
 ---
 
 # Ordering
@@ -38,33 +36,6 @@ Many trusted sellers now accept Alipay, allowing easy card payments without KYC 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-## Information about AliExpress/Alibaba
-
-When purchasing from AliExpress, keep in mind that customer service, refunds, and returns may not be as robust as with larger, more established retailers like Amazon. Your payment information is encrypted through Alipay, making purchases safe, but be aware of potential limitations on refunds and returns. *Buy at your own risk.*
-
-Ensure you're satisfied with your purchase by thoroughly researching a seller before buying, taking note of their policies and reputation.
-
-We recommend the following steps:
-
-1. **Taxes**: We recommend only trusted sellers who take care of VAT/Taxes beforehand for European buyers, so you won't have to pay VAT when the package arrives in the EU.
-
-2. **Product Box**: For a box with Apple logos, request a "with Apple box" instead of a "no logo box." However, this carries a higher risk of the package being seized at customs and you not receiving a refund. We don't recommend this option, as the AirPods inside are identical regardless of the box. If you want to take the risk, you can request a box with Apple logos. Learn more about box types in our [packaging guide](/introduction/packaging).
-
-::: warning
-This information applies when ordering from sellers other than the HiCity or Jenny AirReps website. If you order from those websites, you don't need to worry about customs declarations or the box type, as they will be handled automatically.
-:::
-
-3. **Order Confirmation** (Optional): After you purchase, go to your order page and check the name of your product (e.g. Pro 2 V5.2 TB). Click "Contact Supplier" to message the seller and confirm they are sending the correct product. Don't ask about specific features or details like "Is this v5.2 with an Airoha chip?" as the sellers may not use these names.
-
-::: tip
-Let the sellers know that you are from the AirReps community. This will ensure they provide you with excellent service and uphold our community's standards. Plus, it gives us leverage to advocate for future buyers like you.
-:::
-
-4. **Shipping Timer**: On your Order page on AliExpress, there will be a shipping countdown timer that will automatically confirm delivery after a certain number of days. If the timer is about to expire and you haven't received your order, make sure to click "Extend Shipping Time" to give yourself an additional 15 days. Only click "Order Received" once you have received your order and confirmed it is in good working condition.
-
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
@@ -77,10 +48,6 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 **Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
 **Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for details.
-:::
-
-::: details Note on Alibaba links and packaging
-Apple aggressively cracks down on replica links on platforms like AliExpress and Alibaba. While sellers (like Earhive) occasionally offer Alibaba links for purchasing, please be aware that **orders placed through Alibaba will always come with neutral packaging (no Apple logo box)** to avoid customs and copyright issues. Sellers' direct websites and Weidian stores are generally more secure and offer more Apple-like packaging options.
 :::
 
 ::: details Are AirPods replicas legal?

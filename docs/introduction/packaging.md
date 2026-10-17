@@ -13,10 +13,6 @@ The No-logo box is white and has a similar shape to the original AirPods box. It
 
 <img src="/nologobox.webp" alt="No-Logo Box" width="300" height="400"/>
 
-::: warning
-If you order using an **Alibaba** link, your replicas will **always** be shipped in a neutral, No-Logo box to avoid customs seizures and copyright strikes. Apple-branded boxes are not available through Alibaba.
-:::
-
 
 ## Apple Logo Box
 
@@ -32,7 +28,7 @@ Requesting an "Apple box" can lead to product seizure at customs. Many sellers u
 
 The best option for most buyers. A generic outer box that looks like ordinary earbuds, with the Apple Logo Box hidden inside. This significantly reduces the risk of customs seizure while still giving you the full Apple-branded packaging.
 
-When you select the Apple Logo Box at checkout, the double box is automatically included — sellers always ship Apple boxes inside a decoy box for protection. The Apple box option is pre-selected on most payment methods, though some may charge a small extra fee. If you're ordering through **Alibaba**, Apple/double box is **not available** — you'll always receive a No-Logo box.
+When you select the Apple Logo Box at checkout, the double box is automatically included — sellers always ship Apple boxes inside a decoy box for protection. The Apple box option is pre-selected on most payment methods, though some may charge a small extra fee.
 
 <img src="/doublebox.webp" alt="Double/Decoy Box" width="300" height="400"/>
 

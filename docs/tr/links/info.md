@@ -66,7 +66,6 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 | **Bitcoin / kripto** | ✅ | ✅ | ✅ |
 | **Banka havalesi** | ✅ | ✅ | ✅ |
 | **Weidian (aracı üzerinden)** | ✅ | ✅ | ✅ |
-| **Alibaba** | ✅ | ❌ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |

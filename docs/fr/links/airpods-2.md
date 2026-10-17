@@ -21,7 +21,6 @@ Les répliques d'AirPods 2 sont le moyen le moins cher d'entrer dans l'écosyst�
       <div class="link-column">
         <a href="https://airreps.link/e2v3e">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

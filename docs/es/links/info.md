@@ -66,7 +66,6 @@ Todos los vendedores confiables aceptan varios métodos de pago para tu comodida
 | **Bitcoin / criptomonedas** | ✅ | ✅ | ✅ |
 | **Transferencia bancaria** | ✅ | ✅ | ✅ |
 | **Weidian (a través de un agente)** | ✅ | ✅ | ✅ |
-| **Alibaba** | ✅ | ❌ | ❌ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
 | **PIX** | ❌ | ✅ | ❌ |

@@ -21,7 +21,6 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y madu
       <div class="link-column">
         <a href="https://airreps.link/eprov54hl">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -49,7 +48,6 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y madu
       <div class="link-column">
         <a href="https://airreps.link/eprov53tb">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -71,7 +69,6 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y madu
       <div class="link-column">
         <a href="https://airreps.link/eprov53hl">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -88,7 +85,6 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y madu
       <div class="link-column">
         <a href="https://airreps.link/eprov52tb">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -110,7 +106,6 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y madu
       <div class="link-column">
         <a href="https://airreps.link/eprov52hl">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -133,7 +128,6 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y madu
       <div class="link-column">
         <a href="https://airreps.link/eprov42">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

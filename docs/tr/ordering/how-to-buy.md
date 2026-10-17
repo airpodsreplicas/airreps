@@ -6,8 +6,6 @@ faq:
     a: 'Güvenilir satıcılar kredi kartları, Alipay, Revolut, Wise, banka havalesi ve Bitcoin''i kabul eder. Tüm satıcıların KakoBuy gibi aracılar aracılığıyla erişilebilen Weidian vitrinleri vardır. PayPal, Earhive ve HiCity tarafından desteklenir ve KakoBuy acentesi de PayPal''ı kabul eder.'
   - q: Kredi kartı ile ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
     a: Güvenilir satıcılar kredi kartı ödemelerini işlemek için güvenli bir kripto ödeme geçidi kullanır. Kartınız kripto satın alır; bu da siparişi tamamlar. KYC'den kaçınmak için KakoBuy'ı kullanın - kimlik kontrolleri olmadan normal kredi kartlarını kabul eden bir acente.
-  - q: Alibaba Linkleri ve Ambalaj Hakkında Not
-    a: 'Apple, AliExpress ve Alibaba''daki replik bağlantılarına karşı sert önlemler alıyor. Alibaba üzerinden verilen siparişler her zaman nötr ambalajla gelir (Apple logolu kutu yok). Satıcıların doğrudan web siteleri ve Weidian mağazaları daha fazla ambalaj seçeneği sunar.'
 ---
 # Sipariş
 
@@ -39,33 +37,6 @@ Birçok güvenilir satıcı artık Alipay kabul ediyor; bu, KYC doğrulaması ol
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
 
-
-
-
-## AliExpress/Alibaba hakkında bilgi
-
-AliExpress'ten satın alırken müşteri hizmetleri, iadeler ve geri ödemelerin Amazon gibi daha büyük, yerleşik perakendeciler kadar güçlü olmayabileceğini unutmayın. Ödeme bilgileriniz Alipay üzerinden şifrelenir, bu da satın alımları güvenli kılar; ancak iadeler ve geri ödemeler konusunda sınırlamalar olabileceğinin farkında olun. *Kendi riskinizle satın alın.*
-
-Satın alma işleminizden memnun olmak için bir satıcıyı iyice araştırın ve politikalarını ile itibarını not edin.
-
-Aşağıdaki adımları öneriyoruz:
-
-1. **Vergiler**: Avrupa alıcıları için KDV/vergileri önceden halleden yalnızca güvenilir satıcıları öneriyoruz, böylece paket AB'ye ulaştığında KDV ödemeniz gerekmez.
-
-2. **Ürün kutusu**: Apple logolu bir kutu istiyorsanız, "Apple logolu kutu" yerine "logo yok kutu" istemeyin; bunun yerine "Apple logolu kutu ile" talep edin. Ancak bu, paketin gümrükte el konulma ve geri ödeme alamama riskini artırır. Bu seçeneği önermiyoruz; çünkü kutu ne olursa olsun içindeki AirPods'lar aynıdır. Risk almak isterseniz, Apple logolu bir kutu talep edebilirsiniz. Kutu türleri hakkında daha fazla bilgiyi [ambalaj rehberimizde](/tr/introduction/packaging) öğrenin.
-
-::: warning
-Bu bilgi, HiCity veya Jenny AirReps web siteleri dışındaki satıcılardan sipariş verirken geçerlidir. Bu web sitelerinden sipariş verirseniz, gümrük beyannameleri veya kutu türü konusunda endişelenmenize gerek yoktur; bunlar otomatik olarak halledilecektir.
-:::
-
-3. **Sipariş onayı** (isteğe bağlı): Satın aldıktan sonra sipariş sayfanıza gidin ve ürün adınızı kontrol edin (ör. Pro 2 V5.2 TB). Satıcıya mesaj göndermek ve doğru ürünü gönderip göndermediklerini teyit etmek için "Satıcıyla iletişime geç"e tıklayın. Satıcılara "Bu v5.2 Airoha çipli mi?" gibi belirli özellikler veya ayrıntılar hakkında soru sormayın; satıcılar bu adları kullanmayabilir.
-
-::: tip
-Satıcılara AirReps topluluğundan olduğunuzu bildirin. Bu, size mükemmel hizmet sunmalarını ve topluluğumuzun standartlarını korumalarını sağlar. Ayrıca gelecekteki alıcılar için talepte bulunmamızda bize avantaj sağlar.
-:::
-
-4. **Gönderim zamanlayıcısı**: AliExpress'teki sipariş sayfanızda, belirli bir gün sayısından sonra teslimatı otomatik olarak onaylayacak bir gönderim geri sayım zamanlayıcısı olacaktır. Zamanlayıcı süresi dolmak üzereyse ve siparişinizi almadıysanız, kendinize ek 15 gün vermek için "Gönderim süresini uzat" seçeneğine tıkladığınızdan emin olun. Siparişinizi aldığınızdan ve düzgün çalıştığını doğruladığınızdan emin olmadan yalnızca "Siparişi aldım" seçeneğine tıklamayın.
-
 ## Sıkça sorulan sorular
 
 ::: details Güvenilir satıcılar hangi ödeme yöntemlerini kabul ediyor?
@@ -78,10 +49,6 @@ Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kr
 **Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik kontrolü (KYC) isteyebilir, ancak bu her zaman gerekli değildir.**
 
 **Alternatif:** Herhangi bir KYC doğrulaması olasılığından kaçınmak istiyorsanız, satıcılar adına ürün satın alan ve sevkiyattan önce kalite kontrol (QC) fotoğrafları sağlayan bir acente platformu olan [KakoBuy](https://airreps.link/kakobuy) kullanmayı düşünün. KakoBuy, kredi ve banka kartlarını kabul eden düzenli ödeme işlemcilerini kullanır ve **asla KYC doğrulaması veya kimlik kontrolü gerektirmez**. Kartınızı KYC gereksinimi olmadan kullanmayı tercih ederken yine de QC fotoğrafları almanın ek güvencesini sağladığı için mükemmel bir seçenektir. Ayrıntılar için [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) bakın.
-:::
-
-::: details Alibaba bağlantıları ve ambalaj hakkında not
-Apple, AliExpress ve Alibaba gibi platformlardaki kopya bağlantılara karşı agresif bir şekilde mücadele eder. Satıcılar (ör. Earhive) ara sıra satın alma için Alibaba bağlantıları sunsalar da, lütfen unutmayın ki **Alibaba üzerinden verilen siparişler gümrük ve telif hakkı sorunlarından kaçınmak için her zaman nötr ambalaj (Apple logolu kutu yok)** ile gönderilecektir. Satıcıların doğrudan web siteleri ve Weidian mağazaları genellikle daha güvenlidir ve daha Apple-benzeri ambalaj seçenekleri sunar.
 :::
 
 ::: details AirPods kopyaları yasal mı?

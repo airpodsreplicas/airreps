@@ -12,10 +12,6 @@ La boîte sans logo est blanche et possède une forme similaire à celle de la b
 
 <img src="/nologobox.webp" alt="Boîte sans logo" width="300" height="400"/>
 
-::: warning
-Si vous commandez en utilisant un lien **Alibaba**, vos répliques seront **toujours** expédiées dans une boîte neutre sans logo afin d’éviter les saisies douanières et les violations de droits d’auteur. Les boîtes arborant la marque Apple ne sont pas disponibles via Alibaba.
-:::
-
 
 ## Boîte avec logo Apple
 
@@ -31,7 +27,7 @@ Demander une « boîte Apple » peut entraîner la saisie du produit par les dou
 
 La meilleure option pour la plupart des acheteurs. Une boîte extérieure générique qui ressemble à celle d’écouteurs ordinaires, avec la boîte portant le logo Apple dissimulée à l’intérieur. Cela réduit considérablement le risque de saisie douanière tout en vous permettant de recevoir l’emballage complet aux couleurs d’Apple.
 
-Lorsque vous sélectionnez la boîte avec logo Apple au moment du paiement, la double boîte est automatiquement incluse : les vendeurs expédient toujours les boîtes Apple à l’intérieur d’une boîte leurre pour les protéger. L’option de boîte Apple est présélectionnée avec la plupart des moyens de paiement, bien que certains puissent facturer de petits frais supplémentaires. Si vous commandez via **Alibaba**, la boîte Apple/double boîte **n’est pas disponible** : vous recevrez toujours une boîte sans logo.
+Lorsque vous sélectionnez la boîte avec logo Apple au moment du paiement, la double boîte est automatiquement incluse : les vendeurs expédient toujours les boîtes Apple à l’intérieur d’une boîte leurre pour les protéger. L’option de boîte Apple est présélectionnée avec la plupart des moyens de paiement, bien que certains puissent facturer de petits frais supplémentaires.
 
 <img src="/doublebox.webp" alt="Double boîte / boîte leurre" width="300" height="400"/>
 

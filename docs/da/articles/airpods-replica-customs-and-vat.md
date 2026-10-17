@@ -30,17 +30,13 @@ Dobbeltæsken findes, fordi sælgerne kender problemet. Når du vælger æsken m
 
 Hvis du ønsker den fulde Apple-lignende udpakning, er dobbeltæsken den måde, du får den på med mindst mulig ekstra risiko. Ellers er æsken uden logo det mere diskrete valg.
 
-## Alibaba-bestillinger er altid neutrale
-
-En undtagelse, der er værd at kende: **Bestillinger gennem Alibaba sendes altid i en neutral æske uden logo.** Apple-mærket emballage er slet ikke tilgængelig der, og [købeguiden](/da/ordering/how-to-buy) forklarer hvorfor — Alibaba og AliExpress er under kraftigt pres fra Apple på grund af annoncer med kopier, så neutral emballage er den måde, sælgerne undgår told- og ophavsretsproblemer på disse platforme. Hvis du bestiller via Alibaba, er beslutningen allerede truffet for dig.
-
 ## Købere i EU: Moms håndteres på forhånd af betroede sælgere
 
 Den anden store toldbekymring er den uventede regning — et betalingskrav, før din pakke bliver frigivet. Hvis du bestiller fra en [betroet sælger](/da/links/info), sker det normalt ikke.
 
 [Købeguiden](/da/ordering/how-to-buy) anbefaler kun betroede sælgere, der »ordner moms/skatter på forhånd for europæiske købere, så du ikke skal betale moms, når pakken ankommer til EU«. Du betaler ved kassen; der kommer ingen ekstra opkrævning ved ankomsten. [Oversigten over produkter under 50 $](/da/articles/best-airpods-replicas-under-50) gentager det samme for budgetkøbere.
 
-Hvis du bestiller direkte fra HiCitys eller Jennys websteder, er det endnu mere problemfrit — købeguiden bemærker, at tolddeklarationer og æsketype håndteres automatisk på disse websteder, så der ikke er noget, du skal indstille. Hos andre sælgere — især annoncer på AliExpress — håndterer du selv disse valg. Det er afvejningen, og derfor er det generelt den sikrere løsning at bestille gennem sælgerens eget websted eller Weidian-butik.
+Hvis du bestiller direkte fra HiCitys eller Jennys websteder, er det endnu mere problemfrit — købeguiden bemærker, at tolddeklarationer og æsketype håndteres automatisk på disse websteder, så der ikke er noget, du skal indstille. Hos andre sælgere håndterer du selv disse valg. Det er afvejningen, og derfor er det generelt den sikrere løsning at bestille gennem sælgerens eget websted eller Weidian-butik.
 
 ## Sporingen bliver stille. Det er normalt
 

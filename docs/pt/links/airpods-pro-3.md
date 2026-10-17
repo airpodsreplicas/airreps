@@ -21,7 +21,6 @@ As réplicas dos AirPods Pro 3 são o modelo intra-auricular mais recente, com o
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -65,7 +64,6 @@ As réplicas dos AirPods Pro 3 são o modelo intra-auricular mais recente, com o
       <div class="link-column">
         <a href="https://airreps.link/eprov6tb">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -87,7 +85,6 @@ As réplicas dos AirPods Pro 3 são o modelo intra-auricular mais recente, com o
       <div class="link-column">
         <a href="https://airreps.link/eprov6hl">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -109,7 +106,6 @@ As réplicas dos AirPods Pro 3 são o modelo intra-auricular mais recente, com o
       <div class="link-column">
         <a href="https://airreps.link/eprov55">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

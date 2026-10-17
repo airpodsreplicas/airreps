@@ -30,17 +30,13 @@ Bu, bu hobide kaçınabileceğiniz en büyük tek risktir ve tamamen isteğe ba�
 
 Apple tarzı tam bir kutu açma deneyimi istiyorsanız, bunu en az ek riskle elde etmenin yolu çift kutudur. Aksi hâlde logosuz kutu daha az dikkat çeken seçenektir.
 
-## Alibaba siparişleri her zaman nötrdür
-
-Bilinmesi gereken bir istisna var: **Alibaba üzerinden verilen siparişler her zaman nötr, logosuz bir kutuyla gönderilir.** Apple markalı ambalaj orada hiç sunulmaz ve [nasıl satın alınır rehberi](/tr/ordering/how-to-buy) bunun nedenini açıklar — Alibaba ve AliExpress, replika ilanları nedeniyle Apple'ın yoğun baskısı altındadır; bu nedenle nötr ambalaj, satıcıların bu platformlarda gümrük ve telif hakkı sorunlarından kaçınma yöntemidir. Alibaba üzerinden sipariş veriyorsanız bu karar sizin için zaten verilmiştir.
-
 ## AB'deki alıcılar: KDV güvenilir satıcılar tarafından önceden halledilir
 
 Diğer büyük gümrük endişesi, paketinizin teslim edilmeden önce istenen beklenmedik ücrettir. Bir [güvenilir satıcıdan](/tr/links/info) sipariş verirseniz bu genellikle gerçekleşmez.
 
 [nasıl satın alınır rehberi](/tr/ordering/how-to-buy), yalnızca "Avrupalı alıcılar için KDV/vergileri önceden halleden, böylece paket AB'ye ulaştığında KDV ödemeniz gerekmeyen" güvenilir satıcılardan alışveriş yapılmasını öneriyor. Ödemeyi ödeme sırasında yaparsınız; teslimatta ikinci bir ücret çıkmaz. [50 dolar altı derlemesi](/tr/articles/best-airpods-replicas-under-50) de bütçesine dikkat eden alıcılar için aynı noktayı tekrarlıyor.
 
-HiCity veya Jenny'nin web sitelerinden doğrudan sipariş verirseniz süreç daha da zahmetsizdir — nasıl satın alınır rehberi, bu sitelerde gümrük beyanlarının ve kutu türünün otomatik olarak halledildiğini, dolayısıyla yapılandırmanız gereken hiçbir şey olmadığını belirtiyor. Diğer satıcılarda — özellikle AliExpress ilanlarında — bu seçimleri kendiniz yönetirsiniz. Bu, satıcıya ait site veya Weidian mağazası üzerinden sipariş vermenin genellikle neden daha güvenli bir kurulum olduğunu açıklayan temel farktır.
+HiCity veya Jenny'nin web sitelerinden doğrudan sipariş verirseniz süreç daha da zahmetsizdir — nasıl satın alınır rehberi, bu sitelerde gümrük beyanlarının ve kutu türünün otomatik olarak halledildiğini, dolayısıyla yapılandırmanız gereken hiçbir şey olmadığını belirtiyor. Diğer satıcılarda bu seçimleri kendiniz yönetirsiniz. Bu, satıcıya ait site veya Weidian mağazası üzerinden sipariş vermenin genellikle neden daha güvenli bir kurulum olduğunu açıklayan temel farktır.
 
 ## Takip sessizleşecek. Bu normaldir
 

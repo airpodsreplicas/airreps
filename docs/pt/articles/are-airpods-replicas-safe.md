@@ -19,7 +19,7 @@ A maioria das pessoas que se sentem prejudicadas por réplicas não sofreu danos
 Há três versões comuns disso:
 
 - **Pagar preços de produtos originais por uma réplica.** Se um “AirPods Pro novo e lacrado” aparece por US$ 60 vindo de um desconhecido, uma de duas coisas está acontecendo, e nenhuma delas é boa. Confira os preços atuais de réplicas e compare-os com um anúncio de um produto original — a diferença deve dizer tudo. Nosso [guia para identificar falsificações](/pt/articles/how-to-spot-fake-airpods) aborda a verificação de preços e o restante.
-- **Um pacote apreendido na alfândega.** Uma caixa com logotipos da Apple é uma caixa que dá à alfândega um motivo para abrir. Solicitar uma “caixa da Apple” realmente aumenta as chances de apreensão, multa ou destruição, e é por isso que vendedores confiáveis enviam as caixas da Apple dentro de uma caixa comum de disfarce. A embalagem neutra é a opção mais segura e é a única opção pelo Alibaba.
+- **Um pacote apreendido na alfândega.** Uma caixa com logotipos da Apple é uma caixa que dá à alfândega um motivo para abrir. Solicitar uma “caixa da Apple” realmente aumenta as chances de apreensão, multa ou destruição, e é por isso que vendedores confiáveis enviam as caixas da Apple dentro de uma caixa comum de disfarce. A embalagem neutra é a opção mais segura.
 - **Nenhum recurso quando algo dá errado.** Alguns métodos de pagamento, como Wise e transferência bancária, não oferecem proteção ao comprador. Tudo bem quando tudo funciona; quando não funciona, a situação fica complicada. Fazer o pedido de um [vendedor confiável](/pt/introduction/sellers) e revisar as fotos de controle de qualidade antes do envio é o que mantém isso sob controle.
 
 Nada disso diz respeito aos fones. Diz respeito à transação.

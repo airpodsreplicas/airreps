@@ -30,17 +30,13 @@ Die Doppelbox gibt es, weil die Verkäufer das Problem kennen. Wenn du beim Beza
 
 Wenn du das vollständige Unboxing im Apple-Stil möchtest, bekommst du es mit der Doppelbox bei möglichst geringem Zusatzrisiko. Andernfalls ist die Box ohne Logo die unauffälligere Wahl.
 
-## Alibaba-Bestellungen werden immer neutral verpackt
-
-Eine erwähnenswerte Ausnahme: **Bestellungen über Alibaba werden immer in einer neutralen Box ohne Logo verschickt.** Eine Verpackung mit Apple-Marke ist dort überhaupt nicht verfügbar, und der [Kaufratgeber](/de/ordering/how-to-buy) erklärt auch warum: Alibaba und AliExpress stehen wegen der dort angebotenen Repliken stark unter dem Druck von Apple. Eine neutrale Verpackung ist daher die Möglichkeit der Verkäufer, Zoll- und Urheberrechtsprobleme auf diesen Plattformen zu vermeiden. Wenn du über Alibaba bestellst, ist diese Entscheidung bereits für dich getroffen.
-
 ## Käufer in der EU: Vertrauenswürdige Verkäufer kümmern sich im Voraus um die Mehrwertsteuer
 
 Die andere große Zollsorge ist die überraschende Rechnung – eine Zahlungsaufforderung, bevor dein Paket freigegeben wird. Wenn du bei einem [vertrauenswürdigen Verkäufer](/de/links/info) bestellst, passiert das normalerweise nicht.
 
 Der [Kaufratgeber](/de/ordering/how-to-buy) empfiehlt nur vertrauenswürdige Verkäufer, die sich „im Voraus um Mehrwertsteuer/Steuern für europäische Käufer kümmern, sodass du bei Ankunft des Pakets in der EU keine Mehrwertsteuer zahlen musst“. Du zahlst beim Bestellvorgang; bei der Ankunft gibt es keine zweite Zahlung. Die [Übersicht unter 50 $](/de/articles/best-airpods-replicas-under-50) wiederholt denselben Punkt für Käufer mit kleinerem Budget.
 
-Wenn du direkt über die Websites von HiCity oder Jenny bestellst, musst du dich noch weniger darum kümmern – der Kaufratgeber weist darauf hin, dass auf diesen Websites Zollanmeldungen und die Art der Box automatisch geregelt werden, sodass du nichts konfigurieren musst. Bei anderen Verkäufern – insbesondere bei AliExpress-Angeboten – kümmerst du dich selbst um diese Auswahl. Das ist der Kompromiss und der Grund, warum die Bestellung über die eigene Website oder den Weidian-Shop des Verkäufers im Allgemeinen die sicherere Lösung ist.
+Wenn du direkt über die Websites von HiCity oder Jenny bestellst, musst du dich noch weniger darum kümmern – der Kaufratgeber weist darauf hin, dass auf diesen Websites Zollanmeldungen und die Art der Box automatisch geregelt werden, sodass du nichts konfigurieren musst. Bei anderen Verkäufern kümmerst du dich selbst um diese Auswahl. Das ist der Kompromiss und der Grund, warum die Bestellung über die eigene Website oder den Weidian-Shop des Verkäufers im Allgemeinen die sicherere Lösung ist.
 
 ## Das Tracking wird stillstehen. Das ist normal
 

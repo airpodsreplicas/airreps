@@ -22,7 +22,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/eprov54hl">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -50,7 +49,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/eprov53tb">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -72,7 +70,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/eprov53hl">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -89,7 +86,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/eprov52tb">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -111,7 +107,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/eprov52hl">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -134,7 +129,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/eprov42">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
-        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

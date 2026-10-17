@@ -30,17 +30,13 @@ A caixa dupla existe porque os vendedores conhecem o problema. Quando você sele
 
 Se você quer uma experiência de unboxing no estilo Apple, a caixa dupla é a forma de consegui-la com o menor risco adicional. Caso contrário, a caixa sem logotipo é a opção mais discreta.
 
-## As encomendas da Alibaba são sempre neutras
-
-Uma exceção importante: **as encomendas feitas pela Alibaba sempre são enviadas em uma caixa neutra, sem logotipo.** Embalagens com a marca Apple não estão disponíveis lá, e o [guia de como comprar](/pt/ordering/how-to-buy) explica o motivo — a Alibaba e a AliExpress sofrem forte pressão da Apple por causa dos anúncios de réplicas, então as embalagens neutras são a forma de os vendedores evitarem problemas alfandegários e de direitos autorais nessas plataformas. Se você estiver fazendo o pedido pela Alibaba, essa decisão já foi tomada por você.
-
 ## Compradores da UE: o IVA é tratado antecipadamente por vendedores confiáveis
 
 A outra grande preocupação alfandegária é a cobrança inesperada — uma solicitação de pagamento antes de a encomenda ser liberada. Se você comprar de um [vendedor confiável](/pt/links/info), isso normalmente não acontece.
 
 O [guia de como comprar](/pt/ordering/how-to-buy) recomenda apenas vendedores confiáveis que “cuidam do IVA/impostos antecipadamente para compradores europeus, para que você não precise pagar IVA quando a encomenda chegar à UE”. Você paga no checkout; não há uma segunda cobrança na chegada. A [seleção de opções abaixo de US$ 50](/pt/articles/best-airpods-replicas-under-50) repete o mesmo ponto para compradores que buscam opções econômicas.
 
-Se você comprar diretamente nos sites da HiCity ou da Jenny, o processo é ainda mais simples — o guia de como comprar observa que, nesses sites, as declarações alfandegárias e o tipo de caixa são tratados automaticamente, então não há nada para configurar. Com outros vendedores — especialmente anúncios da AliExpress — você mesmo gerencia essas escolhas. Essa é a contrapartida, e é por isso que fazer o pedido pelo próprio site do vendedor ou pela loja na Weidian geralmente é a opção mais segura.
+Se você comprar diretamente nos sites da HiCity ou da Jenny, o processo é ainda mais simples — o guia de como comprar observa que, nesses sites, as declarações alfandegárias e o tipo de caixa são tratados automaticamente, então não há nada para configurar. Com outros vendedores você mesmo gerencia essas escolhas. Essa é a contrapartida, e é por isso que fazer o pedido pelo próprio site do vendedor ou pela loja na Weidian geralmente é a opção mais segura.
 
 ## O rastreamento vai ficar sem atualizações. Isso é normal
 
