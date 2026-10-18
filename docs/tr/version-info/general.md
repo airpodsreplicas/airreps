@@ -61,7 +61,7 @@ AirPods Max taklitleri satışta ve bu ürünler artık olgunlaşmış durumda. 
 :::
 
 ::: details AirPods Pro 3 taklitleri satışta mı?
-AirPods Pro 3 taklitleri satışta. Yalnızca Jenny'de bulunan SE (XiaoBai), sınıfının en iyisi ANC performansıyla en iyi fiyat-performans seçeneğidir. V7 (Huilian 377H3 / TigerBuilder Airoha 1571AM), optik kalp atış hızı takibi, AI Hybrid ANC ve kafa hareketi kontrolleri ekler; TigerBuilder V7'de iOS açılır penceresinin ve seri numarasının satıcı tarafından eklendiğini ve firmware güncellemesinden sonra çalışmayı durdurabileceğini unutmayın; FlyCC uygulamasını kullanır. V6 (Huilian/TB), Huilian modelinde iCloud geçişi sunan, kendini kanıtlamış orta sınıf bir seçenektir; V5.5 ise bütçe dostu giriş seviyesi seçeneğidir. Daha fazla bilgi için [AirPods Pro 3 sürüm bilgileri](/tr/version-info/airpods-pro-3) sayfasına bakın.
+AirPods Pro 3 taklitleri satışta. Yalnızca Jenny'de bulunan SE (XiaoBai), sınıfının en iyisi ANC performansıyla en iyi fiyat-performans seçeneğidir. V7 (TigerBuilder Airoha 1571AM / Huilian 377H3 — TigerBuilder en yeni ve en iyi sürümdür), optik kalp atış hızı takibi, AI Hybrid ANC ve kafa hareketi kontrolleri ekler; TigerBuilder V7'de iOS açılır penceresinin ve seri numarasının satıcı tarafından eklendiğini ve firmware güncellemesinden sonra çalışmayı durdurabileceğini unutmayın; FlyCC uygulamasını kullanır. V6 (Huilian/TB), Huilian modelinde iCloud geçişi sunan, kendini kanıtlamış orta sınıf bir seçenektir; V5.5 ise bütçe dostu giriş seviyesi seçeneğidir. Daha fazla bilgi için [AirPods Pro 3 sürüm bilgileri](/tr/version-info/airpods-pro-3) sayfasına bakın.
 :::
 
 ::: details Benzer topluluklarda neden bu rehberdekilerden daha yeni ürünler bulunabiliyor?

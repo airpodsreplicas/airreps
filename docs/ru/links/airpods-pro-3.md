@@ -16,6 +16,17 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
     <th>Jenny</th>
   </tr>
   <tr>
+    <td><span class="version-badge">V7 (TB)</span></td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Сайт</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
@@ -35,17 +46,6 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V7 (TB)</span></td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Сайт</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
-    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">SE</span></td>

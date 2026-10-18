@@ -16,6 +16,17 @@ Las réplicas de AirPods Pro 3 son el modelo intraauricular más reciente, con l
     <th>Jenny</th>
   </tr>
   <tr>
+    <td><span class="version-badge">V7 (TB)</span></td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Sitio web</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V7 (Huilian)</span></td>
     <td>
       <div class="link-column">
@@ -35,17 +46,6 @@ Las réplicas de AirPods Pro 3 son el modelo intraauricular más reciente, con l
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V7 (TB)</span></td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Sitio web</a>
-        <a href="https://airreps.link/hicityw">Weidian</a>
-      </div>
-    </td>
-    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">SE</span></td>

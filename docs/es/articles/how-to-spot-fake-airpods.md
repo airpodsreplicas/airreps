@@ -63,7 +63,7 @@ Las tres son cajas de réplicas: la caja te dice qué quería mostrarte el vende
 
 ### 8. Prueba las aplicaciones comunitarias de detección de chips
 
-La comunidad mantiene [aplicaciones de utilidad gratuitas](/es/useful-apps) que identifican qué chip usan tus AirPods: **FlyCC** (detecta los chipsets Airoha 1562AE/E), **CloudCC** (Tigerbuilder/Airoha) y **Starfun** (Huilian 247). Instálalas en un teléfono Android o un Mac y comprueba cuál se conecta. Los AirPods auténticos de Apple no responderán a ninguna de estas utilidades de terceros. Una salvedad: las copias de gama más baja usan un chipset Jieli (Jerry) barato que también ignora estas aplicaciones, así que «no se conecta ninguna aplicación» puede significar que son una falsificación barata *o* unos AirPods auténticos; nunca confirma por sí solo que sean auténticos.
+La comunidad mantiene [aplicaciones de utilidad gratuitas](/es/useful-apps) que identifican qué chip usan tus AirPods: **FlyCC** (detecta los chipsets Airoha 1562AE/E), **CloudCC** (TigerBuilder/Airoha) y **Starfun** (Huilian 247). Instálalas en un teléfono Android o un Mac y comprueba cuál se conecta. Los AirPods auténticos de Apple no responderán a ninguna de estas utilidades de terceros. Una salvedad: las copias de gama más baja usan un chipset Jieli (Jerry) barato que también ignora estas aplicaciones, así que «no se conecta ninguna aplicación» puede significar que son una falsificación barata *o* unos AirPods auténticos; nunca confirma por sí solo que sean auténticos.
 
 ### 9. No hagas caso de las palabras de moda
 

@@ -61,7 +61,7 @@ AirPods Max-kopier er tilgængelige og modne. Flagskibsmodellerne V3 Metal bruge
 :::
 
 ::: details Findes der AirPods Pro 3-kopier?
-AirPods Pro 3-kopier er tilgængelige. Den Jenny-eksklusive SE (XiaoBai) er det bedste valg til prisen med ANC i særklasse. V7 (Huilian 377H3 / TigerBuilder Airoha 1571AM) tilføjer optisk pulssporing, AI Hybrid ANC og styring med hovedbevægelser; bemærk, at iOS-popup og serienummer på TigerBuilder V7 tilføjes af sælgeren og kan holde op med at virke efter en firmwareopdatering; den bruger FlyCC-appen. V6 (Huilian/TB) tilbyder en gennemprøvet mellemklassemodel med skift mellem iCloud-konti på Huilian, mens V5.5 dækker budgetsegmentet. Se siden med [versionsoplysninger om AirPods Pro 3](/da/version-info/airpods-pro-3) for flere oplysninger.
+AirPods Pro 3-kopier er tilgængelige. Den Jenny-eksklusive SE (XiaoBai) er det bedste valg til prisen med ANC i særklasse. V7 (TigerBuilder Airoha 1571AM / Huilian 377H3 — TigerBuilder er den nyeste og bedste udgave) tilføjer optisk pulssporing, AI Hybrid ANC og styring med hovedbevægelser; bemærk, at iOS-popup og serienummer på TigerBuilder V7 tilføjes af sælgeren og kan holde op med at virke efter en firmwareopdatering; den bruger FlyCC-appen. V6 (Huilian/TB) tilbyder en gennemprøvet mellemklassemodel med skift mellem iCloud-konti på Huilian, mens V5.5 dækker budgetsegmentet. Se siden med [versionsoplysninger om AirPods Pro 3](/da/version-info/airpods-pro-3) for flere oplysninger.
 :::
 
 ::: details Hvorfor har lignende fællesskaber måske nyere produkter end denne vejledning?

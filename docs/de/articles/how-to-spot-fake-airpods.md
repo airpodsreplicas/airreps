@@ -63,7 +63,7 @@ Alle drei Verpackungen gehören zu Nachbildungen — die Schachtel verrät dir, 
 
 ### 8. Probiere die Community-Apps zur Chiperkennung aus
 
-Die Community pflegt [kostenlose Hilfs-Apps](/de/useful-apps), mit denen du herausfinden kannst, welcher Chip in deinen AirPods steckt: **FlyCC** (erkennt Airoha-1562AE/E-Chipsätze), **CloudCC** (Tigerbuilder/Airoha) und **Starfun** (Huilian 247). Installiere sie auf einem Android-Smartphone oder Mac und prüfe, welche App eine Verbindung herstellt. Echte Apple AirPods reagieren auf keines dieser Drittanbieterprogramme. Ein Vorbehalt: Billigste Klone verwenden einen günstigen Jieli- (Jerry-)Chipsatz, der diese Apps ebenfalls ignoriert. „Keine App stellt eine Verbindung her“ bedeutet also entweder billige Fälschung *oder* echte AirPods — aber beweist niemals zweifelsfrei, dass sie echt sind.
+Die Community pflegt [kostenlose Hilfs-Apps](/de/useful-apps), mit denen du herausfinden kannst, welcher Chip in deinen AirPods steckt: **FlyCC** (erkennt Airoha-1562AE/E-Chipsätze), **CloudCC** (TigerBuilder/Airoha) und **Starfun** (Huilian 247). Installiere sie auf einem Android-Smartphone oder Mac und prüfe, welche App eine Verbindung herstellt. Echte Apple AirPods reagieren auf keines dieser Drittanbieterprogramme. Ein Vorbehalt: Billigste Klone verwenden einen günstigen Jieli- (Jerry-)Chipsatz, der diese Apps ebenfalls ignoriert. „Keine App stellt eine Verbindung her“ bedeutet also entweder billige Fälschung *oder* echte AirPods — aber beweist niemals zweifelsfrei, dass sie echt sind.
 
 ### 9. Ignoriere die Schlagwörter
 

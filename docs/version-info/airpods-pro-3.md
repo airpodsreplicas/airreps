@@ -5,7 +5,7 @@ description: "Compare AirPods Pro 3 replica versions (V7, SE, V6, V5.5) by chip,
 
 # AirPods Pro 3
 
-**Quick verdict:** the Jenny-exclusive **SE** is the standout value pick of the Pro 3 series — built on the XiaoBai chipset, it delivers the strongest ANC tested on any replica (beating even the pricier V7), flawless head-tracking spatial audio, real-time translation, and built-in heart rate monitoring for just $48. For most buyers choosing between the SE and the V7, the SE comes out well ahead on value and everyday listening — see the [SE overview](#se-overview). The **V6 Huilian** remains the pick if you want iCloud Connect and multi-device switching. The **V7** wins if fitness-grade heart rate accuracy, head gesture answering, or conversation awareness are must-haves, but check the early-release notes first. On a tight budget, the **V5.5** has the Pro 3 look for less. See the [purchase links](/links/airpods-pro-3) for all versions.
+**Quick verdict:** the Jenny-exclusive **SE** is the standout value pick of the Pro 3 series — built on the XiaoBai chipset, it delivers the strongest ANC tested on any replica (beating even the pricier V7), flawless head-tracking spatial audio, real-time translation, and built-in heart rate monitoring for just $48. For most buyers choosing between the SE and the V7, the SE comes out well ahead on value and everyday listening — see the [SE overview](#se-overview). The **V6 Huilian** remains the pick if you want iCloud Connect and multi-device switching. The **V7** wins if fitness-grade heart rate accuracy, head gesture answering, or conversation awareness are must-haves — the **TigerBuilder** is the newest and best V7 build, with the Huilian as the runner-up — but check the early-release notes first. On a tight budget, the **V5.5** has the Pro 3 look for less. See the [purchase links](/links/airpods-pro-3) for all versions.
 
 ::: tip Shared Pro 3 Baseline
 All Pro 3 models include: USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, Pro 3 iOS popup (on the TigerBuilder V7 it may stop working after a firmware update), and iOS 27 support.
@@ -14,17 +14,17 @@ All Pro 3 models include: USB-C charging, stem slide volume control, Active Nois
 
 Click any version badge to find community reviews for that model.
 
-| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(Huilian / TB) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(TB / Huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
-| **Chipset** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
+| **Chipset** | Airoha 1571AM / Huilian 377H3 | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
 | **ANC Performance** | Dual-Feed Hybrid (~38–42 dB) | Top-Tier Hybrid (~42 dB, Best) | Good (~36–38 dB) | Decent (~32 dB) |
 | **Spatial Audio (Head-tracking)** | ✅ Working | ✅ Working Flawlessly | ✅ Working | ❌ Fixed (no tracking) |
 | **Real-Time Translation** | ⚠️ Huilian variant only | ✅ Yes (iOS prompt) | ⚠️ Huilian variant only | ❌ No |
 | **Heart Rate Monitoring** | ✅ Optical sensor | ✅ Yes (casual monitoring) | ❌ No | ❌ No |
 | **Head Gesture Controls** | ✅ Yes (nod / shake) | ❌ No | ❌ No | ❌ No |
 | **Conversation Awareness** | ✅ Yes | ❌ No | ⚠️ Huilian variant only | ❌ No |
-| **Multi-Device / Switching** | iCloud (HL) / 3 devices (TB) | 1 device | iCloud (HL) / 2 devices (TB) | 1 device |
-| **App EQ / Customization** | Starfun (HL) / FlyCC (TB) | ❌ No | Starfun (HL) / FlyCC (TB) | ❌ No |
+| **Multi-Device / Switching** | 3 devices (TB) / iCloud (HL) | 1 device | iCloud (HL) / 2 devices (TB) | 1 device |
+| **App EQ / Customization** | FlyCC (TB) / Starfun (HL) | ❌ No | Starfun (HL) / FlyCC (TB) | ❌ No |
 | **Price / Value Tier** | ~$68–$75 (Flagship) | ~$48 (Top Value Pick) | ~$38–$45 (Mid-tier) | ~$25–$30 (Budget) |
 | **Detailed Overview** | [V7 Overview](#v7-overview) | [SE Overview](#se-overview) | — | — |
 
@@ -32,11 +32,13 @@ Click any version badge to find community reviews for that model.
 
 ## V7 Overview {#v7-overview}
 
-V7 is the newest AirPods Pro 3 replica, built on the Huilian 377H3 chipset. It introduces a heart rate sensor, head gesture controls for answering calls, AI Hybrid ANC, working head-tracking spatial audio, and a low-latency gaming mode. The 45mAh earbuds are rated around 7 hours of playback, and the 500mAh case delivers 3–4 full charges.
+V7 is the newest AirPods Pro 3 replica and comes in two builds: the **TigerBuilder** — the newest and best V7 — and the **Huilian**.
 
-It's still an early release — some members have reported hissing on ANC and other rough edges in the first batches. Later batches are likely to refine these, but check recent [V7 threads on r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) for current sentiment before you buy.
+**TigerBuilder** is the newest and best V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ The iOS popup and serial number are added by the seller and may stop working after a firmware update — don't update the firmware if you want to keep them. It uses the FlyCC app; the Huilian V7 is not affected. It's sold by HiCity — see the [purchase links](/links/airpods-pro-3).
 
-**TigerBuilder** is the second V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ The iOS popup and serial number are added by the seller and may stop working after a firmware update — don't update the firmware if you want to keep them. It uses the FlyCC app; the Huilian V7 is not affected. It's sold by HiCity — see the [purchase links](/links/airpods-pro-3).
+The **Huilian** is the original V7 build, based on the Huilian 377H3 chipset. It introduces a heart rate sensor, head gesture controls for answering calls, AI Hybrid ANC, working head-tracking spatial audio, and a low-latency gaming mode. The 45mAh earbuds are rated around 7 hours of playback, and the 500mAh case delivers 3–4 full charges. Pick it over the TigerBuilder if you want iCloud Connect, real-time translation, and the Starfun app.
+
+The V7 is still an early release — some members have reported hissing on ANC and other rough edges in the first batches. Later batches are likely to refine these, but check recent [V7 threads on r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) for current sentiment before you buy.
 
 ## SE Overview {#se-overview}
 

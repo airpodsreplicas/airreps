@@ -4,7 +4,7 @@ description: 'AirPods Pro 3 replika sürümlerini (V7, SE, V6, V5.5) çip, özel
 ---
 # AirPods Pro 3
 
-**Kısa karar:** Jenny'ye özel **SE**, Pro 3 serisinin öne çıkan fiyat-performans seçeneği — XiaoBai yonga seti üzerine kurulu olan model, herhangi bir replikada test ettiğimiz en güçlü ANC'yi sunuyor (daha pahalı V7'yi bile geride bırakıyor), kusursuz kafa takibi özellikli uzamsal ses, gerçek zamanlı çeviri ve yalnızca 48 $ karşılığında dahili kalp atış hızı takibi sağlıyor. SE ile V7 arasında seçim yapan çoğu alıcı için SE, değer ve günlük dinleme açısından açık ara önde — [SE genel bakışına](#se-overview) göz atın. iCloud Connect ve çoklu cihaz geçişi istiyorsanız **V6 Huilian** hâlâ tercih edilmesi gereken model. Fitness seviyesinde kalp atış hızı doğruluğu, kafa hareketleriyle yanıt verme veya konuşma farkındalığı olmazsa olmazlarınızsa **V7** kazanıyor; ancak önce erken sürüm notlarını kontrol edin. Bütçeniz kısıtlıysa **V5.5**, daha düşük fiyata Pro 3 görünümünü sunuyor. Tüm sürümler için [satın alma bağlantılarına](/tr/links/airpods-pro-3) göz atın.
+**Kısa karar:** Jenny'ye özel **SE**, Pro 3 serisinin öne çıkan fiyat-performans seçeneği — XiaoBai yonga seti üzerine kurulu olan model, herhangi bir replikada test ettiğimiz en güçlü ANC'yi sunuyor (daha pahalı V7'yi bile geride bırakıyor), kusursuz kafa takibi özellikli uzamsal ses, gerçek zamanlı çeviri ve yalnızca 48 $ karşılığında dahili kalp atış hızı takibi sağlıyor. SE ile V7 arasında seçim yapan çoğu alıcı için SE, değer ve günlük dinleme açısından açık ara önde — [SE genel bakışına](#se-overview) göz atın. iCloud Connect ve çoklu cihaz geçişi istiyorsanız **V6 Huilian** hâlâ tercih edilmesi gereken model. Fitness seviyesinde kalp atış hızı doğruluğu, kafa hareketleriyle yanıt verme veya konuşma farkındalığı olmazsa olmazlarınızsa **V7** kazanıyor — **TigerBuilder** en yeni ve en iyi V7 sürümüdür, Huilian ikinci sırada gelir —; ancak önce erken sürüm notlarını kontrol edin. Bütçeniz kısıtlıysa **V5.5**, daha düşük fiyata Pro 3 görünümünü sunuyor. Tüm sürümler için [satın alma bağlantılarına](/tr/links/airpods-pro-3) göz atın.
 
 ::: tip Ortak Pro 3 temel özellikleri
 Tüm Pro 3 modelleri şunları içerir: USB-C şarj, gövde üzerinden kaydırarak ses kontrolü, Aktif Gürültü Engelleme, Şeffaflık Modu, kulak içi algılama, Pro 3 iOS açılır penceresi (TigerBuilder V7'de firmware güncellemesinden sonra çalışmayı durdurabilir) ve iOS 27 desteği.
@@ -13,17 +13,17 @@ Tüm Pro 3 modelleri şunları içerir: USB-C şarj, gövde üzerinden kaydırar
 
 Bu model hakkındaki topluluk incelemelerini bulmak için herhangi bir sürüm rozetine tıklayın.
 
-| Sürüm → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(Huilian / TB) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny'ye özel) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Sürüm → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(TB / Huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny'ye özel) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
-| **Yonga seti** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
+| **Yonga seti** | Airoha 1571AM / Huilian 377H3 | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
 | **ANC performansı** | Çift beslemeli hibrit (~38–42 dB) | Üst düzey hibrit (~42 dB, en iyi) | İyi (~36–38 dB) | Makul (~32 dB) |
 | **Uzamsal ses (kafa takibi)** | ✅ Çalışıyor | ✅ Kusursuz çalışıyor | ✅ Çalışıyor | ❌ Sabit (takip yok) |
 | **Gerçek zamanlı çeviri** | ⚠️ Yalnızca Huilian varyantı | ✅ Evet (iOS istemi) | ⚠️ Yalnızca Huilian varyantı | ❌ Hayır |
 | **Kalp atış hızı takibi** | ✅ Optik sensör | ✅ Evet (gündelik takip) | ❌ Hayır | ❌ Hayır |
 | **Kafa hareketi kontrolleri** | ✅ Evet (baş sallama / sağa sola çevirme) | ❌ Hayır | ❌ Hayır | ❌ Hayır |
 | **Konuşma farkındalığı** | ✅ Evet | ❌ Hayır | ⚠️ Yalnızca Huilian varyantı | ❌ Hayır |
-| **Çoklu cihaz / geçiş** | iCloud (HL) / 3 cihaz (TB) | 1 cihaz | iCloud (HL) / 2 cihaz (TB) | 1 cihaz |
-| **Uygulama EQ'su / özelleştirme** | Starfun (HL) / FlyCC (TB) | ❌ Hayır | Starfun (HL) / FlyCC (TB) | ❌ Hayır |
+| **Çoklu cihaz / geçiş** | 3 cihaz (TB) / iCloud (HL) | 1 cihaz | iCloud (HL) / 2 cihaz (TB) | 1 cihaz |
+| **Uygulama EQ'su / özelleştirme** | FlyCC (TB) / Starfun (HL) | ❌ Hayır | Starfun (HL) / FlyCC (TB) | ❌ Hayır |
 | **Fiyat / değer seviyesi** | ~68–75 $ (Amiral gemisi) | ~48 $ (En iyi fiyat-performans) | ~38–45 $ (Orta seviye) | ~25–30 $ (Bütçe) |
 | **Ayrıntılı genel bakış** | [V7 genel bakışı](#v7-overview) | [SE genel bakışı](#se-overview) | — | — |
 
@@ -31,11 +31,13 @@ Bu model hakkındaki topluluk incelemelerini bulmak için herhangi bir sürüm r
 
 ## V7 genel bakışı {#v7-overview}
 
-V7, Huilian 377H3 yonga seti üzerine kurulu en yeni AirPods Pro 3 replikasıdır. Kalp atış hızı sensörü, aramaları yanıtlamak için kafa hareketi kontrolleri, AI Hibrit ANC, çalışan kafa takipli uzamsal ses ve düşük gecikmeli oyun modu sunar. 45 mAh kapasiteli kulaklıkların yaklaşık 7 saatlik oynatma süresi bulunur; 500 mAh kapasiteli kutu ise 3–4 tam şarj sağlar.
+V7, en yeni AirPods Pro 3 replikasıdır ve iki sürümle gelir: **TigerBuilder** — en yeni ve en iyi V7 — ve **Huilian**.
 
-Model hâlâ erken bir sürüm — bazı üyeler ilk partilerde ANC açıkken hışırtı ve başka pürüzler bildirdi. Sonraki partilerin bunları gidermesi muhtemel; ancak satın almadan önce güncel görüşler için [r/AirReps'teki V7 başlıklarına](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) göz atın.
+**TigerBuilder**, Airoha 1571AM yonga seti üzerine kurulu en yeni ve en iyi V7 sürümüdür ve fiyatı yaklaşık 68 $'dır. Satıcının listelediği özellikler arasında kalp atış hızı sensörü, uyarlanabilir ANC, konuşma farkındalığı, kafa takipli uzamsal ses, kafa hareketleri, kaydırarak ses ayarı, çift mikrofonlu ENC, 10 mm sürücü, 550 mAh Qi kutulu 45 mAh kulaklıklar, kutu hoparlörü ve 3 cihaz için multipoint bulunur. ⚠️ iOS açılır penceresi ve seri numarası satıcı tarafından eklenir ve firmware güncellemesinden sonra çalışmayı durdurabilir — bunları korumak istiyorsanız firmware'i güncellemeyin. FlyCC uygulamasını kullanır; Huilian V7 bundan etkilenmez. HiCity tarafından satılır — [satın alma bağlantılarına](/tr/links/airpods-pro-3) göz atın.
 
-**TigerBuilder**, Airoha 1571AM yonga seti üzerine kurulu ikinci V7 sürümüdür ve fiyatı yaklaşık 68 $'dır. Satıcının listelediği özellikler arasında kalp atış hızı sensörü, uyarlanabilir ANC, konuşma farkındalığı, kafa takipli uzamsal ses, kafa hareketleri, kaydırarak ses ayarı, çift mikrofonlu ENC, 10 mm sürücü, 550 mAh Qi kutulu 45 mAh kulaklıklar, kutu hoparlörü ve 3 cihaz için multipoint bulunur. ⚠️ iOS açılır penceresi ve seri numarası satıcı tarafından eklenir ve firmware güncellemesinden sonra çalışmayı durdurabilir — bunları korumak istiyorsanız firmware'i güncellemeyin. FlyCC uygulamasını kullanır; Huilian V7 bundan etkilenmez. HiCity tarafından satılır — [satın alma bağlantılarına](/tr/links/airpods-pro-3) göz atın.
+**Huilian**, Huilian 377H3 yonga seti üzerine kurulu özgün V7 sürümüdür. Kalp atış hızı sensörü, aramaları yanıtlamak için kafa hareketi kontrolleri, AI Hibrit ANC, çalışan kafa takipli uzamsal ses ve düşük gecikmeli oyun modu sunar. 45 mAh kapasiteli kulaklıkların yaklaşık 7 saatlik oynatma süresi bulunur; 500 mAh kapasiteli kutu ise 3–4 tam şarj sağlar. iCloud Connect, gerçek zamanlı çeviri ve Starfun uygulaması istiyorsanız TigerBuilder yerine bunu seçin.
+
+V7 hâlâ erken bir sürüm — bazı üyeler ilk partilerde ANC açıkken hışırtı ve başka pürüzler bildirdi. Sonraki partilerin bunları gidermesi muhtemel; ancak satın almadan önce güncel görüşler için [r/AirReps'teki V7 başlıklarına](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) göz atın.
 
 ## SE genel bakışı {#se-overview}
 

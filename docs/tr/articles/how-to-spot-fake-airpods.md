@@ -63,7 +63,7 @@ Bu üç kutunun da ambalajı replika ürünlere aittir — kutu, AirPods’ları
 
 ### 8. Topluluğun çip algılama uygulamalarını deneyin
 
-Topluluk, AirPods’unuzda hangi çipin bulunduğunu tespit eden [ücretsiz yardımcı uygulamaları](/tr/useful-apps) sürdürüyor: **FlyCC** (Airoha 1562AE/E yonga setlerini algılar), **CloudCC** (Tigerbuilder/Airoha) ve **Starfun** (Huilian 247). Bunları bir Android telefona veya Mac’e yükleyin ve hangisinin bağlandığına bakın. Orijinal Apple AirPods bu üçüncü taraf yardımcı uygulamaların hiçbirine yanıt vermez. Ancak bir uyarı: En düşük kalite klonlarda bu uygulamaları da görmezden gelen ucuz bir Jieli (Jerry) yonga seti kullanılır; bu yüzden “hiçbir uygulama bağlanmıyor” sonucu ya ucuz bir sahtenin ya da orijinalin işaretidir, kesinlikle orijinal olduğunun kanıtı değildir.
+Topluluk, AirPods’unuzda hangi çipin bulunduğunu tespit eden [ücretsiz yardımcı uygulamaları](/tr/useful-apps) sürdürüyor: **FlyCC** (Airoha 1562AE/E yonga setlerini algılar), **CloudCC** (TigerBuilder/Airoha) ve **Starfun** (Huilian 247). Bunları bir Android telefona veya Mac’e yükleyin ve hangisinin bağlandığına bakın. Orijinal Apple AirPods bu üçüncü taraf yardımcı uygulamaların hiçbirine yanıt vermez. Ancak bir uyarı: En düşük kalite klonlarda bu uygulamaları da görmezden gelen ucuz bir Jieli (Jerry) yonga seti kullanılır; bu yüzden “hiçbir uygulama bağlanmıyor” sonucu ya ucuz bir sahtenin ya da orijinalin işaretidir, kesinlikle orijinal olduğunun kanıtı değildir.
 
 ### 9. Süs olsun diye kullanılan terimleri görmezden gelin
 

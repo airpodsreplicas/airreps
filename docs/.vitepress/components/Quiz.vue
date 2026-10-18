@@ -988,6 +988,9 @@ const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: 
         earhive: 'https://airreps.link/eprov53hl',
         jenny: 'https://airreps.link/jprov53hl',
     },
+    'pro3-v7-tb': {
+        hicity: 'https://hicitypods.com/product/pro-3-v7-tb/',
+    },
     'pro3-v7-huilian': {
         earhive: 'https://airreps.link/eprov7hl',
         jenny: 'https://airreps.link/jprov7hl',
@@ -1040,6 +1043,7 @@ const prices: Record<string, number> = {
     'pro2-v5.4-huilian': 58,
     'pro2-v5.3-tb': 55,
     'pro2-v5.3-huilian': 56,
+    'pro3-v7-tb': 68,
     'pro3-v7-huilian': 67,
     'pro3-v6-tb': 37,
     'pro3-v6-huilian': 43,
@@ -1404,19 +1408,19 @@ const product = computed<ProductRec | null>(() => {
 
     // --- In-ear logic ---
 
-    // In-ear: latest -> Pro 3 V7 Huilian (newest Pro 3, only released in Huilian form)
+    // In-ear: latest -> Pro 3 V7 TigerBuilder (newest and best V7 build; Huilian V7 is the runner-up)
     if (priority === 'latest') {
         return {
-            title: 'AirPods Pro 3 V7 Huilian',
+            title: 'AirPods Pro 3 V7 TigerBuilder',
             linksPageKey: 'airpods-pro-3',
-            subtitle: 'Huilian 377H3 — Newest Pro 3 with heart rate sensor & head gestures',
-            priceKey: 'pro3-v7-huilian',
+            subtitle: 'Airoha 1571AM — Newest Pro 3 with heart rate sensor & head gestures',
+            priceKey: 'pro3-v7-tb',
             reasons: [
                 'Newest AirPods Pro 3 form factor with almost 1:1 hinge',
-                'Adds heart rate sensor, head gestures, AI Hybrid ANC, low-latency gaming mode',
-                'iCloud Connect, Live Translation, iOS 26 support',
+                'Heart rate sensor, head gestures, conversation awareness, adaptive ANC, multipoint for 3 devices',
+                "iOS popup and serial number are seller-added — don't update the firmware if you want to keep them (uses the FlyCC app)",
                 'Early release — check the version page for current community sentiment before buying',
-                `Also consider: Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — even better ANC & working spatial audio for less, but its heart rate sensor is inaccurate`,
+                `Also consider: V7 Huilian ($${prices['pro3-v7-huilian']}) for iCloud Connect & Live Translation, or Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — even better ANC for less`,
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },

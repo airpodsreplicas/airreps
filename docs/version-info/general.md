@@ -62,7 +62,7 @@ AirPods Max replicas are available and mature. Flagship V3 Metal models use the 
 :::
 
 ::: details Are AirPods Pro 3 reps available?
-AirPods Pro 3 replicas are available. The Jenny-exclusive SE (XiaoBai) is the top value pick with class-leading ANC. The V7 (Huilian 377H3 / TigerBuilder Airoha 1571AM) adds optical heart rate tracking, AI Hybrid ANC, and head gesture controls; note that on the TigerBuilder V7 the iOS popup and serial number are added by the seller and may stop working after a firmware update; it uses the FlyCC app. V6 (Huilian/TB) offers a proven mid-tier with iCloud switching on Huilian, and V5.5 covers the budget entry. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
+AirPods Pro 3 replicas are available. The Jenny-exclusive SE (XiaoBai) is the top value pick with class-leading ANC. The V7 (TigerBuilder Airoha 1571AM / Huilian 377H3 — the TigerBuilder is the newest and best build) adds optical heart rate tracking, AI Hybrid ANC, and head gesture controls; note that on the TigerBuilder V7 the iOS popup and serial number are added by the seller and may stop working after a firmware update; it uses the FlyCC app. V6 (Huilian/TB) offers a proven mid-tier with iCloud switching on Huilian, and V5.5 covers the budget entry. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
 :::
 
 ::: details Why might similar communities have newer products than this guide?

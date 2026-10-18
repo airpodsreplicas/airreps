@@ -63,7 +63,7 @@ As três são embalagens de réplicas — a caixa mostra o que o vendedor queria
 
 ### 8. Experimente os apps comunitários de deteção de chips
 
-A comunidade mantém [apps utilitários gratuitos](/pt/useful-apps) que identificam o chip usado pelos AirPods: **FlyCC** (deteta chipsets Airoha 1562AE/E), **CloudCC** (Tigerbuilder/Airoha) e **Starfun** (Huilian 247). Instale-os num telemóvel Android ou Mac e veja qual deles se conecta. Os AirPods genuínos da Apple não respondem a nenhum destes utilitários de terceiros. Uma ressalva: as cópias de gama mais baixa usam um chipset Jieli (Jerry) barato, que também ignora estes apps; portanto, «nenhum app se conecta» significa que podem ser falsificações baratas *ou* AirPods genuínos, mas nunca confirma que sejam genuínos.
+A comunidade mantém [apps utilitários gratuitos](/pt/useful-apps) que identificam o chip usado pelos AirPods: **FlyCC** (deteta chipsets Airoha 1562AE/E), **CloudCC** (TigerBuilder/Airoha) e **Starfun** (Huilian 247). Instale-os num telemóvel Android ou Mac e veja qual deles se conecta. Os AirPods genuínos da Apple não respondem a nenhum destes utilitários de terceiros. Uma ressalva: as cópias de gama mais baixa usam um chipset Jieli (Jerry) barato, que também ignora estes apps; portanto, «nenhum app se conecta» significa que podem ser falsificações baratas *ou* AirPods genuínos, mas nunca confirma que sejam genuínos.
 
 ### 9. Ignore as palavras da moda
 

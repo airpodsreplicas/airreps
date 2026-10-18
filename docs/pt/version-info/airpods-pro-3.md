@@ -4,7 +4,7 @@ description: 'Compare as versões de réplicas de AirPods Pro 3 (V7, SE, V6, V5.
 ---
 # AirPods Pro 3
 
-**Veredito rápido:** o **SE** exclusivo da Jenny é a escolha de melhor custo-benefício da série Pro 3 — baseado no chipset XiaoBai, oferece o ANC mais potente já testado em qualquer réplica (superando até mesmo o V7, mais caro), áudio espacial com rastreamento da cabeça funcionando perfeitamente, tradução em tempo real e monitoramento de frequência cardíaca integrado por apenas US$ 48. Para a maioria dos compradores escolhendo entre o SE e o V7, o SE se destaca claramente em valor e uso diário — veja a [visão geral do SE](#se-overview). O **V6 Huilian** continua sendo a escolha se você quer iCloud Connect e alternância entre vários dispositivos. O **V7** vence se precisão de frequência cardíaca de nível fitness, atendimento por gestos da cabeça ou reconhecimento de conversas forem indispensáveis, mas confira primeiro as observações sobre o lançamento inicial. Com orçamento apertado, o **V5.5** oferece o visual do Pro 3 por menos. Veja os [links de compra](/pt/links/airpods-pro-3) para todas as versões.
+**Veredito rápido:** o **SE** exclusivo da Jenny é a escolha de melhor custo-benefício da série Pro 3 — baseado no chipset XiaoBai, oferece o ANC mais potente já testado em qualquer réplica (superando até mesmo o V7, mais caro), áudio espacial com rastreamento da cabeça funcionando perfeitamente, tradução em tempo real e monitoramento de frequência cardíaca integrado por apenas US$ 48. Para a maioria dos compradores escolhendo entre o SE e o V7, o SE se destaca claramente em valor e uso diário — veja a [visão geral do SE](#se-overview). O **V6 Huilian** continua sendo a escolha se você quer iCloud Connect e alternância entre vários dispositivos. O **V7** vence se precisão de frequência cardíaca de nível fitness, atendimento por gestos da cabeça ou reconhecimento de conversas forem indispensáveis — a **TigerBuilder** é a variante mais recente e melhor do V7, com a Huilian em segundo lugar —, mas confira primeiro as observações sobre o lançamento inicial. Com orçamento apertado, o **V5.5** oferece o visual do Pro 3 por menos. Veja os [links de compra](/pt/links/airpods-pro-3) para todas as versões.
 
 ::: tip Base compartilhada do Pro 3
 Todos os modelos Pro 3 incluem: carregamento USB-C, controle de volume deslizante na haste, cancelamento ativo de ruído, modo Transparência, detecção intra-auricular, pop-up do Pro 3 no iOS (no V7 da TigerBuilder, ele pode parar de funcionar após uma atualização de firmware) e suporte ao iOS 27.
@@ -13,17 +13,17 @@ Todos os modelos Pro 3 incluem: carregamento USB-C, controle de volume deslizant
 
 Clique em qualquer selo de versão para encontrar avaliações da comunidade sobre esse modelo.
 
-| Versão → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(Huilian / TB) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Exclusivo Jenny) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
+| Versão → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(TB / Huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Exclusivo Jenny) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
 |:---|:---:|:---:|:---:|:---:|
-| **Chipset** | Huilian 377H3 / Airoha 1571AM | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
+| **Chipset** | Airoha 1571AM / Huilian 377H3 | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
 | **Desempenho do ANC** | Híbrido de alimentação dupla (~38–42 dB) | Híbrido de alto nível (~42 dB, melhor) | Bom (~36–38 dB) | Razoável (~32 dB) |
 | **Áudio espacial (rastreamento da cabeça)** | ✅ Funciona | ✅ Funciona perfeitamente | ✅ Funciona | ❌ Fixo (sem rastreamento) |
 | **Tradução em tempo real** | ⚠️ Apenas na variante Huilian | ✅ Sim (prompt do iOS) | ⚠️ Apenas na variante Huilian | ❌ Não |
 | **Monitoramento de frequência cardíaca** | ✅ Sensor óptico | ✅ Sim (monitoramento casual) | ❌ Não | ❌ Não |
 | **Controles por gestos da cabeça** | ✅ Sim (assentir / balançar) | ❌ Não | ❌ Não | ❌ Não |
 | **Reconhecimento de conversas** | ✅ Sim | ❌ Não | ⚠️ Apenas na variante Huilian | ❌ Não |
-| **Vários dispositivos / alternância** | iCloud (HL) / 3 dispositivos (TB) | 1 dispositivo | iCloud (HL) / 2 dispositivos (TB) | 1 dispositivo |
-| **Equalizador / personalização pelo app** | Starfun (HL) / FlyCC (TB) | ❌ Não | Starfun (HL) / FlyCC (TB) | ❌ Não |
+| **Vários dispositivos / alternância** | 3 dispositivos (TB) / iCloud (HL) | 1 dispositivo | iCloud (HL) / 2 dispositivos (TB) | 1 dispositivo |
+| **Equalizador / personalização pelo app** | FlyCC (TB) / Starfun (HL) | ❌ Não | Starfun (HL) / FlyCC (TB) | ❌ Não |
 | **Faixa de preço / valor** | ~US$ 68–75 (Topo de linha) | ~US$ 48 (Melhor custo-benefício) | ~US$ 38–45 (Intermediário) | ~US$ 25–30 (Econômico) |
 | **Visão geral detalhada** | [Visão geral do V7](#v7-overview) | [Visão geral do SE](#se-overview) | — | — |
 
@@ -31,11 +31,13 @@ Clique em qualquer selo de versão para encontrar avaliações da comunidade sob
 
 ## Visão geral do V7 {#v7-overview}
 
-O V7 é a réplica mais recente do AirPods Pro 3, baseada no chipset Huilian 377H3. Ele introduz um sensor de frequência cardíaca, controles por gestos da cabeça para atender chamadas, ANC Híbrido com IA, áudio espacial funcional com rastreamento da cabeça e um modo de jogos de baixa latência. Os fones de 45 mAh têm autonomia estimada em cerca de 7 horas de reprodução, e o estojo de 500 mAh oferece de 3 a 4 cargas completas.
+O V7 é a réplica mais recente do AirPods Pro 3 e vem em duas variantes: a **TigerBuilder** — a mais recente e melhor — e a **Huilian**.
 
-Ele ainda está em lançamento inicial — alguns membros relataram chiado com o ANC e outros problemas nas primeiras unidades. É provável que os lotes posteriores aperfeiçoem esses aspectos, mas confira as discussões recentes do [V7 no r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) para saber a opinião atual antes de comprar.
+**TigerBuilder** é a variante mais recente e melhor do V7, baseada no chipset Airoha 1571AM, por cerca de US$ 68. Os recursos listados pelo vendedor incluem sensor de frequência cardíaca, ANC adaptativo, reconhecimento de conversas, áudio espacial com rastreamento da cabeça, gestos da cabeça, ajuste deslizante do volume, ENC com dois microfones, driver de 10 mm, fones de 45 mAh com estojo Qi de 550 mAh, alto-falante no estojo e multiponto para 3 dispositivos. ⚠️ O pop-up do iOS e o número de série são adicionados pelo vendedor e podem parar de funcionar após uma atualização de firmware — não atualize o firmware se quiser mantê-los. Ele usa o app FlyCC; o V7 da Huilian não é afetado. É vendido pela HiCity — veja os [links de compra](/pt/links/airpods-pro-3).
 
-**TigerBuilder** é a segunda variante do V7, baseada no chipset Airoha 1571AM, por cerca de US$ 68. Os recursos listados pelo vendedor incluem sensor de frequência cardíaca, ANC adaptativo, reconhecimento de conversas, áudio espacial com rastreamento da cabeça, gestos da cabeça, ajuste deslizante do volume, ENC com dois microfones, driver de 10 mm, fones de 45 mAh com estojo Qi de 550 mAh, alto-falante no estojo e multiponto para 3 dispositivos. ⚠️ O pop-up do iOS e o número de série são adicionados pelo vendedor e podem parar de funcionar após uma atualização de firmware — não atualize o firmware se quiser mantê-los. Ele usa o app FlyCC; o V7 da Huilian não é afetado. É vendido pela HiCity — veja os [links de compra](/pt/links/airpods-pro-3).
+A **Huilian** é a variante original do V7, baseada no chipset Huilian 377H3. Ela introduz um sensor de frequência cardíaca, controles por gestos da cabeça para atender chamadas, ANC Híbrido com IA, áudio espacial funcional com rastreamento da cabeça e um modo de jogos de baixa latência. Os fones de 45 mAh têm autonomia estimada em cerca de 7 horas de reprodução, e o estojo de 500 mAh oferece de 3 a 4 cargas completas. Escolha-a em vez da TigerBuilder se você quiser iCloud Connect, tradução em tempo real e o app Starfun.
+
+O V7 ainda está em lançamento inicial — alguns membros relataram chiado com o ANC e outros problemas nas primeiras unidades. É provável que os lotes posteriores aperfeiçoem esses aspectos, mas confira as discussões recentes do [V7 no r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) para saber a opinião atual antes de comprar.
 
 ## Visão geral do SE {#se-overview}
 

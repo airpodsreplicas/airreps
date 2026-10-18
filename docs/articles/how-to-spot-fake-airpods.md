@@ -64,7 +64,7 @@ All three of these are replica packaging — the box tells you what the seller w
 
 ### 8. Try the community chip-detection apps
 
-The community maintains [free utility apps](/useful-apps) that identify which chip your AirPods use: **FlyCC** (detects Airoha 1562AE/E chipsets), **CloudCC** (Tigerbuilder/Airoha), and **Starfun** (Huilian 247). Install them on an Android phone or Mac and see which one connects. Genuine Apple AirPods will not respond to any of these third-party utilities. One caveat: bottom-tier clones use a cheap Jieli (Jerry) chipset that also ignores these apps, so "no app connects" means either cheap fake *or* genuine, never authentic for sure.
+The community maintains [free utility apps](/useful-apps) that identify which chip your AirPods use: **FlyCC** (detects Airoha 1562AE/E chipsets), **CloudCC** (TigerBuilder/Airoha), and **Starfun** (Huilian 247). Install them on an Android phone or Mac and see which one connects. Genuine Apple AirPods will not respond to any of these third-party utilities. One caveat: bottom-tier clones use a cheap Jieli (Jerry) chipset that also ignores these apps, so "no app connects" means either cheap fake *or* genuine, never authentic for sure.
 
 ### 9. Ignore the buzzwords
 

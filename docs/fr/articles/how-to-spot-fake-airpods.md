@@ -63,7 +63,7 @@ Ces trois types d’emballages sont des emballages de répliques : la boîte vou
 
 ### 8. Essayez les applications communautaires de détection de puce
 
-La communauté propose des [applications utilitaires gratuites](/fr/useful-apps) qui identifient la puce utilisée par vos AirPods : **FlyCC** (détecte les chipsets Airoha 1562AE/E), **CloudCC** (Tigerbuilder/Airoha) et **Starfun** (Huilian 247). Installez-les sur un téléphone Android ou un Mac et voyez laquelle se connecte. Les vrais AirPods d’Apple ne répondent à aucun de ces utilitaires tiers. Une réserve : les copies bas de gamme utilisent une puce Jieli (Jerry) bon marché qui ignore également ces applications. Ainsi, « aucune application ne se connecte » signifie soit faux bon marché, soit authentique, mais ne permet jamais d’en être certain.
+La communauté propose des [applications utilitaires gratuites](/fr/useful-apps) qui identifient la puce utilisée par vos AirPods : **FlyCC** (détecte les chipsets Airoha 1562AE/E), **CloudCC** (TigerBuilder/Airoha) et **Starfun** (Huilian 247). Installez-les sur un téléphone Android ou un Mac et voyez laquelle se connecte. Les vrais AirPods d’Apple ne répondent à aucun de ces utilitaires tiers. Une réserve : les copies bas de gamme utilisent une puce Jieli (Jerry) bon marché qui ignore également ces applications. Ainsi, « aucune application ne se connecte » signifie soit faux bon marché, soit authentique, mais ne permet jamais d’en être certain.
 
 ### 9. Ignorez les mots à la mode
 

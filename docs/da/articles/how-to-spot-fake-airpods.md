@@ -63,7 +63,7 @@ Alle tre er emballage til kopier — æsken fortæller dig, hvad sælgeren ville
 
 ### 8. Prøv chipdetektionsapps fra fællesskabet
 
-Fællesskabet vedligeholder [gratis hjælpeapps](/da/useful-apps), der identificerer, hvilken chip dine AirPods bruger: **FlyCC** (registrerer Airoha 1562AE/E-chipsæt), **CloudCC** (Tigerbuilder/Airoha) og **Starfun** (Huilian 247). Installer dem på en Android-telefon eller Mac, og se, hvilken app der opretter forbindelse. Ægte Apple AirPods reagerer ikke på nogen af disse tredjepartsværktøjer. Et forbehold: Kopier i den billigste ende bruger et billigt Jieli (Jerry)-chipsæt, som også ignorerer disse apps, så »ingen app kan oprette forbindelse« betyder enten en billig kopi *eller* ægte AirPods — men kan aldrig bekræfte, at de er ægte.
+Fællesskabet vedligeholder [gratis hjælpeapps](/da/useful-apps), der identificerer, hvilken chip dine AirPods bruger: **FlyCC** (registrerer Airoha 1562AE/E-chipsæt), **CloudCC** (TigerBuilder/Airoha) og **Starfun** (Huilian 247). Installer dem på en Android-telefon eller Mac, og se, hvilken app der opretter forbindelse. Ægte Apple AirPods reagerer ikke på nogen af disse tredjepartsværktøjer. Et forbehold: Kopier i den billigste ende bruger et billigt Jieli (Jerry)-chipsæt, som også ignorerer disse apps, så »ingen app kan oprette forbindelse« betyder enten en billig kopi *eller* ægte AirPods — men kan aldrig bekræfte, at de er ægte.
 
 ### 9. Se bort fra modeordene
 

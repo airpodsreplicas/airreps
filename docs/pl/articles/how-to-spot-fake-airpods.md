@@ -63,7 +63,7 @@ Wszystkie trzy rodzaje opakowań to opakowania replik — pudełko mówi, co spr
 
 ### 8. Wypróbuj społecznościowe aplikacje do wykrywania układów
 
-Społeczność udostępnia [bezpłatne aplikacje narzędziowe](/pl/useful-apps), które pozwalają ustalić, jakiego układu używają AirPods: **FlyCC** (wykrywa układy Airoha 1562AE/E), **CloudCC** (Tigerbuilder/Airoha) i **Starfun** (Huilian 247). Zainstaluj je na telefonie z Androidem lub Macu i sprawdź, która z nich się połączy. Oryginalne AirPods Apple nie odpowiadają na żadne z tych narzędzi innych firm. Jest jeden wyjątek: najtańsze klony używają taniego układu Jieli (Jerry), który również ignoruje te aplikacje, więc „żadna aplikacja się nie łączy” oznacza albo tanią podróbkę, *albo* oryginał — nigdy nie daje pewności, że słuchawki są oryginalne.
+Społeczność udostępnia [bezpłatne aplikacje narzędziowe](/pl/useful-apps), które pozwalają ustalić, jakiego układu używają AirPods: **FlyCC** (wykrywa układy Airoha 1562AE/E), **CloudCC** (TigerBuilder/Airoha) i **Starfun** (Huilian 247). Zainstaluj je na telefonie z Androidem lub Macu i sprawdź, która z nich się połączy. Oryginalne AirPods Apple nie odpowiadają na żadne z tych narzędzi innych firm. Jest jeden wyjątek: najtańsze klony używają taniego układu Jieli (Jerry), który również ignoruje te aplikacje, więc „żadna aplikacja się nie łączy” oznacza albo tanią podróbkę, *albo* oryginał — nigdy nie daje pewności, że słuchawki są oryginalne.
 
 ### 9. Zignoruj modne określenia
 
