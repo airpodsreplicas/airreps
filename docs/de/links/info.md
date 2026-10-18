@@ -121,7 +121,3 @@ Vertrauenswürdige Verkäufer verwenden ein sicheres Krypto-Zahlungsgateway zur 
 
 **Alternative:** Wenn du jede Möglichkeit einer KYC-Verifizierung vermeiden möchtest, kannst du [KakoBuy](https://airreps.link/kakobuy) verwenden – eine Agentenplattform, die Produkte in deinem Namen bei Verkäufern kauft und vor dem Versand Bilder zur Qualitätskontrolle (QC) bereitstellt. KakoBuy verwendet reguläre Zahlungsanbieter, die Kredit- und Debitkarten akzeptieren und **niemals eine KYC-Verifizierung oder Identitätsprüfung verlangen**. Das macht KakoBuy zu einer ausgezeichneten Option, wenn du deine Karte ohne KYC-Anforderungen verwenden und gleichzeitig von der zusätzlichen Sicherheit durch QC-Bilder profitieren möchtest. Eine vollständige Anleitung findest du in unserem [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy).
 :::
-
-::: tip
-Einige Verkäufer-Websites, die Kreditkartenzahlungen anbieten, können eine unauffällige Website-Gestaltung haben. Suche nach der gewünschten Versionsnummer – allgemeine Produktbilder kannst du gefahrlos ignorieren. Dies geschieht, um den Urheberrechtsrichtlinien bestimmter Kreditkartenzahlungsgateways zu entsprechen.
-:::

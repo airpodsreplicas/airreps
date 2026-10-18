@@ -121,7 +121,3 @@ Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kr
 
 **Alternatif:** KYC doğrulaması ihtimalinden tamamen kaçınmak istiyorsanız, satıcılardan sizin adınıza ürün satın alan ve gönderimden önce kalite kontrolü (QC) fotoğrafları sağlayan bir aracı platform olan [KakoBuy'u](https://airreps.link/kakobuy) kullanmayı düşünebilirsiniz. KakoBuy, kredi ve banka kartlarını kabul eden standart ödeme işlemcilerini kullanır ve **KYC doğrulaması veya kimlik kontrolü gerektirmez**. Böylece QC fotoğraflarının sağladığı ek güvenceyi elde ederken kartınızı KYC gereklilikleri olmadan kullanmak istiyorsanız mükemmel bir seçenek sunar. Ayrıntılı açıklama için [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) bakın.
 :::
-
-::: tip
-Kredi kartı ödemeleri sunan bazı satıcı web sitelerinde belirgin olmayan web sitesi markalaması bulunabilir. İstediğiniz sürüm numarasını arayın — genel ürün görsellerini güvenle göz ardı edebilirsiniz. Bu uygulama, bazı kredi kartı ödeme ağ geçitlerinin uygulayabileceği telif hakkı politikalarına uymak için yapılır.
-:::

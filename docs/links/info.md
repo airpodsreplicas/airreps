@@ -122,7 +122,3 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 
 **Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for a full walkthrough.
 :::
-
-::: tip
-Some seller websites providing credit card payments may have discrete website branding. Look for the version number you want — you can safely ignore generic product images. This is done to comply with copyright policies that some credit card payment gateways may have.
-:::

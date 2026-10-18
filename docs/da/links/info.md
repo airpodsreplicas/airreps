@@ -121,7 +121,3 @@ Troværdige sælgere bruger en sikker kryptobetalingstjeneste til at behandle kr
 
 **Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verificering, kan du overveje at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform, der køber produkter fra sælgere på dine vegne og leverer billeder til kvalitetskontrol (QC), før de sendes. KakoBuy bruger almindelige betalingsbehandlere, der accepterer kredit- og debetkort, og **kræver aldrig KYC-verificering eller identitetskontrol**. Det gør det til et fremragende valg, hvis du foretrækker at bruge dit kort uden KYC-krav, samtidig med at du får den ekstra sikkerhed, som QC-billeder giver. Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy) for en komplet gennemgang.
 :::
-
-::: tip
-Nogle sælgerwebsteder, der tilbyder kreditkortbetalinger, kan have diskret webstedsbranding. Se efter det versionsnummer, du ønsker — du kan roligt ignorere generiske produktbilleder. Dette gøres for at overholde ophavsretspolitikker, som nogle betalingsgateways til kreditkort kan have.
-:::

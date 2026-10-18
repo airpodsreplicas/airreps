@@ -121,7 +121,3 @@ Les vendeurs de confiance utilisent une passerelle de paiement sécurisée en cr
 
 **Alternative :** Si vous souhaitez éviter toute possibilité de vérification KYC, envisagez d’utiliser [KakoBuy](https://airreps.link/kakobuy), une plateforme d’agents qui achète les produits auprès des vendeurs en votre nom et fournit des photos de contrôle qualité (QC) avant l’expédition. KakoBuy utilise des prestataires de paiement classiques qui acceptent les cartes de crédit et de débit et **n’exigent jamais de vérification KYC** ni de contrôle d’identité. C’est donc une excellente option si vous préférez utiliser votre carte sans aucune exigence de KYC, tout en bénéficiant de la garantie supplémentaire offerte par les photos de contrôle qualité. Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy) pour découvrir la procédure complète.
 :::
-
-::: tip
-Certains sites de vendeurs proposant le paiement par carte de crédit peuvent utiliser une image de marque discrète. Recherchez le numéro de version souhaité — vous pouvez ignorer sans risque les images de produits génériques. Cette pratique vise à respecter les politiques de droits d’auteur que peuvent appliquer certaines passerelles de paiement par carte de crédit.
-:::

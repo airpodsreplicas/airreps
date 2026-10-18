@@ -121,7 +121,3 @@ Los vendedores confiables utilizan una pasarela segura de pago con criptomonedas
 
 **Alternativa:** Si quieres evitar cualquier posibilidad de verificación KYC, considera utilizar [KakoBuy](https://airreps.link/kakobuy), una plataforma de agentes que compra productos a los vendedores en tu nombre y proporciona fotos de control de calidad (QC) antes del envío. KakoBuy utiliza procesadores de pagos habituales que aceptan tarjetas de crédito y débito y **nunca requieren verificación KYC ni comprobaciones de identidad**. Esto la convierte en una excelente opción si prefieres utilizar tu tarjeta sin requisitos de KYC y, al mismo tiempo, contar con la garantía adicional de las fotos de control de calidad. Consulta nuestra [guía para hacer pedidos con KakoBuy](/es/ordering/kakobuy) para ver el tutorial completo.
 :::
-
-::: tip
-Algunos sitios web de vendedores que ofrecen pagos con tarjeta de crédito pueden tener una imagen de marca discreta. Busca el número de versión que quieres; puedes ignorar sin problemas las imágenes genéricas de los productos. Esto se hace para cumplir con las políticas de derechos de autor que pueden aplicar algunas pasarelas de pago con tarjeta de crédito.
-:::

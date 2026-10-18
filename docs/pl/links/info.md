@@ -121,7 +121,3 @@ Zaufani sprzedawcy korzystają z bezpiecznej bramki płatności kryptowalutowych
 
 **Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ skorzystanie z [KakoBuy](https://airreps.link/kakobuy) — platformy agentów, która kupuje produkty od sprzedawców w Twoim imieniu i udostępnia zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy korzysta ze standardowych operatorów płatności, którzy akceptują karty kredytowe i debetowe, i **nigdy nie wymagają weryfikacji KYC ani potwierdzenia tożsamości**. To doskonała opcja, jeśli chcesz płacić kartą bez wymogu KYC, a jednocześnie korzystać z dodatkowego zabezpieczenia w postaci zdjęć QC. Pełne instrukcje znajdziesz w naszym [poradniku składania zamówień w KakoBuy](/pl/ordering/kakobuy).
 :::
-
-::: tip
-Niektóre strony sprzedawców oferujące płatności kartą kredytową mogą mieć dyskretne oznaczenia marki. Szukaj numeru wersji, którego potrzebujesz — możesz bezpiecznie zignorować ogólne zdjęcia produktów. Ma to na celu przestrzeganie zasad dotyczących praw autorskich, które mogą obowiązywać w niektórych bramkach płatności kartą kredytową.
-:::
