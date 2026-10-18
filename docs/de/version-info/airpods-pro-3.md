@@ -7,7 +7,7 @@ description: 'Vergleiche die Replica-Versionen von AirPods Pro 3 (V7, SE, V6, V5
 **Kurzurteil:** Die exklusive **SE** von Jenny ist der herausragende Preis-Leistungs-Tipp der Pro-3-Serie — basierend auf dem XiaoBai-Chipsatz liefert sie die stärkste ANC-Leistung, die bei einer Replica getestet wurde (und übertrifft sogar die teurere V7), ein fehlerfreies Spatial Audio mit Head-Tracking, Echtzeitübersetzung und integrierte Herzfrequenzmessung für nur 48 $. Für die meisten Käufer, die zwischen SE und V7 wählen, liegt die SE beim Preis-Leistungs-Verhältnis und beim alltäglichen Hören deutlich vorn — siehe die [SE-Übersicht](#se-overview). Die **V6 Huilian** bleibt die richtige Wahl, wenn du iCloud Connect und den Wechsel zwischen mehreren Geräten möchtest. Die **V7** gewinnt, wenn Herzfrequenzgenauigkeit auf Fitnessniveau, Antworten per Kopfbewegung oder Konversationsbewusstsein unverzichtbar sind; lies aber zuerst die Hinweise zur frühen Veröffentlichung. Bei knappem Budget bietet die **V5.5** den Pro-3-Look für weniger Geld. Alle Versionen findest du in den [Kauflinks](/de/links/airpods-pro-3).
 
 ::: tip Gemeinsame Pro-3-Grundausstattung
-Alle Pro-3-Modelle umfassen: USB-C-Laden, Lautstärkeregelung durch Wischen am Stiel, aktive Geräuschunterdrückung, Transparenzmodus, In-Ear-Erkennung, Pro-3-iOS-Popup (nicht bei der TigerBuilder-V7) und Unterstützung für iOS 27.
+Alle Pro-3-Modelle umfassen: USB-C-Laden, Lautstärkeregelung durch Wischen am Stiel, aktive Geräuschunterdrückung, Transparenzmodus, In-Ear-Erkennung, Pro-3-iOS-Popup (bei der TigerBuilder-V7 kann es nach einem Firmware-Update aufhören zu funktionieren) und Unterstützung für iOS 27.
 *(Hinweis: Keine Replica unterstützt Apples verschlüsseltes „Wo ist?“-Netzwerk.)*
 :::
 
@@ -27,7 +27,7 @@ Klicke auf ein beliebiges Versionsabzeichen, um Community-Reviews zu diesem Mode
 | **Preis / Preis-Leistungs-Kategorie** | ~68–75 $ (Flaggschiff) | ~48 $ (Top-Preis-Leistungs-Tipp) | ~38–45 $ (Mittelklasse) | ~25–30 $ (Budget) |
 | **Detaillierte Übersicht** | [V7-Übersicht](#v7-overview) | [SE-Übersicht](#se-overview) | — | — |
 
-*⚠️ Pro 3 V7 (nur die TigerBuilder-Version): kein iOS-Popup und keine Seriennummer. Verwendet stattdessen die FlyCC-App — nicht für jeden geeignet. Die Huilian V7 ist nicht betroffen.*
+*⚠️ Pro 3 V7 (nur die TigerBuilder-Version): kommt jetzt mit iOS-Popup und Seriennummer, die der Verkäufer hinzufügt — sie können nach einem Firmware-Update jedoch aufhören zu funktionieren. Aktualisiere die Firmware nicht, wenn du sie behalten möchtest. Sie verwendet weiterhin die FlyCC-App. Die Huilian V7 ist nicht betroffen.*
 
 ## V7-Übersicht {#v7-overview}
 
@@ -35,7 +35,7 @@ Die V7 ist die neueste AirPods-Pro-3-Replica und basiert auf dem Huilian-377H3-C
 
 Sie ist noch eine frühe Veröffentlichung — einige Mitglieder haben bei den ersten Chargen Zischen während der ANC-Nutzung und weitere Kinderkrankheiten gemeldet. Spätere Chargen werden diese wahrscheinlich verbessern, aber sieh dir vor dem Kauf die aktuellen [V7-Threads auf r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) an, um die derzeitige Einschätzung der Community zu erfahren.
 
-**TigerBuilder** ist die zweite V7-Ausführung, basierend auf dem Airoha-1571AM-Chipsatz, für rund 68 $. Zu den vom Verkäufer angegebenen Funktionen gehören ein Herzfrequenzsensor, adaptive ANC, Konversationsbewusstsein, Spatial Audio mit Head-Tracking, Steuerung per Kopfbewegung, Lautstärkeregelung durch Wischen, ENC mit zwei Mikrofonen, ein 10-mm-Treiber, 45-mAh-Ohrhörer mit einem 550-mAh-Qi-Case, ein Lautsprecher im Case und Multipoint für 3 Geräte. ⚠️ Sie hat kein iOS-Popup und keine Seriennummer und verwendet stattdessen die FlyCC-App — nicht für jeden geeignet; die Huilian V7 ist nicht betroffen. Verkauft wird sie von HiCity — siehe die [Kauflinks](/de/links/airpods-pro-3).
+**TigerBuilder** ist die zweite V7-Ausführung, basierend auf dem Airoha-1571AM-Chipsatz, für rund 68 $. Zu den vom Verkäufer angegebenen Funktionen gehören ein Herzfrequenzsensor, adaptive ANC, Konversationsbewusstsein, Spatial Audio mit Head-Tracking, Steuerung per Kopfbewegung, Lautstärkeregelung durch Wischen, ENC mit zwei Mikrofonen, ein 10-mm-Treiber, 45-mAh-Ohrhörer mit einem 550-mAh-Qi-Case, ein Lautsprecher im Case und Multipoint für 3 Geräte. ⚠️ iOS-Popup und Seriennummer werden vom Verkäufer hinzugefügt und können nach einem Firmware-Update aufhören zu funktionieren — aktualisiere die Firmware nicht, wenn du sie behalten möchtest. Sie verwendet die FlyCC-App; die Huilian V7 ist nicht betroffen. Verkauft wird sie von HiCity — siehe die [Kauflinks](/de/links/airpods-pro-3).
 
 ## SE-Übersicht {#se-overview}
 

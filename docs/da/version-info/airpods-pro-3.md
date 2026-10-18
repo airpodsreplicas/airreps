@@ -7,7 +7,7 @@ description: 'Sammenlign replika-versioner af AirPods Pro 3 (V7, SE, V6, V5.5) e
 **Kort dom:** den Jenny-eksklusive **SE** er det bedste køb i Pro 3-serien — med XiaoBai-chipsettet leverer den den stærkeste ANC, der er testet på en kopi (den slår endda den dyrere V7), fejlfri rumlig lyd med hovedsporing, realtidsoversættelse og indbygget pulsmåling for kun 48 $. For de fleste købere, der vælger mellem SE og V7, er SE klart bedst på værdi og daglig lytning — se [SE-oversigten](#se-overview). **V6 Huilian** er stadig valget, hvis du ønsker iCloud Connect og skift mellem flere enheder. **V7** vinder, hvis træningspræcis pulsmåling, besvarelse med hovedbevægelser eller samtalebevidsthed er ufravigelige krav, men læs noterne om den tidlige udgivelse først. Med et stramt budget giver **V5.5** dig Pro 3-designet billigere. Se [købslinks](/da/links/airpods-pro-3) til alle versioner.
 
 ::: tip Fælles Pro 3-grundlag
-Alle Pro 3-modeller inkluderer: USB-C-opladning, lydstyrkekontrol ved at skubbe på stilken, aktiv støjreduktion, transparenstilstand, registrering i øret, Pro 3-iOS-popup (ikke på TigerBuilder V7) og understøttelse af iOS 27.
+Alle Pro 3-modeller inkluderer: USB-C-opladning, lydstyrkekontrol ved at skubbe på stilken, aktiv støjreduktion, transparenstilstand, registrering i øret, Pro 3-iOS-popup (på TigerBuilder V7 kan den holde op med at virke efter en firmwareopdatering) og understøttelse af iOS 27.
 *(Bemærk: Ingen kopi understøtter Apples krypterede Find My-netværk.)*
 :::
 
@@ -27,7 +27,7 @@ Klik på et versionsmærke for at finde fællesskabsanmeldelser af den model.
 | **Pris / værditrin** | ~68–75 $ (flagskib) | ~48 $ (bedste køb) | ~38–45 $ (mellemklasse) | ~25–30 $ (budget) |
 | **Detaljeret oversigt** | [V7-oversigt](#v7-overview) | [SE-oversigt](#se-overview) | — | — |
 
-*⚠️ Pro 3 V7 (kun TigerBuilder-versionen): ingen iOS-popup og intet serienummer. Bruger FlyCC-appen i stedet — ikke for alle. Huilian V7 er ikke berørt.*
+*⚠️ Pro 3 V7 (kun TigerBuilder-versionen): leveres nu med iOS-popup og serienummer, som sælgeren tilføjer — men de kan holde op med at virke efter en firmwareopdatering, så opdater ikke firmwaren, hvis du vil beholde dem. Den bruger stadig FlyCC-appen. Huilian V7 er ikke berørt.*
 
 ## V7-oversigt {#v7-overview}
 
@@ -35,7 +35,7 @@ V7 er den nyeste AirPods Pro 3-kopi, bygget på Huilian 377H3-chipsettet. Den in
 
 Det er stadig en tidlig udgivelse — nogle medlemmer har rapporteret hissen ved ANC og andre ujævnheder i de første partier. Senere partier vil sandsynligvis forbedre dette, men tjek de seneste [V7-tråde på r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) for den aktuelle stemning, før du køber.
 
-**TigerBuilder** er den anden V7-udgave, bygget på Airoha 1571AM-chipsettet til omkring 68 $. Funktioner ifølge sælgeren omfatter en pulssensor, adaptiv ANC, samtalebevidsthed, rumlig lyd med hovedsporing, hovedbevægelser, lydstyrkekontrol ved at skubbe, ENC med to mikrofoner, en 10 mm-driver, øretelefoner på 45 mAh med et Qi-etui på 550 mAh, en højttaler i etuiet og multipoint til 3 enheder. ⚠️ Den har ingen iOS-popup og intet serienummer og bruger FlyCC-appen i stedet — ikke for alle; Huilian V7 er ikke berørt. Den sælges af HiCity — se [købslinks](/da/links/airpods-pro-3).
+**TigerBuilder** er den anden V7-udgave, bygget på Airoha 1571AM-chipsettet til omkring 68 $. Funktioner ifølge sælgeren omfatter en pulssensor, adaptiv ANC, samtalebevidsthed, rumlig lyd med hovedsporing, hovedbevægelser, lydstyrkekontrol ved at skubbe, ENC med to mikrofoner, en 10 mm-driver, øretelefoner på 45 mAh med et Qi-etui på 550 mAh, en højttaler i etuiet og multipoint til 3 enheder. ⚠️ iOS-popup og serienummer tilføjes af sælgeren og kan holde op med at virke efter en firmwareopdatering — opdater ikke firmwaren, hvis du vil beholde dem. Den bruger FlyCC-appen; Huilian V7 er ikke berørt. Den sælges af HiCity — se [købslinks](/da/links/airpods-pro-3).
 
 ## SE-oversigt {#se-overview}
 

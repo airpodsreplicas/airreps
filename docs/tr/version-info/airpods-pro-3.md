@@ -7,7 +7,7 @@ description: 'AirPods Pro 3 replika sürümlerini (V7, SE, V6, V5.5) çip, özel
 **Kısa karar:** Jenny'ye özel **SE**, Pro 3 serisinin öne çıkan fiyat-performans seçeneği — XiaoBai yonga seti üzerine kurulu olan model, herhangi bir replikada test ettiğimiz en güçlü ANC'yi sunuyor (daha pahalı V7'yi bile geride bırakıyor), kusursuz kafa takibi özellikli uzamsal ses, gerçek zamanlı çeviri ve yalnızca 48 $ karşılığında dahili kalp atış hızı takibi sağlıyor. SE ile V7 arasında seçim yapan çoğu alıcı için SE, değer ve günlük dinleme açısından açık ara önde — [SE genel bakışına](#se-overview) göz atın. iCloud Connect ve çoklu cihaz geçişi istiyorsanız **V6 Huilian** hâlâ tercih edilmesi gereken model. Fitness seviyesinde kalp atış hızı doğruluğu, kafa hareketleriyle yanıt verme veya konuşma farkındalığı olmazsa olmazlarınızsa **V7** kazanıyor; ancak önce erken sürüm notlarını kontrol edin. Bütçeniz kısıtlıysa **V5.5**, daha düşük fiyata Pro 3 görünümünü sunuyor. Tüm sürümler için [satın alma bağlantılarına](/tr/links/airpods-pro-3) göz atın.
 
 ::: tip Ortak Pro 3 temel özellikleri
-Tüm Pro 3 modelleri şunları içerir: USB-C şarj, gövde üzerinden kaydırarak ses kontrolü, Aktif Gürültü Engelleme, Şeffaflık Modu, kulak içi algılama, Pro 3 iOS açılır penceresi (TigerBuilder V7'de yok) ve iOS 27 desteği.
+Tüm Pro 3 modelleri şunları içerir: USB-C şarj, gövde üzerinden kaydırarak ses kontrolü, Aktif Gürültü Engelleme, Şeffaflık Modu, kulak içi algılama, Pro 3 iOS açılır penceresi (TigerBuilder V7'de firmware güncellemesinden sonra çalışmayı durdurabilir) ve iOS 27 desteği.
 *(Not: Hiçbir replika, Apple'ın şifreli Bul ağı desteklemez.)*
 :::
 
@@ -27,7 +27,7 @@ Bu model hakkındaki topluluk incelemelerini bulmak için herhangi bir sürüm r
 | **Fiyat / değer seviyesi** | ~68–75 $ (Amiral gemisi) | ~48 $ (En iyi fiyat-performans) | ~38–45 $ (Orta seviye) | ~25–30 $ (Bütçe) |
 | **Ayrıntılı genel bakış** | [V7 genel bakışı](#v7-overview) | [SE genel bakışı](#se-overview) | — | — |
 
-*⚠️ Pro 3 V7 (yalnızca TigerBuilder sürümü): iOS açılır penceresi ve seri numarası yok. Bunun yerine FlyCC uygulamasını kullanır — herkese göre değildir. Huilian V7 bundan etkilenmez.*
+*⚠️ Pro 3 V7 (yalnızca TigerBuilder sürümü): artık satıcının eklediği iOS açılır penceresi ve seri numarasıyla gelir — ancak bunlar firmware güncellemesinden sonra çalışmayı durdurabilir; bunları korumak istiyorsanız firmware'i güncellemeyin. FlyCC uygulamasını kullanmaya devam eder. Huilian V7 bundan etkilenmez.*
 
 ## V7 genel bakışı {#v7-overview}
 
@@ -35,7 +35,7 @@ V7, Huilian 377H3 yonga seti üzerine kurulu en yeni AirPods Pro 3 replikasıdı
 
 Model hâlâ erken bir sürüm — bazı üyeler ilk partilerde ANC açıkken hışırtı ve başka pürüzler bildirdi. Sonraki partilerin bunları gidermesi muhtemel; ancak satın almadan önce güncel görüşler için [r/AirReps'teki V7 başlıklarına](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) göz atın.
 
-**TigerBuilder**, Airoha 1571AM yonga seti üzerine kurulu ikinci V7 sürümüdür ve fiyatı yaklaşık 68 $'dır. Satıcının listelediği özellikler arasında kalp atış hızı sensörü, uyarlanabilir ANC, konuşma farkındalığı, kafa takipli uzamsal ses, kafa hareketleri, kaydırarak ses ayarı, çift mikrofonlu ENC, 10 mm sürücü, 550 mAh Qi kutulu 45 mAh kulaklıklar, kutu hoparlörü ve 3 cihaz için multipoint bulunur. ⚠️ iOS açılır penceresi ve seri numarası yoktur; bunun yerine FlyCC uygulamasını kullanır — herkese göre değildir; Huilian V7 bundan etkilenmez. HiCity tarafından satılır — [satın alma bağlantılarına](/tr/links/airpods-pro-3) göz atın.
+**TigerBuilder**, Airoha 1571AM yonga seti üzerine kurulu ikinci V7 sürümüdür ve fiyatı yaklaşık 68 $'dır. Satıcının listelediği özellikler arasında kalp atış hızı sensörü, uyarlanabilir ANC, konuşma farkındalığı, kafa takipli uzamsal ses, kafa hareketleri, kaydırarak ses ayarı, çift mikrofonlu ENC, 10 mm sürücü, 550 mAh Qi kutulu 45 mAh kulaklıklar, kutu hoparlörü ve 3 cihaz için multipoint bulunur. ⚠️ iOS açılır penceresi ve seri numarası satıcı tarafından eklenir ve firmware güncellemesinden sonra çalışmayı durdurabilir — bunları korumak istiyorsanız firmware'i güncellemeyin. FlyCC uygulamasını kullanır; Huilian V7 bundan etkilenmez. HiCity tarafından satılır — [satın alma bağlantılarına](/tr/links/airpods-pro-3) göz atın.
 
 ## SE genel bakışı {#se-overview}
 

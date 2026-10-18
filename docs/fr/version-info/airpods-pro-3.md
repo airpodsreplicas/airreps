@@ -7,7 +7,7 @@ description: 'Comparez les versions répliques des AirPods Pro 3 (V7, SE, V6, V5
 **Verdict rapide :** la **SE** exclusive à Jenny est le meilleur choix en matière de rapport qualité-prix de la gamme Pro 3 — basée sur le chipset XiaoBai, elle offre la meilleure réduction active du bruit jamais testée sur une réplique (dépassant même la V7, plus chère), un audio spatial avec suivi de la tête parfaitement fonctionnel, la traduction en temps réel et le suivi intégré de la fréquence cardiaque pour seulement 48 $. Pour la plupart des acheteurs qui hésitent entre la SE et la V7, la SE s'impose largement en matière de valeur et d'écoute quotidienne — consultez la [présentation de la SE](#se-overview). La **V6 Huilian** reste le choix à privilégier si vous voulez iCloud Connect et le basculement entre plusieurs appareils. La **V7** l'emporte si la précision de la fréquence cardiaque de niveau fitness, la réponse aux appels par gestes de la tête ou la détection des conversations sont indispensables, mais consultez d'abord les notes sur la sortie anticipée. Avec un budget serré, la **V5.5** offre l'apparence des Pro 3 à moindre coût. Consultez les [liens d'achat](/fr/links/airpods-pro-3) pour toutes les versions.
 
 ::: tip Base commune des Pro 3
-Tous les modèles Pro 3 incluent : la recharge USB-C, le contrôle du volume par glissement sur la tige, la réduction active du bruit, le mode Transparence, la détection intra-auriculaire, la fenêtre contextuelle iOS des Pro 3 (sauf sur la V7 TigerBuilder) et la prise en charge d'iOS 27.
+Tous les modèles Pro 3 incluent : la recharge USB-C, le contrôle du volume par glissement sur la tige, la réduction active du bruit, le mode Transparence, la détection intra-auriculaire, la fenêtre contextuelle iOS des Pro 3 (sur la V7 TigerBuilder, elle peut cesser de fonctionner après une mise à jour du micrologiciel) et la prise en charge d'iOS 27.
 *(Remarque : aucune réplique ne prend en charge le réseau chiffré Find My d'Apple.)*
 :::
 
@@ -27,7 +27,7 @@ Cliquez sur n'importe quel badge de version pour consulter les avis de la commun
 | **Prix / catégorie de rapport qualité-prix** | ~68–75 $ (haut de gamme) | ~48 $ (meilleur rapport qualité-prix) | ~38–45 $ (milieu de gamme) | ~25–30 $ (entrée de gamme) |
 | **Présentation détaillée** | [Présentation de la V7](#v7-overview) | [Présentation de la SE](#se-overview) | — | — |
 
-*⚠️ Pro 3 V7 (uniquement la version TigerBuilder) : pas de fenêtre contextuelle iOS ni de numéro de série. Utilise l'application FlyCC à la place — ce n'est pas pour tout le monde. La V7 Huilian n'est pas concernée.*
+*⚠️ Pro 3 V7 (uniquement la version TigerBuilder) : la fenêtre contextuelle iOS et le numéro de série sont désormais ajoutés par le vendeur, mais ils peuvent cesser de fonctionner après une mise à jour du micrologiciel — ne mettez pas à jour le micrologiciel si vous voulez les conserver. Elle utilise toujours l'application FlyCC. La V7 Huilian n'est pas concernée.*
 
 ## Présentation de la V7 {#v7-overview}
 
@@ -35,7 +35,7 @@ La V7 est la réplique la plus récente des AirPods Pro 3, basée sur le chipset
 
 Il s'agit encore d'une sortie anticipée — certains membres ont signalé un sifflement avec la réduction active du bruit et d'autres problèmes de finition sur les premiers lots. Les lots suivants devraient probablement corriger ces défauts, mais consultez les [discussions récentes sur la V7 sur r/AirReps](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) pour connaître les avis actuels avant d'acheter.
 
-**TigerBuilder** est la seconde déclinaison de la V7, basée sur le chipset Airoha 1571AM, pour environ 68 $. Les caractéristiques annoncées par le vendeur comprennent un capteur de fréquence cardiaque, une réduction active du bruit adaptative, la détection des conversations, l'audio spatial avec suivi de la tête, les gestes de la tête, le réglage du volume par glissement, l'ENC à double micro, un transducteur de 10 mm, des écouteurs de 45 mAh avec un boîtier Qi de 550 mAh, un haut-parleur dans le boîtier et le multipoint pour 3 appareils. ⚠️ Elle n'a pas de fenêtre contextuelle iOS ni de numéro de série et utilise l'application FlyCC à la place — ce n'est pas pour tout le monde ; la V7 Huilian n'est pas concernée. Elle est vendue par HiCity — consultez les [liens d'achat](/fr/links/airpods-pro-3).
+**TigerBuilder** est la seconde déclinaison de la V7, basée sur le chipset Airoha 1571AM, pour environ 68 $. Les caractéristiques annoncées par le vendeur comprennent un capteur de fréquence cardiaque, une réduction active du bruit adaptative, la détection des conversations, l'audio spatial avec suivi de la tête, les gestes de la tête, le réglage du volume par glissement, l'ENC à double micro, un transducteur de 10 mm, des écouteurs de 45 mAh avec un boîtier Qi de 550 mAh, un haut-parleur dans le boîtier et le multipoint pour 3 appareils. ⚠️ La fenêtre contextuelle iOS et le numéro de série sont ajoutés par le vendeur et peuvent cesser de fonctionner après une mise à jour du micrologiciel — ne mettez pas à jour le micrologiciel si vous voulez les conserver. Elle utilise l'application FlyCC ; la V7 Huilian n'est pas concernée. Elle est vendue par HiCity — consultez les [liens d'achat](/fr/links/airpods-pro-3).
 
 ## Présentation de la SE {#se-overview}
 
