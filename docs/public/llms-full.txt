@@ -539,6 +539,8 @@ EPS                     No        Yes      No
 
 HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options were checked in HiCity's cashier on 4 September 2026. OnlyPay confirms final availability for each order. No OnlyPay option was listed for the US, Canada, Australia or France.
 
+Trouble paying? If you have trouble paying or checking out on the sellers' websites, we recommend KakoBuy (https://airreps.link/kakobuy). It supports normal payment methods like PayPal and credit/debit cards that work for about 90% of customers, and it's a good agent overall. See the KakoBuy guide: https://airpodsreplicas.com/ordering/kakobuy
+
 AirPods Pro 3 Purchase Links:
 - V7 (Huilian): Earhive (https://airreps.link/eprov7hl), HiCity (https://airreps.link/hcprov7hl), Jenny (https://airreps.link/jprov7hl)
 - V7 (TB): HiCity (https://hicitypods.com/product/pro-3-v7-tb/)

@@ -76,6 +76,10 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 
 HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri 4 Eylül 2026'da HiCity'nin ödeme sayfasında kontrol edilmiştir. Her sipariş için son uygunluğu OnlyPay onaylar. ABD, Kanada, Avustralya veya Fransa için hiçbir OnlyPay seçeneği listelenmemiştir.
 
+::: tip Ödeme yaparken sorun mu yaşıyorsunuz?
+Satıcıların web sitelerinde ödeme yaparken veya siparişi tamamlarken sorun yaşıyorsanız, [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. PayPal ve kredi/banka kartları gibi, müşterilerin yaklaşık %90'ı için çalışan standart ödeme yöntemlerini destekler ve genel olarak iyi bir aracıdır. Ayrıntılar için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
+:::
+
 ::: tip
 Wise veya Banka Havalesi üzerinden yapılan ödemeler, satıcı tarafından manuel olarak incelenmelidir; bu işlem 24 saate kadar sürebilir.
 

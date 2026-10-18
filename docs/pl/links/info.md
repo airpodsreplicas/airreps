@@ -76,6 +76,10 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 
 Metody płatności OnlyPay dostępne w HiCity zależą od kraju rozliczeniowego: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX i Boleto (BR). Te opcje krajowe zostały sprawdzone w systemie płatności HiCity 4 września 2026 roku. OnlyPay potwierdza ostateczną dostępność dla każdego zamówienia. Dla Stanów Zjednoczonych, Kanady, Australii i Francji nie wyświetlono żadnej opcji OnlyPay.
 
+::: tip Problemy z płatnością?
+Jeśli masz problemy z zapłaceniem lub sfinalizowaniem zamówienia na stronach sprzedawców, polecamy [KakoBuy](https://airreps.link/kakobuy). Obsługuje standardowe metody płatności, takie jak PayPal i karty kredytowe/debetowe, które działają u około 90% klientów, a do tego jest ogólnie dobrym agentem. Zobacz nasz [poradnik KakoBuy](/pl/ordering/kakobuy).
+:::
+
 ::: tip
 Płatności przez Wise lub przelew bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może potrwać do 24 godzin.
 

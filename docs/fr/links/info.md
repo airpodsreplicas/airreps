@@ -76,6 +76,10 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 
 Les modes de paiement OnlyPay de HiCity dépendent du pays de facturation : Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB) ; Swish (SE) ; PayU (CZ, PL) ; Bancontact (BE) ; EPS (AT) ; PIX et Boleto (BR). Ces options par pays ont été vérifiées dans la caisse de HiCity le 4 septembre 2026. OnlyPay confirme la disponibilité finale pour chaque commande. Aucune option OnlyPay n’était proposée pour les États-Unis, le Canada, l’Australie ou la France.
 
+::: tip Des difficultés pour payer ?
+Si vous avez des difficultés pour payer ou finaliser votre commande sur les sites des vendeurs, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Il prend en charge les modes de paiement classiques comme PayPal et les cartes de crédit/débit, qui fonctionnent pour environ 90 % des clients, et c’est globalement un bon agent. Consultez notre [guide KakoBuy](/fr/ordering/kakobuy).
+:::
+
 ::: tip
 Les paiements via Wise ou par virement bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu’à 24 heures.
 
