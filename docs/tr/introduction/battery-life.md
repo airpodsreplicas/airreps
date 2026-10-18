@@ -10,7 +10,7 @@ AirPods replikalarının pil ömrünü anlamak, beklentilerinizi yönetmenize ve
 
 Kulak içi AirPods replikalarının ortalama pil ömrü, orta ses seviyesinde şarj başına yaklaşık 5–8 saattir (ANC'nin etkin olup olmadığına bağlı olarak). Örneğin Pro 2 V5.4 Huilian, ANC ile yaklaşık 4,5 saat, ANC olmadan yaklaşık 6 saat kullanım sunarken V5.3 TB, ANC ile 6 saate, ANC olmadan ise 8 saate kadar ulaşır. Kafa üstü modeller için [AirPods Max karşılaştırması](/tr/version-info/airpods-max), mevcut satıcıların listelediği kullanım süresi ile ölçülen sonuçları birbirinden ayırır. Şarj kutusu, kulaklıkları 2–3 kez tamamen şarj edebilir.
 
-::: tip
+::: tip Pil sürelerini karşılaştırma
 Mevcut kulak içi replika modelleri genellikle şarj başına 5–8 saat dinleme süresi sunar. Pil değerlerini aynı ses seviyesinde ve ANC ayarında karşılaştırın; satıcıların verdiği değerler uygulamalı testlerle doğrudan karşılaştırılamaz.
 :::
 

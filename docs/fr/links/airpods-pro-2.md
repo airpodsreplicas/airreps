@@ -147,6 +147,6 @@ Les répliques d'AirPods Pro 2 sont le choix intra-auriculaire le plus populaire
 
 
 
-::: tip
+::: tip Les commandes Weidian nécessitent un agent
 Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez consolider l'expédition avec d'autres articles et si vous êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Vous débutez avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
 :::

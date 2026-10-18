@@ -18,7 +18,7 @@ Ingen replikaudgaver af AirPods 5 er endnu blevet verificeret til denne guide. V
 
 [Opdateringer fra sælgere af AirPods 5](/da/links/airpods-5)
 
-::: tip
+::: tip Mens du venter
 Se i mellemtiden vores [guide til AirPods 4](/da/version-info/airpods-4).
 
 Deltag i vores [Discord-fællesskab](https://airreps.link/discord) for at få opdateringer.

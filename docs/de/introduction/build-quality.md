@@ -25,7 +25,7 @@ Es ist wichtig zu wissen, dass alle in AirReps verkauften Replikate Metallscharn
 
 Der "Designed by Apple"-Text auf der Rückseite verwendet eine Schrift, die der des Originals ähnelt. Der Text im Inneren des Case und an den Ohrhörern sieht ähnlich aus, stimmt aber nicht exakt mit den originalen AirPods überein. Einige Chargen haben echte Seriennummern, andere nicht. Die Textausrichtung und -farbe können variieren; manchmal ist sie nicht perfekt gerade oder in einem helleren oder dunkleren Grau als beim Original. Die Qualität des "Designed by Apple"-Textes unterscheidet sich je nach Verkäufer, wobei Hicitys Lasergravur weniger genau ist als die von Earhive und Jenny. Für mehr dazu, wie man diese Unterschiede erkennt, siehe unseren [QC & LC-Anleitung](/de/ordering/qc-lc).
 
-:::tip
+::: tip Individuelle Gravur
 Du kannst eine individuelle Lasergravur anfordern, indem du deinem bevorzugten Verkäufer eine WhatsApp-Nachricht mit dem zu gravierenden Text und deiner Bestellnummer sendest. Für speziellere Wünsche wie Logos oder detaillierte Designs kannst du dein gewünschtes Artwork im .svg- oder .png-Format an Jenny oder Earhive schicken. Normale Texte und Emojis benötigen diese Dateiformate nicht.
 :::
 

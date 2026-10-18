@@ -31,7 +31,7 @@ Lorsque vous sélectionnez la boîte avec logo Apple au moment du paiement, la d
 
 <img src="/doublebox.webp" alt="Double boîte / boîte leurre" width="300" height="400"/>
 
-::: tip
+::: tip Boîte Apple à la commande
 La boîte Apple (qui est toujours expédiée dans une double boîte) est généralement présélectionnée au moment du paiement. Vérifiez qu’elle est bien cochée avant de finaliser votre commande.
 :::
 
@@ -39,7 +39,7 @@ La boîte Apple (qui est toujours expédiée dans une double boîte) est génér
 
 La qualité de la boîte peut aller d’une fabrication soignée, avec un texte correctement embossé et des étiquettes alignées, à une qualité médiocre ou une finition négligée. Si la qualité de la boîte est importante pour vous, demandez des photos au vendeur avant d’effectuer un achat. Et si vous inspectez une boîte pour déterminer si les AirPods qu’elle contient sont authentiques, notre article sur [comment savoir si des AirPods sont contrefaits](/fr/articles/how-to-spot-fake-airpods) présente les vérifications qui comptent réellement.
 
-::: tip
+::: tip Demandez des photos de la boîte
 Demandez toujours des photos si la qualité de la boîte est importante pour vous.
 :::
 

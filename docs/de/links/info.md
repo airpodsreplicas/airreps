@@ -17,7 +17,7 @@ faq:
 ---
 # Wo kann man AirPods-Replikate kaufen?
 
-::: tip
+::: tip Vergleiche zuerst die Versionen
 Diese Liste wird regelmäßig aktualisiert. Eine höhere Version bedeutet in der Regel ein besseres Produkt – aber nicht immer. Vergleiche daher vor dem Kauf die [Versionsinformationen](/de/version-info/general).
 :::
 
@@ -80,7 +80,7 @@ Die OnlyPay-Methoden von HiCity hängen vom Rechnungsland ab: Trustly (AT, DK, E
 Wenn du Probleme beim Bezahlen oder beim Abschließen der Bestellung auf den Websites der Verkäufer hast, empfehlen wir [KakoBuy](https://airreps.link/kakobuy). KakoBuy unterstützt gängige Zahlungsmethoden wie PayPal und Kredit-/Debitkarten, die bei etwa 90 % der Kunden funktionieren, und ist insgesamt ein guter Agent. Siehe unseren [KakoBuy-Leitfaden](/de/ordering/kakobuy).
 :::
 
-::: tip
+::: tip Prüfzeit bei Wise & Überweisung
 Zahlungen über Wise oder per Banküberweisung erfordern eine manuelle Prüfung durch den Verkäufer. Die Bearbeitung kann bis zu 24 Stunden dauern.
 
 Für Weidian-Bestellungen musst du einen Agenten verwenden. Wir empfehlen [KakoBuy](https://airreps.link/kakobuy), das Kreditkarten und mehrere Zahlungsmethoden akzeptiert – in unserem [KakoBuy-Leitfaden](/de/ordering/kakobuy) findest du eine schrittweise Anleitung.

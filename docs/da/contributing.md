@@ -6,7 +6,7 @@ description: "Hvordan man bidrager til AirReps-projektet. Fork repositoryet, ops
 
 Vi er glade for din interesse i at bidrage til vores projekt. For at gøre din bidragsproces nemmere har vi udarbejdet en detaljeret trin-for-trin guide nedenfor.
 
-::: tip
+::: tip Brug GitHub Desktop
 For nemmere håndtering af dine bidrag anbefaler vi at bruge [GitHub Desktop](https://desktop.github.com/), en GUI-baseret GitHub-klient.
 :::
 
@@ -85,7 +85,7 @@ Hvis outputtet viser `Command failed` eller anden fejlmeddelelse, er der et prob
 3. Du kan se ændringerne i hver fil. Vælg én fil ad gangen og udfyld feltet `Summary (required)`. Hvis nødvendigt, giv yderligere detaljer i `Description`-feltet. Klik på `Commit to the branch you created` for at committe dine ændringer.
 4. Klik nu på `Push changes to x` *(x er navnet på den branch, du oprettede)* for at uploade dine ændringer til GitHub.
 
-::: tip
+::: tip Klar til at pushe?
 Hvis du har committet alle filerne, godt gået! Dit næste skridt er at pushe dine ændringer til GitHub og oprette en Pull Request.
 :::
 

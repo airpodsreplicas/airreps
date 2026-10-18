@@ -15,7 +15,7 @@ There are no verified AirPods 5 replica purchase links in this guide yet. This p
 
 [AirPods 5 version info](/version-info/airpods-5)
 
-::: tip
+::: tip While you wait
 In the meantime, see our [AirPods 4 guide](/links/airpods-4).
 
 Join our [Discord community](https://airreps.link/discord) for updates.

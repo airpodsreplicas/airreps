@@ -4,7 +4,7 @@ description: 'Comparez les versions répliques des AirPods 2 selon la puce, les 
 ---
 # AirPods 2
 
-::: tip
+::: tip Développement axé sur les nouveaux modèles
 Cette gamme de produits n’est plus activement mise à jour par les fabricants, car le développement s’est orienté vers des modèles plus récents. Les répliques d’AirPods 2 restent toutefois d’excellents produits et demeurent très populaires. Si vous recherchez les dernières fonctionnalités et améliorations, consultez les [AirPods 3](/fr/version-info/airpods-3) ou les [AirPods 4](/fr/version-info/airpods-4).
 :::
 

@@ -147,6 +147,6 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y madu
 
 
 
-::: tip
+::: tip Los pedidos de Weidian requieren agente
 Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar el envío con otros artículos y estás familiarizado con las plataformas de agentes. Para un agente fiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Eres nuevo en el uso de agentes? Consulta nuestra [guía de pedidos de KakoBuy](/es/ordering/kakobuy).
 :::

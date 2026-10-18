@@ -4,7 +4,7 @@ description: 'AirPods 3 replica sürümlerini çip, özellikler ve eksik özelli
 ---
 # AirPods 3
 
-::: tip
+::: tip Geliştirme yeni modellere kaydı
 Bu ürün serisi, geliştirme çalışmaları daha yeni modellere kaydığı için üreticiler tarafından artık aktif olarak güncellenmiyor. AirPods 3 replikaları hâlâ oldukça başarılı ürünler ve popüler seçenekler olmaya devam ediyor. En yeni özellikleri ve geliştirmeleri arıyorsanız [AirPods 4](/tr/version-info/airpods-4) modeline göz atmayı düşünün.
 :::
 

@@ -18,7 +18,7 @@ Ponieważ AirPods Pro uszczelniają kanał ucha, mogą brzmieć znacząco lepiej
 
 Jakość dźwięku może się różnić w zależności od [wersja, chip](/pl/version-info/general) i partii. Wiele modeli kładzie nacisk na basy bez przesadnego przesterowania. Średnie tony są wyraźne, ale soprany mogłyby być lepsze. Zwróć uwagę, że EQ może się różnić w zależności od sprzedawcy i możesz go dostosować za pomocą ustawień odtwarzacza muzyki lub aplikacji producenta — zobacz [przydatne aplikacje](/pl/useful-apps) po linki do pobrania.
 
-::: tip
+::: tip Dostosowanie EQ
 EQ może się różnić w zależności od sprzedawcy. Użyj **FlyCC**, **BullSuper** lub **StarFun**, aby dostosować je odpowiednio dla urządzeń **TigerBuilder**, **HR** i **Huilian**.
 :::
 

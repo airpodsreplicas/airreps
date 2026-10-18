@@ -125,6 +125,6 @@ Las réplicas de AirPods Pro 3 son el modelo intraauricular más reciente, con l
 
 
 
-::: tip
+::: tip Los pedidos de Weidian requieren agente
 Elegir un enlace de Weidian requiere utilizar un agente para el envío. Recomendamos esta opción solo si deseas consolidar el envío con otros artículos y estás familiarizado con las plataformas de agentes. Para un agente fiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Es tu primera vez utilizando agentes? Consulta nuestra [guía para hacer pedidos con KakoBuy](/es/ordering/kakobuy).
 :::

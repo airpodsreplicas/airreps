@@ -90,6 +90,6 @@ Repliki AirPods Max to wariant nauszny, od tanich plastikowych wersji po metalow
 > [!NOTE]
 > Repliki AirPods Max są dostępne w różnych kolorach. Aby poznać szczegółowe opcje, zapoznaj się ze stronami poszczególnych sprzedawców.
 
-::: tip
+::: tip Zamówienia Weidian wymagają agenta
 Wybór linku Weidian wymaga skorzystania z agenta do wysyłki. Polecamy tę opcję tylko, jeśli chcesz połączyć wysyłkę z innymi przedmiotami i jesteś zaznajomiony z platformami agentów. Na rzetelnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy).
 :::

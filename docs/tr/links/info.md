@@ -17,7 +17,7 @@ faq:
 ---
 # AirPods replikaları nereden satın alınır?
 
-::: tip
+::: tip Önce sürümleri karşılaştırın
 Bu liste güncel tutulmaktadır. Daha yüksek bir sürüm genellikle daha iyi bir ürün anlamına gelir — ancak her zaman değil; bu nedenle satın almadan önce [sürüm bilgilerini](/tr/version-info/general) karşılaştırın.
 :::
 
@@ -80,7 +80,7 @@ HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE
 Satıcıların web sitelerinde ödeme yaparken veya siparişi tamamlarken sorun yaşıyorsanız, [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. PayPal ve kredi/banka kartları gibi, müşterilerin yaklaşık %90'ı için çalışan standart ödeme yöntemlerini destekler ve genel olarak iyi bir aracıdır. Ayrıntılar için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
 :::
 
-::: tip
+::: tip Wise ve havale inceleme süresi
 Wise veya Banka Havalesi üzerinden yapılan ödemeler, satıcı tarafından manuel olarak incelenmelidir; bu işlem 24 saate kadar sürebilir.
 
 Weidian siparişleri için bir aracı kullanmanız gerekir. Kredi kartlarını ve birden fazla ödeme yöntemini kabul eden [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz — adım adım açıklama için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.

@@ -26,7 +26,7 @@ Einige AirPods-Klone können eine geringere Latenz als originale AirPods haben, 
 
 Derzeit unterstützen die meisten Klone die gleichzeitige Verbindung mit mehreren Geräten. Allerdings können nur Huilian-Modelle über iCloud Connect eine Verbindung mit mehreren Apple-Geräten herstellen.
 
-::: tip
+::: tip iCloud Connect vs. Multipoint
 Die Verbindung mit mehreren Geräten über **iCloud Connect** (nahtlose Synchronisierung von Geräten mit der Apple-ID) ist ausschließlich bei Modellen auf Huilian-Basis verfügbar: AirPods Pro 2 V5.3 Huilian und V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7 sowie AirPods 4 V2 Huilian. Andere fortschrittliche Chipsätze (wie Airoha 1562AE/1571AM) unterstützen standardmäßiges **Bluetooth Multipoint** über 2–3 Geräte und ermöglichen so den Wechsel zwischen mehreren Geräten ohne Apple-ID-Integration.
 :::
 

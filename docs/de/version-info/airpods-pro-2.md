@@ -4,7 +4,7 @@ description: 'Vergleiche die Replica-Versionen der AirPods Pro 2 nach Chip, Funk
 ---
 # AirPods Pro 2
 
-::: tip
+::: tip Immer noch die ausgereifteste Option
 Die Hersteller verlagern ihren Entwicklungsschwerpunkt nach und nach auf neuere Modelle. Nachbildungen der AirPods Pro 2 sind weiterhin ausgezeichnete Produkte und die ausgereifteste und funktionsreichste Option der Pro-Reihe. Wenn du die neuesten Funktionen möchtest, bietet [AirPods Pro 3 V7](/de/version-info/airpods-pro-3) einen Herzfrequenzsensor und AI Hybrid ANC — allerdings handelt es sich um eine frühe Version mit Eigenheiten, über die du dich vor dem Kauf informieren solltest.
 :::
 

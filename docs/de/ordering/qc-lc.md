@@ -6,7 +6,7 @@ description: 'Beherrsche AirPods-Qualitätskontrolle & Echtheitsprüfung. Erkenn
 
 Welcome! Wenn du hier bist, willst du wahrscheinlich deine Replica AirPods überprüfen oder erwägst, echte zu kaufen. Dieser Abschnitt zeigt dir, wie du zwischen originalen und Replica AirPods unterscheiden kannst — von einfachen bis zu fortgeschrittenen Methoden. Wenn ein Angebot zu gut erscheint, um wahr zu sein, ist es das wahrscheinlich. Für mehr darüber, was du von der Verarbeitungsqualität von Repliken erwarten kannst, siehe den [Verarbeitungsqualität](/de/introduction/build-quality)-Leitfaden.
 
-::: tip
+::: tip Die beste Echtheitsgarantie
 Dieser Abschnitt war früher ausführlicher, aber da Repliken immer ausgefeilter werden, ist es zunehmend schwieriger, echte von gefälschten AirPods zu unterscheiden. Unser bester Rat zur Sicherstellung der Echtheit ist, deine AirPods bei einem seriösen Verkäufer zu kaufen.
 :::
 

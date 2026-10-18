@@ -40,6 +40,6 @@ As réplicas de AirPods 2 são a forma mais barata de entrar no ecossistema. Esc
 
 
 
-::: tip
+::: tip Pedidos na Weidian exigem agente
 Escolher um link do Weidian exige o uso de um agente para envio. Recomendamos esta opção apenas se você quiser consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedido do KakoBuy](/pt/ordering/kakobuy).
 :::

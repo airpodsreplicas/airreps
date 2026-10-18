@@ -37,6 +37,6 @@ AirPods Pro 2 replikaları (V5.3TB ve daha yenileri), orijinallerle oldukça ben
 
 Replikalardaki mikrofon kalitesi kullanılabilir düzeydedir ve orijinal AirPods'lardakine oldukça yakındır. Aramalar için yeterince iyidir, ancak Apple AirPods'larda olduğu gibi küçük form faktörleri nedeniyle etkileyici değildir. Ses performansı hakkında daha fazla bilgi için [ses kalitesi](/tr/introduction/sound-quality) bölümüne bakın.
 
-::: tip
+::: tip Mikrofon kalitesi
 En yeni AirPods Pro 2 replikalarının (V5.4 ve V5.3 Huilian, HR ve TB) mikrofon kalitesi orijinal AirPods'larla karşılaştırılabilir düzeydedir.
 :::

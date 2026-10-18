@@ -4,7 +4,7 @@ description: 'Vergleiche die Nachbauversionen der AirPods 3 anhand von Chip, Fun
 ---
 # AirPods 3
 
-::: tip
+::: tip Fokus liegt auf neueren Modellen
 Diese Produktlinie wird von den Herstellern nicht mehr aktiv aktualisiert, da sich die Entwicklung auf neuere Modelle verlagert hat. Replikate der AirPods 3 sind weiterhin hervorragende Produkte und nach wie vor beliebt. Wenn du nach den neuesten Funktionen und Verbesserungen suchst, schau dir [AirPods 4](/de/version-info/airpods-4) an.
 :::
 

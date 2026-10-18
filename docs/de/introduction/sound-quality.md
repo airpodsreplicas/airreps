@@ -18,7 +18,7 @@ Da sich die AirPods Pro im Ohr abdichten, können sie deutlich besser klingen al
 
 Die Klangqualität kann je nach [Version und Chip](/de/version-info/general) und Charge variieren. Viele Modelle betonen den Bass, ohne überwältigend zu sein. Die Mitten sind ausgeprägt, aber die Höhen könnten verbessert werden. Beachte, dass der EQ je nach Verkäufer variieren kann, und du ihn über die Einstellungen deines Musikplayers oder Hersteller-Apps anpassen kannst — siehe [nützliche Apps](/de/useful-apps) für Download-Links.
 
-::: tip
+::: tip EQ anpassen
 Der EQ kann je nach Verkäufer variieren. Verwende **FlyCC**, **BullSuper** oder **StarFun**, um ihn für **TigerBuilder**-, **HR**- und **Huilian**-Geräte jeweils anzupassen.
 :::
 

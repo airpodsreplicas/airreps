@@ -10,7 +10,7 @@ Zrozumienie czasu pracy baterii replik AirPods może pomóc w dostosowaniu oczek
 
 Średni czas pracy baterii dousznych replik AirPods wynosi około 5–8 godzin na jednym ładowaniu przy umiarkowanej głośności (w zależności od tego, czy ANC jest aktywne). Na przykład Pro 2 V5.4 Huilian działają około 4,5 godziny z ANC i około 6 godzin bez ANC, podczas gdy V5.3 TB osiągają do 6 godzin z ANC i 8 godzin bez ANC. W przypadku modeli nausznych [porównanie AirPods Max](/pl/version-info/airpods-max) rozróżnia czas pracy deklarowany przez sprzedawcę od zmierzonych wyników. Etui ładujące zapewnia 2–3 pełne doładowania słuchawek.
 
-::: tip
+::: tip Porównywanie czasu pracy baterii
 Obecne douszne modele replik zazwyczaj oferują 5–8 godzin słuchania na jednym ładowaniu. Porównuj dane dotyczące baterii przy tej samej głośności i tych samych ustawieniach ANC; wartości podawane przez sprzedawców nie są bezpośrednio porównywalne z testami praktycznymi.
 :::
 

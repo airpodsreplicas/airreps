@@ -40,6 +40,6 @@ AirPods 2-kopier er den billigste måde at komme ind i økosystemet på. Vælg e
 
 
 
-::: tip
+::: tip Weidian-ordrer kræver en agent
 Hvis du vælger et Weidian-link, kræver det brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::

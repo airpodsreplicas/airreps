@@ -26,6 +26,6 @@ Hibrit ANC, hem iç hem de dış mikrofon kullanarak Geri Bildirimli ve İleri B
 
 Ancak iki mikrofon kullanımı üretim maliyetlerini ve karmaşıklığı artırır. Teknoloji, düzgün uygulanması için daha fazla uzmanlık gerektirir. Orijinal AirPods Pro hibrit ANC kullanır ve bu da yüksek fiyatlarına katkıda bulunur. Birçok mevcut AirPods replikası da artık gelişmiş yonga setleri kullanarak hibrit ANC uygulamaktadır. Örneğin, [v5.3 TB](/tr/version-info/airpods-pro-2) (Airoha 1571AM yonga seti ile) tam ve gerçekçi bir gürültü engelleme deneyimi için hibrit ANC etkisini taklit eder. Bunun gerçek dünya kullanımını nasıl etkilediğini duymak için [ses kalitesi](/tr/introduction/sound-quality) ve [özellikler](/tr/introduction/features) bölümlerimize bak.
 
-::: tip
+::: tip Hibrit ANC'nin avantajı
 Hibrit ANC daha pahalı olsa da, hem Geri Bildirimli hem de İleri Beslemeli ANC'nin avantajlarını birleştirerek daha kapsamlı bir gürültü engelleme deneyimi sunar.
 :::

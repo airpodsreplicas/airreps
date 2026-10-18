@@ -31,7 +31,7 @@ Cuando seleccionas la caja con el logotipo de Apple al realizar el pago, la dobl
 
 <img src="/doublebox.webp" alt="Caja doble/de señuelo" width="300" height="400"/>
 
-::: tip
+::: tip Caja Apple al pagar
 La caja de Apple (que siempre viene como una doble caja) suele estar preseleccionada al realizar el pago. Comprueba que esté marcada antes de completar el pedido.
 :::
 
@@ -39,7 +39,7 @@ La caja de Apple (que siempre viene como una doble caja) suele estar preseleccio
 
 La calidad de la caja puede variar desde una fabricación cuidada, con el texto correctamente estampado y las etiquetas alineadas, hasta una calidad inferior o un acabado descuidado. Si la calidad de la caja es importante para ti, pide al vendedor que te envíe fotos antes de realizar la compra. Y si estás examinando una caja para determinar si los AirPods del interior son auténticos, nuestro artículo sobre [cómo saber si unos AirPods son falsos](/es/articles/how-to-spot-fake-airpods) explica las comprobaciones que realmente importan.
 
-::: tip
+::: tip Pide fotos de la caja
 Pide siempre fotos si la calidad de la caja es importante para ti.
 :::
 

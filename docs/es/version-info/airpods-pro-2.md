@@ -4,7 +4,7 @@ description: 'Compara las versiones de réplicas de AirPods Pro 2 por chip, func
 ---
 # AirPods Pro 2
 
-::: tip
+::: tip Sigue siendo la opción más madura
 Los fabricantes están trasladando poco a poco el foco del desarrollo a modelos más nuevos. Las réplicas de AirPods Pro 2 siguen siendo excelentes productos y la opción más madura y completa de la línea Pro. Si quieres las funciones más recientes, [AirPods Pro 3 V7](/es/version-info/airpods-pro-3) añade un sensor de frecuencia cardíaca y ANC híbrida con IA, aunque es un lanzamiento reciente con algunos detalles que conviene conocer antes de comprar.
 :::
 

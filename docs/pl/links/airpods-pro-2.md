@@ -147,6 +147,6 @@ Repliki AirPods Pro 2 są najpopularniejszym i najbardziej dopracowanym wyborem 
 
 
 
-::: tip
+::: tip Zamówienia Weidian wymagają agenta
 Korzystanie z linku Weidian wymaga użycia agenta do wysyłki. Zalecamy tę opcję tylko, jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla wiarygodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [poradnik zamawiania przez KakoBuy](/pl/ordering/kakobuy).
 :::

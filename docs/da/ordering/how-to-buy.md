@@ -21,7 +21,7 @@ AirReps-fællesskabet anbefaler flere sælgere for at undgå et monopol og fremm
 
 Bestilling er enkelt: vælg det produkt, du ønsker, og betal. Er du ikke sikker på, hvilken model? Tag vores [hurtige quiz](/da/quiz) eller sammenlign versioner i afsnittet om [versionsinfo](/da/version-info/general).
 
-::: tip
+::: tip Behandlingstid for Wise og bankoverførsel
 Betalinger via Wise eller bankoverførsel kræver manuel gennemgang af sælgeren, hvilket kan tage op til 24 timer, før din ordre behandles.
 :::
 

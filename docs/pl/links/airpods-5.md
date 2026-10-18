@@ -15,7 +15,7 @@ W tym poradniku nie ma jeszcze zweryfikowanych linków do zakupu replik AirPods 
 
 [Informacje o wersjach AirPods 5](/pl/version-info/airpods-5)
 
-::: tip
+::: tip W międzyczasie
 W międzyczasie sprawdź nasz [poradnik AirPods 4](/pl/links/airpods-4).
 
 Dołącz do naszej [społeczności na Discordzie](https://airreps.link/discord), aby śledzić aktualności.

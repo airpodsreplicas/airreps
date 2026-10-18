@@ -18,7 +18,7 @@ Comme les AirPods Pro scellent l'oreille, ils peuvent sonner nettement mieux que
 
 La qualité sonore peut varier selon la [version, puce](/fr/version-info/general) et le lot. De nombreux modèles mettent l'accent sur les basses sans être écrasantes. Les médiums sont prononcés, mais les aigus pourraient être améliorés. Notez que l'égalisation (EQ) peut varier selon le vendeur, et vous pouvez l'ajuster via les réglages de votre lecteur musical ou les applications du fabricant — voir [applications utiles](/fr/useful-apps) pour les liens de téléchargement.
 
-::: tip
+::: tip Régler l’égaliseur
 L'EQ peut varier selon le vendeur. Utilisez **FlyCC**, **BullSuper** ou **StarFun** pour l'ajuster respectivement pour les appareils **TigerBuilder**, **HR** et **Huilian**.
 :::
 

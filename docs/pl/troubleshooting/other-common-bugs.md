@@ -4,7 +4,7 @@ description: 'Przewodnik rozwiązywania typowych problemów z replikami AirPods:
 ---
 # **Typowe problemy**
 
-::: tip
+::: tip Nowsze modele naprawiają te błędy
 Większość nowszych modeli sprzedawanych przez [zaufanych sprzedawców](/pl/links/info) rozwiązała te problemy już dawno. Jeśli masz problemy, upewnij się, że masz najnowszą wersję od zweryfikowanego sprzedawcy.
 :::
 

@@ -22,7 +22,7 @@ The AirReps community recommends multiple sellers to avoid a monopoly and encour
 
 Ordering is simple: choose the product you want and check out. Not sure which model? Take our [quick quiz](/quiz) or compare versions in the [version info](/version-info/general) section.
 
-::: tip
+::: tip Wise & bank transfer review time
 Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours before your order is processed.
 :::
 

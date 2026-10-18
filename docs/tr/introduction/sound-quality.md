@@ -18,7 +18,7 @@ AirPods Pro kulak kanalını daha iyi kapattığı için, dış sesi içeri alma
 
 Ses kalitesi [sürüm, çip](/tr/version-info/general) ve üretim partisine bağlı olarak değişebilir. Birçok model basları abartmadan vurgular. Orta tonlar belirgindir, ancak tizler geliştirilebilir. EQ'nun satıcıya göre değişebileceğini unutmayın; müzik oynatıcınızın ayarları veya üretici uygulamaları aracılığıyla ayarlayabilirsiniz — indirme bağlantıları için [faydalı uygulamalar](/tr/useful-apps) sayfasına bakın.
 
-::: tip
+::: tip EQ ayarı
 EQ satıcıya göre değişebilir. TigerBuilder, HR ve Huilian cihazları için sırasıyla **FlyCC**, **BullSuper** veya **StarFun** kullanarak ayarlayın.
 :::
 

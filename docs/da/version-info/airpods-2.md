@@ -4,7 +4,7 @@ description: 'Sammenlign AirPods 2-replikaversioner efter chip, funktioner og ma
 ---
 # AirPods 2
 
-::: tip
+::: tip Fokus er på nyere modeller
 Denne produktserie bliver ikke længere aktivt opdateret af producenterne, da udviklingen er skiftet til nyere modeller. AirPods 2-kopier er stadig fremragende produkter og er fortsat populære valg. Hvis du leder efter de nyeste funktioner og forbedringer, kan du overveje at se nærmere på [AirPods 3](/da/version-info/airpods-3) eller [AirPods 4](/da/version-info/airpods-4).
 :::
 

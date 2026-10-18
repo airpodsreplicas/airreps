@@ -6,7 +6,7 @@ description: "AirReps projesine nasıl katkıda bulunabilirsin. Repoyu forkla, o
 
 Projemize katkıda bulunmak istemen bizi çok mutlu ediyor. Katkı sürecini kolaylaştırmak için aşağıda ayrıntılı, adım adım bir rehber hazırladık.
 
-::: tip
+::: tip GitHub Desktop kullan
 Katkılarını daha kolay yönetmek için GUI tabanlı bir GitHub istemcisi olan [GitHub Desktop](https://desktop.github.com/) kullanmanı öneririz.
 :::
 
@@ -85,7 +85,7 @@ bun run docs:build
 3. Her dosyada yapılan değişiklikleri görüntüleyebilirsin. Her seferinde bir dosya seç ve `Summary (required)` alanını doldur. Gerekirse `Description` alanında ek detaylar ver. Değişikliklerini kaydetmek için `Commit to the branch you created` butonuna tıkla.
 4. Şimdi değişikliklerini GitHub'a yüklemek için `Push changes to x` *(x oluşturduğun dalın adıdır)* butonuna tıkla.
 
-::: tip
+::: tip Push'a hazır mısın?
 Tüm dosyaları commit ettiysen, harika! Bir sonraki adımın değişikliklerini GitHub'a push etmek ve bir Pull Request oluşturmak olacak.
 :::
 

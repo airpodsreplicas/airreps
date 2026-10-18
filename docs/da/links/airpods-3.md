@@ -41,6 +41,6 @@ AirPods 3-kopier giver dig en stilkformet pasform uden ANC. Sammenlign de tilgæ
 
 
 
-::: tip
+::: tip Weidian-ordrer kræver en agent
 At vælge et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny til agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::

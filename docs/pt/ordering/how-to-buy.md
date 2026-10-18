@@ -21,7 +21,7 @@ A comunidade AirReps recomenda múltiplos vendedores para evitar monopólio e in
 
 Fazer o pedido é simples: escolha o produto que deseja e finalize a compra. Não tem certeza de qual modelo? Faça nosso [quiz rápido](/pt/quiz) ou compare versões na seção de [informações sobre versões](/pt/version-info/general).
 
-::: tip
+::: tip Tempo de análise de Wise e transferência
 Pagamentos via Wise ou Transferência bancária exigem revisão manual pelo vendedor, o que pode levar até 24 horas antes do processamento do seu pedido.
 :::
 

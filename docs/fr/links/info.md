@@ -17,7 +17,7 @@ faq:
 ---
 # Où acheter des répliques d’AirPods
 
-::: tip
+::: tip Comparez d’abord les versions
 Cette liste est tenue à jour. Une version plus récente signifie généralement un meilleur produit — mais pas toujours, alors comparez les [informations sur les versions](/fr/version-info/general) avant d’acheter.
 :::
 
@@ -80,7 +80,7 @@ Les modes de paiement OnlyPay de HiCity dépendent du pays de facturation : Trus
 Si vous avez des difficultés pour payer ou finaliser votre commande sur les sites des vendeurs, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Il prend en charge les modes de paiement classiques comme PayPal et les cartes de crédit/débit, qui fonctionnent pour environ 90 % des clients, et c’est globalement un bon agent. Consultez notre [guide KakoBuy](/fr/ordering/kakobuy).
 :::
 
-::: tip
+::: tip Délai de validation Wise et virement
 Les paiements via Wise ou par virement bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu’à 24 heures.
 
 Pour les commandes Weidian, vous devrez utiliser un agent. Nous recommandons [KakoBuy](https://airreps.link/kakobuy), qui accepte les cartes de crédit ainsi que plusieurs modes de paiement — consultez notre [guide KakoBuy](/fr/ordering/kakobuy) pour découvrir la procédure détaillée.

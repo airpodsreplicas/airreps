@@ -82,6 +82,6 @@ Las réplicas de AirPods 4 ofrecen un diseño de oreja abierta, con ANC en las v
 
 
 
-::: tip
+::: tip Los pedidos de Weidian requieren agente
 Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar el envío con otros artículos y estás familiarizado con las plataformas de agentes. Para un agente fiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Nuevo en el uso de agentes? Consulta nuestra [guía de pedidos de KakoBuy](/es/ordering/kakobuy).
 :::

@@ -38,6 +38,6 @@ AirPods Pro 2-kopier (V5.3TB og nyere) har en kraftsensoropsætning, der ligger 
 
 Mikrofonkvaliteten på kopierne er brugbar og minder meget om den på de originale AirPods. De er gode nok til opkald, men ligesom Apples AirPods er de ikke noget imponerende på grund af deres lille formfaktor. Se afsnittet om [lydkvalitet](/da/introduction/sound-quality) for mere om lydydelsen.
 
-::: tip
+::: tip Mikrofonkvalitet
 De nyeste AirPods Pro 2-kopier (V5.4 og V5.3 Huilian, HR & TB) har en mikrofonkvalitet, der kan sammenlignes med de originale AirPods.
 :::

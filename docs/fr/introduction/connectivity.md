@@ -26,7 +26,7 @@ Certaines répliques d’AirPods peuvent avoir une meilleure latence que les Air
 
 Actuellement, la plupart des répliques prennent en charge la connexion à plusieurs appareils à la fois. Mais seuls les modèles Huilian peuvent se connecter à plusieurs appareils Apple à l’aide d’iCloud Connect.
 
-::: tip
+::: tip iCloud Connect ou Multipoint
 La connectivité multi-appareils via **iCloud Connect** (synchronisation fluide des appareils avec l’identifiant Apple) est exclusive aux modèles basés sur Huilian : AirPods Pro 2 V5.3 Huilian et V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7 et AirPods 4 V2 Huilian. Les autres chipsets avancés (comme Airoha 1562AE/1571AM) prennent en charge le **Bluetooth Multipoint** standard sur 2 à 3 appareils, ce qui permet de passer d’un appareil à l’autre sans intégration de l’identifiant Apple.
 :::
 

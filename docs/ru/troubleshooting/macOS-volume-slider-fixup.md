@@ -16,7 +16,7 @@ description: 'Исправьте проблему с ползунком гром
 - У вас есть доступ `sudo` (ваша учётная запись macOS должна иметь права администратора)
 - Установлен пакетный менеджер `brew` (если нет, следуйте этому [разделу](#brew-installation))
 
-:::tip
+::: tip brew или ручная установка
 PS: использование `brew` значительно проще, чем ручная установка, но если вы хотите обойтись без `brew`, вы можете прочитать это и следовать шагам [здесь](https://github.com/briankendall/proxy-audio-device#manual-installation).
 :::
 
@@ -40,7 +40,7 @@ PS: использование `brew` значительно проще, чем 
 
 <video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="install proxy-audio-device"></video>
 
-:::tip
+::: tip Остановите звук на время установки
 Во время установки нормально, если звук системы немного прервётся. Выполняйте это, когда никакой аудио не воспроизводится и никакие программы для редактирования звука не запущены.
 :::
 

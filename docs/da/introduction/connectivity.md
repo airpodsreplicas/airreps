@@ -26,7 +26,7 @@ Nogle AirPods-replikaer kan have lavere forsinkelse end originale AirPods, hvilk
 
 I øjeblikket understøtter de fleste replikaer forbindelse til flere enheder på samme tid. Men kun Huilian-modeller kan oprette forbindelse til flere Apple-enheder ved hjælp af iCloud Connect.
 
-::: tip
+::: tip iCloud Connect vs. multipoint
 Forbindelse til flere enheder via **iCloud Connect** (problemfri synkronisering af enheder med Apple-id) er eksklusiv for Huilian-baserede modeller: AirPods Pro 2 V5.3 Huilian og V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7 og AirPods 4 V2 Huilian. Andre avancerede chipsets (såsom Airoha 1562AE/1571AM) understøtter standarden **Bluetooth Multipoint** på tværs af 2–3 enheder, hvilket muliggør skift mellem flere enheder uden Apple-id-integration.
 :::
 

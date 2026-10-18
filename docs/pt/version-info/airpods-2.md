@@ -4,7 +4,7 @@ description: 'Compare as versões replica dos AirPods 2 por chip, recursos e rec
 ---
 # AirPods 2
 
-::: tip
+::: tip Desenvolvimento focado em modelos mais novos
 Esta linha de produtos não é mais atualizada ativamente pelos fabricantes, pois o desenvolvimento mudou para modelos mais recentes. As réplicas dos AirPods 2 ainda são excelentes produtos e continuam sendo opções populares. Se você procura os recursos e melhorias mais recentes, confira os [AirPods 3](/pt/version-info/airpods-3) ou os [AirPods 4](/pt/version-info/airpods-4).
 :::
 

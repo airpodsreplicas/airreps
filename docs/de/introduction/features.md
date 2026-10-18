@@ -37,6 +37,6 @@ AirPods-Pro-2-Klone (V5.3TB und neuer) verfügen über eine Kraftsensor-Konfigur
 
 Die Mikrofonqualität der Klone ist brauchbar und mit der der Original-AirPods sehr gut vergleichbar. Sie sind gut genug für Anrufe, aber wie die Apple AirPods aufgrund ihrer kompakten Bauform nicht besonders beeindruckend. Weitere Informationen zur Audioleistung findest du im Abschnitt [Klangqualität](/de/introduction/sound-quality).
 
-::: tip
+::: tip Mikrofonqualität
 Die neuesten AirPods-Pro-2-Klone (V5.4 und V5.3 Huilian, HR & TB) bieten eine Mikrofonqualität, die mit der der Original-AirPods vergleichbar ist.
 :::

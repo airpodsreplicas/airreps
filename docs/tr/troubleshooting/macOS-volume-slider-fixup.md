@@ -16,7 +16,7 @@ Eğitime başlamadan önce lütfen şunların sağlandığından emin olun:
 - `sudo` erişimine sahipsiniz (macOS hesabınızın yönetici erişimi olmalı)
 - `brew` paket yöneticisi kurulu (yoksa bu [bölümü](#brew-installation) izleyin)
 
-:::tip
+::: tip brew veya manuel kurulum
 PS: `brew` kullanmak manuel kurulumdan çok daha kolaydır, ancak `brew` kullanmak istemiyorsanız, bu rehberi okumayı bırakıp [buradaki](https://github.com/briankendall/proxy-audio-device#manual-installation) adımları takip edebilirsiniz.
 :::
 
@@ -40,7 +40,7 @@ Her şey hazır olduğunda Terminal'i açarak şu komutu çalıştırın:
 
 <video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="install proxy-audio-device"></video>
 
-:::tip
+::: tip Kurulumda sesi durdur
 Kurulum sırasında sistem sesi biraz takılabilir. Bu yüzden herhangi bir ses çalınmıyorken veya ses düzenleme yazılımı çalışmıyorken yapın.
 :::
 

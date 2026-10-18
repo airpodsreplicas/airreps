@@ -82,6 +82,6 @@ Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC 
 
 
 
-::: tip
+::: tip Les commandes Weidian nécessitent un agent
 Le choix d'un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez regrouper l'expédition avec d'autres articles et si vous êtes familiarisé avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Vous débutez avec les agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
 :::

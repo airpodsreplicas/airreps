@@ -90,6 +90,6 @@ Les répliques d'AirPods Max sont l'option circum-aurale, allant des modèles bo
 > [!NOTE]
 > Les répliques d'AirPods Max sont disponibles dans plusieurs couleurs. Pour des options détaillées, veuillez consulter les sites web des vendeurs respectifs.
 
-::: tip
+::: tip Les commandes Weidian nécessitent un agent
 Choisir un lien Weidian nécessite l'utilisation d'un agent pour l'expédition. Nous recommandons cette option uniquement si vous souhaitez regrouper l'expédition avec d'autres articles et si vous êtes familier avec les plateformes d'agents. Pour un agent fiable, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Nouveau dans l'utilisation d'agents ? Consultez notre [guide de commande KakoBuy](/fr/ordering/kakobuy).
 :::

@@ -40,6 +40,6 @@ AirPods 2-Replikate sind der günstigste Einstieg in das Ökosystem. Wähle unte
 
 
 
-::: tip
+::: tip Weidian-Bestellungen brauchen einen Agenten
 Die Auswahl eines Weidian-Links erfordert die Nutzung eines Versandagenten. Wir empfehlen diese Option nur, wenn du den Versand mit anderen Artikeln konsolidieren möchtest und mit Agentenplattformen vertraut bist. Für einen zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy). Neu bei Agenten? Sieh dir unseren [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy) an.
 :::

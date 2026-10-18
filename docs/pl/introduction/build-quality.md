@@ -23,7 +23,7 @@ Ważne jest, aby wiedzieć, że wszystkie repliki sprzedawane w AirReps mają me
 ## Napis
 
 Tekst "Designed by Apple" na tyle używa czcionki podobnej do oryginału. Tekst wewnątrz etui i słuchawek wygląda podobnie, ale nie odpowiada dokładnie oryginalnym AirPods. Niektóre partie mają prawdziwe numery seryjne, inne nie. Wyrównanie i kolor tekstu mogą się różnić; czasem nie jest idealnie proste lub może być jaśniejszy bądź ciemniejszy szary w porównaniu z oryginałami. Jakość napisu "Designed by Apple" różni się w zależności od sprzedawcy — grawer laserowy Hicity jest mniej dokładny niż u Earhive i Jenny. Aby dowiedzieć się więcej o tym, jak dostrzec te różnice, zobacz nasz [przewodnik QC & LC](/pl/ordering/qc-lc).
-:::tip
+::: tip Grawer na zamówienie
 Możesz poprosić o niestandardowy grawer laserowy, wysyłając wybranemu sprzedawcy wiadomość na WhatsApp z tekstem, który chcesz wygrawerować, wraz z numerem zamówienia. Dla bardziej specjalistycznych próśb, takich jak logotypy lub szczegółowe wzory, możesz przesłać wybrane grafiki w formacie .svg lub .png do Jenny lub Earhive. Zwykły tekst i emotikony nie wymagają tych formatów plików.
 :::
 

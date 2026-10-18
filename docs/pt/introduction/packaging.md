@@ -31,7 +31,7 @@ Quando você seleciona a caixa com logotipo da Apple na finalização da compra,
 
 <img src="/doublebox.webp" alt="Caixa dupla/chamariz" width="300" height="400"/>
 
-::: tip
+::: tip Caixa Apple no checkout
 A caixa da Apple (que sempre vem como uma caixa dupla) geralmente vem pré-selecionada na finalização da compra. Verifique novamente se ela está marcada antes de concluir o pedido.
 :::
 
@@ -39,7 +39,7 @@ A caixa da Apple (que sempre vem como uma caixa dupla) geralmente vem pré-selec
 
 A qualidade da caixa pode variar de bem-feita, com texto gravado em relevo corretamente e etiquetas alinhadas, a baixa ou descuidada. Se a qualidade da caixa for importante para você, peça fotos ao vendedor antes de fazer a compra. E, se você estiver examinando uma caixa para avaliar se os AirPods dentro dela são genuínos, nosso artigo sobre [como saber se os AirPods são falsos](/pt/articles/how-to-spot-fake-airpods) aborda as verificações que realmente importam.
 
-::: tip
+::: tip Peça fotos da caixa
 Sempre peça fotos se a qualidade da caixa for importante para você.
 :::
 

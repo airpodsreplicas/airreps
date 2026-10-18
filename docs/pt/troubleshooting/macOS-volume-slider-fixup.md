@@ -16,7 +16,7 @@ Before the tutorial, please make sure that you:
 - Have `sudo` access (your macOS account must have administrative access)
 - Have the `brew` package installer (if not, follow this [section](#brew-installation))
 
-:::tip
+::: tip brew ou instalação manual
 PS: using `brew` is much easier than manual installation, but if you want to skip using `brew`, you can read this and follow the steps [here](https://github.com/briankendall/proxy-audio-device#manual-installation).
 :::
 
@@ -38,7 +38,7 @@ Once everything is ready, you can start by opening Terminal, then run the follow
 
 <video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="instalar proxy-audio-device"></video>
 
-:::tip
+::: tip Pause o áudio durante a instalação
 While installing, it's normal for the system audio to glitch a little. So do this while no audio is playing or being edited (no audio-manipulation software running).
 :::
 

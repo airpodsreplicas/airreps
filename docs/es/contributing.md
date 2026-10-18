@@ -6,7 +6,7 @@ description: "Cómo contribuir al proyecto AirReps. Haz fork del repositorio, co
 
 Estamos encantados con tu interés en contribuir a nuestro proyecto. Para agilizar tu proceso de contribución, hemos proporcionado una guía detallada paso a paso a continuación.
 
-::: tip
+::: tip Usa GitHub Desktop
 Para facilitar la gestión de tus contribuciones, recomendamos usar [GitHub Desktop](https://desktop.github.com/), un cliente de GitHub basado en GUI.
 :::
 
@@ -85,7 +85,7 @@ Si la salida muestra `Command failed` o cualquier otro mensaje de error, hay un 
 3. Puedes ver los cambios realizados en cada archivo. Selecciona un archivo a la vez y completa el campo `Summary (required)`. Si es necesario, proporciona detalles adicionales en el campo `Description`. Haz clic en `Commit to the branch you created` para confirmar tus cambios.
 4. Ahora, haz clic en `Push changes to x` *(x siendo el nombre de la rama que creaste)* para subir tus cambios a GitHub.
 
-::: tip
+::: tip ¿Listo para hacer push?
 Si has confirmado todos los archivos, ¡bien hecho! Tu siguiente paso será hacer push de tus cambios a GitHub y crear una Solicitud de Pull.
 :::
 

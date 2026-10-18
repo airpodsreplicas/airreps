@@ -90,6 +90,6 @@ AirPods Max-Replikate sind die Over-Ear-Option und reichen von preisgünstigen K
 > [!NOTE]
 > Die AirPods Max-Replikate sind in einer Reihe von Farben erhältlich. Für detaillierte Optionen verweisen Sie bitte auf die Websites der jeweiligen Verkäufer.
 
-::: tip
+::: tip Weidian-Bestellungen brauchen einen Agenten
 Die Wahl eines Weidian-Links erfordert die Nutzung eines Agenten für den Versand. Wir empfehlen diese Option nur, wenn Sie den Versand mit anderen Artikeln konsolidieren möchten und mit Agentenplattformen vertraut sind. Für einen zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy). Neu bei Agenten? Lesen Sie unseren [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy).
 :::

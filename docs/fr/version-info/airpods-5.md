@@ -18,7 +18,7 @@ Aucune version réplique des AirPods 5 n’a encore été vérifiée pour ce gui
 
 [Mises à jour des vendeurs des AirPods 5](/fr/links/airpods-5)
 
-::: tip
+::: tip En attendant
 En attendant, consultez notre [guide des AirPods 4](/fr/version-info/airpods-4).
 
 Rejoignez notre [communauté Discord](https://airreps.link/discord) pour être informé des mises à jour.

@@ -32,7 +32,7 @@ When you select the Apple Logo Box at checkout, the double box is automatically 
 
 <img src="/doublebox.webp" alt="Double/Decoy Box" width="300" height="400"/>
 
-::: tip
+::: tip Apple box at checkout
 Apple box (which always comes as a double box) is usually pre-selected at checkout. Double-check it's ticked before completing your order.
 :::
 
@@ -40,7 +40,7 @@ Apple box (which always comes as a double box) is usually pre-selected at checko
 
 The box's quality can range from well-made with correctly embossed text and aligned labels, to lower quality or sloppy. If the box quality matters to you, ask the seller for photos before making a purchase. And if you're inspecting a box to judge whether the AirPods inside are genuine, our article on [how to tell if AirPods are fake](/articles/how-to-spot-fake-airpods) covers the checks that actually matter.
 
-::: tip
+::: tip Ask for box photos
 Always ask for photos if the quality of the box is important to you.
 :::
 

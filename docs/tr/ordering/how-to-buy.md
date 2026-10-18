@@ -21,7 +21,7 @@ AirReps topluluğu, tekelleşmeyi önlemek ve rekabeti teşvik etmek için birde
 
 Sipariş vermek basittir: istediğiniz ürünü seçin ve ödeme yapın. Hangi model olduğundan emin değil misiniz? Hızlı [kısa sınavımızı](/tr/quiz) yapın veya sürümleri [sürüm bilgisi](/tr/version-info/general) bölümünde karşılaştırın.
 
-::: tip
+::: tip Wise ve havale inceleme süresi
 Wise veya banka havalesi ile ödemeler satıcı tarafından manuel inceleme gerektirir; bu, siparişinizin işlenmesinden önce 24 saate kadar sürebilir.
 :::
 

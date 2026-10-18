@@ -14,11 +14,11 @@ Hay muchos vendedores de réplicas de AirPods disponibles, pero la mejor experie
 
 Aunque es posible encontrar vendedores en sitios de comercio electrónico chinos como AliExpress o DHgate, las reseñas en estas plataformas pueden no ser siempre imparciales o legítimas. Comprar a vendedores no verificados conlleva más riesgo, ya que la calidad del producto y el servicio al cliente pueden variar significativamente. Si compras a un vendedor no verificado y encuentras problemas, por favor comparte tu experiencia con nuestro equipo de personal.
 
-::: tip
+::: tip Lista de vendedores verificados
 Encuentra una [lista de vendedores verificados por la comunidad y de buena reputación aquí](/es/links/info).
 :::
 
-::: tip
+::: tip Compra a vendedores de confianza
 Para la mejor experiencia, recomendamos encarecidamente comprar a nuestros [vendedores de confianza verificados por la comunidad](/es/links/info). Tienen un historial comprobado y ofrecen productos fiables con buen servicio al cliente.
 :::
 
@@ -26,7 +26,7 @@ Para la mejor experiencia, recomendamos encarecidamente comprar a nuestros [vend
 
 Algunos revendedores ofrecen réplicas de AirPods a precios más altos, a veces con servicios adicionales como garantías, protección al comprador o envío acelerado. Sin embargo, estos servicios tienen un coste extra, y un precio más alto no garantiza necesariamente un mejor producto. Los vendedores de confianza que recomendamos normalmente ofrecen los mismos productos o de mejor calidad a precios más competitivos. Para una guía paso a paso sobre cómo realizar un pedido, consulta [cómo comprar](/es/ordering/how-to-buy).
 
-::: tip
+::: tip Vendedores de confianza frente a revendedores
 Nuestros vendedores de confianza recomendados ofrecen excelente relación calidad-precio. Aunque los revendedores pueden ofrecer servicios adicionales, a menudo puedes obtener los mismos productos directamente de los vendedores de confianza a mejores precios.
 :::
 

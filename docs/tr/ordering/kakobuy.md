@@ -18,7 +18,7 @@ KakoBuy, sizin adınıza Weidian, Taobao ve 1688'deki satıcılardan ürün sat�
 - **Kargo birleştirme** — birkaç öğeyi tek bir pakette toplayarak kargo masraflarından tasarruf edin
 - **Alıcı koruması** — bir sorun çıkarsa KakoBuy iade/takas işlemlerini satıcı ile halleder
 
-::: tip
+::: tip KakoBuy ne zaman mantıklı?
 Tek bir çift AirPods için KakoBuy üzerinden gönderim genellikle **7–10 USD** tutar. Sadece AirPods alıyorsanız, [bir satıcının web sitesinden doğrudan sipariş vermek](/tr/ordering/how-to-buy) daha basit olabilir. Ancak KakoBuy, siparişleri birleştirdiğinizde veya satıcının ödeme yöntemleri (kripto, AliPay, banka havalesi) sizin için işe yaramadığında öne çıkar — KakoBuy normal kredi/banka kartlarını, PayPal, Apple Pay ve Google Pay'i kabul eder.
 :::
 
@@ -70,7 +70,7 @@ KakoBuy siparişinizi 3–5 saat içinde gözden geçirir, ardından satıcıya 
 
 ![QC fotoğraflarıyla KakoBuy siparişler sayfası](/images/kakobuy/orders-qc.webp)
 
-::: tip
+::: tip Göndermeden önce inceleyin
 Bir temsilci kullanmanın büyük bir avantajı budur — AirPods kopyanızı uluslararası gönderime onay vermeden önce inceleyebilirsiniz. Nelere bakmanız gerektiği konusunda ipuçları için [QC & LC rehberi](/tr/ordering/qc-lc)'ne göz atın.
 :::
 

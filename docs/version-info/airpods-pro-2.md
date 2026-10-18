@@ -5,7 +5,7 @@ description: "Compare AirPods Pro 2 replica versions by chip, features, and miss
 
 # AirPods Pro 2
 
-::: tip
+::: tip Still the most mature option
 Manufacturers are slowly transitioning development focus to newer models. AirPods Pro 2 replicas remain excellent products and are still the most mature and feature-complete option in the Pro lineup. If you want the newest features, [AirPods Pro 3 V7](/version-info/airpods-pro-3) adds a heart rate sensor and AI Hybrid ANC — though it's an early release with quirks worth reading up on before you buy.
 :::
 

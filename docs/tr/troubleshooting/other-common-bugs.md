@@ -4,7 +4,7 @@ description: 'Yaygın AirPods replika sorunları için sorun giderme kılavuzu: 
 ---
 # **Yaygın Sorunlar**
 
-::: tip
+::: tip Yeni modeller bu hataları giderir
 Çoğu yeni model, [güvenilir satıcılar](/tr/links/info) üzerinden satıldığında bu sorunları çoktan çözmüştür. Sorun yaşıyorsanız, doğrulanmış bir satıcıdan en son sürümü aldığınızdan emin olun.
 :::
 

@@ -21,7 +21,7 @@ La communauté AirReps recommande plusieurs vendeurs pour éviter un monopole et
 
 Commander est simple : choisissez le produit que vous voulez et passez à la caisse. Vous ne savez pas quel modèle choisir ? Faites notre [quiz rapide](/fr/quiz) ou comparez les versions dans la section [informations sur les versions](/fr/version-info/general).
 
-::: tip
+::: tip Délai de validation Wise et virement
 Les paiements via Wise ou virement bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu'à 24 heures avant que votre commande ne soit traitée.
 :::
 

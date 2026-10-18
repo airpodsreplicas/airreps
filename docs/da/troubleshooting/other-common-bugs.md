@@ -4,7 +4,7 @@ description: 'Fejlfinding til almindelige AirPods efterligningsproblemer: forbin
 ---
 # **Almindelige problemer**
 
-::: tip
+::: tip Nyere modeller retter disse fejl
 De fleste nyere modeller solgt gennem de [betroede sælgere](/da/links/info) har løst disse problemer for længe siden. Hvis du oplever problemer, skal du sørge for at have den nyeste version fra en verificeret sælger.
 :::
 

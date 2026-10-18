@@ -147,6 +147,6 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
 
 
 
-::: tip
+::: tip Weidian-ordrer kræver en agent
 Hvis du vælger et Weidian-link, kræver det brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny med agenter? Tjek vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::

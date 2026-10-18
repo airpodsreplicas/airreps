@@ -15,7 +15,7 @@ Bu rehberde henüz AirPods 5 replikaları için doğrulanmış satın alma bağl
 
 [AirPods 5 sürüm bilgileri](/tr/version-info/airpods-5)
 
-::: tip
+::: tip Siz beklerken
 Bu arada [AirPods 4 rehberimize](/tr/links/airpods-4) göz atabilirsiniz.
 
 Güncellemeler için [Discord topluluğumuza](https://airreps.link/discord) katılın.

@@ -26,6 +26,6 @@ El ANC Híbrido combina el ANC de Retroalimentación y el de Alimentación Direc
 
 Sin embargo, el uso de dos micrófonos aumenta los costos de fabricación y la complejidad. La tecnología requiere más experiencia para implementarse correctamente. Los AirPods Pro originales usan ANC híbrido, contribuyendo a su mayor precio. Muchas réplicas actuales de AirPods ahora también implementan ANC híbrido usando chipsets avanzados. Por ejemplo, el [v5.3 TB](/es/version-info/airpods-pro-2) (con el chipset Airoha 1571AM) replica el efecto ANC híbrido para una experiencia de cancelación de ruido completa y auténtica. Para conocer cómo esto afecta el uso real, consulta nuestras secciones de [calidad de sonido](/es/introduction/sound-quality) y [características](/es/introduction/features).
 
-::: tip
+::: tip La ventaja del ANC híbrido
 El ANC Híbrido, aunque más costoso, combina los beneficios tanto del ANC de Retroalimentación como del de Alimentación Directa, proporcionando una experiencia de cancelación de ruido más completa.
 :::

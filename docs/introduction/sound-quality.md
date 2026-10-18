@@ -19,7 +19,7 @@ Since AirPods Pro seal into the ear, they may sound significantly better than Ai
 
 Sound quality can vary depending on the [version, chip](/version-info/general), and batch. Many models emphasize bass without being overpowering. Mids are pronounced, but highs could be improved. Note that the EQ can vary by seller, and you can adjust it using your music player's settings or manufacturer apps — see [useful apps](/useful-apps) for download links.
 
-::: tip
+::: tip Adjusting the EQ
 The EQ can vary by seller. Use **FlyCC**, **BullSuper**, or **StarFun** to adjust it for **TigerBuilder**, **HR**, and **Huilian** devices respectively.
 :::
 

@@ -31,7 +31,7 @@ Apple logolu kutu, geleneksel “AirPods” yazısı ve Apple logolarını içer
 
 <img src="/doublebox.webp" alt="Çift/aldatıcı kutu" width="300" height="400"/>
 
-::: tip
+::: tip Ödeme sırasında Apple kutusu
 Apple kutusu (her zaman çift kutu olarak gelir) genellikle ödeme sırasında önceden seçilidir. Siparişinizi tamamlamadan önce seçeneğin işaretli olduğunu tekrar kontrol edin.
 :::
 
@@ -39,7 +39,7 @@ Apple kutusu (her zaman çift kutu olarak gelir) genellikle ödeme sırasında �
 
 Kutunun kalitesi, kabartma yazıları doğru işlenmiş ve etiketleri hizalı, iyi yapılmış kutulardan düşük kaliteli veya özensiz kutulara kadar değişebilir. Kutu kalitesi sizin için önemliyse satın almadan önce satıcıdan fotoğraf isteyin. Ayrıca bir kutuyu inceleyerek içindeki AirPods'ların orijinal olup olmadığını anlamaya çalışıyorsanız, [AirPods'ların sahte olup olmadığı nasıl anlaşılır](/tr/articles/how-to-spot-fake-airpods) başlıklı makalemiz gerçekten önemli olan kontrolleri ele alır.
 
-::: tip
+::: tip Kutu fotoğrafı isteyin
 Kutu kalitesi sizin için önemliyse her zaman fotoğraf isteyin.
 :::
 

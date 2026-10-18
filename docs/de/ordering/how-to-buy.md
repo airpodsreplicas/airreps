@@ -21,7 +21,7 @@ Die AirReps-Community empfiehlt mehrere Verkäufer, um ein Monopol zu vermeiden 
 
 Das Bestellen ist einfach: Wählen Sie das gewünschte Produkt und schließen Sie den Kauf ab. Nicht sicher, welches Modell? Machen Sie unser [kurzes Quiz](/de/quiz) oder vergleichen Sie die Versionen im Abschnitt [Versionsinformationen](/de/version-info/general).
 
-::: tip
+::: tip Prüfzeit bei Wise & Überweisung
 Zahlungen über Wise oder Banküberweisung erfordern eine manuelle Prüfung durch den Verkäufer, die bis zu 24 Stunden dauern kann, bevor Ihre Bestellung bearbeitet wird.
 :::
 

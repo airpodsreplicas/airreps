@@ -26,6 +26,6 @@ L'ANC Hybride combine l'ANC Feedback et Feedforward en utilisant à la fois des 
 
 Cependant, l'utilisation de deux microphones augmente les coûts de fabrication et la complexité. La technologie nécessite plus d'expertise pour être correctement mise en œuvre. Les AirPods Pro originaux utilisent l'ANC hybride, contribuant à leur prix plus élevé. De nombreuses répliques d'AirPods actuelles implémentent également l'ANC hybride en utilisant des chipsets avancés. Par exemple, le [v5.3 TB](/fr/version-info/airpods-pro-2) (avec le chipset Airoha 1571AM) reproduit l'effet ANC hybride pour une expérience de réduction de bruit complète et authentique. Pour découvrir comment cela affecte l'utilisation réelle, consultez nos sections [qualité sonore](/fr/introduction/sound-quality) et [fonctionnalités](/fr/introduction/features).
 
-::: tip
+::: tip L’avantage de l’ANC hybride
 L'ANC Hybride, bien que plus cher, combine les avantages de l'ANC Feedback et Feedforward, offrant une expérience de réduction de bruit plus complète.
 :::

@@ -26,7 +26,7 @@ Bazı AirPods replikaları, orijinal AirPods'lardan daha iyi gecikme değerlerin
 
 Günümüzde çoğu replika aynı anda birden fazla cihaza bağlanmayı destekler. Ancak yalnızca Huilian modelleri iCloud Connect kullanarak birden fazla Apple cihazına bağlanabilir.
 
-::: tip
+::: tip iCloud Connect ve Multipoint
 **iCloud Connect** (Apple Kimliği cihaz senkronizasyonunu sorunsuz şekilde sağlayan) üzerinden birden fazla cihaz bağlantısı yalnızca Huilian tabanlı modellerde bulunur: AirPods Pro 2 V5.3 Huilian ve V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7 ve AirPods 4 V2 Huilian. Diğer gelişmiş yonga setleri (Airoha 1562AE/1571AM gibi), 2–3 cihaz arasında standart **Bluetooth Multipoint** desteği sunarak Apple Kimliği entegrasyonu olmadan cihazlar arasında geçiş yapılmasına olanak tanır.
 :::
 

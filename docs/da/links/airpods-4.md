@@ -82,6 +82,6 @@ AirPods 4-kopier har et åbent-øre-design, med ANC på de højere versioner. Se
 
 
 
-::: tip
+::: tip Weidian-ordrer kræver en agent
 Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny med agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::

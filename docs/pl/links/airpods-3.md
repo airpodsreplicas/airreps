@@ -41,6 +41,6 @@ Repliki AirPods 3 oferują dopasowanie typu stem bez ANC. Porównaj dostępne we
 
 
 
-::: tip
+::: tip Zamówienia Weidian wymagają agenta
 Wybór linku Weidian wymaga skorzystania z agenta do wysyłki. Polecamy tę opcję tylko wtedy, gdy chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [poradnik zamawiania KakoBuy](/pl/ordering/kakobuy).
 :::

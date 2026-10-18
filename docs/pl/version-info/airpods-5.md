@@ -18,7 +18,7 @@ description: 'Nie zweryfikowano jeszcze żadnych wersji replik AirPods 5 na potr
 
 [Aktualizacje od sprzedawców AirPods 5](/pl/links/airpods-5)
 
-::: tip
+::: tip W międzyczasie
 W międzyczasie zapoznaj się z naszym [przewodnikiem po AirPods 4](/pl/version-info/airpods-4).
 
 Dołącz do naszej [społeczności na Discordzie](https://airreps.link/discord), aby otrzymywać aktualizacje.

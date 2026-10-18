@@ -125,6 +125,6 @@ Repliki AirPods Pro 3 to najnowszy model douszny, oferujący najnowsze funkcje w
 
 
 
-::: tip
+::: tip Zamówienia Weidian wymagają agenta
 Wybranie linku Weidian wymaga skorzystania z pośrednika w celu wysyłki. Polecamy tę opcję tylko wtedy, gdy chcesz połączyć wysyłkę z innymi przedmiotami i znasz platformy pośredników. Jako godnego zaufania pośrednika polecamy [KakoBuy](https://airreps.link/kakobuy). Nie masz doświadczenia z pośrednikami? Zapoznaj się z naszym [przewodnikiem zamawiania w KakoBuy](/pl/ordering/kakobuy).
 :::

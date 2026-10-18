@@ -90,6 +90,6 @@ As réplicas do AirPods Max são a opção circumaural, variando de modelos bara
 > [!NOTE]
 > As réplicas do AirPods Max estão disponíveis em várias cores. Para opções detalhadas, consulte os sites dos respectivos vendedores.
 
-::: tip
+::: tip Pedidos na Weidian exigem agente
 Escolher um link do Weidian requer o uso de um agente para envio. Recomendamos essa opção apenas se você quiser consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedidos do KakoBuy](/pt/ordering/kakobuy).
 :::

@@ -23,7 +23,7 @@ Bilmeniz gereken önemli bir nokta: AirReps'te satılan tüm replikalarda metal 
 ## Yazı
 
 Kasanın arkasındaki "Designed by Apple" yazısı orijinale benzer bir font kullanır. Kasanın içindeki ve kulaklıklardaki yazı benzer görünür ancak orijinal AirPods'la birebir aynı değildir. Bazı partilerde gerçek seri numaraları bulunurken bazılarında bulunmayabilir. Yazı hizalaması ve rengi değişkenlik gösterebilir; bazen tamamen düz olmayabilir veya orijinallere göre daha açık ya da daha koyu gri olabilir. "Designed by Apple" yazısının kalitesi satıcıya göre değişir; Hicity'nin lazer gravürü Earhive ve Jenny'inkinden daha az hassastır. Bu farklılıkları nasıl tespit edeceğinize dair daha fazla bilgi için [QC & LC guide](/tr/ordering/qc-lc) bölümüne bakın.
-:::tip
+::: tip Özel gravür talepleri
 Özel lazer gravürü, tercih ettiğiniz satıcıya sipariş numaranız ile birlikte gravürlenmesini istediğiniz metni WhatsApp üzerinden göndererek talep edilebilir. Logo veya detaylı tasarımlar gibi daha özel istekler için favori artwork'ünüzü .svg veya .png formatında Jenny veya Earhive'e gönderebilirsiniz. Normal metin ve emoji'ler bu dosya formatlarını gerektirmez.
 :::
 

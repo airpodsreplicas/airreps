@@ -90,6 +90,6 @@ AirPods Max replikaları kulak üstü seçeneğidir; ucuz plastik yapımlardan m
 > [!NOTE]
 > AirPods Max replikaları çeşitli renk seçenekleriyle mevcuttur. Ayrıntılı seçenekler için lütfen ilgili satıcıların web sitelerine bakın.
 
-::: tip
+::: tip Weidian siparişleri aracı gerektirir
 Weidian bağlantısını seçmek, nakliye için bir aracı kullanmayı gerektirir. Bu seçeneği yalnızca gönderileri diğer eşyalarla birleştirmek istiyorsanız ve aracı platformlara aşinaysanız öneriyoruz. Güvenilir bir aracı için [KakoBuy](https://airreps.link/kakobuy)'ı öneriyoruz. Aracılara yeni misiniz? [KakoBuy sipariş kılavuzumuza](/tr/ordering/kakobuy) bakın.
 :::

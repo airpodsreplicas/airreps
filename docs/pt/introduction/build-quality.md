@@ -23,7 +23,7 @@ Alguns modelos usam uma dobradiça de plástico com pintura metálica, enquanto 
 ## Texto
 
 O texto "Designed by Apple" na parte de trás usa uma fonte semelhante à original. O texto dentro do estojo e nos fones aparenta ser parecido, mas não coincide exatamente com os AirPods originais. Alguns lotes têm números de série reais, enquanto outros não. O alinhamento e a cor do texto podem variar; às vezes não ficam perfeitamente retos ou podem ser de um cinza mais claro ou mais escuro em comparação com os originais. A qualidade da gravação a laser do "Designed by Apple" difere conforme o vendedor, sendo a gravação a laser da Hicity menos precisa que a da Earhive e da Jenny. Para saber mais sobre como identificar essas diferenças, consulte nosso [Guia de QC & LC](/pt/ordering/qc-lc).
-:::tip
+::: tip Gravação personalizada
 Você pode solicitar gravação a laser personalizada enviando ao seu vendedor preferido uma mensagem no WhatsApp com o texto que deseja gravar junto com seu número do pedido. Para solicitações mais especializadas, como logotipos ou designs detalhados, você pode enviar sua arte favorita em formato .svg ou .png para Jenny ou Earhive. Texto comum e emojis não exigem esses formatos de arquivo.
 :::
 

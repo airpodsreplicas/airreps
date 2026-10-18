@@ -4,7 +4,7 @@ description: 'Guia de solução de problemas para problemas comuns em réplicas 
 ---
 # **Problemas Comuns**
 
-::: tip
+::: tip Modelos mais novos corrigem esses bugs
 A maioria dos modelos mais novos vendidos através dos [vendedores confiáveis](/pt/links/info) já resolveu esses problemas há bastante tempo. Se você está enfrentando problemas, assegure-se de ter a versão mais recente de um vendedor verificado.
 :::
 

@@ -10,7 +10,7 @@ Wenn du die Akkulaufzeit von AirPods-Nachbauten kennst, kannst du deine Erwartun
 
 Die durchschnittliche Akkulaufzeit von In-Ear-AirPods-Nachbauten beträgt bei mittlerer Lautstärke pro Ladung etwa 5–8 Stunden (abhängig davon, ob ANC aktiviert ist). Beispielsweise erreicht der Pro 2 V5.4 Huilian mit ANC etwa 4,5 Stunden und ohne ANC etwa 6 Stunden, während der V5.3 TB mit ANC bis zu 6 Stunden und ohne ANC 8 Stunden schafft. Bei Over-Ear-Modellen unterscheidet der [Vergleich der AirPods Max](/de/version-info/airpods-max) zwischen der aktuell von Verkäufern angegebenen Laufzeit und den gemessenen Ergebnissen. Das Ladecase ermöglicht 2–3 vollständige Aufladungen der Ohrhörer.
 
-::: tip
+::: tip Akkuangaben vergleichen
 Aktuelle In-Ear-Nachbauten bieten pro Ladung in der Regel 5–8 Stunden Wiedergabezeit. Vergleiche die Akkulaufzeitangaben bei gleicher Lautstärke und ANC-Einstellung; Angaben von Verkäufern sind nicht direkt mit Praxistests vergleichbar.
 :::
 

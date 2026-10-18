@@ -4,7 +4,7 @@ description: 'Vergleiche AirPods 2 Replica-Versionen nach Chip, Funktionen und f
 ---
 # AirPods 2
 
-::: tip
+::: tip Fokus liegt auf neueren Modellen
 Diese Produktreihe wird von den Herstellern nicht mehr aktiv aktualisiert, da sich die Entwicklung auf neuere Modelle verlagert hat. Repliken der AirPods 2 sind weiterhin hervorragende Produkte und nach wie vor beliebt. Wenn du nach den neuesten Funktionen und Verbesserungen suchst, sieh dir [AirPods 3](/de/version-info/airpods-3) oder [AirPods 4](/de/version-info/airpods-4) an.
 :::
 

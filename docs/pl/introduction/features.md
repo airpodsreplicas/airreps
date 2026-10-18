@@ -37,6 +37,6 @@ Repliki AirPods Pro 2 (V5.3TB i nowsze) są wyposażone w konfigurację czujnika
 
 Jakość mikrofonu w replikach jest wystarczająca i bardzo porównywalna z jakością mikrofonu w oryginalnych słuchawkach AirPods. Nadają się do rozmów, ale podobnie jak Apple AirPods nie robią niczego szczególnie imponującego ze względu na niewielkie rozmiary. Więcej informacji na temat jakości dźwięku znajdziesz w sekcji [jakość dźwięku](/pl/introduction/sound-quality).
 
-::: tip
+::: tip Jakość mikrofonu
 Najnowsze repliki AirPods Pro 2 (V5.4 i V5.3 Huilian, HR oraz TB) mają jakość mikrofonu porównywalną z oryginalnymi słuchawkami AirPods.
 :::

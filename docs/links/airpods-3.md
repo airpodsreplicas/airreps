@@ -42,6 +42,6 @@ AirPods 3 replicas give you the stem-style fit without ANC. Compare the availabl
 
 
 
-::: tip
+::: tip Weidian orders need an agent
 Choosing a Weidian link requires the use of an agent for shipping. We recommend this option only if you wish to consolidate shipping with other items and are familiar with agent platforms. For a reliable agent, we recommend [KakoBuy](https://airreps.link/kakobuy). New to agents? Check our [KakoBuy ordering guide](/ordering/kakobuy).
 :::

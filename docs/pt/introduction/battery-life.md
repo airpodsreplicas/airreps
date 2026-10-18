@@ -10,7 +10,7 @@ Entender a duração da bateria das réplicas de AirPods pode ajudar você a aju
 
 A duração média da bateria das réplicas intra-auriculares de AirPods é de cerca de 5–8 horas por carga, em volume moderado (dependendo de o ANC estar ativo). Por exemplo, o Pro 2 V5.4 Huilian oferece ~4,5 horas com ANC e ~6 horas sem ANC, enquanto o V5.3 TB chega a até 6 horas com ANC e 8 horas sem ANC. Para os modelos over-ear, a [comparação dos AirPods Max](/pt/version-info/airpods-max) diferencia a duração atualmente indicada pelos vendedores dos resultados medidos. O estojo de carregamento fornece de 2 a 3 recargas completas para os fones.
 
-::: tip
+::: tip Comparando os números de bateria
 Os modelos atuais de réplicas intra-auriculares geralmente oferecem de 5 a 8 horas de reprodução por carga. Compare os dados de bateria usando o mesmo volume e a mesma configuração de ANC; as classificações dos vendedores não são diretamente comparáveis aos testes práticos.
 :::
 

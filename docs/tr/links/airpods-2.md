@@ -40,6 +40,6 @@ AirPods 2 replikaları ekosisteme girmenin en ucuz yoludur. Aşağıdan bir sür
 
 
 
-::: tip
+::: tip Weidian siparişleri aracı gerektirir
 Weidian bağlantısını seçmek, gönderim için bir aracı kullanılmasını gerektirir. Bu seçeneği yalnızca gönderimi diğer ürünlerle birleştirmek istiyorsanız ve aracı platformlara aşina iseniz öneriyoruz. Güvenilir bir aracı için [KakoBuy](https://airreps.link/kakobuy)'ı öneriyoruz. Aracı kullanmaya yeni misiniz? [KakoBuy sipariş rehberimizi](/tr/ordering/kakobuy) inceleyin.
 :::

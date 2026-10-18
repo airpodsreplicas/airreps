@@ -21,7 +21,7 @@ Społeczność AirReps poleca korzystanie z wielu sprzedawców, aby uniknąć mo
 
 Zamawianie jest proste: wybierz produkt, który chcesz i sfinalizuj zakup. Nie wiesz, który model wybrać? Zrób nasz [krótki quiz](/pl/quiz) lub porównaj wersje w sekcji [informacje o wersjach](/pl/version-info/general).
 
-::: tip
+::: tip Czas weryfikacji Wise i przelewu
 Płatności przez Wise lub przelew bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może potrwać do 24 godzin, zanim Twoje zamówienie zostanie przetworzone.
 :::
 

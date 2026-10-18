@@ -15,7 +15,7 @@ description: "В этом руководстве пока нет провере�
 
 [Информация о версиях AirPods 5](/ru/version-info/airpods-5)
 
-::: tip
+::: tip Пока вы ждёте
 Пока вы можете ознакомиться с нашим [руководством по AirPods 4](/ru/links/airpods-4).
 
 Присоединяйтесь к нашему [сообществу в Discord](https://airreps.link/discord), чтобы следить за обновлениями.

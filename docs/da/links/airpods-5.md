@@ -15,7 +15,7 @@ Denne guide har endnu ingen verificerede købslinks til AirPods 5-kopier. Siden 
 
 [AirPods 5 versionsinfo](/da/version-info/airpods-5)
 
-::: tip
+::: tip Mens du venter
 Se i mellemtiden vores [AirPods 4-guide](/da/links/airpods-4).
 
 Bliv medlem af vores [Discord-fællesskab](https://airreps.link/discord) for opdateringer.

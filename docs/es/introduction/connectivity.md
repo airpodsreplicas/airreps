@@ -26,7 +26,7 @@ Algunas réplicas de AirPods pueden tener una latencia menor que los AirPods ori
 
 Actualmente, la mayoría de las réplicas admiten la conexión a varios dispositivos a la vez. Sin embargo, solo los modelos Huilian pueden conectarse a varios dispositivos Apple mediante iCloud Connect.
 
-::: tip
+::: tip iCloud Connect frente a Multipoint
 La conectividad multidispositivo mediante **iCloud Connect** (sincronización fluida de dispositivos con el ID de Apple) es exclusiva de los modelos basados en Huilian: AirPods Pro 2 V5.3 Huilian y V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7 y AirPods 4 V2 Huilian. Otros chipsets avanzados (como Airoha 1562AE/1571AM) admiten **Bluetooth Multipoint** estándar en 2–3 dispositivos, lo que permite cambiar entre varios dispositivos sin integración con el ID de Apple.
 :::
 

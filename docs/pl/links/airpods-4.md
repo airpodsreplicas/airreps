@@ -82,6 +82,6 @@ Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach w
 
 
 
-::: tip
+::: tip Zamówienia Weidian wymagają agenta
 Wybór linku Weidian wymaga skorzystania z agenta do wysyłki. Polecamy tę opcję tylko jeśli chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy pośredników. Dla zaufanego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w temacie agentów? Sprawdź nasz [przewodnik zamawiania KakoBuy](/pl/ordering/kakobuy).
 :::

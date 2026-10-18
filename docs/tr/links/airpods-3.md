@@ -41,6 +41,6 @@ AirPods 3 replikaları size ANC olmadan sap tarzı bir uyum sağlar. Mevcut sür
 
 
 
-::: tip
+::: tip Weidian siparişleri aracı gerektirir
 Weidian bağlantısı seçmek, sevkiyat için bir acente kullanılmasını gerektirir. Bu seçeneği yalnızca sevkiyatı diğer öğelerle birleştirmek istiyorsanız ve acente platformlarına aşina iseniz öneririz. Güvenilir bir acente için [KakoBuy](https://airreps.link/kakobuy)'ı öneririz. Acentelere yeni misiniz? [KakoBuy sipariş kılavuzunu](/tr/ordering/kakobuy) inceleyin.
 :::

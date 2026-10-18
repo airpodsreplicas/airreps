@@ -41,6 +41,6 @@ AirPods 3-Kopien bieten dir die Stielform ohne ANC. Vergleiche die verfügbaren 
 
 
 
-::: tip
+::: tip Weidian-Bestellungen brauchen einen Agenten
 Wenn du einen Weidian-Link wählst, ist die Nutzung eines Versandagenten erforderlich. Wir empfehlen diese Option nur, wenn du den Versand mit anderen Artikeln zusammenlegen möchtest und mit Agentenplattformen vertraut bist. Für einen zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy). Neu bei Agenten? Sieh dir unseren [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy) an.
 :::

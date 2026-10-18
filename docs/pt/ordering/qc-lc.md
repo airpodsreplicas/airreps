@@ -6,7 +6,7 @@ description: 'Domine o Controle de Qualidade e a Verificação de Autenticidade 
 
 Welcome! If you're here, you're likely looking to quality check your replica AirPods or considering purchasing authentic ones. This section will guide you on discerning between retail and replica AirPods, from simple to advanced methods. If a deal seems too good to be true, it probably is. For more on what to expect from replica build quality, see the [qualidade de construção](/pt/introduction/build-quality) guide.
 
-::: tip
+::: tip A melhor garantia de autenticidade
 Esta seção já foi mais detalhada, mas à medida que as réplicas ficaram mais sofisticadas, tornou-se cada vez mais difícil distinguir entre AirPods genuínos e falsos. Nosso melhor conselho para garantir a autenticidade é comprar seus AirPods de um vendedor confiável.
 :::
 

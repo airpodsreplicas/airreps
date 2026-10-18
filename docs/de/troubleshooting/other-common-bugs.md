@@ -4,7 +4,7 @@ description: 'Leitfaden zur Fehlerbehebung bei häufigen Problemen mit AirPods-K
 ---
 # **Häufige Probleme**
 
-::: tip
+::: tip Neuere Modelle beheben diese Fehler
 Die meisten neueren Modelle, die über die [vertrauenswürdigen Verkäufer](/de/links/info) verkauft werden, haben diese Probleme schon lange behoben. Wenn Sie Probleme haben, stellen Sie sicher, dass Sie die neueste Version von einem verifizierten Verkäufer erhalten.
 :::
 

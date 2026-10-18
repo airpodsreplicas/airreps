@@ -4,7 +4,7 @@ description: 'Guía para solucionar problemas comunes de réplica de AirPods: co
 ---
 # **Problemas comunes**
 
-::: tip
+::: tip Los modelos nuevos corrigen estos errores
 La mayoría de los modelos más nuevos vendidos a través de los [vendedores de confianza](/es/links/info) han solucionado estos problemas hace tiempo. Si estás experimentando problemas, asegúrate de tener la versión más reciente de un vendedor verificado.
 :::
 

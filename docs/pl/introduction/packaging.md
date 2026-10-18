@@ -31,7 +31,7 @@ Po wybraniu pudełka z logo Apple przy finalizacji zamówienia podwójne pudełk
 
 <img src="/doublebox.webp" alt="Podwójne/podstępne pudełko" width="300" height="400"/>
 
-::: tip
+::: tip Pudełko Apple przy zamówieniu
 Pudełko Apple (które zawsze jest wysyłane jako podwójne pudełko) jest zwykle wstępnie zaznaczone przy finalizacji zamówienia. Przed złożeniem zamówienia sprawdź, czy ta opcja jest zaznaczona.
 :::
 
@@ -39,7 +39,7 @@ Pudełko Apple (które zawsze jest wysyłane jako podwójne pudełko) jest zwykl
 
 Jakość pudełka może być różna — od starannie wykonanego, z prawidłowo wytłoczonym tekstem i równo umieszczonymi etykietami, po pudełko gorszej jakości lub wykonane niedbale. Jeśli jakość pudełka ma dla Ciebie znaczenie, przed zakupem poproś sprzedawcę o zdjęcia. Jeśli natomiast sprawdzasz pudełko, aby ocenić, czy znajdujące się w środku AirPods są oryginalne, nasz artykuł o tym, [jak rozpoznać podróbkę AirPods](/pl/articles/how-to-spot-fake-airpods), opisuje kontrole, które naprawdę mają znaczenie.
 
-::: tip
+::: tip Poproś o zdjęcia pudełka
 Zawsze poproś o zdjęcia, jeśli jakość pudełka jest dla Ciebie ważna.
 :::
 

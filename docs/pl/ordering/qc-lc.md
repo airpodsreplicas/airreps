@@ -6,7 +6,7 @@ description: 'Opanuj AirPods QC & LC. Wykrywaj wady konstrukcyjne, weryfikuj fun
 
 Witamy! Jeśli tu jesteś, prawdopodobnie chcesz sprawdzić jakość swoich podróbek AirPods albo rozważasz zakup oryginalnych. Ta sekcja przeprowadzi Cię przez rozpoznawanie różnic między oryginalnymi a podróbkami AirPods — od prostych po zaawansowane metody. Jeśli oferta wydaje się zbyt dobra, by była prawdziwa, prawdopodobnie taka jest. Po więcej informacji o oczekiwanej jakości wykonania podróbek zobacz przewodnik o [jakości wykonania](/pl/introduction/build-quality).
 
-::: tip
+::: tip Najlepsza gwarancja autentyczności
 Ta sekcja kiedyś była bardziej szczegółowa, ale w miarę jak podróbki stają się coraz bardziej zaawansowane, rozróżnienie prawdziwych i fałszywych AirPods jest coraz trudniejsze. Nasza najlepsza rada, aby mieć pewność autentyczności, to kupować AirPods od zaufanego sprzedawcy.
 :::
 

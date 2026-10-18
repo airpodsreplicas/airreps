@@ -4,7 +4,7 @@ description: 'Comparez les différentes versions de réplique des AirPods Pro 2 
 ---
 # AirPods Pro 2
 
-::: tip
+::: tip Toujours l’option la plus aboutie
 Les fabricants orientent progressivement leurs efforts de développement vers des modèles plus récents. Les répliques d’AirPods Pro 2 restent d’excellents produits et sont toujours les options les plus abouties et les plus complètes de la gamme Pro. Si vous souhaitez profiter des fonctionnalités les plus récentes, les [AirPods Pro 3 V7](/fr/version-info/airpods-pro-3) ajoutent un capteur de fréquence cardiaque et la réduction de bruit active hybride par IA — mais il s’agit d’une première version qui présente quelques particularités à connaître avant l’achat.
 :::
 

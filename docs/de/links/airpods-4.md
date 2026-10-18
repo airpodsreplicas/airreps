@@ -82,6 +82,6 @@ AirPods 4-Replikate bieten ein Open-Ear-Design; die höherwertigen Versionen hab
 
 
 
-::: tip
+::: tip Weidian-Bestellungen brauchen einen Agenten
 Die Wahl eines Weidian-Links erfordert für den Versand die Nutzung eines Agenten. Wir empfehlen diese Option nur, wenn Sie den Versand mit anderen Artikeln zusammenlegen möchten und mit Agentenplattformen vertraut sind. Für einen verlässlichen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy). Neu bei Agenten? Schauen Sie sich unseren [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy) an.
 :::

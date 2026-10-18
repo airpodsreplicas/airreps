@@ -11,7 +11,7 @@ Understanding the battery life of AirPods replicas can help you manage your expe
 
 The average battery life of in-ear AirPods replicas is around 5–8 hours per charge at moderate volume (depending on whether ANC is active). For example, the Pro 2 V5.4 Huilian yields ~4.5 hours with ANC and ~6 hours without, while the V5.3 TB reaches up to 6 hours with ANC and 8 hours without. For over-ear models, the [AirPods Max comparison](/version-info/airpods-max) distinguishes current seller-listed runtime from measured results. The charging case provides 2–3 full recharges for the earbuds.
 
-::: tip
+::: tip Comparing battery claims
 Current in-ear replica models generally offer 5–8 hours of listening time per charge. Compare battery figures at the same volume and ANC setting; seller ratings are not directly comparable with hands-on tests.
 :::
 

@@ -31,7 +31,7 @@ Når du vælger Apple-logoæsken ved betaling, medfølger dobbeltæsken automati
 
 <img src="/doublebox.webp" alt="Dobbelt-/lokkeæske" width="300" height="400"/>
 
-::: tip
+::: tip Apple-æske ved bestilling
 Apple-æsken (som altid leveres som en dobbeltæske) er normalt forudvalgt ved betaling. Kontrollér, at den er markeret, inden du gennemfører din bestilling.
 :::
 
@@ -39,7 +39,7 @@ Apple-æsken (som altid leveres som en dobbeltæske) er normalt forudvalgt ved b
 
 Æskens kvalitet kan variere fra vellavet med korrekt præget tekst og korrekt justerede etiketter til lavere kvalitet eller sjusket udførelse. Hvis æskens kvalitet er vigtig for dig, kan du bede sælgeren om billeder, inden du køber. Og hvis du undersøger en æske for at vurdere, om AirPodsene indeni er ægte, gennemgår vores artikel om [hvordan du kan se, om AirPods er falske](/da/articles/how-to-spot-fake-airpods) de kontroller, der faktisk betyder noget.
 
-::: tip
+::: tip Bed om fotos af æsken
 Bed altid om billeder, hvis æskens kvalitet er vigtig for dig.
 :::
 

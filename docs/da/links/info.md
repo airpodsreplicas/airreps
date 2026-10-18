@@ -17,7 +17,7 @@ faq:
 ---
 # Hvor kan man købe kopier af AirPods?
 
-::: tip
+::: tip Sammenlign versioner først
 Denne liste holdes opdateret. En højere version betyder normalt et bedre produkt — men ikke altid, så sammenlign [versionsoplysningerne](/da/version-info/general), før du køber.
 :::
 
@@ -80,7 +80,7 @@ HiCitys OnlyPay-metoder afhænger af faktureringslandet: Trustly (AT, DK, EE, FI
 Hvis du har problemer med at betale eller gennemføre købet på sælgernes hjemmesider, anbefaler vi [KakoBuy](https://airreps.link/kakobuy). KakoBuy understøtter almindelige betalingsmetoder som PayPal og kredit-/betalingskort, der virker for omkring 90 % af kunderne, og er generelt en god agent. Se vores [KakoBuy-guide](/da/ordering/kakobuy).
 :::
 
-::: tip
+::: tip Behandlingstid for Wise og bankoverførsel
 Betalinger via Wise eller bankoverførsel kræver manuel kontrol af sælgeren, hvilket kan tage op til 24 timer at behandle.
 
 Ved Weidian-ordrer skal du bruge en agent. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy), som accepterer kreditkort og flere betalingsmetoder — se vores [KakoBuy-guide](/da/ordering/kakobuy) for en trinvis gennemgang.

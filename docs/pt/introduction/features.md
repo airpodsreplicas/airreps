@@ -37,6 +37,6 @@ As réplicas de AirPods Pro 2 (V5.3TB e posteriores) apresentam uma configuraç�
 
 A qualidade do microfone das réplicas é adequada e muito semelhante à dos AirPods originais. Elas são boas o suficiente para chamadas, mas, assim como os AirPods da Apple, não são nada impressionantes devido ao seu formato compacto. Para saber mais sobre o desempenho de áudio, consulte a seção sobre [qualidade do som](/pt/introduction/sound-quality).
 
-::: tip
+::: tip Qualidade do microfone
 As réplicas mais recentes de AirPods Pro 2 (V5.4 e V5.3 Huilian, HR e TB) têm qualidade de microfone comparável à dos AirPods originais.
 :::

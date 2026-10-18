@@ -38,7 +38,7 @@ AirPods Pro 2 replicas (V5.3TB and newer) feature a force sensor configuration t
 
 The microphone quality on the replicas is usable and is very comparable to that on the original AirPods. They are good enough for calls, but like Apple AirPods, they are not anything impressive due to their small form factor. For more on audio performance, see the [sound quality](/introduction/sound-quality) section.
 
-::: tip
+::: tip Microphone quality
 The latest AirPods Pro 2 replicas (V5.4 and V5.3 Huilian, HR & TB) have microphone quality comparable to the original AirPods.
 :::
 

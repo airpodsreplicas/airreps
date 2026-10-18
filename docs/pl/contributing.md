@@ -6,7 +6,7 @@ description: "Jak wnosić wkład do projektu AirReps. Sforkuj repozytorium, skon
 
 Cieszymy się, że chcesz wnosić wkład w nasz projekt. Aby usprawnić proces, przygotowaliśmy szczegółowy przewodnik krok po kroku poniżej.
 
-::: tip
+::: tip Użyj GitHub Desktop
 Dla wygody zarządzania swoimi wkładami zalecamy używanie [GitHub Desktop](https://desktop.github.com/), klienta GitHub z interfejsem graficznym.
 :::
 
@@ -85,7 +85,7 @@ Jeśli wyjście wyświetli `Command failed` lub inny komunikat o błędzie, coś
 3. Możesz przejrzeć zmiany wprowadzane w każdym pliku. Wybierz po jednym pliku i wypełnij pole `Summary (required)`. W razie potrzeby podaj dodatkowe szczegóły w polu `Description`. Kliknij `Commit to the branch you created`, aby zatwierdzić zmiany.
 4. Następnie kliknij `Push changes to x` *(x to nazwa gałęzi, którą utworzyłeś)*, aby wysłać zmiany na GitHub.
 
-::: tip
+::: tip Gotowy na push?
 Jeśli zatwierdziłeś wszystkie pliki — świetnie! Następnym krokiem będzie wypchnięcie zmian na GitHub i utworzenie Pull Requesta.
 :::
 

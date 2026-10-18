@@ -18,7 +18,7 @@ Da AirPods Pro slutter af i øret, kan de lyde betydeligt bedre end AirPods 2/3,
 
 Lydkvaliteten kan variere afhængigt af [version og chip](/da/version-info/general) og batch. Mange modeller lægger vægt på bas uden at være overvældende. Mellemtonerne er tydelige, men diskanten kunne være bedre. Bemærk, at EQ kan variere fra sælger til sælger, og du kan justere den via din musikafspillers indstillinger eller producentapps — se [nyttige apps](/da/useful-apps) for downloadlinks.
 
-::: tip
+::: tip Justering af EQ
 EQ kan variere fra sælger til sælger. Brug **FlyCC**, **BullSuper**, eller **StarFun** til at justere den for **TigerBuilder**, **HR**, og **Huilian** enheder respektivt.
 :::
 

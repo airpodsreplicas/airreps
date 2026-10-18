@@ -5,7 +5,7 @@ description: "Troubleshooting guide for common AirPods replica issues: connectiv
 
 # **Common Issues**
 
-::: tip
+::: tip Newer models fix these bugs
 Most newer models sold through the [trusted sellers](/links/info) have addressed these issues long ago. If you're experiencing problems, ensure you have the latest version from a verified seller.
 :::
 

@@ -14,11 +14,11 @@ Birçok AirPods replika satıcısı mevcut, ancak en iyi deneyim topluluk taraf�
 
 AliExpress veya DHgate gibi Çin e-ticaret sitelerinde satıcılar bulabilirsiniz, ancak bu platformlardaki incelemeler her zaman tarafsız veya meşru olmayabilir. Doğrulanmamış satıcılardan satın almak daha fazla risk taşır; ürün kalitesi ve müşteri hizmetleri önemli ölçüde değişkenlik gösterebilir. Eğer doğrulanmamış bir satıcıdan satın alır ve sorun yaşarsanız, lütfen deneyiminizi personel ekibimizle paylaşın.
 
-::: tip
+::: tip Doğrulanmış satıcı listesi
 Topluluk tarafından doğrulanmış ve saygın satıcıların [listesini burada bulun](/tr/links/info).
 :::
 
-::: tip
+::: tip Güvenilir satıcılardan satın alın
 En iyi deneyim için, [topluluk tarafından doğrulanmış güvenilir satıcılarımızdan](/tr/links/info) satın almanızı şiddetle tavsiye ederiz. Kanıtlanmış bir sicile sahipler ve iyi müşteri hizmeti ile güvenilir ürünler sunuyorlar.
 :::
 
@@ -26,7 +26,7 @@ En iyi deneyim için, [topluluk tarafından doğrulanmış güvenilir satıcıla
 
 Bazı aracı satıcılar AirPods replikalarını daha yüksek fiyatlarla sunar; bazen garanti, alıcı koruması veya hızlandırılmış kargo gibi ek hizmetlerle birlikte. Ancak bu hizmetler ek ücret gerektirir ve daha yüksek bir fiyat mutlaka daha iyi bir ürün garantisi vermez. Önerdiğimiz güvenilir satıcılar genellikle aynı veya daha iyi kalite ürünleri daha rekabetçi fiyatlarla sunar. Sipariş verme konusunda adım adım rehber için [nasıl satın alınır](/tr/ordering/how-to-buy) sayfasına bakın.
 
-::: tip
+::: tip Güvenilir satıcılar ve aracı satıcılar
 Önerdiğimiz güvenilir satıcılar mükemmel fiyat-değer dengesi ve kalite sağlar. Aracı satıcılar ek hizmetler sunabilir, ancak genellikle aynı ürünleri güvenilir satıcılardan daha iyi fiyatlarla doğrudan alabilirsiniz.
 :::
 

@@ -4,7 +4,7 @@ description: 'Guide de dépannage pour les problèmes courants d''AirPods replic
 ---
 # **Problèmes courants**
 
-::: tip
+::: tip Les modèles récents corrigent ces bugs
 La plupart des modèles récents vendus par les [vendeurs de confiance](/fr/links/info) ont corrigé ces problèmes depuis longtemps. Si vous rencontrez des problèmes, assurez-vous d'avoir la dernière version provenant d'un vendeur vérifié.
 :::
 

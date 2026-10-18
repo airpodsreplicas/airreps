@@ -15,7 +15,7 @@ Dieser Guide enthält noch keine verifizierten Kauflinks für AirPods 5 Replikas
 
 [AirPods 5 Versionsinfo](/de/version-info/airpods-5)
 
-::: tip
+::: tip Während du wartest
 In der Zwischenzeit findest du Informationen in unserem [AirPods 4 Guide](/de/links/airpods-4).
 
 Tritt unserer [Discord-Community](https://airreps.link/discord) bei, um Updates zu erhalten.

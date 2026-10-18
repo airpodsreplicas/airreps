@@ -23,7 +23,7 @@ Det er vigtigt at vide, at alle replikaer solgt i AirReps har metalhængsler. No
 ## Tekst
 
 Teksten "Designed by Apple" på bagsiden bruger en skrifttype, der ligner den originale. Teksten inde i etuiet og på øretelefonerne ser ens ud, men matcher ikke originale AirPods præcis. Nogle batches har rigtige serienumre, mens andre ikke gør. Tekstjusteringen og farven kan variere; nogle gange er den ikke helt lige eller kan være en lysere eller mørkere grå end på originalerne. Kvaliteten af "Designed by Apple"-teksten varierer efter sælger, hvor Hicitys lasergravering er mindre præcis end Earhives og Jennys. For mere om, hvordan du spotter disse forskelle, se vores [QC & LC-guide](/da/ordering/qc-lc).
-:::tip
+::: tip Tilpasset gravering
 Du kan anmode om custom lasergravering ved at sende din foretrukne sælger en WhatsApp-besked med den tekst, du vil have graveret, sammen med dit ordrenummer. For mere specialiserede forespørgsler som logoer eller detaljerede designs kan du sende dit foretrukne artwork i .svg eller .png-format til Jenny eller Earhive. Almindelig tekst og emojis kræver ikke disse filformater.
 :::
 

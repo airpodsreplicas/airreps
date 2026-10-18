@@ -4,7 +4,7 @@ description: 'Sammenlign replikaversioner af AirPods 3 efter chip, funktioner og
 ---
 # AirPods 3
 
-::: tip
+::: tip Fokus er på nyere modeller
 Denne produktlinje opdateres ikke længere aktivt af producenterne, da udviklingen er skiftet til nyere modeller. AirPods 3-kopier er stadig fremragende produkter og er fortsat populære valg. Hvis du leder efter de nyeste funktioner og forbedringer, kan du se nærmere på [AirPods 4](/da/version-info/airpods-4).
 :::
 

@@ -125,6 +125,6 @@ AirPods Pro 3-Nachbildungen sind das neueste In-Ear-Modell mit den aktuellsten F
 
 
 
-::: tip
+::: tip Weidian-Bestellungen brauchen einen Agenten
 Für die Auswahl eines Weidian-Links ist für den Versand die Nutzung eines Agenten erforderlich. Wir empfehlen diese Option nur, wenn du den Versand mit anderen Artikeln zusammenlegen möchtest und mit Agent-Plattformen vertraut bist. Als zuverlässigen Agenten empfehlen wir [KakoBuy](https://airreps.link/kakobuy). Noch keine Erfahrung mit Agenten? Sieh dir unseren [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy) an.
 :::

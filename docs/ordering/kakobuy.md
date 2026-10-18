@@ -19,7 +19,7 @@ KakoBuy is a Chinese shopping agent (also called a "taobao agent") that purchase
 - **Combine Shipping** — Bundle multiple items into one parcel to save on shipping costs
 - **Buyer Protection** — KakoBuy handles returns/exchanges with the seller if something is wrong
 
-::: tip
+::: tip When KakoBuy makes sense
 For a single pair of AirPods, shipping through KakoBuy typically costs **$7–10 USD**. If you're only buying AirPods and nothing else, it may be simpler to [order directly from a seller's website](/ordering/how-to-buy). KakoBuy shines when you're combining orders or when the seller's payment methods (crypto, AliPay, bank transfer) don't work for you — KakoBuy accepts regular credit/debit cards, PayPal, Apple Pay, and Google Pay.
 :::
 
@@ -71,7 +71,7 @@ Once the item arrives at KakoBuy's warehouse, they'll take quality control (QC) 
 
 ![KakoBuy orders page with QC photos](/images/kakobuy/orders-qc.webp)
 
-::: tip
+::: tip Inspect before shipping
 This is a great perk of using an agent — you get to inspect your AirPods replica before committing to international shipping. Check the [QC & LC guide](/ordering/qc-lc) for tips on what to look for.
 :::
 

@@ -6,7 +6,7 @@ description: 'Bliv ekspert i AirPods QC & LC. Find designfejl, bekræft software
 
 Velkommen! Hvis du er her, leder du sandsynligvis efter måder at kvalitetskontrollere dine replika-AirPods på eller overvejer at købe ægte. Denne sektion vil vejlede dig i at skelne mellem detail- og replika-AirPods, fra simple til avancerede metoder. Hvis et tilbud virker for godt til at være sandt, er det sandsynligvis det. For mere om hvad du kan forvente af replikaers byggekvalitet, se [byggekvalitet](/da/introduction/build-quality) vejledningen.
 
-::: tip
+::: tip Den bedste ægthedsgaranti
 Denne sektion var engang mere detaljeret, men efterhånden som replikaer er blevet mere sofistikerede, er det sværere og sværere at skelne mellem ægte og falske AirPods. Vores bedste råd for at sikre ægthed er at købe dine AirPods fra en velrenommeret forhandler.
 :::
 

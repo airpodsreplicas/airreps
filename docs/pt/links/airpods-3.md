@@ -41,6 +41,6 @@ As réplicas do AirPods 3 oferecem o encaixe com haste sem ANC. Compare as vers�
 
 
 
-::: tip
+::: tip Pedidos na Weidian exigem agente
 Escolher um link do Weidian exige o uso de um agente para envio. Recomendamos essa opção apenas se você desejar consolidar o envio com outros itens e estiver familiarizado com plataformas de agentes. Para um agente confiável, recomendamos [KakoBuy](https://airreps.link/kakobuy). Novo em agentes? Consulte nosso [guia de pedidos da KakoBuy](/pt/ordering/kakobuy).
 :::

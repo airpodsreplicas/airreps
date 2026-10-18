@@ -10,7 +10,7 @@ Comprendre l’autonomie des répliques d’AirPods peut vous aider à gérer vo
 
 L’autonomie moyenne des répliques d’AirPods intra-auriculaires est d’environ 5 à 8 heures par charge à volume modéré (selon que l’ANC est activée ou non). Par exemple, les Pro 2 V5.4 Huilian offrent environ 4,5 heures avec l’ANC et environ 6 heures sans ANC, tandis que les V5.3 TB atteignent jusqu’à 6 heures avec l’ANC et 8 heures sans ANC. Pour les modèles circum-auriculaires, la [comparaison des AirPods Max](/fr/version-info/airpods-max) distingue l’autonomie annoncée par les vendeurs des résultats mesurés. Le boîtier de recharge fournit 2 à 3 recharges complètes des écouteurs.
 
-::: tip
+::: tip Comparer les autonomies annoncées
 Les modèles répliques intra-auriculaires actuels offrent généralement 5 à 8 heures d’écoute par charge. Comparez les chiffres d’autonomie au même volume et avec le même réglage d’ANC ; les estimations des vendeurs ne sont pas directement comparables aux tests pratiques.
 :::
 

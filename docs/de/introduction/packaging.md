@@ -31,7 +31,7 @@ Wenn du beim Bezahlen die Box mit Apple-Logo auswählst, ist die Doppelbox autom
 
 <img src="/doublebox.webp" alt="Doppel-/Tarnbox" width="300" height="400"/>
 
-::: tip
+::: tip Apple-Box beim Checkout
 Die Apple-Box (die immer als Doppelbox geliefert wird) ist beim Bezahlen normalerweise vorausgewählt. Überprüfe vor Abschluss deiner Bestellung, dass sie aktiviert ist.
 :::
 
@@ -39,7 +39,7 @@ Die Apple-Box (die immer als Doppelbox geliefert wird) ist beim Bezahlen normale
 
 Die Qualität der Box kann von hochwertig mit korrekt geprägtem Text und ausgerichteten Etiketten bis hin zu minderwertig oder nachlässig verarbeitet reichen. Wenn dir die Qualität der Box wichtig ist, bitte den Verkäufer vor dem Kauf um Fotos. Wenn du eine Box untersuchst, um zu beurteilen, ob die darin enthaltenen AirPods echt sind, behandelt unser Artikel darüber, [wie man gefälschte AirPods erkennt](/de/articles/how-to-spot-fake-airpods), die tatsächlich relevanten Prüfungen.
 
-::: tip
+::: tip Frag nach Fotos der Box
 Bitte immer um Fotos, wenn dir die Qualität der Box wichtig ist.
 :::
 

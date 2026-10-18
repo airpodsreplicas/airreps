@@ -10,7 +10,7 @@ Hvis du forstår batterilevetiden for AirPods-kopier, kan det hjælpe dig med at
 
 Den gennemsnitlige batterilevetid for in-ear AirPods-kopier er omkring 5–8 timer pr. opladning ved moderat lydstyrke (afhængigt af, om ANC er aktiveret). Pro 2 V5.4 Huilian giver f.eks. ~4,5 timer med ANC og ~6 timer uden, mens V5.3 TB når op på 6 timer med ANC og 8 timer uden. For over-ear-modeller skelner [sammenligningen af AirPods Max](/da/version-info/airpods-max) mellem den aktuelle, sælgerangivne driftstid og målte resultater. Opladningsetuiet giver 2–3 fulde genopladninger af øretelefonerne.
 
-::: tip
+::: tip Sammenlign batteritider
 Aktuelle in-ear-kopimodeller tilbyder generelt 5–8 timers lyttetid pr. opladning. Sammenlign batterital ved samme lydstyrke og ANC-indstilling; sælgerangivelser kan ikke sammenlignes direkte med praktiske tests.
 :::
 

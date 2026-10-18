@@ -14,11 +14,11 @@ Istnieje wielu sprzedawców replik AirPods, ale najlepsze doświadczenia pochodz
 
 Choć możesz znaleźć sprzedawców na chińskich stronach e-commerce, takich jak AliExpress czy DHgate, recenzje na tych platformach nie zawsze bywają bezstronne lub wiarygodne. Zakupy u niezweryfikowanych sprzedawców niosą większe ryzyko, ponieważ jakość produktów i obsługa klienta mogą znacznie się różnić. Jeśli dokonasz zakupu u niezweryfikowanego sprzedawcy i napotkasz problemy, prosimy o podzielenie się swoim doświadczeniem z naszym zespołem.
 
-::: tip
+::: tip Lista zweryfikowanych sprzedawców
 Znajdź [listę sprzedawców zweryfikowanych przez społeczność i godnych zaufania](/pl/links/info).
 :::
 
-::: tip
+::: tip Kupuj u zaufanych sprzedawców
 Dla najlepszego doświadczenia zdecydowanie zalecamy zakup od naszych [sprzedawców zweryfikowanych przez społeczność i godnych zaufania](/pl/links/info). Mają sprawdzone osiągnięcia i zapewniają niezawodne produkty oraz dobrą obsługę klienta.
 :::
 
@@ -26,7 +26,7 @@ Dla najlepszego doświadczenia zdecydowanie zalecamy zakup od naszych [sprzedawc
 
 Niektórzy odsprzedawcy oferują repliki AirPods po wyższych cenach, czasami z dodatkowymi usługami, takimi jak gwarancje, ochrona kupującego czy przyspieszona wysyłka. Jednak te usługi kosztują dodatkowo, a wyższa cena niekoniecznie gwarantuje lepszy produkt. Zaufani sprzedawcy, których polecamy, zwykle oferują takie same lub lepsze produkty w bardziej konkurencyjnych cenach. Aby uzyskać przewodnik krok po kroku dotyczący składania zamówienia, zobacz [jak kupować](/pl/ordering/how-to-buy).
 
-::: tip
+::: tip Zaufani sprzedawcy a odsprzedawcy
 Nasi polecani, zaufani sprzedawcy oferują doskonały stosunek jakości do ceny. Choć odsprzedawcy mogą oferować dodatkowe usługi, często możesz kupić te same produkty bezpośrednio od zaufanych sprzedawców w lepszych cenach.
 :::
 

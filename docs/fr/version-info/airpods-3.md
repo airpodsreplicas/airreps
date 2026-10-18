@@ -4,7 +4,7 @@ description: 'Comparez les versions de réplique des AirPods 3 selon la puce, le
 ---
 # AirPods 3
 
-::: tip
+::: tip Développement axé sur les nouveaux modèles
 Cette gamme de produits n’est plus activement mise à jour par les fabricants, qui ont reporté leurs efforts de développement sur des modèles plus récents. Les répliques d’AirPods 3 restent d’excellents produits et demeurent des choix populaires. Si vous recherchez les dernières fonctionnalités et améliorations, consultez les [AirPods 4](/fr/version-info/airpods-4).
 :::
 

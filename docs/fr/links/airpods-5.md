@@ -15,7 +15,7 @@ Ce guide ne propose pas encore de liens d’achat vérifiés pour les répliques
 
 [Informations sur les versions d’AirPods 5](/fr/version-info/airpods-5)
 
-::: tip
+::: tip En attendant
 En attendant, consultez notre [guide des AirPods 4](/fr/links/airpods-4).
 
 Rejoignez notre [communauté Discord](https://airreps.link/discord) pour suivre les nouveautés.

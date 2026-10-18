@@ -90,6 +90,6 @@ AirPods Max-kopier er over-ear-muligheden, fra billige plastmodeller til V3 med 
 > [!NOTE]
 > AirPods Max-kopier fås i en række farver. For detaljerede muligheder henvises der til de respektive sælgeres hjemmesider.
 
-::: tip
+::: tip Weidian-ordrer kræver en agent
 Valg af et Weidian-link kræver brug af en agent til forsendelse. Vi anbefaler denne mulighed kun, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny med agenter? Se vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
 :::

@@ -147,6 +147,6 @@ AirPods Pro 2 replikaları en popüler ve olgun kulak içi seçeneğidir. Her ve
 
 
 
-::: tip
+::: tip Weidian siparişleri aracı gerektirir
 Weidian bağlantısı seçmek, gönderim için bir ajan kullanmayı gerektirir. Bu seçeneği yalnızca gönderimi diğer ürünlerle birleştirmek istiyorsanız ve ajan platformlarına aşina iseniz öneririz. Güvenilir bir ajan için [KakoBuy](https://airreps.link/kakobuy)'ı öneriyoruz. Ajanlara yeni misiniz? [KakoBuy sipariş kılavuzu](/tr/ordering/kakobuy)'na göz atın.
 :::

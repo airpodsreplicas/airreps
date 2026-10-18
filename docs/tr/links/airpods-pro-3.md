@@ -125,6 +125,6 @@ AirPods Pro 3 replikaları, en yeni özellikleri farklı fiyat seçenekleriyle s
 
 
 
-::: tip
+::: tip Weidian siparişleri aracı gerektirir
 Weidian bağlantısını seçmek, gönderim için bir aracı kullanılmasını gerektirir. Bu seçeneği yalnızca gönderiyi diğer ürünlerle birleştirmek istiyorsanız ve aracı platformlara aşinaysanız öneriyoruz. Güvenilir bir aracı olarak [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. Aracılar hakkında yeni misiniz? [KakoBuy sipariş verme kılavuzumuza](/tr/ordering/kakobuy) göz atın.
 :::

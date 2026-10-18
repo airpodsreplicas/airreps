@@ -82,6 +82,6 @@ AirPods 4 replikalar açık kulak tasarımı sunar, daha üst versiyonlarda ANC 
 
 
 
-::: tip
+::: tip Weidian siparişleri aracı gerektirir
 Weidian bağlantısı seçmek gönderim için bir acente kullanılmasını gerektirir. Bu seçeneği yalnızca gönderimi diğer ürünlerle birleştirmek istiyor ve acente platformlarına aşina iseniz öneririz. Güvenilir bir acente için [KakoBuy](https://airreps.link/kakobuy)'ı öneriyoruz. Acentelere yeni misiniz? [KakoBuy sipariş rehberine](/tr/ordering/kakobuy) göz atın.
 :::

@@ -18,7 +18,7 @@ Dado que los AirPods Pro se sellan en el oído, pueden sonar significativamente 
 
 La calidad de sonido puede variar dependiendo de la [versión, chip](/es/version-info/general) y del lote. Muchos modelos enfatizan los graves sin llegar a ser abrumadores. Los medios están pronunciados, pero los agudos podrían mejorar. Ten en cuenta que el ecualizador puede variar según el vendedor, y puedes ajustarlo usando la configuración de tu reproductor de música o las apps del fabricante — consulta [aplicaciones útiles](/es/useful-apps) para enlaces de descarga.
 
-::: tip
+::: tip Ajustar el ecualizador
 El ecualizador puede variar según el vendedor. Usa **FlyCC**, **BullSuper** o **StarFun** para ajustarlo en dispositivos **TigerBuilder**, **HR** y **Huilian**, respectivamente.
 :::
 

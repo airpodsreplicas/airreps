@@ -18,7 +18,7 @@ Bu kılavuz için henüz hiçbir AirPods 5 kopya sürümü doğrulanmadı. AirPo
 
 [AirPods 5 satıcı güncellemeleri](/tr/links/airpods-5)
 
-::: tip
+::: tip Siz beklerken
 Bu arada [AirPods 4 kılavuzumuza](/tr/version-info/airpods-4) göz atın.
 
 Güncellemeler için [Discord topluluğumuza](https://airreps.link/discord) katılın.

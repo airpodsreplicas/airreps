@@ -5,7 +5,7 @@ description: "Compare AirPods 3 replica versions by chip, features, and missing 
 
 # AirPods 3
 
-::: tip
+::: tip Development has moved on
 This product line is no longer being actively updated by manufacturers, as development has shifted to newer models. AirPods 3 replicas are still excellent products and remain popular choices. If you're looking for the latest features and improvements, consider checking out [AirPods 4](/version-info/airpods-4).
 :::
 

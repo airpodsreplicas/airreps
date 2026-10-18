@@ -125,6 +125,6 @@ Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i
 
 
 
-::: tip
+::: tip Weidian-ordrer kræver en agent
 Hvis du vælger et Weidian-link, skal du bruge en agent til forsendelsen. Vi anbefaler kun denne mulighed, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy) som en pålidelig agent. Er agenter nyt for dig? Se vores [vejledning til bestilling via KakoBuy](/da/ordering/kakobuy).
 :::
