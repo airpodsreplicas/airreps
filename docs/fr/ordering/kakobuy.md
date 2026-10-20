@@ -19,7 +19,7 @@ KakoBuy est un agent d'achat chinois (appelé aussi « taobao agent ») qui ach�
 - **Protection de l'acheteur** — KakoBuy gère les retours/échanges avec le vendeur si quelque chose ne va pas
 
 ::: tip Quand utiliser KakoBuy
-Pour une paire d'AirPods seule, l'expédition via KakoBuy coûte généralement **7–10 USD**. Si vous n'achetez que des AirPods et rien d'autre, il peut être plus simple de [commander directement sur le site du vendeur](/fr/ordering/how-to-buy). KakoBuy est particulièrement utile lorsque vous regroupez des commandes ou lorsque les méthodes de paiement du vendeur (crypto, AliPay, virement bancaire) ne fonctionnent pas pour vous — KakoBuy accepte les cartes de crédit/débit classiques, PayPal, Apple Pay et Google Pay.
+Expédier une paire d'AirPods seule via KakoBuy n'est pas bon marché — souvent autour de **20 USD**, selon votre pays et la ligne d'expédition. Si vous n'achetez que des AirPods et rien d'autre, il peut être plus simple de [commander directement sur le site du vendeur](/fr/ordering/how-to-buy). KakoBuy est particulièrement utile lorsque vous regroupez des commandes ou lorsque les méthodes de paiement du vendeur (crypto, AliPay, virement bancaire) ne fonctionnent pas pour vous — KakoBuy accepte les cartes de crédit/débit classiques, PayPal, Apple Pay et Google Pay.
 :::
 
 ## KakoBuy vs autres agents
@@ -98,7 +98,7 @@ KakoBuy est un agent d'achat chinois légitime utilisé par la communauté AirRe
 :::
 
 ::: details Combien coûte l'expédition KakoBuy pour des AirPods ?
-Pour une seule paire d'AirPods, comptez **7–10 USD** pour l'expédition internationale. Le coût final dépend de votre pays de destination et de la ligne d'expédition choisie — les lignes express (DHL, FedEx) coûtent plus cher, tandis que la ligne **Triangle Shipping** de KakoBuy inclut la TVA dans les frais d'expédition, de sorte qu'il n'y a rien à payer à l'arrivée. Regrouper plusieurs articles dans un seul colis réduit considérablement le coût d'expédition par article, ce qui est l'une des principales raisons d'utiliser un agent.
+Une paire d'AirPods expédiée seule coûte souvent autour de **20 USD** — les agents ne sont pas bon marché pour un seul petit article. Le coût final dépend de votre pays de destination et de la ligne d'expédition choisie — les lignes express (DHL, FedEx) coûtent plus cher, tandis que la ligne **Triangle Shipping** de KakoBuy inclut la TVA dans les frais d'expédition, de sorte qu'il n'y a rien à payer à l'arrivée. Regrouper plusieurs articles dans un seul colis réduit considérablement le coût d'expédition par article, ce qui est l'une des principales raisons d'utiliser un agent.
 :::
 
 ::: details KakoBuy exige‑t‑il une vérification KYC ?

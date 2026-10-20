@@ -19,7 +19,7 @@ KakoBuy to chiński agent zakupowy (zwany także „agentem taobao”), który k
 - **Ochrona kupującego** — KakoBuy zajmuje się zwrotami/wymianami ze sprzedawcą, jeśli coś jest nie tak
 
 ::: tip Kiedy KakoBuy się opłaca
-Dla jednej pary AirPods, wysyłka przez KakoBuy zwykle kosztuje **$7–10 USD**. Jeśli kupujesz tylko AirPods i nic więcej, może być prościej [zamówić bezpośrednio ze strony sprzedawcy](/pl/ordering/how-to-buy). KakoBuy sprawdza się najlepiej, gdy łączysz zamówienia lub gdy metody płatności sprzedawcy (crypto, AliPay, przelew bankowy) nie działają dla ciebie — KakoBuy akceptuje standardowe karty kredytowe/debetowe, PayPal, Apple Pay i Google Pay.
+Wysyłka samej jednej pary AirPods przez KakoBuy nie jest tania — często około **$20 USD**, w zależności od kraju i linii wysyłkowej. Jeśli kupujesz tylko AirPods i nic więcej, może być prościej [zamówić bezpośrednio ze strony sprzedawcy](/pl/ordering/how-to-buy). KakoBuy sprawdza się najlepiej, gdy łączysz zamówienia lub gdy metody płatności sprzedawcy (crypto, AliPay, przelew bankowy) nie działają dla ciebie — KakoBuy akceptuje standardowe karty kredytowe/debetowe, PayPal, Apple Pay i Google Pay.
 :::
 
 ## KakoBuy a inne agencje
@@ -98,7 +98,7 @@ KakoBuy to legalny chiński agent zakupowy używany przez społeczność AirReps
 :::
 
 ::: details Ile kosztuje wysyłka przez KakoBuy dla AirPods?
-Dla jednej pary AirPods spodziewaj się **$7–10 USD** za wysyłkę międzynarodową. Ostateczny koszt zależy od twojego kraju docelowego i wybranej linii wysyłkowej — linie ekspresowe (DHL, FedEx) kosztują więcej, podczas gdy linia **Triangle Shipping** KakoBuy uwzględnia VAT w opłacie za wysyłkę, więc nie trzeba nic dopłacać przy odbiorze. Połączenie kilku przedmiotów w jedną paczkę obniża znacząco koszt wysyłki na przedmiot, co jest jednym z głównych powodów, dla których ludzie korzystają z agenta.
+Wysyłka samej jednej pary AirPods kosztuje często około **$20 USD** — agenci nie są tani przy jednym małym przedmiocie. Ostateczny koszt zależy od twojego kraju docelowego i wybranej linii wysyłkowej — linie ekspresowe (DHL, FedEx) kosztują więcej, podczas gdy linia **Triangle Shipping** KakoBuy uwzględnia VAT w opłacie za wysyłkę, więc nie trzeba nic dopłacać przy odbiorze. Połączenie kilku przedmiotów w jedną paczkę obniża znacząco koszt wysyłki na przedmiot, co jest jednym z głównych powodów, dla których ludzie korzystają z agenta.
 :::
 
 ::: details Czy KakoBuy wymaga weryfikacji KYC?

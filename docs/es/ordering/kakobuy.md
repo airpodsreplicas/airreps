@@ -19,7 +19,7 @@ KakoBuy es un agente de compras chino (también llamado "agente de Taobao") que 
 - **Protección del comprador** — KakoBuy gestiona devoluciones/cambios con el vendedor si algo está mal
 
 ::: tip Cuándo conviene KakoBuy
-Para un solo par de AirPods, el envío mediante KakoBuy suele costar **$7–10 USD**. Si solo compras AirPods y nada más, puede ser más sencillo [hacer el pedido directamente desde la web del vendedor](/es/ordering/how-to-buy). KakoBuy destaca cuando estás combinando pedidos o cuando los métodos de pago del vendedor (cripto, AliPay, transferencia bancaria) no funcionan para ti — KakoBuy acepta tarjetas de crédito/débito regulares, PayPal, Apple Pay y Google Pay.
+Enviar un solo par de AirPods por sí solo mediante KakoBuy no es barato — suele rondar los **$20 USD**, según tu país y la línea de envío. Si solo compras AirPods y nada más, puede ser más sencillo [hacer el pedido directamente desde la web del vendedor](/es/ordering/how-to-buy). KakoBuy destaca cuando estás combinando pedidos o cuando los métodos de pago del vendedor (cripto, AliPay, transferencia bancaria) no funcionan para ti — KakoBuy acepta tarjetas de crédito/débito regulares, PayPal, Apple Pay y Google Pay.
 :::
 
 ## KakoBuy frente a otros agentes
@@ -98,7 +98,7 @@ KakoBuy es un agente de compras chino legítimo que la comunidad AirReps ha usad
 :::
 
 ::: details ¿Cuánto cuesta el envío de KakoBuy para AirPods?
-Para un solo par de AirPods, espera **$7–10 USD** por el envío internacional. El coste final depende de tu país de destino y de la línea de envío que elijas — las líneas exprés (DHL, FedEx) cuestan más, mientras que la **Triangle Shipping** de KakoBuy incluye el IVA en la tarifa de envío para que no haya nada extra que pagar a la llegada. Combinar varios artículos en un solo paquete reduce significativamente el coste de envío por artículo, que es una de las razones principales por las que la gente usa un agente.
+Enviar un solo par de AirPods por sí solo suele costar alrededor de **$20 USD** — los agentes no son baratos para un único artículo pequeño. El coste final depende de tu país de destino y de la línea de envío que elijas — las líneas exprés (DHL, FedEx) cuestan más, mientras que la **Triangle Shipping** de KakoBuy incluye el IVA en la tarifa de envío para que no haya nada extra que pagar a la llegada. Combinar varios artículos en un solo paquete reduce significativamente el coste de envío por artículo, que es una de las razones principales por las que la gente usa un agente.
 :::
 
 ::: details ¿KakoBuy requiere verificación KYC?

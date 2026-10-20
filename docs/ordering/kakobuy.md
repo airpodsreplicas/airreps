@@ -20,7 +20,7 @@ KakoBuy is a Chinese shopping agent (also called a "taobao agent") that purchase
 - **Buyer Protection** — KakoBuy handles returns/exchanges with the seller if something is wrong
 
 ::: tip When KakoBuy makes sense
-For a single pair of AirPods, shipping through KakoBuy typically costs **$7–10 USD**. If you're only buying AirPods and nothing else, it may be simpler to [order directly from a seller's website](/ordering/how-to-buy). KakoBuy shines when you're combining orders or when the seller's payment methods (crypto, AliPay, bank transfer) don't work for you — KakoBuy accepts regular credit/debit cards, PayPal, Apple Pay, and Google Pay.
+Shipping a single pair of AirPods on its own through KakoBuy isn't cheap — often around **$20 USD**, depending on your country and shipping line. If you're only buying AirPods and nothing else, it may be simpler to [order directly from a seller's website](/ordering/how-to-buy). KakoBuy shines when you're combining orders or when the seller's payment methods (crypto, AliPay, bank transfer) don't work for you — KakoBuy accepts regular credit/debit cards, PayPal, Apple Pay, and Google Pay.
 :::
 
 ## KakoBuy vs Other Agents
@@ -99,7 +99,7 @@ KakoBuy is a legitimate Chinese shopping agent that has been used by the AirReps
 :::
 
 ::: details How much does KakoBuy shipping cost for AirPods?
-For a single pair of AirPods, expect **$7–10 USD** for international shipping. Final cost depends on your destination country and the shipping line you choose — express lines (DHL, FedEx) cost more, while KakoBuy's **Triangle Shipping** line bundles VAT into the shipping fee so there's nothing extra to pay on arrival. Combining multiple items into one parcel lowers the per-item shipping cost significantly, which is one of the main reasons people use an agent in the first place.
+Shipping a single pair of AirPods on its own often costs around **$20 USD** — agents aren't cheap for one small item. Final cost depends on your destination country and the shipping line you choose — express lines (DHL, FedEx) cost more, while KakoBuy's **Triangle Shipping** line bundles VAT into the shipping fee so there's nothing extra to pay on arrival. Combining multiple items into one parcel lowers the per-item shipping cost significantly, which is one of the main reasons people use an agent in the first place.
 :::
 
 ::: details Does KakoBuy require KYC verification?

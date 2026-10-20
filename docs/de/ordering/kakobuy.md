@@ -19,7 +19,7 @@ KakoBuy ist ein chinesischer Einkaufsagent (auch „taobao agent“ genannt), de
 - **Käuferschutz** — KakoBuy regelt Rückgaben/Austausch mit dem Verkäufer, wenn etwas nicht in Ordnung ist
 
 ::: tip Wann sich KakoBuy lohnt
-Für ein einzelnes Paar AirPods kostet der Versand über KakoBuy typischerweise **7–10 USD**. Wenn Sie nur AirPods und sonst nichts bestellen, kann es einfacher sein, [direkt auf der Website eines Verkäufers zu bestellen](/de/ordering/how-to-buy). KakoBuy ist besonders sinnvoll, wenn Sie Bestellungen kombinieren oder die Zahlungsmethoden des Verkäufers (Krypto, AliPay, Banküberweisung) nicht funktionieren — KakoBuy akzeptiert normale Kredit-/Debitkarten, PayPal, Apple Pay und Google Pay.
+Ein einzelnes Paar AirPods allein über KakoBuy zu versenden ist nicht günstig — oft rund **20 USD**, abhängig von Ihrem Land und der Versandlinie. Wenn Sie nur AirPods und sonst nichts bestellen, kann es einfacher sein, [direkt auf der Website eines Verkäufers zu bestellen](/de/ordering/how-to-buy). KakoBuy ist besonders sinnvoll, wenn Sie Bestellungen kombinieren oder die Zahlungsmethoden des Verkäufers (Krypto, AliPay, Banküberweisung) nicht funktionieren — KakoBuy akzeptiert normale Kredit-/Debitkarten, PayPal, Apple Pay und Google Pay.
 :::
 
 ## KakoBuy vs. andere Agenten
@@ -98,7 +98,7 @@ KakoBuy ist ein legitimer chinesischer Einkaufsagent, der von der AirReps-Commun
 :::
 
 ::: details Wie viel kostet der Versand bei KakoBuy für AirPods?
-Für ein einzelnes Paar AirPods rechnen Sie mit **7–10 USD** für den internationalen Versand. Der Endpreis hängt von Ihrem Zielland und der gewählten Versandlinie ab — Expresslinien (DHL, FedEx) sind teurer, während KakoBuys **Triangle Shipping**-Linie die Mehrwertsteuer in die Versandgebühr einbindet, sodass bei Ankunft nichts extra zu zahlen ist. Das Kombinieren mehrerer Artikel in einem Paket senkt die Versandkosten pro Artikel erheblich, was einer der Hauptgründe ist, einen Agenten zu nutzen.
+Der Versand eines einzelnen Paars AirPods allein kostet oft rund **20 USD** — für einen einzelnen kleinen Artikel sind Agenten nicht günstig. Der Endpreis hängt von Ihrem Zielland und der gewählten Versandlinie ab — Expresslinien (DHL, FedEx) sind teurer, während KakoBuys **Triangle Shipping**-Linie die Mehrwertsteuer in die Versandgebühr einbindet, sodass bei Ankunft nichts extra zu zahlen ist. Das Kombinieren mehrerer Artikel in einem Paket senkt die Versandkosten pro Artikel erheblich, was einer der Hauptgründe ist, einen Agenten zu nutzen.
 :::
 
 ::: details Erfordert KakoBuy eine KYC-Überprüfung?

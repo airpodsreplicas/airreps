@@ -19,7 +19,7 @@ KakoBuy er en kinesisk shoppingagent (også kaldet en "taobao agent"), som købe
 - **Køberbeskyttelse** — KakoBuy håndterer returneringer/ombytninger med sælgeren, hvis noget er galt
 
 ::: tip Hvornår KakoBuy giver mening
-For et enkelt par AirPods koster forsendelse via KakoBuy typisk **$7–10 USD**. Hvis du kun køber AirPods og intet andet, kan det være enklere at [bestille direkte fra en sælgers hjemmeside](/da/ordering/how-to-buy). KakoBuy er attraktivt, når du kombinerer ordrer eller når sælgerens betalingsmetoder (krypto, AliPay, bankoverførsel) ikke fungerer for dig — KakoBuy accepterer almindelige kredit-/debetkort, PayPal, Apple Pay og Google Pay.
+Det er ikke billigt at sende et enkelt par AirPods alene via KakoBuy — ofte omkring **$20 USD**, afhængigt af dit land og din forsendelseslinje. Hvis du kun køber AirPods og intet andet, kan det være enklere at [bestille direkte fra en sælgers hjemmeside](/da/ordering/how-to-buy). KakoBuy er attraktivt, når du kombinerer ordrer eller når sælgerens betalingsmetoder (krypto, AliPay, bankoverførsel) ikke fungerer for dig — KakoBuy accepterer almindelige kredit-/debetkort, PayPal, Apple Pay og Google Pay.
 :::
 
 ## KakoBuy vs andre agenter
@@ -98,7 +98,7 @@ KakoBuy er en legitim kinesisk shoppingagent, som AirReps-fællesskabet har brug
 :::
 
 ::: details Hvor meget koster KakoBuy-forsendelse for AirPods?
-For et enkelt par AirPods kan du forvente **$7–10 USD** for international forsendelse. Den endelige pris afhænger af dit destinationsland og den forsendelseslinje, du vælger — ekspreslinjer (DHL, FedEx) koster mere, mens KakoBuys **Triangle Shipping**-linje indregner moms i forsendelsesgebyret, så der ikke er noget ekstra at betale ved ankomsten. At kombinere flere varer i én pakke sænker prisen per vare betydeligt, hvilket er en af hovedårsagerne til, at folk bruger en agent.
+Et enkelt par AirPods sendt alene koster ofte omkring **$20 USD** — agenter er ikke billige til én lille vare. Den endelige pris afhænger af dit destinationsland og den forsendelseslinje, du vælger — ekspreslinjer (DHL, FedEx) koster mere, mens KakoBuys **Triangle Shipping**-linje indregner moms i forsendelsesgebyret, så der ikke er noget ekstra at betale ved ankomsten. At kombinere flere varer i én pakke sænker prisen per vare betydeligt, hvilket er en af hovedårsagerne til, at folk bruger en agent.
 :::
 
 ::: details Kræver KakoBuy KYC-verifikation?
