@@ -26,7 +26,7 @@
     "@resvg/resvg-js": "^2.6.2",
     "fs-extra": "^11.4.0",
     "gray-matter": "^4.0.3",
-    "image-size": "^2.0.2",
+    "image-size": "^2.0.4",
     "openai": "^7.32.0",
     "satori": "^0.48.1",
     "satori-html": "^0.3.2",
