@@ -19,7 +19,7 @@ KakoBuy, sizin adınıza Weidian, Taobao ve 1688'deki satıcılardan ürün sat�
 - **Alıcı koruması** — bir sorun çıkarsa KakoBuy iade/takas işlemlerini satıcı ile halleder
 
 ::: tip KakoBuy ne zaman mantıklı?
-Tek bir çift AirPods için KakoBuy üzerinden gönderim genellikle **7–10 USD** tutar. Sadece AirPods alıyorsanız, [bir satıcının web sitesinden doğrudan sipariş vermek](/tr/ordering/how-to-buy) daha basit olabilir. Ancak KakoBuy, siparişleri birleştirdiğinizde veya satıcının ödeme yöntemleri (kripto, AliPay, banka havalesi) sizin için işe yaramadığında öne çıkar — KakoBuy normal kredi/banka kartlarını, PayPal, Apple Pay ve Google Pay'i kabul eder.
+Tek bir çift AirPods'u KakoBuy üzerinden tek başına göndermek ucuz değildir — ülkenize ve gönderi hattına bağlı olarak genellikle **20 USD** civarındadır. Sadece AirPods alıyorsanız, [bir satıcının web sitesinden doğrudan sipariş vermek](/tr/ordering/how-to-buy) daha basit olabilir. Ancak KakoBuy, siparişleri birleştirdiğinizde veya satıcının ödeme yöntemleri (kripto, AliPay, banka havalesi) sizin için işe yaramadığında öne çıkar — KakoBuy normal kredi/banka kartlarını, PayPal, Apple Pay ve Google Pay'i kabul eder.
 :::
 
 ## KakoBuy ve diğer alışveriş temsilcileri
@@ -98,7 +98,7 @@ KakoBuy, AirReps topluluğu tarafından yıllardır kullanılan meşru bir Çin 
 :::
 
 ::: details KakoBuy ile AirPods gönderimi ne kadar tutar?
-Tek bir çift AirPods için uluslararası gönderim beklenen maliyet **7–10 USD** arasındadır. Nihai maliyet varış ülkenize ve seçtiğiniz gönderi hattına bağlıdır — ekspres hatlar (DHL, FedEx) daha pahalıdır, oysa KakoBuy'ın **Triangle Shipping** hattı kargo ücretine KDV'yi dahil eder, böylece varışta ekstra bir ödeme yapmanız gerekmez. Birden fazla öğeyi tek pakette birleştirmek parça başına düşen gönderim maliyetini önemli ölçüde düşürür; bu, insanların temsilci kullanmasının başlıca sebeplerinden biridir.
+Tek bir çift AirPods'u tek başına göndermek genellikle **20 USD** civarında tutar — tek bir küçük ürün için temsilciler ucuz değildir. Nihai maliyet varış ülkenize ve seçtiğiniz gönderi hattına bağlıdır — ekspres hatlar (DHL, FedEx) daha pahalıdır, oysa KakoBuy'ın **Triangle Shipping** hattı kargo ücretine KDV'yi dahil eder, böylece varışta ekstra bir ödeme yapmanız gerekmez. Birden fazla öğeyi tek pakette birleştirmek parça başına düşen gönderim maliyetini önemli ölçüde düşürür; bu, insanların temsilci kullanmasının başlıca sebeplerinden biridir.
 :::
 
 ::: details KakoBuy KYC doğrulaması gerektiriyor mu?
