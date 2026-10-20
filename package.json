@@ -24,7 +24,7 @@
   "devDependencies": {
     "@biomejs/biome": "^2.5.15",
     "@resvg/resvg-js": "^2.6.2",
-    "fs-extra": "^11.4.0",
+    "fs-extra": "^11.4.1",
     "gray-matter": "^4.0.3",
     "image-size": "^2.0.2",
     "openai": "^7.32.0",
