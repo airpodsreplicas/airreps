@@ -99,6 +99,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Order from',
         allSellerLinks: 'All seller links',
         sellerUnavailable: 'No current listing from this seller. Check the other sellers below.',
+        onlySeller: 'The only seller with this version right now.',
         comparePayments: 'Compare payment methods',
         bestPrices: 'Best prices',
         fastestShipping: 'Fastest shipping',
@@ -197,6 +198,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Pedir en',
         allSellerLinks: 'Todos los enlaces',
         sellerUnavailable: 'Este vendedor no tiene un anuncio disponible. Consulta los demás vendedores abajo.',
+        onlySeller: 'El único vendedor que tiene esta versión ahora mismo.',
         comparePayments: 'Comparar m\u00e9todos de pago',
         bestPrices: 'Mejores precios',
         fastestShipping: 'Env\u00edo m\u00e1s r\u00e1pido',
@@ -295,6 +297,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Pedir na',
         allSellerLinks: 'Todos os links',
         sellerUnavailable: 'Este vendedor não tem um anúncio disponível. Confira os outros vendedores abaixo.',
+        onlySeller: 'O único vendedor com esta versão no momento.',
         comparePayments: 'Comparar m\u00e9todos de pagamento',
         bestPrices: 'Melhores pre\u00e7os',
         fastestShipping: 'Envio mais r\u00e1pido',
@@ -393,6 +396,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Bestil fra',
         allSellerLinks: 'Alle s\u00e6lgerlinks',
         sellerUnavailable: 'Denne sælger har ingen aktuel produktside. Se de andre sælgere nedenfor.',
+        onlySeller: 'Den eneste sælger, der har denne version lige nu.',
         comparePayments: 'Sammenlign betalingsmetoder',
         bestPrices: 'Bedste priser',
         fastestShipping: 'Hurtigste forsendelse',
@@ -491,6 +495,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Commander chez',
         allSellerLinks: 'Tous les liens',
         sellerUnavailable: 'Aucune offre disponible chez ce vendeur. Consultez les autres vendeurs ci-dessous.',
+        onlySeller: 'Le seul vendeur qui propose cette version pour le moment.',
         comparePayments: 'Comparer les m\u00e9thodes de paiement',
         bestPrices: 'Meilleurs prix',
         fastestShipping: 'Livraison la plus rapide',
@@ -589,6 +594,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Zam\u00f3w w',
         allSellerLinks: 'Wszystkie linki',
         sellerUnavailable: 'Ten sprzedawca nie ma aktualnej oferty. Sprawdź pozostałych sprzedawców poniżej.',
+        onlySeller: 'Jedyny sprzedawca, który ma obecnie tę wersję.',
         comparePayments: 'Por\u00f3wnaj metody p\u0142atno\u015bci',
         bestPrices: 'Najlepsze ceny',
         fastestShipping: 'Najszybsza wysy\u0142ka',
@@ -741,6 +747,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: '\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0432',
         allSellerLinks: '\u0412\u0441\u0435 \u0441\u0441\u044b\u043b\u043a\u0438',
         sellerUnavailable: 'У этого продавца нет актуального предложения. Посмотрите других продавцов ниже.',
+        onlySeller: 'Сейчас эта версия есть только у этого продавца.',
         comparePayments:
             '\u0421\u0440\u0430\u0432\u043d\u0438\u0442\u044c \u0441\u043f\u043e\u0441\u043e\u0431\u044b \u043e\u043f\u043b\u0430\u0442\u044b',
         bestPrices: '\u041b\u0443\u0447\u0448\u0438\u0435 \u0446\u0435\u043d\u044b',
@@ -849,6 +856,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Bestellen bei',
         allSellerLinks: 'Alle Verk\u00e4ufer-Links',
         sellerUnavailable: 'Für diesen Verkäufer gibt es kein aktuelles Angebot. Sieh dir unten die anderen Verkäufer an.',
+        onlySeller: 'Derzeit der einzige Verkäufer mit dieser Version.',
         comparePayments: 'Zahlungsmethoden vergleichen',
         bestPrices: 'Beste Preise',
         fastestShipping: 'Schnellster Versand',
@@ -947,6 +955,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Sipari\u015f ver:',
         allSellerLinks: 'T\u00fcm sat\u0131c\u0131 linkleri',
         sellerUnavailable: 'Bu satıcıda güncel bir ürün ilanı yok. Aşağıdaki diğer satıcılara bakın.',
+        onlySeller: 'Şu anda bu sürümü satan tek satıcı.',
         comparePayments: '\u00d6deme y\u00f6ntemlerini kar\u015f\u0131la\u015ft\u0131r',
         bestPrices: 'En iyi fiyatlar',
         fastestShipping: 'En h\u0131zl\u0131 kargo',
@@ -972,7 +981,7 @@ function t(key: string): string {
 
 // --- Direct product links per seller ---
 // A seller key is omitted when that seller doesn't stock the product —
-// Missing listings send the reader to the product’s seller section.
+// The quiz then recommends a seller that does list it (see recommendedSeller).
 const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: string }> = {
     'pro2-v5.4-huilian': {
         earhive: 'https://airreps.link/eprov54hl',
@@ -1254,7 +1263,8 @@ const rotatedSellers = [...sellerOrder.slice(dayIndex), ...sellerOrder.slice(0, 
 const rotatedDefault = rotatedSellers[0].seller;
 
 // --- Seller recommendation ---
-const recommendedSeller = computed(() => {
+// The seller the answers point to, before checking whether it lists the product
+const preferredSeller = computed(() => {
     const { ordering, sellerPriority, payment } = answers.value;
 
     if (ordering === 'agent' || ordering === 'direct') {
@@ -1577,13 +1587,12 @@ const srAnnouncement = computed(() => {
     return q ? `${t('step')} ${currentStep.value + 1}: ${q.question}` : '';
 });
 
-// Get direct product link for the recommended seller
-const directProductLink = computed(() => {
-    if (!(product.value && recommendedSeller.value)) {
+function sellerLink(seller: (typeof sellers)[keyof typeof sellers] | null) {
+    if (!(product.value && seller)) {
         return null;
     }
     const sellerKey = Object.keys(sellers).find(
-        (k) => sellers[k as keyof typeof sellers] === recommendedSeller.value
+        (k) => sellers[k as keyof typeof sellers] === seller
     ) as keyof typeof sellers | undefined;
     if (!sellerKey) {
         return null;
@@ -1593,7 +1602,27 @@ const directProductLink = computed(() => {
         return null;
     }
     return links[sellerKey] || null;
+}
+
+// When the preferred seller has no listing for the pick (e.g. the HiCity-only
+// Pro 3 V7 TigerBuilder), send the reader to a seller that has one, in today's
+// rotation order, instead of a dead end
+const recommendedSeller = computed(() => {
+    const preferred = preferredSeller.value;
+    if (!preferred || sellerLink(preferred)) {
+        return preferred;
+    }
+    return rotatedSellers.find((s) => sellerLink(s.seller))?.seller ?? preferred;
 });
+
+const isOnlySeller = computed(
+    () =>
+        recommendedSeller.value !== preferredSeller.value &&
+        rotatedSellers.filter((s) => sellerLink(s.seller)).length === 1
+);
+
+// Get direct product link for the recommended seller
+const directProductLink = computed(() => sellerLink(recommendedSeller.value));
 
 function productToLinksPage(): LinksPageKey {
     return product.value?.linksPageKey ?? 'airpods-pro-2';
@@ -1701,7 +1730,7 @@ function restart() {
           <a v-if="directProductLink" :href="recommendedSeller.weidian" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ recommendedSeller.name }} {{ t('weidianStore') }}
           </a>
-          <p v-if="directProductLink" class="quiz-seller-note">{{ recommendedSeller.strength }}</p>
+          <p v-if="directProductLink" class="quiz-seller-note">{{ isOnlySeller ? t('onlySeller') : recommendedSeller.strength }}</p>
           <p v-else class="quiz-seller-note">{{ t('sellerUnavailable') }}</p>
           <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer" class="quiz-buy-link kakobuy">
             {{ t('kakobuySignup') }}
@@ -1716,7 +1745,7 @@ function restart() {
           <a v-if="directProductLink" :href="directProductLink" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ t('orderFrom') }} {{ recommendedSeller.name }}
           </a>
-          <p v-if="directProductLink" class="quiz-seller-note">{{ recommendedSeller.strength }}</p>
+          <p v-if="directProductLink" class="quiz-seller-note">{{ isOnlySeller ? t('onlySeller') : recommendedSeller.strength }}</p>
           <p v-else class="quiz-seller-note">{{ t('sellerUnavailable') }}</p>
           <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allSellerLinks') }} &rarr;
