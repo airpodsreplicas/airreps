@@ -1449,7 +1449,7 @@ const product = computed<ProductRec | null>(() => {
             reasons: [
                 'Newest AirPods Pro 3 form factor with almost 1:1 hinge',
                 'Heart rate sensor, head gestures, conversation awareness, adaptive ANC, multipoint for 3 devices',
-                "iOS popup and serial number are seller-added — don't update the firmware if you want to keep them (uses the FlyCC app)",
+                'No iOS popup or serial number yet — the seller tried to add them in an update, but it failed; a future update may add them (uses the FlyCC app)',
                 'Early release — check the version page for current community sentiment before buying',
                 `Also consider: V7 Huilian ($${prices['pro3-v7-huilian']}) for iCloud Connect & Live Translation, or Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — even better ANC for less`,
             ],
