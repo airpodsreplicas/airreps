@@ -8,7 +8,7 @@ description: "Compare AirPods Pro 3 replica versions (V7, SE, V6, V5.5) by chip,
 **Quick verdict:** the Jenny-exclusive **SE** is the standout value pick of the Pro 3 series — built on the XiaoBai chipset, it delivers the strongest ANC tested on any replica (beating even the pricier V7), flawless head-tracking spatial audio, real-time translation, and built-in heart rate monitoring for just $48. For most buyers choosing between the SE and the V7, the SE comes out well ahead on value and everyday listening — see the [SE overview](#se-overview). The **V6 Huilian** remains the pick if you want iCloud Connect and multi-device switching. The **V7** wins if fitness-grade heart rate accuracy, head gesture answering, or conversation awareness are must-haves — the **TigerBuilder** is the newest and best V7 build, with the Huilian as the runner-up — but check the early-release notes first. On a tight budget, the **V5.5** has the Pro 3 look for less. See the [purchase links](/links/airpods-pro-3) for all versions.
 
 ::: tip Shared Pro 3 Baseline
-All Pro 3 models include: USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, Pro 3 iOS popup (on the TigerBuilder V7 it may stop working after a firmware update), and iOS 27 support.
+All Pro 3 models include: USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, Pro 3 iOS popup (not on the TigerBuilder V7), and iOS 27 support.
 *(Note: No replica supports Apple's encrypted Find My network.)*
 :::
 
@@ -28,13 +28,13 @@ Click any version badge to find community reviews for that model.
 | **Price / Value Tier** | ~$68–$75 (Flagship) | ~$48 (Top Value Pick) | ~$38–$45 (Mid-tier) | ~$25–$30 (Budget) |
 | **Detailed Overview** | [V7 Overview](#v7-overview) | [SE Overview](#se-overview) | — | — |
 
-*⚠️ Pro 3 V7 (TigerBuilder version only): now comes with the iOS popup and serial number, added by the seller — but they may stop working after a firmware update, so don't update the firmware if you want to keep them. It still uses the FlyCC app. The Huilian V7 is not affected.*
+*⚠️ Pro 3 V7 (TigerBuilder version only): currently no iOS popup and no serial number — the seller tried to add them in an update, but it didn't work; a future update may add them. It uses the FlyCC app instead — not for everyone. The Huilian V7 is not affected.*
 
 ## V7 Overview {#v7-overview}
 
 V7 is the newest AirPods Pro 3 replica and comes in two builds: the **TigerBuilder** — the newest and best V7 — and the **Huilian**.
 
-**TigerBuilder** is the newest and best V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ The iOS popup and serial number are added by the seller and may stop working after a firmware update — don't update the firmware if you want to keep them. It uses the FlyCC app; the Huilian V7 is not affected. It's sold by HiCity — see the [purchase links](/links/airpods-pro-3).
+**TigerBuilder** is the newest and best V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ It currently has no iOS popup and no serial number — the seller tried to add them in an update, but it didn't work; a future update may add them. It uses the FlyCC app instead — not for everyone; the Huilian V7 is not affected. It's sold by HiCity — see the [purchase links](/links/airpods-pro-3).
 
 The **Huilian** is the original V7 build, based on the Huilian 377H3 chipset. It introduces a heart rate sensor, head gesture controls for answering calls, AI Hybrid ANC, working head-tracking spatial audio, and a low-latency gaming mode. The 45mAh earbuds are rated around 7 hours of playback, and the 500mAh case delivers 3–4 full charges. Pick it over the TigerBuilder if you want iCloud Connect, real-time translation, and the Starfun app.
 
