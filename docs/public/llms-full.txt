@@ -772,6 +772,7 @@ For Mac users:
 - Most features: AirPods Pro 2 V5.4 Huilian ($58) -- iCloud Connect, adaptive audio, conversation awareness, OTA updates
 - Best value: AirPods Pro 3 V6 Huilian ($43) -- Newest Pro form factor, iCloud Connect, Live Translation
 - Best ANC for Mac: AirPods Pro 2 V5.3 Huilian ($56) -- Flawless macOS support, iCloud switching
+- Latest design: AirPods Pro 3 V7 Huilian ($67) -- Newest Pro 3 with iCloud Connect, heart rate sensor, head gestures; the V7 TigerBuilder ($68, HiCity-only) is the newest and best V7 build but has no iCloud Connect
 
 For non-Mac users:
 - Best ANC (bass-heavy): AirPods Pro 2 V5.3 TB ($55) -- Highest ANC (34.5 dB avg, 41 dB peak), 8h battery, community favorite

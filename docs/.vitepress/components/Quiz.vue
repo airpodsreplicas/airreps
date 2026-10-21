@@ -1418,8 +1418,29 @@ const product = computed<ProductRec | null>(() => {
 
     // --- In-ear logic ---
 
-    // In-ear: latest -> Pro 3 V7 TigerBuilder (newest and best V7 build; Huilian V7 is the runner-up)
+    // In-ear: latest -> Pro 3 V7 TigerBuilder (newest and best V7 build; Huilian V7 is the runner-up).
+    // Mac users get the Huilian V7 instead — the TigerBuilder has no iCloud Connect.
     if (priority === 'latest') {
+        if (needsMac.value) {
+            return {
+                title: 'AirPods Pro 3 V7 Huilian',
+                linksPageKey: 'airpods-pro-3',
+                subtitle: 'Huilian 377H3 — Newest Pro 3 with iCloud Connect',
+                priceKey: 'pro3-v7-huilian',
+                reasons: [
+                    'Newest AirPods Pro 3 form factor with iCloud Connect for Mac/iPhone switching',
+                    'Heart rate sensor, head gestures, AI Hybrid ANC, Live Translation, Starfun app',
+                    'Early release — check the version page for current community sentiment before buying',
+                    `Also consider: V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) — the newest and best V7 build, but no iCloud Connect`,
+                ],
+                links: [
+                    { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
+                    { text: 'Features Overview', url: '/introduction/features' },
+                    { text: 'Connectivity Details', url: '/introduction/connectivity' },
+                    { text: 'Battery Life', url: '/introduction/battery-life' },
+                ],
+            };
+        }
         return {
             title: 'AirPods Pro 3 V7 TigerBuilder',
             linksPageKey: 'airpods-pro-3',
@@ -1524,6 +1545,11 @@ const product = computed<ProductRec | null>(() => {
                 ...(useCase === 'gym'
                     ? ['Sweatproof design, durable build — great for workouts']
                     : []),
+                ...(priority === 'anc'
+                    ? [
+                          `Want the newest instead? Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) adds adaptive ANC, heart rate sensor & head gestures (early release)`,
+                      ]
+                    : []),
             ],
             links: [
                 { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
@@ -1544,6 +1570,7 @@ const product = computed<ProductRec | null>(() => {
                 'Almost 1:1 hinge, improved ANC over older Huilian',
                 'The newest Pro 2 variant with the most features',
                 'Closest-to-retail experience available',
+                `Also consider: Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) — newest Pro 3 with heart rate sensor, head gestures & conversation awareness, but no iCloud Connect`,
             ],
             links: [
                 { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
@@ -1564,7 +1591,7 @@ const product = computed<ProductRec | null>(() => {
             `Pro 3 form factor at just $${prices['pro3-v5.5']}`,
             'Decent ANC, transparency mode, iOS 26 popup',
             `Step up to V6 TB ($${prices['pro3-v6-tb']}) for stronger ANC and better build`,
-            `Also consider: AirPods 2 V3E ($${prices['gen2-v3e']}) for ultra-budget`,
+            `Also consider: AirPods 2 V3E ($${prices['gen2-v3e']}) for ultra-budget, or the flagship V7 TigerBuilder ($${prices['pro3-v7-tb']}) — the newest and best Pro 3`,
         ],
         links: [
             { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
