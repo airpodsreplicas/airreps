@@ -2,7 +2,12 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { imageSize } from 'image-size';
-import { type DefaultTheme, defineConfig } from 'vitepress';
+import {
+    type DefaultTheme,
+    defineConfigWithTheme,
+    type HeadConfig,
+    type PageData,
+} from 'vitepress';
 import { createPageDates } from './page-dates';
 import { productFamiliesPlugin } from './plugins/product-families';
 import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
@@ -703,8 +708,23 @@ function metaTag(
 const redditIcon =
     '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Reddit</title><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg>';
 
+// The synthetic not-found page bypasses Markdown compilation. Share its exact
+// head with the client router so VitePress can manage and remove those tags too.
+const synthetic404Page: PageData = {
+    description: 'Not Found',
+    filePath: '',
+    frontmatter: { layout: 'page', sidebar: false },
+    headers: [],
+    isNotFound: true,
+    lastUpdated: 0,
+    relativePath: '404.md',
+    title: '404',
+};
+updatePageMetadata(synthetic404Page);
+const synthetic404Head: HeadConfig[] = synthetic404Page.frontmatter.head;
+
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: HeadConfig[] }>({
     base: '/',
     buildEnd: (site) => writeProductRedirects(site.outDir),
     cleanUrls: true,
@@ -1060,455 +1080,17 @@ export default defineConfig({
                 link: 'https://reddit.com/r/airreps',
             },
         ],
+        synthetic404Head,
     },
     title: 'AirReps',
-
-    // Dynamically inject hreflang tags, localized OG meta, and JSON-LD into every page
+    // VitePress generates its synthetic 404 after compiling Markdown, so that
+    // page does not pass through transformPageData. Use the same head as the
+    // client fallback without mutating the build context or duplicating real pages.
     transformHead: ({ pageData }) => {
-        const { relativePath, frontmatter } = pageData;
-        const oldPath = `/${relativePath.replace(/\.md$/, '')}`;
-        const destination = productDestination(oldPath);
-        if (destination) {
-            return [
-                metaTag('robots', 'noindex, follow', 'name'),
-                [
-                    'link',
-                    {
-                        href: `https://airpodsreplicas.com${destination.split('#')[0]}`,
-                        rel: 'canonical',
-                    },
-                ],
-                ['script', {}, productRedirectScript(oldPath)],
-                ['meta', { content: `0; url=${destination}`, 'http-equiv': 'refresh' }],
-            ];
+        if (pageData.filePath || pageData.relativePath !== '404.md') {
+            return [];
         }
-        // Remove locale prefix from path to get base path
-        let basePath = relativePath.replace(/\.md$/, '');
-        if (basePath === 'index') {
-            basePath = '';
-        }
-
-        // Detect current locale
-        let currentLocale = 'en';
-        for (const locale of SUPPORTED_LOCALES) {
-            if (basePath.startsWith(`${locale}/`)) {
-                currentLocale = locale;
-                basePath = basePath.replace(`${locale}/`, '');
-                break;
-            }
-        }
-
-        // Locale homepages end up as 'index' after stripping — normalize to ''.
-        // Section indexes (e.g. articles/index) canonicalise to their directory
-        // URL with a trailing slash, matching the sitemap loc.
-        if (basePath === 'index') {
-            basePath = '';
-        } else if (basePath.endsWith('/index')) {
-            basePath = basePath.slice(0, -'index'.length);
-        }
-
-        // Flag emojis for each locale
-        const localeFlags: Record<string, string> = {
-            da: '🇩🇰',
-            de: '🇩🇪',
-            en: '🎧',
-            es: '🇪🇸',
-            fr: '🇫🇷',
-            pl: '🇵🇱',
-            pt: '🇧🇷',
-            ru: '🇷🇺',
-            tr: '🇹🇷',
-        };
-
-        // Default OG metadata with flag emojis (used as fallback)
-        const ogMetaDefaults: Record<string, { title: string; description: string }> = {
-            da: {
-                description:
-                    'Et fællesskab for diskussion og udforskning af AirPods-kloner. Opdag overkommelige alternativer og tjek vores Ultimative Guide for detaljerede indsigter. Begynd at udforske verden af AirPods-kloner i dag!',
-                title: 'AirReps | Ultimativ Guide',
-            },
-            de: {
-                description:
-                    'Eine Community für die Diskussion und Erkundung von AirPods-Klonen. Entdecke erschwingliche Alternativen und lies unseren Ultimativen Leitfaden für detaillierte Einblicke. Entdecke noch heute die Welt der AirPods-Klone!',
-                title: 'AirReps | Ultimativer Leitfaden',
-            },
-            en: {
-                description:
-                    'A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!',
-                title: 'AirReps | Ultimate Guide',
-            },
-            es: {
-                description:
-                    'Una comunidad para la discusión y exploración de clones de AirPods. Descubre alternativas asequibles y consulta nuestra Guía Definitiva para información detallada. ¡Comienza a explorar el mundo de los clones de AirPods hoy!',
-                title: 'AirReps | Guía Definitiva',
-            },
-            fr: {
-                description:
-                    "Une communauté pour la discussion et l'exploration des clones AirPods. Découvrez des alternatives abordables et consultez notre Guide Ultime pour des informations détaillées. Commencez à explorer le monde des clones AirPods dès aujourd'hui!",
-                title: 'AirReps | Guide Ultime',
-            },
-            pl: {
-                description:
-                    'Społeczność do dyskusji i odkrywania klonów AirPods. Odkryj przystępne cenowo alternatywy i sprawdź nasz Kompletny Przewodnik po szczegółowe informacje. Zacznij odkrywać świat klonów AirPods już dziś!',
-                title: 'AirReps | Kompletny Przewodnik',
-            },
-            pt: {
-                description:
-                    'Uma comunidade para discussão e exploração de clones de AirPods. Descubra alternativas acessíveis e confira nosso Guia Definitivo para insights detalhados. Comece a explorar o mundo dos clones de AirPods hoje!',
-                title: 'AirReps | Guia Definitivo',
-            },
-            ru: {
-                description:
-                    'Сообщество для обсуждения и изучения клонов AirPods. Откройте для себя доступные альтернативы и ознакомьтесь с нашим Полным Руководством для подробной информации. Начните исследовать мир клонов AirPods уже сегодня!',
-                title: 'AirReps | Полное Руководство',
-            },
-            tr: {
-                description:
-                    'AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk. Uygun fiyatlı alternatifleri keşfedin ve detaylı bilgiler için Kapsamlı Rehberimize göz atın. AirPods klonlarının dünyasını bugün keşfetmeye başlayın!',
-                title: 'AirReps | Kapsamlı Rehber',
-            },
-        };
-
-        const defaults = ogMetaDefaults[currentLocale] || ogMetaDefaults.en;
-        const flag = localeFlags[currentLocale] || '🎧';
-
-        // Use page-specific title if available, otherwise fall back to locale defaults
-        // pageData.title is auto-populated by VitePress from the H1 heading.
-        // Two variants: clean (for <title>, JSON-LD, breadcrumbs — what Google reads)
-        // and social (with flag emoji prefix, for og:title/twitter:title link previews).
-        const title = frontmatter.title || pageData.title;
-        const pageTitleClean = title && title !== 'AirReps' ? `${title} | AirReps` : defaults.title;
-        const pageTitleSocial = `${flag} ${pageTitleClean}`;
-        const pageDescription = frontmatter.description || defaults.description;
-
-        // Root canonicals keep the trailing slash so they match the sitemap loc.
-        const canonicalBase = basePath ? `/${basePath}` : '/';
-        const localePrefix = currentLocale === 'en' ? '' : `/${currentLocale}`;
-        const pageUrl = `https://airpodsreplicas.com${localePrefix}${canonicalBase}`;
-
-        // OG Image Path — use the generated OG image for this page, falling back
-        // to the homepage image if it hasn't been generated yet (e.g. a new page
-        // added before the next `generate-og` run). Mirrors the sitemap's guard.
-        const ogImageSlug = relativePath.replace(/\.md$/, '');
-        const ogImageOnDisk = fs.existsSync(path.join(ogImagesDir, `${ogImageSlug}.png`));
-        const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageOnDisk ? ogImageSlug : 'index'}.png?v=${BRANDING_VERSION}`;
-
-        // Section detection — drives breadcrumbs and per-section schema @type
-        const sectionMap: Record<string, string> = {
-            articles: 'Articles',
-            introduction: 'Ultimate Guide',
-            links: 'Purchase Links',
-            ordering: 'Ordering',
-            troubleshooting: 'Troubleshooting',
-            'version-info': 'Version Info',
-        };
-        const pathSegments = basePath.split('/').filter(Boolean);
-        const sectionSlug = pathSegments.length > 1 ? pathSegments[0] : null;
-        const sectionName = sectionSlug ? sectionMap[sectionSlug] : null;
-        // Map each section to its real hub page so the position-2 breadcrumb
-        // links somewhere that exists — the bare `/links/`, `/troubleshooting/`
-        // etc. section roots have no page and return 404.
-        const sectionHubs: Record<string, string> = {
-            articles: 'articles/',
-            introduction: 'introduction/overview',
-            links: 'links/info',
-            ordering: 'ordering/how-to-buy',
-            troubleshooting: 'troubleshooting/other-common-bugs',
-            'version-info': 'version-info/general',
-        };
-        const sectionUrl =
-            sectionSlug && sectionHubs[sectionSlug]
-                ? `https://airpodsreplicas.com${localePrefix}/${sectionHubs[sectionSlug]}`
-                : null;
-
-        const isHome = basePath === '';
-        const isTroubleshooting =
-            sectionSlug === 'troubleshooting' ||
-            (sectionSlug === 'articles' &&
-                (basePath.includes('wont-connect') ||
-                    basePath.includes('reset') ||
-                    basePath.includes('how-to-spot')));
-        const isLinksPage = sectionSlug === 'links';
-
-        // Multi-level breadcrumb (Home > Section > Page)
-        const breadcrumbItems: Array<{
-            '@type': 'ListItem';
-            position: number;
-            name: string;
-            item: string;
-        }> = [
-            {
-                '@type': 'ListItem',
-                item: `https://airpodsreplicas.com${localePrefix}/`,
-                name: 'Home',
-                position: 1,
-            },
-        ];
-        if (sectionName && sectionUrl) {
-            breadcrumbItems.push({
-                '@type': 'ListItem',
-                item: sectionUrl,
-                name: sectionName,
-                position: 2,
-            });
-        }
-        if (!isHome) {
-            breadcrumbItems.push({
-                '@type': 'ListItem',
-                item: pageUrl,
-                name: title || 'Page',
-                position: breadcrumbItems.length + 1,
-            });
-        }
-
-        const organizationNode = {
-            '@id': 'https://airpodsreplicas.com/#organization',
-            '@type': 'Organization',
-            alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
-            description:
-                'AirReps is the largest community for AirPods replicas, covering which models to buy, trusted sellers, version comparisons, features, sound quality, and troubleshooting.',
-            knowsAbout: [
-                'AirPods replicas',
-                'AirPods Pro 2 replicas',
-                'AirPods Pro 3 replicas',
-                'AirPods 4 replicas',
-                'AirPods Max replicas',
-                'replica earbuds',
-                'AirPods clones',
-            ],
-            logo: {
-                '@type': 'ImageObject',
-                url: `https://airpodsreplicas.com/logo.webp?v=${BRANDING_VERSION}`,
-            },
-            name: 'AirReps',
-            sameAs: [
-                'https://reddit.com/r/airreps',
-                'https://airreps.link/discord',
-                'https://github.com/AirPodsReplicas/AirReps',
-            ],
-            url: 'https://airpodsreplicas.com',
-        };
-
-        const dateModified = pageData.lastUpdated
-            ? new Date(pageData.lastUpdated).toISOString()
-            : new Date().toISOString();
-        const datePublished = pageDates.published(path.join(docsDir, relativePath)) ?? dateModified;
-
-        // JSON-LD graph nodes
-        const websiteNode = {
-            '@id': 'https://airpodsreplicas.com/#website',
-            '@type': 'WebSite',
-            alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
-            description: defaults.description,
-            inLanguage: ['en', ...SUPPORTED_LOCALES],
-            name: 'AirReps',
-            publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
-            url: 'https://airpodsreplicas.com',
-        };
-
-        const breadcrumbNode = {
-            '@id': `${pageUrl}#breadcrumb`,
-            '@type': 'BreadcrumbList',
-            itemListElement: breadcrumbItems,
-        };
-
-        const homeNode = {
-            '@id': `${pageUrl}#webpage`,
-            '@type': 'WebPage',
-            dateModified,
-            description: pageDescription,
-            inLanguage: currentLocale,
-            isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
-            name: pageTitleClean,
-            url: pageUrl,
-        };
-
-        const articleNode = {
-            '@id': `${pageUrl}#article`,
-            '@type': isTroubleshooting ? 'TechArticle' : 'Article',
-            breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
-            description: pageDescription,
-            headline: pageTitleClean,
-            image: ogImageUrl,
-            inLanguage: currentLocale,
-            isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
-            mainEntityOfPage: pageUrl,
-            thumbnailUrl: ogImageUrl,
-            url: pageUrl,
-            ...(sectionName ? { articleSection: sectionName } : {}),
-            author: { '@id': 'https://airpodsreplicas.com/#organization' },
-            dateModified,
-            datePublished,
-            publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
-        };
-
-        // /links/* pages are seller directories. CollectionPage + ItemList of
-        // trusted-seller Organizations describes them more honestly than Article
-        // and surfaces the commercial intent to search engines.
-        const linksPageSellers = isLinksPage
-            ? getSellersOnLinksPage(path.join(docsDir, relativePath))
-            : [];
-        const linksCollectionNode =
-            isLinksPage && linksPageSellers.length
-                ? {
-                      '@id': `${pageUrl}#webpage`,
-                      '@type': 'CollectionPage',
-                      breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
-                      dateModified,
-                      description: pageDescription,
-                      inLanguage: currentLocale,
-                      isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
-                      mainEntity: {
-                          '@type': 'ItemList',
-                          itemListElement: linksPageSellers.map((seller, i) => ({
-                              '@type': 'ListItem',
-                              item: {
-                                  '@type': 'Organization',
-                                  name: seller.name,
-                                  url: seller.url,
-                              },
-                              position: i + 1,
-                          })),
-                      },
-                      name: pageTitleClean,
-                      url: pageUrl,
-                  }
-                : null;
-
-        const mainPageNode = isHome
-            ? homeNode
-            : linksCollectionNode
-              ? linksCollectionNode
-              : articleNode;
-
-        const schema = {
-            '@context': 'https://schema.org',
-            '@graph': [organizationNode, websiteNode, breadcrumbNode, mainPageNode],
-        };
-
-        return [
-            // Hreflang tags for SEO
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com${canonicalBase}`,
-                    hreflang: 'en',
-                    rel: 'alternate',
-                },
-            ],
-            ...SUPPORTED_LOCALES.map((locale) => [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com/${locale}${canonicalBase}`,
-                    hreflang: locale,
-                    rel: 'alternate',
-                },
-            ]),
-            [
-                'link',
-                {
-                    href: `https://airpodsreplicas.com${canonicalBase}`,
-                    hreflang: 'x-default',
-                    rel: 'alternate',
-                },
-            ],
-            ['link', { href: pageUrl, rel: 'canonical' }],
-            // Localized Open Graph meta tags — social previews keep the flag emoji.
-            metaTag('og:site_name', 'AirReps'),
-            metaTag('og:title', pageTitleSocial),
-            metaTag('og:type', isHome ? 'website' : 'article'),
-            metaTag('og:url', pageUrl),
-            metaTag('og:description', pageDescription),
-            metaTag('og:image', ogImageUrl),
-            metaTag('og:image:width', '1200'),
-            metaTag('og:image:height', '630'),
-            metaTag('og:image:alt', pageTitleSocial),
-            metaTag('og:image:type', 'image/png'),
-            [
-                'meta',
-                {
-                    content:
-                        {
-                            da: 'da_DK',
-                            de: 'de_DE',
-                            en: 'en_US',
-                            es: 'es_ES',
-                            fr: 'fr_FR',
-                            pl: 'pl_PL',
-                            pt: 'pt_BR',
-                            ru: 'ru_RU',
-                            tr: 'tr_TR',
-                        }[currentLocale] || 'en_US',
-                    property: 'og:locale',
-                },
-            ],
-            // og:locale:alternate for every other supported locale.
-            // `content` listed first so VitePress's mergeHead dedupe (which keys on the
-            // first attribute) doesn't collapse these eight tags into one.
-            ...(Object.entries({
-                da: 'da_DK',
-                de: 'de_DE',
-                en: 'en_US',
-                es: 'es_ES',
-                fr: 'fr_FR',
-                pl: 'pl_PL',
-                pt: 'pt_BR',
-                ru: 'ru_RU',
-                tr: 'tr_TR',
-            })
-                .filter(([locale]) => locale !== currentLocale)
-                .map(([, ogLocale]) => [
-                    'meta',
-                    { content: ogLocale, property: 'og:locale:alternate' },
-                ]) as [string, Record<string, string>][]),
-            // Twitter Card meta tags (Twitter spec uses name=, not property=)
-            metaTag('twitter:card', 'summary_large_image', 'name'),
-            metaTag('twitter:url', pageUrl, 'name'),
-            metaTag('twitter:title', pageTitleSocial, 'name'),
-            metaTag('twitter:description', pageDescription, 'name'),
-            metaTag('twitter:image', ogImageUrl, 'name'),
-            metaTag('twitter:image:alt', pageTitleSocial, 'name'),
-            // JSON-LD
-            ['script', { type: 'application/ld+json' }, JSON.stringify(schema)],
-            // FAQ JSON-LD — manual `faq:` frontmatter wins; otherwise auto-extracted
-            // from `::: details Question?` blocks in the source markdown
-            ...(() => {
-                const manualFaqs =
-                    (frontmatter.faq as Array<{ q: string; a: string }> | undefined) ?? [];
-                // Merge instead of either/or: manual `faq:` frontmatter entries
-                // win, then append any auto-extracted `::: details Question?`
-                // blocks not already covered (deduped case-insensitively on the
-                // question) so hand-authored and inline FAQs both reach schema.
-                const seenQuestions = new Set(manualFaqs.map((f) => f.q.trim().toLowerCase()));
-                const faqs = [
-                    ...manualFaqs,
-                    ...extractFaqsFromMarkdown(path.join(docsDir, relativePath)).filter(
-                        (f) => !seenQuestions.has(f.q.trim().toLowerCase())
-                    ),
-                ];
-                if (!faqs.length) {
-                    return [];
-                }
-                return [
-                    [
-                        'script',
-                        { type: 'application/ld+json' },
-                        JSON.stringify({
-                            '@context': 'https://schema.org',
-                            '@type': 'FAQPage',
-                            mainEntity: faqs.map((item) => ({
-                                '@type': 'Question',
-                                acceptedAnswer: {
-                                    '@type': 'Answer',
-                                    text: item.a,
-                                },
-                                name: item.q,
-                            })),
-                        }),
-                    ],
-                ] as [string, Record<string, string>, string][];
-            })(),
-        ];
+        return synthetic404Head;
     },
 
     // Add loading="lazy" + decoding="async" to every <img> in rendered HTML
@@ -1555,18 +1137,469 @@ export default defineConfig({
                 '<div role="main" class="VPContent is-home"'
             ),
 
-    // VitePress dates a page by its own file, but family pages are assembled
-    // from includes. Use the newest commit across the page and its includes so
-    // the sitemap lastmod and Article.dateModified (both read lastUpdated) move
-    // when included content does. An explicit frontmatter date still wins.
-    transformPageData: ({ filePath, frontmatter, lastUpdated }) => {
-        if (lastUpdated === undefined || frontmatter.lastUpdated instanceof Date) {
-            return;
-        }
-        return { lastUpdated: pageDates.lastUpdated(path.join(docsDir, filePath), lastUpdated) };
-    },
+    // Shared page data keeps direct-load and client-navigation metadata aligned.
+    transformPageData: updatePageMetadata,
 
     vite: {
         plugins: [redirectPlugin()],
     },
 });
+
+// Generate the same head entries for real page data and the synthetic 404.
+function updatePageMetadata(pageData: PageData): void {
+    // Resolve included content dates before computing Article.dateModified.
+    // Explicit frontmatter dates still win, and undated pages still get metadata.
+    if (pageData.lastUpdated !== undefined && !(pageData.frontmatter.lastUpdated instanceof Date)) {
+        pageData.lastUpdated = pageDates.lastUpdated(
+            path.join(docsDir, pageData.filePath),
+            pageData.lastUpdated
+        );
+    }
+    const { relativePath, frontmatter } = pageData;
+    const oldPath = `/${relativePath.replace(/\.md$/, '')}`;
+    const destination = productDestination(oldPath);
+    if (destination) {
+        frontmatter.head = [
+            ...(frontmatter.head ?? []),
+            metaTag('robots', 'noindex, follow', 'name'),
+            [
+                'link',
+                {
+                    href: `https://airpodsreplicas.com${destination.split('#')[0]}`,
+                    rel: 'canonical',
+                },
+            ],
+            ['script', {}, productRedirectScript(oldPath)],
+            ['meta', { content: `0; url=${destination}`, 'http-equiv': 'refresh' }],
+        ];
+        return;
+    }
+    // Remove locale prefix from path to get base path
+    let basePath = relativePath.replace(/\.md$/, '');
+    if (basePath === 'index') {
+        basePath = '';
+    }
+
+    // Detect current locale
+    let currentLocale = 'en';
+    for (const locale of SUPPORTED_LOCALES) {
+        if (basePath.startsWith(`${locale}/`)) {
+            currentLocale = locale;
+            basePath = basePath.replace(`${locale}/`, '');
+            break;
+        }
+    }
+
+    // Locale homepages end up as 'index' after stripping — normalize to ''.
+    // Section indexes (e.g. articles/index) canonicalise to their directory
+    // URL with a trailing slash, matching the sitemap loc.
+    if (basePath === 'index') {
+        basePath = '';
+    } else if (basePath.endsWith('/index')) {
+        basePath = basePath.slice(0, -'index'.length);
+    }
+
+    // Flag emojis for each locale
+    const localeFlags: Record<string, string> = {
+        da: '🇩🇰',
+        de: '🇩🇪',
+        en: '🎧',
+        es: '🇪🇸',
+        fr: '🇫🇷',
+        pl: '🇵🇱',
+        pt: '🇧🇷',
+        ru: '🇷🇺',
+        tr: '🇹🇷',
+    };
+
+    // Default OG metadata with flag emojis (used as fallback)
+    const ogMetaDefaults: Record<string, { title: string; description: string }> = {
+        da: {
+            description:
+                'Et fællesskab for diskussion og udforskning af AirPods-kloner. Opdag overkommelige alternativer og tjek vores Ultimative Guide for detaljerede indsigter. Begynd at udforske verden af AirPods-kloner i dag!',
+            title: 'AirReps | Ultimativ Guide',
+        },
+        de: {
+            description:
+                'Eine Community für die Diskussion und Erkundung von AirPods-Klonen. Entdecke erschwingliche Alternativen und lies unseren Ultimativen Leitfaden für detaillierte Einblicke. Entdecke noch heute die Welt der AirPods-Klone!',
+            title: 'AirReps | Ultimativer Leitfaden',
+        },
+        en: {
+            description:
+                'A community for the discussion and exploration of AirPods clones. Discover affordable alternatives and check out our Ultimate Guide for detailed insights. Start exploring the world of AirPods clones today!',
+            title: 'AirReps | Ultimate Guide',
+        },
+        es: {
+            description:
+                'Una comunidad para la discusión y exploración de clones de AirPods. Descubre alternativas asequibles y consulta nuestra Guía Definitiva para información detallada. ¡Comienza a explorar el mundo de los clones de AirPods hoy!',
+            title: 'AirReps | Guía Definitiva',
+        },
+        fr: {
+            description:
+                "Une communauté pour la discussion et l'exploration des clones AirPods. Découvrez des alternatives abordables et consultez notre Guide Ultime pour des informations détaillées. Commencez à explorer le monde des clones AirPods dès aujourd'hui!",
+            title: 'AirReps | Guide Ultime',
+        },
+        pl: {
+            description:
+                'Społeczność do dyskusji i odkrywania klonów AirPods. Odkryj przystępne cenowo alternatywy i sprawdź nasz Kompletny Przewodnik po szczegółowe informacje. Zacznij odkrywać świat klonów AirPods już dziś!',
+            title: 'AirReps | Kompletny Przewodnik',
+        },
+        pt: {
+            description:
+                'Uma comunidade para discussão e exploração de clones de AirPods. Descubra alternativas acessíveis e confira nosso Guia Definitivo para insights detalhados. Comece a explorar o mundo dos clones de AirPods hoje!',
+            title: 'AirReps | Guia Definitivo',
+        },
+        ru: {
+            description:
+                'Сообщество для обсуждения и изучения клонов AirPods. Откройте для себя доступные альтернативы и ознакомьтесь с нашим Полным Руководством для подробной информации. Начните исследовать мир клонов AirPods уже сегодня!',
+            title: 'AirReps | Полное Руководство',
+        },
+        tr: {
+            description:
+                'AirPods klonlarının tartışılması ve keşfedilmesi için bir topluluk. Uygun fiyatlı alternatifleri keşfedin ve detaylı bilgiler için Kapsamlı Rehberimize göz atın. AirPods klonlarının dünyasını bugün keşfetmeye başlayın!',
+            title: 'AirReps | Kapsamlı Rehber',
+        },
+    };
+
+    const defaults = ogMetaDefaults[currentLocale] || ogMetaDefaults.en;
+    const flag = localeFlags[currentLocale] || '🎧';
+
+    // Use page-specific title if available, otherwise fall back to locale defaults
+    // pageData.title is auto-populated by VitePress from the H1 heading.
+    // Two variants: clean (for <title>, JSON-LD, breadcrumbs — what Google reads)
+    // and social (with flag emoji prefix, for og:title/twitter:title link previews).
+    const title = frontmatter.title || pageData.title;
+    const pageTitleClean = title && title !== 'AirReps' ? `${title} | AirReps` : defaults.title;
+    const pageTitleSocial = `${flag} ${pageTitleClean}`;
+    const pageDescription = frontmatter.description || defaults.description;
+
+    // Root canonicals keep the trailing slash so they match the sitemap loc.
+    const canonicalBase = basePath ? `/${basePath}` : '/';
+    const localePrefix = currentLocale === 'en' ? '' : `/${currentLocale}`;
+    const pageUrl = `https://airpodsreplicas.com${localePrefix}${canonicalBase}`;
+
+    // OG Image Path — use the generated OG image for this page, falling back
+    // to the homepage image if it hasn't been generated yet (e.g. a new page
+    // added before the next `generate-og` run). Mirrors the sitemap's guard.
+    const ogImageSlug = relativePath.replace(/\.md$/, '');
+    const ogImageOnDisk = fs.existsSync(path.join(ogImagesDir, `${ogImageSlug}.png`));
+    const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageOnDisk ? ogImageSlug : 'index'}.png?v=${BRANDING_VERSION}`;
+
+    // Section detection — drives breadcrumbs and per-section schema @type
+    const sectionMap: Record<string, string> = {
+        articles: 'Articles',
+        introduction: 'Ultimate Guide',
+        links: 'Purchase Links',
+        ordering: 'Ordering',
+        troubleshooting: 'Troubleshooting',
+        'version-info': 'Version Info',
+    };
+    const pathSegments = basePath.split('/').filter(Boolean);
+    const sectionSlug = pathSegments.length > 1 ? pathSegments[0] : null;
+    const sectionName = sectionSlug ? sectionMap[sectionSlug] : null;
+    // Map each section to its real hub page so the position-2 breadcrumb
+    // links somewhere that exists — the bare `/links/`, `/troubleshooting/`
+    // etc. section roots have no page and return 404.
+    const sectionHubs: Record<string, string> = {
+        articles: 'articles/',
+        introduction: 'introduction/overview',
+        links: 'links/info',
+        ordering: 'ordering/how-to-buy',
+        troubleshooting: 'troubleshooting/other-common-bugs',
+        'version-info': 'version-info/general',
+    };
+    const sectionUrl =
+        sectionSlug && sectionHubs[sectionSlug]
+            ? `https://airpodsreplicas.com${localePrefix}/${sectionHubs[sectionSlug]}`
+            : null;
+
+    const isHome = basePath === '';
+    const isTroubleshooting =
+        sectionSlug === 'troubleshooting' ||
+        (sectionSlug === 'articles' &&
+            (basePath.includes('wont-connect') ||
+                basePath.includes('reset') ||
+                basePath.includes('how-to-spot')));
+    const isLinksPage = sectionSlug === 'links';
+
+    // Multi-level breadcrumb (Home > Section > Page)
+    const breadcrumbItems: Array<{
+        '@type': 'ListItem';
+        position: number;
+        name: string;
+        item: string;
+    }> = [
+        {
+            '@type': 'ListItem',
+            item: `https://airpodsreplicas.com${localePrefix}/`,
+            name: 'Home',
+            position: 1,
+        },
+    ];
+    if (sectionName && sectionUrl) {
+        breadcrumbItems.push({
+            '@type': 'ListItem',
+            item: sectionUrl,
+            name: sectionName,
+            position: 2,
+        });
+    }
+    if (!isHome) {
+        breadcrumbItems.push({
+            '@type': 'ListItem',
+            item: pageUrl,
+            name: title || 'Page',
+            position: breadcrumbItems.length + 1,
+        });
+    }
+
+    const organizationNode = {
+        '@id': 'https://airpodsreplicas.com/#organization',
+        '@type': 'Organization',
+        alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
+        description:
+            'AirReps is the largest community for AirPods replicas, covering which models to buy, trusted sellers, version comparisons, features, sound quality, and troubleshooting.',
+        knowsAbout: [
+            'AirPods replicas',
+            'AirPods Pro 2 replicas',
+            'AirPods Pro 3 replicas',
+            'AirPods 4 replicas',
+            'AirPods Max replicas',
+            'replica earbuds',
+            'AirPods clones',
+        ],
+        logo: {
+            '@type': 'ImageObject',
+            url: `https://airpodsreplicas.com/logo.webp?v=${BRANDING_VERSION}`,
+        },
+        name: 'AirReps',
+        sameAs: [
+            'https://reddit.com/r/airreps',
+            'https://airreps.link/discord',
+            'https://github.com/AirPodsReplicas/AirReps',
+        ],
+        url: 'https://airpodsreplicas.com',
+    };
+
+    const dateModified = pageData.lastUpdated
+        ? new Date(pageData.lastUpdated).toISOString()
+        : new Date().toISOString();
+    const datePublished = pageDates.published(path.join(docsDir, relativePath)) ?? dateModified;
+
+    // JSON-LD graph nodes
+    const websiteNode = {
+        '@id': 'https://airpodsreplicas.com/#website',
+        '@type': 'WebSite',
+        alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
+        description: defaults.description,
+        inLanguage: ['en', ...SUPPORTED_LOCALES],
+        name: 'AirReps',
+        publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
+        url: 'https://airpodsreplicas.com',
+    };
+
+    const breadcrumbNode = {
+        '@id': `${pageUrl}#breadcrumb`,
+        '@type': 'BreadcrumbList',
+        itemListElement: breadcrumbItems,
+    };
+
+    const homeNode = {
+        '@id': `${pageUrl}#webpage`,
+        '@type': 'WebPage',
+        dateModified,
+        description: pageDescription,
+        inLanguage: currentLocale,
+        isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+        name: pageTitleClean,
+        url: pageUrl,
+    };
+
+    const articleNode = {
+        '@id': `${pageUrl}#article`,
+        '@type': isTroubleshooting ? 'TechArticle' : 'Article',
+        breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+        description: pageDescription,
+        headline: pageTitleClean,
+        image: ogImageUrl,
+        inLanguage: currentLocale,
+        isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+        mainEntityOfPage: pageUrl,
+        thumbnailUrl: ogImageUrl,
+        url: pageUrl,
+        ...(sectionName ? { articleSection: sectionName } : {}),
+        author: { '@id': 'https://airpodsreplicas.com/#organization' },
+        dateModified,
+        datePublished,
+        publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
+    };
+
+    // /links/* pages are seller directories. CollectionPage + ItemList of
+    // trusted-seller Organizations describes them more honestly than Article
+    // and surfaces the commercial intent to search engines.
+    const linksPageSellers = isLinksPage
+        ? getSellersOnLinksPage(path.join(docsDir, relativePath))
+        : [];
+    const linksCollectionNode =
+        isLinksPage && linksPageSellers.length
+            ? {
+                  '@id': `${pageUrl}#webpage`,
+                  '@type': 'CollectionPage',
+                  breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+                  dateModified,
+                  description: pageDescription,
+                  inLanguage: currentLocale,
+                  isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+                  mainEntity: {
+                      '@type': 'ItemList',
+                      itemListElement: linksPageSellers.map((seller, i) => ({
+                          '@type': 'ListItem',
+                          item: {
+                              '@type': 'Organization',
+                              name: seller.name,
+                              url: seller.url,
+                          },
+                          position: i + 1,
+                      })),
+                  },
+                  name: pageTitleClean,
+                  url: pageUrl,
+              }
+            : null;
+
+    const mainPageNode = isHome
+        ? homeNode
+        : linksCollectionNode
+          ? linksCollectionNode
+          : articleNode;
+
+    const schema = {
+        '@context': 'https://schema.org',
+        '@graph': [organizationNode, websiteNode, breadcrumbNode, mainPageNode],
+    };
+
+    frontmatter.head = [
+        ...(frontmatter.head ?? []),
+        // Hreflang tags for SEO
+        [
+            'link',
+            {
+                href: `https://airpodsreplicas.com${canonicalBase}`,
+                hreflang: 'en',
+                rel: 'alternate',
+            },
+        ],
+        ...SUPPORTED_LOCALES.map((locale) => [
+            'link',
+            {
+                href: `https://airpodsreplicas.com/${locale}${canonicalBase}`,
+                hreflang: locale,
+                rel: 'alternate',
+            },
+        ]),
+        [
+            'link',
+            {
+                href: `https://airpodsreplicas.com${canonicalBase}`,
+                hreflang: 'x-default',
+                rel: 'alternate',
+            },
+        ],
+        ['link', { href: pageUrl, rel: 'canonical' }],
+        // Localized Open Graph meta tags — social previews keep the flag emoji.
+        metaTag('og:site_name', 'AirReps'),
+        metaTag('og:title', pageTitleSocial),
+        metaTag('og:type', isHome ? 'website' : 'article'),
+        metaTag('og:url', pageUrl),
+        metaTag('og:description', pageDescription),
+        metaTag('og:image', ogImageUrl),
+        metaTag('og:image:width', '1200'),
+        metaTag('og:image:height', '630'),
+        metaTag('og:image:alt', pageTitleSocial),
+        metaTag('og:image:type', 'image/png'),
+        [
+            'meta',
+            {
+                content:
+                    {
+                        da: 'da_DK',
+                        de: 'de_DE',
+                        en: 'en_US',
+                        es: 'es_ES',
+                        fr: 'fr_FR',
+                        pl: 'pl_PL',
+                        pt: 'pt_BR',
+                        ru: 'ru_RU',
+                        tr: 'tr_TR',
+                    }[currentLocale] || 'en_US',
+                property: 'og:locale',
+            },
+        ],
+        // og:locale:alternate for every other supported locale.
+        // `content` listed first so VitePress's mergeHead dedupe (which keys on the
+        // first attribute) doesn't collapse these eight tags into one.
+        ...(Object.entries({
+            da: 'da_DK',
+            de: 'de_DE',
+            en: 'en_US',
+            es: 'es_ES',
+            fr: 'fr_FR',
+            pl: 'pl_PL',
+            pt: 'pt_BR',
+            ru: 'ru_RU',
+            tr: 'tr_TR',
+        })
+            .filter(([locale]) => locale !== currentLocale)
+            .map(([, ogLocale]) => [
+                'meta',
+                { content: ogLocale, property: 'og:locale:alternate' },
+            ]) as [string, Record<string, string>][]),
+        // Twitter Card meta tags (Twitter spec uses name=, not property=)
+        metaTag('twitter:card', 'summary_large_image', 'name'),
+        metaTag('twitter:url', pageUrl, 'name'),
+        metaTag('twitter:title', pageTitleSocial, 'name'),
+        metaTag('twitter:description', pageDescription, 'name'),
+        metaTag('twitter:image', ogImageUrl, 'name'),
+        metaTag('twitter:image:alt', pageTitleSocial, 'name'),
+        // JSON-LD
+        ['script', { type: 'application/ld+json' }, JSON.stringify(schema)],
+        // FAQ JSON-LD — manual `faq:` frontmatter wins; otherwise auto-extracted
+        // from `::: details Question?` blocks in the source markdown
+        ...(() => {
+            const manualFaqs =
+                (frontmatter.faq as Array<{ q: string; a: string }> | undefined) ?? [];
+            // Merge instead of either/or: manual `faq:` frontmatter entries
+            // win, then append any auto-extracted `::: details Question?`
+            // blocks not already covered (deduped case-insensitively on the
+            // question) so hand-authored and inline FAQs both reach schema.
+            const seenQuestions = new Set(manualFaqs.map((f) => f.q.trim().toLowerCase()));
+            const faqs = [
+                ...manualFaqs,
+                ...extractFaqsFromMarkdown(path.join(docsDir, relativePath)).filter(
+                    (f) => !seenQuestions.has(f.q.trim().toLowerCase())
+                ),
+            ];
+            if (!faqs.length) {
+                return [];
+            }
+            return [
+                [
+                    'script',
+                    { type: 'application/ld+json' },
+                    JSON.stringify({
+                        '@context': 'https://schema.org',
+                        '@type': 'FAQPage',
+                        mainEntity: faqs.map((item) => ({
+                            '@type': 'Question',
+                            acceptedAnswer: {
+                                '@type': 'Answer',
+                                text: item.a,
+                            },
+                            name: item.q,
+                        })),
+                    }),
+                ],
+            ] as [string, Record<string, string>, string][];
+        })(),
+    ];
+}
