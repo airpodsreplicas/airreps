@@ -13,7 +13,7 @@ faq:
   - q: Kartım çalışmıyor. Ne yapmalıyım?
     a: Alternatif ödeme yöntemlerini sormak için satıcıyla iletişime geçin. Wise gibi bazı yöntemler alıcı koruması sunmaz. Ayrıca farklı bir kart deneyebilir veya farklı bir satıcıdan satın alabilirsiniz.
   - q: Kredi Kartıyla ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
-    a: 'Güvenilir satıcılar, Kredi Kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız kripto satın alır ve bu işlem siparişi tamamlar. KYC''den kaçınmak istiyorsanız, kimlik kontrolü olmadan normal kredi kartlarını kabul eden bir aracı olan KakoBuy''u kullanın.'
+    a: "Güvenilir satıcılar bazı kart ödemelerinde kripto geçidi kullanır: kart, siparişi ödemek için kripto satın alır. KakoBuy normal kart seçenekleri sunan bir alternatiftir; kullanılabilirlik ve kimlik veya güvenlik kontrolleri ödeme ekranına, ülkeye ve sağlayıcıya bağlıdır."
 ---
 # AirPods replikaları nereden satın alınır?
 
@@ -81,7 +81,7 @@ Satıcıların etkinleştirdiği ödeme altyapıları en son 22 Ekim 2026'da kon
 HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri 4 Eylül 2026'da HiCity'nin ödeme sayfasında kontrol edilmiştir. Her sipariş için son uygunluğu OnlyPay onaylar. ABD, Kanada, Avustralya veya Fransa için hiçbir OnlyPay seçeneği listelenmemiştir.
 
 ::: tip Ödeme yaparken sorun mu yaşıyorsunuz?
-Satıcıların web sitelerinde ödeme yaparken veya siparişi tamamlarken sorun yaşıyorsanız, [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. PayPal ve kredi/banka kartları gibi, müşterilerin yaklaşık %90'ı için çalışan standart ödeme yöntemlerini destekler ve genel olarak iyi bir aracıdır. Ayrıntılar için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
+Satıcı sitesinde ödeme sorunu varsa [KakoBuy](https://airreps.link/kakobuy) düşünülebilir. Kart ve PayPal seçenekleri ülkeye, güncel ödeme ekranına ve sağlayıcıya bağlıdır. [KakoBuy kılavuzuna](/tr/ordering/kakobuy) bakın.
 :::
 
 ::: tip Wise ve havale inceleme süresi
@@ -123,5 +123,5 @@ Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kr
 
 **Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik kontrolü (KYC) isteyebilir; ancak bu her zaman gerekli değildir.**
 
-**Alternatif:** KYC doğrulaması ihtimalinden tamamen kaçınmak istiyorsanız, satıcılardan sizin adınıza ürün satın alan ve gönderimden önce kalite kontrolü (QC) fotoğrafları sağlayan bir aracı platform olan [KakoBuy'u](https://airreps.link/kakobuy) kullanmayı düşünebilirsiniz. KakoBuy, kredi ve banka kartlarını kabul eden standart ödeme işlemcilerini kullanır ve **KYC doğrulaması veya kimlik kontrolü gerektirmez**. Böylece QC fotoğraflarının sağladığı ek güvenceyi elde ederken kartınızı KYC gereklilikleri olmadan kullanmak istiyorsanız mükemmel bir seçenek sunar. Ayrıntılı açıklama için [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) bakın.
+**Alternatif:** [KakoBuy](https://airreps.link/kakobuy) adınıza satıcılardan alışveriş yapabilir ve gönderimden önce QC fotoğrafları sunabilir. Normal kart seçenekleri ülkeye ve güncel ödeme ekranına bağlıdır; sağlayıcı veya kartı veren banka yine kimlik veya güvenlik kontrolü isteyebilir. [KakoBuy sipariş kılavuzuna](/tr/ordering/kakobuy) bakın.
 :::

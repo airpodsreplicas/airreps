@@ -9,7 +9,7 @@ order: 10
 
 Most "should I buy fake AirPods?" questions are framed against genuine AirPods, but that's not the decision people actually make. If you're shopping at the cheap end, your real choice is between a replica and a legitimate budget brand — Anker Soundcore, EarFun, JLab, and the many house labels in that tier. Both cost similar money, and this is the comparison the community fields more than any other.
 
-> **Quick Answer:** Choose legitimate budget earbuds (like Anker Soundcore or EarFun) if you prioritize an official 18-month warranty, native companion apps with manufacturer firmware updates, and zero customs risk. Choose top-tier AirPods replicas (like V5.4 Huilian or V5.3TB) if your priority is the iOS ecosystem integration — instant pairing popups, Apple stem ergonomics, swipe volume controls, and surprisingly close ~38dB ANC.
+> **Quick Answer:** Choose legitimate budget earbuds (like Anker Soundcore or EarFun) if you prioritize a manufacturer warranty, official companion apps and support through authorized retail channels. Choose top-tier AirPods replicas (like V5.4 Huilian or V5.3TB) if your priority is the iOS ecosystem integration — instant pairing popups, Apple stem ergonomics, swipe volume controls, and surprisingly close ~38dB ANC.
 
 So here's the honest ledger.
 
@@ -31,14 +31,14 @@ Budget brands don't try to be AirPods, and that's the point. For about the same 
 
 - **A warranty and real customer support.** If a unit dies, you're dealing with a company and a returns process, not a chat with a seller.
 - **A proper companion app** with official controls and settings, plus **firmware updates from the manufacturer** rather than from community tools.
-- **No legal or customs exposure.** You're buying a licensed product from normal retail channels. Nothing is going to be seized, and there's no grey area to think about.
+- **Ordinary authorized retail channels.** Buying a legitimate product from an authorized retailer avoids the replica-specific intellectual-property issue. Overseas purchases can still have ordinary import requirements or charges.
 - **No dependence on a seller relationship.** Your support and your next purchase don't hinge on a specific vendor staying reachable and honoring the community's expectations.
 
 None of that is glamorous, but it's exactly what people miss six months in when something breaks.
 
 ## Where the two are genuinely the same
 
-At the entry end, they're the same money. The cheapest replica the community puts its name on, the [AirPods 2 V3E](/version-info/airpods-2) at around $26, sits in the same bracket budget-brand earbuds start in. Both are small mass-produced electronics with similar realistic lifespans, and both will eventually need replacing when the batteries age.
+At the entry end, they're the same money. The cheapest replica the community puts its name on, the [AirPods 2 V3E](/version-info/airpods-2) at around $26, sits in the same bracket budget-brand earbuds start in. We have not measured comparative lifespans. Service life depends on the exact model, battery, build, charging habits and use; a similar price does not establish equal durability.
 
 The difference isn't price. It's *what you're buying with it*: the AirPods experience, or the safety net.
 
@@ -49,11 +49,11 @@ Two gaps are permanent, at any price:
 - **Apple's Find My network.** No replica has it, on any model or version. If tracking lost earbuds through Apple's network matters to you, this alone rules replicas out. It's flagged across our [version comparison](/version-info/general).
 - **Apple firmware, service, and warranty.** Replicas don't receive Apple updates or repairs. Updates come from community apps; support comes from the seller and the community.
 
-There's also a practical layer worth naming plainly: importing trademarked look-alikes is a legal grey area that varies by country, and branded packaging carries a higher chance of customs seizure. Trusted sellers mitigate this — many handle EU VAT upfront and ship Apple boxes inside decoy packaging — but the exposure to zero is never quite there. Budget brands simply don't have this category of problem. See [how to buy](/ordering/how-to-buy) and the [packaging guide](/introduction/packaging) if you want the details.
+Import rules for replicas depend on the country and the goods. Packaging does not guarantee clearance, and VAT, duty and handling must be checked against the selected route’s current quote. See [how to buy](/ordering/how-to-buy) and the [packaging guide](/introduction/packaging).
 
 ## Who should buy which
 
-**Go with a budget brand if:** warranty and support matter to you, you want a manufacturer app and official firmware, you don't want any customs or legal exposure, or you'd rather deal with a normal retailer than a seller relationship. If any of those is your top priority, a budget brand is the better call — not a compromise, just the right tool.
+**Go with a budget brand if:** warranty and support matter to you, you want a manufacturer app and official firmware, or you prefer an authorized retailer and to avoid replica-specific import issues. Check the actual product’s warranty and any ordinary import charges when buying overseas.
 
 **Go with a replica if:** what you specifically want is the AirPods experience — the popup, wear detection, working ANC and transparency, Spatial Audio on higher versions — at a fraction of retail, and you're comfortable with the gaps above. The [features page](/introduction/features) is the clearest picture of what actually works.
 
@@ -76,7 +76,7 @@ No. Support comes from the seller and the community, not a manufacturer warranty
 :::
 
 ::: details Can I avoid customs and legal risk with replicas?
-Not entirely. Importing replicas is a grey area that varies by country, and branded boxes raise the odds of seizure. Trusted sellers reduce the risk with neutral or decoy packaging and upfront VAT handling, but a licensed budget brand carries no such exposure at all.
+Not entirely. Destination customs/IP rules apply to the goods; neutral or double packaging and a seller’s tax arrangements do not guarantee lawful import or clearance. A legitimate product from an authorized retailer avoids this replica-specific issue, though ordinary import charges can still apply.
 :::
 
 ::: details Which replica should I pick if I go that route?
