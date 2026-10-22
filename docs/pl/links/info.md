@@ -13,7 +13,7 @@ faq:
   - q: Moja karta nie działa. Co mam zrobić?
     a: 'Skontaktuj się ze sprzedawcą, aby zapytać o alternatywne metody płatności. Niektóre metody, takie jak Wise, nie oferują ochrony kupującego. Możesz też spróbować użyć innej karty lub kupić produkt od innego sprzedawcy.'
   - q: Dlaczego podczas płatności kartą kredytową następuje przekierowanie do strony internetowej związanej z kryptowalutami?
-    a: 'Zaufani sprzedawcy korzystają z bezpiecznej bramki płatności kryptowalutowych do przetwarzania płatności kartą kredytową. Twoja karta służy do zakupu kryptowaluty, która finalizuje zamówienie. Jeśli chcesz uniknąć KYC, użyj KakoBuy — agenta, który akceptuje zwykłe karty kredytowe bez weryfikacji tożsamości.'
+    a: "Zaufani sprzedawcy używają bramki kryptowalutowej do części płatności kartą: karta kupuje kryptowalutę do opłacenia zamówienia. KakoBuy jest alternatywą ze zwykłymi opcjami kartowymi; dostępność i kontrole tożsamości lub bezpieczeństwa zależą od płatności, kraju i operatora."
 ---
 # Gdzie kupić repliki AirPods
 
@@ -81,7 +81,7 @@ Włączone bramki płatności poszczególnych sprzedawców sprawdzono ostatnio 2
 Metody płatności OnlyPay dostępne w HiCity zależą od kraju rozliczeniowego: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX i Boleto (BR). Te opcje krajowe zostały sprawdzone w systemie płatności HiCity 4 września 2026 roku. OnlyPay potwierdza ostateczną dostępność dla każdego zamówienia. Dla Stanów Zjednoczonych, Kanady, Australii i Francji nie wyświetlono żadnej opcji OnlyPay.
 
 ::: tip Problemy z płatnością?
-Jeśli masz problemy z zapłaceniem lub sfinalizowaniem zamówienia na stronach sprzedawców, polecamy [KakoBuy](https://airreps.link/kakobuy). Obsługuje standardowe metody płatności, takie jak PayPal i karty kredytowe/debetowe, które działają u około 90% klientów, a do tego jest ogólnie dobrym agentem. Zobacz nasz [poradnik KakoBuy](/pl/ordering/kakobuy).
+Przy problemach z płatnością u sprzedawcy rozważ [KakoBuy](https://airreps.link/kakobuy). Opcje kartowe i PayPal zależą od kraju, aktualnej płatności i operatora. Zobacz [poradnik KakoBuy](/pl/ordering/kakobuy).
 :::
 
 ::: tip Czas weryfikacji Wise i przelewu
@@ -123,5 +123,5 @@ Zaufani sprzedawcy korzystają z bezpiecznej bramki płatności kryptowalutowych
 
 **Uwaga: Niektórzy operatorzy płatności mogą od czasu do czasu poprosić o weryfikację dokumentu tożsamości (KYC) w celu zachowania zgodności z lokalnymi przepisami, choć nie zawsze jest ona wymagana.**
 
-**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ skorzystanie z [KakoBuy](https://airreps.link/kakobuy) — platformy agentów, która kupuje produkty od sprzedawców w Twoim imieniu i udostępnia zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy korzysta ze standardowych operatorów płatności, którzy akceptują karty kredytowe i debetowe, i **nigdy nie wymagają weryfikacji KYC ani potwierdzenia tożsamości**. To doskonała opcja, jeśli chcesz płacić kartą bez wymogu KYC, a jednocześnie korzystać z dodatkowego zabezpieczenia w postaci zdjęć QC. Pełne instrukcje znajdziesz w naszym [poradniku składania zamówień w KakoBuy](/pl/ordering/kakobuy).
+**Alternatywa:** [KakoBuy](https://airreps.link/kakobuy) może kupować u sprzedawców w Twoim imieniu i udostępniać zdjęcia QC przed wysyłką. Zwykłe opcje kartowe zależą od kraju i aktualnej płatności; operator lub wydawca karty nadal może wymagać kontroli tożsamości lub bezpieczeństwa. Zobacz [poradnik zamawiania przez KakoBuy](/pl/ordering/kakobuy).
 :::

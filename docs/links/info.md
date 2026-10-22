@@ -13,7 +13,7 @@ faq:
   - q: "My card is not working. What should I do?"
     a: "Contact the seller to ask about alternative payment methods. Some methods like Wise do not offer buyer protection. You can also try a different card or purchase from a different seller."
   - q: "Why am I redirected to a crypto website when paying via Credit Card?"
-    a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. If you want to avoid KYC, use KakoBuy, an agent that accepts regular credit cards without identity checks."
+    a: "Trusted sellers use a crypto payment gateway for some card payments: your card buys crypto to complete the order. KakoBuy is an alternative with regular card payment options; availability and identity or security checks depend on the checkout, country and provider."
 ---
 
 # Where to Buy AirPods Replicas
@@ -82,7 +82,7 @@ Each seller's enabled payment gateways were last checked on 22 October 2026. The
 HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options were checked in HiCity's cashier on 4 September 2026. OnlyPay confirms final availability for each order. No OnlyPay option was listed for the US, Canada, Australia or France.
 
 ::: tip Trouble paying?
-If you have trouble paying or checking out on the sellers' websites, we recommend [KakoBuy](https://airreps.link/kakobuy). It supports normal payment methods like PayPal and credit/debit cards that work for about 90% of customers, and it's a good agent overall. See our [KakoBuy guide](/ordering/kakobuy).
+If you have trouble paying on a seller’s website, consider [KakoBuy](https://airreps.link/kakobuy). Card and PayPal options depend on your country, the current checkout and the payment provider. See our [KakoBuy guide](/ordering/kakobuy).
 :::
 
 ::: tip Wise & bank transfer review time
@@ -124,5 +124,5 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 
 **Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
-**Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for a full walkthrough.
+**Alternative:** [KakoBuy](https://airreps.link/kakobuy) can purchase from sellers on your behalf and provide QC photos before shipping. It offers regular card payment options, depending on your country and current checkout; the provider or card issuer may still require identity or security checks. See our [KakoBuy ordering guide](/ordering/kakobuy).
 :::

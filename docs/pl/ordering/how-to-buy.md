@@ -3,9 +3,9 @@ title: Jak Bezpiecznie Kupować Repliki AirPods
 description: 'Bezpiecznie zamów repliki AirPods. Metody płatności, zaufani sprzedawcy, wskazówki dotyczące wysyłki i unikanie oszustw.'
 faq:
   - q: Jakie metody płatności akceptują zaufani sprzedawcy?
-    a: 'Zaufani sprzedawcy akceptują karty kredytowe, Alipay, Revolut, Wise, przelewy bankowe i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów takich jak KakoBuy. PayPal jest obsługiwany przez Earhive i HiCity, a agent KakoBuy również go akceptuje.'
+    a: "Metody płatności zależą od sprzedawcy, kraju i aktualnego formularza płatności. Podczas kontroli 22 października 2026 r. PayPal i Xoom były wyłączone u Earhive, HiCity i Jenny; przelew bankowy był włączony tylko u Jenny. KakoBuy może oferować kartę lub PayPal zależnie od płatności, kraju i operatora; możliwa jest weryfikacja tożsamości lub bezpieczeństwa."
   - q: Dlaczego jestem przekierowywany na stronę kryptowalutową przy płatności kartą kredytową?
-    a: 'Zaufani sprzedawcy używają bezpiecznej bramki płatności kryptowalutowych do obsługi płatności kartą kredytową. Twoja karta kupuje kryptowaluty, które finalizują zamówienie. Aby uniknąć KYC, użyj KakoBuy — agenta, który akceptuje zwykłe karty kredytowe bez weryfikacji tożsamości.'
+    a: 'Zaufani sprzedawcy używają bezpiecznej bramki płatności kryptowalutowych do obsługi płatności kartą kredytową. Twoja karta kupuje kryptowaluty, które finalizują zamówienie. Alternatywnie KakoBuy to agent, który akceptuje zwykłe karty kredytowe; to, czy płatność wymaga weryfikacji tożsamości, zależy od kasy, Twojego kraju i operatora płatności.'
 ---
 # Zamawianie
 
@@ -29,7 +29,7 @@ Płatności przez Wise lub przelew bankowy wymagają ręcznej weryfikacji przez 
 
 ## Płacenie przez Alipay
 
-Wielu zaufanych sprzedawców akceptuje teraz Alipay, co umożliwia łatwe płatności kartą bez weryfikacji KYC.
+Niektórzy sprzedawcy oferują Alipay. Dostępność i weryfikacja tożsamości lub bezpieczeństwa zależą od kraju, konta, płatności i operatora; brak weryfikacji tożsamości nie jest gwarantowany.
 
 **Szybka konfiguracja:** Pobierz aplikację Alipay, załóż konto za pomocą telefonu/emaila, a następnie dodaj metodę płatności.
 
@@ -40,7 +40,7 @@ Wielu zaufanych sprzedawców akceptuje teraz Alipay, co umożliwia łatwe płatn
 ## Najczęściej zadawane pytania
 
 ::: details Jakie metody płatności akceptują zaufani sprzedawcy?
-Zaufani sprzedawcy akceptują wiele metod płatności, w tym karty kredytowe, Alipay, Revolut, Wise, przelew bankowy i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów takich jak [KakoBuy](https://airreps.link/kakobuy) — sprawdź nasz [krok po kroku przewodnik KakoBuy](/pl/ordering/kakobuy). PayPal jest obsługiwany przez Earhive i HiCity, a agent [KakoBuy](https://airreps.link/kakobuy) również go akceptuje. Opcje płatności mogą się różnić w zależności od sprzedawcy — zobacz [tabela metod płatności](/pl/links/info#payment-methods) dla szczegółowego rozkładu.
+Metody płatności zależą od sprzedawcy, kraju i aktualnego formularza płatności. Podczas kontroli 22 października 2026 r. PayPal i Xoom były wyłączone u Earhive, HiCity i Jenny; przelew bankowy był włączony tylko u Jenny. KakoBuy może oferować kartę lub PayPal zależnie od płatności, kraju i operatora; możliwa jest weryfikacja tożsamości lub bezpieczeństwa. [tabela płatności](/pl/links/info#payment-methods). [KakoBuy](https://airreps.link/kakobuy) · [poradnik KakoBuy](/pl/ordering/kakobuy).
 :::
 <span id="credit-card-note"></span>
 ::: details Dlaczego jestem przekierowywany na stronę z kryptowalutami podczas płatności kartą kredytową?
@@ -48,11 +48,11 @@ Zaufani sprzedawcy używają bezpiecznej bramki płatniczej do kryptowalut do pr
 
 **Uwaga: niektórzy dostawcy płatności mogą czasami poprosić o weryfikację tożsamości (KYC), aby spełnić lokalne przepisy, choć nie zawsze jest to wymagane.**
 
-**Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [KakoBuy](https://airreps.link/kakobuy), platformy agenta, która kupuje produkty od sprzedawców w Twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy korzysta z normalnych procesorów płatniczych, które akceptują karty kredytowe i debetowe i **nigdy nie wymagają weryfikacji KYC** ani sprawdzania tożsamości. To czyni go doskonałą opcją, jeśli wolisz użyć karty bez wymogów KYC, a jednocześnie otrzymać dodatkowe zapewnienie w postaci zdjęć QC. Zobacz nasz [przewodnik zamawiania przez KakoBuy](/pl/ordering/kakobuy) po szczegóły.
+**Alternatywa:** Jeśli wolisz nie płacić przez bramkę kryptowalutową, rozważ użycie [KakoBuy](https://airreps.link/kakobuy), platformy agenta, która kupuje produkty od sprzedawców w Twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. Kasa KakoBuy akceptuje zwykłe karty kredytowe i debetowe. Jak przy każdej płatności, to, czy pojawi się weryfikacja tożsamości (KYC) lub kontrola bezpieczeństwa, zależy od metody płatności, operatora i Twojego kraju, więc żadna opcja nie może obiecać, że to się nigdy nie zdarzy. Zobacz nasz [przewodnik zamawiania przez KakoBuy](/pl/ordering/kakobuy) po szczegóły.
 :::
 
 ::: details Czy repliki AirPods są legalne?
-Kupowanie replik AirPods do użytku osobistego zwykle nie jest ścigane — egzekwowanie prawa koncentruje się na producentach i sprzedawcach na dużą skalę, nie na kupujących. Mimo to repliki znajdują się w prawnej szarej strefie: naśladują zastrzeżony projekt Apple, więc ich import może czasem oznaczać opóźnienia celne lub konfiskatę, a odsprzedaż jako oryginał jest nielegalna. Prawo różni się w zależności od kraju, więc sprawdź lokalne przepisy. Ten przewodnik ma charakter informacyjny i nie stanowi porady prawnej.
+To zależy od Twojego kraju. Repliki naśladują chroniony znakiem towarowym projekt Apple, a organy celne w wielu krajach działają przeciwko towarom naruszającym znaki towarowe i inne prawa własności intelektualnej — Komisja Europejska wyjaśnia na przykład, jak [unijne służby celne](https://taxation-customs.ec.europa.eu/customs/prohibitions-restrictions/counterfeit-piracy-other-ipr-violations_en) zapobiegają wprowadzaniu takich towarów. Użytek osobisty nie jest uniwersalnym zwolnieniem przy imporcie: dokładne przepisy różnią się w zależności od kraju i sposobu dostarczenia towaru, a paczki mogą zostać zatrzymane lub zajęte. Ani ten przewodnik, ani linia wysyłkowa czy metoda płatności nie mogą zagwarantować, że import jest legalny lub że paczka zostanie doręczona, więc sprawdź oficjalne przepisy celne kraju docelowego. Odsprzedaż replik jako oryginałów jest nielegalna. Ten przewodnik ma charakter informacyjny i nie stanowi porady prawnej.
 :::
 
 ::: details Czy bezpiecznie jest kupować repliki AirPods?

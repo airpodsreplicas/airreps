@@ -3,9 +3,9 @@ title: AirPods Replikalarını Güvenli Bir Şekilde Nasıl Satın Alınır
 description: 'AirPods replikalarını güvenli bir şekilde sipariş edin. Ödeme yöntemleri, güvenilir satıcılar, gönderim ipuçları ve dolandırıcılıklardan kaçınma.'
 faq:
   - q: Güvenilir satıcılar hangi ödeme yöntemlerini kabul ediyor?
-    a: 'Güvenilir satıcılar kredi kartları, Alipay, Revolut, Wise, banka havalesi ve Bitcoin''i kabul eder. Tüm satıcıların KakoBuy gibi aracılar aracılığıyla erişilebilen Weidian vitrinleri vardır. PayPal, Earhive ve HiCity tarafından desteklenir ve KakoBuy acentesi de PayPal''ı kabul eder.'
+    a: "Ödeme seçenekleri satıcıya, ülkeye ve güncel ödeme ekranına bağlıdır. 22 Ekim 2026 kontrolünde Earhive, HiCity ve Jenny’de PayPal ile Xoom devre dışıydı; banka havalesi yalnızca Jenny’de etkindi. KakoBuy, ödeme ekranı, ülke ve sağlayıcıya göre kart veya PayPal sunabilir; kimlik veya güvenlik kontrolü istenebilir."
   - q: Kredi kartı ile ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
-    a: Güvenilir satıcılar kredi kartı ödemelerini işlemek için güvenli bir kripto ödeme geçidi kullanır. Kartınız kripto satın alır; bu da siparişi tamamlar. KYC'den kaçınmak için KakoBuy'ı kullanın - kimlik kontrolleri olmadan normal kredi kartlarını kabul eden bir acente.
+    a: 'Güvenilir satıcılar kredi kartı ödemelerini işlemek için güvenli bir kripto ödeme geçidi kullanır. Kartınız kripto satın alır; bu da siparişi tamamlar. Alternatif olarak KakoBuy, normal kredi kartlarını kabul eden bir acentedir; bir ödemenin kimlik kontrolü isteyip istemeyeceği ödeme sayfasına, ülkenize ve ödeme sağlayıcısına bağlıdır.'
 ---
 # Sipariş
 
@@ -29,7 +29,7 @@ Wise veya banka havalesi ile ödemeler satıcı tarafından manuel inceleme gere
 
 ## Alipay ile ödeme
 
-Birçok güvenilir satıcı artık Alipay kabul ediyor; bu, KYC doğrulaması olmadan kolay kart ödemeleri yapmanızı sağlar.
+Bazı satıcılar Alipay sunar. Kullanılabilirlik ve kimlik veya güvenlik kontrolleri ülkeye, hesaba, ödeme ekranına ve sağlayıcıya bağlıdır; kimlik kontrolü olmadan ödeme garantisi yoktur.
 
 **Hızlı kurulum:** Alipay uygulamasını indirin, telefonunuz/e-posta ile bir hesap oluşturun ve ardından bir ödeme yöntemi ekleyin.
 
@@ -40,7 +40,7 @@ Birçok güvenilir satıcı artık Alipay kabul ediyor; bu, KYC doğrulaması ol
 ## Sıkça sorulan sorular
 
 ::: details Güvenilir satıcılar hangi ödeme yöntemlerini kabul ediyor?
-Güvenilir satıcılar Kredi kartları, Alipay, Revolut, Wise, banka havalesi ve Bitcoin dahil olmak üzere birden fazla ödeme yöntemini kabul eder. Tüm satıcıların [KakoBuy](https://airreps.link/kakobuy) gibi aracılar aracılığıyla erişilebilen Weidian mağazaları vardır — adım adım [KakoBuy rehberimize](/tr/ordering/kakobuy) göz atın. PayPal, Earhive ve HiCity tarafından desteklenir ve [KakoBuy](https://airreps.link/kakobuy) acentesi de PayPal kabul eder. Ödeme seçenekleri satıcıya göre değişebilir — ayrıntılı döküm için [ödeme yöntemleri tablosuna](/tr/links/info#payment-methods) bakın.
+Ödeme seçenekleri satıcıya, ülkeye ve güncel ödeme ekranına bağlıdır. 22 Ekim 2026 kontrolünde Earhive, HiCity ve Jenny’de PayPal ile Xoom devre dışıydı; banka havalesi yalnızca Jenny’de etkindi. KakoBuy, ödeme ekranı, ülke ve sağlayıcıya göre kart veya PayPal sunabilir; kimlik veya güvenlik kontrolü istenebilir. [ödeme tablosu](/tr/links/info#payment-methods). [KakoBuy](https://airreps.link/kakobuy) · [KakoBuy kılavuzu](/tr/ordering/kakobuy).
 :::
 <span id="credit-card-note"></span>
 ::: details Kredi kartı ile ödeme yaparken neden beni kripto bir siteye yönlendiriyorlar?
@@ -48,11 +48,11 @@ Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kr
 
 **Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik kontrolü (KYC) isteyebilir, ancak bu her zaman gerekli değildir.**
 
-**Alternatif:** Herhangi bir KYC doğrulaması olasılığından kaçınmak istiyorsanız, satıcılar adına ürün satın alan ve sevkiyattan önce kalite kontrol (QC) fotoğrafları sağlayan bir acente platformu olan [KakoBuy](https://airreps.link/kakobuy) kullanmayı düşünün. KakoBuy, kredi ve banka kartlarını kabul eden düzenli ödeme işlemcilerini kullanır ve **asla KYC doğrulaması veya kimlik kontrolü gerektirmez**. Kartınızı KYC gereksinimi olmadan kullanmayı tercih ederken yine de QC fotoğrafları almanın ek güvencesini sağladığı için mükemmel bir seçenektir. Ayrıntılar için [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) bakın.
+**Alternatif:** Kripto ödeme geçidi üzerinden ödeme yapmak istemiyorsanız, sizin adınıza satıcılardan ürün satın alan ve sevkiyattan önce kalite kontrol (QC) fotoğrafları sağlayan bir acente platformu olan [KakoBuy](https://airreps.link/kakobuy) kullanmayı düşünün. KakoBuy'ın ödeme sayfası normal kredi ve banka kartlarını kabul eder. Her ödemede olduğu gibi, kimlik (KYC) veya güvenlik kontrolü istenip istenmeyeceği ödeme yöntemine, sağlayıcıya ve ülkenize bağlıdır; bu yüzden hiçbir seçenek bunun asla olmayacağını vaat edemez. Ayrıntılar için [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) bakın.
 :::
 
 ::: details AirPods kopyaları yasal mı?
-Kişisel kullanım için kopya AirPods satın almak genellikle bireylerin cezalandırıldığı bir durum değildir — uygulama üreticiler ve büyük satıcıları hedef alır, alıcıları değil. Bununla birlikte, kopyalar yasal açıdan gri bir alandadır: Apple'ın tescilli tasarımını taklit ederler, bu nedenle ithalat bazen gümrükte gecikme veya el koyma anlamına gelebilir ve bunları gerçekmiş gibi yeniden satmak yasa dışıdır. Yasalar ülkeye göre değişir; yerel düzenlemelerinizi kontrol edin. Bu rehber bilgilendirme amaçlıdır ve yasal tavsiye değildir.
+Bu, ülkenize bağlıdır. Kopyalar Apple'ın tescilli marka tasarımını taklit eder ve birçok ülkede gümrük makamları markaları ve diğer fikri mülkiyet haklarını ihlal eden ürünlere karşı işlem yapar — örneğin Avrupa Komisyonu, [AB gümrüğünün](https://taxation-customs.ec.europa.eu/customs/prohibitions-restrictions/counterfeit-piracy-other-ipr-violations_en) bu tür ürünlerin girişini nasıl engellemeye çalıştığını açıklar. Kişisel kullanım evrensel bir ithalat muafiyeti değildir: kesin kurallar ülkeye ve ürünlerin nasıl geldiğine göre değişir ve paketler alıkonulabilir veya el konulabilir. Ne bu rehber ne de bir gönderi hattı veya ödeme yöntemi bir ithalatın yasal olacağını ya da teslim edileceğini garanti edebilir; bu yüzden varış ülkenizin resmi gümrük kurallarını kontrol edin. Kopyaları gerçekmiş gibi yeniden satmak yasa dışıdır. Bu rehber bilgilendirme amaçlıdır ve yasal tavsiye değildir.
 :::
 
 ::: details Kopya AirPods satın almak güvenli mi?

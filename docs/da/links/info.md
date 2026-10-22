@@ -13,7 +13,7 @@ faq:
   - q: Mit kort virker ikke. Hvad skal jeg gøre?
     a: Kontakt sælgeren for at spørge om alternative betalingsmetoder. Nogle metoder som Wise tilbyder ikke køberbeskyttelse. Du kan også prøve et andet kort eller købe fra en anden sælger.
   - q: 'Hvorfor bliver jeg omdirigeret til et kryptowebsted, når jeg betaler med kreditkort?'
-    a: 'Pålidelige sælgere bruger en sikker kryptobetalingsgateway til at behandle kreditkortbetalinger. Dit kort køber kryptovaluta, som gennemfører ordren. Hvis du vil undgå KYC, kan du bruge KakoBuy, en agent, der accepterer almindelige kreditkort uden identitetskontrol.'
+    a: "Betroede sælgere bruger en krypto-gateway til nogle kortbetalinger: kortet køber krypto for at fuldføre ordren. KakoBuy er et alternativ med almindelige kortmuligheder; tilgængelighed og identitets- eller sikkerhedskontrol afhænger af checkout, land og udbyder."
 ---
 # Hvor kan man købe kopier af AirPods?
 
@@ -81,7 +81,7 @@ Hvilke betalingsløsninger hver sælger har aktiveret, blev senest kontrolleret 
 HiCitys OnlyPay-metoder afhænger af faktureringslandet: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX og Boleto (BR). Disse landeindstillinger blev kontrolleret i HiCitys betalingsvindue den 4. september 2026. OnlyPay bekræfter den endelige tilgængelighed for hver ordre. Der var ingen OnlyPay-mulighed for USA, Canada, Australien eller Frankrig.
 
 ::: tip Problemer med at betale?
-Hvis du har problemer med at betale eller gennemføre købet på sælgernes hjemmesider, anbefaler vi [KakoBuy](https://airreps.link/kakobuy). KakoBuy understøtter almindelige betalingsmetoder som PayPal og kredit-/betalingskort, der virker for omkring 90 % af kunderne, og er generelt en god agent. Se vores [KakoBuy-guide](/da/ordering/kakobuy).
+Hvis du har betalingsproblemer på sælgerens hjemmeside, kan du overveje [KakoBuy](https://airreps.link/kakobuy). Kort og PayPal afhænger af dit land, den aktuelle checkout og betalingsudbyderen. Se vores [KakoBuy-guide](/da/ordering/kakobuy).
 :::
 
 ::: tip Behandlingstid for Wise og bankoverførsel
@@ -123,5 +123,5 @@ Troværdige sælgere bruger en sikker kryptobetalingstjeneste til at behandle kr
 
 **Bemærk: Nogle betalingsbehandlere kan lejlighedsvis bede om et ID-tjek (KYC) for at overholde lokale regler, selvom det ikke altid er nødvendigt.**
 
-**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verificering, kan du overveje at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform, der køber produkter fra sælgere på dine vegne og leverer billeder til kvalitetskontrol (QC), før de sendes. KakoBuy bruger almindelige betalingsbehandlere, der accepterer kredit- og debetkort, og **kræver aldrig KYC-verificering eller identitetskontrol**. Det gør det til et fremragende valg, hvis du foretrækker at bruge dit kort uden KYC-krav, samtidig med at du får den ekstra sikkerhed, som QC-billeder giver. Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy) for en komplet gennemgang.
+**Alternativ:** [KakoBuy](https://airreps.link/kakobuy) kan købe fra sælgere på dine vegne og give QC-billeder før afsendelse. Almindelige kortmuligheder afhænger af land og aktuel checkout; udbyderen eller kortudstederen kan stadig kræve identitets- eller sikkerhedskontrol. Se vores [KakoBuy-guide](/da/ordering/kakobuy).
 :::

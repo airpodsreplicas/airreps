@@ -1,76 +1,72 @@
 ---
 title: 'FlyCC APK-vejledning: Sådan konfigurerer og finjusterer du Airoha AirPods-kopier'
-description: 'Sådan downloader, installerer og bruger du FlyCC sikkert — tilpasset EQ-justering, tilknytning af berøringskontroller, firmwareopdateringer og fejlfinding af forbindelsesfejl.'
+description: "FlyCC til TigerBuilder AirPods-kopier: Android- og iPhone-downloads, modelafhængig EQ og opdatering, tilladelser og forbindelsesproblemer."
 category: Brug af dine kopier
 order: 13
 ---
 # FlyCC APK-guide: Sådan konfigurerer og finjusterer du Airoha-baserede AirPods-kopier
 
-FlyCC er den nødvendige ledsagerapp til AirPods-kopier, der bruger **Airoha-chipset** (herunder Airoha 1562AE, 1562E, 1562F og 1571AM). Da Apples oprindelige iOS-indstillinger kun giver adgang til overfladiske funktioner, giver FlyCC adgang på lavt niveau til chippen: tilpasset parametrisk EQ-justering, kalibrering af berøringssensorer, balancering af aktiv støjreduktion (ANC) og OTA-firmwareopdatering.
+FlyCC er den ledsagerapp, som vores [katalog over nyttige apps](/da/useful-apps#tigerbuilder) angiver til **TigerBuilder**-kopier. TigerBuilder er en producent af kopier, ikke et chipmærke: producentens modeller er bygget på **Airoha**-chipsæt som 1562AE, 1563E og 1571AM. Afhængigt af modellen og dens firmware kan FlyCC justere EQ, vise indstillinger, der er specifikke for modellen, og installere firmwareopdateringer, som producenten har udgivet.
 
-> **Kort svar:** FlyCC er et gratis tredjepartsværktøj til Android og macOS, som er specielt udviklet til Airoha-baserede AirPods-kopier. Det giver dig mulighed for at tilpasse lydprofiler via en indbygget equalizer, ændre følsomheden for tryk og tryk på sensoren samt installere firmwareopdateringer trådløst. Det registrerer ikke kopier, der bruger Huilian-, BES- eller billige Jieli-chips.
+> **Kort svar:** FlyCC er en gratis tredjepartsapp til TigerBuilder-kopier af AirPods (baseret på Airoha). Den findes som Android-APK og som iPhone-app i App Store, og begge er linket i [Nyttige apps](/da/useful-apps#tigerbuilder). Hvad appen kan, afhænger af din præcise model, firmware og appversion: typisk EQ og firmwareopdateringer til udvalgte modeller. Huilian-, HR-, BES- og KKX-modeller bruger de andre apps i kataloget.
 
-::: tip Android eller Mac er påkrævet
-FlyCC kan ikke installeres fra Apple iOS App Store på grund af Apples begrænsninger for tredjepartshardware. Hvis du vil konfigurere dine Airoha-øretelefoner, skal du installere Android-APK'en på en Android-smartphone eller bruge community-udgaven til macOS. Indstillinger, der gemmes på øretelefonerne, bevares, selv når du skifter tilbage til en iPhone.
+::: tip Android- og iPhone-versioner
+FlyCC findes som Android-APK og som iPhone-version i App Store. At appen er på din telefon, betyder ikke, at den understøtter dit par: de menuer og opdateringer, den viser, afhænger af den model, den registrerer, modellens firmware og appversionen. Der er ingen separat Mac-udgave i vores katalog. App Store tillader iPhone-appen på Mac-computere med Apple-chip, men angiver, at den ikke er verificeret til macOS, så denne guide dækker ikke brug på Mac.
 :::
 
-## Understøttede chipset
+## Hvilke kopier bruger FlyCC?
 
-FlyCC fungerer udelukkende med **Airoha-hardware**. Hvis dine øretelefoner opretter forbindelse, har du bekræftet, at der sidder ægte Airoha-silicium i dem:
+Tag udgangspunkt i den sælger og version, du har købt, ikke kun chipnavnet. [Versionssiderne](/da/version-info/general) angiver FlyCC til TigerBuilder-modeller som AirPods Pro 3 V7 TB, AirPods 4 V3 TB, AirPods Pro 2 V5.3 TB og AirPods Max V3. Tjek siden for din version, før du installerer noget.
 
-- **Airoha 1562AE / 1571AM** — Fuld funktionsunderstøttelse: ANC-kalibrering med to mikrofoner, tilpasset EQ, til/fra-funktioner for rumlig lyd med hovedsporing og OTA-opdateringer.
-- **Airoha 1562E / 1563E** — Standard-EQ, berøringskontroller og firmwareværktøjer.
-- **Airoha 1562F** — Ældre ANC- og EQ-kontroller.
-
-Hvis FlyCC scanner uendeligt og aldrig registrerer dine øretelefoner, bruger dit par silicium fra en anden producent (f.eks. Huilian, som bruger [Starfun](/da/useful-apps), eller TigerBuilder, som bruger [CloudCC](/da/useful-apps)) eller en Jieli-chip på begynderniveau.
+En Airoha-chip afgør ikke alene, hvilken app du skal bruge. HR-modeller bruger også Airoha-chips, men står opført med BullSuper og G&Link, Huilian-modeller bruger StarFun, og nogle ældre Airoha-versioner har slet ingen app-understøttelse. Hvilken app der opretter forbindelse, er et nyttigt fingerpeg, men en mislykket FlyCC-scanning beviser ikke, at dit par har en anden chip eller ikke er den model, du bestilte. Tilladelser, appversionen og modelunderstøttelse spiller alle ind (se fejlfinding nedenfor).
 
 ## Sådan downloader og installerer du FlyCC sikkert
 
-Da FlyCC kommunikerer med Bluetooth-hardware, der ikke er MFi-godkendt, distribueres den direkte som en APK i stedet for via Google Play.
+Brug linkene i [Nyttige apps](/da/useful-apps#tigerbuilder) i stedet for filer, der er lagt op igen på andre sider.
 
-1. Download den seneste verificerede APK direkte fra [mappen med nyttige apps](/da/useful-apps).
-2. Gå på din Android-enhed til **Indstillinger → Sikkerhed**, og aktivér **"Installer ukendte apps"** for din browser eller filhåndtering.
-3. Åbn den downloadede `.apk`-fil, og tryk på **Installer**.
-4. Giv de ønskede tilladelser til **Bluetooth / enheder i nærheden** og **Placering**. (Android kræver placeringstilladelser for at scanne efter Bluetooth-enheder med lavt energiforbrug; FlyCC sporer ikke GPS-data).
+**iPhone:** Installér FlyCC fra App Store, og giv Bluetooth-adgang, når iOS spørger. Appen kræver iOS 13 eller nyere (version 2.0.16 ved kontrol den 22. oktober 2026).
 
-## Vigtige funktioner og sådan bruger du dem
+**Android:** Android-versionen er en APK-download, ikke en app fra Google Play.
 
-### 1. Tilpasset EQ og lydjustering
+1. Download APK'en fra [Nyttige apps](/da/useful-apps#tigerbuilder).
+2. Når Android spørger, skal du tillade **Installer ukendte apps** for den browser eller filhåndtering, du åbner filen med. Du kan slå tilladelsen fra igen bagefter.
+3. Åbn `.apk`-filen, og tryk på **Installer**.
+4. Giv den Bluetooth-tilladelse, appen beder om. På Android 12 og nyere vises den som **Enheder i nærheden**. På ældre Android-versioner, eller med ældre apps, kan Bluetooth-scanning i stedet kræve tilladelse til **Placering** ([Androids udviklerdokumentation](https://developer.android.com/develop/connectivity/bluetooth/bt-permissions)).
 
-Nogle kopipartier har fra fabrikken en overdrevet basgengivelse. FlyCC har en 10-bånds equalizer, så du kan finjustere lydoutputtet:
+FlyCC er tredjepartssoftware, og AirReps har ikke foretaget nogen sikkerhedsgennemgang af den. Adgang til Bluetooth eller enheder i nærheden er forventelig for en app til øretelefoner; vær forsigtig med anmodninger, der intet har med øretelefonerne at gøre. Androids dokumentation forklarer, hvorfor systemet beder om disse tilladelser, ikke hvad en bestemt app gør med dem. På iPhone er privatlivsoplysningerne i App Store udviklerens egne angivelser, og Apple oplyser, at de ikke er verificeret af Apple ([App Store-siden](https://apps.apple.com/us/app/flycc/id1661245709)).
 
-- **Reduktion af bas**: Sænk skyderne for 31Hz, 62Hz og 125Hz med 2–3 dB for et renere og mere neutralt lydbillede, der matcher AirPods Pro fra detailhandlen.
-- **Klarere vokal**: Hæv båndene ved 1kHz og 2kHz med 1,5 dB for at fremhæve podcasts og vokaler.
-- **Gem på hardware**: Når du er færdig med at justere, skal du trykke på **Gem på øretelefoner**. Lydjusteringen skrives direkte til Airoha DSP'en, hvilket betyder, at den tilpassede EQ forbliver aktiv, når du opretter forbindelse til din iPhone, iPad eller pc igen.
+## Hvad FlyCC kan
 
-### 2. Kalibrering af berøring og bevægelser
+De menuer, FlyCC viser, afhænger af den model, appen registrerer, så to par kan se ret forskellige ud i appen. Udgivelsesnoterne for iPhone-versionen nævner rettelser af manglende menuer (version 2.0.12 og 2.0.14), så en menu, der ikke vises, kan skyldes appversionen eller kompatibilitet frem for en anden chip.
 
-Hvis dine øretelefoner ved et uheld sætter afspilningen på pause, når du justerer dem i øret, giver FlyCC dig mulighed for at justere tryksensorens følsomhed fra 1 (letteste tryk) til 5 (fast klem). Du kan også tilknytte enkelt-, dobbelt- og trippeltryk til bestemte funktioner.
+### EQ og lyd
 
-### 3. Justering af støjreduktion
+EQ er hovedgrunden til, at guiden henviser ejere af TigerBuilder-modeller til FlyCC (se [lydkvalitet](/da/introduction/sound-quality)). Lav små ændringer, og lyt efter. Sænk for eksempel bassen en smule, hvis dit parti lyder buldrende. Medlemmer af fællesskabet deler EQ-forudindstillinger på [AirReps Discord](https://airreps.link/discord). Når du skifter til en anden telefon, så tjek, at din EQ stadig gælder, da det kan variere fra model til model.
 
-I ANC-menuen giver FlyCC mulighed for uafhængig kalibrering af venstre og højre fremadrettede mikrofoner. Hvis det føles, som om den ene øretelefon giver højere tryk i øret eller svagere støjreduktion, genbalancerer kalibreringsskyderen faseinverteringen.
+### Betjening
 
-## Sikker firmwareopdatering (OTA)
+Tryk- og klembetjening på kopier ændres normalt i iPhonens Bluetooth-indstillinger, ligesom på ægte AirPods (se [guiden til funktioner](/da/introduction/features)). Hvis FlyCC viser betjeningsindstillinger for din model, kan du bruge dem dér, men ikke alle modeller har dem.
 
-FlyCC kan installere opdaterede firmwarebinære filer for at rette fejl i iOS-håndtrykket eller forbedre forbindelsen. Firmwareinstallation indebærer dog en risiko for, at enheden gøres ubrugelig, hvis processen afbrydes:
+### Firmwareopdateringer (OTA)
 
-1. **Oplad begge øretelefoner og etuiet til over 80 %** før start.
-2. Hold opladningsetuiet åbent med begge øretelefoner placeret i det og inden for 30 centimeter fra din telefon.
-3. Tryk på **Søg efter opdateringer** i FlyCC. Hvis der findes en opdatering, skal du downloade pakken.
-4. Tryk på **Start opdatering**. **Luk ikke låget på etuiet, slå ikke Bluetooth fra, og skift ikke app**, før statuslinjen når 100 % og viser "Opdatering gennemført".
-5. Når processen er færdig, skal du lade øretelefonerne blive i det lukkede etui i 60 sekunder, før du parrer dem igen.
+FlyCC's beskrivelse i App Store siger, at firmwareopgraderinger tilbydes til udvalgte produkter, og version 1.1.1 og 1.1.2 (2024) tilføjede OTA-understøttelse af Airohas AB157x-platform. Hvis FlyCC tilbyder en opdatering til din model:
 
-Læs [Sådan opdaterer du firmware på falske AirPods](/da/articles/how-to-update-fake-airpods-firmware) for en omfattende vejledning i sikker firmwareinstallation på alle kopichipsæt.
+1. Tjek, at du har brug for den: en rettelse af et problem, du faktisk har, eller en besked fra din sælger eller på din [versionsside](/da/version-info/general). Hvis dit par fungerer godt, er det helt fint at lade firmwaren være.
+2. Læs de opdateringsinstruktioner, FlyCC viser for din model, og følg dem.
+3. Hold øretelefonerne og etuiet opladet, hold telefonen tæt på med appen åben, og afbryd ikke opdateringen, før appen bekræfter, at den er færdig.
+
+Hvis en opdatering mislykkes, så kontakt din sælger eller spørg på Discord i stedet for at prøve firmware fra en anden app. Hele processen står i [Sådan opdaterer du firmware på falske AirPods](/da/articles/how-to-update-fake-airpods-firmware).
 
 ## Fejlfinding ved forbindelsesproblemer med FlyCC
 
-Hvis FlyCC nægter at finde dine øretelefoner:
+Hvis FlyCC ikke finder dine øretelefoner:
 
-- **Kontrollér telefonens aktive lydforbindelse**: Sørg for, at øretelefonerne allerede er parret i Androids oprindelige Bluetooth-indstillinger, før du åbner FlyCC.
-- **Giv tilladelse til enheder i nærheden**: På Android 12 og nyere kan FlyCC ikke registrere Bluetooth LE-enheder uden den aktiverede tilladelse til **"Enheder i nærheden"**.
-- **Identificér din chip**: Hvis dine øretelefoner nægter at oprette forbindelse til FlyCC, kan du prøve at scanne med **CloudCC** eller **Starfun**. Hvis ingen app opretter forbindelse, kan du se [Sådan genkender du falske AirPods](/da/articles/how-to-spot-fake-airpods) for at undersøge, om der er tale om en billig Jieli-kopi.
-- **Ryd parringscachen**: Hvis forbindelsen afbrydes, skal du nulstille controlleren ved hjælp af vores [nulstillingsvejledning](/da/articles/how-to-reset-fake-airpods).
+- **Forbind dem først**: Par øretelefonerne i telefonens Bluetooth-indstillinger, og åbn derefter FlyCC.
+- **Tjek tilladelserne**: På Android 12 og nyere skal FlyCC have tilladelsen **Enheder i nærheden**; på ældre Android-versioner kan den kræve **Placering**. På iPhone skal du tjekke **Indstillinger → Anonymitet & sikkerhed → Bluetooth**.
+- **Opdatér appen**: FlyCC 2.0.16 til iPhone nævner en rettelse for nogle brugere, der ikke kunne oprette forbindelse.
+- **Tjek, at appen passer til din model**: Se siden for din version. Hvis din sælgers model kommer fra en anden producent, så brug den app, der er angivet for den i [Nyttige apps](/da/useful-apps). CloudCC er udfaset for TigerBuilder-modeller og er kun tænkt som en midlertidig løsning på det problem med lagertilladelser, der er beskrevet dér.
+- **Se ikke én mislykket scanning som et bevis**: Hvis ingen af de angivne apps opretter forbindelse efter disse tjek, så spørg på [Discord](https://airreps.link/discord) og oplys din sælger og model. Meget billige Jieli-kopier fungerer ikke med nogen af appsene. Hvis du er i tvivl om, hvad du har modtaget, så se [Sådan genkender du falske AirPods](/da/articles/how-to-spot-fake-airpods).
+- **Ryd parringscachen**: Hvis forbindelsen afbrydes, så nulstil parringen med vores [nulstillingsvejledning](/da/articles/how-to-reset-fake-airpods).
 
 ## Relaterede vejledninger
 
@@ -82,13 +78,13 @@ Hvis FlyCC nægter at finde dine øretelefoner:
 ## Ofte stillede spørgsmål
 
 ::: details Er FlyCC sikkert at installere på min telefon?
-Ja. APK-filerne i communityets mappe med nyttige apps er hentet fra officielle producenters forsyningskæder og kontrolleret for malware. Appen kræver kun Bluetooth-adgang for at kommunikere med Airoha-lydprocessoren.
+FlyCC er tredjepartssoftware, som AirReps ikke har sikkerhedsgennemgået, så brug almindelig forsigtighed: Download den fra linket i Nyttige apps eller fra App Store, tjek at dens anmodninger om tilladelser handler om Bluetooth, og afvis alt, der ikke har noget med det at gøre. Privatlivsoplysningerne i App Store er udviklerens egne angivelser, ikke en kontrol foretaget af Apple.
 :::
 
 ::: details Kan jeg bruge FlyCC på en iPhone?
-Nej. Apple tillader ikke tredjepartsapps at få adgang til rå Bluetooth-serieprofiler for hardware, der ikke er MFi-godkendt. Du skal bruge en Android-telefon eller en Mac for at ændre FlyCC-indstillinger. Alle EQ- og kontrolændringer skrives dog permanent til øretelefonernes interne hukommelse, så de overføres automatisk til din iPhone.
+Ja. FlyCC findes i App Store til iPhone (iOS 13 eller nyere; version 2.0.16 ved kontrol den 22. oktober 2026), og Apples [Core Bluetooth](https://developer.apple.com/bluetooth/)-framework lader iPhone-apps arbejde med Bluetooth Low Energy-tilbehør. Hvad FlyCC kan på en iPhone, afhænger af din model, dens firmware og appversionen, og firmwareopdateringer tilbydes til udvalgte produkter, ikke til alle par. Android er stadig en mulighed via APK'en i Nyttige apps.
 :::
 
-::: details Hvorfor viser FlyCC "Enhed ikke fundet"?
-Den mest almindelige årsag er et mismatch mellem chipsættet og appen: FlyCC fungerer kun med Airoha-chips. Hvis du har en Huilian-model, skal du bruge Starfun; hvis du har en TigerBuilder-model, skal du bruge CloudCC. Hvis ingen af dem opretter forbindelse, har du sandsynligvis en billig Jieli-enhed.
+::: details Hvorfor kan FlyCC ikke finde mine øretelefoner?
+De mest almindelige årsager er en manglende tilladelse til Bluetooth eller enheder i nærheden, en forældet appversion, øretelefoner, der endnu ikke er forbundet til telefonen, eller en model, som FlyCC ikke understøtter. FlyCC er angivet til TigerBuilder-modeller; Huilian-modeller bruger StarFun, og HR-modeller bruger BullSuper eller G&Link. En mislykket scanning beviser ikke, hvilken chip der sidder i, så tjek din sælgers model på versionssiderne, og spørg på Discord, hvis ingen af de angivne apps opretter forbindelse.
 :::

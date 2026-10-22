@@ -13,7 +13,7 @@ faq:
   - q: Meine Karte funktioniert nicht. Was soll ich tun?
     a: Kontaktiere den Verkäufer und frage nach alternativen Zahlungsmethoden. Einige Methoden wie Wise bieten keinen Käuferschutz. Du kannst auch eine andere Karte ausprobieren oder bei einem anderen Verkäufer kaufen.
   - q: Warum werde ich bei der Zahlung per Kreditkarte auf eine Kryptoseite weitergeleitet?
-    a: 'Vertrauenswürdige Verkäufer verwenden ein sicheres Krypto-Zahlungsgateway, um Kreditkartenzahlungen abzuwickeln. Deine Karte kauft Kryptowährung, mit der die Bestellung abgeschlossen wird. Wenn du KYC vermeiden möchtest, verwende KakoBuy, einen Agenten, der normale Kreditkarten ohne Identitätsprüfung akzeptiert.'
+    a: "Vertrauenswürdige Verkäufer verwenden für manche Kartenzahlungen ein Krypto-Gateway: Die Karte kauft Krypto, um die Bestellung zu bezahlen. KakoBuy bietet als Alternative reguläre Kartenoptionen; Verfügbarkeit und Identitäts- oder Sicherheitsprüfungen hängen von Checkout, Land und Anbieter ab."
 ---
 # Wo kann man AirPods-Replikate kaufen?
 
@@ -81,7 +81,7 @@ Die von den Verkäufern aktivierten Zahlungs-Gateways wurden zuletzt am 22. Okto
 Die OnlyPay-Methoden von HiCity hängen vom Rechnungsland ab: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX und Boleto (BR). Diese Länderoptionen wurden am 4. September 2026 im Kassenbereich von HiCity überprüft. OnlyPay bestätigt die endgültige Verfügbarkeit für jede Bestellung. Für die USA, Kanada, Australien und Frankreich wurde keine OnlyPay-Option aufgeführt.
 
 ::: tip Probleme beim Bezahlen?
-Wenn du Probleme beim Bezahlen oder beim Abschließen der Bestellung auf den Websites der Verkäufer hast, empfehlen wir [KakoBuy](https://airreps.link/kakobuy). KakoBuy unterstützt gängige Zahlungsmethoden wie PayPal und Kredit-/Debitkarten, die bei etwa 90 % der Kunden funktionieren, und ist insgesamt ein guter Agent. Siehe unseren [KakoBuy-Leitfaden](/de/ordering/kakobuy).
+Bei Zahlungsproblemen auf einer Verkäuferwebsite kommt [KakoBuy](https://airreps.link/kakobuy) infrage. Karten- und PayPal-Optionen hängen von deinem Land, dem aktuellen Checkout und dem Zahlungsanbieter ab. Siehe unseren [KakoBuy-Leitfaden](/de/ordering/kakobuy).
 :::
 
 ::: tip Prüfzeit bei Wise & Überweisung
@@ -123,5 +123,5 @@ Vertrauenswürdige Verkäufer verwenden ein sicheres Krypto-Zahlungsgateway zur 
 
 **Hinweis: Einige Zahlungsanbieter können gelegentlich eine Identitätsprüfung (KYC) verlangen, um lokale Vorschriften einzuhalten. Dies ist jedoch nicht immer erforderlich.**
 
-**Alternative:** Wenn du jede Möglichkeit einer KYC-Verifizierung vermeiden möchtest, kannst du [KakoBuy](https://airreps.link/kakobuy) verwenden – eine Agentenplattform, die Produkte in deinem Namen bei Verkäufern kauft und vor dem Versand Bilder zur Qualitätskontrolle (QC) bereitstellt. KakoBuy verwendet reguläre Zahlungsanbieter, die Kredit- und Debitkarten akzeptieren und **niemals eine KYC-Verifizierung oder Identitätsprüfung verlangen**. Das macht KakoBuy zu einer ausgezeichneten Option, wenn du deine Karte ohne KYC-Anforderungen verwenden und gleichzeitig von der zusätzlichen Sicherheit durch QC-Bilder profitieren möchtest. Eine vollständige Anleitung findest du in unserem [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy).
+**Alternative:** [KakoBuy](https://airreps.link/kakobuy) kann für dich bei Verkäufern einkaufen und vor dem Versand QC-Fotos bereitstellen. Reguläre Kartenoptionen hängen von Land und aktuellem Checkout ab; Anbieter oder Kartenherausgeber können weiterhin Identitäts- oder Sicherheitsprüfungen verlangen. Siehe unseren [KakoBuy-Bestellleitfaden](/de/ordering/kakobuy).
 :::

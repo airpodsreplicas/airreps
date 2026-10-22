@@ -1,6 +1,6 @@
 ---
 title: Funktionieren AirPods-Kopien mit Android?
-description: 'Ja — so verhalten sich AirPods-Kopien unter Android: Kopplung, welche Funktionen funktionieren, warum die besten Firmware-Apps nur für Android verfügbar sind und was du vor dem Kauf prüfen solltest.'
+description: "AirPods-Repliken unter Android: Kopplung, unterstützte Funktionen, modellspezifische Begleit-Apps und Prüfungen vor dem Kauf."
 category: Deine Kopien verwenden
 order: 4
 ---
@@ -8,7 +8,7 @@ order: 4
 
 Ja. AirPods-Nachbauten lassen sich wie beliebige Bluetooth-Ohrhörer mit Android koppeln — verbinden, Musik abspielen, telefonieren und die Lautstärke anpassen. Die iOS-exklusiven Bestandteile des Erlebnisses hängen mit Apple-Software zusammen, und für einige davon gibt es Umgehungslösungen. In einem Bereich haben Android-Nutzer sogar den *besseren* Vorteil: bei den Firmware-Apps. Hier ist der vollständige Überblick.
 
-> **Kurzantwort:** Ja, AirPods-Nachbauten funktionieren unter Android vollständig als standardmäßige Bluetooth-Ohrhörer mit hoher Leistung. Die grundlegende Wiedergabe, Telefonate, die In-Ear-Erkennung und die aktive Geräuschunterdrückung (ANC) funktionieren nativ. Außerdem ist Android das einzige Betriebssystem, das Community-Begleit-Apps für Chipsätze (wie FlyCC und CloudCC) für benutzerdefinierte parametrische EQs und OTA-Firmware-Updates unterstützt.
+> **Kurzantwort:** Ja, AirPods-Nachbauten funktionieren unter Android vollständig als standardmäßige Bluetooth-Ohrhörer mit hoher Leistung. Die grundlegende Wiedergabe, Telefonate, die In-Ear-Erkennung und die aktive Geräuschunterdrückung (ANC) funktionieren nativ, sofern das Modell sie unterstützt. Android bietet eine große Auswahl an Begleit-Apps; FlyCC und StarFun gibt es auch für das iPhone. EQ und Firmware-Updates hängen vom genauen Modell sowie der Firmware- und App-Version ab.
 
 ## Koppeln: kein Popup, dasselbe Ergebnis
 
@@ -33,12 +33,12 @@ Nichts davon beeinträchtigt die alltägliche Nutzung unter Android; es handelt 
 
 ## Der Vorteil von Android: Firmware-Apps
 
-Hier kommt der entscheidende Punkt — **die meisten Firmware-Apps der Community sind nur für Android verfügbar**. Diese Apps aktualisieren die Firmware deiner Nachbauten (wodurch Funktionen wie Spatial Audio hinzugefügt oder die Stabilität verbessert werden können) und stimmen den EQ ab. Außerdem kannst du mit ihnen überhaupt erst feststellen, welchen Chip dein Paar verwendet.
+Die meisten Apps im Katalog sind Android-APKs. Bei unterstützten Modellen können sie EQ-Einstellungen oder Firmware-Updates anbieten; FlyCC und StarFun gibt es auch für das iPhone. Eine App-Verbindung ist kein zuverlässiger Nachweis für den verbauten Chip.
 
 Die wichtigsten — FlyCC, CloudCC, BullSuper, StarFun, KKX und weitere — sind auf unserer Seite zu [nützlichen Apps](/de/useful-apps) mit Download-Links und Tabellen zur Chipsatzunterstützung aufgeführt. Vor der Installation solltest du zwei Dinge wissen:
 
 1. Sie sind nicht im Play Store verfügbar. Aktiviere zunächst in deinen Sicherheitseinstellungen **„Installation aus unbekannten Quellen“**.
-2. Stimme die App auf deinen Chip ab. Du weißt nicht, welchen Chip du hast? Die Apps selbst dienen als Test — probiere sie nacheinander aus und schau, mit welcher eine Verbindung hergestellt wird, oder lies zuerst die Seite mit den [Versionsinformationen](/de/version-info/general).
+2. Wähle die App für dein genaues Modell und deinen Verkäufer anhand der [Versionsinformationen](/de/version-info/general) und [nützlichen Apps](/de/useful-apps). Probiere keine fremde Firmware aus, um einen Chip zu bestimmen.
 
 ## Nachbauten als Android-Nutzer kaufen
 
@@ -63,7 +63,7 @@ Nicht direkt — die Umbenennung und die Einstellungen der Tippsteuerung erfolge
 :::
 
 ::: details Warum verbindet sich mein Nachbau nicht mit den Firmware-Apps?
-Entweder ist die App nicht mit deinem Chip kompatibel, oder deine Nachbauten verwenden einen Jieli-Chipsatz der unteren Preisklasse, den keine Community-App unterstützt. Arbeite die Apps auf der Seite zu [nützlichen Apps](/de/useful-apps) nacheinander durch — wenn keine eine Verbindung herstellt, handelt es sich um einen Klon der unteren Klasse.
+Prüfe das genaue Modell, die App-Version und die Bluetooth-Berechtigungen anhand der [nützlichen Apps](/de/useful-apps). Kompatibilitäts- oder Berechtigungsprobleme können die Erkennung verhindern. Eine fehlgeschlagene Verbindung beweist weder einen bestimmten Chip noch einen minderwertigen Klon.
 :::
 
 ::: details Klingen AirPods-Nachbauten unter Android schlechter?
