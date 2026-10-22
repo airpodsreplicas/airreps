@@ -20,6 +20,15 @@ export default {
         ctx.app.component('Articles', Articles);
 
         if (typeof window !== 'undefined') {
+            // In VitePress 2.0.0-alpha.19, before the initial route loads this is the shared default
+            // not-found data. Its frontmatter is also used for later missing
+            // routes. Give it the exact SSR fallback tags so the native head
+            // manager adopts/removes them when navigating back to a real page.
+            const defaultPage = ctx.router.route.data;
+            const notFoundHead = ctx.siteData.value.themeConfig.synthetic404Head;
+            if (defaultPage.isNotFound && !defaultPage.filePath && Array.isArray(notFoundHead)) {
+                defaultPage.frontmatter.head = notFoundHead;
+            }
             const beforeRoute = ctx.router.onBeforeRouteChange;
             ctx.router.onBeforeRouteChange = async (to: string) => {
                 if ((await beforeRoute?.(to)) === false) {
