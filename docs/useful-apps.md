@@ -46,7 +46,7 @@ New to FlyCC? Our [FlyCC guide](/articles/flycc-app-guide) covers Android and iP
 
 These are the Android files linked above, checked on **22 October 2026**. Version and package names are declared in each file’s manifest. A checksum identifies the exact download; it does not establish safety, compatibility or that the file is the latest manufacturer release. Nothing was installed or executed for this check. Keep CloudCC’s deprecation warning above in mind.
 
-::: details Which Android versions and checksums were checked?
+::: details Versions, file sizes and SHA-256 checksums
 
 **FlyCC (Android)** — declared version **2.0.29**, package `com.airoha.twshelper`, **23,397,442 bytes**.
 
