@@ -8,6 +8,8 @@ Das Aktualisieren der Firmware deiner Reps kann häufig neue Funktionen wie Spat
 
 Unten findest du Apps, die heruntergeladen werden können, sowie die Versionen und Chipsets der Reps, die sie unterstützen. Wenn du Probleme beim Installieren von Apps außerhalb des Play Stores hast, stelle sicher, dass du in den Einstellungen die Option 'Installation aus unbekannten Quellen erlauben' aktivierst (im Bereich Sicherheit oder Bedienungshilfen). Diese Apps können auch helfen, die [Klangqualität](/de/introduction/sound-quality) über EQ-Einstellungen anzupassen. Für weitere Informationen zur Nutzung dieser Apps und zur Vermeidung von Problemen besuche unseren [Discord](https://airreps.link/discord).
 
+Informationen zur Modellkompatibilität und zu Vorsichtsmaßnahmen findest du im [FlyCC-Leitfaden](/de/articles/flycc-app-guide) und im [Leitfaden zu Firmware-Updates](/de/articles/how-to-update-fake-airpods-firmware).
+
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="APK für FlyCC (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="FlyCC (iOS) im App Store herunterladen" target="_blank" rel="noreferrer">App Store</a></span> |

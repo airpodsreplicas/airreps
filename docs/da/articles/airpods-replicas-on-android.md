@@ -1,6 +1,6 @@
 ---
 title: Virker AirPods-kopier med Android?
-description: 'Ja — her er, hvordan AirPods-kopier fungerer på Android: parring, hvilke funktioner der virker, hvorfor de bedste firmware-apps kun findes til Android, og hvad du bør tjekke, før du køber.'
+description: "AirPods-kopier på Android: parring, understøttede funktioner, modelspecifikke hjælpeapps og hvad du skal tjekke før køb."
 category: Brug af dine kopier
 order: 4
 ---
@@ -8,7 +8,7 @@ order: 4
 
 Ja. AirPods-kopier parres med Android ligesom alle andre Bluetooth-øretelefoner — opret forbindelse, afspil musik, foretag opkald, juster lydstyrken. De iOS-eksklusive dele af oplevelsen er dem, der er knyttet til Apples software, og nogle af dem har alternative løsninger. Der er endda ét område, hvor Android-brugere får den *bedre* løsning: firmware-apps. Her er det fulde overblik.
 
-> **Kort svar:** Ja, AirPods-kopier fungerer fuldt ud på Android som standard-Bluetooth-øretelefoner med høj ydeevne. Grundlæggende afspilning, telefonopkald, registrering i øret og aktiv støjreduktion (ANC) fungerer direkte. Desuden er Android det eneste operativsystem, der understøtter community-apps til chipsets (som FlyCC og CloudCC) til tilpasset parametrisk EQ og OTA-firmwareopdateringer.
+> **Kort svar:** Ja, AirPods-kopier fungerer fuldt ud på Android som standard-Bluetooth-øretelefoner med høj ydeevne. Grundlæggende afspilning, telefonopkald, registrering i øret og aktiv støjreduktion (ANC) fungerer direkte, når modellen understøtter dem. Android har et stort udvalg af hjælpeapps; FlyCC og StarFun findes også til iPhone. EQ og firmwareopdateringer afhænger af den præcise model, firmware og appversion.
 
 ## Parring: ingen popup, samme resultat
 
@@ -33,12 +33,12 @@ Ingen af disse ting påvirker den daglige brug på Android; de er opsætningsbek
 
 ## Android-fordelen: firmware-apps
 
-Her kommer overraskelsen — **de fleste af communityets firmware-apps er kun tilgængelige på Android**. Disse apps opdaterer dine kopiers firmware (hvilket kan tilføje funktioner som Spatial Audio eller forbedre stabiliteten) og finjusterer EQ'en. Det er også gennem dem, du identificerer, hvilket chipset dit par bruger.
+De fleste apps i kataloget er Android-APK’er. På understøttede modeller kan de tilbyde EQ eller firmwareopdateringer; FlyCC og StarFun findes også til iPhone. En appforbindelse er ikke en pålidelig test af, hvilken chip øretelefonerne indeholder.
 
 De vigtigste — FlyCC, CloudCC, BullSuper, StarFun, KKX og flere — er samlet med downloadlinks og tabeller over understøttede chipsets på vores side med [nyttige apps](/da/useful-apps). To ting, du skal vide, før du installerer:
 
 1. De findes ikke i Play Butik. Aktivér først **"Installer fra ukendte kilder"** i dine sikkerhedsindstillinger.
-2. Match appen med dit chipset. Er du ikke sikker på, hvilket chipset du har? Selve appsene er testen — prøv dem én ad gangen, og se hvilken der opretter forbindelse, eller læs siden med [versionsoplysninger](/da/version-info/general) først.
+2. Find appen til din præcise model og sælger via [versionsoplysningerne](/da/version-info/general) og [nyttige apps](/da/useful-apps). Prøv ikke firmware til andre modeller for at identificere en chip.
 
 ## Køb af kopier som Android-bruger
 
@@ -63,7 +63,7 @@ Ikke direkte — omdøbning og indstillinger for trykstyring foretages via iOS. 
 :::
 
 ::: details Hvorfor opretter mine kopier ikke forbindelse til firmware-appsene?
-Enten passer appen ikke til dit chipset, eller også bruger dine kopier et Jieli-chipset i den lave ende, som ingen community-app understøtter. Gennemgå appsene på siden med [nyttige apps](/da/useful-apps) én ad gangen — hvis ingen af dem opretter forbindelse, har du en billig kopi i den laveste klasse.
+Tjek den præcise model, appversionen og Bluetooth-tilladelserne via [nyttige apps](/da/useful-apps). Kompatibilitets- eller tilladelsesproblemer kan forhindre registrering; en mislykket forbindelse beviser ikke, hvilken chip dit par har, eller at det er en billig kopi.
 :::
 
 ::: details Lyder AirPods-kopier dårligere på Android?

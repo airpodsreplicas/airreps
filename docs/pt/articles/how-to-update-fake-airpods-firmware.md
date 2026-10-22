@@ -6,71 +6,54 @@ order: 16
 ---
 # Como atualizar o firmware de AirPods falsificados: guia passo a passo
 
-Ao contrário dos AirPods genuínos da Apple, que são atualizados silenciosamente em segundo plano pelo iOS, as réplicas de AirPods são atualizadas por meio de aplicativos complementares da comunidade executados no Android ou macOS. A atualização do firmware pode resolver bugs de comunicação com o iOS, melhorar a estabilidade do cancelamento ativo de ruído (ANC) ou corrigir quedas de conexão.
+Os AirPods originais da Apple são atualizados automaticamente pelos seus dispositivos Apple. As réplicas não. O firmware delas vem da fabricante e é instalado por um aplicativo complementar, apenas para os modelos que a fabricante suporta. Uma atualização pode corrigir problemas de compatibilidade com o iOS ou quedas de conexão e, às vezes, adiciona recursos.
 
-No entanto, a gravação do firmware escreve diretamente no armazenamento flash interno do fone. Uma atualização interrompida pode inutilizar permanentemente um controlador. Este guia aborda os procedimentos seguros de gravação, testados pela comunidade, para todos os principais chipsets de réplicas.
+A atualização grava um novo firmware nos fones, então uma atualização interrompida ou incorreta pode deixá-los inutilizáveis. O processo exato depende do modelo e do aplicativo, por isso este guia explica o que verificar e como atualizar com segurança, em vez de passar uma única sequência para todos os pares.
 
-> **Resposta rápida:** para atualizar o firmware de réplicas de AirPods, primeiro identifique seu chipset para escolher o utilitário correto: **FlyCC** (Airoha), **CloudCC** (TigerBuilder) ou **Starfun** (Huilian). Certifique-se de que ambos os fones e o estojo de carregamento estejam carregados acima de 80%. Mantenha a tampa do estojo aberta, deixe ambos os fones encaixados dentro dele, inicie a atualização OTA no aplicativo e não feche a tampa, desative o Bluetooth nem saia do aplicativo até que o progresso chegue a 100%.
+> **Resposta rápida:** primeiro identifique o seu modelo exato e o vendedor e depois use o aplicativo indicado para essa fabricante em [Aplicativos úteis](/pt/useful-apps): **FlyCC** para modelos da TigerBuilder (Airoha) ou **StarFun** para Huilian, ambos disponíveis para Android e iPhone. Se o aplicativo oferecer uma atualização para o seu modelo, siga as instruções na tela, mantenha os fones carregados e perto do celular e não interrompa a atualização. Se o seu par funciona bem e a atualização não corrige nenhum problema que você tenha, pule-a.
 
 ::: warning A regra de ouro: se funciona, não mexa
-As atualizações de firmware em réplicas não funcionam como patches de videogame. Elas são lançadas principalmente para corrigir mudanças incompatíveis causadas por grandes atualizações do iOS ou para resolver bugs graves de hardware. Se seus fones atualmente se conectam sem problemas, têm um ótimo som e o ANC funciona perfeitamente, **não atualize o firmware**. A gravação desnecessária apenas introduz o risco de inutilização.
+As atualizações de firmware das réplicas geralmente corrigem problemas causados por grandes atualizações do iOS ou bugs conhecidos. Se os seus fones se conectam sem problemas, têm um som ótimo, o ANC funciona e a atualização não corrige um problema que você realmente tenha, **não atualize o firmware**. Uma atualização desnecessária só acrescenta risco.
 :::
 
-## Lista de verificação de segurança antes da atualização
+## Antes de atualizar
 
-Antes de tocar no botão de atualização, verifique estas quatro condições sem exceção:
+1. **Saiba o seu modelo exato e o vendedor**: confira o pedido e o nome do produto no anúncio do vendedor e depois encontre essa versão nas [páginas de versões](/pt/version-info/general). Os números de chip nos anúncios dos vendedores não são confiáveis por si só.
+2. **Tenha um motivo**: procure um aviso do vendedor, uma observação na página da sua versão ou uma solução confirmada no [Discord do AirReps](https://airreps.link/discord) para um problema que você tenha.
+3. **Use a versão atual do aplicativo certo** em [Aplicativos úteis](/pt/useful-apps) e conceda as permissões de Bluetooth que ele pedir.
+4. **Carregue antes**: carregue os fones e o estojo antes de começar, para que nada fique sem bateria durante a atualização.
+5. **Mantenha a conexão estável**: deixe o celular por perto, com a tela ligada e o aplicativo aberto até a atualização terminar.
 
-1. **Nível da bateria acima de 80%**: certifique-se de que ambos os fones e o estojo de carregamento tenham pelo menos 80% de carga. Se um fone ficar sem energia no meio da gravação, o bootloader será corrompido.
-2. **Mantenha o estojo conectado à energia**: conecte o estojo de carregamento a um adaptador de parede de 5V/1A ou a um power bank durante a atualização.
-3. **Deixe a tampa aberta**: os fones devem permanecer encaixados nos pinos de carregamento, com a tampa do estojo aberta, durante toda a transferência.
-4. **Desative o bloqueio automático / suspensão da tela**: mantenha a tela do telefone ativa. Se o telefone entrar em suspensão profunda ou fechar processos em segundo plano, a transferência Bluetooth poderá travar.
+## Etapa 1: escolha o aplicativo de acordo com a fabricante
 
-## Etapa 1: identifique seu chipset e aplicativo
+Nosso [catálogo de aplicativos úteis](/pt/useful-apps) é organizado por fabricante. Use o aplicativo indicado para o seu modelo:
 
-Gravar um binário de firmware destinado a um chip Airoha em uma placa Huilian inutilizará imediatamente a unidade. Associe seu utilitário ao chip usando nosso [catálogo de aplicativos úteis](/pt/useful-apps):
+- **TigerBuilder** (chips Airoha como o 1562AE, o 1563E e o 1571AM) → **FlyCC**, no Android e no iPhone. Leia nosso [guia do aplicativo FlyCC](/pt/articles/flycc-app-guide). O **CloudCC** foi descontinuado desde que a TigerBuilder integrou a função OTA ao FlyCC; use-o apenas como alternativa para o problema de permissão de armazenamento.
+- **Huilian** → **StarFun**, no Android e no iPhone.
+- Modelos **HR**, **BES** e **V2.5/KKX** → os aplicativos listados nessas seções de Aplicativos úteis.
+- **Clones Jieli (Jerry) de baixo custo** → nenhum aplicativo do catálogo é compatível com eles.
 
-- **Chipsets Airoha (1562AE, 1562E, 1571AM)** $\to$ use o **FlyCC** (leia nosso [guia do aplicativo FlyCC](/pt/articles/flycc-app-guide)).
-- **Chipsets TigerBuilder (1562AE/TB, 1571AM/TB)** $\to$ use o **CloudCC**.
-- **Chipsets Huilian (247, 277, 377, 377H3)** $\to$ use o **Starfun**.
-- **Chipsets Jieli (Jerry)** $\to$ clones Jieli de categoria básica não são compatíveis com atualizações de firmware OTA.
+Nem todo aplicativo oferece atualizações de firmware para todos os modelos aos quais se conecta. Instale apenas as atualizações que o aplicativo certo oferecer para o modelo detectado e nunca carregue um firmware feito para outro produto.
 
-## Etapa 2: procedimentos de atualização passo a passo
+## Etapa 2: faça a atualização no aplicativo
 
-### Método A: atualizando com o FlyCC (Airoha)
+As telas de atualização variam conforme o aplicativo e o modelo, então siga o que o seu aplicativo mostrar em vez de uma sequência genérica:
 
-1. Conecte seus AirPods ao dispositivo Android usando as configurações padrão de Bluetooth.
-2. Abra o **FlyCC** e verifique se o seu modelo aparece na tela inicial.
-3. Toque em **Atualização de firmware** (ou **Atualização OTA**).
-4. Toque em **Verificar atualizações**. Se uma nova versão for detectada, o aplicativo exibirá o número da compilação e o registro de alterações.
-5. Toque em **Iniciar atualização**. Você verá duas etapas: a transferência do binário para o fone esquerdo e, depois, para o fone direito.
-6. Quando o progresso chegar a 100%, aguarde a mensagem: *"Atualização bem-sucedida"*.
-7. Feche a tampa do estojo de carregamento e deixe-o imóvel por 60 segundos para permitir que os microcontroladores sejam reiniciados.
+1. Conecte os fones nas configurações de Bluetooth do celular, depois abra o aplicativo e espere até ele detectar o seu modelo.
+2. Abra a opção de firmware ou de atualização, se houver, e compare a versão instalada com a oferecida. Se o aplicativo disser que você já tem o firmware mais recente, pronto.
+3. Leia as instruções que o aplicativo dá para o seu modelo, inclusive sobre onde os fones devem ficar durante a atualização, e siga-as à risca.
+4. Inicie a atualização e não mexa em nada até o aplicativo confirmar que ela foi concluída. Não feche o aplicativo, não desative o Bluetooth e não se afaste com o celular.
+5. Depois, confira a versão no aplicativo e teste os fones. Se o emparelhamento der problema, esqueça os fones e emparelhe-os de novo (veja [Como redefinir AirPods falsificados](/pt/articles/how-to-reset-fake-airpods)).
 
-### Método B: atualizando com o CloudCC (TigerBuilder)
-
-1. Coloque ambos os fones no estojo com a tampa aberta.
-2. Abra o **CloudCC** e toque em **Pesquisar dispositivo**.
-3. Selecione seu dispositivo TigerBuilder quando ele for detectado.
-4. Acesse a aba **Firmware** e toque em **Consultar versão mais recente**.
-5. Selecione o pacote na nuvem e toque em **Baixar e atualizar**.
-6. Mantenha o telefone repousado diretamente ao lado do estojo de carregamento até que a mensagem confirme a conclusão.
-
-### Método C: atualizando com o Starfun (Huilian)
-
-1. Certifique-se de que os fones estejam conectados ao telefone e que a tampa esteja aberta.
-2. Abra o **Starfun** e toque no ícone **Configurações / Firmware**.
-3. Compare a versão atual do firmware com a versão mais recente disponível na nuvem.
-4. Toque em **Atualizar**. O aplicativo gravará os blocos de configuração sequencialmente.
-5. Após a reinicialização, esqueça o dispositivo no menu Bluetooth do telefone e faça uma reinicialização simples.
+No **iPhone**, tanto o FlyCC quanto o StarFun oferecem atualizações de firmware para produtos selecionados. As notas do FlyCC na App Store mencionam suporte OTA à plataforma AB157x da Airoha desde a versão 1.1.1, e o StarFun lista o OTA entre as suas funções (páginas do [FlyCC](https://apps.apple.com/us/app/flycc/id1661245709) e do [StarFun](https://apps.apple.com/us/app/starfun/id1633624617) na App Store, verificadas em 22 de outubro de 2026). No **Android**, use os APKs de Aplicativos úteis. O Android 12 e versões mais recentes pedem a permissão Dispositivos próximos, enquanto versões mais antigas do Android ou apps mais antigos podem precisar da permissão de Localização para buscar dispositivos Bluetooth ([documentação do Android para desenvolvedores](https://developer.android.com/develop/connectivity/bluetooth/bt-permissions)).
 
 ## O que fazer se uma atualização travar ou falhar
 
-Se uma atualização ficar presa em uma porcentagem específica (por exemplo, congelada em 45% por mais de 5 minutos):
+- **Dê tempo e mantenha a conexão**: deixe os fones onde o aplicativo indicou e mantenha o celular por perto. Se o aplicativo tiver a própria opção de tentar novamente, use-a.
+- **Não troque para outro aplicativo ou outro arquivo de firmware** para consertar uma atualização que falhou.
+- **Fale com o vendedor** se a atualização falhar ou os fones pararem de responder. Informe o número do pedido, o modelo, o nome e a versão do aplicativo, além do seu celular e da versão do sistema, e envie capturas de tela de qualquer erro. Você também pode perguntar no [Discord do AirReps](https://airreps.link/discord).
 
-1. **Não feche a tampa nem remova os fones.**
-2. Verifique se o Bluetooth foi desconectado. Se o aplicativo permitir, toque em **Tentar novamente** ou reinicie o aplicativo, mantendo os fones no lugar.
-3. Se os fones ficarem completamente sem resposta, siga nosso [guia de como redefinir AirPods falsificados](/pt/articles/how-to-reset-fake-airpods) para executar uma reinicialização forçada de 15 segundos do controlador.
-4. Reabra o aplicativo de atualização — na maioria dos casos, o bootloader de recuperação permitirá que você grave novamente o pacote a partir de 0%.
+A recuperação depende do modelo, então não existe uma redefinição universal que desfaça uma atualização que falhou. O [guia de redefinição](/pt/articles/how-to-reset-fake-airpods) serve para problemas de emparelhamento, não para recuperar o firmware.
 
 ## Guias relacionados de solução de problemas
 
@@ -82,7 +65,7 @@ Se uma atualização ficar presa em uma porcentagem específica (por exemplo, co
 ## Perguntas frequentes
 
 ::: details Posso atualizar o firmware de réplicas de AirPods em um iPhone?
-Não. O iOS não permite que aplicativos complementares gravem firmware via Bluetooth em acessórios que não sejam compatíveis com MFi. Você precisará pegar emprestado um telefone Android (ou usar um Mac compatível) para gravar as atualizações de firmware. Depois de atualizado, o firmware permanecerá permanentemente nos fones.
+Sim, em modelos selecionados. O FlyCC e o StarFun têm versões para iPhone na App Store, e os dois oferecem atualizações de firmware para alguns produtos. Nem todo par recebe atualização no iPhone: isso depende do modelo, do firmware dele e da versão do aplicativo. Por exemplo, nossa [página dos AirPods Pro 2](/pt/version-info/pro#airpods-pro-2) recomenda verificar o firmware dos V5.3 TB no FlyCC para iOS. O Android também é uma opção com os APKs de Aplicativos úteis, desde que você use o aplicativo indicado para o seu modelo.
 :::
 
 ::: details Uma atualização dará aos meus AirPods réplica a rede Buscar da Apple?
@@ -90,5 +73,5 @@ Não. A rede Buscar depende de certificados criptográficos proprietários da Ap
 :::
 
 ::: details Uma atualização de firmware pode inutilizar meus AirPods falsificados?
-Sim, se a atualização for interrompida por uma bateria descarregada, pelo fechamento prematuro da tampa ou pela gravação de um binário de firmware destinado a um chipset diferente. Siga sempre a lista de verificação de segurança antes da atualização acima.
+Pode. Uma atualização interrompida por bateria descarregada ou queda de conexão, ou um firmware feito para outro produto, pode deixar um par inutilizável. Instale apenas as atualizações que o aplicativo certo oferecer para o seu modelo, siga as instruções dele e pule as atualizações de que você não precisa.
 :::

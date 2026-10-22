@@ -7,71 +7,54 @@ order: 16
 
 # How to Update Fake AirPods Firmware: Step-by-Step Guide
 
-Unlike genuine Apple AirPods, which update silently in the background via iOS, AirPods replicas update through community companion apps running on Android or macOS. Updating firmware can resolve iOS handshake bugs, improve Active Noise Cancellation (ANC) stability, or fix connection drops.
+Genuine Apple AirPods update automatically through your Apple devices. Replicas don't. Their firmware comes from the manufacturer and is installed through a companion app, and only for models the manufacturer supports. An update can fix iOS compatibility problems or connection drops, and sometimes adds features.
 
-However, flashing firmware writes directly to the earbud's internal flash storage. An interrupted update can permanently brick a controller. This guide covers the safe, community-tested flashing procedures for every major replica chipset.
+Updating writes new firmware to the earbuds, so an interrupted or mismatched update can leave them unusable. The exact process depends on the model and the app, so this guide covers what to check and how to update safely rather than one sequence for every pair.
 
-> **Quick Answer:** To update replica AirPods firmware, first identify your chipset to choose the correct utility: **FlyCC** (Airoha), **CloudCC** (TigerBuilder), or **Starfun** (Huilian). Ensure both earbuds and the charging case are charged above 80%. Keep the case lid open, leave both earbuds seated inside, start the OTA update in the app, and do not close the lid, toggle Bluetooth, or exit the app until the progress reaches 100%.
+> **Quick Answer:** Identify your exact model and seller first, then use the app listed for that manufacturer in [Useful Apps](/useful-apps): **FlyCC** for TigerBuilder (Airoha) models or **StarFun** for Huilian, both available on Android and iPhone. If the app offers an update for your model, follow its on-screen instructions, keep the earbuds charged and close to your phone, and don't interrupt the update. If your pair works well and the update doesn't fix a problem you have, skip it.
 
 ::: warning The Cardinal Rule: If it works, don't touch it
-Firmware updates on replicas do not function like video game patches. They are released primarily to fix breaking changes caused by major iOS updates or to resolve severe hardware bugs. If your earbuds currently connect smoothly, sound great, and ANC operates without flaw, **do not update firmware**. Unnecessary flashing only introduces bricking risk.
+Replica firmware updates mostly fix problems caused by major iOS updates or known bugs. If your earbuds connect smoothly, sound great and ANC works, and the update doesn't fix a problem you actually have, **do not update firmware**. An unnecessary update only adds risk.
 :::
 
-## The pre-update safety checklist
+## Before you update
 
-Before touching the update button, verify these four conditions without exception:
+1. **Know your exact model and seller**: Check your order and the seller's product name, then find that version on the [version pages](/version-info/general). Chip numbers in seller listings aren't reliable on their own.
+2. **Have a reason**: Look for a seller notice, a note on your version's page, or a confirmed fix in the [AirReps Discord](https://airreps.link/discord) for a problem you have.
+3. **Use the current version of the right app** from [Useful Apps](/useful-apps), and grant the Bluetooth permissions it asks for.
+4. **Charge first**: Charge the earbuds and the case before you start, so nothing runs low during the update.
+5. **Keep the connection stable**: Keep your phone close, the screen on and the app open until the update has finished.
 
-1. **Battery level above 80%**: Ensure both earbuds and the charging case have at least 80% charge. If an earbud runs out of power mid-flash, the bootloader will corrupt.
-2. **Keep the case connected to power**: Plug the charging case into a 5V/1A wall adapter or power bank during the update.
-3. **Leave the lid open**: The earbuds must remain seated in their charging pins with the case lid open throughout the entire transfer.
-4. **Disable Auto-Lock / Screen Sleep**: Keep your phone screen awake. If your phone enters deep sleep or closes background processes, the Bluetooth transfer may stall.
+## Step 1: Match the app to your manufacturer
 
-## Step 1: Identify your chipset and app
+Our [Useful Apps catalog](/useful-apps) is organised by manufacturer. Use the app listed for your model:
 
-Flashing a firmware binary intended for an Airoha chip onto a Huilian board will instantly brick the unit. Match your utility to your chip from our [Useful Apps catalog](/useful-apps):
+- **TigerBuilder** (Airoha chips such as the 1562AE, 1563E and 1571AM) → **FlyCC**, on Android and iPhone. Read our [FlyCC App Guide](/articles/flycc-app-guide). **CloudCC** has been deprecated since TigerBuilder integrated OTA into FlyCC; only use it as a workaround for the storage permission issue.
+- **Huilian** → **StarFun**, on Android and iPhone.
+- **HR**, **BES** and **V2.5/KKX** models → the apps listed under those headings in Useful Apps.
+- **Low-tier Jieli (Jerry) clones** → no app in the catalog supports them.
 
-- **Airoha Chipsets (1562AE, 1562E, 1571AM)** $\to$ Use **FlyCC** (Read our [FlyCC App Guide](/articles/flycc-app-guide)).
-- **TigerBuilder Chipsets (1562AE/TB, 1571AM/TB)** $\to$ Use **CloudCC**.
-- **Huilian Chipsets (247, 277, 377, 377H3)** $\to$ Use **Starfun**.
-- **Jieli (Jerry) Chipsets** $\to$ Low-tier Jieli clones do not support OTA firmware updates.
+Not every app offers firmware updates for every model it connects to. Only install updates that the correct app offers for your detected model, and never load firmware meant for a different product.
 
-## Step 2: Step-by-step update procedures
+## Step 2: Run the update in the app
 
-### Method A: Updating with FlyCC (Airoha)
+Update screens differ between apps and models, so follow what your app shows rather than a generic sequence:
 
-1. Connect your AirPods to your Android device via standard Bluetooth settings.
-2. Launch **FlyCC** and verify that your model appears on the home screen.
-3. Tap **Firmware Update** (or **OTA Update**).
-4. Tap **Check for Updates**. If a new version is detected, the app will display the build number and changelog.
-5. Tap **Start Update**. You will see two stages: transferring the binary to the left earbud, then the right earbud.
-6. Once the progress hits 100%, wait for the message: *"Update Successful"*.
-7. Close the charging case lid and leave it undisturbed for 60 seconds to allow the microcontrollers to reboot.
+1. Connect the earbuds in your phone's Bluetooth settings, then open the app and wait for it to detect your model.
+2. Open its firmware or update option, if it has one, and compare the installed version with the one on offer. If the app says you already have the latest firmware, you're done.
+3. Read the instructions the app gives for your model, including where the earbuds should be during the update, and follow them exactly.
+4. Start the update and leave everything alone until the app confirms it's complete. Don't close the app, turn off Bluetooth or walk away with the phone.
+5. Afterwards, check the version in the app and test the earbuds. If pairing acts up, forget and re-pair them (see [How to Reset Fake AirPods](/articles/how-to-reset-fake-airpods)).
 
-### Method B: Updating with CloudCC (TigerBuilder)
-
-1. Place both earbuds in the case with the lid open.
-2. Open **CloudCC** and tap **Search Device**.
-3. Select your TigerBuilder device once detected.
-4. Navigate to the **Firmware** tab and tap **Query Latest Version**.
-5. Select the cloud package and tap **Download and Update**.
-6. Keep the phone resting directly next to the charging case until the prompt confirms completion.
-
-### Method C: Updating with Starfun (Huilian)
-
-1. Ensure the earbuds are connected to your phone and the lid is open.
-2. Open **Starfun** and tap the **Settings / Firmware** icon.
-3. Check the current firmware version against the latest cloud release.
-4. Tap **Upgrade**. The app will write the configuration blocks sequentially.
-5. After rebooting, forget the device in your phone's Bluetooth menu and perform a soft reset.
+On **iPhone**, FlyCC and StarFun both offer firmware upgrades for selected products. FlyCC's App Store notes list OTA support for Airoha's AB157x platform since version 1.1.1, and StarFun lists OTA among its functions ([FlyCC](https://apps.apple.com/us/app/flycc/id1661245709) and [StarFun](https://apps.apple.com/us/app/starfun/id1633624617) listings, checked 2026-10-22). On **Android**, use the APKs from Useful Apps. Android 12 and newer ask for the Nearby devices permission, while older Android versions or older apps can need Location permission for Bluetooth scanning ([Android developer documentation](https://developer.android.com/develop/connectivity/bluetooth/bt-permissions)).
 
 ## What to do if an update freezes or fails
 
-If an update hangs at a specific percentage (e.g. frozen at 45% for over 5 minutes):
+- **Give it time and keep the connection**: Leave the earbuds where the app told you to and keep the phone close. If the app offers its own retry option, use it.
+- **Don't switch to another app or firmware file** to fix a failed update.
+- **Contact your seller** if the update fails or the earbuds stop responding. Include your order number, model, the app name and version, and your phone and OS version, plus screenshots of any error. You can also ask in the [AirReps Discord](https://airreps.link/discord).
 
-1. **Do not close the lid or remove the earbuds.**
-2. Check if Bluetooth disconnected. If the app allows, tap **Retry** or restart the app while leaving the earbuds in place.
-3. If the earbuds become completely unresponsive, follow our [How to Reset Fake AirPods Guide](/articles/how-to-reset-fake-airpods) to execute a 15-second controller hard reset.
-4. Reopen the update app — in most cases, the recovery bootloader will allow you to reflash the package from 0%.
+Recovery depends on the model, so there's no universal reset that undoes a failed update. The [reset guide](/articles/how-to-reset-fake-airpods) is for pairing problems, not a firmware recovery tool.
 
 ## Related troubleshooting guides
 
@@ -83,7 +66,7 @@ If an update hangs at a specific percentage (e.g. frozen at 45% for over 5 minut
 ## FAQ
 
 ::: details Can I update replica AirPods firmware on an iPhone?
-No. iOS does not allow companion apps to write firmware over Bluetooth to non-MFi accessories. You must borrow an Android phone (or use a compatible Mac) to flash firmware updates. Once updated, the firmware stays on the earbuds permanently.
+Yes, for selected models. FlyCC and StarFun have iPhone versions on the App Store, and both offer firmware upgrades for some products. Not every pair gets an update on iPhone: it depends on the model, its firmware and the app version. For example, our [AirPods Pro 2 page](/version-info/pro#airpods-pro-2) suggests checking V5.3 TB firmware in FlyCC on iOS. Android is also an option through the APKs in Useful Apps, as long as you use the app listed for your model.
 :::
 
 ::: details Will an update give my AirPods replica Apple's Find My network?
@@ -91,5 +74,5 @@ No. The Find My network relies on proprietary Apple cryptographic certificates t
 :::
 
 ::: details Can a firmware update brick my fake AirPods?
-Yes, if the update is interrupted by a dead battery, closing the lid prematurely, or flashing a firmware binary meant for a different chipset. Always follow the pre-update safety checklist above.
+It can. An update interrupted by a flat battery or a lost connection, or firmware meant for a different product, can leave a pair unusable. Only install updates the correct app offers for your model, follow its instructions, and skip updates you don't need.
 :::

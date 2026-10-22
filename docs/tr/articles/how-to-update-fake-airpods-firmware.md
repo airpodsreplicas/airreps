@@ -4,91 +4,75 @@ description: 'FlyCC, CloudCC ve Starfun kullanarak AirPods replikalarının ür�
 category: Sorun Giderme
 order: 16
 ---
+
 # Sahte AirPods aygıt yazılımı nasıl güncellenir: adım adım kılavuz
 
-iOS üzerinden arka planda sessizce güncellenen orijinal Apple AirPods'un aksine, AirPods replikaları Android veya macOS üzerinde çalışan topluluk destekli yardımcı uygulamalar aracılığıyla güncellenir. Aygıt yazılımını güncellemek; iOS el sıkışma hatalarını giderebilir, Aktif Gürültü Engelleme (ANC) kararlılığını artırabilir veya bağlantı kopmalarını düzeltebilir.
+Orijinal Apple AirPods, Apple cihazlarınız üzerinden otomatik güncellenir. Replikaların ürün yazılımı ise üreticiden gelir ve yalnızca desteklenen modellerde bir yardımcı uygulamayla yüklenir. Güncelleme, iOS uyumluluğu veya bağlantı sorunlarını düzeltebilir ve bazen yeni özellikler ekleyebilir.
 
-Ancak aygıt yazılımını yüklemek, doğrudan kulaklığın dahili flash depolamasına yazma işlemi gerçekleştirir. Kesintiye uğrayan bir güncelleme, bir denetleyiciyi kalıcı olarak kullanılmaz hâle getirebilir. Bu kılavuz, başlıca tüm replika yonga setleri için güvenli ve topluluk tarafından test edilmiş yükleme yöntemlerini kapsar.
+Kesintiye uğrayan veya yanlış modele ait bir güncelleme kulaklıkları kullanılamaz hâle getirebilir. Süreç modele ve uygulamaya bağlıdır; bu nedenle tek bir yükleme tarifi yerine kontrol edilmesi gereken noktaları ele alıyoruz.
 
-> **Kısa yanıt:** Replika AirPods aygıt yazılımını güncellemek için öncelikle doğru yardımcı programı seçmek üzere yonga setinizi belirleyin: **FlyCC** (Airoha), **CloudCC** (TigerBuilder) veya **Starfun** (Huilian). Her iki kulaklığın ve şarj kutusunun %80'den fazla şarjlı olduğundan emin olun. Kutu kapağını açık bırakın, her iki kulaklığı da kutunun içine yerleştirilmiş durumda tutun, uygulamada OTA güncellemesini başlatın ve ilerleme %100'e ulaşana kadar kapağı kapatmayın, Bluetooth'u değiştirmeyin veya uygulamadan çıkmayın.
+> **Kısa yanıt:** Önce tam modelinizi ve satıcınızı belirleyin, ardından [Kullanışlı Uygulamalar](/tr/useful-apps) sayfasında üreticiniz için listelenen uygulamayı kullanın: TigerBuilder (Airoha) modelleri için **FlyCC**, Huilian için **StarFun**. Her ikisinin de Android ve iPhone sürümleri vardır. Uygulama modeliniz için güncelleme sunuyorsa ekrandaki talimatları izleyin, kulaklıkları şarjlı ve telefonun yakınında tutun, işlemi kesmeyin. Kulaklıklarınız iyi çalışıyor ve güncelleme yaşadığınız bir sorunu çözmüyorsa güncellemeyin.
 
 ::: warning Temel kural: Çalışıyorsa kurcalamayın
-Replikalardaki aygıt yazılımı güncellemeleri video oyunu yamaları gibi çalışmaz. Güncellemeler öncelikle büyük iOS güncellemelerinin neden olduğu uyumsuzlukları gidermek veya ciddi donanım hatalarını çözmek için yayımlanır. Kulaklıklarınız şu anda sorunsuz bağlanıyor, harika ses veriyor ve ANC kusursuz çalışıyorsa **aygıt yazılımını güncellemeyin**. Gereksiz yükleme işlemleri yalnızca kullanılmaz hâle gelme riskini artırır.
+Güncellemeler çoğunlukla büyük iOS sürümlerinin yol açtığı sorunları veya bilinen hataları düzeltir. Kulaklıklarınız sorunsuz bağlanıyor, iyi ses veriyor ve ANC çalışıyorsa, güncelleme de yaşadığınız bir sorunu çözmüyorsa **ürün yazılımını güncellemeyin**. Gereksiz güncelleme yalnızca risk ekler.
 :::
 
-## Güncelleme öncesi güvenlik kontrol listesi
+## Güncellemeden önce
 
-Güncelleme düğmesine dokunmadan önce şu dört koşulu istisnasız olarak doğrulayın:
+1. **Tam modelinizi ve satıcınızı bilin**: Siparişinizi ve satıcının ürün adını kontrol edin, ardından [sürüm sayfalarında](/tr/version-info/general) ilgili modeli bulun. İlanlardaki yonga numaraları tek başına güvenilir değildir.
+2. **Bir nedeniniz olsun**: Satıcı duyurusunda, sürüm sayfasında veya [AirReps Discord’da](https://airreps.link/discord) yaşadığınız soruna yönelik doğrulanmış bir düzeltme arayın.
+3. [Kullanışlı Uygulamalar](/tr/useful-apps) üzerinden **doğru uygulamanın güncel sürümünü** kullanın ve gereken Bluetooth izinlerini verin.
+4. **Önce şarj edin**: İşlem sırasında pilin bitmemesi için kulaklıkları ve kutuyu önceden şarj edin.
+5. **Bağlantıyı sabit tutun**: İşlem tamamlanana kadar telefonu yakında, ekranı ve uygulamayı açık tutun.
 
-1. **Pil seviyesi %80'in üzerinde**: Her iki kulaklığın ve şarj kutusunun en az %80 şarjlı olduğundan emin olun. Bir kulaklığın yükleme sırasında şarjı biterse önyükleyici bozulur.
-2. **Kutuyu güce bağlı tutun**: Güncelleme sırasında şarj kutusunu 5 V/1 A değerinde bir duvar adaptörüne veya güç bankasına bağlayın.
-3. **Kapağı açık bırakın**: Kulaklıklar, aktarımın tamamı boyunca kutunun kapağı açık şekilde şarj pinlerine oturmuş durumda kalmalıdır.
-4. **Otomatik Kilit / Ekran Uyku özelliğini devre dışı bırakın**: Telefon ekranınızı açık tutun. Telefonunuz derin uykuya geçerse veya arka plan işlemlerini kapatırsa Bluetooth aktarımı durabilir.
+## 1. adım: Uygulamayı üreticiyle eşleştirin
 
-## 1. adım: Yonga setinizi ve uygulamayı belirleyin
+[Kullanışlı Uygulamalar kataloğu](/tr/useful-apps) üreticiye göre düzenlenmiştir. Modeliniz için listelenen uygulamayı kullanın:
 
-Airoha yongası için hazırlanmış bir aygıt yazılımı ikilisini Huilian kartına yüklemek, birimi anında kullanılmaz hâle getirir. Yardımcı programınızı [Yararlı Uygulamalar kataloğumuzdaki](/tr/useful-apps) yonga setinizle eşleştirin:
+- **TigerBuilder** (1562AE, 1563E ve 1571AM gibi Airoha yongaları) → Android ve iPhone’da **FlyCC**. [FlyCC kılavuzunu](/tr/articles/flycc-app-guide) okuyun. TigerBuilder OTA’yı FlyCC’ye eklediğinden beri **CloudCC** kullanımdan kaldırılmıştır; yalnızca depolama izni sorunu için geçici çözüm olarak kullanılır.
+- **Huilian** → Android ve iPhone’da **StarFun**.
+- **HR**, **BES** ve **V2.5/KKX** modelleri → katalogda bu başlıklar altında listelenen uygulamalar.
+- **Düşük seviye Jieli (Jerry) klonları** → katalogda bunları destekleyen uygulama yoktur.
 
-- **Airoha yonga setleri (1562AE, 1562E, 1571AM)** $\to$ **FlyCC** kullanın ([FlyCC Uygulama Kılavuzumuzu](/tr/articles/flycc-app-guide) okuyun).
-- **TigerBuilder yonga setleri (1562AE/TB, 1571AM/TB)** $\to$ **CloudCC** kullanın.
-- **Huilian yonga setleri (247, 277, 377, 377H3)** $\to$ **Starfun** kullanın.
-- **Jieli (Jerry) yonga setleri** $\to$ Düşük seviye Jieli klonları OTA aygıt yazılımı güncellemelerini desteklemez.
+Bir uygulama bağlandığı her model için güncelleme sunmaz. Yalnızca doğru uygulamanın algılanan modeliniz için sunduğu güncellemeleri yükleyin; başka bir ürüne ait ürün yazılımını kullanmayın.
 
-## 2. adım: Adım adım güncelleme işlemleri
+## 2. adım: Uygulama içinden güncelleyin
 
-### A yöntemi: FlyCC ile güncelleme (Airoha)
+Ekranlar uygulamaya ve modele göre değişir. Genel bir tarif yerine uygulamanızdaki talimatları izleyin:
 
-1. Standart Bluetooth ayarları üzerinden AirPods'unuzu Android cihazınıza bağlayın.
-2. **FlyCC** uygulamasını başlatın ve modelinizin ana ekranda göründüğünü doğrulayın.
-3. **Aygıt Yazılımı Güncellemesi** (veya **OTA Güncellemesi**) seçeneğine dokunun.
-4. **Güncellemeleri Denetle** seçeneğine dokunun. Yeni bir sürüm algılanırsa uygulama derleme numarasını ve değişiklik günlüğünü gösterir.
-5. **Güncellemeyi Başlat** seçeneğine dokunun. İki aşama göreceksiniz: önce ikili dosyanın sol kulaklığa, ardından sağ kulaklığa aktarılması.
-6. İlerleme %100'e ulaştığında şu mesajı bekleyin: *"Güncelleme başarılı"*
-7. Mikrodenetleyicilerin yeniden başlatılmasına izin vermek için şarj kutusunun kapağını kapatın ve kutuyu 60 saniye boyunca hareket ettirmeyin.
+1. Kulaklıkları telefonun Bluetooth ayarlarından bağlayın, uygulamayı açın ve modelinizi algılamasını bekleyin.
+2. Varsa ürün yazılımı veya güncelleme seçeneğini açın; kurulu sürümü sunulan sürümle karşılaştırın. Uygulama güncel olduğunuzu söylüyorsa işlem gerekmez.
+3. Güncelleme sırasında kulaklıkların nerede duracağı dâhil, modelinize özel talimatları okuyun ve aynen uygulayın.
+4. Güncellemeyi başlatın ve uygulama tamamlandığını bildirene kadar işlemi kesmeyin. Uygulamayı kapatmayın, Bluetooth’u kapatmayın veya telefonla uzaklaşmayın.
+5. Sonrasında uygulamadaki sürümü kontrol edin ve kulaklıkları deneyin. Eşleştirme sorunları olursa cihazı unutup yeniden eşleştirin ([sıfırlama kılavuzu](/tr/articles/how-to-reset-fake-airpods)).
 
-### B yöntemi: CloudCC ile güncelleme (TigerBuilder)
+**iPhone’da** FlyCC ve StarFun, seçili ürünler için güncelleme sunar. FlyCC’nin App Store sürüm notları, 1.1.1’den itibaren Airoha AB157x OTA desteğini; StarFun açıklaması ise OTA işlevini belirtir ([FlyCC](https://apps.apple.com/us/app/flycc/id1661245709) ve [StarFun](https://apps.apple.com/us/app/starfun/id1633624617), kontrol: 2026-10-22). **Android’de** katalogdaki APK’ları kullanın. Android 12 ve üzeri Yakındaki cihazlar iznini ister; eski Android sürümleri veya eski uygulamalar Bluetooth taraması için Konum iznine ihtiyaç duyabilir ([Android geliştirici belgeleri](https://developer.android.com/develop/connectivity/bluetooth/bt-permissions)).
 
-1. Kapağı açık şekilde her iki kulaklığı da kutuya yerleştirin.
-2. **CloudCC** uygulamasını açın ve **Cihaz Ara** seçeneğine dokunun.
-3. Algılandıktan sonra TigerBuilder cihazınızı seçin.
-4. **Aygıt Yazılımı** sekmesine gidin ve **En Son Sürümü Sorgula** seçeneğine dokunun.
-5. Bulut paketini seçin ve **İndir ve Güncelle** seçeneğine dokunun.
-6. İstem tamamlandığını doğrulayana kadar telefonu doğrudan şarj kutusunun yanında tutun.
+## Güncelleme donarsa veya başarısız olursa
 
-### C yöntemi: Starfun ile güncelleme (Huilian)
+- **Zaman tanıyın ve bağlantıyı koruyun**: Kulaklıkları uygulamanın söylediği konumda, telefonu yakında tutun. Uygulamanın kendi yeniden deneme seçeneği varsa onu kullanın.
+- Sorunu çözmek için **başka bir uygulamaya veya ürün yazılımı dosyasına geçmeyin**.
+- Güncelleme başarısız olursa veya kulaklıklar yanıt vermezse **satıcınıza başvurun**. Sipariş numarası, model, uygulama adı ve sürümü, telefon ve işletim sistemi sürümü ile hata ekran görüntülerini iletin. [AirReps Discord’da](https://airreps.link/discord) da yardım isteyebilirsiniz.
 
-1. Kulaklıkların telefonunuza bağlı ve kapağın açık olduğundan emin olun.
-2. **Starfun** uygulamasını açın ve **Ayarlar / Aygıt Yazılımı** simgesine dokunun.
-3. Mevcut aygıt yazılımı sürümünü en son bulut sürümüyle karşılaştırın.
-4. **Yükselt** seçeneğine dokunun. Uygulama yapılandırma bloklarını sırayla yazacaktır.
-5. Yeniden başlatmanın ardından telefonunuzun Bluetooth menüsünden cihazı unutun ve yazılımsal sıfırlama gerçekleştirin.
-
-## Güncelleme donarsa veya başarısız olursa ne yapılmalı?
-
-Bir güncelleme belirli bir yüzde değerinde takılırsa (örneğin 5 dakikadan uzun süre %45'te donarsa):
-
-1. **Kapağı kapatmayın veya kulaklıkları çıkarmayın.**
-2. Bluetooth bağlantısının kesilip kesilmediğini kontrol edin. Uygulama izin veriyorsa kulaklıkları yerinden oynatmadan **Yeniden Dene** seçeneğine dokunun veya uygulamayı yeniden başlatın.
-3. Kulaklıklar tamamen yanıt vermez hâle gelirse 15 saniyelik denetleyici donanım sıfırlaması gerçekleştirmek için [Sahte AirPods'u Sıfırlama Kılavuzumuzu](/tr/articles/how-to-reset-fake-airpods) izleyin.
-4. Güncelleme uygulamasını yeniden açın — çoğu durumda kurtarma önyükleyicisi paketi %0'dan yeniden yüklemenize izin verir.
+Kurtarma modele bağlıdır; başarısız güncellemeyi geri alan evrensel bir sıfırlama yoktur. [Sıfırlama kılavuzu](/tr/articles/how-to-reset-fake-airpods), eşleştirme sorunları içindir; ürün yazılımı kurtarma aracı değildir.
 
 ## İlgili sorun giderme kılavuzları
 
 - Kulaklıklar aygıt yazılımı uygulamasında görünmüyor mu? [Sahte AirPods bağlanmıyor](/tr/articles/fake-airpods-wont-connect) sayfasına bakın.
 - Güncelleme sonrasında sorunlar mı yaşıyorsunuz? [Sahte AirPods nasıl sıfırlanır](/tr/articles/how-to-reset-fake-airpods) sayfasındaki adımları izleyin.
-- Apple ekosistemi kurulumu mu kullanıyorsunuz? [Sahte AirPods yeni iPhone'larla çalışır mı?](/tr/articles/do-fake-airpods-work-with-new-iphone) sayfasını okuyun.
-- Uygulama indirme bağlantılarına mı ihtiyacınız var? [Yararlı Uygulamalar](/tr/useful-apps) sayfasını ziyaret edin.
+- Apple ekosistemi kurulumu mu kullanıyorsunuz? [Sahte AirPods yeni iPhone’larla çalışır mı?](/tr/articles/do-fake-airpods-work-with-new-iphone) sayfasını okuyun.
+- Uygulama indirme bağlantılarına mı ihtiyacınız var? [Kullanışlı Uygulamalar](/tr/useful-apps) sayfasını ziyaret edin.
 
 ## SSS
 
-::: details Replika AirPods aygıt yazılımını iPhone'da güncelleyebilir miyim?
-Hayır. iOS, yardımcı uygulamaların MFi olmayan aksesuarlara Bluetooth üzerinden aygıt yazılımı yazmasına izin vermez. Aygıt yazılımı güncellemelerini yüklemek için bir Android telefon ödünç almanız (veya uyumlu bir Mac kullanmanız) gerekir. Güncellendikten sonra aygıt yazılımı kulaklıklarda kalıcı olarak saklanır.
+::: details Replika AirPods aygıt yazılımını iPhone’da güncelleyebilir miyim?
+Evet, seçili modellerde. FlyCC ve StarFun’ın App Store’da iPhone sürümleri vardır ve bazı ürünlerde güncelleme sunarlar. Bu, her çiftin iPhone’da güncellenebileceği anlamına gelmez; model, mevcut ürün yazılımı ve uygulama sürümü belirleyicidir. Örneğin [AirPods Pro 2 sayfası](/tr/version-info/pro#airpods-pro-2), V5.3 TB yazılımını iOS’ta FlyCC üzerinden kontrol etmeyi önerir. Modeliniz için doğru uygulamayı kullandığınız sürece katalogdaki Android APK’ları da bir seçenektir.
 :::
 
-::: details Bir güncelleme replika AirPods'uma Apple'ın Bul ağı özelliğini kazandırır mı?
-Hayır. Bul ağı, aygıt yazılımı güncellemeleri aracılığıyla eklenemeyen, Apple'a özel şifreleme sertifikalarına dayanır.
+::: details Bir güncelleme replika AirPods’uma Apple’ın Bul ağı özelliğini kazandırır mı?
+Hayır. Bul ağı, ürün yazılımı güncellemesiyle eklenemeyen Apple’a özel şifreleme sertifikalarına dayanır.
 :::
 
-::: details Bir aygıt yazılımı güncellemesi sahte AirPods'umu kullanılmaz hâle getirebilir mi?
-Evet; güncellemenin pilin bitmesi, kapağın erken kapatılması veya farklı bir yonga seti için hazırlanmış bir aygıt yazılımı ikilisinin yüklenmesi nedeniyle kesintiye uğraması buna yol açabilir. Her zaman yukarıdaki güncelleme öncesi güvenlik kontrol listesini izleyin.
+::: details Bir ürün yazılımı güncellemesi kulaklıklarımı kullanılamaz hâle getirebilir mi?
+Evet. Pilin bitmesi veya bağlantının kopması nedeniyle kesilen bir güncelleme ya da başka ürüne ait ürün yazılımı kulaklıkları kullanılamaz hâle getirebilir. Yalnızca doğru uygulamanın modeliniz için sunduğu güncellemeleri yükleyin, uygulamanın talimatlarını izleyin ve gereksiz güncellemeleri atlayın.
 :::

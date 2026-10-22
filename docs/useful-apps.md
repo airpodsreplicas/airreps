@@ -20,6 +20,8 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 :::tip Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE).
 :::
 
+New to FlyCC? Our [FlyCC guide](/articles/flycc-app-guide) covers Android and iPhone setup, and [How to Update Fake AirPods Firmware](/articles/how-to-update-fake-airpods-firmware) explains when and how to update safely.
+
 ## **BES**
 
 | [![HBluetooth (iOS)](/app_icon/hbluetooth.png)](https://airreps.link/hbluetooth) HBluetooth (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/hbluetooth" aria-label="Download HBluetooth (iOS) on the App Store" target="_blank" rel="noreferrer">App Store</a></span> |

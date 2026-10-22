@@ -1,77 +1,73 @@
 ---
 title: "FlyCC APK Guide: How to Configure & Tune Airoha AirPods Replicas"
-description: "How to download, install, and use FlyCC safely — custom EQ tuning, touch control mapping, firmware updates, and troubleshooting connection failures."
+description: "FlyCC for TigerBuilder AirPods replicas: Android and iPhone downloads, model-dependent EQ and updates, permissions, and connection troubleshooting."
 category: "Using your reps"
 order: 13
 ---
 
 # FlyCC APK Guide: How to Configure & Tune Airoha AirPods Replicas
 
-FlyCC is the essential companion app for AirPods replicas running **Airoha chipsets** (including the Airoha 1562AE, 1562E, 1562F, and 1571AM). Because Apple's native iOS settings only expose surface-level controls, FlyCC provides low-level access to the silicon: custom parametric EQ tuning, touch sensor calibration, Active Noise Cancelling (ANC) balancing, and OTA firmware flashing.
+FlyCC is the companion app our [Useful Apps catalog](/useful-apps#tigerbuilder) lists for **TigerBuilder** replicas. TigerBuilder is a replica manufacturer, not a chip brand: its models are built on **Airoha** chipsets such as the 1562AE, 1563E and 1571AM. Depending on the model and its firmware, FlyCC can adjust EQ, show settings specific to that model, and install firmware updates the manufacturer has released.
 
-> **Quick Answer:** FlyCC is a free, third-party Android and macOS utility specifically designed for Airoha-based AirPods replicas. It lets you customize sound profiles via a built-in equalizer, modify pinch/tap sensitivity, and flash over-the-air firmware updates. It will not detect replicas powered by Huilian, BES, or budget Jieli chips.
+> **Quick Answer:** FlyCC is a free third-party app for TigerBuilder (Airoha-based) AirPods replicas. It's available as an Android APK and as an iPhone app on the App Store, both linked in [Useful Apps](/useful-apps#tigerbuilder). What it can do depends on your exact model, firmware and app version: usually EQ, plus firmware updates for selected models. Huilian, HR, BES and KKX models use the other apps in the catalog.
 
-::: tip Android or Mac required
-FlyCC cannot be installed from the Apple iOS App Store due to Apple's third-party hardware restrictions. To configure your Airoha earbuds, install the Android APK on any Android smartphone, or run the community macOS release. Settings saved to the earbuds persist even when switched back to an iPhone.
+::: tip Android and iPhone versions
+FlyCC has an Android APK and an iPhone version on the App Store. Having the app on your phone doesn't mean it supports your pair: the menus and updates it shows depend on the model it detects, that model's firmware and the app version. There's no separate Mac release in our catalog. The App Store allows the iPhone app on Apple-silicon Macs but marks it "Not verified for macOS", so this guide doesn't cover Mac use.
 :::
 
-## Supported chipsets
+## Which replicas use FlyCC
 
-FlyCC works exclusively with **Airoha hardware**. If your earbuds connect, you have confirmed genuine Airoha silicon inside:
+Start from the seller and version you bought, not the chip name alone. The [version pages](/version-info/general) list FlyCC for TigerBuilder models such as the AirPods Pro 3 V7 TB, AirPods 4 V3 TB, AirPods Pro 2 V5.3 TB and AirPods Max V3. Check the page for your version before installing anything.
 
-- **Airoha 1562AE / 1571AM** — Full feature support: dual-mic ANC calibration, custom EQ, head-tracking spatial audio toggles, and OTA updates.
-- **Airoha 1562E / 1563E** — Standard EQ, touch controls, and firmware tools.
-- **Airoha 1562F** — Legacy ANC and EQ controls.
-
-If FlyCC scans indefinitely and never detects your earbuds, your pair uses a different manufacturer's silicon (such as Huilian, which uses [Starfun](/useful-apps), or TigerBuilder, which uses [CloudCC](/useful-apps)) or an entry-level Jieli chip.
+An Airoha chip on its own doesn't decide the app. HR models also use Airoha chips but are listed with BullSuper and G&Link, Huilian models use StarFun, and some older Airoha versions have no app support at all. Which app connects is a useful clue, but a failed FlyCC scan doesn't prove your pair has a different chip or isn't the model you ordered. Permissions, the app version and model support all play a part (see troubleshooting below).
 
 ## How to download and install FlyCC safely
 
-Because FlyCC communicates with non-MFi Bluetooth hardware, it is distributed directly as an APK rather than through Google Play.
+Use the links in [Useful Apps](/useful-apps#tigerbuilder) rather than re-uploads from other sites.
 
-1. Download the latest verified APK directly from the [Useful Apps directory](/useful-apps).
-2. On your Android device, navigate to **Settings → Security** and enable **"Install unknown apps"** for your browser or file manager.
-3. Open the downloaded `.apk` file and tap **Install**.
-4. Grant the requested **Bluetooth / Nearby Devices** and **Location** permissions. (Android requires location permissions to scan for Low Energy Bluetooth peripherals; FlyCC does not track GPS data).
+**iPhone:** Install FlyCC from the App Store and allow Bluetooth access when iOS asks. The listing requires iOS 13 or later (version 2.0.16 when checked on 2026-10-22).
 
-## Key features and how to use them
+**Android:** The Android version is an APK download, not a Google Play app.
 
-### 1. Custom EQ and audio tuning
+1. Download the APK from [Useful Apps](/useful-apps#tigerbuilder).
+2. When Android asks, allow **Install unknown apps** for the browser or file manager you used to open it. You can switch that permission off again afterwards.
+3. Open the `.apk` file and tap **Install**.
+4. Grant the Bluetooth permission the app requests. On Android 12 and newer it appears as **Nearby devices**. On older Android versions, or with older apps, Bluetooth scanning can require **Location** permission instead ([Android developer documentation](https://developer.android.com/develop/connectivity/bluetooth/bt-permissions)).
 
-Out of the box, some replica batches carry an exaggerated bass response. FlyCC includes a 10-band equalizer to refine audio output:
+FlyCC is third-party software, and AirReps hasn't security-audited it. Bluetooth or Nearby devices access is expected for an earbud app; be cautious about requests that have nothing to do with the earbuds. Android's documentation explains why the system asks for these permissions, not what a particular app does with them. On iPhone, the App Store privacy label is the developer's own declaration, and Apple notes that "This information has not been verified by Apple" ([App Store listing](https://apps.apple.com/us/app/flycc/id1661245709)).
 
-- **Bass reduction**: Lower the 31Hz, 62Hz, and 125Hz sliders by 2–3dB for a cleaner, more neutral soundstage matching retail AirPods Pro.
-- **Vocal clarity**: Raise the 1kHz and 2kHz bands by 1.5dB to bring forward podcasts and vocals.
-- **Saving to hardware**: Once adjusted, tap **Save to Earbuds**. The acoustic tuning is written directly to the Airoha DSP, meaning the custom EQ remains active when you reconnect to your iPhone, iPad, or PC.
+## What FlyCC can do
 
-### 2. Touch and gesture calibration
+The menus FlyCC shows come from the model it detects, so two pairs can look quite different in the app. The iPhone version's release notes include fixes for missing menus (versions 2.0.12 and 2.0.14), so a menu that doesn't appear can be an app-version or compatibility issue rather than a sign of a different chip.
 
-If your earbuds trigger accidental pauses when adjusting them in your ear, FlyCC allows you to adjust force sensor sensitivity from 1 (lightest tap) to 5 (firm squeeze). You can also remap single, double, and triple presses to specific functions.
+### EQ and sound
 
-### 3. Noise cancellation tuning
+EQ is the main reason the guide points TigerBuilder owners to FlyCC (see [sound quality](/introduction/sound-quality)). Make small changes and listen. For example, lower the bass a little if your batch sounds boomy. Community members share EQ presets in the [AirReps Discord](https://airreps.link/discord). After switching to another phone, check that your EQ still applies, since this can vary by model.
 
-In the ANC menu, FlyCC allows independent calibration of the left and right feedforward microphones. If one earbud feels like it has higher cabin pressure or weaker cancellation, the calibration slider rebalances the phase inversion.
+### Controls
 
-## Safe firmware updating (OTA)
+Tap and press controls on replicas are normally changed in the iPhone's Bluetooth settings, like genuine AirPods (see the [features guide](/introduction/features)). If FlyCC shows control settings for your model, you can use them there, but not every model offers them.
 
-FlyCC can flash updated firmware binaries to fix iOS handshake bugs or improve connectivity. However, flashing carries an inherent bricking risk if interrupted:
+### Firmware updates (OTA)
 
-1. **Charge both earbuds and the case above 80%** before starting.
-2. Keep the charging case open with both earbuds seated inside within 30 centimeters of your phone.
-3. Tap **Check for Updates** in FlyCC. If an update is available, download the package.
-4. Tap **Start Update**. **Do not close the case lid, turn off Bluetooth, or switch apps** until the progress bar reaches 100% and displays "Update Succeeded."
-5. Once complete, leave the earbuds in the closed case for 60 seconds before re-pairing.
+FlyCC's App Store description says firmware upgrades are offered for selected products, and its 1.1.1 and 1.1.2 releases (2024) added OTA support for Airoha's AB157x platform. If FlyCC offers an update for your model:
 
-For a comprehensive guide on flashing all replica chipsets safely, read [How to Update Fake AirPods Firmware](/articles/how-to-update-fake-airpods-firmware).
+1. Check that you need it: a fix for a problem you actually have, or a notice from your seller or on your [version page](/version-info/general). If your pair works well, leaving the firmware alone is fine.
+2. Read the update instructions FlyCC shows for your model and follow them.
+3. Keep the earbuds and case charged, keep your phone close with the app open, and don't interrupt the update until the app confirms it has finished.
+
+If an update fails, contact your seller or ask in the Discord rather than trying firmware from another app. The full process is in [How to Update Fake AirPods Firmware](/articles/how-to-update-fake-airpods-firmware).
 
 ## Troubleshooting FlyCC connection issues
 
-If FlyCC refuses to see your earbuds:
+If FlyCC doesn't find your earbuds:
 
-- **Check your phone's active audio connection**: Ensure the earbuds are already paired in Android's native Bluetooth settings before opening FlyCC.
-- **Grant Nearby Devices permissions**: On Android 12 and newer, FlyCC cannot detect Bluetooth LE devices without the "Nearby Devices" permission enabled.
-- **Identify your chip**: If your earbuds refuse to connect to FlyCC, try scanning with **CloudCC** or **Starfun**. If no app connects, see [How to Spot Fake AirPods](/articles/how-to-spot-fake-airpods) to check for a budget Jieli clone.
-- **Clear pairing cache**: If connections drop, perform a controller reset using our [Reset Guide](/articles/how-to-reset-fake-airpods).
+- **Connect them first**: Pair the earbuds in your phone's Bluetooth settings, then open FlyCC.
+- **Check permissions**: On Android 12 and newer, FlyCC needs the **Nearby devices** permission; on older Android versions it may need **Location**. On iPhone, check **Settings → Privacy & Security → Bluetooth**.
+- **Update the app**: FlyCC 2.0.16 for iPhone lists a fix for some users who couldn't connect.
+- **Confirm the app matches your model**: Check your version's page. If your seller's model comes from another manufacturer, use the app listed for it in [Useful Apps](/useful-apps). CloudCC is deprecated for TigerBuilder models and is only meant as a workaround for the storage permission issue described there.
+- **Don't treat one failed scan as proof**: If no listed app connects after these checks, ask in the [Discord](https://airreps.link/discord) with your seller and model. Very low-tier Jieli clones don't work with any of the apps. If you're unsure what you received, see [How to Spot Fake AirPods](/articles/how-to-spot-fake-airpods).
+- **Clear pairing cache**: If connections drop, reset the pairing using our [Reset Guide](/articles/how-to-reset-fake-airpods).
 
 ## Related guides
 
@@ -83,13 +79,13 @@ If FlyCC refuses to see your earbuds:
 ## FAQ
 
 ::: details Is FlyCC safe to install on my phone?
-Yes. The APKs hosted in the community Useful Apps directory are extracted from official manufacturer supply chains and verified clean of malware. It only requires Bluetooth access to communicate with the Airoha audio processor.
+FlyCC is third-party software that AirReps hasn't security-audited, so use normal caution: download it from the Useful Apps link or the App Store, check that its permission requests relate to Bluetooth, and decline anything unrelated. The App Store privacy label is the developer's own declaration, not an Apple audit.
 :::
 
 ::: details Can I use FlyCC on an iPhone?
-No. Apple does not allow third-party apps to access raw Bluetooth serial profiles for non-MFi hardware. You must use an Android phone or a Mac to change FlyCC settings. However, all EQ and control changes write permanently to the earbuds' internal memory, so they carry over to your iPhone automatically.
+Yes. FlyCC is on the App Store for iPhone (iOS 13 or later; version 2.0.16 when checked on 2026-10-22), and Apple's [Core Bluetooth](https://developer.apple.com/bluetooth/) framework lets iPhone apps work with Bluetooth Low Energy accessories. What FlyCC can do on an iPhone depends on your model, its firmware and the app version, and firmware updates are offered for selected products, not every pair. Android remains an option through the APK in Useful Apps.
 :::
 
-::: details Why does FlyCC say "Device Not Found"?
-The most common reason is silicon mismatch: FlyCC only works with Airoha chips. If you own a Huilian model, use Starfun; if you own a TigerBuilder model, use CloudCC. If none connect, you likely have a budget Jieli unit.
+::: details Why can't FlyCC find my earbuds?
+The usual causes are a missing Bluetooth or Nearby devices permission, an outdated app version, earbuds that aren't connected to the phone yet, or a model FlyCC doesn't support. FlyCC is listed for TigerBuilder models; Huilian models use StarFun, and HR models use BullSuper or G&Link. A failed scan doesn't prove which chip is inside, so check your seller's model on the version pages and ask in the Discord if no listed app connects.
 :::

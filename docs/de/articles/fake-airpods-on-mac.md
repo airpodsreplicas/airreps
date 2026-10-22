@@ -4,13 +4,14 @@ description: 'So verbindest du AirPods-Repliken mit macOS – Behebung des Fehle
 category: Deine Reps verwenden
 order: 17
 ---
+
 # Funktionieren gefälschte AirPods mit dem Mac? Einrichtung, Lautstärkeregler und Lösungen
 
 Das Verbinden von AirPods-Nachbauten mit einem iPhone ist normalerweise mühelos, aber bei der Verwendung mit einem MacBook, Mac mini oder iMac gibt es einige Besonderheiten. Obwohl macOS Nachbauten nativ als gewöhnliche Bluetooth-Audiogeräte erkennt, stoßen Nutzer häufig auf zwei bekannte Probleme: den **binären Lautstärkeregler-Fehler** bei älteren oder Intel-Macs sowie ein verwirrendes Verhalten beim **Wechsel zwischen mehreren Geräten**.
 
 Frühe Anleitungen wie die von CrypticStreet behandelten diese Mac-Workarounds bereits 2020. Seitdem haben moderne Chipsätze, insbesondere Huilian- und neuere Airoha-Chips, die Funktionsweise von Nachbauten mit macOS grundlegend verändert. Hier ist die aktuelle, umfassende Anleitung zur Einrichtung und Fehlerbehebung gefälschter AirPods am Mac.
 
-> **Kurzantwort:** Ja, gefälschte AirPods funktionieren am Mac zuverlässig für die Audiowiedergabe, Videoanrufe und Mediensteuerung. Allerdings leiden Chipsätze anderer Hersteller als Huilian, etwa ältere Airoha- oder Bluetrum-Chips, häufig unter einem macOS-„Lautstärkefehler“, bei dem der Lautstärkeregler abrupt zwischen 0 % und 100 % springt. Wenn du täglich einen Mac verwendest, garantiert der Kauf eines Nachbaus mit **Huilian-Chip (z. B. Pro 2 V5.4)** eine gleichmäßige native Lautstärkeregelung und den funktionierenden geräteübergreifenden Wechsel über iCloud Connect.
+> **Kurzantwort:** AirPods-Repliken können als Bluetooth-Ohrhörer mit einem Mac gekoppelt werden; Funktionen hängen vom genauen Modell und der Software ab. Manche Versionen haben einen Lautstärkefehler mit Sprüngen zwischen 0 % und 100 %. Der Guide empfiehlt Huilian-Modelle wie **Pro 2 V5.4** für den Mac, garantiert aber kein einheitliches Lautstärke- oder iCloud-Verhalten für alle Paare, Chargen oder macOS-Versionen.
 
 ::: tip Mac-Nutzer? Wähle deinen Chipsatz sorgfältig
 Wenn ein MacBook oder iMac dein Hauptcomputer ist, solltest du keinen beliebigen Nachbau von einem Marktplatz kaufen. Die Community empfiehlt Mac-Nutzern ausdrücklich **Huilian-Chipsätze**, da sie eine native Integration der Lautstärketabelle und eine stabile Übergabe über iCloud bieten.
@@ -35,14 +36,14 @@ macOS verwendet über Bluetooth AAC ein Protokoll zur Synchronisierung der Hardw
 
 ### Die Lösung
 1. **Die Softwarelösung**: Die Community pflegt eine quelloffene Lösung für den Lautstärkeregler, die die Softwarelautstärke von den Hardwareverstärkungstabellen entkoppelt. Folge unserer schrittweisen [Anleitung zur Reparatur des macOS-Lautstärkereglers](/de/troubleshooting/macOS-volume-slider-fixup), um den Terminal-Patch auszuführen.
-2. **Die Hardwarelösung**: Wenn du noch nicht gekauft hast, wähle die **AirPods Pro 2 V5.4 Huilian** oder **AirPods 4 V2 Huilian**. Huilian-Modelle verfügen über vollständig zugeordnete Lautstärkestufen, die sich unter macOS genauso verhalten wie echte Apple AirPods, ohne dass Tools von Drittanbietern erforderlich sind.
+2. **Hardwareauswahl**: **AirPods Pro 2 V5.4 Huilian** und **AirPods 4 V2 Huilian** sind die Mac-Empfehlungen des Guides. Prüfe Modell und Revision; das Lautstärkeverhalten kann von Firmware und macOS-Version abhängen.
 
 ## Geräteübergreifender Wechsel über iCloud am Mac
 
 Einer der größten Vorteile von Apple-Hardware besteht darin, Musik auf einem iPhone zu hören und die Audiowiedergabe beim Ansehen eines Videos automatisch auf ein MacBook wechseln zu lassen.
 
-- **Bei Huilian-Nachbauten (V5.4 / V6)**: Nach dem Koppeln mit deinem iPhone synchronisieren sich die Ohrhörer über **iCloud Connect** mit deiner Apple-ID. Wenn du dich an deinen Mac setzt, erscheinen sie automatisch im Tonmenü deines Macs, ohne dass eine manuelle erneute Bluetooth-Kopplung erforderlich ist.
-- **Bei Airoha- / TigerBuilder-Nachbauten**: Obwohl sie eine Multipoint-Verbindung unterstützen, synchronisieren sie sich nicht über Apples iCloud-Token. Um vom Telefon auf den Mac zu wechseln, musst du im Bluetooth-Menü deines Macs auf **Verbinden** klicken.
+- **Huilian-Modelle (V5.4 / V6)**: Der Guide führt iCloud Connect für diese Huilian-Versionen auf. Prüfe genaues Modell, Firmware und Apple-Software; nicht jedes Huilian-Paar muss identisch automatisch wechseln.
+- **Airoha-/TigerBuilder-Modelle**: Gerätewechsel und Multipoint hängen von der Version ab. Prüfe die Modellseite und wähle die Ohrhörer bei Bedarf manuell im Bluetooth-Menü des Macs.
 
 ## Mikrofonqualität für Zoom und FaceTime optimieren
 
@@ -68,7 +69,7 @@ macOS verfügt nicht über ein animiertes Verbindungs-Popup wie iOS. Gefälschte
 :::
 
 ::: details Kann ich die Firmware-Apps der Community auf einem Mac verwenden?
-Ja, bestimmte Tools, darunter webbasierte Flash-Tools und macOS-Versionen von FlyCC, sind für Airoha-Chipsätze verfügbar. Die große Mehrheit der Community-Apps läuft jedoch auf einem günstigen Android-Telefon am reibungslosesten.
+Nicht als Mac-Apps. Unser Katalog der [nützlichen Apps](/de/useful-apps) enthält keine macOS-Versionen oder webbasierten Tools. Der App Store erlaubt die Installation der iPhone-Versionen von FlyCC und StarFun auf Macs mit Apple Silicon, kennzeichnet sie aber als nicht für macOS verifiziert. Verwende deshalb die für dein Modell aufgeführte iPhone- oder Android-App.
 :::
 
 ::: details Funktioniert 3D-Audio auf einem Mac mit gefälschten AirPods?
