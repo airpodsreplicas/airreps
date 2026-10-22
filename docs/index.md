@@ -37,7 +37,7 @@ features:
     linkText: Read the Guide
   - icon: 💸
     title: Trusted seller list
-    details: Community-picked, non-profit seller list with the latest products and best support.
+    details: Community-picked seller list with the latest products and best support. Some seller and shopping-agent links may earn AirReps a commission.
     link: /links/info
     linkText: View Sellers
 ---

@@ -19,7 +19,7 @@ hero:
       link: quiz
     - theme: alt
       text: Ver vendedores de confianza
-      link: /links/info
+      link: /es/links/info
 features:
   - icon: "🤝"
     title: Equipo de colaboradores
@@ -33,8 +33,8 @@ features:
     linkText: Leer la guía
   - icon: "💸"
     title: Lista de vendedores de confianza
-    details: 'Lista de vendedores sin fines de lucro, seleccionados por la comunidad, con los productos más recientes y la mejor asistencia.'
-    link: /links/info
+    details: 'Lista de vendedores seleccionados por la comunidad, con los productos más recientes y la mejor asistencia. Algunos enlaces de vendedores y agentes de compras pueden generar una comisión para AirReps.'
+    link: /es/links/info
     linkText: Ver vendedores
 ---
 <Contributor></Contributor>

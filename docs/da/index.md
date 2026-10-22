@@ -19,7 +19,7 @@ hero:
       link: quiz
     - theme: alt
       text: Se pålidelige sælgere
-      link: /links/info
+      link: /da/links/info
 features:
   - icon: "🤝"
     title: Hjælperteam
@@ -33,8 +33,8 @@ features:
     linkText: Læs guiden
   - icon: "💸"
     title: Liste over pålidelige sælgere
-    details: 'Fællesskabsudvalgt, non-profit-liste over sælgere med de nyeste produkter og den bedste support.'
-    link: /links/info
+    details: 'Fællesskabsudvalgt liste over sælgere med de nyeste produkter og den bedste support. AirReps kan tjene provision på nogle links til sælgere og shoppingagenter.'
+    link: /da/links/info
     linkText: Se sælgere
 ---
 <Contributor></Contributor>

@@ -15,7 +15,7 @@ Istnieje wielu sprzedawców replik AirPods, ale najlepsze doświadczenia pochodz
 Choć możesz znaleźć sprzedawców na chińskich stronach e-commerce, takich jak AliExpress czy DHgate, recenzje na tych platformach nie zawsze bywają bezstronne lub wiarygodne. Zakupy u niezweryfikowanych sprzedawców niosą większe ryzyko, ponieważ jakość produktów i obsługa klienta mogą znacznie się różnić. Jeśli dokonasz zakupu u niezweryfikowanego sprzedawcy i napotkasz problemy, prosimy o podzielenie się swoim doświadczeniem z naszym zespołem.
 
 ::: tip Lista zweryfikowanych sprzedawców
-Znajdź [listę sprzedawców zweryfikowanych przez społeczność i godnych zaufania](/pl/links/info).
+Znajdź [listę sprzedawców zweryfikowanych przez społeczność i godnych zaufania](/pl/links/info). Niektóre linki do sprzedawców i agentów zakupowych mogą przynosić AirReps prowizję.
 :::
 
 ::: tip Kupuj u zaufanych sprzedawców

@@ -5,7 +5,7 @@ faq:
   - q: Czy otrzymam egzemplarz dobrej jakości?
     a: 'Nie można zagwarantować jakości egzemplarza, ponieważ może się ona różnić nawet w przypadku egzemplarzy od tego samego sprzedawcy. Zaufani sprzedawcy są jednak ogólnie znani z oferowania produktów dobrej jakości.'
   - q: Jak skontaktować się ze sprzedawcami?
-    a: 'Dołącz do AirReps Discord pod adresem https://airreps.link/discord, aby uzyskać numery WhatsApp sprzedawców. Możesz też użyć AliExpress, aby wysłać im wiadomość, klikając Skontaktuj się z dostawcą.'
+    a: 'Skorzystaj z linku do kontaktu przez WhatsApp na oficjalnej stronie danego sprzedawcy: Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/) lub Jenny (https://jenny.airreps.info/go/whatsapp/). Możesz też poprosić o pomoc na Discordzie AirReps pod adresem https://airreps.link/discord.'
   - q: Który sprzedawca jest najlepszy?
     a: 'Najlepszy sprzedawca zależy od Twoich potrzeb. Sprzedawcy zazwyczaj oferują podobne produkty — na przykład Pro 2 V5.2 TB od Jenny jest identyczny z tym od HiCity. Różnice dotyczą wsparcia, czasu wysyłki i platform zakupowych.'
   - q: Informacje o śledzeniu przesyłki są w języku chińskim. Co mam zrobić?
@@ -22,6 +22,8 @@ Ta lista jest na bieżąco aktualizowana. Wyższa wersja zazwyczaj oznacza lepsz
 :::
 
 Poniższa lista zawiera wyłącznie linki do zweryfikowanych sprzedawców. Jeśli znasz sprzedawców, którzy są godni zaufania i zasługują na weryfikację, poinformuj autora Ultimate Guide albo napisz recenzję ich produktu i opublikuj ją na forum AirReps. Aby zapewnić jakość i autentyczność replik Apple AirPods, zalecamy kupowanie wyłącznie od tych zweryfikowanych sprzedawców.
+
+Niektóre linki do sprzedawców i agentów zakupowych mogą przynosić AirReps prowizję.
 
 ## Wybierz produkt, dla którego chcesz wyświetlić linki
 
@@ -58,13 +60,13 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 |----------------|---------|--------|-------|
 | [**Karta kredytowa / debetowa**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ✅ | ✅ | ❌ |
+| **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ✅ | ❌ | ✅ |
+| **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / kryptowaluty** | ✅ | ✅ | ✅ |
-| **Przelew bankowy** | ✅ | ✅ | ✅ |
+| **Przelew bankowy** | ❌ | ❌ | ✅ |
 | **Weidian (przez agenta)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -73,6 +75,8 @@ Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+Włączone bramki płatności poszczególnych sprzedawców sprawdzono ostatnio 22 października 2026 roku. Rozstrzygająca jest strona płatności sprzedawcy, a aktualna dostępność może się zmieniać w zależności od kraju lub zamówienia.
 
 Metody płatności OnlyPay dostępne w HiCity zależą od kraju rozliczeniowego: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX i Boleto (BR). Te opcje krajowe zostały sprawdzone w systemie płatności HiCity 4 września 2026 roku. OnlyPay potwierdza ostateczną dostępność dla każdego zamówienia. Dla Stanów Zjednoczonych, Kanady, Australii i Francji nie wyświetlono żadnej opcji OnlyPay.
 
@@ -93,7 +97,7 @@ Nie da się zagwarantować jakości produktu, ponieważ może się ona różnić
 :::
 
 ::: details Jak skontaktować się ze sprzedawcami?
-Aby skontaktować się ze sprzedawcami, możesz dołączyć do serwera AirReps na Discordzie: https://airreps.link/discord i uzyskać ich numery WhatsApp, ponieważ nie są one publicznie dostępne. Możesz też skorzystać z AliExpress i napisać do nich, klikając „Contact Supplier”.
+Każdy zaufany sprzedawca ma na swojej oficjalnej stronie link do kontaktu przez WhatsApp: [Earhive](https://earhive.com/go/whatsapp/), [HiCity](https://hicitypods.com/go/whatsapp/) i [Jenny](https://jenny.airreps.info/go/whatsapp/). Możesz też poprosić o pomoc na [Discordzie AirReps](https://airreps.link/discord).
 :::
 
 ::: details Który sprzedawca jest najlepszy?

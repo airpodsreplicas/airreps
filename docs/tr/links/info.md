@@ -5,7 +5,7 @@ faq:
   - q: Kaliteli bir ürün alacak mıyım?
     a: Bir ürünün kalitesini garanti etmek mümkün değildir; kalite aynı satıcıdan alınan ürünler arasında bile değişiklik gösterebilir. Ancak güvenilir satıcıların genellikle kaliteli ürünler sunduğu bilinir.
   - q: Satıcılarla nasıl iletişime geçebilirim?
-    a: 'Satıcıların WhatsApp numaralarını almak için https://airreps.link/discord adresindeki AirReps Discord sunucusuna katılın. Alternatif olarak, Tedarikçiyle İletişime Geç seçeneğine tıklayarak AliExpress üzerinden satıcılara mesaj gönderebilirsiniz.'
+    a: 'Her satıcının resmî web sitesindeki WhatsApp iletişim bağlantısını kullanın: Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/) veya Jenny (https://jenny.airreps.info/go/whatsapp/). Alternatif olarak https://airreps.link/discord adresindeki AirReps Discord sunucusunda yardım isteyebilirsiniz.'
   - q: En iyi satıcı hangisi?
     a: 'En iyi satıcı ihtiyaçlarınıza göre değişir. Satıcılar genellikle benzer ürünler sunar — örneğin, Jenny''deki Pro 2 V5.2 TB ile HiCity''deki aynıdır. Farklar destek, kargo süreleri ve satın alma platformlarında ortaya çıkar.'
   - q: Takip bilgilerim Çince. Ne yapmalıyım?
@@ -22,6 +22,8 @@ Bu liste güncel tutulmaktadır. Daha yüksek bir sürüm genellikle daha iyi bi
 :::
 
 Aşağıdaki liste yalnızca doğrulanmış satıcılara ait bağlantıları içerir. Güvenilir olduğunu ve doğrulanmayı hak ettiğini düşündüğünüz satıcılar biliyorsanız lütfen bir Ultimate Guide yazarına bildirin veya ürünleri hakkında bir inceleme yazıp AirReps forumlarında yayımlayın. Apple AirPods replikalarınızın kalitesini ve özgünlüğünü güvence altına almak için yalnızca bu doğrulanmış satıcılardan satın almanızı öneririz.
+
+Bazı satıcı ve alışveriş aracısı bağlantıları AirReps'e komisyon kazandırabilir.
 
 ## Bağlantılarını görmek istediğiniz ürünü seçin
 
@@ -58,13 +60,13 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 |----------------|---------|--------|-------|
 | [**Kredi / banka kartı**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ✅ | ✅ | ❌ |
+| **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ✅ | ❌ | ✅ |
+| **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / kripto** | ✅ | ✅ | ✅ |
-| **Banka havalesi** | ✅ | ✅ | ✅ |
+| **Banka havalesi** | ❌ | ❌ | ✅ |
 | **Weidian (aracı üzerinden)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -73,6 +75,8 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+Satıcıların etkinleştirdiği ödeme altyapıları en son 22 Ekim 2026'da kontrol edilmiştir. Belirleyici olan satıcının ödeme sayfasıdır; güncel kullanılabilirlik ülkeye veya siparişe göre değişebilir.
 
 HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri 4 Eylül 2026'da HiCity'nin ödeme sayfasında kontrol edilmiştir. Her sipariş için son uygunluğu OnlyPay onaylar. ABD, Kanada, Avustralya veya Fransa için hiçbir OnlyPay seçeneği listelenmemiştir.
 
@@ -93,7 +97,7 @@ Bir ürünün kalitesini garanti etmek mümkün değildir; aynı satıcıdan al�
 :::
 
 ::: details Satıcılarla nasıl iletişime geçebilirim?
-Satıcılarla iletişime geçmek için AirReps Discord sunucusuna katılabilirsiniz: https://airreps.link/discord. Satıcıların WhatsApp numaraları herkese açık olmadığı için bu numaraları Discord üzerinden edinebilirsiniz. Alternatif olarak, "Tedarikçiyle iletişime geç" seçeneğine tıklayarak AliExpress üzerinden onlara mesaj gönderebilirsiniz.
+Her güvenilir satıcının resmî web sitesinde bir WhatsApp iletişim bağlantısı bulunur: [Earhive](https://earhive.com/go/whatsapp/), [HiCity](https://hicitypods.com/go/whatsapp/) ve [Jenny](https://jenny.airreps.info/go/whatsapp/). Alternatif olarak [AirReps Discord sunucusunda](https://airreps.link/discord) yardım isteyebilirsiniz.
 :::
 
 ::: details En iyi satıcı hangisi?

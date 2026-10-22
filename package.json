@@ -15,6 +15,7 @@
     "docs:build": "bun run generate-og && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "generate-og": "node scripts/generate-og-images.mjs",
+    "analytics:routes": "bun scripts/guide-analytics/generate-allowed-routes.ts",
     "lint": "biome check --files-ignore-unknown=true --diagnostic-level=error --no-errors-on-unmatched docs scripts",
     "lint:fix": "biome check --write --unsafe --no-errors-on-unmatched --files-ignore-unknown=true docs scripts"
   },
