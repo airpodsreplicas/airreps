@@ -29,7 +29,7 @@ Rien de tout cela ne concerne les écouteurs. Il s’agit de la transaction.
 
 Les répliques ne sont pas des produits Apple. Elles ne sont pas certifiées par Apple et ne font pas l’objet des contrôles auxquels sont soumis les appareils d’une grande marque. C’est le point de départ honnête : il s’agit de produits électroniques sans marque fabriqués en Chine, et les produits électroniques sans marque présentent généralement un profil de risque différent de celui d’une paire d’AirPods achetée dans un Apple Store.
 
-Cela dit, les « produits électroniques sans marque » ne forment pas une seule catégorie. Une copie bon marché sans marque et les versions répertoriées dans ce guide ne sont pas le même produit. Les unités que la communauté achète depuis des années utilisent des chipsets connus — TigerBuilder, Huilian, HR, BES et Airoha — qui se connectent aux propres applications de firmware de la communauté et peuvent être mises à jour. Les copies d’entrée de gamme utilisent un chipset Jieli qui ne se connecte à aucune d’entre elles. Il s’agit d’une véritable différence de qualité, pas d’une simple différence de marque.
+Le guide distingue les fabricants tels que TigerBuilder, Huilian et HR des familles de puces telles qu’Airoha et BES. L’application compatible et la prise en charge des mises à jour du firmware dépendent du modèle et du firmware exacts. Une connexion réussie à une application n’est pas un test de sécurité ou de qualité, et un échec de détection ne prouve pas qu’une paire utilise Jieli ou un autre chipset précis.
 
 Les précautions matérielles documentées sont pratiques, et non alarmantes :
 

@@ -29,7 +29,7 @@ Nada disso diz respeito aos fones. Diz respeito à transação.
 
 As réplicas não são produtos da Apple. Elas não são certificadas pela Apple e não passam pelo mesmo nível de análise ao qual os dispositivos de uma grande marca são submetidos. Esse é o ponto de partida honesto: são produtos eletrônicos sem marca fabricados na China, e produtos eletrônicos sem marca em geral têm um perfil de risco diferente do de um par de AirPods comprado em uma Apple Store.
 
-Dito isso, “produtos eletrônicos sem marca” não é uma única categoria. Uma réplica barata e sem marca e as versões listadas neste guia não são o mesmo produto. As unidades que a comunidade compra há anos usam chipsets conhecidos — TigerBuilder, Huilian, HR, BES e Airoha — que se conectam aos próprios aplicativos de firmware da comunidade e podem ser atualizados. As réplicas de categoria mais baixa usam um chipset Jieli que não se conecta a nenhum deles. Essa é uma diferença real de qualidade, não apenas de marca.
+O guia distingue fabricantes como TigerBuilder, Huilian e HR de famílias de chips como Airoha e BES. O aplicativo compatível e o suporte a atualizações de firmware dependem do modelo e do firmware exatos. Uma conexão bem-sucedida com um aplicativo não é um teste de segurança ou qualidade, e uma busca sem resultado não prova que os fones usam Jieli ou qualquer outro chipset específico.
 
 Os cuidados de hardware documentados são práticos, não assustadores:
 

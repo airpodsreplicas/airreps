@@ -29,7 +29,7 @@ Det handler ikke om øretelefonerne. Det handler om handlen.
 
 Kopier er ikke Apple-produkter. De er ikke certificeret af Apple, og de gennemgår ikke den kontrol, som en stor producents gadgets gør. Det er det ærlige udgangspunkt: Dette er elektronik uden varemærke, fremstillet i Kina, og elektronik uden varemærke indebærer generelt en anden risikoprofil end et par AirPods fra en Apple Store.
 
-Når det er sagt, er »elektronik uden varemærke« ikke én kategori. En billig kopi uden kendt navn og de versioner, denne guide oplister, er ikke det samme produkt. De enheder, som fællesskabet har købt i årevis, bruger kendte chipsets — TigerBuilder, Huilian, HR, BES og Airoha — som opretter forbindelse til fællesskabets egne firmwareapps og kan opdateres. Kopier i den laveste prisklasse bruger et Jieli-chipset, som ikke opretter forbindelse til nogen af dem. Det er en reel kvalitetsforskel, ikke en forskel i branding.
+Guiden skelner mellem producenter som TigerBuilder, Huilian og HR og chipfamilier som Airoha og BES. Den rette app og understøttelsen af firmwareopdateringer afhænger af den præcise model og firmware. En vellykket appforbindelse er ikke en sikkerheds- eller kvalitetstest, og en mislykket scanning beviser ikke, at et par bruger Jieli eller et andet bestemt chipset.
 
 De dokumenterede hardwareforbehold er praktiske, ikke skræmmende:
 

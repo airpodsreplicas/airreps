@@ -29,7 +29,7 @@ Nada de eso tiene que ver con los auriculares. Tiene que ver con la transacción
 
 Las réplicas no son productos de Apple. Apple no las certifica y no reciben el nivel de escrutinio al que se someten los dispositivos de una gran marca. Ese es el punto de partida honesto: son productos electrónicos sin marca fabricados en China, y los productos electrónicos sin marca en general tienen un perfil de riesgo diferente al de unos AirPods comprados en una Apple Store.
 
-Dicho esto, «productos electrónicos sin marca» no es una sola categoría. Una imitación barata y sin marca y las versiones que aparecen en esta guía no son el mismo producto. Las unidades que la comunidad ha comprado durante años utilizan chipsets conocidos —TigerBuilder, Huilian, HR, BES y Airoha— que se conectan a las aplicaciones de firmware propias de la comunidad y se pueden actualizar. Las imitaciones de gama más baja utilizan un chipset Jieli que no se conecta a ninguna de ellas. Es una diferencia real de calidad, no de marca.
+La guía distingue fabricantes como TigerBuilder, Huilian y HR de familias de chips como Airoha y BES. La aplicación compatible y la posibilidad de actualizar el firmware dependen del modelo y del firmware exactos. Una conexión correcta con la aplicación no es una prueba de seguridad ni de calidad, y un escaneo fallido no demuestra que los auriculares utilicen Jieli ni ningún otro chipset concreto.
 
 Las precauciones de hardware documentadas son prácticas, no alarmantes:
 

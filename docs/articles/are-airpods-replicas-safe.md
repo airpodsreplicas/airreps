@@ -29,7 +29,7 @@ None of that is about the earbuds. It's about the transaction.
 
 Replicas are not Apple products. They aren't certified by Apple, and they don't get the scrutiny that a major brand's gadgets go through. That's the honest starting point: these are unbranded electronics made in China, and unbranded electronics in general carry a different risk profile than a pair of AirPods from an Apple Store.
 
-That said, "unbranded electronics" is not one category. A cheap no-name clone and the versions this guide lists are not the same product. The units the community has bought for years use known chipsets — TigerBuilder, Huilian, HR, BES, and Airoha — that connect to the community's own firmware apps and can be updated. The lowest-tier clones use a Jieli chipset that doesn't connect to any of them. That's a real quality gap, not a branding one.
+The guide distinguishes manufacturers such as TigerBuilder, Huilian and HR from chip families such as Airoha and BES. The matching app and firmware-update support depend on the exact model and firmware. A successful app connection is not a safety or quality test, and a failed scan does not prove that a pair uses Jieli or any other particular chipset.
 
 The documented hardware cautions are practical, not scary:
 

@@ -29,7 +29,7 @@ Nichts davon betrifft die Ohrhörer. Es geht um die Transaktion.
 
 Klonprodukte sind keine Apple-Produkte. Sie sind nicht von Apple zertifiziert und werden nicht den Prüfungen unterzogen, denen die Geräte einer großen Marke ausgesetzt sind. Das ist der ehrliche Ausgangspunkt: Es handelt sich um nicht markengebundene Elektronik aus China, und nicht markengebundene Elektronik hat im Allgemeinen ein anderes Risikoprofil als ein Paar AirPods aus einem Apple Store.
 
-Allerdings ist „nicht markengebundene Elektronik“ keine einheitliche Kategorie. Ein billiger No-Name-Klon und die in diesem Leitfaden aufgeführten Versionen sind nicht dasselbe Produkt. Die Modelle, die die Community seit Jahren kauft, verwenden bekannte Chipsätze — TigerBuilder, Huilian, HR, BES und Airoha —, die sich mit den Firmware-Apps der Community verbinden und aktualisiert werden können. Die Klone der untersten Preisklasse verwenden einen Jieli-Chipsatz, der sich mit keiner dieser Apps verbindet. Das ist ein echter Qualitätsunterschied, kein Markenunterschied.
+Der Leitfaden unterscheidet Hersteller wie TigerBuilder, Huilian und HR von Chipfamilien wie Airoha und BES. Die passende App und die Unterstützung für Firmware-Updates hängen vom genauen Modell und der Firmware ab. Eine erfolgreiche App-Verbindung ist kein Sicherheits- oder Qualitätstest, und ein fehlgeschlagener Scan beweist nicht, dass ein Paar Jieli oder einen anderen bestimmten Chipsatz verwendet.
 
 Die dokumentierten Hinweise zur Hardware sind praktisch, nicht beängstigend:
 

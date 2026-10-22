@@ -29,7 +29,7 @@ Bunların hiçbiri kulaklıklarla ilgili değil. Konu işlemin kendisi.
 
 Replikalar Apple ürünü değildir. Apple tarafından sertifikalandırılmazlar ve büyük bir markanın cihazlarının geçtiği incelemelerden geçmezler. Dürüst başlangıç noktası budur: Bunlar Çin’de üretilen markasız elektronik ürünlerdir ve markasız elektronik ürünler genel olarak bir Apple Store’dan alınan AirPods çiftinden farklı bir risk profiline sahiptir.
 
-Bununla birlikte, “markasız elektronik” tek bir kategori değildir. Ucuz, markasız bir klon ile bu rehberde listelenen sürümler aynı ürün değildir. Topluluğun yıllardır satın aldığı birimler, topluluğun kendi aygıt yazılımı uygulamalarına bağlanan ve güncellenebilen TigerBuilder, Huilian, HR, BES ve Airoha gibi bilinen yonga setlerini kullanır. En alt seviye klonlar ise bunların hiçbirine bağlanmayan bir Jieli yonga seti kullanır. Bu, markayla değil gerçek kalite farkıyla ilgilidir.
+Rehber, TigerBuilder, Huilian ve HR gibi üreticiler ile Airoha ve BES gibi çip ailelerini birbirinden ayırır. Uyumlu uygulama ve aygıt yazılımı güncelleme desteği, tam modele ve aygıt yazılımına bağlıdır. Başarılı bir uygulama bağlantısı güvenlik veya kalite testi değildir; başarısız bir tarama da kulaklıkların Jieli ya da başka belirli bir yonga seti kullandığını kanıtlamaz.
 
 Belgelenmiş donanım uyarıları korkutucu değil, pratiktir:
 

@@ -29,7 +29,7 @@ Występują trzy typowe wersje tego problemu:
 
 Repliki nie są produktami Apple. Nie mają certyfikatów Apple ani nie przechodzą kontroli, jaką przechodzą urządzenia dużej marki. To uczciwy punkt wyjścia: są to niemarkowe urządzenia elektroniczne produkowane w Chinach, a niemarkowa elektronika ogólnie wiąże się z innym profilem ryzyka niż para AirPods kupiona w Apple Store.
 
-Jednocześnie „niemarkowa elektronika” nie jest jedną kategorią. Tania podróbka nieznanej marki i wersje wymienione w tym poradniku nie są tym samym produktem. Urządzenia kupowane przez społeczność od lat korzystają ze znanych chipsetów — TigerBuilder, Huilian, HR, BES i Airoha — które łączą się z własnymi aplikacjami społeczności do obsługi oprogramowania układowego i mogą być aktualizowane. Repliki z najniższej półki korzystają z chipsetu Jieli, który nie łączy się z żadną z tych aplikacji. To rzeczywista różnica jakości, a nie kwestia marki.
+Poradnik rozróżnia producentów, takich jak TigerBuilder, Huilian i HR, oraz rodziny układów, takie jak Airoha i BES. Zgodna aplikacja i obsługa aktualizacji oprogramowania zależą od dokładnego modelu i oprogramowania. Udane połączenie z aplikacją nie jest testem bezpieczeństwa ani jakości, a nieudane skanowanie nie dowodzi, że słuchawki korzystają z Jieli lub innego konkretnego chipsetu.
 
 Udokumentowane ostrzeżenia dotyczące sprzętu są praktyczne, a nie przerażające:
 
