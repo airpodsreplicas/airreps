@@ -2,7 +2,6 @@
 title: AirPods-replikaemballage og -æsker
 description: 'Emballagetyper forklaret: Uden logo, Apple-logo og dobbelt-/narreæsker. Risici og kvalitetsdetaljer.'
 ---
-
 # Emballage
 
 AirPods-kopier fås i forskellige typer emballage, som hver har sine egne særlige egenskaber og potentielle risici.
@@ -16,17 +15,17 @@ AirPods-kopier fås i forskellige typer emballage, som hver har sine egne særli
 
 ## Æske med Apple-logo
 
-Æsken med Apple-logo efterligner emballagen til ægte AirPods og har den traditionelle tekst "AirPods" samt Apple-logoer. Manualerne og opladningskablet indeni har Apple-markeringer. Varer kan kontrolleres eller beslaglægges efter destinationens told/IP-regler uanset yderemballage. En dobbeltæske er ikke en toldfritagelse eller garanti mod beslaglæggelse.
+Æsken med Apple-logo efterligner emballagen til ægte AirPods og har den traditionelle tekst "AirPods" samt Apple-logoer. Manualerne og opladningskablet indeni har Apple-markeringer. Hvis du beder om en "Apple-æske", kan det dog øge risikoen for, at produktet beslaglægges i tolden, hvilket kan føre til bøder eller destruktion af produktet. For at mindske denne risiko bruger mange sælgere en dobbeltæske-teknik, hvor den faktiske Apple-æske skjules i en generisk æske formet som en hovedtelefonæske.
 
 <img src="/applebox.webp" alt="Æske med Apple-logo" width="300" height="400"/>
 
 ::: danger
-Varer kan kontrolleres eller beslaglægges efter destinationens told/IP-regler uanset yderemballage. En dobbeltæske er ikke en toldfritagelse eller garanti mod beslaglæggelse.
+Hvis du beder om en "Apple-æske", kan produktet blive beslaglagt i tolden. Mange sælgere bruger en dobbeltæske-teknik for at mindske denne risiko.
 :::
 
 ## Dobbelt-/lokkeæske
 
-En generisk yderæske med en Apple-logoæske indeni. Den giver et bestemt udseende; vi har ikke målt dokumentation for mindre beslaglæggelsesrisiko. Emballagen ændrer ikke reglerne for varerne.
+Den bedste løsning for de fleste købere. En generisk yderæske, der ligner almindelige øretelefoner, med Apple-logoæsken skjult indeni. Det mindsker risikoen for toldbeslaglæggelse betydeligt, samtidig med at du stadig får den komplette Apple-brandede emballage.
 
 Når du vælger Apple-logoæsken ved betaling, medfølger dobbeltæsken automatisk — sælgere sender altid Apple-æsker indeni en lokkeæske som beskyttelse. Apple-æskeindstillingen er forudvalgt ved de fleste betalingsmetoder, men nogle kan opkræve et mindre ekstra gebyr.
 

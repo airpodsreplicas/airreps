@@ -4,14 +4,13 @@ description: 'AirPods replikalarını macOS''a nasıl bağlayacağınızı öğr
 category: Replikalarınızı kullanma
 order: 17
 ---
-
 # Sahte AirPods Mac ile çalışır mı? Kurulum, ses düzeyi kaydırıcısı ve çözümler
 
 AirPods replikalarını bir iPhone'a bağlamak genellikle zahmetsizdir, ancak bunları bir MacBook, Mac mini veya iMac'te kullanmak bazı özel sorunları beraberinde getirir. macOS klonları yerel olarak standart Bluetooth ses aygıtları olarak tanısa da kullanıcılar çoğunlukla iki bilinen sorunla karşılaşır: eski veya Intel Mac'lerde **ikili ses düzeyi kaydırıcısı hatası** ve kafa karıştırıcı **çoklu aygıt geçişi** davranışı.
 
 Geçmişte CrypticStreet gibi erken dönem rehberler bu Mac çözümlerini 2020'de ele alıyordu. O zamandan beri modern yonga setleri (özellikle Huilian ve daha yeni Airoha silikonları), replikaların macOS ile iletişim kurma biçimini tamamen değiştirdi. Sahte AirPods'u Mac'te kurmak ve sorunlarını gidermek için güncel ve kapsamlı rehber burada.
 
-> **Kısa cevap:** Replikalar Mac’e Bluetooth kulaklık olarak bağlanabilir; özellikler tam modele ve yazılıma bağlıdır. Bazı sürümlerde ses seviyesi 0% ile 100% arasında sıçrar. Rehber, Mac için **Pro 2 V5.4** gibi Huilian modellerini önerir; bu her çift, parti ve macOS sürümünde aynı ses veya iCloud davranışını garanti etmez.
+> **Kısa cevap:** Evet, sahte AirPods Mac'te ses çalma, görüntülü görüşme ve medya denetimleri için güvenilir şekilde çalışır. Ancak Huilian olmayan yonga setlerinde (eski Airoha veya Bluetrum gibi) genellikle macOS'ta ses düzeyi kaydırıcısının %0 ile %100 arasında aniden sıçradığı bir “ses düzeyi hatası” görülür. Mac'i her gün kullanıyorsanız, sorunsuz yerel ses düzeyi ölçeklendirmesini ve çalışan iCloud Connect çoklu aygıt geçişini garanti etmek için **Huilian tabanlı bir replika (Pro 2 V5.4 gibi)** satın alın.
 
 ::: tip Mac kullanıcısı mısınız? Yonga setinizi dikkatle seçin
 MacBook veya iMac ana bilgisayarınızsa genel bir pazar yeri klonu satın almayın. Topluluk, yerel ses düzeyi tablosu entegrasyonu ve iCloud geçiş kararlılığı nedeniyle macOS kullanıcılarına özellikle **Huilian yonga setlerini** öneriyor.
@@ -36,14 +35,14 @@ macOS, Bluetooth AAC üzerinden bir donanım ses düzeyi eşitleme protokolü (`
 
 ### Çözüm
 1. **Yazılım çözümü**: Topluluk, yazılım ses düzeyini donanım kazancı tablolarından ayıran açık kaynaklı bir ses düzeyi kaydırıcısı düzeltmesi sürdürüyor. Terminal yamasını çalıştırmak için adım adım [macOS ses düzeyi kaydırıcısı düzeltme rehberimizi](/tr/troubleshooting/macOS-volume-slider-fixup) izleyin.
-2. **Donanım seçimi**: **AirPods Pro 2 V5.4 Huilian** ve **AirPods 4 V2 Huilian** rehberin Mac önerileridir. Tam modeli ve revizyonu kontrol edin; ses davranışı ürün yazılımına ve macOS’a bağlı olabilir.
+2. **Donanım çözümü**: Henüz satın almadıysanız **AirPods Pro 2 V5.4 Huilian** veya **AirPods 4 V2 Huilian** modellerini seçin. Huilian modelleri, macOS'ta üçüncü taraf araçlar gerektirmeden orijinal Apple AirPods ile aynı şekilde çalışan, tamamen eşlenmiş ses düzeyi adımlarına sahiptir.
 
 ## Mac'te iCloud çoklu aygıt geçişi
 
 Apple donanımının en büyük avantajlarından biri, iPhone'da müzik dinlerken video izlemek için MacBook'a geçtiğinizde sesin otomatik olarak MacBook'a aktarılmasıdır.
 
-- **Huilian modelleri (V5.4 / V6)**: Rehber bu Huilian sürümleri için iCloud Connect listeler. Tam modeli, ürün yazılımını ve Apple yazılımını kontrol edin; her Huilian çiftinin aynı otomatik geçişi sunduğunu varsaymayın.
-- **Airoha/TigerBuilder modelleri**: Cihaz geçişi ve multipoint sürüme bağlıdır. Model sayfasını kontrol edin; manuel bağlantı gerektiğinde Mac’in Bluetooth menüsünden kulaklıkları seçin.
+- **Huilian replikalarında (V5.4 / V6)**: iPhone'unuzla eşleştirildikten sonra kulaklıklar, **iCloud Connect** aracılığıyla Apple Kimliğinizle eşitlenir. Mac'inizin başına oturduğunuzda kulaklıklar, manuel Bluetooth yeniden eşleştirmesi gerekmeden Mac'inizin ses menüsünde otomatik olarak görünür.
+- **Airoha / TigerBuilder replikalarında**: Çok noktalı bağlantıyı destekleseler de Apple'ın iCloud belirteci üzerinden eşitlenmezler. Telefondan Mac'e geçmek için Mac'inizin Bluetooth menüsünde **Bağlan** düğmesine tıklamanız gerekir.
 
 ## Zoom ve FaceTime için mikrofon kalitesini iyileştirme
 
@@ -69,7 +68,7 @@ macOS'ta iOS'taki gibi animasyonlu bir bağlantı açılır penceresi yoktur. An
 :::
 
 ::: details Topluluk üretimi aygıt yazılımı uygulamalarını Mac'te kullanabilir miyim?
-Mac uygulaması olarak değil. [Kullanışlı uygulamalar](/tr/useful-apps) kataloğunda macOS sürümleri veya web araçları yoktur. App Store, FlyCC ve StarFun’ın iPhone sürümlerinin Apple Silicon Mac’lere kurulmasına izin verir ancak bunları macOS için doğrulanmamış olarak işaretler. Modeliniz için listelenen iPhone veya Android uygulamasını kullanın.
+Evet, Airoha yonga setleri için bazı araçlar (web tabanlı flaşlama araçları ve FlyCC'nin macOS sürümleri dahil) mevcuttur. Ancak topluluk uygulamalarının büyük çoğunluğu uygun fiyatlı bir Android telefonda en sorunsuz şekilde çalışır.
 :::
 
 ::: details Uzamsal Ses, replika AirPods ile Mac'te çalışır mı?

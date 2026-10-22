@@ -4,12 +4,11 @@ description: 'AirPods replikaları ile Anker Soundcore, EarFun ve JLab gibi uygu
 category: Karşılaştırma
 order: 10
 ---
-
 # Sahte AirPods ve uygun fiyatlı kulaklıklar: dürüst bir karşılaştırma
 
 “Sahte AirPods almalı mıyım?” soruları genellikle orijinal AirPods'larla kıyaslanarak soruluyor, ancak insanların gerçekte verdiği karar bu değil. Uygun fiyatlı seçeneklere bakıyorsanız, asıl seçiminiz bir replika ile yasal bir uygun fiyatlı marka — Anker Soundcore, EarFun, JLab ve bu segmentteki birçok özel marka — arasında. İkisinin fiyatı benzer ve toplulukta diğer tüm karşılaştırmalardan daha sık yapılan karşılaştırma da bu.
 
-> **Kısa cevap:** Üretici garantisi, resmî uygulama ve yetkili satıcı desteği önceliğinizse Anker Soundcore veya EarFun gibi yasal bütçe kulaklıklarını seçin. Önceliğiniz iOS ekosistemiyle entegrasyonsa — anında eşleştirme pencereleri, Apple sap ergonomisi, kaydırarak ses kontrolü ve şaşırtıcı derecede yakın ~38 dB ANC — üst düzey AirPods replikalarını (V5.4 Huilian veya V5.3TB gibi) seçin.
+> **Kısa cevap:** Resmî 18 aylık garantiye, üretici yazılım güncellemeleri sunan yerel yardımcı uygulamalara ve sıfır gümrük riskine önem veriyorsanız yasal uygun fiyatlı kulaklıkları (Anker Soundcore veya EarFun gibi) seçin. Önceliğiniz iOS ekosistemiyle entegrasyonsa — anında eşleştirme pencereleri, Apple sap ergonomisi, kaydırarak ses kontrolü ve şaşırtıcı derecede yakın ~38 dB ANC — üst düzey AirPods replikalarını (V5.4 Huilian veya V5.3TB gibi) seçin.
 
 İşte dürüst bilanço.
 
@@ -31,14 +30,14 @@ Uygun fiyatlı markalar AirPods olmaya çalışmaz ve mesele de budur. Yaklaşı
 
 - **Garanti ve gerçek müşteri desteği.** Bir cihaz bozulduğunda bir satıcıyla sohbet etmek yerine bir şirket ve iade süreciyle muhatap olursunuz.
 - Resmî kontroller ve ayarların yanı sıra **üreticiden aygıt yazılımı güncellemeleri** sunan **düzgün bir yardımcı uygulama**.
-- **Normal yetkili satış kanalları.** Yetkili satıcıdan yasal ürün almak, replikalara özgü fikrî mülkiyet sorununu önler. Yurt dışı alımlarda normal ithalat şartları veya ücretleri yine olabilir.
+- **Yasal veya gümrük riski yoktur.** Normal perakende kanallarından lisanslı bir ürün satın alırsınız. Ürüne el konulmaz ve düşünmeniz gereken bir gri alan olmaz.
 - **Satıcı ilişkisine bağımlılık yoktur.** Desteğiniz ve bir sonraki alışverişiniz, belirli bir satıcının ulaşılabilir kalmasına ve topluluğun beklentilerini karşılamasına bağlı değildir.
 
 Bunların hiçbiri gösterişli değil, ancak bir şey bozulduğunda insanların altı ay sonra eksikliğini tam olarak hissettiği şeyler bunlardır.
 
 ## İkisinin gerçekten aynı olduğu noktalar
 
-Giriş seviyesinde fiyatları aynıdır. Topluluğun adını güvenle andığı en ucuz replika olan, yaklaşık 26 dolar fiyatındaki [AirPods 2 V3E](/tr/version-info/airpods-2), uygun fiyatlı marka kulaklıkların başladığı aralıkla aynı yerde durur. Karşılaştırmalı kullanım ömrü ölçmedik. Ömür tam modele, pile, üretime, şarj alışkanlığına ve kullanıma bağlıdır; benzer fiyat aynı dayanıklılığı kanıtlamaz.
+Giriş seviyesinde fiyatları aynıdır. Topluluğun adını güvenle andığı en ucuz replika olan, yaklaşık 26 dolar fiyatındaki [AirPods 2 V3E](/tr/version-info/airpods-2), uygun fiyatlı marka kulaklıkların başladığı aralıkla aynı yerde durur. İkisi de benzer gerçekçi kullanım ömürlerine sahip, seri üretilen küçük elektronik cihazlardır ve pilleri eskidiğinde ikisinin de eninde sonunda değiştirilmesi gerekir.
 
 Fark fiyat değildir. Fark, o parayla *ne satın aldığınızdır*: AirPods deneyimi mi, yoksa güvence mi?
 
@@ -49,11 +48,11 @@ Her fiyat seviyesinde kalıcı olan iki eksik vardır:
 - **Apple'ın Find My ağı.** Hiçbir model veya sürümde hiçbir replikada bulunmaz. Kayıp kulaklıkları Apple'ın ağı üzerinden takip etmek sizin için önemliyse, bu tek başına replikaları elemek için yeterlidir. Bu durum [sürüm karşılaştırmamızda](/tr/version-info/general) da belirtiliyor.
 - **Apple aygıt yazılımı, servisi ve garantisi.** Replikalar Apple güncellemelerini veya onarımlarını almaz. Güncellemeler topluluk uygulamalarından, destek ise satıcıdan ve topluluktan gelir.
 
-Replika ithalat kuralları ülkeye ve ürüne bağlıdır. Ambalaj geçiş garantisi değildir; KDV, gümrük ve işlem ücretlerini hattın güncel fiyatından kontrol edin. [Sipariş kılavuzuna](/tr/ordering/how-to-buy) ve [ambalaj kılavuzuna](/tr/introduction/packaging) bakın.
+Açıkça ifade edilmesi gereken pratik bir katman da var: ticari markalı benzer ürünleri ithal etmek ülkeye göre değişen yasal bir gri alandır ve markalı ambalajlar gümrükte el konulması ihtimalini artırır. Güvenilir satıcılar bu riski azaltır — birçoğu AB KDV'sini peşin alır ve Apple kutularını dışarıdan farklı görünen ambalajların içine koyarak gönderir — ancak risk hiçbir zaman tamamen ortadan kalkmaz. Uygun fiyatlı markalarda ise bu tür bir sorun kategorisi basitçe yoktur. Ayrıntılar için [nasıl satın alınır](/tr/ordering/how-to-buy) ve [ambalaj rehberine](/tr/introduction/packaging) bakın.
 
 ## Hangisini kim almalı
 
-**Bütçe markasını seçin:** garanti, destek, üretici uygulaması ve güncellemeleri veya yetkili satıcı önceliğinizse. Böylece replikalara özgü ithalat sorunlarından kaçınırsınız. Yurt dışı alımda gerçek garanti ve normal ithalat ücretlerini kontrol edin.
+**Şu durumlarda uygun fiyatlı bir marka alın:** garanti ve destek sizin için önemliyse, üretici uygulaması ve resmî aygıt yazılımı istiyorsanız, herhangi bir gümrük veya yasal risk istemiyorsanız ya da bir satıcı ilişkisiyle uğraşmak yerine normal bir perakendeciyle muhatap olmayı tercih ediyorsanız. Bunlardan herhangi biri en önemli önceliğinizse, uygun fiyatlı marka daha iyi bir seçimdir — bu bir taviz değil, doğru araçtır.
 
 **Şu durumlarda replika alın:** özellikle istediğiniz şey AirPods deneyimiyse — pencere, takma algılama, çalışan ANC ve şeffaflık, üst sürümlerde Spatial Audio — ve bunu perakende fiyatının çok altında almak istiyorsanız ve yukarıdaki eksikleri kabul ediyorsanız. Gerçekte neyin çalıştığına dair en net tablo [özellikler sayfasında](/tr/introduction/features) yer alıyor.
 
@@ -76,7 +75,7 @@ Hayır. Destek, üretici garantisinden değil, satıcıdan ve topluluktan gelir.
 :::
 
 ::: details Replikalarda gümrük ve yasal riskten kaçınabilir miyim?
-Tamamen değil. Gümrük ve fikrî mülkiyet kuralları ürüne uygulanır; nötr veya çift kutu ve satıcının vergi düzeni yasal ithalatı ya da geçişi garanti etmez. Yetkili satıcıdan yasal ürün almak bu özel sorunu önler; normal ithalat ücretleri yine olabilir.
+Tamamen değil. Replika ithal etmek ülkeye göre değişen bir gri alandır ve markalı kutular el konulma ihtimalini artırır. Güvenilir satıcılar nötr veya farklı görünen ambalaj ve KDV'nin peşin alınmasıyla riski azaltır, ancak lisanslı bir uygun fiyatlı marka bu tür bir risk taşımaz.
 :::
 
 ::: details Bu yolu seçersem hangi replikayı tercih etmeliyim?

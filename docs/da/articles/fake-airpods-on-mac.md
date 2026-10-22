@@ -4,14 +4,13 @@ description: 'Sådan forbinder du AirPods-kopier til macOS — løsning af fejle
 category: Brug af dine reps
 order: 17
 ---
-
 # Virker falske AirPods med Mac? Opsætning, lydstyrkeskyder og løsninger
 
 Det er som regel problemfrit at forbinde replika-AirPods til en iPhone, men brug på en MacBook, Mac mini eller iMac medfører nogle særlige udfordringer. Selvom macOS automatisk genkender kopier som almindelige Bluetooth-lydenheder, støder brugere ofte på to velkendte problemer: **fejlen med den binære lydstyrkeskyder** på ældre Mac-computere eller Intel-Macs samt forvirrende adfærd ved **skift mellem flere enheder**.
 
 Historisk set beskrev tidlige vejledninger som CrypticStreet disse løsninger til Mac i 2020. Siden da har moderne chipsets (især Huilian og nyere Airoha-silicium) fuldstændigt ændret, hvordan replikaer fungerer sammen med macOS. Her er den moderne, definitive vejledning til opsætning og fejlfinding af falske AirPods på Mac.
 
-> **Kort svar:** AirPods-kopier kan parres med en Mac som Bluetooth-øretelefoner, men funktionerne afhænger af præcis model og software. Nogle versioner har en lydstyrkefejl med spring mellem 0 % og 100 %. Guiden anbefaler Huilian-modeller som **Pro 2 V5.4** til Mac; det garanterer ikke samme lydstyrke- eller iCloud-funktion på alle par, batches eller macOS-versioner.
+> **Kort svar:** Ja, falske AirPods fungerer pålideligt med Mac til lydafspilning, videoopkald og mediekontrol. Chipsets, der ikke er Huilian (f.eks. ældre Airoha eller Bluetrum), rammes dog ofte af en macOS-"lydstyrkefejl", hvor lydstyrkeskyderen pludselig springer mellem 0 % og 100 %. Hvis du bruger en Mac dagligt, garanterer køb af en **Huilian-baseret replika (f.eks. Pro 2 V5.4)** jævn, indbygget lydstyrkeregulering og fungerende iCloud Connect-skift mellem flere enheder.
 
 ::: tip Mac-bruger? Vælg dit chipset med omhu
 Hvis en MacBook eller iMac er din primære computer, bør du ikke købe en generisk kopi fra en markedsplads. Fællesskabet anbefaler specifikt **Huilian-chipsets** til macOS-brugere på grund af deres indbyggede integration af lydstyrketabellen og stabile iCloud-overdragelse.
@@ -36,14 +35,14 @@ macOS bruger en protokol til synkronisering af hardwarelydstyrke (`Absolute Volu
 
 ### Løsningen
 1. **Softwareløsningen**: Fællesskabet vedligeholder en open source-løsning til lydstyrkeskyderen, som adskiller softwarelydstyrken fra hardwarelydstyrketabellerne. Følg vores trin-for-trin-[vejledning til løsning af macOS-problemer med lydstyrkeskyderen](/da/troubleshooting/macOS-volume-slider-fixup) for at køre terminalrettelsen.
-2. **Valg af hardware**: **AirPods Pro 2 V5.4 Huilian** og **AirPods 4 V2 Huilian** er guidens Mac-anbefalinger. Tjek den præcise model og revision; lydstyrken kan afhænge af firmware og macOS-version.
+2. **Hardwareløsningen**: Hvis du endnu ikke har købt, skal du vælge **AirPods Pro 2 V5.4 Huilian** eller **AirPods 4 V2 Huilian**. Huilian-modeller har fuldt kortlagte lydstyrketrin, der fungerer identisk med ægte Apple AirPods på macOS uden behov for tredjepartsværktøjer.
 
 ## Skift mellem flere enheder via iCloud på Mac
 
 En af de største fordele ved Apple-hardware er at kunne lytte til musik på en iPhone og få lyden til automatisk at skifte til en MacBook, når du ser en video.
 
-- **Huilian-modeller (V5.4 / V6)**: Guiden angiver iCloud Connect for disse Huilian-versioner. Tjek præcis model, firmware og Apple-software; antag ikke, at alle Huilian-par skifter automatisk på samme måde.
-- **Airoha-/TigerBuilder-modeller**: Enhedsskift og multipoint afhænger af versionen. Tjek modelsiden, og vælg øretelefonerne i Mac-computerens Bluetooth-menu, når manuel tilslutning er nødvendig.
+- **På Huilian-replikaer (V5.4 / V6)**: Når øretelefonerne er parret med din iPhone, synkroniseres de med dit Apple-id via **iCloud Connect**. Når du sætter dig ved din Mac, vises de automatisk i din Macs lydmenu uden manuel genparring via Bluetooth.
+- **På Airoha- / TigerBuilder-replikaer**: Selvom de understøtter multipoint-forbindelse, synkroniserer de ikke via Apples iCloud-token. Hvis du vil skifte fra din telefon til din Mac, skal du klikke på **Opret forbindelse** i din Macs Bluetooth-menu.
 
 ## Sådan optimerer du mikrofonkvaliteten til Zoom og FaceTime
 
@@ -69,7 +68,7 @@ macOS har ikke en animeret forbindelses-pop op som iOS. Replika-AirPods viser do
 :::
 
 ::: details Kan jeg bruge fællesskabets firmwareapps på en Mac?
-Ikke som Mac-apps. Kataloget med [nyttige apps](/da/useful-apps) har ingen macOS-versioner eller webbaserede værktøjer. App Store tillader installation af iPhone-versionerne af FlyCC og StarFun på Mac-computere med Apple Silicon, men markerer dem som ikke verificeret til macOS. Brug derfor den iPhone- eller Android-app, der er angivet til din model.
+Ja, der findes visse værktøjer (herunder webbaserede flashværktøjer og macOS-versioner af FlyCC) til Airoha-chipsets. Langt de fleste apps fra fællesskabet fungerer dog bedst på en billig Android-telefon.
 :::
 
 ::: details Fungerer rumlig lyd på en Mac med replika-AirPods?

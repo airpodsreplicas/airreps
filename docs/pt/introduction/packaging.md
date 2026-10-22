@@ -2,7 +2,6 @@
 title: Embalagens e caixas de réplicas de AirPods
 description: 'Tipos de embalagem explicados: sem logotipo, logotipo da Apple e caixas duplas/de isca. Riscos e detalhes de qualidade.'
 ---
-
 # Embalagem
 
 As réplicas de AirPods vêm em diferentes tipos de embalagem, cada uma com suas próprias características e riscos potenciais.
@@ -16,17 +15,17 @@ A caixa sem logotipo é branca e tem um formato semelhante ao da caixa original 
 
 ## Caixa com logotipo da Apple
 
-A caixa com o logotipo da Apple reproduz a embalagem dos AirPods legítimos, apresentando o tradicional texto “AirPods” e os logotipos da Apple. Os manuais e o cabo de carregamento no interior trazem marcas da Apple. Os produtos podem ser inspecionados ou apreendidos conforme as regras do destino, independentemente da embalagem externa. Caixa dupla não é isenção nem garantia contra apreensão.
+A caixa com o logotipo da Apple reproduz a embalagem dos AirPods legítimos, apresentando o tradicional texto “AirPods” e os logotipos da Apple. Os manuais e o cabo de carregamento no interior trazem marcas da Apple. No entanto, solicitar uma “caixa da Apple” pode aumentar o risco de apreensão do produto na alfândega, resultando em multas ou na destruição do produto. Para reduzir esse risco, muitos vendedores usam uma técnica de caixa dupla, escondendo a caixa da Apple dentro de uma caixa genérica com formato de fones de ouvido.
 
 <img src="/applebox.webp" alt="Caixa com logotipo da Apple" width="300" height="400"/>
 
 ::: danger
-Os produtos podem ser inspecionados ou apreendidos conforme as regras do destino, independentemente da embalagem externa. Caixa dupla não é isenção nem garantia contra apreensão.
+Solicitar uma “caixa da Apple” pode levar à apreensão do produto na alfândega. Muitos vendedores usam uma técnica de caixa dupla para reduzir esse risco.
 :::
 
 ## Caixa dupla/chamariz
 
-Uma caixa externa genérica contendo outra com logo Apple. Oferece uma apresentação específica; não temos medições que demonstrem menor risco de apreensão. A embalagem não muda as regras para os produtos.
+A melhor opção para a maioria dos compradores. Uma caixa externa genérica que se parece com a de fones de ouvido comuns, com a caixa com logotipo da Apple escondida dentro. Isso reduz significativamente o risco de apreensão na alfândega, ao mesmo tempo que oferece toda a embalagem com a marca Apple.
 
 Quando você seleciona a caixa com logotipo da Apple na finalização da compra, a caixa dupla é incluída automaticamente — os vendedores sempre enviam as caixas da Apple dentro de uma caixa chamariz para proteção. A opção de caixa da Apple vem pré-selecionada na maioria dos métodos de pagamento, embora alguns possam cobrar uma pequena taxa adicional.
 
