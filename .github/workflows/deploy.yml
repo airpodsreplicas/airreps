@@ -63,8 +63,8 @@ jobs:
       - name: Check internal links and redirect bookmarks
         run: python3 scripts/check-guide-links.py
 
-      - name: Test product navigation and translated articles
-        run: bun test scripts/product-families.test.ts scripts/articles.test.ts scripts/translation-sync.test.ts
+      - name: Test product navigation, translated articles, page dates, IndexNow URLs and guide measurement
+        run: bun test scripts/product-families.test.ts scripts/articles.test.ts scripts/translation-sync.test.ts scripts/page-dates.test.ts scripts/indexnow-urls.test.ts scripts/guide-analytics.test.ts
 
       - name: List build directory contents
         run: ls -la docs/.vitepress/dist
@@ -100,26 +100,23 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.11
+
       - name: Submit changed URLs to IndexNow
         env:
           INDEXNOW_KEY: 4c037b783fbf7d87c71f574bef22136f
           HOST: airpodsreplicas.com
+          BEFORE: ${{ github.event.before }}
         run: |
-          BEFORE="${{ github.event.before }}"
-          # Force pushes and new branches have a null/unknown before SHA;
-          # fall back to just the head commit's changes.
-          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then
-            BEFORE="${{ github.sha }}^"
-          fi
-          # Map changed markdown pages to their cleanUrls form: index.md becomes
-          # the directory URL (trailing slash, matching sitemap canonicals),
-          # other pages drop the .md extension. Deleted pages are submitted too —
-          # IndexNow recrawls them and drops them from the index.
-          urls=$(git diff --name-only "$BEFORE" "${{ github.sha }}" -- docs/ \
-            | grep '\.md$' \
-            | grep -v -e '^docs/\.vitepress/' -e '^docs/public/' \
-            | sed -E "s|^docs/||; s|index\.md$||; s|\.md$||; s|^|https://$HOST/|" \
-            | sort -u)
+          # Canonical URLs of pages whose rendered content changed: generation
+          # files resolve to their family page, pages that include a changed
+          # file are added, and deleted pages are submitted so engines drop the
+          # 404. A null/unknown before SHA (force push, new branch) falls back to
+          # the head commit's changes. No dependencies needed.
+          urls=$(bun scripts/indexnow-urls.ts "$BEFORE" "$GITHUB_SHA")
           if [ -z "$urls" ]; then
             echo "No doc pages changed; skipping IndexNow ping."
             exit 0

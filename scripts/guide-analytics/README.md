@@ -169,8 +169,14 @@ allowlist disagree.
   it. The client adds the beacon script once, after `window.load`, as
   `<script type="module" data-cf-beacon='{"token":"…"}'>`. The beacon tracks
   SPA navigations itself, and the client never adds it twice.
-- The beacon sends the page URL (with query string, without the fragment) and
-  the referrer to Cloudflare. The custom counter does not. See
+- Observed on 2026-10-22 with the then-current beacon (`versions.js`
+  `2026.10.1`): it sends Cloudflare the page address, the referring page and
+  performance timings, but passes both URLs through a helper that clears the
+  query string, fragment and any URL credentials. Intercepted payloads for an
+  initial load and an SPA navigation carried only origin and path (for example
+  `https://airpodsreplicas.com/links/info`). Cloudflare controls this script, so
+  recheck after it changes. The custom counter never receives the referring
+  URL, only the category derived in the browser. See
   <https://developers.cloudflare.com/web-analytics/about/>.
 
 ## Tests
