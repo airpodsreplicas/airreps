@@ -8,6 +8,9 @@ import Contributor from '../components/Contributors.vue';
 // @ts-ignore - Vue component import
 import Quiz from '../components/Quiz.vue';
 import { productDestination } from '../product-routes';
+import { startGuideMetrics } from './guide-metrics';
+// @ts-ignore - Vue component import
+import Layout from './Layout.vue';
 
 export default {
     ...Theme,
@@ -153,5 +156,20 @@ export default {
                 requestAnimationFrame(() => requestAnimationFrame(openForHash));
             };
         }
+
+        // Aggregate page/outbound counts and Cloudflare Web Analytics — only on
+        // the production hosts, and off under Do Not Track / Global Privacy
+        // Control (see /privacy). The hook also runs for the initial page load.
+        if (typeof window !== 'undefined') {
+            const metrics = startGuideMetrics();
+            if (metrics) {
+                const beforeMetrics = ctx.router.onAfterRouteChange;
+                ctx.router.onAfterRouteChange = async (to: string) => {
+                    await beforeMetrics?.(to);
+                    metrics.pageChanged(ctx.router.route.data);
+                };
+            }
+        }
     },
+    Layout,
 };

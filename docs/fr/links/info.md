@@ -5,7 +5,7 @@ faq:
   - q: Vais-je recevoir un produit de bonne qualité ?
     a: 'Il est impossible de garantir la qualité d’un produit, car elle peut varier même entre des produits provenant du même vendeur. Cependant, les vendeurs de confiance sont généralement réputés pour proposer des produits de bonne qualité.'
   - q: Comment contacter les vendeurs ?
-    a: 'Rejoignez le Discord AirReps à l’adresse https://airreps.link/discord pour obtenir les numéros WhatsApp des vendeurs. Vous pouvez également utiliser AliExpress pour leur envoyer un message en cliquant sur Contacter le fournisseur.'
+    a: 'Utilisez le lien de contact WhatsApp du site officiel de chaque vendeur : Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/) ou Jenny (https://jenny.airreps.info/go/whatsapp/). Vous pouvez également demander de l’aide sur le Discord AirReps à l’adresse https://airreps.link/discord.'
   - q: Quel est le meilleur vendeur ?
     a: 'Le meilleur vendeur dépend de vos besoins. Les vendeurs proposent généralement des produits similaires — par exemple, un Pro 2 V5.2 TB de Jenny est identique à celui de HiCity. Les différences concernent l’assistance, les délais d’expédition et les plateformes d’achat.'
   - q: Mes informations de suivi sont en chinois. Que dois-je faire ?
@@ -22,6 +22,8 @@ Cette liste est tenue à jour. Une version plus récente signifie généralement
 :::
 
 La liste suivante contient uniquement des liens vers des vendeurs vérifiés. Si vous connaissez des vendeurs dignes de confiance qui mériteraient d’être vérifiés, veuillez en informer un auteur de l’Ultimate Guide ou rédiger un avis sur leur produit et le publier sur les forums AirReps. Pour garantir la qualité et l’authenticité de vos répliques d’Apple AirPods, nous vous recommandons d’acheter uniquement auprès de ces vendeurs vérifiés.
+
+Certains liens vers des vendeurs et des agents d’achat peuvent rapporter une commission à AirReps.
 
 ## Choisissez le produit pour lequel vous souhaitez voir les liens
 
@@ -58,13 +60,13 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 |----------------|---------|--------|-------|
 | [**Carte de crédit / débit**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ✅ | ✅ | ❌ |
+| **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ✅ | ❌ | ✅ |
+| **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / cryptomonnaies** | ✅ | ✅ | ✅ |
-| **Virement bancaire** | ✅ | ✅ | ✅ |
+| **Virement bancaire** | ❌ | ❌ | ✅ |
 | **Weidian (par l’intermédiaire d’un agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -73,6 +75,8 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+Les passerelles de paiement activées par chaque vendeur ont été vérifiées pour la dernière fois le 22 octobre 2026. La caisse du vendeur fait foi, et la disponibilité actuelle peut varier selon le pays ou la commande.
 
 Les modes de paiement OnlyPay de HiCity dépendent du pays de facturation : Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB) ; Swish (SE) ; PayU (CZ, PL) ; Bancontact (BE) ; EPS (AT) ; PIX et Boleto (BR). Ces options par pays ont été vérifiées dans la caisse de HiCity le 4 septembre 2026. OnlyPay confirme la disponibilité finale pour chaque commande. Aucune option OnlyPay n’était proposée pour les États-Unis, le Canada, l’Australie ou la France.
 
@@ -93,7 +97,7 @@ Il n’est pas possible de garantir la qualité d’un produit, car elle peut va
 :::
 
 ::: details Comment contacter les vendeurs ?
-Pour contacter les vendeurs, vous pouvez rejoindre le Discord AirReps : https://airreps.link/discord et obtenir leurs numéros WhatsApp, car ceux-ci ne sont pas disponibles publiquement. Vous pouvez également utiliser AliExpress pour leur envoyer un message en cliquant sur « Contacter le fournisseur ».
+Chaque vendeur de confiance propose un lien de contact WhatsApp officiel sur son site : [Earhive](https://earhive.com/go/whatsapp/), [HiCity](https://hicitypods.com/go/whatsapp/) et [Jenny](https://jenny.airreps.info/go/whatsapp/). Vous pouvez également demander de l’aide sur le [Discord AirReps](https://airreps.link/discord).
 :::
 
 ::: details Quel est le meilleur vendeur ?

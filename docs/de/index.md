@@ -19,7 +19,7 @@ hero:
       link: quiz
     - theme: alt
       text: Vertrauenswürdige Verkäufer ansehen
-      link: /links/info
+      link: /de/links/info
 features:
   - icon: "🤝"
     title: Helferteam
@@ -33,8 +33,8 @@ features:
     linkText: Den Leitfaden lesen
   - icon: "💸"
     title: Liste vertrauenswürdiger Verkäufer
-    details: 'Von der Community ausgewählte, gemeinnützige Verkäuferliste mit den neuesten Produkten und dem besten Support.'
-    link: /links/info
+    details: 'Von der Community ausgewählte Verkäuferliste mit den neuesten Produkten und dem besten Support. Einige Links zu Verkäufern und Einkaufsagenten können AirReps eine Provision einbringen.'
+    link: /de/links/info
     linkText: Verkäufer ansehen
 ---
 <Contributor></Contributor>

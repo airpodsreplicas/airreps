@@ -15,7 +15,7 @@ Der findes mange sælgere af AirPods-replikaer, men den bedste oplevelse kommer 
 Selvom du kan finde sælgere på kinesiske e-handelswebsteder som AliExpress eller DHgate, er anmeldelser på disse platforme ikke altid upartiske eller legitime. Køb fra ubekræftede sælgere indebærer større risiko, da produktkvalitet og kundeservice kan variere betydeligt. Hvis du køber fra en ubekræftet sælger og oplever problemer, så del venligst din erfaring med vores personale.
 
 ::: tip Liste over verificerede sælgere
-Find en [liste over fællesskabsverificerede og ansete sælgere her](/da/links/info).
+Find en [liste over fællesskabsverificerede og ansete sælgere her](/da/links/info). AirReps kan tjene provision på nogle links til sælgere og shoppingagenter.
 :::
 
 ::: tip Køb hos troværdige sælgere

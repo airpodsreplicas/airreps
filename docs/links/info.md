@@ -5,7 +5,7 @@ faq:
   - q: "Will I get a good quality unit?"
     a: "It is not possible to guarantee the quality of a unit, as it can vary even among units from the same seller. However, trusted sellers are generally known for offering good quality products."
   - q: "How do I contact sellers?"
-    a: "Join the AirReps Discord at https://airreps.link/discord to obtain seller WhatsApp numbers. Alternatively, use AliExpress to message them by clicking Contact Supplier."
+    a: "Use the WhatsApp contact link on the seller's official website: Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/) or Jenny (https://jenny.airreps.info/go/whatsapp/). Alternatively, ask for help in the AirReps Discord at https://airreps.link/discord."
   - q: "Which is the best vendor?"
     a: "The best vendor varies based on your needs. Vendors typically offer similar products — for example, a Pro 2 V5.2 TB from Jenny is identical to one from HiCity. Differences arise in support, shipping times, and purchasing platforms."
   - q: "My tracking information is in Chinese. What should I do?"
@@ -23,6 +23,8 @@ This list is kept up to date. A higher version usually means a better product �
 :::
 
 The following list contains links to verified sellers only. If you know of any sellers that are trustworthy and deserve verification, please inform an Ultimate Guide author or write a review about their product and publish it to the AirReps forums. To ensure the quality and authenticity of your Apple AirPods replicas, we recommend only purchasing from these verified sellers.
+
+Some seller and shopping-agent links may earn AirReps a commission.
 
 ## Choose the product you want to view links for
 
@@ -59,13 +61,13 @@ All trusted sellers accept multiple payment methods for your convenience:
 |----------------|---------|--------|-------|
 | [**Credit / Debit Card**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ✅ | ✅ | ❌ |
+| **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ✅ | ❌ | ✅ |
+| **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
-| **Bank Transfer** | ✅ | ✅ | ✅ |
+| **Bank Transfer** | ❌ | ❌ | ✅ |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -74,6 +76,8 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+Each seller's enabled payment gateways were last checked on 22 October 2026. The seller's checkout is authoritative, and current availability can change by country or order.
 
 HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options were checked in HiCity's cashier on 4 September 2026. OnlyPay confirms final availability for each order. No OnlyPay option was listed for the US, Canada, Australia or France.
 
@@ -94,7 +98,7 @@ It is not possible to guarantee the quality of a unit, as it can vary even among
 :::
 
 ::: details How do I contact sellers?
-To contact sellers, you can join the AirReps Discord: https://airreps.link/discord and obtain their WhatsApp numbers, as they are not publicly available. Alternatively, you can use AliExpress to message them by clicking "Contact Supplier".
+Each trusted seller has an official WhatsApp contact link on their website: [Earhive](https://earhive.com/go/whatsapp/), [HiCity](https://hicitypods.com/go/whatsapp/) and [Jenny](https://jenny.airreps.info/go/whatsapp/). Alternatively, you can ask for help in the [AirReps Discord](https://airreps.link/discord).
 :::
 
 ::: details Which is the best vendor?

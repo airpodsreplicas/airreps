@@ -78,7 +78,8 @@ const i18n: Record<string, Record<string, string>> = {
         o_any: "Don't mind",
         o_any_d: "They're all good — just show me the result",
         q_payment: 'Do you need a specific payment method?',
-        q_payment_hint: 'All sellers accept Credit Card, Revolut, Wise, Crypto, and Bank Transfer.',
+        q_payment_hint:
+            'Payment methods vary by seller and country. Check the current checkout before ordering.',
         o_card: 'Credit / Debit Card',
         o_card_d: 'Accepted by all sellers',
         o_alipay: 'AliPay',
@@ -178,7 +179,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_any_d: 'Todos son buenos — muestra el resultado',
         q_payment: '\u00bfNecesitas un m\u00e9todo de pago espec\u00edfico?',
         q_payment_hint:
-            'Todos los vendedores aceptan tarjeta, Revolut, Wise, cripto y transferencia bancaria.',
+            'Los m\u00e9todos de pago var\u00edan seg\u00fan el vendedor y el pa\u00eds. Revisa la p\u00e1gina de pago actual antes de hacer el pedido.',
         o_card: 'Tarjeta de cr\u00e9dito/d\u00e9bito',
         o_card_d: 'Aceptada por todos los vendedores',
         o_alipay: 'AliPay',
@@ -277,7 +278,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_any_d: 'Todos s\u00e3o bons — mostre o resultado',
         q_payment: 'Precisa de um m\u00e9todo de pagamento espec\u00edfico?',
         q_payment_hint:
-            'Todos os vendedores aceitam cart\u00e3o, Revolut, Wise, cripto e transfer\u00eancia banc\u00e1ria.',
+            'Os m\u00e9todos de pagamento variam conforme o vendedor e o pa\u00eds. Confira o checkout atual antes de fazer o pedido.',
         o_card: 'Cart\u00e3o de cr\u00e9dito/d\u00e9bito',
         o_card_d: 'Aceito por todos os vendedores',
         o_alipay: 'AliPay',
@@ -376,7 +377,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_any_d: 'De er alle gode — vis mig resultatet',
         q_payment: 'Har du brug for en bestemt betalingsmetode?',
         q_payment_hint:
-            'Alle s\u00e6lgere accepterer kreditkort, Revolut, Wise, krypto og bankoverf\u00f8rsel.',
+            'Betalingsmetoderne varierer efter s\u00e6lger og land. Tjek de aktuelle muligheder i kassen, f\u00f8r du bestiller.',
         o_card: 'Kredit-/debetkort',
         o_card_d: 'Accepteret af alle s\u00e6lgere',
         o_alipay: 'AliPay',
@@ -475,7 +476,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_any_d: 'Ils sont tous bons — montrez le r\u00e9sultat',
         q_payment: "Avez-vous besoin d'un mode de paiement sp\u00e9cifique ?",
         q_payment_hint:
-            'Tous les vendeurs acceptent CB, Revolut, Wise, crypto et virement bancaire.',
+            'Les moyens de paiement varient selon le vendeur et le pays. V\u00e9rifiez la page de paiement actuelle avant de commander.',
         o_card: 'Carte de cr\u00e9dit/d\u00e9bit',
         o_card_d: 'Accept\u00e9e par tous les vendeurs',
         o_alipay: 'AliPay',
@@ -574,7 +575,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_any_d: 'Wszyscy s\u0105 dobrzy — poka\u017c wynik',
         q_payment: 'Potrzebujesz konkretnej metody p\u0142atno\u015bci?',
         q_payment_hint:
-            'Wszyscy sprzedawcy akceptuj\u0105 karty, Revolut, Wise, krypto i przelew bankowy.',
+            'Metody p\u0142atno\u015bci zale\u017c\u0105 od sprzedawcy i kraju. Przed zam\u00f3wieniem sprawd\u017a aktualne opcje na stronie p\u0142atno\u015bci.',
         o_card: 'Karta kredytowa/debetowa',
         o_card_d: 'Akceptowana przez wszystkich sprzedawc\u00f3w',
         o_alipay: 'AliPay',
@@ -719,7 +720,7 @@ const i18n: Record<string, Record<string, string>> = {
         q_payment:
             '\u041d\u0443\u0436\u0435\u043d \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u043e\u043f\u043b\u0430\u0442\u044b?',
         q_payment_hint:
-            '\u0412\u0441\u0435 \u043f\u0440\u043e\u0434\u0430\u0432\u0446\u044b \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u043a\u0430\u0440\u0442\u044b, Revolut, Wise, \u043a\u0440\u0438\u043f\u0442\u043e \u0438 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434.',
+            '\u0421\u043f\u043e\u0441\u043e\u0431\u044b \u043e\u043f\u043b\u0430\u0442\u044b \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u043f\u0440\u043e\u0434\u0430\u0432\u0446\u0430 \u0438 \u0441\u0442\u0440\u0430\u043d\u044b. \u041f\u0435\u0440\u0435\u0434 \u0437\u0430\u043a\u0430\u0437\u043e\u043c \u043f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f.',
         o_card: '\u041a\u0440\u0435\u0434\u0438\u0442\u043d\u0430\u044f/\u0434\u0435\u0431\u0435\u0442\u043e\u0432\u0430\u044f \u043a\u0430\u0440\u0442\u0430',
         o_card_d:
             '\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u0432\u0441\u0435\u043c\u0438 \u043f\u0440\u043e\u0434\u0430\u0432\u0446\u0430\u043c\u0438',
@@ -836,7 +837,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_any_d: 'Sind alle gut \u2014 zeig mir das Ergebnis',
         q_payment: 'Brauchst du eine bestimmte Zahlungsmethode?',
         q_payment_hint:
-            'Alle Verk\u00e4ufer akzeptieren Kreditkarte, Revolut, Wise, Krypto und Bank\u00fcberweisung.',
+            'Die Zahlungsmethoden h\u00e4ngen von Verk\u00e4ufer und Land ab. Pr\u00fcfe vor der Bestellung die aktuellen Optionen an der Kasse.',
         o_card: 'Kredit-/Debitkarte',
         o_card_d: 'Von allen Verk\u00e4ufern akzeptiert',
         o_alipay: 'AliPay',
@@ -935,7 +936,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_any_d: 'Hepsi iyi \u2014 sonucu g\u00f6ster',
         q_payment: 'Belirli bir \u00f6deme y\u00f6ntemi gerekiyor mu?',
         q_payment_hint:
-            'T\u00fcm sat\u0131c\u0131lar kredi kart\u0131, Revolut, Wise, kripto ve banka havalesi kabul eder.',
+            '\u00d6deme y\u00f6ntemleri sat\u0131c\u0131ya ve \u00fclkeye g\u00f6re de\u011fi\u015fir. Sipari\u015f vermeden \u00f6nce \u00f6deme sayfas\u0131ndaki g\u00fcncel se\u00e7enekleri kontrol edin.',
         o_card: 'Kredi / Banka kart\u0131',
         o_card_d: 'T\u00fcm sat\u0131c\u0131lar taraf\u0131ndan kabul edilir',
         o_alipay: 'AliPay',

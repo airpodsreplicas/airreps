@@ -19,7 +19,7 @@ hero:
       link: quiz
     - theme: alt
       text: Voir les vendeurs fiables
-      link: /links/info
+      link: /fr/links/info
 features:
   - icon: "🤝"
     title: Équipe d’entraide
@@ -33,8 +33,8 @@ features:
     linkText: Lire le guide
   - icon: "💸"
     title: Liste de vendeurs fiables
-    details: 'Une liste de vendeurs à but non lucratif sélectionnés par la communauté, proposant les derniers produits et le meilleur support.'
-    link: /links/info
+    details: 'Une liste de vendeurs sélectionnés par la communauté, proposant les derniers produits et le meilleur support. Certains liens vers des vendeurs et des agents d’achat peuvent rapporter une commission à AirReps.'
+    link: /fr/links/info
     linkText: Voir les vendeurs
 ---
 <Contributor></Contributor>

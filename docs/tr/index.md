@@ -19,7 +19,7 @@ hero:
       link: quiz
     - theme: alt
       text: Güvenilir Satıcıları Görüntüle
-      link: /links/info
+      link: /tr/links/info
 features:
   - icon: "🤝"
     title: Yardım ekibi
@@ -33,8 +33,8 @@ features:
     linkText: Rehberi Oku
   - icon: "💸"
     title: Güvenilir satıcı listesi
-    details: 'En yeni ürünleri ve en iyi desteği sunan, topluluk tarafından seçilmiş, kâr amacı gütmeyen satıcı listesi.'
-    link: /links/info
+    details: 'En yeni ürünleri ve en iyi desteği sunan, topluluk tarafından seçilmiş satıcı listesi. Bazı satıcı ve alışveriş aracısı bağlantıları AirReps''e komisyon kazandırabilir.'
+    link: /tr/links/info
     linkText: Satıcıları Görüntüle
 ---
 <Contributor></Contributor>
