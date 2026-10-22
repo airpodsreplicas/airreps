@@ -61,7 +61,11 @@ export function isCompensatedPurchaseLink(href: string | null | undefined): bool
         return ['', '/', '/store', '/store/'].includes(path) || path.startsWith('/product/');
     }
     if (KAKOBUY_HOSTS.has(host)) {
-        return ['', '/'].includes(path) || /^\/(?:item\/|index\/user\/register)/.test(path);
+        return (
+            ['', '/'].includes(path) ||
+            path.startsWith('/item/') ||
+            /^\/index\/user\/register\/?$/.test(path)
+        );
     }
     return false;
 }
@@ -86,11 +90,11 @@ export const ANCHOR_TAG = /<a(?=[\s>])(?:[^>"']|"[^"]*"|'[^']*')*>/gi;
 const ATTRIBUTE = /([^\s"'>/=]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s"'=<>`]+)))?/g;
 
 interface Attribute {
+    end: number;
     name: string;
-    value: string;
     quote: string;
     start: number;
-    end: number;
+    value: string;
 }
 
 function attributesOf(tag: string): Attribute[] {
