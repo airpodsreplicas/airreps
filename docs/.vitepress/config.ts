@@ -1,9 +1,9 @@
-import { execSync } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { imageSize } from 'image-size';
 import { type DefaultTheme, defineConfig } from 'vitepress';
+import { createPageDates } from './page-dates';
 import { productFamiliesPlugin } from './plugins/product-families';
 import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
 import { productDestination, productRedirectScript } from './product-routes';
@@ -43,34 +43,10 @@ function getImageDimensions(src: string): { w: number; h: number } | null {
 }
 
 // First-commit dates per markdown file, used for Article.datePublished so it
-// stops being equal to dateModified on every redeploy. Computed once at module
-// load — single git call, then a lookup table keyed by repo-relative path.
-function buildFirstCommitDates(): Map<string, string> {
-    const map = new Map<string, string>();
-    try {
-        const output = execSync('git log --reverse --name-only --format="DATE %aI" -- docs/', {
-            cwd: repoRoot,
-            encoding: 'utf-8',
-            maxBuffer: 64 * 1024 * 1024,
-        });
-        let currentDate = '';
-        for (const rawLine of output.split('\n')) {
-            const line = rawLine.trim();
-            if (!line) {
-                continue;
-            }
-            if (line.startsWith('DATE ')) {
-                currentDate = line.slice(5);
-            } else if (line.endsWith('.md') && !map.has(line)) {
-                map.set(line, currentDate);
-            }
-        }
-    } catch {
-        // git unavailable (e.g. shallow clone with no history) — fall back silently
-    }
-    return map;
-}
-const firstCommitDates = buildFirstCommitDates();
+// stops being equal to dateModified on every redeploy, plus newest-commit dates
+// for include-aware lastUpdated (see transformPageData). Computed once at
+// module load — single git call, then lookup tables keyed by repo-relative path.
+const pageDates = createPageDates({ repoRoot, srcDir: docsDir });
 
 // Family pages use VitePress includes to share the generation content. Read
 // those same sources when extracting seller and FAQ metadata for the page.
@@ -1308,7 +1284,7 @@ export default defineConfig({
         const dateModified = pageData.lastUpdated
             ? new Date(pageData.lastUpdated).toISOString()
             : new Date().toISOString();
-        const datePublished = firstCommitDates.get(`docs/${relativePath}`) ?? dateModified;
+        const datePublished = pageDates.published(path.join(docsDir, relativePath)) ?? dateModified;
 
         // JSON-LD graph nodes
         const websiteNode = {
@@ -1570,6 +1546,17 @@ export default defineConfig({
                 /<div class="VPContent is-home"/g,
                 '<div role="main" class="VPContent is-home"'
             ),
+
+    // VitePress dates a page by its own file, but family pages are assembled
+    // from includes. Use the newest commit across the page and its includes so
+    // the sitemap lastmod and Article.dateModified (both read lastUpdated) move
+    // when included content does. An explicit frontmatter date still wins.
+    transformPageData: ({ filePath, frontmatter, lastUpdated }) => {
+        if (lastUpdated === undefined || frontmatter.lastUpdated instanceof Date) {
+            return;
+        }
+        return { lastUpdated: pageDates.lastUpdated(path.join(docsDir, filePath), lastUpdated) };
+    },
 
     vite: {
         plugins: [redirectPlugin()],
