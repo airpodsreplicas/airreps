@@ -4,7 +4,7 @@
 
 AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs a Discord server and subreddit.
 
-Last updated: 2026-09-16
+Last updated: 2026-10-22
 
 ## Guide
 
@@ -22,12 +22,12 @@ Last updated: 2026-09-16
 ## Version Comparisons
 
 - [General Version Info](https://airpodsreplicas.com/version-info/general): Overview of all versions, chipsets, and how to identify what you have.
-- [AirPods Pro 3](https://airpodsreplicas.com/version-info/airpods-pro-3): Latest model with Live Translation and iCloud Connect.
-- [AirPods Pro 2](https://airpodsreplicas.com/version-info/airpods-pro-2): Most popular model. V5.4 Huilian is the current best.
-- [AirPods Pro](https://airpodsreplicas.com/version-info/airpods-pro): First-gen Pro replicas.
-- [AirPods 4](https://airpodsreplicas.com/version-info/airpods-4): Open-ear design with ANC.
-- [AirPods 3](https://airpodsreplicas.com/version-info/airpods-3): Third-gen standard model.
-- [AirPods 2](https://airpodsreplicas.com/version-info/airpods-2): Budget entry-level replicas.
+- [AirPods Pro 3](https://airpodsreplicas.com/version-info/pro#airpods-pro-3): Latest model with Live Translation and iCloud Connect.
+- [AirPods Pro 2](https://airpodsreplicas.com/version-info/pro#airpods-pro-2): Versions and chipsets compared. For a recommendation, take the [quiz](https://airpodsreplicas.com/quiz) or read [AirPods Pro 2 vs AirPods Pro 3](https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3).
+- [AirPods Pro](https://airpodsreplicas.com/version-info/pro#airpods-pro): First-gen Pro replicas.
+- [AirPods 4](https://airpodsreplicas.com/version-info/airpods#airpods-4): Open-ear design with ANC.
+- [AirPods 3](https://airpodsreplicas.com/version-info/airpods#airpods-3): Third-gen standard model.
+- [AirPods 2](https://airpodsreplicas.com/version-info/airpods#airpods-2): Budget entry-level replicas.
 - [AirPods Max](https://airpodsreplicas.com/version-info/airpods-max): Over-ear headphone replicas.
 
 ## Buying
@@ -35,12 +35,12 @@ Last updated: 2026-09-16
 - [How to Buy](https://airpodsreplicas.com/ordering/how-to-buy): Step-by-step ordering guide, payment methods, and tips.
 - [KakoBuy Guide](https://airpodsreplicas.com/ordering/kakobuy): How to order through the KakoBuy agent — accepted payment methods, QC photos, and consolidated shipping.
 - [Purchase Links](https://airpodsreplicas.com/links/info): Directory of trusted sellers, typical prices, and the full payment-method comparison.
-- [AirPods Pro 2 Links](https://airpodsreplicas.com/links/airpods-pro-2): Per-version purchase links for AirPods Pro 2 replicas from all trusted sellers.
-- [AirPods Pro 3 Links](https://airpodsreplicas.com/links/airpods-pro-3): Per-version purchase links for AirPods Pro 3 replicas.
-- [AirPods Pro Links](https://airpodsreplicas.com/links/airpods-pro): First-gen AirPods Pro replicas are no longer stocked by trusted sellers — buy AirPods Pro 2 or Pro 3 instead.
-- [AirPods 4 Links](https://airpodsreplicas.com/links/airpods-4): Per-version purchase links for AirPods 4 replicas.
-- [AirPods 3 Links](https://airpodsreplicas.com/links/airpods-3): Per-version purchase links for AirPods 3 replicas.
-- [AirPods 2 Links](https://airpodsreplicas.com/links/airpods-2): Per-version purchase links for AirPods 2 replicas.
+- [AirPods Pro 2 Links](https://airpodsreplicas.com/links/pro#airpods-pro-2): Per-version purchase links for AirPods Pro 2 replicas from all trusted sellers.
+- [AirPods Pro 3 Links](https://airpodsreplicas.com/links/pro#airpods-pro-3): Per-version purchase links for AirPods Pro 3 replicas.
+- [AirPods Pro Links](https://airpodsreplicas.com/links/pro#airpods-pro): First-gen AirPods Pro replicas are no longer stocked by trusted sellers — buy AirPods Pro 2 or Pro 3 instead.
+- [AirPods 4 Links](https://airpodsreplicas.com/links/airpods#airpods-4): Per-version purchase links for AirPods 4 replicas.
+- [AirPods 3 Links](https://airpodsreplicas.com/links/airpods#airpods-3): Per-version purchase links for AirPods 3 replicas.
+- [AirPods 2 Links](https://airpodsreplicas.com/links/airpods#airpods-2): Per-version purchase links for AirPods 2 replicas.
 - [AirPods Max Links](https://airpodsreplicas.com/links/airpods-max): Per-version purchase links for AirPods Max replicas.
 - [Quality Control & Legit Check](https://airpodsreplicas.com/ordering/qc-lc): How to verify your product after purchase.
 

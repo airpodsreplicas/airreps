@@ -19,7 +19,7 @@ hero:
       link: quiz
     - theme: alt
       text: Zobacz zaufanych sprzedawców
-      link: /links/info
+      link: /pl/links/info
 features:
   - icon: "🤝"
     title: Zespół pomocników
@@ -33,8 +33,8 @@ features:
     linkText: Przeczytaj przewodnik
   - icon: "💸"
     title: Lista zaufanych sprzedawców
-    details: 'Wybrana przez społeczność, niekomercyjna lista sprzedawców z najnowszymi produktami i najlepszym wsparciem.'
-    link: /links/info
+    details: 'Wybrana przez społeczność lista sprzedawców z najnowszymi produktami i najlepszym wsparciem. Niektóre linki do sprzedawców i agentów zakupowych mogą przynosić AirReps prowizję.'
+    link: /pl/links/info
     linkText: Zobacz sprzedawców
 ---
 <Contributor></Contributor>

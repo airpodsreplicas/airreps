@@ -15,7 +15,7 @@ Es gibt viele Verkäufer von AirPods-Replikaten, aber die beste Erfahrung erhäl
 Auch wenn du Verkäufer auf chinesischen E‑Commerce-Websites wie AliExpress oder DHgate findest, sind Bewertungen auf diesen Plattformen nicht immer unvoreingenommen oder legitim. Der Kauf bei nicht verifizierten Verkäufern ist risikoreicher, da Produktqualität und Kundenservice stark variieren können. Wenn du bei einem nicht verifizierten Verkäufer kaufst und Probleme auftreten, teile bitte deine Erfahrung mit unserem Team.
 
 ::: tip Liste verifizierter Verkäufer
-Finde eine [Liste der von der Community verifizierten und seriösen Verkäufer hier](/de/links/info).
+Finde eine [Liste der von der Community verifizierten und seriösen Verkäufer hier](/de/links/info). Einige Links zu Verkäufern und Einkaufsagenten können AirReps eine Provision einbringen.
 :::
 
 ::: tip Kaufe bei vertrauenswürdigen Verkäufern

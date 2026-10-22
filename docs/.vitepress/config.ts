@@ -6,6 +6,7 @@ import { imageSize } from 'image-size';
 import { type DefaultTheme, defineConfig } from 'vitepress';
 import { productFamiliesPlugin } from './plugins/product-families';
 import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
+import { privacyLink } from './privacy-link';
 import { productDestination, productRedirectScript } from './product-routes';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
@@ -694,6 +695,13 @@ const translations: Record<
     },
 };
 
+// Footer licence line plus the privacy page link (shown on sidebar-free pages;
+// sidebar pages get the same link from the theme).
+function footerMessage(lang: string): string {
+    const { link, text } = privacyLink(lang);
+    return `${translations[lang].footer.message} · <a href="${link}">${text}</a>`;
+}
+
 // Locales that have a translated copy of the docs (root '/' is English).
 // Used for sitemap hreflang and for stripping the locale prefix off paths
 // in transformHead. Order is preserved where it shows up in user-facing
@@ -794,7 +802,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.da.footer.copyright,
-                    message: translations.da.footer.message,
+                    message: footerMessage('da'),
                 },
                 nav: getNav('da'),
                 outline: { label: 'På denne side' },
@@ -814,7 +822,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.de.footer.copyright,
-                    message: translations.de.footer.message,
+                    message: footerMessage('de'),
                 },
                 nav: getNav('de'),
                 outline: { label: 'Auf dieser Seite' },
@@ -834,7 +842,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.es.footer.copyright,
-                    message: translations.es.footer.message,
+                    message: footerMessage('es'),
                 },
                 nav: getNav('es'),
                 outline: { label: 'En esta página' },
@@ -854,7 +862,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.fr.footer.copyright,
-                    message: translations.fr.footer.message,
+                    message: footerMessage('fr'),
                 },
                 nav: getNav('fr'),
                 outline: { label: 'Sur cette page' },
@@ -874,7 +882,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.pl.footer.copyright,
-                    message: translations.pl.footer.message,
+                    message: footerMessage('pl'),
                 },
                 nav: getNav('pl'),
                 outline: { label: 'Na tej stronie' },
@@ -894,7 +902,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.pt.footer.copyright,
-                    message: translations.pt.footer.message,
+                    message: footerMessage('pt'),
                 },
                 nav: getNav('pt'),
                 outline: { label: 'Nesta página' },
@@ -913,7 +921,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.en.footer.copyright,
-                    message: translations.en.footer.message,
+                    message: footerMessage('en'),
                 },
                 nav: getNav('en'),
                 outline: { label: 'On this page' },
@@ -932,7 +940,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.ru.footer.copyright,
-                    message: translations.ru.footer.message,
+                    message: footerMessage('ru'),
                 },
                 nav: getNav('ru'),
                 outline: { label: 'На этой странице' },
@@ -952,7 +960,7 @@ export default defineConfig({
                 },
                 footer: {
                     copyright: translations.tr.footer.copyright,
-                    message: translations.tr.footer.message,
+                    message: footerMessage('tr'),
                 },
                 nav: getNav('tr'),
                 outline: { label: 'Bu sayfada' },

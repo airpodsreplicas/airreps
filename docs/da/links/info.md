@@ -5,7 +5,7 @@ faq:
   - q: Får jeg en enhed af god kvalitet?
     a: 'Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere, selv blandt enheder fra den samme sælger. Pålidelige sælgere er dog generelt kendt for at tilbyde produkter af god kvalitet.'
   - q: Hvordan kontakter jeg sælgere?
-    a: 'Deltag i AirReps Discord på https://airreps.link/discord for at få sælgernes WhatsApp-numre. Alternativt kan du bruge AliExpress til at sende dem en besked ved at klikke på Kontakt leverandør.'
+    a: 'Brug WhatsApp-kontaktlinket på sælgerens officielle hjemmeside: Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/) eller Jenny (https://jenny.airreps.info/go/whatsapp/). Alternativt kan du få hjælp på AirReps Discord på https://airreps.link/discord.'
   - q: Hvilken leverandør er bedst?
     a: 'Den bedste leverandør afhænger af dine behov. Leverandørerne tilbyder typisk lignende produkter — for eksempel er en Pro 2 V5.2 TB fra Jenny identisk med en fra HiCity. Forskellene findes i support, leveringstider og købsplatforme.'
   - q: Min sporingsinformation er på kinesisk. Hvad skal jeg gøre?
@@ -22,6 +22,8 @@ Denne liste holdes opdateret. En højere version betyder normalt et bedre produk
 :::
 
 Den følgende liste indeholder kun links til verificerede sælgere. Hvis du kender sælgere, der er troværdige og fortjener at blive verificeret, bedes du informere en forfatter af Ultimate Guide eller skrive en anmeldelse af deres produkt og offentliggøre den på AirReps-forummet. For at sikre kvaliteten og ægtheden af dine kopier af Apple AirPods anbefaler vi kun at købe fra disse verificerede sælgere.
+
+AirReps kan tjene provision på nogle links til sælgere og shoppingagenter.
 
 ## Vælg det produkt, du vil se links til
 
@@ -58,13 +60,13 @@ Alle troværdige sælgere accepterer flere betalingsmetoder for din bekvemmeligh
 |----------------|---------|--------|-------|
 | [**Kredit-/debetkort**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ✅ | ✅ | ❌ |
+| **PayPal** | ❌ | ❌ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ✅ | ❌ | ✅ |
+| **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin/krypto** | ✅ | ✅ | ✅ |
-| **Bankoverførsel** | ✅ | ✅ | ✅ |
+| **Bankoverførsel** | ❌ | ❌ | ✅ |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -73,6 +75,8 @@ Alle troværdige sælgere accepterer flere betalingsmetoder for din bekvemmeligh
 | **PayU** | ❌ | ✅ | ❌ |
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
+
+Hvilke betalingsløsninger hver sælger har aktiveret, blev senest kontrolleret den 22. oktober 2026. Sælgerens betalingsside er afgørende, og den aktuelle tilgængelighed kan ændre sig afhængigt af land eller ordre.
 
 HiCitys OnlyPay-metoder afhænger af faktureringslandet: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX og Boleto (BR). Disse landeindstillinger blev kontrolleret i HiCitys betalingsvindue den 4. september 2026. OnlyPay bekræfter den endelige tilgængelighed for hver ordre. Der var ingen OnlyPay-mulighed for USA, Canada, Australien eller Frankrig.
 
@@ -93,7 +97,7 @@ Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere, selv
 :::
 
 ::: details Hvordan kontakter jeg sælgere?
-For at kontakte sælgere kan du tilslutte dig AirReps Discord på https://airreps.link/discord og få deres WhatsApp-numre, da de ikke er offentligt tilgængelige. Alternativt kan du bruge AliExpress til at sende dem en besked ved at klikke på "Contact Supplier".
+Hver troværdig sælger har et officielt WhatsApp-kontaktlink på sin hjemmeside: [Earhive](https://earhive.com/go/whatsapp/), [HiCity](https://hicitypods.com/go/whatsapp/) og [Jenny](https://jenny.airreps.info/go/whatsapp/). Alternativt kan du få hjælp på [AirReps Discord](https://airreps.link/discord).
 :::
 
 ::: details Hvilken sælger er bedst?
