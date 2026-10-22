@@ -3,9 +3,9 @@ title: Sådan Køber Du AirPods-Kopier Sikkert
 description: 'Bestil AirPods-kopier sikkert. Betalingsmetoder, betroede sælgere, forsendelsestips og undgå svindel.'
 faq:
   - q: Hvilke betalingsmetoder accepterer betroede sælgere?
-    a: 'Betroede sælgere accepterer Kreditkort, Alipay, Revolut, Wise, Bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, der kan tilgås gennem agenter som KakoBuy. PayPal understøttes af Earhive og HiCity, og KakoBuy-agenten accepterer det også.'
+    a: "Betalingsmuligheder afhænger af sælgeren, dit land og den aktuelle checkout. PayPal og Xoom var deaktiveret hos Earhive, HiCity og Jenny ved kontrollen den 22. oktober 2026; bankoverførsel var kun aktiveret hos Jenny. KakoBuy kan tilbyde kort eller PayPal afhængigt af checkout, land og udbyder; identitets- eller sikkerhedskontrol kan forekomme."
   - q: 'Hvorfor bliver jeg omdirigeret til et krypto-websted, når jeg betaler med Kreditkort?'
-    a: 'Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle Kreditkortbetalinger. Dit kort køber krypto, hvilket fuldfører ordren. For at undgå KYC, brug KakoBuy — en agent, der accepterer almindelige kreditkort uden identitetskontrol.'
+    a: 'Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle Kreditkortbetalinger. Dit kort køber krypto, hvilket fuldfører ordren. Som alternativ er KakoBuy en agent, der accepterer almindelige kreditkort; om en betaling kræver identitetskontrol, afhænger af kassen, dit land og betalingsudbyderen.'
 ---
 # Bestilling
 
@@ -29,7 +29,7 @@ Betalinger via Wise eller bankoverførsel kræver manuel gennemgang af sælgeren
 
 ## Betaling med Alipay
 
-Mange betroede sælgere accepterer nu Alipay, hvilket gør det nemt at betale med kort uden KYC-verifikation.
+Nogle sælgere tilbyder Alipay. Tilgængelighed og eventuel identitets- eller sikkerhedskontrol afhænger af land, konto, checkout og betalingsudbyder; det er ikke en garanteret betaling uden ID-kontrol.
 
 **Hurtig opsætning:** Download Alipay-appen, opret en konto med dit telefonnummer/e-mail, og tilføj derefter en betalingsmetode.
 
@@ -40,7 +40,7 @@ Mange betroede sælgere accepterer nu Alipay, hvilket gør det nemt at betale me
 ## Ofte stillede spørgsmål
 
 ::: details Hvilke betalingsmetoder accepterer betroede sælgere?
-Betroede sælgere accepterer flere betalingsmetoder, herunder kreditkort, Alipay, Revolut, Wise, bankoverførsel og Bitcoin. Alle sælgere har Weidian-butikker, der kan nås gennem agenter som [KakoBuy](https://airreps.link/kakobuy) — se vores [trin-for-trin KakoBuy-guide](/da/ordering/kakobuy). PayPal understøttes af Earhive og HiCity, og agenten [KakoBuy](https://airreps.link/kakobuy) accepterer det også. Betalingsmuligheder kan variere efter sælger — se [betalingsmetodetabellen](/da/links/info#payment-methods) for en detaljeret oversigt.
+Betalingsmuligheder afhænger af sælgeren, dit land og den aktuelle checkout. PayPal og Xoom var deaktiveret hos Earhive, HiCity og Jenny ved kontrollen den 22. oktober 2026; bankoverførsel var kun aktiveret hos Jenny. KakoBuy kan tilbyde kort eller PayPal afhængigt af checkout, land og udbyder; identitets- eller sikkerhedskontrol kan forekomme. [betalingsoversigt](/da/links/info#payment-methods). [KakoBuy](https://airreps.link/kakobuy) · [KakoBuy-guide](/da/ordering/kakobuy).
 :::
 <span id="credit-card-note"></span>
 ::: details Hvorfor bliver jeg omdirigeret til en crypto-hjemmeside, når jeg betaler med kreditkort?
@@ -48,11 +48,11 @@ Betroede sælgere bruger en sikker crypto-betalingsgateway til at behandle kredi
 
 **Bemærk:** Nogle betalingsudbydere kan lejlighedsvis bede om en ID-kontrol (KYC) for at overholde lokale regler, selvom dette ikke altid er påkrævet.
 
-**Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, kan du overveje at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform, der køber produkter fra sælgere på dine vegne og leverer kvalitetskontrol (QC)-billeder før forsendelse. KakoBuy bruger almindelige betalingsprocessorer, der accepterer kredit- og betalingskort og **kræver aldrig KYC-verifikation** eller ID-kontroller. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden KYC-krav, samtidig med at du får ekstra sikkerhed gennem QC-billeder. Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy) for detaljer.
+**Alternativ:** Hvis du hellere vil undgå at betale via en krypto-gateway, kan du overveje at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform, der køber produkter fra sælgere på dine vegne og leverer kvalitetskontrol (QC)-billeder før forsendelse. KakoBuys kasse accepterer almindelige kredit- og betalingskort. Som ved enhver betaling afhænger det af betalingsmetoden, udbyderen og dit land, om der kommer et identitets- (KYC) eller sikkerhedstjek, så ingen mulighed kan love, at det aldrig sker. Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy) for detaljer.
 :::
 
 ::: details Er AirPods-kopier lovlige?
-At købe replika-AirPods til personlig brug er generelt ikke noget, private personer retsforfølges for — håndhævelse retter sig mod producenter og stor-sælgere, ikke købere. Det sagt befinder kopier sig i et juridisk gråzone: de efterligner Apples varemærkebeskyttede design, så import af dem kan lejlighedsvis betyde toldforsinkelser eller beslaglæggelse, og videresalg som ægte er ulovligt. Lovgivningen varierer fra land til land, så tjek dine lokale regler. Denne vejledning er kun til information og er ikke juridisk rådgivning.
+Det afhænger af dit land. Kopier efterligner Apples varemærkebeskyttede design, og toldmyndigheder i mange lande griber ind over for varer, der krænker varemærker og andre immaterielle rettigheder — Europa-Kommissionen forklarer for eksempel, hvordan [EU's toldmyndigheder](https://taxation-customs.ec.europa.eu/customs/prohibitions-restrictions/counterfeit-piracy-other-ipr-violations_en) arbejder for at forhindre, at sådanne varer kommer ind i EU. Personlig brug er ikke en generel undtagelse ved import: de præcise regler varierer fra land til land og efter, hvordan varerne ankommer, og pakker kan blive tilbageholdt eller beslaglagt. Hverken denne vejledning, en forsendelseslinje eller en betalingsmetode kan garantere, at en import er lovlig eller bliver leveret, så tjek dit destinationslands officielle toldregler. Videresalg af kopier som ægte er ulovligt. Denne vejledning er kun til information og er ikke juridisk rådgivning.
 :::
 
 ::: details Er det sikkert at købe AirPods-kopier?

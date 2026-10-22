@@ -3,9 +3,9 @@ title: Comment acheter des répliques d'AirPods en toute sécurité
 description: 'Commander des répliques d''AirPods en toute sécurité. Méthodes de paiement, vendeurs fiables, conseils d''expédition et éviter les arnaques.'
 faq:
   - q: Quelles méthodes de paiement les vendeurs fiables acceptent-ils ?
-    a: 'Les vendeurs fiables acceptent les cartes de crédit, Alipay, Revolut, Wise, virement bancaire et Bitcoin. Tous les vendeurs ont des boutiques Weidian accessibles via des agents comme KakoBuy. PayPal est pris en charge par Earhive et HiCity, et l''agent KakoBuy l''accepte également.'
+    a: "Les moyens de paiement dépendent du vendeur, du pays et du paiement actuel. PayPal et Xoom étaient désactivés chez Earhive, HiCity et Jenny lors du contrôle du 22 octobre 2026 ; le virement bancaire était activé uniquement chez Jenny. KakoBuy peut proposer la carte ou PayPal selon le paiement, le pays et le prestataire ; des contrôles d’identité ou de sécurité restent possibles."
   - q: Pourquoi suis-je redirigé vers un site crypto lorsque je paie par carte de crédit ?
-    a: 'Les vendeurs fiables utilisent une passerelle de paiement crypto sécurisée pour traiter les paiements par carte de crédit. Votre carte achète des crypto-monnaies, ce qui complète la commande. Pour éviter le KYC, utilisez KakoBuy — un agent qui accepte des cartes de crédit ordinaires sans vérification d''identité.'
+    a: 'Les vendeurs fiables utilisent une passerelle de paiement crypto sécurisée pour traiter les paiements par carte de crédit. Votre carte achète des crypto-monnaies, ce qui complète la commande. En alternative, KakoBuy est un agent qui accepte les cartes de crédit ordinaires ; le fait qu''un paiement demande une vérification d''identité dépend du processus de paiement, de votre pays et du prestataire de paiement.'
 ---
 # Commande
 
@@ -29,7 +29,7 @@ Les paiements via Wise ou virement bancaire nécessitent une vérification manue
 
 ## Payer avec Alipay
 
-De nombreux vendeurs de confiance acceptent désormais Alipay, permettant des paiements par carte faciles sans vérification d'identité (KYC).
+Certains vendeurs proposent Alipay. La disponibilité et les contrôles d’identité ou de sécurité dépendent du pays, du compte, du paiement et du prestataire ; ce moyen ne garantit pas l’absence de vérification d’identité.
 
 **Configuration rapide :** téléchargez l'application Alipay, créez un compte avec votre téléphone/email, puis ajoutez un moyen de paiement.
 
@@ -40,7 +40,7 @@ De nombreux vendeurs de confiance acceptent désormais Alipay, permettant des pa
 ## FAQ
 
 ::: details Quels modes de paiement les vendeurs de confiance acceptent-ils ?
-Les vendeurs de confiance acceptent plusieurs moyens de paiement, notamment les cartes bancaires, Alipay, Revolut, Wise, virement bancaire et Bitcoin. Tous les vendeurs ont des boutiques Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy) — consultez notre [guide pas à pas KakoBuy](/fr/ordering/kakobuy). PayPal est pris en charge par Earhive et HiCity, et l'agent [KakoBuy](https://airreps.link/kakobuy) l'accepte également. Les options de paiement peuvent varier selon le vendeur — consultez le [tableau des méthodes de paiement](/fr/links/info#payment-methods) pour un aperçu détaillé.
+Les moyens de paiement dépendent du vendeur, du pays et du paiement actuel. PayPal et Xoom étaient désactivés chez Earhive, HiCity et Jenny lors du contrôle du 22 octobre 2026 ; le virement bancaire était activé uniquement chez Jenny. KakoBuy peut proposer la carte ou PayPal selon le paiement, le pays et le prestataire ; des contrôles d’identité ou de sécurité restent possibles. [tableau des paiements](/fr/links/info#payment-methods). [KakoBuy](https://airreps.link/kakobuy) · [guide KakoBuy](/fr/ordering/kakobuy).
 :::
 <span id="credit-card-note"></span>
 ::: details Pourquoi suis-je redirigé vers un site crypto lorsque je paie par carte de crédit ?
@@ -48,11 +48,11 @@ Les vendeurs de confiance utilisent une passerelle de paiement crypto sécurisé
 
 **Remarque : certains processeurs de paiement peuvent occasionnellement demander une vérification d'identité (KYC) pour se conformer aux régulations locales, bien que cela ne soit pas toujours requis.**
 
-**Alternative :** si vous voulez éviter toute possibilité de vérification KYC, envisagez d'utiliser [KakoBuy](https://airreps.link/kakobuy), une plateforme d'agent qui achète les produits pour vous auprès des vendeurs et fournit des photos de contrôle qualité (QC) avant l'expédition. KakoBuy utilise des processeurs de paiement classiques qui acceptent les cartes de crédit et de débit et **n'exigent jamais de vérification KYC** ou de vérification d'identité. C'est une excellente option si vous préférez utiliser votre carte sans aucune exigence KYC tout en obtenant l'assurance supplémentaire des photos QC. Voir notre [guide de commande KakoBuy](/fr/ordering/kakobuy) pour plus de détails.
+**Alternative :** si vous préférez ne pas payer via une passerelle crypto, envisagez d'utiliser [KakoBuy](https://airreps.link/kakobuy), une plateforme d'agent qui achète les produits pour vous auprès des vendeurs et fournit des photos de contrôle qualité (QC) avant l'expédition. Le paiement KakoBuy accepte les cartes de crédit et de débit classiques. Comme pour tout paiement, une vérification d'identité (KYC) ou de sécurité dépend du moyen de paiement, du prestataire et de votre pays : aucune option ne peut promettre qu'elle n'arrivera jamais. Voir notre [guide de commande KakoBuy](/fr/ordering/kakobuy) pour plus de détails.
 :::
 
 ::: details Les répliques d'AirPods sont-elles légales ?
-Acheter des répliques d'AirPods pour un usage personnel n'entraîne généralement pas de poursuites contre les particuliers — l'application de la loi cible les fabricants et les vendeurs à grande échelle, pas les acheteurs. Cela dit, les répliques se situent dans une zone grise légale : elles imitent le design protégé par la marque d'Apple, donc leur importation peut parfois entraîner des retards ou une saisie par les douanes, et les revendre comme authentiques est illégal. Les lois varient selon les pays, vérifiez donc la réglementation locale. Ce guide a un but informatif et ne constitue pas un conseil juridique.
+Cela dépend de votre pays. Les répliques imitent le design protégé par la marque d'Apple, et les autorités douanières de nombreux pays agissent contre les marchandises qui portent atteinte aux marques et autres droits de propriété intellectuelle — la Commission européenne explique par exemple comment les [douanes de l'UE](https://taxation-customs.ec.europa.eu/customs/prohibitions-restrictions/counterfeit-piracy-other-ipr-violations_en) s'efforcent d'empêcher l'entrée de ces marchandises. L'usage personnel n'est pas une exemption universelle à l'importation : les règles exactes varient selon le pays et la façon dont les marchandises arrivent, et les colis peuvent être retenus ou saisis. Ni ce guide, ni une ligne d'expédition, ni un moyen de paiement ne peut garantir qu'une importation est légale ou qu'elle sera livrée ; consultez donc les règles douanières officielles de votre pays de destination. Revendre des répliques comme authentiques est illégal. Ce guide a un but informatif et ne constitue pas un conseil juridique.
 :::
 
 ::: details Est-il sûr d'acheter des répliques d'AirPods ?

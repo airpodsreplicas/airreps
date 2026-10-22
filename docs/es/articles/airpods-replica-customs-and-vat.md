@@ -1,18 +1,19 @@
 ---
 title: 'Aduanas e IVA de las réplicas de AirPods: ¿Pasará tu paquete?'
-description: 'Qué ocurre realmente con las réplicas de AirPods en la aduana: el riesgo real de incautación, el IVA de la UE gestionado por adelantado por vendedores de confianza y por qué el seguimiento se queda de repente sin actualizaciones.'
+description: "Aduanas e IVA en réplicas de AirPods: normas del destino, límites del embalaje, cargos separados y pausas del seguimiento."
 category: Comprar
 order: 7
 ---
+
 # Aduanas e IVA de las réplicas de AirPods: ¿tu paquete pasará?
 
-Aduanas es la parte de comprar réplicas que nadie explica bien. Los vendedores la pasan por alto, los marketplaces la esconden y los compradores se quedan actualizando una página de seguimiento que no se ha movido en nueve días, convencidos de que su paquete se ha perdido. Esta es la versión sincera: qué hace que detengan los paquetes, quién se encarga de los impuestos y dónde estás asumiendo un riesgo que puedes evitar.
+Antes de importar réplicas de China, revisa las normas aduaneras y de propiedad intelectual del destino y las condiciones actuales de envío. Esta guía explica embalajes, posibles cargos y pausas del seguimiento.
 
-> **Respuesta rápida:** La gran mayoría (>95 %) de los pedidos de réplicas de AirPods pasan por aduanas sin problemas. Las dos claves para evitar complicaciones son: (1) elegir una **caja neutra o doble/de señuelo** para que los inspectores no señalen los logotipos de marcas registradas, y (2) comprar a través de **vendedores verificados por la comunidad** (Earhive, HiCity, Jenny) que pagan por adelantado el IOSS/IVA europeo, evitando sorpresas en la factura de aranceles de importación.
+> **Respuesta rápida:** No tenemos una tasa medida de despacho aduanero. Las normas del destino, los productos y la ruta elegida determinan los requisitos; ni un vendedor recomendado ni un tipo de caja garantizan el despacho o la ausencia de cargos al llegar.
 
-## La caja concentra la mayor parte del riesgo
+## Embalaje y normas aduaneras
 
-Las réplicas se envían desde China, y el correo internacional se escanea y se revisa de forma aleatoria. Lo que suele provocar una segunda inspección es el embalaje, concretamente una caja con logotipos y marcas registradas de Apple.
+Las réplicas se envían desde China. Aduanas puede inspeccionar tanto los productos como el embalaje. La [Comisión Europea](https://taxation-customs.ec.europa.eu/customs/prohibitions-restrictions/counterfeit-piracy-other-ipr-violations_en) explica las medidas contra productos que infringen derechos de propiedad intelectual; consulta las normas oficiales del destino.
 
 La [guía de embalaje de AirReps](/es/introduction/packaging) lo divide en tres opciones:
 
@@ -20,23 +21,23 @@ La [guía de embalaje de AirReps](/es/introduction/packaging) lo divide en tres 
 - **Caja con logotipo de Apple** — una copia casi exacta del embalaje real de los AirPods, con logotipos incluidos.
 - **Caja doble/de señuelo** — una caja exterior genérica con la caja con el logotipo de Apple oculta dentro.
 
-Las cajas sin logotipo y dobles están diseñadas para pasar desapercibidas durante el transporte. Una caja con el logotipo de Apple que siga la misma ruta es otra historia: la [guía sobre cómo comprar](/es/ordering/how-to-buy) afirma claramente que la opción «con caja de Apple» «conlleva un mayor riesgo de que el paquete sea incautado en aduanas» y que es posible que no recibas un reembolso si ocurre. La propia guía de embalaje es igual de directa: solicitar una caja de Apple «puede provocar la incautación del producto en aduanas, además de multas o la destrucción del producto».
+Las cajas sin logo, con marca y dobles son opciones de embalaje, no exenciones aduaneras. No tenemos mediciones que permitan afirmar que reducen el riesgo de incautación. Consulta [cómo comprar](/es/ordering/how-to-buy).
 
-Ese es el mayor riesgo evitable de este hobby y es completamente opcional. **Los AirPods del interior son idénticos independientemente de la caja que elijas.** Estás arriesgando todo el pedido por una caja de cartón.
+Los auriculares son los mismos con cualquier caja. El embalaje no convierte una importación restringida en legal ni garantiza la entrega.
 
-## La caja doble es la medida de mitigación, no un vacío legal
+## Qué contiene la caja doble
 
-La caja doble existe porque los vendedores conocen el problema. Cuando seleccionas la caja con el logotipo de Apple al finalizar la compra, la caja exterior de señuelo se incluye automáticamente: los vendedores siempre esconden la caja con la marca dentro de una genérica. En la mayoría de los métodos de pago, esa opción viene preseleccionada, aunque algunos vendedores cobran una pequeña tarifa adicional. Compruébalo antes de completar el pedido.
+Cuando seleccionas la caja con el logotipo de Apple al finalizar la compra, la caja exterior de señuelo se incluye automáticamente: los vendedores siempre esconden la caja con la marca dentro de una genérica. En la mayoría de los métodos de pago, esa opción viene preseleccionada, aunque algunos vendedores cobran una pequeña tarifa adicional. Compruébalo antes de completar el pedido.
 
-Si quieres disfrutar de un desembalaje al estilo Apple, la caja doble es la forma de conseguirlo con el menor riesgo adicional. De lo contrario, la caja sin logotipo es la opción más discreta.
+Elige por el contenido y la presentación, comprobando las opciones actuales del vendedor. Una caja exterior genérica no elimina requisitos aduaneros ni de propiedad intelectual.
 
-## Compradores de la UE: los vendedores de confianza gestionan el IVA por adelantado
+## IVA, aranceles y gestión son cargos distintos
 
-La otra gran preocupación relacionada con aduanas es la factura inesperada: una solicitud de pago antes de que liberen tu paquete. Si haces el pedido a un [vendedor de confianza](/es/links/info), normalmente eso no ocurre.
+Comprueba la cotización actual para tu país y ruta. IVA, aranceles, gestión del transportista y seguro son conceptos distintos; algunos pueden estar incluidos y otros cobrarse aparte.
 
-La [guía sobre cómo comprar](/es/ordering/how-to-buy) recomienda únicamente vendedores de confianza que «se encargan del IVA y los impuestos por adelantado para los compradores europeos, por lo que no tendrás que pagar el IVA cuando el paquete llegue a la UE». Pagas al finalizar la compra; no hay un segundo cobro a la llegada. El [resumen de opciones por menos de 50 $](/es/articles/best-airpods-replicas-under-50) repite el mismo punto para quienes buscan opciones económicas.
+KakoBuy [afirma](https://www.kakobuy.com/tipdetail?id=52) que sus rutas denominadas EU Duty-Free Shipping Lines incluyen los impuestos y aranceles aplicables y que cubre aranceles adicionales. Es una política del operador para esa categoría, no una exención ni una promesa de cubrir toda gestión. Confirma los términos actuales; consulta [la guía de envíos e IVA de KakoGuide](https://kakoguide.com/guides/kakobuy-shipping-vat-explained).
 
-Si haces el pedido directamente en las páginas web de HiCity o Jenny, el proceso requiere aún menos intervención: la guía sobre cómo comprar señala que en esos sitios las declaraciones de aduanas y el tipo de caja se gestionan automáticamente, así que no hay nada que configurar. Con otros vendedores tú gestionas estas opciones. Ese es el compromiso, y por eso hacer el pedido a través de la propia página web del vendedor o de su tienda de Weidian suele ser la opción más segura.
+Usa el valor real de compra y una descripción correcta. Pregunta qué incluye la cotización y qué puede cobrarse después; el nombre del vendedor o los ajustes automáticos del pago no lo resuelven.
 
 ## El seguimiento se quedará en silencio. Es normal
 
@@ -48,15 +49,15 @@ Si permanece sin cambios mucho más tiempo de lo esperado, ponte en contacto con
 
 ## Las normas varían según el país, y esto no es asesoramiento jurídico
 
-La aplicación de las normas no es uniforme. Algunos países apenas revisan los envíos pequeños para uso personal; otros realizan controles estrictos. La [sección de preguntas frecuentes sobre cómo comprar](/es/ordering/how-to-buy) resume así la situación legal: comprar réplicas para uso personal, por lo general, no es lo que persiguen las autoridades —la aplicación de la ley se centra en los fabricantes y vendedores a gran escala—, pero las réplicas se encuentran en una zona gris en materia de marcas registradas, y su importación puede ocasionar retrasos o incautaciones en ocasiones.
+El uso personal no es una exención universal. Las reglas dependen del destino y del transporte; los paquetes pueden ser retenidos o incautados. Consulta [las normas oficiales de aduanas y propiedad intelectual](https://taxation-customs.ec.europa.eu/customs/prohibitions-restrictions/counterfeit-piracy-other-ipr-violations_en) y [cómo comprar](/es/ordering/how-to-buy); ningún método de pago o ruta garantiza importación legal o entrega.
 
 Esta situación varía según el país y cambia con el tiempo, así que nada de lo aquí expuesto constituye asesoramiento jurídico. Consulta las normas locales y considera esto una práctica de la comunidad, no una garantía.
 
 ## Tu tolerancia al riesgo, tu decisión
 
-Todo lo anterior se reduce a un punto sincero: **tú eliges el riesgo que asumes.** La recomendación básica de la comunidad es sencilla: compra a un vendedor de confianza, conserva la caja neutra o doble y deja que el vendedor se encargue del IVA. Ese es el camino de menor riesgo y es lo que presuponen las [opciones por menos de 50 $](/es/articles/best-airpods-replicas-under-50).
+Antes de comprar, comprueba vendedor, modelo exacto, restricciones del destino, pagos actuales y cargos y seguro de la ruta. Las [opciones por menos de 50 $](/es/articles/best-airpods-replicas-under-50) comparan productos, no garantizan despacho aduanero.
 
-Solicitar una caja con el logotipo de Apple es el único riesgo que puedes evitar fácilmente por completo, y hacerlo no te cuesta nada aparte de renunciar a una caja de cartón con la marca. Si aun así la quieres, puedes aceptar ese compromiso, pero hazlo sabiendo lo que implica.
+Una elección de caja no elimina el riesgo de importación. Compra solo si entiendes las normas del destino y los términos sobre retrasos, incautaciones y reembolsos.
 
 Guías relacionadas sobre compras y riesgos:
 - ¿Necesitas información sobre la seguridad del hardware? Lee [¿Son seguras las réplicas de AirPods?](/es/articles/are-airpods-replicas-safe).
@@ -65,11 +66,11 @@ Guías relacionadas sobre compras y riesgos:
 - ¿Comparas clones con productos originales? Consulta [Réplicas de AirPods frente a AirPods originales](/es/articles/airpods-replicas-vs-real).
 
 ::: details ¿Incautarán mi réplica de AirPods en aduanas?
-La mayoría de los paquetes llegan. Lo que más aumenta las probabilidades de que detengan uno es enviarlo en una caja con el logotipo de Apple, por eso los vendedores utilizan por defecto una caja neutra o doble/de señuelo. Haz el pedido a un [vendedor de confianza](/es/links/info) con embalaje estándar y el riesgo se reduce considerablemente. Nunca es cero, y la aplicación de las normas varía según el país.
+Es posible. Importan las normas del destino y los productos; un [vendedor de confianza](/es/links/info), una caja neutra o una doble no garantizan despacho. No tenemos una tasa medida ni un beneficio cuantificado del embalaje.
 :::
 
 ::: details ¿Tengo que pagar IVA o impuestos de importación por unos AirPods de réplica?
-Si compras a un vendedor de confianza como comprador europeo, el IVA y los impuestos se gestionan por adelantado, así que no deberías recibir una factura cuando el paquete llegue a la UE. Los pedidos son diferentes en marketplaces como AliExpress, donde tú te encargas de las declaraciones y las tarifas. Consulta [cómo comprar](/es/ordering/how-to-buy).
+IVA, aranceles y gestión dependen del destino, los productos y la ruta. Comprueba qué incluye la cotización actual y qué puede cobrarse aparte. Consulta [cómo comprar](/es/ordering/how-to-buy); no supongas que todo pedido a la UE está prepagado.
 :::
 
 ::: details ¿Por qué mi seguimiento no se ha actualizado en días?
@@ -77,5 +78,5 @@ Es normal. El seguimiento suele quedarse sin actividad cuando el paquete sale de
 :::
 
 ::: details ¿Debería solicitar una caja con el logotipo de Apple?
-Solo si aceptas el riesgo adicional de incautación. Los auriculares son idénticos en ambos casos, y la opción «con caja de Apple» puede implicar una mayor probabilidad de incautación en aduanas sin derecho a reembolso. Si quieres un embalaje con la marca, elige la caja doble/de señuelo; consulta la [guía de embalaje](/es/introduction/packaging).
+Elige según la presentación deseada y las condiciones actuales del vendedor. Una caja doble no evita aduanas ni garantiza entrega. Consulta la [guía de embalaje](/es/introduction/packaging).
 :::

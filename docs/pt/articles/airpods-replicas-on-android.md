@@ -1,6 +1,6 @@
 ---
 title: As réplicas de AirPods funcionam com Android?
-description: 'Sim — veja como as réplicas de AirPods se comportam no Android: emparelhamento, quais recursos funcionam, por que os melhores aplicativos de firmware são exclusivos para Android e o que verificar antes de comprar.'
+description: "Réplicas de AirPods no Android: pareamento, recursos, aplicativos por modelo e o que conferir antes de comprar."
 category: Usando suas réplicas
 order: 4
 ---
@@ -8,7 +8,7 @@ order: 4
 
 Sim. As réplicas de AirPods se emparelham com o Android como quaisquer fones Bluetooth — conecte, reproduza músicas, atenda chamadas e ajuste o volume. As partes da experiência exclusivas do iOS são as vinculadas ao software da Apple, e algumas delas têm soluções alternativas. Há até uma área em que os usuários de Android levam vantagem: os aplicativos de firmware. Aqui está o panorama completo.
 
-> **Resposta rápida:** Sim, as réplicas de AirPods funcionam completamente no Android como fones Bluetooth padrão de alto desempenho. A reprodução principal, as chamadas telefônicas, a detecção intra-auricular e o cancelamento ativo de ruído (ANC) funcionam nativamente. Além disso, o Android é o único sistema operacional compatível com aplicativos complementares de chipsets desenvolvidos pela comunidade (como FlyCC e CloudCC), para equalização paramétrica personalizada e atualizações de firmware via OTA.
+> **Resposta rápida:** Sim, as réplicas de AirPods funcionam completamente no Android como fones Bluetooth padrão de alto desempenho. A reprodução principal, as chamadas telefônicas, a detecção intra-auricular e o cancelamento ativo de ruído (ANC) funcionam nativamente quando o modelo oferece esses recursos. O Android oferece muitas opções de aplicativos; FlyCC e StarFun também têm versões para iPhone. O EQ e as atualizações dependem do modelo exato, do firmware e da versão do aplicativo.
 
 ## Pareamento: sem pop-up, mesmo resultado
 
@@ -33,12 +33,12 @@ Nada disso afeta o uso diário no Android; são conveniências de configuração
 
 ## A vantagem do Android: aplicativos de firmware
 
-Aqui está a surpresa — **a maioria dos aplicativos de firmware da comunidade é exclusiva do Android**. Esses aplicativos atualizam o firmware das suas réplicas (o que pode adicionar recursos como Áudio espacial ou melhorar a estabilidade), ajustam a equalização e são a forma de identificar qual chip seu par usa.
+A maioria dos aplicativos do catálogo são APKs para Android. Em modelos compatíveis, podem oferecer EQ ou atualizações de firmware; FlyCC e StarFun também têm versões para iPhone. Uma conexão com o aplicativo não identifica de forma confiável o chip utilizado.
 
 Os principais — FlyCC, CloudCC, BullSuper, StarFun, KKX e outros — estão catalogados com links para download e tabelas de compatibilidade de chipsets na nossa página de [aplicativos úteis](/pt/useful-apps). Duas coisas que você deve saber antes de instalar:
 
 1. Eles não estão na Play Store. Ative primeiro a opção **"Instalar de fontes desconhecidas"** nas configurações de segurança.
-2. Combine o aplicativo com seu chip. Não sabe qual chip você tem? Os próprios aplicativos servem como teste — experimente-os um por um e veja qual se conecta, ou leia primeiro a página de [informações da versão](/pt/version-info/general).
+2. Encontre o aplicativo para seu modelo e vendedor exatos em [informações da versão](/pt/version-info/general) e [aplicativos úteis](/pt/useful-apps). Não experimente firmware de outros modelos para identificar um chip.
 
 ## Comprando réplicas como usuário de Android
 
@@ -63,7 +63,7 @@ Não diretamente — a renomeação e as configurações dos controles por toque
 :::
 
 ::: details Por que minha réplica não se conecta aos aplicativos de firmware?
-O aplicativo não é compatível com seu chip, ou suas réplicas usam um chipset Jieli básico que não é compatível com nenhum aplicativo da comunidade. Percorra os aplicativos da página de [aplicativos úteis](/pt/useful-apps) um de cada vez — se nenhum se conectar, você tem uma réplica de categoria inferior.
+Confira o modelo exato, a versão do aplicativo e as permissões Bluetooth em [aplicativos úteis](/pt/useful-apps). Problemas de compatibilidade ou permissão podem impedir a detecção; uma conexão malsucedida não comprova qual chip está no produto nem que ele seja uma cópia de categoria inferior.
 :::
 
 ::: details As réplicas de AirPods têm som pior no Android?

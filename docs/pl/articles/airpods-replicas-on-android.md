@@ -1,6 +1,6 @@
 ---
 title: Czy repliki AirPods działają z Androidem?
-description: 'Tak — oto jak repliki AirPods zachowują się na Androidzie: parowanie, które funkcje działają, dlaczego najlepsze aplikacje do oprogramowania układowego są dostępne wyłącznie na Androidzie i co sprawdzić przed zakupem.'
+description: "Repliki AirPods z Androidem: parowanie, funkcje, aplikacje dla konkretnych modeli i co sprawdzić przed zakupem."
 category: Korzystanie z replik
 order: 4
 ---
@@ -8,7 +8,7 @@ order: 4
 
 Tak. Podróbki AirPods łączą się z Androidem jak dowolne słuchawki Bluetooth — można słuchać muzyki, prowadzić rozmowy i regulować głośność. Elementy dostępne wyłącznie w iOS są powiązane z oprogramowaniem Apple, a część z nich ma swoje obejścia. Jest nawet obszar, w którym użytkownicy Androida mają *lepiej*: aplikacje firmware. Oto pełny obraz sytuacji.
 
-> **Krótka odpowiedź:** Tak, podróbki AirPods działają z Androidem jak standardowe, wysokowydajne słuchawki Bluetooth. Podstawowe odtwarzanie, rozmowy telefoniczne, wykrywanie słuchawek w uszach oraz aktywna redukcja hałasu (ANC) działają natywnie. Co więcej, Android jest jedynym systemem operacyjnym obsługującym tworzone przez społeczność aplikacje towarzyszące dla chipsetów (takie jak FlyCC i CloudCC), umożliwiające niestandardowy parametryczny korektor EQ oraz aktualizacje firmware OTA.
+> **Krótka odpowiedź:** Tak, podróbki AirPods działają z Androidem jak standardowe, wysokowydajne słuchawki Bluetooth. Podstawowe odtwarzanie, rozmowy telefoniczne, wykrywanie słuchawek w uszach oraz aktywna redukcja hałasu (ANC) działają natywnie, jeśli dany model je obsługuje. Android oferuje szeroki wybór aplikacji towarzyszących; FlyCC i StarFun mają też wersje na iPhone’a. EQ i aktualizacje zależą od dokładnego modelu, firmware oraz wersji aplikacji.
 
 ## Parowanie: bez wyskakującego okienka, ten sam rezultat
 
@@ -33,12 +33,12 @@ Kilka udogodnień to funkcje oprogramowania Apple i poza iOS działają inaczej:
 
 ## Przewaga Androida: aplikacje firmware
 
-I tu pojawia się niespodzianka — **większość tworzonych przez społeczność aplikacji firmware jest dostępna wyłącznie na Androidzie**. Aplikacje te aktualizują firmware podróbek (co może dodać funkcje takie jak dźwięk przestrzenny lub poprawić stabilność) oraz dostrajają korektor EQ; pomagają też przede wszystkim ustalić, z jakiego chipsetu korzysta dany egzemplarz.
+Większość aplikacji w katalogu to pliki APK na Androida. Na obsługiwanych modelach mogą oferować EQ lub aktualizacje firmware; FlyCC i StarFun mają też wersje na iPhone’a. Połączenie z aplikacją nie jest wiarygodnym sposobem identyfikacji chipsetu.
 
 Najważniejsze z nich — FlyCC, CloudCC, BullSuper, StarFun, KKX i inne — wraz z linkami do pobrania oraz tabelami obsługiwanych chipsetów zostały zebrane na naszej stronie [przydatne aplikacje](/pl/useful-apps). Przed instalacją warto wiedzieć dwie rzeczy:
 
 1. Nie ma ich w Sklepie Play. Najpierw włącz w ustawieniach zabezpieczeń opcję **„Instalowanie z nieznanych źródeł”**.
-2. Dopasuj aplikację do swojego chipsetu. Nie wiesz, jaki masz chipset? Same aplikacje służą jako test — wypróbuj je po kolei i sprawdź, która się połączy, albo najpierw przeczytaj stronę [informacje o wersji](/pl/version-info/general).
+2. Dobierz aplikację do dokładnego modelu i sprzedawcy, korzystając z [informacji o wersji](/pl/version-info/general) i [przydatnych aplikacji](/pl/useful-apps). Nie próbuj firmware innych modeli, aby zidentyfikować chipset.
 
 ## Kupowanie podróbek jako użytkownik Androida
 
@@ -63,7 +63,7 @@ Nie bezpośrednio — zmiana nazwy i ustawienia sterowania stuknięciami odbywaj
 :::
 
 ::: details Dlaczego moje podróbki nie łączą się z aplikacjami firmware?
-Albo aplikacja nie pasuje do Twojego chipsetu, albo podróbki korzystają z budżetowego chipsetu Jieli, którego nie obsługuje żadna aplikacja społeczności. Przetestuj po kolei aplikacje ze strony [przydatne aplikacje](/pl/useful-apps) — jeśli żadna się nie połączy, masz podróbkę z niższej półki.
+Sprawdź dokładny model, wersję aplikacji i uprawnienia Bluetooth na stronie [przydatnych aplikacji](/pl/useful-apps). Problemy ze zgodnością lub uprawnieniami mogą uniemożliwić wykrycie. Nieudane połączenie nie dowodzi określonego chipsetu ani podróbki z niższej półki.
 :::
 
 ::: details Czy podróbki AirPods brzmią gorzej na Androidzie?

@@ -11,8 +11,10 @@ import {
 import { createPageDates } from './page-dates';
 import { productFamiliesPlugin } from './plugins/product-families';
 import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
+import { sponsoredLinksPlugin } from './plugins/sponsored-links';
 import { privacyLink } from './privacy-link';
 import { productDestination, productRedirectScript } from './product-routes';
+import { ANCHOR_TAG, anchorHref, withAnchorAttributes } from './purchase-links';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
 const docsDir = path.resolve(configDir, '..');
@@ -966,7 +968,10 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
         },
     },
     markdown: {
-        config: productFamiliesPlugin,
+        config: (md) => {
+            productFamiliesPlugin(md);
+            sponsoredLinksPlugin(md);
+        },
     },
 
     // Auto-generate sitemap with all locales for SEO + image sitemap entries
@@ -1123,14 +1128,16 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
                         : match;
                 }
             )
-            // Outbound seller links (airreps.link) open in a new tab so readers
-            // keep the comparison page they were on; rel="noopener" for safety.
-            // These are plain links to public seller sites — deliberately NOT
-            // marked rel="sponsored". Only raw-HTML table anchors match here;
-            // markdown-rendered externals already carry target=.
-            .replace(
-                /<a(?![^>]*\btarget=)([^>]*\bhref="https:\/\/airreps\.link\/[^"]*"[^>]*)>/g,
-                '<a target="_blank" rel="noopener"$1>'
+            // Raw-HTML airreps.link anchors open in a new tab (rel="noopener") so
+            // readers keep the page they were on. The seller-table purchase links
+            // already got target and rel="sponsored" when the markdown was
+            // compiled (plugins/sponsored-links.ts), so client-side navigation
+            // matches; this only catches any other raw shortlink. An existing
+            // rel is extended, never duplicated. Markdown links carry target=.
+            .replace(ANCHOR_TAG, (tag) =>
+                anchorHref(tag)?.startsWith('https://airreps.link/')
+                    ? withAnchorAttributes(tag, { newTab: true })
+                    : tag
             )
             .replace(
                 /<div class="VPContent is-home"/g,

@@ -4,13 +4,14 @@ description: 'Jak połączyć repliki AirPods z macOS — naprawa błędu binarn
 category: Korzystanie z replik
 order: 17
 ---
+
 # Czy podróbki AirPods działają z Makiem? Konfiguracja, suwak głośności i rozwiązania
 
 Podłączanie podróbek AirPods do iPhone’a jest zwykle bezproblemowe, ale korzystanie z nich na MacBooku, Macu mini lub iMacu wiąże się z pewnymi specyficznymi problemami. Chociaż macOS natywnie rozpoznaje podróbki jako standardowe urządzenia audio Bluetooth, użytkownicy często napotykają dwa notoryczne problemy: **błąd binarnego suwaka głośności** na starszych lub wyposażonych w układy Intel Macach oraz niejasne działanie **przełączania między wieloma urządzeniami**.
 
 Historycznie wczesne poradniki, takie jak CrypticStreet, opisywały te rozwiązania dla Maca w 2020 roku. Od tego czasu nowoczesne chipsety, zwłaszcza Huilian i nowsze układy Airoha, całkowicie zmieniły sposób współpracy podróbek z macOS. Oto współczesny, wyczerpujący poradnik konfiguracji i rozwiązywania problemów z podróbkami AirPods na Macu.
 
-> **Krótka odpowiedź:** Tak, podróbki AirPods niezawodnie działają na Macu podczas odtwarzania dźwięku, rozmów wideo i obsługi multimediów. Jednak chipsety inne niż Huilian, takie jak starsze układy Airoha lub Bluetrum, często cierpią na tak zwany „błąd głośności” w macOS, przez który suwak głośności gwałtownie przeskakuje między 0% a 100%. Jeśli codziennie korzystasz z Maca, zakup podróbki opartej na układzie **Huilian (na przykład Pro 2 V5.4)** gwarantuje płynne, natywne skalowanie głośności i działające przełączanie między wieloma urządzeniami za pomocą iCloud Connect.
+> **Krótka odpowiedź:** Repliki można sparować z Makiem jako słuchawki Bluetooth, ale funkcje zależą od dokładnego modelu i oprogramowania. Niektóre wersje mają błąd głośności przeskakującej między 0% a 100%. Poradnik poleca modele Huilian, takie jak **Pro 2 V5.4**, do Maca; nie gwarantuje jednak takiego samego działania głośności lub iCloud w każdej parze, partii i wersji macOS.
 
 ::: tip Używasz Maca? Starannie wybierz chipset
 Jeśli MacBook lub iMac jest Twoim głównym komputerem, nie kupuj podróbki z przypadkowej platformy sprzedażowej. Społeczność szczególnie poleca **chipsety Huilian** użytkownikom macOS ze względu na ich natywną integrację z tabelą głośności i stabilność przekazywania połączenia przez iCloud.
@@ -35,14 +36,14 @@ macOS używa protokołu synchronizacji głośności sprzętowej (`Absolute Volum
 
 ### Rozwiązanie
 1. **Rozwiązanie programowe:** Społeczność utrzymuje poprawkę suwaka głośności o otwartym kodzie, która oddziela głośność programową od sprzętowych tabel wzmocnienia. Skorzystaj z naszego szczegółowego [przewodnika naprawy suwaka głośności w macOS](/pl/troubleshooting/macOS-volume-slider-fixup), aby uruchomić poprawkę w terminalu.
-2. **Rozwiązanie sprzętowe:** Jeśli jeszcze nie dokonano zakupu, wybierz **AirPods Pro 2 V5.4 Huilian** lub **AirPods 4 V2 Huilian**. Modele Huilian mają w pełni odwzorowane poziomy głośności, które działają na macOS identycznie jak oryginalne AirPods firmy Apple, bez konieczności korzystania z narzędzi innych firm.
+2. **Wybór sprzętu**: **AirPods Pro 2 V5.4 Huilian** i **AirPods 4 V2 Huilian** to rekomendacje do Maca. Sprawdź dokładny model i rewizję; głośność może zależeć od firmware i macOS.
 
 ## Przełączanie między urządzeniami przez iCloud na Macu
 
 Jedną z największych zalet sprzętu Apple jest możliwość słuchania muzyki na iPhonie i automatycznego przełączenia dźwięku na MacBooka podczas oglądania filmu.
 
-- **W przypadku podróbek Huilian (V5.4 / V6):** Po sparowaniu z iPhonem słuchawki synchronizują się z Twoim Apple ID za pośrednictwem **iCloud Connect**. Gdy usiądziesz przy Macu, automatycznie pojawią się w menu dźwięku Maca bez konieczności ręcznego ponownego parowania przez Bluetooth.
-- **W przypadku podróbek Airoha / TigerBuilder:** Chociaż obsługują połączenie wielopunktowe, nie synchronizują się za pomocą tokenu iCloud firmy Apple. Aby przełączyć się z telefonu na Maca, musisz kliknąć **Połącz** w menu Bluetooth na Macu.
+- **Modele Huilian (V5.4 / V6)**: Poradnik wskazuje iCloud Connect dla tych wersji Huilian. Sprawdź dokładny model, firmware i oprogramowanie Apple; nie zakładaj identycznego automatycznego przełączania w każdej parze.
+- **Modele Airoha/TigerBuilder**: Przełączanie urządzeń i multipoint zależą od wersji. Sprawdź stronę modelu i wybierz słuchawki w menu Bluetooth Maca, gdy potrzebne jest ręczne połączenie.
 
 ## Optymalizacja jakości mikrofonu w Zoomie i FaceTime
 
@@ -68,7 +69,7 @@ macOS nie ma animowanego okna połączenia takiego jak iOS. Podróbki AirPods wy
 :::
 
 ::: details Czy mogę korzystać z aplikacji społeczności związanych z oprogramowaniem układowym na Macu?
-Tak, istnieją niektóre narzędzia, w tym flasherzy działający w przeglądarce i wersje FlyCC dla macOS, przeznaczone dla chipsetów Airoha. Jednak zdecydowana większość aplikacji społeczności działa najsprawniej na niedrogim telefonie z Androidem.
+Nie jako aplikacje na Maca. Katalog [przydatnych aplikacji](/pl/useful-apps) nie zawiera wersji macOS ani narzędzi internetowych. App Store pozwala instalować wersje FlyCC i StarFun na iPhone’a na Macach z Apple Silicon, ale oznacza je jako niezweryfikowane dla macOS. Użyj aplikacji na iPhone’a lub Androida wskazanej dla Twojego modelu.
 :::
 
 ::: details Czy dźwięk przestrzenny działa na Macu z podróbkami AirPods?
