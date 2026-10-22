@@ -64,7 +64,7 @@ jobs:
         run: python3 scripts/check-guide-links.py
 
       - name: Test navigation, translated articles, metadata, page dates, IndexNow URLs and guide measurement
-        run: bun test scripts/product-families.test.ts scripts/articles.test.ts scripts/translation-sync.test.ts scripts/page-dates.test.ts scripts/page-head.test.ts scripts/indexnow-urls.test.ts scripts/guide-analytics.test.ts scripts/purchase-links.test.ts
+        run: bun test scripts/product-families.test.ts scripts/articles.test.ts scripts/translation-sync.test.ts scripts/page-dates.test.ts scripts/page-head.test.ts scripts/indexnow-urls.test.ts scripts/guide-analytics.test.ts
 
       - name: List build directory contents
         run: ls -la docs/.vitepress/dist

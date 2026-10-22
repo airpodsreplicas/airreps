@@ -2,7 +2,6 @@
 import { useData } from 'vitepress';
 import { computed, ref } from 'vue';
 import { productDestination } from '../product-routes';
-import { purchaseLinkRel } from '../purchase-links';
 
 const { lang } = useData();
 
@@ -1653,11 +1652,6 @@ const isOnlySeller = computed(
 // Get direct product link for the recommended seller
 const directProductLink = computed(() => sellerLink(recommendedSeller.value));
 
-// Seller and KakoBuy buy links can earn AirReps a commission, so they're marked
-// rel="sponsored" (see purchase-links.ts); the existing rel tokens stay as-is.
-const buyLinkRel = (href: string | null | undefined) =>
-    purchaseLinkRel(href, 'noopener noreferrer');
-
 function productToLinksPage(): LinksPageKey {
     return product.value?.linksPageKey ?? 'airpods-pro-2';
 }
@@ -1761,12 +1755,12 @@ function restart() {
 
         <!-- Agent ordering with recommended seller -->
         <div v-if="answers.ordering === 'agent' && recommendedSeller" class="quiz-buy-list">
-          <a v-if="directProductLink" :href="recommendedSeller.weidian" target="_blank" :rel="buyLinkRel(recommendedSeller.weidian)" class="quiz-buy-link primary">
+          <a v-if="directProductLink" :href="recommendedSeller.weidian" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ recommendedSeller.name }} {{ t('weidianStore') }}
           </a>
           <p v-if="directProductLink" class="quiz-seller-note">{{ isOnlySeller ? t('onlySeller') : recommendedSeller.strength }}</p>
           <p v-else class="quiz-seller-note">{{ t('sellerUnavailable') }}</p>
-          <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer sponsored" class="quiz-buy-link kakobuy">
+          <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer" class="quiz-buy-link kakobuy">
             {{ t('kakobuySignup') }}
           </a>
           <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
@@ -1776,7 +1770,7 @@ function restart() {
 
         <!-- Direct seller recommended -->
         <div v-else-if="recommendedSeller" class="quiz-buy-list">
-          <a v-if="directProductLink" :href="directProductLink" target="_blank" :rel="buyLinkRel(directProductLink)" class="quiz-buy-link primary">
+          <a v-if="directProductLink" :href="directProductLink" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ t('orderFrom') }} {{ recommendedSeller.name }}
           </a>
           <p v-if="directProductLink" class="quiz-seller-note">{{ isOnlySeller ? t('onlySeller') : recommendedSeller.strength }}</p>
@@ -1796,12 +1790,12 @@ function restart() {
             :key="s.key"
             :href="s.seller.url"
             target="_blank"
-            :rel="buyLinkRel(s.seller.url)"
+            rel="noopener noreferrer"
             class="quiz-buy-link primary"
           >
             {{ s.seller.name }} — {{ t(s.labelKey) }}
           </a>
-          <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer sponsored" class="quiz-buy-link kakobuy">
+          <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer" class="quiz-buy-link kakobuy">
             {{ t('kakobuySignup') }}
           </a>
           <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
