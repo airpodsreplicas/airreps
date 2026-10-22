@@ -4,7 +4,6 @@ description: 'As melhores réplicas de AirPods por menos de US$ 50: opções eco
 category: Compras
 order: 2
 ---
-
 # Melhores réplicas de AirPods por menos de US$ 50
 
 Com menos de US$ 50, você escolhe entre modelos econômicos genuínos de AirPods e réplicas dos *melhores* modelos da Apple. As réplicas vencem essa disputa com facilidade — uma [réplica dos AirPods Pro 3 por US$ 27](/pt/version-info/airpods-pro-3) oferece mais do que um par genuíno de AirPods econômicos jamais oferecerá. Veja o que realmente vale a pena comprar em cada faixa de preço, com base nas versões que a comunidade recomenda atualmente.
@@ -55,8 +54,8 @@ Nenhuma réplica, a qualquer preço, tem a **rede Find My** da Apple, então nã
 O mercado de réplicas por menos de US$ 50 também é onde aparecem os anúncios mais suspeitos. O caminho seguro:
 
 1. Escolha sua versão usando a página de [comparação de versões](/pt/version-info/general) ou responda ao [questionário](/pt/quiz) e deixe que ele escolha por você.
-2. Compre de um [vendedor confiável](/pt/links/info) e confira o checkout para seu país. As opções variam; em 22 de outubro de 2026 a transferência bancária estava ativada apenas na Jenny. O [KakoBuy](/pt/ordering/kakobuy) é uma alternativa com pagamentos e verificações de identidade conforme o provedor.
-3. Siga o [guia de compra](/pt/ordering/how-to-buy) e confira os termos atuais de IVA, imposto e manuseio da rota; um vendedor confiável não garante ausência de cobranças na chegada.
+2. Compre apenas de um [vendedor confiável](/pt/links/info) — os três enviam para todo o mundo e aceitam cartões, Revolut, Wise, transferência bancária e criptomoedas. Com orçamento apertado, o [KakoBuy](/pt/ordering/kakobuy) também funciona como agente sem exigir verificações KYC.
+3. Siga o [guia de pedidos](/pt/ordering/how-to-buy) para ver os detalhes de pagamento e envio — vendedores confiáveis cobram o IVA da UE antecipadamente, evitando taxas alfandegárias inesperadas.
 
 Anúncios aleatórios em marketplaces com preços "bons demais" são o motivo pelo qual as pessoas acabam com clones do nível mais básico. O mesmo produto de um vendedor verificado custa alguns dólares a mais e é realmente a versão anunciada.
 

@@ -20,8 +20,6 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 :::tip Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE).
 :::
 
-New to FlyCC? Our [FlyCC guide](/articles/flycc-app-guide) covers Android and iPhone setup, and [How to Update Fake AirPods Firmware](/articles/how-to-update-fake-airpods-firmware) explains when and how to update safely.
-
 ## **BES**
 
 | [![HBluetooth (iOS)](/app_icon/hbluetooth.png)](https://airreps.link/hbluetooth) HBluetooth (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/hbluetooth" aria-label="Download HBluetooth (iOS) on the App Store" target="_blank" rel="noreferrer">App Store</a></span> |
@@ -41,36 +39,3 @@ New to FlyCC? Our [FlyCC guide](/articles/flycc-app-guide) covers Android and iP
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/kkx" aria-label="Download APK for KKX (Android)" target="_blank" rel="noreferrer">Download APK</a></span> |
 |---|
-
-## Android download records
-
-These are the Android files linked above, checked on **22 October 2026**. Version and package names are declared in each file’s manifest. A checksum identifies the exact download; it does not establish safety, compatibility or that the file is the latest manufacturer release. Nothing was installed or executed for this check. Keep CloudCC’s deprecation warning above in mind.
-
-::: details Versions, file sizes and SHA-256 checksums
-
-**FlyCC (Android)** — declared version **2.0.29**, package `com.airoha.twshelper`, **23,397,442 bytes**.
-
-SHA-256:
-
-```text
-29d220a948b47562085c3cd0acff520ed3646b041a5282eed66d8fdeed1de092
-```
-
-**CloudCC (Android)** — declared version **1.1.10**, package `com.airoha.yfy.ccUpdate`, **7,656,675 bytes**.
-
-SHA-256:
-
-```text
-85d1489227c72a7786617e099bd348217817f018702b99849b627a1b34351683
-```
-
-**StarFun (Android)** — declared version **2.0.7.016**, package `com.fun.app`, **26,075,927 bytes**.
-
-SHA-256:
-
-```text
-5fd02c4e1184bee33123dd12b290279c32c74ea3c22cde96f7477c23a96fe5c7
-```
-
-The iOS App Store versions are separate. Before installing or updating, match your exact earbud model to the app guidance above.
-:::

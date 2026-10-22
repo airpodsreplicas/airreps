@@ -6,54 +6,71 @@ order: 16
 ---
 # Jak zaktualizować oprogramowanie sprzętowe podróbek AirPods: przewodnik krok po kroku
 
-Oryginalne AirPods od Apple aktualizują się automatycznie za pośrednictwem twoich urządzeń Apple. Repliki tego nie robią. Ich oprogramowanie sprzętowe pochodzi od producenta i instaluje się je przez aplikację towarzyszącą, wyłącznie dla modeli obsługiwanych przez producenta. Aktualizacja może rozwiązać problemy ze zgodnością z iOS lub zrywaniem połączenia, a czasem dodaje nowe funkcje.
+W przeciwieństwie do oryginalnych słuchawek Apple AirPods, które aktualizują się po cichu w tle za pośrednictwem iOS, repliki AirPods aktualizują się przez społecznościowe aplikacje pomocnicze działające na Androidzie lub macOS. Aktualizacja oprogramowania sprzętowego może rozwiązać problemy z uzgadnianiem połączenia z iOS, poprawić stabilność aktywnej redukcji hałasu (ANC) lub naprawić zrywanie połączeń.
 
-Aktualizacja zapisuje w słuchawkach nowe oprogramowanie, więc przerwana lub niewłaściwa aktualizacja może sprawić, że przestaną działać. Dokładny przebieg zależy od modelu i aplikacji, dlatego ten przewodnik wyjaśnia, co sprawdzić i jak bezpiecznie przeprowadzić aktualizację, zamiast podawać jedną sekwencję dla wszystkich par.
+Jednak wgrywanie oprogramowania sprzętowego zapisuje dane bezpośrednio w wewnętrznej pamięci flash słuchawki. Przerwana aktualizacja może trwale unieruchomić kontroler. Ten przewodnik opisuje bezpieczne, przetestowane przez społeczność procedury wgrywania oprogramowania dla wszystkich głównych chipsetów stosowanych w replikach.
 
-> **Krótka odpowiedź:** Najpierw ustal dokładny model i sprzedawcę, a następnie użyj aplikacji wskazanej dla tego producenta w [Przydatnych aplikacjach](/pl/useful-apps): **FlyCC** dla modeli TigerBuilder (Airoha) lub **StarFun** dla Huilian — obie są dostępne na Androida i iPhone’a. Jeśli aplikacja oferuje aktualizację dla twojego modelu, postępuj zgodnie z instrukcjami na ekranie, utrzymuj słuchawki naładowane i blisko telefonu i nie przerywaj aktualizacji. Jeśli słuchawki działają dobrze, a aktualizacja nie rozwiązuje żadnego twojego problemu, pomiń ją.
+> **Krótka odpowiedź:** Aby zaktualizować oprogramowanie sprzętowe repliki AirPods, najpierw zidentyfikuj chipset i wybierz odpowiednie narzędzie: **FlyCC** (Airoha), **CloudCC** (TigerBuilder) lub **Starfun** (Huilian). Upewnij się, że obie słuchawki i etui ładujące są naładowane powyżej 80%. Pozostaw otwartą pokrywę etui, umieść w nim obie słuchawki, rozpocznij aktualizację OTA w aplikacji i nie zamykaj pokrywy, nie przełączaj Bluetooth ani nie zamykaj aplikacji, dopóki postęp nie osiągnie 100%.
 
 ::: warning Najważniejsza zasada: jeśli działa, nie ruszaj
-Aktualizacje oprogramowania replik zwykle naprawiają problemy wywołane dużymi aktualizacjami iOS lub znane błędy. Jeśli słuchawki łączą się bez problemów, dobrze brzmią, ANC działa, a aktualizacja nie rozwiązuje problemu, który faktycznie masz, **nie aktualizuj oprogramowania sprzętowego**. Niepotrzebna aktualizacja oznacza tylko dodatkowe ryzyko.
+Aktualizacje oprogramowania sprzętowego replik nie działają tak jak poprawki do gier. Są wydawane głównie w celu naprawienia problemów powodowanych przez duże aktualizacje iOS lub rozwiązania poważnych błędów sprzętowych. Jeśli słuchawki obecnie płynnie się łączą, świetnie brzmią, a ANC działa bez zarzutu, **nie aktualizuj oprogramowania sprzętowego**. Niepotrzebne wgrywanie oprogramowania zwiększa jedynie ryzyko trwałego uszkodzenia urządzenia.
 :::
 
-## Przed aktualizacją
+## Lista kontrolna bezpieczeństwa przed aktualizacją
 
-1. **Poznaj dokładny model i sprzedawcę**: sprawdź zamówienie i nazwę produktu u sprzedawcy, a potem znajdź tę wersję na [stronach wersji](/pl/version-info/general). Numery układów podawane w ofertach sprzedawców same w sobie nie są wiarygodne.
-2. **Miej powód**: poszukaj komunikatu sprzedawcy, informacji na stronie swojej wersji lub potwierdzonego rozwiązania na [Discordzie AirReps](https://airreps.link/discord) dla problemu, który masz.
-3. **Używaj aktualnej wersji właściwej aplikacji** z [Przydatnych aplikacji](/pl/useful-apps) i przyznaj uprawnienia Bluetooth, o które poprosi.
-4. **Najpierw naładuj**: naładuj słuchawki i etui przed rozpoczęciem, aby nic się nie rozładowało w trakcie aktualizacji.
-5. **Zadbaj o stabilne połączenie**: trzymaj telefon blisko, z włączonym ekranem i otwartą aplikacją, aż aktualizacja się zakończy.
+Przed naciśnięciem przycisku aktualizacji bez wyjątków sprawdź te cztery warunki:
 
-## Krok 1: Dopasuj aplikację do producenta
+1. **Poziom baterii powyżej 80%**: Upewnij się, że obie słuchawki i etui ładujące są naładowane co najmniej w 80%. Jeśli słuchawce zabraknie energii w trakcie wgrywania, program rozruchowy zostanie uszkodzony.
+2. **Pozostaw etui podłączone do zasilania**: Podłącz etui ładujące do ściennego zasilacza 5 V/1 A lub powerbanku na czas aktualizacji.
+3. **Pozostaw otwartą pokrywę**: Przez cały transfer słuchawki muszą znajdować się na pinach ładujących, a pokrywa etui musi być otwarta.
+4. **Wyłącz automatyczną blokadę / wygaszanie ekranu**: Nie pozwól, aby ekran telefonu się wygasił. Jeśli telefon przejdzie w głęboki sen lub zamknie procesy działające w tle, transfer Bluetooth może się zatrzymać.
 
-Nasz [katalog przydatnych aplikacji](/pl/useful-apps) jest uporządkowany według producentów. Użyj aplikacji wskazanej dla twojego modelu:
+## Krok 1: Zidentyfikuj chipset i aplikację
 
-- **TigerBuilder** (układy Airoha, takie jak 1562AE, 1563E i 1571AM) → **FlyCC**, na Androida i iPhone’a. Przeczytaj nasz [przewodnik po aplikacji FlyCC](/pl/articles/flycc-app-guide). **CloudCC** zostało wycofane, odkąd TigerBuilder zintegrował funkcję OTA z FlyCC; używaj go tylko jako obejścia problemu z uprawnieniami do pamięci.
-- **Huilian** → **StarFun**, na Androida i iPhone’a.
-- Modele **HR**, **BES** i **V2.5/KKX** → aplikacje wymienione pod tymi nagłówkami w Przydatnych aplikacjach.
-- **Tanie klony z układem Jieli (Jerry)** → żadna aplikacja z katalogu ich nie obsługuje.
+Wgranie pliku binarnego oprogramowania przeznaczonego dla układu Airoha na płytkę Huilian natychmiast trwale uszkodzi urządzenie. Dopasuj narzędzie do chipsetu, korzystając z naszego [katalogu przydatnych aplikacji](/pl/useful-apps):
 
-Nie każda aplikacja oferuje aktualizacje oprogramowania dla każdego modelu, z którym się łączy. Instaluj tylko aktualizacje, które właściwa aplikacja oferuje dla wykrytego modelu, i nigdy nie wgrywaj oprogramowania przeznaczonego dla innego produktu.
+- **Chipsety Airoha (1562AE, 1562E, 1571AM)** $\to$ Użyj **FlyCC** (przeczytaj nasz [przewodnik po aplikacji FlyCC](/pl/articles/flycc-app-guide)).
+- **Chipsety TigerBuilder (1562AE/TB, 1571AM/TB)** $\to$ Użyj **CloudCC**.
+- **Chipsety Huilian (247, 277, 377, 377H3)** $\to$ Użyj **Starfun**.
+- **Chipsety Jieli (Jerry)** $\to$ Klony Jieli z niższej półki nie obsługują aktualizacji oprogramowania sprzętowego OTA.
 
-## Krok 2: Przeprowadź aktualizację w aplikacji
+## Krok 2: Procedury aktualizacji krok po kroku
 
-Ekrany aktualizacji różnią się w zależności od aplikacji i modelu, więc postępuj zgodnie z tym, co pokazuje twoja aplikacja, a nie według ogólnej sekwencji:
+### Metoda A: Aktualizacja za pomocą FlyCC (Airoha)
 
-1. Połącz słuchawki w ustawieniach Bluetooth telefonu, a potem otwórz aplikację i poczekaj, aż wykryje twój model.
-2. Otwórz opcję oprogramowania lub aktualizacji, jeśli aplikacja ją ma, i porównaj zainstalowaną wersję z oferowaną. Jeśli aplikacja informuje, że masz już najnowsze oprogramowanie, to wszystko.
-3. Przeczytaj instrukcje, które aplikacja podaje dla twojego modelu, w tym to, gdzie słuchawki mają się znajdować podczas aktualizacji, i dokładnie się do nich zastosuj.
-4. Rozpocznij aktualizację i niczego nie ruszaj, dopóki aplikacja nie potwierdzi jej zakończenia. Nie zamykaj aplikacji, nie wyłączaj Bluetooth i nie oddalaj się z telefonem.
-5. Następnie sprawdź wersję w aplikacji i przetestuj słuchawki. Jeśli parowanie sprawia problemy, usuń słuchawki z listy urządzeń i sparuj je ponownie (zobacz [Jak zresetować podróbki AirPods](/pl/articles/how-to-reset-fake-airpods)).
+1. Połącz AirPods z urządzeniem z Androidem za pomocą standardowych ustawień Bluetooth.
+2. Uruchom **FlyCC** i sprawdź, czy model jest widoczny na ekranie głównym.
+3. Stuknij **Aktualizacja oprogramowania sprzętowego** (lub **Aktualizacja OTA**).
+4. Stuknij **Sprawdź aktualizacje**. Jeśli zostanie wykryta nowa wersja, aplikacja wyświetli numer kompilacji i listę zmian.
+5. Stuknij **Rozpocznij aktualizację**. Zobaczysz dwa etapy: przesyłanie pliku binarnego do lewej słuchawki, a następnie do prawej.
+6. Gdy postęp osiągnie 100%, zaczekaj na komunikat: *„Aktualizacja zakończona pomyślnie”*.
+7. Zamknij pokrywę etui ładującego i pozostaw je nieruszone przez 60 sekund, aby umożliwić ponowne uruchomienie mikrokontrolerów.
 
-Na **iPhonie** zarówno FlyCC, jak i StarFun oferują aktualizacje oprogramowania dla wybranych produktów. Informacje o FlyCC w App Store wymieniają obsługę OTA dla platformy AB157x firmy Airoha od wersji 1.1.1, a StarFun wymienia OTA wśród swoich funkcji (strony [FlyCC](https://apps.apple.com/us/app/flycc/id1661245709) i [StarFun](https://apps.apple.com/us/app/starfun/id1633624617) w App Store, sprawdzone 22 października 2026 r.). Na **Androidzie** używaj plików APK z Przydatnych aplikacji. Android 12 i nowsze wersje proszą o uprawnienie Urządzenia w pobliżu, a starsze wersje Androida lub starsze aplikacje mogą wymagać uprawnienia Lokalizacja do wyszukiwania urządzeń Bluetooth ([dokumentacja Androida dla deweloperów](https://developer.android.com/develop/connectivity/bluetooth/bt-permissions)).
+### Metoda B: Aktualizacja za pomocą CloudCC (TigerBuilder)
+
+1. Umieść obie słuchawki w etui i pozostaw otwartą pokrywę.
+2. Otwórz **CloudCC** i stuknij **Wyszukaj urządzenie**.
+3. Po wykryciu wybierz swoje urządzenie TigerBuilder.
+4. Przejdź do karty **Oprogramowanie sprzętowe** i stuknij **Sprawdź najnowszą wersję**.
+5. Wybierz pakiet z chmury i stuknij **Pobierz i aktualizuj**.
+6. Trzymaj telefon bezpośrednio obok etui ładującego, dopóki komunikat nie potwierdzi zakończenia.
+
+### Metoda C: Aktualizacja za pomocą Starfun (Huilian)
+
+1. Upewnij się, że słuchawki są połączone z telefonem, a pokrywa jest otwarta.
+2. Otwórz **Starfun** i stuknij ikonę **Ustawienia / Oprogramowanie sprzętowe**.
+3. Porównaj bieżącą wersję oprogramowania sprzętowego z najnowszą wersją dostępną w chmurze.
+4. Stuknij **Aktualizuj**. Aplikacja zapisze kolejno bloki konfiguracji.
+5. Po ponownym uruchomieniu wybierz opcję zapomnienia urządzenia w menu Bluetooth telefonu i wykonaj miękki reset.
 
 ## Co zrobić, jeśli aktualizacja zawiesi się lub zakończy niepowodzeniem
 
-- **Daj jej czas i utrzymaj połączenie**: zostaw słuchawki tam, gdzie wskazała aplikacja, i trzymaj telefon blisko. Jeśli aplikacja ma własną opcję ponowienia próby, skorzystaj z niej.
-- **Nie przechodź na inną aplikację ani inny plik oprogramowania**, żeby naprawić nieudaną aktualizację.
-- **Skontaktuj się ze sprzedawcą**, jeśli aktualizacja się nie powiedzie lub słuchawki przestaną reagować. Podaj numer zamówienia, model, nazwę i wersję aplikacji oraz swój telefon i wersję systemu, a także dołącz zrzuty ekranu z ewentualnymi błędami. Możesz też zapytać na [Discordzie AirReps](https://airreps.link/discord).
+Jeśli aktualizacja zatrzyma się na określonym poziomie (np. na 45% przez ponad 5 minut):
 
-Odzyskiwanie zależy od modelu, więc nie ma uniwersalnego resetu, który cofnie nieudaną aktualizację. [Przewodnik resetowania](/pl/articles/how-to-reset-fake-airpods) dotyczy problemów z parowaniem, a nie przywracania oprogramowania.
+1. **Nie zamykaj pokrywy ani nie wyjmuj słuchawek.**
+2. Sprawdź, czy Bluetooth został rozłączony. Jeśli aplikacja na to pozwala, stuknij **Ponów** lub uruchom aplikację ponownie, pozostawiając słuchawki na miejscu.
+3. Jeśli słuchawki całkowicie przestaną reagować, skorzystaj z naszego [przewodnika Jak zresetować podróbki AirPods](/pl/articles/how-to-reset-fake-airpods), aby wykonać 15-sekundowy twardy reset kontrolera.
+4. Otwórz ponownie aplikację aktualizującą — w większości przypadków program rozruchowy odzyskiwania umożliwi ponowne wgranie pakietu od 0%.
 
 ## Powiązane przewodniki rozwiązywania problemów
 
@@ -65,7 +82,7 @@ Odzyskiwanie zależy od modelu, więc nie ma uniwersalnego resetu, który cofnie
 ## FAQ
 
 ::: details Czy mogę zaktualizować oprogramowanie sprzętowe repliki AirPods na iPhonie?
-Tak, w przypadku wybranych modeli. FlyCC i StarFun mają wersje na iPhone’a w App Store i obie oferują aktualizacje oprogramowania dla niektórych produktów. Nie każda para otrzyma aktualizację na iPhonie: zależy to od modelu, jego oprogramowania i wersji aplikacji. Na przykład nasza [strona AirPods Pro 2](/pl/version-info/pro#airpods-pro-2) zaleca sprawdzenie oprogramowania V5.3 TB w FlyCC na iOS. Android również jest opcją dzięki plikom APK z Przydatnych aplikacji, o ile używasz aplikacji wskazanej dla twojego modelu.
+Nie. iOS nie pozwala aplikacjom pomocniczym zapisywać oprogramowania sprzętowego przez Bluetooth w akcesoriach innych niż MFi. Musisz pożyczyć telefon z Androidem (lub użyć zgodnego komputera Mac), aby wgrać aktualizacje oprogramowania sprzętowego. Po aktualizacji oprogramowanie pozostanie na stałe w słuchawkach.
 :::
 
 ::: details Czy aktualizacja zapewni mojej replice AirPods dostęp do sieci Apple Znajdź?
@@ -73,5 +90,5 @@ Nie. Sieć Znajdź opiera się na zastrzeżonych certyfikatach kryptograficznych
 :::
 
 ::: details Czy aktualizacja oprogramowania sprzętowego może trwale uszkodzić moje podróbki AirPods?
-Tak, może. Aktualizacja przerwana przez rozładowaną baterię lub utratę połączenia albo oprogramowanie przeznaczone dla innego produktu mogą sprawić, że słuchawki przestaną działać. Instaluj tylko aktualizacje, które właściwa aplikacja oferuje dla twojego modelu, postępuj zgodnie z jej instrukcjami i pomijaj aktualizacje, których nie potrzebujesz.
+Tak, jeśli aktualizacja zostanie przerwana z powodu rozładowanej baterii, zbyt wczesnego zamknięcia pokrywy lub wgrania pliku binarnego oprogramowania przeznaczonego dla innego chipsetu. Zawsze przestrzegaj powyższej listy kontrolnej bezpieczeństwa przed aktualizacją.
 :::

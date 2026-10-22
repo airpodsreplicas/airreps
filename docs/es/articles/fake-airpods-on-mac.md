@@ -4,14 +4,13 @@ description: 'Cómo conectar réplicas de AirPods a macOS: solucionar el error d
 category: Usar tus réplicas
 order: 17
 ---
-
 # ¿Funcionan los AirPods falsos con Mac? Configuración, control de volumen y soluciones
 
 Conectar réplicas de AirPods a un iPhone suele ser sencillo, pero usarlas con un MacBook, Mac mini o iMac presenta ciertas particularidades. Aunque macOS reconoce de forma nativa las copias como dispositivos de audio Bluetooth estándar, los usuarios suelen encontrarse con dos problemas conocidos: el **fallo del control de volumen binario** en Macs antiguos o con procesadores Intel, y el confuso comportamiento del **cambio entre varios dispositivos**.
 
 Históricamente, las primeras guías, como las de CrypticStreet, cubrían estas soluciones para Mac en 2020. Desde entonces, los chipsets modernos (especialmente Huilian y los chips Airoha más recientes) han cambiado por completo la forma en que las réplicas interactúan con macOS. Esta es la guía moderna y definitiva para configurar y solucionar problemas de AirPods falsos en Mac.
 
-> **Respuesta rápida:** Las réplicas pueden emparejarse con un Mac como auriculares Bluetooth, pero las funciones dependen del modelo exacto y del software. Algunas versiones tienen un fallo de volumen que salta entre 0 % y 100 %. La guía recomienda modelos Huilian como **Pro 2 V5.4** para Mac; no garantiza el mismo volumen o comportamiento de iCloud en cada par, lote o versión de macOS.
+> **Respuesta rápida:** Sí, los AirPods falsos funcionan de forma fiable en Mac para reproducir audio, realizar videollamadas y controlar contenido multimedia. Sin embargo, los chipsets que no son Huilian (como los Airoha antiguos o Bluetrum) suelen sufrir un «fallo de volumen» en macOS, por el que el control de volumen salta bruscamente entre el 0 % y el 100 %. Si usas un Mac a diario, comprar una réplica basada en **Huilian (como los Pro 2 V5.4)** garantiza un ajuste de volumen nativo fluido y un cambio entre varios dispositivos mediante iCloud Connect que funciona correctamente.
 
 ::: tip ¿Usas un Mac? Elige el chipset con cuidado
 Si un MacBook o iMac es tu ordenador principal, no compres una copia genérica de un marketplace. La comunidad recomienda específicamente los **chipsets Huilian** para usuarios de macOS debido a su integración nativa con la tabla de volumen y a la estabilidad de la transferencia mediante iCloud.
@@ -36,14 +35,14 @@ macOS utiliza un protocolo de sincronización del volumen del hardware (`Absolut
 
 ### La solución
 1. **La solución de software**: La comunidad mantiene una solución de código abierto para el control de volumen que desacopla el volumen del software de las tablas de ganancia del hardware. Sigue nuestra [Guía paso a paso para solucionar el control de volumen de macOS](/es/troubleshooting/macOS-volume-slider-fixup) para ejecutar el parche en el terminal.
-2. **Elección de hardware**: Los **AirPods Pro 2 V5.4 Huilian** y **AirPods 4 V2 Huilian** son las recomendaciones para Mac. Comprueba el modelo y la revisión exactos; el volumen puede depender del firmware y de la versión de macOS.
+2. **La solución de hardware**: Si aún no has comprado unos, elige los **AirPods Pro 2 V5.4 Huilian** o los **AirPods 4 V2 Huilian**. Los modelos Huilian cuentan con pasos de volumen completamente mapeados que se comportan igual que los AirPods auténticos de Apple en macOS, sin necesidad de herramientas de terceros.
 
 ## Cambio entre varios dispositivos mediante iCloud en Mac
 
 Una de las mayores ventajas del hardware de Apple es poder escuchar música en un iPhone y hacer que el audio cambie automáticamente a un MacBook al ver un vídeo.
 
-- **Modelos Huilian (V5.4 / V6)**: La guía indica iCloud Connect para estas versiones Huilian. Comprueba modelo, firmware y software de Apple; no asumas el mismo cambio automático en todos los pares Huilian.
-- **Modelos Airoha/TigerBuilder**: El cambio de dispositivo y multipunto dependen de la versión. Consulta la página del modelo y selecciona los auriculares en el menú Bluetooth del Mac si hace falta conexión manual.
+- **En las réplicas Huilian (V5.4 / V6)**: Una vez enlazados con tu iPhone, los auriculares se sincronizan con tu ID de Apple mediante **iCloud Connect**. Cuando te sientas frente a tu Mac, aparecen automáticamente en el menú de sonido del Mac sin tener que volver a enlazarlos manualmente por Bluetooth.
+- **En las réplicas Airoha / TigerBuilder**: Aunque admiten conexiones multipunto, no se sincronizan mediante el token de iCloud de Apple. Para cambiar del teléfono al Mac, debes hacer clic en **Conectar** en el menú Bluetooth de tu Mac.
 
 ## Cómo optimizar la calidad del micrófono para Zoom y FaceTime
 
@@ -69,7 +68,7 @@ macOS no tiene una ventana emergente de conexión animada como iOS. Sin embargo,
 :::
 
 ::: details ¿Puedo usar las aplicaciones de firmware de la comunidad en un Mac?
-No como aplicaciones para Mac. Nuestro catálogo de [aplicaciones útiles](/es/useful-apps) no incluye versiones para macOS ni herramientas web. App Store permite instalar las versiones para iPhone de FlyCC y StarFun en Mac con Apple Silicon, pero las marca como no verificadas para macOS. Usa la aplicación para iPhone o Android indicada para tu modelo.
+Sí, existen ciertas herramientas (incluidos flasheadores basados en la web y versiones de FlyCC para macOS) para chipsets Airoha. Sin embargo, la gran mayoría de las aplicaciones de la comunidad funcionan de forma más fluida en un teléfono Android económico.
 :::
 
 ::: details ¿Funciona el audio espacial en un Mac con réplicas de AirPods?

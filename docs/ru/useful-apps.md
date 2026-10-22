@@ -8,8 +8,6 @@ description: 'Необходимые приложения для обновле�
 
 Ниже перечислены приложения, которые можно скачать для помощи, а также указаны версии и чипсеты реплик, которые они поддерживают. Если у вас возникают проблемы с установкой приложений не из Play Store, убедитесь, что в настройках включена опция «Установка из неизвестных источников» (в разделе Безопасность или Специальные возможности). Эти приложения также могут помочь настроить [качество звука](/ru/introduction/sound-quality) с помощью параметров эквалайзера. Для получения дополнительной информации о том, как использовать эти приложения и избегать проблем, посетите наш [Discord](https://airreps.link/discord).
 
-Совместимость и меры предосторожности описаны в [руководстве FlyCC](/ru/articles/flycc-app-guide) и [руководстве по обновлению прошивки](/ru/articles/how-to-update-fake-airpods-firmware).
-
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Скачать APK для FlyCC (Android)" target="_blank" rel="noreferrer">Скачать APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Скачать FlyCC (iOS) в App Store" target="_blank" rel="noreferrer">App Store</a></span> |
