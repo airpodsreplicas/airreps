@@ -1,6 +1,6 @@
 ---
 title: Les répliques d’AirPods fonctionnent-elles avec Android ?
-description: "Répliques d’AirPods sur Android : association, fonctions, applications selon le modèle et vérifications avant l’achat."
+description: 'Oui — voici comment les répliques d’AirPods se comportent sur Android : l’appairage, les fonctionnalités qui fonctionnent, pourquoi les meilleures applications de firmware sont uniquement disponibles sur Android et ce qu’il faut vérifier avant d’acheter.'
 category: Utiliser vos répliques
 order: 4
 ---
@@ -8,7 +8,7 @@ order: 4
 
 Oui. Les répliques d’AirPods s’associent à Android comme n’importe quels écouteurs Bluetooth — connexion, lecture de musique, appels, réglage du volume. Les fonctions propres à iOS sont celles liées aux logiciels Apple, et certaines disposent de solutions de contournement. Il y a même un domaine où les utilisateurs Android sont mieux lotis : les applications de firmware. Voici le tableau complet.
 
-> **Réponse rapide :** Oui, les répliques d’AirPods fonctionnent parfaitement sur Android comme des écouteurs Bluetooth standard et performants. La lecture, les appels téléphoniques, la détection intra-auriculaire et la réduction active du bruit (ANC) fonctionnent nativement si le modèle les prend en charge. Android propose un large choix d’applications ; FlyCC et StarFun existent aussi sur iPhone. L’égaliseur et les mises à jour dépendent du modèle exact, du firmware et de la version de l’application.
+> **Réponse rapide :** Oui, les répliques d’AirPods fonctionnent parfaitement sur Android comme des écouteurs Bluetooth standard et performants. La lecture, les appels téléphoniques, la détection intra-auriculaire et la réduction active du bruit (ANC) fonctionnent nativement. De plus, Android est le seul système d’exploitation compatible avec les applications communautaires d’accompagnement des chipsets (comme FlyCC et CloudCC), qui permettent d’utiliser un égaliseur paramétrique personnalisé et d’effectuer des mises à jour du firmware OTA.
 
 ## Association : pas de fenêtre contextuelle, même résultat
 
@@ -33,12 +33,12 @@ Aucune de ces limites n’affecte l’utilisation quotidienne sur Android ; il s
 
 ## L’avantage d’Android : les applications de firmware
 
-La plupart des applications du catalogue sont des APK Android. Sur les modèles compatibles, elles peuvent proposer un égaliseur ou des mises à jour du firmware ; FlyCC et StarFun existent aussi sur iPhone. La connexion à une application ne permet pas d’identifier de façon fiable la puce utilisée.
+Voici le point surprenant — **la plupart des applications de firmware de la communauté sont réservées à Android**. Ces applications mettent à jour le firmware de vos répliques (ce qui peut ajouter des fonctionnalités comme l’audio spatial ou améliorer la stabilité), ajustent l’égaliseur et permettent d’identifier le chipset utilisé par votre paire.
 
 Les principales — FlyCC, CloudCC, BullSuper, StarFun, KKX et bien d’autres — sont répertoriées avec des liens de téléchargement et des tableaux de compatibilité des chipsets sur notre page consacrée aux [applications utiles](/fr/useful-apps). Deux choses à savoir avant l’installation :
 
 1. Elles ne sont pas disponibles sur le Play Store. Activez d’abord **« Installer depuis des sources inconnues »** dans vos paramètres de sécurité.
-2. Choisissez l’application correspondant au modèle exact et au vendeur dans les [informations de version](/fr/version-info/general) et les [applications utiles](/fr/useful-apps). N’essayez pas un firmware destiné à un autre modèle pour identifier une puce.
+2. Faites correspondre l’application à votre chipset. Vous ne savez pas quel chipset vous possédez ? Les applications elles-mêmes servent de test : essayez-les une par une et vérifiez laquelle se connecte, ou consultez d’abord la page des [informations de version](/fr/version-info/general).
 
 ## Acheter des répliques lorsqu’on utilise Android
 
@@ -63,7 +63,7 @@ Pas directement — le changement de nom et les réglages des commandes tactiles
 :::
 
 ::: details Pourquoi ma réplique ne se connecte-t-elle pas aux applications de firmware ?
-Vérifiez le modèle exact, la version de l’application et les autorisations Bluetooth dans les [applications utiles](/fr/useful-apps). Un problème de compatibilité ou d’autorisation peut empêcher la détection ; un échec de connexion ne prouve ni la présence d’une puce précise ni une copie bas de gamme.
+Soit l’application ne correspond pas à votre chipset, soit vos répliques utilisent un chipset Jieli d’entrée de gamme pris en charge par aucune application communautaire. Essayez les applications de la page des [applications utiles](/fr/useful-apps) une par une — si aucune ne se connecte, vous avez une copie bas de gamme.
 :::
 
 ::: details Les répliques d’AirPods ont-elles un son moins bon sur Android ?

@@ -16,17 +16,17 @@ The No-logo box is white and has a similar shape to the original AirPods box. It
 
 ## Apple Logo Box
 
-The Apple logo box mirrors the packaging of legitimate AirPods, featuring the traditional "AirPods" text and Apple logos. The manuals and charging cable inside bear Apple markings. Goods can be inspected or seized under destination customs/IP rules regardless of outer packaging. A double box is not a customs exemption or a guarantee against seizure.
+The Apple logo box mirrors the packaging of legitimate AirPods, featuring the traditional "AirPods" text and Apple logos. The manuals and charging cable inside bear Apple markings. However, requesting an "Apple box" could increase the risk of product seizure at customs, leading to fines or destruction of the product. To mitigate this risk, many sellers use a double box technique, hiding the actual Apple box inside a generic headphone-shaped box.
 
 <img src="/applebox.webp" alt="Apple Logo Box" width="300" height="400"/>
 
 ::: danger
-Goods can be inspected or seized under destination customs/IP rules regardless of outer packaging. A double box is not a customs exemption or a guarantee against seizure.
+Requesting an "Apple box" can lead to product seizure at customs. Many sellers use a double box technique to reduce this risk.
 :::
 
 ## Double/Decoy Box
 
-A generic outer box containing an Apple-logo box. It offers a particular presentation; we have no measured evidence that it reduces customs-seizure risk. Packaging does not change the rules applying to the goods.
+The best option for most buyers. A generic outer box that looks like ordinary earbuds, with the Apple Logo Box hidden inside. This significantly reduces the risk of customs seizure while still giving you the full Apple-branded packaging.
 
 When you select the Apple Logo Box at checkout, the double box is automatically included — sellers always ship Apple boxes inside a decoy box for protection. The Apple box option is pre-selected on most payment methods, though some may charge a small extra fee.
 

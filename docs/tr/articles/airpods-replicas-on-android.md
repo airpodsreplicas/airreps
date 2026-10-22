@@ -1,6 +1,6 @@
 ---
 title: AirPods Replikaları Android ile Çalışır mı?
-description: "Android’de AirPods replikaları: eşleştirme, özellikler, modele özel yardımcı uygulamalar ve satın almadan önce kontroller."
+description: 'Evet — AirPods replikalarının Android''de nasıl çalıştığı: eşleştirme, hangi özelliklerin çalıştığı, en iyi ürün yazılımı uygulamalarının neden yalnızca Android''e özel olduğu ve satın almadan önce neleri kontrol etmeniz gerektiği.'
 category: Replikalarınızı kullanma
 order: 4
 ---
@@ -8,7 +8,7 @@ order: 4
 
 Evet. AirPods replikaları, tıpkı herhangi bir Bluetooth kulaklık gibi Android ile eşleşir — bağlanabilir, müzik çalabilir, arama yapabilir ve ses seviyesini ayarlayabilirsiniz. Deneyimin yalnızca iOS'a özgü kısımları Apple yazılımına bağlı olanlardır ve bunların birkaçının geçici çözümleri vardır. Hatta Android kullanıcılarının daha *iyi* imkânlara sahip olduğu bir alan bile var: ürün yazılımı uygulamaları. İşte tüm ayrıntılar.
 
-> **Kısa cevap:** Evet, AirPods replikaları Android'de standart, yüksek performanslı Bluetooth kulaklıklar olarak tamamen çalışır. Temel oynatma, telefon görüşmeleri, kulak içi algılama ve Aktif Gürültü Engelleme (ANC) model bunları destekliyorsa yerel olarak çalışır. Android geniş bir yardımcı uygulama seçeneği sunar; FlyCC ve StarFun’ın iPhone sürümleri de vardır. EQ ve güncellemeler tam modele, ürün yazılımına ve uygulama sürümüne bağlıdır.
+> **Kısa cevap:** Evet, AirPods replikaları Android'de standart, yüksek performanslı Bluetooth kulaklıklar olarak tamamen çalışır. Temel oynatma, telefon görüşmeleri, kulak içi algılama ve Aktif Gürültü Engelleme (ANC) yerel olarak çalışır. Ayrıca Android, topluluk tarafından geliştirilen yonga seti yardımcı uygulamalarını (FlyCC ve CloudCC gibi) özel parametrik EQ ve OTA ürün yazılımı güncellemeleri için destekleyen tek işletim sistemidir.
 
 ## Eşleştirme: açılır pencere yok, sonuç aynı
 
@@ -33,12 +33,12 @@ Bunların hiçbiri günlük Android kullanımını etkilemez; bunlar kurulum kol
 
 ## Android'in avantajı: ürün yazılımı uygulamaları
 
-Katalogdaki uygulamaların çoğu Android APK’larıdır. Desteklenen modellerde EQ veya ürün yazılımı güncellemeleri sunabilirler; FlyCC ve StarFun’ın iPhone sürümleri de vardır. Bir uygulamaya bağlanmak, kullanılan yongayı güvenilir biçimde belirlemez.
+İşin ilginç yanı şu — **topluluk tarafından geliştirilen ürün yazılımı uygulamalarının çoğu yalnızca Android'e özeldir**. Bu uygulamalar replikalarınızın ürün yazılımını günceller (Spatial Audio gibi özellikler ekleyebilir veya kararlılığı artırabilir), EQ ayarlarını yapar ve ilk etapta çiftinizin hangi yongayı kullandığını belirlemenizi sağlar.
 
 Başlıca uygulamalar — FlyCC, CloudCC, BullSuper, StarFun, KKX ve daha fazlası — indirme bağlantıları ve yonga seti destek tablolarıyla birlikte [kullanışlı uygulamalar](/tr/useful-apps) sayfamızda listelenmiştir. Yüklemeden önce bilmeniz gereken iki şey var:
 
 1. Bunlar Play Store'da bulunmaz. Önce güvenlik ayarlarınızdan **"Bilinmeyen kaynaklardan yükleme"** seçeneğini etkinleştirin.
-2. Tam modeliniz ve satıcınız için doğru uygulamayı [sürüm bilgileri](/tr/version-info/general) ve [kullanışlı uygulamalar](/tr/useful-apps) üzerinden bulun. Yongayı belirlemek için başka modellere ait ürün yazılımlarını denemeyin.
+2. Uygulamayı yonganızla eşleştirin. Hangi yongaya sahip olduğunuzdan emin değil misiniz? Uygulamaların kendisi test aracıdır — hangisinin bağlandığını görmek için uygulamaları teker teker deneyin veya önce [sürüm bilgileri](/tr/version-info/general) sayfasını okuyun.
 
 ## Android kullanıcısı olarak replika satın almak
 
@@ -63,7 +63,7 @@ Doğrudan değiştirilemez — yeniden adlandırma ve dokunmatik kontrol ayarlar
 :::
 
 ::: details Replikam neden ürün yazılımı uygulamalarına bağlanmıyor?
-[Kullanışlı uygulamalar](/tr/useful-apps) üzerinden tam modeli, uygulama sürümünü ve Bluetooth izinlerini kontrol edin. Uyumluluk veya izin sorunları algılamayı engelleyebilir; başarısız bağlantı belirli bir yongayı ya da düşük seviyeli bir klonu kanıtlamaz.
+Ya uygulama yonganızla uyumlu değildir ya da replikalarınız hiçbir topluluk uygulamasının desteklemediği düşük kaliteli bir Jieli yonga seti kullanıyordur. [Kullanışlı uygulamalar](/tr/useful-apps) sayfasındaki uygulamaları teker teker deneyin — hiçbiri bağlanmazsa düşük seviyeli bir klonunuz var demektir.
 :::
 
 ::: details AirPods replikaları Android'de daha mı kötü ses verir?

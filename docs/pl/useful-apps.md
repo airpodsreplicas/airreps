@@ -8,8 +8,6 @@ Aktualizacja firmware'u twoich repliki (reps) często może dodać nowe funkcje,
 
 Poniżej znajdują się aplikacje, które można pobrać, aby ci pomóc, wraz z informacją, jakie wersje i chipsety repów obsługują. Jeśli masz problemy z instalacją aplikacji spoza Sklepu Play, upewnij się, że w ustawieniach włączyłeś opcję 'Zezwalaj na instalowanie z nieznanych źródeł' (w sekcji Bezpieczeństwo lub Ułatwienia dostępu). Aplikacje te mogą także pomóc w dostosowaniu [jakości dźwięku](/pl/introduction/sound-quality) poprzez ustawienia EQ. Aby uzyskać więcej informacji o tym, jak korzystać z tych aplikacji i unikać problemów, odwiedź nasz [Discord](https://airreps.link/discord).
 
-Informacje o zgodności i środkach ostrożności znajdziesz w [poradniku FlyCC](/pl/articles/flycc-app-guide) i [poradniku aktualizacji firmware](/pl/articles/how-to-update-fake-airpods-firmware).
-
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Pobierz APK dla FlyCC (Android)" target="_blank" rel="noreferrer">Pobierz APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Pobierz FlyCC (iOS) z App Store" target="_blank" rel="noreferrer">App Store</a></span> |
