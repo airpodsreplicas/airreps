@@ -1,84 +1,84 @@
 ---
 title: Czy podróbki AirPods działają z nowymi iPhone’ami?
-description: 'Czy repliki AirPods działają z nowym iPhone’em? Tak — wyskakujące okienko iOS nadal działa, a to, co faktycznie się różni, wynika z wersji, którą kupisz, a nie z telefonu. Oto, co należy sprawdzić.'
+description: 'Czy repliki AirPods działają z nowym iPhone’em? Tak — wyskakujące okienko iOS nadal działa, a różnice zależą od wersji, którą kupisz, a nie od telefonu. Oto, na co zwrócić uwagę.'
 category: Korzystanie z replik
 order: 11
 ---
 # Czy podróbki AirPods działają z nowymi iPhone’ami?
 
-Krótka odpowiedź: tak. Kompatybilność repliki z nowym iPhone’em zależy znacznie bardziej od kupionej wersji niż od telefonu, który masz w kieszeni. Wszystkie telefony Apple korzystają z tego samego Bluetootha i tego samego języka wyskakujących okien, więc działająca para będzie działać również po zmianie telefonu. Różnice, na które użytkownicy faktycznie trafiają, wynikają z wersji — chipsetu, oprogramowania układowego i listy funkcji — a nie z różnic między telefonami.
+Krótka odpowiedź: tak. Zgodność podróbki z nowym iPhone’em zależy znacznie bardziej od zakupionej wersji niż od telefonu, który masz w kieszeni. Wszystkie telefony Apple obsługują ten sam Bluetooth i te same okna parowania, więc sprawny zestaw będzie działać także po zmianie telefonu. Różnice, na które faktycznie napotykają użytkownicy, wynikają z wersji — chipsetu, oprogramowania sprzętowego i zestawu funkcji — a nie z telefonu.
 
-> **Krótka odpowiedź:** Tak, repliki AirPods działają bezproblemowo z nowymi iPhone’ami i współczesnymi wersjami iOS. Wyskakujące okno parowania, widżet poziomu baterii, wykrywanie słuchawek w uszach i sterowanie przesuwaniem działają normalnie. iOS nigdy nie zablokuje ani nie wyłączy sprzętowych replik; najwyżej podczas pierwszego parowania może pojawić się komunikat „Niezweryfikowane AirPods”, który można pominąć jednym stuknięciem.
+> **Krótka odpowiedź:** Tak, repliki AirPods bezproblemowo działają z nowymi iPhone’ami i współczesnymi wersjami iOS. Okno parowania, widżet z poziomem baterii, wykrywanie słuchawek w uszach i sterowanie przesunięciami działają normalnie. iOS nigdy nie zablokuje ani nie wyłączy podzespołów repliki; co najwyżej przy pierwszym parowaniu może pojawić się komunikat „Niezweryfikowane AirPods”, który można zamknąć jednym stuknięciem.
 
-Poniżej znajdziesz proste wyjaśnienie tego, co zmienia się, a co się nie zmienia, gdy telefon jest nowy, a słuchawki są podróbkami.
+Oto proste wyjaśnienie, co się zmienia, a co pozostaje bez zmian, gdy telefon jest nowy, a słuchawki są podróbką.
 
-## Wyskakujące okno iOS nadal działa
+## Okno parowania iOS nadal działa
 
-Wyskakujące okno parowania to pierwsza rzecz, o którą martwi się wiele osób, ale jest ona najmniejszym z twoich problemów. Repliki wyświetlają je niemal natychmiast, a szybkość zależy raczej od sprzedawcy i partii niż od telefonu — w niektórych przypadkach pojawia się *szybciej* niż w oryginalnych AirPods. Nasze [uwagi dotyczące łączności](/pl/introduction/connectivity) wyjaśniają, jak to działa, w tym rzadkie przypadki, gdy nowa para nie łączy się za pierwszym razem i wymaga zresetowania.
+Okno parowania to pierwsza rzecz, o którą martwią się użytkownicy, a zarazem ich najmniejszy problem. Repliki wyświetlają je niemal natychmiast, a szybkość zależy od sprzedawcy i partii, nie od telefonu — w niektórych przypadkach pojawia się *szybciej* niż przy oryginalnych AirPods. W naszych [uwagach na temat łączności](/pl/introduction/connectivity) opisujemy, jak to działa, w tym rzadkie przypadki, gdy nowe słuchawki nie łączą się za pierwszym razem i trzeba je zresetować.
 
-Jeśli wyskakujące okno się pojawia, iOS traktuje słuchawki jak zestaw słuchawkowy. To ta część, za którą odpowiada telefon, i działa tak samo w najnowszym modelu jak w starszym.
+Jeśli pojawi się okno parowania, iOS traktuje słuchawki jak zestaw słuchawkowy. To część obsługiwana przez telefon, która działa tak samo na najnowszym modelu i na starszym.
 
-## Nazwę i sterowanie stuknięciami ustawia się przez iOS
+## Zmiana nazwy i sterowanie stuknięciami są konfigurowane przez iOS
 
-Zmiana nazwy, wyświetlanie lokalizacji GPS i konfigurowalne sterowanie stuknięciami to funkcje oprogramowania Apple — wszystkie działają na iPhonie. Każdy obecny model obsługuje zmianę nazwy, GPS i zmianę sterowania stuknięciami przez iOS. Dotyczy to całej oferty — wspólną listę znajdziesz w [ogólnych informacjach o wersjach](/pl/version-info/general).
+Zmiana nazwy, wyświetlanie lokalizacji GPS i konfigurowalne sterowanie stuknięciami to funkcje oprogramowania Apple — wszystkie działają na iPhonie. Każdy obecny model obsługuje zmianę nazwy, GPS i zmianę sterowania stuknięciami w iOS. Dotyczy to całej oferty — wspólną listę znajdziesz w [ogólnych informacjach o wersjach](/pl/version-info/general).
 
-W praktyce te ustawienia zostają zapisane w słuchawkach po ich skonfigurowaniu, więc zachowują się po późniejszym przeniesieniu pary na inne urządzenie. Na iPhonie nie trzeba robić nic specjalnego: połącz słuchawki, otwórz Ustawienia i zmień wybrane opcje.
+Warto pamiętać, że po skonfigurowaniu ustawienia są zapisywane w słuchawkach, więc pozostają z nimi po przeniesieniu zestawu na inne urządzenie. Na iPhonie nie trzeba robić niczego specjalnego: połącz słuchawki, otwórz Ustawienia i zmień to, co chcesz.
 
-## Co naprawdę się różni: wersja, a nie telefon
+## Co naprawdę się różni: wersja, nie telefon
 
-To tutaj pojawiają się prawdziwe pytania dotyczące kompatybilności. Trzy rzeczy faktycznie różnią się między wersjami i żadna z nich nie zależy od tego, jak nowy jest twój iPhone.
+Właśnie tu pojawiają się istotne pytania o zgodność. Trzy rzeczy rzeczywiście różnią się w zależności od wersji i żadna z nich nie zależy od tego, jak nowy jest Twój iPhone.
 
-- **iCloud Connect jest dostępne wyłącznie w modelach Huilian.** Automatyczne przełączanie między urządzeniami Apple działa tylko w modelach opartych na Huilian — na przykład AirPods Pro 2 V5.4, AirPods Pro 3 V6/V7 Huilian i AirPods 4 V2 Huilian. Inne chipsety łączą się jednocześnie z wieloma urządzeniami przez Bluetooth Multipoint, ale przełączanie odbywa się ręcznie. Wyjaśniamy to dokładnie na naszej [stronie dotyczącej łączności](/pl/introduction/connectivity).
-- **Tłumaczenie na żywo i nowszy zestaw funkcji są dostępne w obecnych wersjach Pro 3.** Na [stronie AirPods Pro 3](/pl/version-info/airpods-pro-3) wymieniono Tłumaczenie na żywo w wersji V6 (wyłącznie wariant Huilian), V7 i SE, a także takie funkcje jak obsługa iOS 27, strona „Informacje”, optyczny pomiar tętna i sterowanie gestami głowy w najlepszych wersjach. Starsze modele po prostu ich nie mają, niezależnie od telefonu.
-- **Starsze, budżetowe klony z chipsetami Jieli mogą w ogóle nie łączyć się z aplikacjami społeczności.** Zarówno [ogólne FAQ](/pl/version-info/general), jak i strona [przydatne aplikacje](/pl/useful-apps) mówią o tym wprost: jeśli żadna aplikacja do oprogramowania układowego nie wykrywa twojej pary, jest to klon z niższej półki. To ograniczenie chipsetu, a nie iPhone’a.
+- **iCloud Connect jest dostępny wyłącznie w modelach Huilian.** Automatyczne przełączanie między urządzeniami Apple działa tylko w modelach z układem Huilian — na przykład AirPods Pro 2 V5.4, AirPods Pro 3 V6/V7 Huilian i AirPods 4 V2 Huilian. Inne chipsety łączą się z kilkoma urządzeniami jednocześnie za pomocą Bluetooth Multipoint, ale trzeba przełączać się ręcznie. Opisujemy to szczegółowo na [stronie poświęconej łączności](/pl/introduction/connectivity).
+- **Tłumaczenie na żywo i nowszy zestaw funkcji są dostępne w obecnych wersjach Pro 3.** Na [stronie AirPods Pro 3](/pl/version-info/airpods-pro-3) wymieniono Tłumaczenie na żywo w wersji V6 (tylko wariant Huilian), V7 i SE, a także takie funkcje, jak obsługa iOS 27, strona Informacje, optyczny pomiar tętna i sterowanie gestami głowy w najlepszych wersjach. Starsze modele po prostu ich nie mają — niezależnie od telefonu.
+- **Starsze, tańsze klony z chipsetami Jieli mogą w ogóle nie łączyć się z aplikacjami społeczności.** Zarówno [ogólne FAQ](/pl/version-info/general), jak i strona [przydatne aplikacje](/pl/useful-apps) jasno o tym informują: jeśli żadna z aplikacji do obsługi oprogramowania sprzętowego nie wykrywa Twoich słuchawek, to klon z niższej półki. To ograniczenie chipsetu, a nie iPhone’a.
 
-Innymi słowy, jeśli w twoich replikach brakuje jakiejś funkcji, zmiana telefonu jej nie przywróci. Kupiona wersja wyznacza górną granicę możliwości.
+Innymi słowy, jeśli w Twoich replikach brakuje jakiejś funkcji, zmiana telefonu jej nie przywróci. Granicę wyznacza zakupiona wersja.
 
-## Dopasuj wersję do generacji iOS w swoim telefonie
+## Dopasuj wersję do generacji systemu iOS w telefonie
 
-Rozsądna zasada przy zakupie to wybrać wersję, której lista funkcji odpowiada używanej przez ciebie generacji iOS, a następnie potwierdzić to na stronie z informacjami o wersjach, zamiast ufać zapewnieniom sprzedawcy. Oferty opisują klony za pomocą niejasnych nazw i niewiarygodnych zdjęć chipsetów; numeracja społecznościowa istnieje właśnie dlatego, że te zapewnienia często się nie sprawdzają. Porównaj wersje na stronie [informacji o wersjach](/pl/version-info/general), poproś [quiz](/pl/quiz) o rekomendację i kup od [zaufanego sprzedawcy](/pl/links/info).
+Rozsądnie jest wybrać wersję, której lista funkcji odpowiada generacji iOS, z której faktycznie korzystasz, a następnie potwierdzić jej możliwości na stronie z informacjami o wersjach, zamiast ufać zapewnieniom sprzedawcy. W ofertach klony są opisywane za pomocą nieprecyzyjnych nazw i niewiarygodnych zdjęć chipsetów; numeracja stosowana przez społeczność powstała właśnie dlatego, że takie zapewnienia często się nie sprawdzają. Porównaj wersje na stronie [informacje o wersjach](/pl/version-info/general), skorzystaj z [quizu](/pl/quiz, aby uzyskać rekomendację, i kup u [zaufanego sprzedawcy](/pl/links/info).
 
-Jeśli używasz starszej wersji iOS, nie potrzebujesz najnowszej repliki — sprawdzony model poprzedniej generacji często ma więcej sensu niż wczesne wydanie z niedopracowanymi elementami. Dopasuj produkt do generacji oprogramowania telefonu, a nie do marketingu.
+Jeśli korzystasz ze starszej wersji iOS, nie potrzebujesz najnowszej repliki — model poprzedniej generacji zgodny z Twoją wersją iOS często ma więcej sensu niż płacenie za funkcje, których telefon jeszcze nie obsługuje. Dopasuj produkt do generacji oprogramowania w telefonie, a nie do zapewnień marketingowych.
 
 ## Czy aktualizacje iOS psują repliki?
 
-Zwykle nie — ale czasami się to zdarza i warto znać ten schemat. Zdecydowana większość wersji, które działały przed aktualizacją iOS, działa również po niej. Gdy coś przestaje działać, prawie zawsze chodzi o **duże** wydanie iOS, a nie aktualizację punktową, i problem dotyczy **starszych** wersji, których oprogramowanie układowe powstało przed daną zmianą. Wdrożenie iOS 27 jest najnowszym przykładem, z którym zetknęła się społeczność.
+Zazwyczaj nie — ale zdarza się to i warto znać ten schemat. Zdecydowana większość wersji, które działały przed aktualizacją iOS, działa również po niej. Jeśli coś przestaje działać, niemal zawsze dzieje się to po **dużej** aktualizacji iOS i dotyczy **starszych** wersji, których oprogramowanie sprzętowe powstało przed wprowadzeniem zmian. Najnowszym przykładem, na który natrafiła społeczność, była premiera iOS 27.
 
-Dobrą wiadomością jest to, jak szybko problem zostaje rozwiązany. Gdy duże wydanie iOS powoduje problemy z daną wersją, producent zazwyczaj dość szybko udostępnia aktualizację oprogramowania układowego, a jej zainstalowanie przywraca działanie repliki — jest to tymczasowa niekompatybilność, a nie całkowicie zepsuty produkt. Aktualizację przeprowadza się za pomocą społecznościowych [aplikacji do oprogramowania układowego](/pl/useful-apps), które są w większości dostępne wyłącznie na Androida, więc warto o tym wiedzieć przed zakupem, jeśli nie masz pod ręką urządzenia z Androidem. W najgorszym przypadku wersja, dla której nigdy nie pojawi się poprawka, będzie zwykle starszym lub tańszym modelem.
+Dobra wiadomość: problem zwykle szybko znika. Gdy duża aktualizacja iOS powoduje, że dana wersja przestaje działać, producent zazwyczaj dość szybko udostępnia aktualizację oprogramowania sprzętowego, a jej instalacja przywraca funkcjonalność repliki — to tymczasowy problem ze zgodnością, a nie produkt, który przestał działać na dobre. Aktualizacje wykonuje się za pomocą społecznościowych [aplikacji do obsługi oprogramowania sprzętowego](/pl/useful-apps), które w większości działają tylko na Androidzie. Warto o tym wiedzieć przed zakupem, jeśli nie masz urządzenia z Androidem. W najgorszym przypadku wersja, do której nigdy nie pojawi się poprawka, będzie zwykle starszym lub tańszym modelem.
 
-Dwie praktyczne wskazówki, zanim klikniesz „Uaktualnij” przy dużym wydaniu:
+Dwie praktyczne wskazówki, zanim stukniesz „Uaktualnij” przy dużej aktualizacji:
 
-- Najpierw sprawdź [Discord AirReps](https://airreps.link/discord) — to tam już pierwszego dnia pojawiają się informacje o problemach od osób korzystających jednocześnie z nowego oprogramowania układowego i nowego iOS.
-- To rzadkie zdarzenie i jest dobrym argumentem za pozostaniem przy aktualnej wersji zamiast dwuletniej, która może już nie otrzymywać aktualizacji oprogramowania układowego.
+- Najpierw sprawdź [Discord AirReps](https://airreps.link/discord) — to tam już pierwszego dnia pojawiają się zgłoszenia problemów od osób korzystających jednocześnie z nowego oprogramowania sprzętowego i nowego iOS.
+- Takie przypadki są rzadkie. To dobry argument za wyborem aktualnej wersji zamiast modelu sprzed dwóch lat, który może już nie otrzymywać aktualizacji oprogramowania sprzętowego.
 
-Nic z tego nie gwarantuje obsługi każdej przyszłej wersji iOS — sprawdzaj bieżące raporty dotyczące konkretnej używanej przez ciebie wersji.
+Nic z powyższego nie gwarantuje obsługi przyszłych wersji iOS — sprawdź aktualne zgłoszenia dotyczące konkretnej wersji.
 
-Powiązane poradniki i sprawdzanie kompatybilności:
-- Masz problemy z parowaniem z iPhonem? Przejdź przez poradnik [Podróbki AirPods nie chcą się połączyć](/pl/articles/fake-airpods-wont-connect).
-- Potrzebujesz zresetować lub ponownie zsynchronizować słuchawki? Skorzystaj z poradnika [Jak zresetować podróbki AirPods](/pl/articles/how-to-reset-fake-airpods).
-- Korzystasz również z urządzenia z Androidem? Przeczytaj [Repliki AirPods na Androidzie](/pl/articles/airpods-replicas-on-android).
-- Zastanawiasz się, czy ktoś w pobliżu może rozpoznać, że twoje AirPods są replikami? Zobacz [Czy inni mogą rozpoznać, że twoje AirPods są podróbkami?](/pl/articles/can-people-tell-airpods-are-fake).
+Powiązane poradniki i testy zgodności:
+- Masz problem z parowaniem z iPhonem? Skorzystaj z poradnika [Podróbki AirPods nie chcą się połączyć](/pl/articles/fake-airpods-wont-connect).
+- Chcesz zresetować słuchawki lub zsynchronizować je ponownie? Postępuj zgodnie z instrukcją [Jak zresetować podróbki AirPods](/pl/articles/how-to-reset-fake-airpods).
+- Korzystasz też z urządzenia z Androidem? Przeczytaj [Repliki AirPods na Androidzie](/pl/articles/airpods-replicas-on-android).
+- Zastanawiasz się, czy ktoś w pobliżu może rozpoznać, że masz podróbki AirPods? Zobacz [Czy inni poznają, że Twoje AirPods są podróbką?](/pl/articles/can-people-tell-airpods-are-fake).
 
-::: details Czy podróbki AirPods będą działać z iPhonem 16?
+::: details Czy podróbki AirPods będą działać z iPhone’em 16?
 
-Tak. Żaden element modelu telefonu nie blokuje działającej repliki. Wyskakujące okno parowania nadal się pojawi, a zmiana nazwy i sterowanie stuknięciami nadal będą działać przez iOS. Jeśli twoja para ma problem na nowym iPhonie, jego przyczyną niemal zawsze jest wersja lub oprogramowanie układowe, a nie telefon.
+Tak. Model telefonu nie blokuje sprawnej repliki. Okno parowania nadal się pojawia, a zmiana nazwy i sterowanie stuknięciami nadal działają przez iOS. Jeśli zestaw sprawia problemy na nowym iPhonie, ich przyczyną jest niemal zawsze wersja lub oprogramowanie sprzętowe, a nie telefon.
 
 :::
 
 ::: details Czy repliki AirPods działają z iOS 27?
 
-Wszystkie aktualne wersje rekomendowane w tym poradniku wymieniają obsługę iOS 27 — w tym serię Pro 3 (V5.5, V6, SE, V7) oraz linię Pro 2 V5.x. Starsze i tańsze klony z oprogramowaniem układowym, którego nie można zaktualizować, mają problemy podczas wydawania dużych wersji iOS. Sprawdź stronę [informacji o wersjach](/pl/version-info/general) dla swojej dokładnej wersji, zamiast zakładać, że będzie kompatybilna.
+Wszystkie aktualne wersje polecane w tym poradniku obsługują iOS 27 — w tym seria Pro 3 (V5.5, V6, SE, V7) oraz seria Pro 2 V5.x. Problemy z dużymi aktualizacjami iOS dotyczą starszych i tańszych klonów z oprogramowaniem sprzętowym, którego nie można zaktualizować. Sprawdź dokładną wersję na stronie [informacje o wersjach](/pl/version-info/general), zamiast zakładać, że jest zgodna.
 
 :::
 
-::: details Dlaczego moja replika nie łączy się z aplikacjami do oprogramowania układowego?
+::: details Dlaczego moja replika nie łączy się z aplikacjami do obsługi oprogramowania sprzętowego?
 
-Albo aplikacja nie pasuje do twojego chipsetu, albo twoja para korzysta z budżetowego chipsetu Jieli, którego nie obsługuje żadna aplikacja społecznościowa. Sprawdzaj po kolei aplikacje wymienione na stronie [przydatnych aplikacji](/pl/useful-apps) — jeśli żadna się nie połączy, jest to klon z niższej półki. Nie ma to nic wspólnego z twoim iPhonem.
+Albo aplikacja nie obsługuje Twojego chipsetu, albo słuchawki mają tani chipset Jieli, którego nie obsługuje żadna aplikacja społeczności. Przetestuj po kolei aplikacje wymienione na stronie [przydatne aplikacje](/pl/useful-apps) — jeśli żadna się nie połączy, masz klon z niższej półki. Nie ma to nic wspólnego z Twoim iPhonem.
 
 :::
 
 ::: details Czy nowa aktualizacja iOS zepsuje moje repliki?
 
-Czasami — ale zdarza się to rzadko i zwykle trwa krótko. Problemy pojawiają się zazwyczaj przy dużych wydaniach iOS i dotyczą starszych wersji, których oprogramowanie układowe powstało przed daną zmianą; wdrożenie iOS 27 było najnowszym takim przypadkiem. Producenci zwykle szybko udostępniają aktualizację oprogramowania układowego, a aktualizacja repliki przez [aplikacje do oprogramowania układowego](/pl/useful-apps) przywraca funkcje, które działały wcześniej. Przed dużą aktualizacją sprawdź [Discord](https://airreps.link/discord), jeśli chcesz wiedzieć, czy dotyczy ona twojej wersji.
+Czasami — ale zdarza się to rzadko i zwykle problem szybko znika. Problemy pojawiają się zazwyczaj po dużych aktualizacjach iOS i dotyczą starszych wersji z oprogramowaniem sprzętowym, które powstało przed zmianami; najnowszym takim przypadkiem była premiera iOS 27. Producenci zwykle szybko udostępniają aktualizację oprogramowania sprzętowego, a jej instalacja za pomocą [aplikacji do obsługi oprogramowania sprzętowego](/pl/useful-apps) przywraca wcześniejszą funkcjonalność repliki. Przed dużą aktualizacją sprawdź [Discorda](https://airreps.link/discord), jeśli chcesz wiedzieć, czy problem dotyczy Twojej wersji.
 
 :::

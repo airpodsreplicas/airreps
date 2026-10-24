@@ -1,84 +1,84 @@
 ---
 title: Virker falske AirPods med nye iPhones?
-description: 'Virker replika-AirPods med en ny iPhone? Ja — iOS-popuppen fungerer stadig, og det, der faktisk varierer, skyldes den version, du køber, ikke telefonen. Her er, hvad du skal tjekke.'
-category: Brug af dine reps
+description: 'Virker replika-AirPods med en ny iPhone? Ja — iOS-popup-vinduet fungerer stadig, og det, der faktisk varierer, afhænger af den version, du køber, ikke telefonen. Her er, hvad du skal tjekke.'
+category: Brug af dine replikaer
 order: 11
 ---
 # Virker falske AirPods med nye iPhones?
 
-Kort svar: ja. En replicas kompatibilitet med en ny iPhone har langt mere at gøre med den version, du købte, end med telefonen i din lomme. Apples telefoner bruger alle den samme Bluetooth og det samme popup-sprog, så et fungerende par bliver ved med at fungere, når du opgraderer. De forskelle, folk faktisk støder på, er forskelle mellem versioner — chipset, firmware og funktionsliste — ikke forskelle mellem telefoner.
+Kort svar: ja. En replika er kompatibel i langt højere grad på grund af den version, du har købt, end den telefon, du har i lommen. Alle Apples telefoner bruger samme Bluetooth og samme pop op-sprog, så et fungerende par bliver ved med at fungere, når du opgraderer. De forskelle, folk rent faktisk støder på, skyldes versionsforskelle — chipset, firmware og funktionsliste — ikke forskelle mellem telefoner.
 
-> **Kort svar:** Ja, replica-AirPods fungerer problemfrit med nye iPhones og moderne iOS-versioner. Parringens popup, widgetten med batteriprocent, registrering i øret og swipe-kontroller fungerer normalt. iOS vil aldrig blokere eller deaktivere replica-hardware permanent; højst kan prompten "Ubekræftede AirPods" vises ved den første parring, hvilket kan omgås med ét tryk.
+> **Kort svar:** Ja, replika-AirPods fungerer problemfrit med nye iPhones og moderne iOS-versioner. Parringens pop op-vindue, batteriprocent-widgetten, registrering i øret og swipe-kontroller fungerer normalt. iOS vil aldrig blokere eller deaktivere replika-hardware; højst kan der vises en besked om "ikke-verificerede AirPods" ved den første parring, som du kan afvise med ét tryk.
 
-Dette er den enkle version af, hvad der ændrer sig og ikke ændrer sig, når telefonen er ny, og øretelefonerne er falske.
+Her er den enkle forklaring på, hvad der ændrer sig, og hvad der ikke gør, når telefonen er ny, og øretelefonerne er falske.
 
-## iOS-popupvinduet fungerer stadig
+## Pop op-vinduet i iOS fungerer stadig
 
-Parringens popup er det første, folk bekymrer sig om, og det er det mindste af dine problemer. Replicaer viser den næsten øjeblikkeligt, og hastigheden afhænger af sælgeren og partiet snarere end telefonen — i nogle tilfælde vises den *hurtigere* end på ægte AirPods. Vores [forbindelsesnoter](/da/introduction/connectivity) gennemgår, hvordan det fungerer, inklusive det sjældne tilfælde, hvor et nyt par ikke opretter forbindelse ved første forsøg og skal nulstilles.
+Pop op-vinduet til parring er det første, folk bekymrer sig om, og det er det mindste af dine problemer. Replikaer viser det næsten med det samme, og hastigheden afhænger af sælgeren og partiet snarere end telefonen — i nogle tilfælde vises det *hurtigere* end med ægte AirPods. Vores [noter om tilslutning](/da/introduction/connectivity) beskriver, hvordan det fungerer, herunder det sjældne tilfælde, hvor et nyt par ikke vil oprette forbindelse i første forsøg og skal nulstilles.
 
-Hvis popupvinduet vises, behandler iOS øretelefonerne som et headset. Det er den del, telefonen håndterer, og det er det samme på den nyeste model som på en ældre.
+Hvis pop op-vinduet vises, behandler iOS øretelefonerne som et headset. Det er den del, telefonen håndterer, og det fungerer på samme måde på den nyeste model som på en ældre.
 
-## Navn og trykknapper indstilles gennem iOS
+## Navn og trykfunktioner konfigureres via iOS
 
-Ændring af navn, visning af GPS-placering og konfigurerbare trykknapper er alt sammen Apple-softwarefunktioner, og de fungerer alle på iPhone. Alle aktuelle modeller understøtter ændring af navn, GPS og ændring af trykknapper gennem iOS. Det gælder på tværs af serien — se [generelle versionsoplysninger](/da/version-info/general) for den fælles liste.
+Ændring af navn, visning af GPS-placering og konfigurerbare trykfunktioner er alt sammen softwarefunktioner fra Apple, og de fungerer alle på iPhone. Alle aktuelle modeller understøtter ændring af navn, GPS og ændring af trykfunktioner via iOS. Det gælder hele sortimentet — se [generelle versionsoplysninger](/da/version-info/general) for den fælles liste.
 
-Det praktiske her er, at disse indstillinger gemmes på øretelefonerne, når du har lavet dem, så de følger med, hvis du senere flytter parret til en anden enhed. På iPhone er der ikke noget særligt, du skal gøre: Opret forbindelse, åbn Indstillinger, og ændr det, du vil.
+I praksis er det værd at bemærke, at disse indstillinger gemmes på øretelefonerne, når du har indstillet dem, så de følger med, hvis du senere flytter parret til en anden enhed. På iPhone skal du ikke gøre noget særligt: Opret forbindelse, åbn Indstillinger, og foretag de ændringer, du ønsker.
 
 ## Det, der faktisk varierer: versionen, ikke telefonen
 
-Det er her, de egentlige kompatibilitetsspørgsmål ligger. Tre ting varierer reelt mellem versioner, og ingen af dem handler om, hvor ny din iPhone er.
+Her finder du de reelle spørgsmål om kompatibilitet. Tre ting varierer faktisk mellem versionerne, og ingen af dem handler om, hvor ny din iPhone er.
 
-- **iCloud Connect findes kun på Huilian.** Automatisk skift mellem Apple-enheder fungerer kun på Huilian-baserede modeller — for eksempel AirPods Pro 2 V5.4, AirPods Pro 3 V6/V7 Huilian og AirPods 4 V2 Huilian. Andre chipsets opretter samtidig forbindelse til flere enheder via Bluetooth Multipoint, men du skifter manuelt. Det forklarer vores [forbindelsesside](/da/introduction/connectivity).
-- **Live Translation og det nyere funktionssæt findes på de aktuelle Pro 3-versioner.** Siden om [AirPods Pro 3](/da/version-info/airpods-pro-3) angiver Live Translation på V6 (kun Huilian-varianten), V7 og SE sammen med funktioner som understøttelse af iOS 27, siden Om, optisk pulsmåling og hovedbevægelser på topversionerne. Ældre modeller har ganske enkelt ikke disse funktioner, uanset hvilken telefon du har.
-- **Ældre kopier i den lave ende med Jieli-chipsets kan muligvis slet ikke oprette forbindelse til community-apps.** Både den [generelle FAQ](/da/version-info/general) og siden med [nyttige apps](/da/useful-apps) er direkte om dette: Hvis ingen af firmware-appsene registrerer dit par, er det en kopi i den lave ende. Det er en chipsetbegrænsning, ikke et iPhone-problem.
+- **iCloud Connect findes kun på Huilian.** Automatisk skift mellem Apple-enheder fungerer kun på modeller baseret på Huilian — for eksempel AirPods Pro 2 V5.4, AirPods Pro 3 V6/V7 Huilian og AirPods 4 V2 Huilian. Andre chipsets kan oprette forbindelse til flere enheder på én gang via Bluetooth Multipoint, men du skal skifte manuelt. Vores [side om tilslutning](/da/introduction/connectivity) forklarer dette nærmere.
+- **Liveoversættelse og det nyere funktionssæt findes på de aktuelle Pro 3-versioner.** Siden om [AirPods Pro 3](/da/version-info/airpods-pro-3) viser Liveoversættelse på V6 (kun Huilian-varianten), V7 og SE sammen med funktioner som understøttelse af iOS 27, Om-siden, optisk pulsmåling og hovedbevægelser på de bedste versioner. Ældre modeller har ganske enkelt ikke disse funktioner, uanset hvilken telefon du har.
+- **Ældre kopier i den billige ende med Jieli-chipsets kan muligvis slet ikke oprette forbindelse til community-apps.** Både [den generelle FAQ](/da/version-info/general) og siden med [nyttige apps](/da/useful-apps) siger det direkte: Hvis ingen af firmware-appsene kan finde dit par, er det en kopi i den billige ende. Det er en begrænsning ved chipsettet, ikke ved iPhone.
 
-Med andre ord: Hvis en funktion mangler på dine replicaer, får en telefonopgradering den ikke tilbage. Den version, du købte, sætter grænsen.
+Med andre ord: Hvis dine replikaer mangler en funktion, får en telefonopgradering den ikke tilbage. Den version, du har købt, sætter grænsen.
 
-## Match versionen med din telefons iOS-generation
+## Tilpas versionen til din iPhones iOS-generation
 
-Den fornuftige købsregel er at vælge en version, hvis funktionsliste passer til den iOS-generation, du faktisk bruger, og derefter bekræfte det på versionsoplysningssiden i stedet for at stole på sælgerens påstand. Produktlister beskriver kopier med vage navne og upålidelige chipsetbilleder; community-nummereringen findes netop, fordi de påstande ikke holder. Sammenlign versioner på siden med [versionsoplysninger](/da/version-info/general), bed [quizzen](/da/quiz) om en anbefaling, og køb fra en [betroet sælger](/da/links/info).
+En fornuftig regel ved køb er at vælge en version, hvis funktionsliste passer til den iOS-generation, du faktisk bruger, og derefter kontrollere den på siden med versionsoplysninger i stedet for at stole på sælgerens påstand. Produktannoncer beskriver kopier med vage navne og upålidelige billeder af chips; community-nummereringen findes netop, fordi de påstande ikke holder. Sammenlign versionerne på siden med [versionsoplysninger](/da/version-info/general), bed [quizzen](/da/quiz) om en anbefaling, og køb hos en [betroet sælger](/da/links/info).
 
-Hvis du bruger en ældre version af iOS, behøver du ikke den nyeste replica for at matche den — en gennemprøvet model fra den forrige generation giver ofte mere mening end en tidlig udgivelse med ujævnheder. Match produktet med din telefons softwaregeneration, ikke med markedsføringen.
+Hvis du bruger en ældre version af iOS, behøver du ikke den nyeste replika for at passe til den — en model fra den foregående generation, der passer til din iOS-version, giver ofte mere mening end at betale for funktioner, som din telefon endnu ikke kan bruge. Tilpas produktet efter telefonens softwaregeneration, ikke efter markedsføringen.
 
-## Ødelægger iOS-opdateringer replicaer?
+## Ødelægger iOS-opdateringer replikaer?
 
-Som regel ikke — men det sker, og det er værd at kende mønsteret. Langt de fleste versioner, der fungerede før en iOS-opdatering, bliver ved med at fungere efter den. Når noget går i stykker, er det næsten altid en **større** iOS-udgivelse snarere end en mindre opdatering, og det rammer **ældre** versioner, hvis firmware er ældre end ændringen. Udrulningen af iOS 27 er det seneste eksempel, communityet er stødt på.
+Som regel ikke — men det sker, og det er værd at kende mønstret. Langt de fleste versioner, der virkede før en iOS-opdatering, bliver ved med at virke efter den. Når noget går i stykker, skyldes det næsten altid en **større** iOS-udgivelse snarere end en mindre opdatering, og det rammer **ældre** versioner med firmware, der kom før ændringen. Udrulningen af iOS 27 er det seneste eksempel, som communityet er stødt på.
 
-Den gode nyhed er, hvor hurtigt det bliver løst. Når en større iOS-udgivelse ødelægger en versions funktioner, følger producenten typisk hurtigt efter med en firmwareopdatering, og opdatering af replicaen gendanner funktionaliteten — det er en midlertidig inkompatibilitet, ikke et dødt produkt. Opdatering foregår via communityets [firmware-apps](/da/useful-apps), som for det meste kun findes til Android, så det er værd at vide, før du køber, hvis du ikke har en Android-enhed. I værste fald er en version, der aldrig får en rettelse, som regel en ældre model eller en model i den lave ende.
+Det gode er, at problemet løses hurtigt. Når en større iOS-udgivelse ødelægger en versions funktioner, følger producenten typisk op med en firmwareopdatering ret hurtigt, og en opdatering af replikaen genskaber funktionaliteten — det er en midlertidig inkompatibilitet, ikke et dødt produkt. Opdateringen foretages via communityets [firmware-apps](/da/useful-apps), som for det meste kun findes til Android, så det er værd at vide, inden du køber, hvis du ikke har en Android-enhed i forvejen. I værste fald er en version, der aldrig får en rettelse, som regel en ældre model eller en model i den billigere ende.
 
-To praktiske bemærkninger, før du trykker på "Opdater" ved en større udgivelse:
+To praktiske råd, inden du trykker på "Opdater" i forbindelse med en større udgivelse:
 
-- Tjek [AirReps Discord](https://airreps.link/discord) først — det er her, problemer bliver rapporteret på selve dagen af folk, der bruger ny firmware og ny iOS sammen.
-- Det sker sjældent, og det er et rimeligt argument for at holde sig til en aktuel version frem for en to år gammel version, som muligvis ikke længere modtager firmwareopdateringer.
+- Tjek [AirReps Discord](https://airreps.link/discord) først — det er dér, problemer bliver rapporteret allerede på udgivelsesdagen af folk, der bruger ny firmware og ny iOS sammen.
+- Det sker sjældent, og det er et godt argument for at vælge en aktuel version frem for en to år gammel model, der måske ikke længere får firmwareopdateringer.
 
-Intet her er en garanti for understøttelse af fremtidige iOS-udgivelser — tjek aktuelle rapporter for din specifikke version.
+Intet her er en garanti for understøttelse af fremtidige iOS-udgivelser — tjek de aktuelle meldinger for netop din version.
 
 Relaterede vejledninger og kompatibilitetstjek:
-- Har du problemer med at parre med din iPhone? Gå gennem [Falske AirPods opretter ikke forbindelse](/da/articles/fake-airpods-wont-connect).
+- Har du problemer med at parre med din iPhone? Følg vejledningen til [Falske AirPods vil ikke oprette forbindelse](/da/articles/fake-airpods-wont-connect).
 - Skal du nulstille eller synkronisere igen? Følg [Sådan nulstiller du falske AirPods](/da/articles/how-to-reset-fake-airpods).
-- Bruger du også en Android-enhed? Læs [Replica-AirPods på Android](/da/articles/airpods-replicas-on-android).
-- Spekulerer du på, om nogen i nærheden kan se, at dine AirPods er replicaer? Se [Kan folk se, at dine AirPods er falske?](/da/articles/can-people-tell-airpods-are-fake).
+- Bruger du også en Android-enhed? Læs [AirPods-replikaer på Android](/da/articles/airpods-replicas-on-android).
+- Spekulerer du på, om nogen i nærheden kan se, at dine AirPods er replikaer? Se [Kan folk se, at dine AirPods er falske?](/da/articles/can-people-tell-airpods-are-fake).
 
 ::: details Virker falske AirPods med en iPhone 16?
 
-Ja. Intet ved telefonmodellen blokerer for en fungerende replica. Parringens popup vises stadig, og navngivning og trykknapper fungerer stadig gennem iOS. Hvis dit par har et problem på en ny iPhone, skyldes det næsten altid versionen eller firmwaren, ikke telefonen.
+Ja. Intet ved telefonmodellen forhindrer en fungerende replika i at virke. Pop op-vinduet til parring vises stadig, og du kan stadig ændre navn og trykfunktioner via iOS. Hvis dit par har problemer med en ny iPhone, skyldes det næsten altid versionen eller firmwaren, ikke telefonen.
 
 :::
 
-::: details Virker replica-AirPods med iOS 27?
+::: details Virker AirPods-replikaer med iOS 27?
 
-Alle aktuelle versioner, der anbefales i denne vejledning, angiver understøttelse af iOS 27 — herunder Pro 3-serien (V5.5, V6, SE, V7) og Pro 2 V5.x-serien. Ældre kopier og kopier i den lave ende med firmware, der ikke kan opdateres, er dem, der får problemer, når større iOS-versioner udgives. Tjek siden med [versionsoplysninger](/da/version-info/general) for din præcise version i stedet for at gå ud fra, at den understøttes.
-
-:::
-
-::: details Hvorfor vil min replica ikke oprette forbindelse til firmware-appsene?
-
-Enten passer appen ikke til dit chipset, eller også bruger dit par et Jieli-chipset i den lave ende, som ingen community-app understøtter. Gå gennem appsene på siden med [nyttige apps](/da/useful-apps) én ad gangen — hvis ingen opretter forbindelse, er det en kopi i den lave ende. Det har intet at gøre med din iPhone.
+Alle aktuelle versioner, der anbefales i denne vejledning, angiver understøttelse af iOS 27 — herunder Pro 3-serien (V5.5, V6, SE, V7) og Pro 2 V5.x-serien. Det er ældre kopier og kopier i den billigere ende med firmware, der ikke kan opdateres, som får problemer, når større iOS-versioner udkommer. Tjek siden med [versionsoplysninger](/da/version-info/general) for netop din version i stedet for at gætte.
 
 :::
 
-::: details Vil en ny iOS-opdatering ødelægge mine replicaer?
+::: details Hvorfor kan min replika ikke oprette forbindelse til firmware-appsene?
 
-Af og til — men det er sjældent og normalt kortvarigt. Problemer opstår typisk med større iOS-udgivelser og rammer ældre versioner, hvis firmware er ældre end ændringen; udrulningen af iOS 27 var det seneste tilfælde. Producenter udsender normalt en firmwareopdatering kort efter, og opdatering af replicaen via [firmware-appsene](/da/useful-apps) gendanner den funktionalitet, den havde før. Tjek [Discord](https://airreps.link/discord) før en større opdatering, hvis du vil vide, om din version er berørt.
+Enten passer appen ikke til dit chipset, eller også bruger dit par et billigt Jieli-chipset, som ingen community-app understøtter. Prøv appsene på siden med [nyttige apps](/da/useful-apps) én ad gangen — hvis ingen kan oprette forbindelse, er det en kopi i den billigere ende. Det har intet med din iPhone at gøre.
+
+:::
+
+::: details Vil en ny iOS-opdatering ødelægge mine replikaer?
+
+Af og til — men det er sjældent og som regel kortvarigt. Problemer opstår typisk med større iOS-udgivelser og rammer ældre versioner med firmware, der kom før ændringen; udrulningen af iOS 27 var det seneste tilfælde. Producenterne udsender som regel en firmwareopdatering kort efter, og hvis du opdaterer replikaen via [firmware-appsene](/da/useful-apps), genskabes den tidligere funktionalitet. Tjek [Discord](https://airreps.link/discord), inden du installerer en større opdatering, hvis du vil vide, om din version er berørt.
 
 :::

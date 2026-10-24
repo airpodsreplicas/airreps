@@ -1,89 +1,89 @@
 ---
 title: As pessoas conseguem perceber que seus AirPods são falsos?
-description: 'Preocupado que alguém perceba que seus AirPods são réplicas? Veja o que realmente denuncia as cópias a um olhar atento, o que ninguém nota no dia a dia e como as melhores versões se saem.'
+description: 'Preocupado que alguém perceba que seus AirPods são réplicas? Veja o que realmente denuncia os clones quando alguém observa de perto, o que ninguém percebe no dia a dia e como as melhores versões se saem.'
 category: Falsos vs. originais
 order: 6
 ---
-# As pessoas conseguem perceber que seus AirPods são falsos?
+# Dá para perceber que seus AirPods são falsos?
 
-Resposta curta: uma pessoa experiente que os pegar e inspecionar consegue perceber. Quase todo mundo nunca vai perceber.
+Resposta curta: alguém que entende do assunto e pega seus AirPods para examiná-los consegue perceber. Quase todo mundo nunca vai notar.
 
-Esse é o artigo inteiro em duas frases, mas os detalhes importam — porque o *tipo* de pessoa que percebe é raro, e as situações em que isso acontece são específicas. Se você se sente constrangido por usar réplicas, este é o resumo honesto do que as denuncia e do que nunca surge na vida real.
+O artigo inteiro cabe nessas duas frases, mas os detalhes importam — porque é raro encontrar alguém que perceba, e as situações em que isso acontece são específicas. Se você fica com vergonha de usar réplicas, aqui está uma explicação honesta do que entrega que são falsas e do que nunca acontece na vida real.
 
-> **Resposta rápida:** na vida cotidiana normal, ninguém consegue perceber que você está usando AirPods falsos. A uma distância de 60–90 cm, réplicas modernas como os AirPods Pro 2 V5.4 ou Pro 3 correspondem às unidades genuínas em geometria dos fones, peso, comprimento das hastes e acabamento. A detecção exige que um especialista pegue fisicamente o estojo, inspecione a galvanoplastia fosca na dobradiça ou emparelhe o dispositivo para revelar a ausência da rede Apple Find My.
+> **Resposta rápida:** Na vida cotidiana, ninguém consegue perceber que você está usando AirPods falsos. A uma distância de 60–90 cm, réplicas modernas como os AirPods Pro 2 V5.4 ou Pro 3 são iguais aos originais em formato dos fones, peso, comprimento da haste e acabamento. Para identificá-las, é preciso que alguém experiente pegue o estojo, examine o revestimento fosco da dobradiça ou emparelhe o dispositivo para descobrir que não tem acesso à rede Buscar da Apple.
 
-## As verificações que realmente identificam uma réplica de perto
+## O que realmente denuncia numa inspeção de perto
 
-Se alguém perto de você leu nosso guia sobre [como identificar AirPods falsos](/pt/articles/how-to-spot-fake-airpods) e decidir examinar seus fones, estes são os indícios físicos que essa pessoa procuraria — os mesmos itens do [guia de QC e LC](/pt/ordering/qc-lc):
+Se alguém à sua volta leu nosso guia [como identificar AirPods falsos](/pt/articles/how-to-spot-fake-airpods) e decidir examinar seus fones, estes são os sinais físicos que essa pessoa vai verificar — os mesmos itens do [guia de QC e LC](/pt/ordering/qc-lc):
 
-- **Cor da dobradiça.** No estojo, o acabamento da dobradiça das réplicas pode ficar ligeiramente diferente da tonalidade de referência. É algo sutil, e você precisa ter o original ao lado para ter certeza — mas um olhar atento pode identificar a diferença.
-- **Nivelamento do botão.** Nos AirPods genuínos, o botão de emparelhamento fica nivelado com o estojo. Em algumas réplicas, ele fica ligeiramente elevado ou mais pronunciado. O [guia de qualidade de construção](/pt/introduction/build-quality) observa que os modelos atuais geralmente acertam nesse aspecto, mas os lotes variam.
-- **Encaixe do cabo.** Conecte o cabo de carregamento: nos AirPods genuínos, ele fica totalmente nivelado. Se ficar saliente, mesmo que só um pouco, isso denuncia uma réplica.
-- **Marcações regulatórias.** O pequeno texto regulatório dentro da parte superior do estojo é específico de cada região — FCC nos EUA, CE/WEEE na UE e assim por diante. Marcações incorretas ou ausentes são uma indicação clara.
+- **Cor da dobradiça.** O acabamento da dobradiça do estojo das réplicas pode ter uma tonalidade ligeiramente diferente da referência. A diferença é sutil, e você precisa ter o original ao lado para ter certeza — mas um olhar atento pode perceber a incompatibilidade.
+- **Botão nivelado.** Nos AirPods originais, o botão de emparelhamento fica nivelado com o estojo. Em algumas réplicas, ele fica um pouco saliente ou mais destacado. O [guia de qualidade de construção](/pt/introduction/build-quality) observa que os modelos atuais acertam esse detalhe na maioria das vezes, mas há variações entre lotes.
+- **Encaixe do cabo.** Conecte o cabo de carregamento: nos AirPods originais, ele fica totalmente nivelado. Se ficar um pouco para fora, é um sinal de que são réplicas.
+- **Marcas regulatórias.** O pequeno texto regulatório na parte interna da tampa do estojo varia conforme a região — FCC nos EUA, CE/WEEE na UE e assim por diante. Marcas incorretas ou ausentes entregam que são falsas.
 
-Nada disso é visível do outro lado de uma sala. Tudo exige que alguém segure seu estojo, observe de perto e saiba o que está procurando. Essa é a barreira: não é “é possível detectar?”, mas sim “alguém algum dia vai fazer essa inspeção?”.
+Nada disso dá para ver do outro lado de uma sala. Tudo exige que alguém segure seu estojo, olhe de perto e saiba o que está procurando. Esse é o ponto: não «dá para detectar?», mas «alguém vai mesmo fazer essa inspeção?».
 
-## Os indícios de software (que só você verá)
+## Os sinais no software (que só você vai ver)
 
-A outra categoria de indícios aparece quando os fones estão conectados a um iPhone — geralmente *ao seu* iPhone, não ao de um desconhecido:
+A outra categoria de sinais aparece quando os fones estão conectados a um iPhone — geralmente *ao seu* iPhone, não ao de um desconhecido:
 
-**O Find My está ausente.** Esse é o único recurso que nenhuma réplica possui. Todos os modelos, em qualquer faixa de preço, não têm a rede Find My da Apple — ela aparece como a lacuna universal na [tabela de informações das versões](/pt/version-info/general). Se alguém emparelhar seus AirPods ao próprio telefone e abrir o app Find My, a localização precisa simplesmente não estará disponível. Esse é o indício mais definitivo que existe, e também é o que você provavelmente notará ao perder um dos fones.
+**O Buscar não está disponível.** Esse é o único recurso que nenhuma réplica tem. Todos os modelos, em qualquer faixa de preço, não têm acesso à rede Buscar da Apple — essa é a lacuna universal indicada na [tabela de informações das versões](/pt/version-info/general). Se alguém emparelhar seus AirPods com o próprio telefone e abrir o app Buscar, o recurso de busca precisa simplesmente não estará disponível. Esse é o sinal mais definitivo que existe e também o mais provável de você notar quando perder um dos fones.
 
-**A página “Sobre”.** Os AirPods genuínos mostram uma seção dos AirPods em Ajustes → Geral → Sobre, com um número de série que corresponde ao que está dentro da tampa. Réplicas mais recentes conseguem imitar partes disso, então já não é mais uma distinção totalmente confiável — mas uma seção ausente ou incompatível ainda denuncia um par de categoria inferior.
+**A página Sobre.** Os AirPods originais mostram uma seção dos AirPods em Ajustes → Geral → Sobre, com um número de série que corresponde ao que está dentro da tampa. Réplicas mais novas conseguem imitar parte disso, então já não é um critério confiável para diferenciar um do outro — mas a ausência da seção ou uma divergência ainda entrega um par de categoria inferior.
 
-**Áudio Espacial e ANC.** A qualidade do rastreamento da cabeça varia conforme a versão. As [informações das versões](/pt/version-info/general) listam “Áudio Espacial perfeito” como uma lacuna conhecida no Pro 2 V5.4, e as versões inferiores têm ANC mais fraco e rastreamento da cabeça menos preciso. Coloque um par barato ao lado de um real e você ouvirá a diferença. Em uma conversa normal, não.
+**Áudio Espacial e ANC.** A qualidade do rastreamento de cabeça varia conforme a versão. O [guia das versões](/pt/version-info/general) aponta o «Áudio Espacial perfeito» como uma lacuna conhecida dos Pro 2 V5.4, e as versões inferiores têm ANC mais fraco e rastreamento de cabeça menos preciso. Se você colocar um par barato ao lado de um original, vai perceber a diferença no som. Numa conversa normal, não.
 
-**O pop-up do iOS não prova nada.** Se você está pensando “espere, meu par mostra o pop-up, então estou seguro” — a maioria das réplicas também mostra. O [guia de conectividade](/pt/introduction/connectivity) explica que o pop-up muitas vezes aparece tão rápido quanto, ou até mais rápido que, nos AirPods genuínos. Ninguém mais usa o pop-up como teste de autenticidade, e sua presença não diz nada a um observador.
+**O aviso do iOS não prova nada.** Se você está pensando «peraí, o meu par mostra o aviso, então estou tranquilo» — a maioria das réplicas também mostra. O [guia de conectividade](/pt/introduction/connectivity) explica que o aviso costuma aparecer tão rápido quanto, ou até mais rápido do que, nos AirPods originais. Ninguém usa mais esse aviso para verificar a autenticidade, e a presença dele não informa nada a quem observa.
 
-Observe o padrão: toda verificação de software exige que alguém tenha seus AirPods conectados a um telefone. No uso normal, essa pessoa não existe.
+Repare no padrão: todas as verificações de software exigem que alguém conecte seus AirPods a um telefone. No uso normal, essa pessoa não existe.
 
 ## O que as pessoas realmente percebem no dia a dia
 
-Esta é a parte que deve tranquilizar você. Na vida real, as pessoas veem seus AirPods por cerca de meio segundo de cada vez, nos seus ouvidos, à distância, enquanto você caminha ou conversa. Elas registram “fones brancos” e seguem em frente.
+Aqui está a parte que deve tranquilizar você. Na vida real, as pessoas veem seus AirPods por cerca de meio segundo de cada vez, nos seus ouvidos, de longe, enquanto você anda ou conversa. Elas registram «fones brancos» e seguem em frente.
 
-Pense no que seria necessário para alguém identificar uma réplica na vida real:
+Pense no que seria necessário para alguém identificar uma réplica por aí:
 
-- A pessoa teria que se importar o suficiente para observar seu estojo de perto.
-- Teria que conhecer os indícios específicos — cor da dobradiça, nivelamento do botão, encaixe do cabo.
-- Teria que chegar perto o bastante e ter tempo suficiente para fazer essas verificações.
-- Teria que ser o tipo de pessoa que faz isso com os pertences dos outros, o que é algo estranho de fazer.
+- A pessoa teria de se importar o bastante para olhar seu estojo de perto.
+- Teria de saber quais são os sinais específicos — cor da dobradiça, botão nivelado, encaixe do cabo.
+- Teria de chegar perto o bastante e ter tempo suficiente para fazer essas verificações.
+- Teria de ser o tipo de pessoa que faz isso com os pertences alheios, o que é um comportamento estranho.
 
-Essa combinação é extremamente rara. As pessoas mais propensas a perceber são as que compram réplicas, e elas não vão julgar você por isso. O segundo grupo mais provável são as pessoas envolvidas com a comunidade AirReps, e elas geralmente só perguntarão qual versão você comprou.
+Essa combinação é extremamente rara. Quem tem mais chance de perceber são as pessoas que também compram réplicas, e elas não vão julgar você por isso. O segundo grupo com mais chance é o de pessoas que acompanham a comunidade AirReps, e geralmente elas só vão perguntar qual versão você comprou.
 
-A ressalva honesta: se um amigo realmente inspecionar seus fones, pegá-los e conhecer as verificações, ele conseguirá perceber. Não existe réplica que resista a uma inspeção completa e minuciosa feita por alguém que sabe o que procurar. Isso é simplesmente verdade, e tudo bem — o mesmo vale para a maioria das réplicas de qualquer coisa.
+A ressalva honesta: se um amigo realmente examinar seus fones, pegá-los e souber o que verificar, vai perceber. Nenhuma réplica resiste a uma inspeção completa e minuciosa feita por alguém que sabe o que procurar. É isso mesmo, e tudo bem — o mesmo vale para a maioria das réplicas de qualquer produto.
 
-## Onde isso importa e quais versões resistem melhor
+## Em que situações isso importa e quais versões resistem melhor
 
-Existe uma situação do mundo real em que ser descoberto importa: revendê-los como genuínos. Esse é um problema diferente, com consequências diferentes, e é exatamente por isso que nosso [guia para identificar réplicas](/pt/articles/how-to-spot-fake-airpods) existe — para proteger compradores de produtos usados. Usar réplicas você mesmo não é fraude. Vender cópias como se fossem reais é. Mantenha essas duas coisas separadas.
+Existe uma situação real em que ser descoberto importa: revender as réplicas como se fossem originais. Esse é outro problema, com outras consequências, e é exatamente por isso que existe nosso [guia de identificação](/pt/articles/how-to-spot-fake-airpods) — para proteger quem compra produtos usados. Usar réplicas não é fraude. Vender cópias como se fossem originais é. Não confunda as duas coisas.
 
-Se você quer o par que melhor resiste a uma análise minuciosa, deve escolher as versões superiores. As principais escolhas atuais da comunidade são os **AirPods Pro 2 V5.4 Huilian** — descritos no guia de versões como a melhor opção geral, com as únicas lacunas reais sendo o Áudio Espacial perfeito e o Find My — e a **família AirPods Pro 3**, na qual a V6 é a opção mais comprovada e a V7 é a mais recente, com sensor de frequência cardíaca e ANC mais novo. Esses são os modelos com dobradiças melhores, detalhes de construção mais próximos e conjuntos de recursos mais completos.
+Se você quer o par que melhor resiste a uma inspeção, escolha as versões superiores. As principais recomendações atuais da comunidade são os **AirPods Pro 2 V5.4 Huilian** — descritos no guia das versões como a melhor opção geral, cuja única deficiência real é não oferecer Áudio Espacial perfeito nem Buscar — e a **família AirPods Pro 3**, em que o V7 é o mais novo, com sensor de frequência cardíaca, gestos de cabeça e ANC híbrido com IA, enquanto o V6 é a opção mais barata. São os modelos com dobradiças melhores, detalhes de construção mais fiéis e recursos mais completos.
 
-As versões inferiores são mais baratas por um motivo: têm mais diferenças visíveis nos detalhes e um encaixe e acabamento mais rudimentares. Ainda assim, não serão percebidas na vida cotidiana, mas são as que cedem mais rapidamente sob inspeção.
+As versões inferiores são mais baratas por um motivo: têm mais diferenças visíveis nos detalhes e acabamento e encaixe mais grosseiros. Ainda assim, ninguém vai percebê-las no dia a dia, mas são as que não resistem a uma inspeção minuciosa.
 
-## O resultado final
+## Em resumo
 
-Ninguém inspeciona seus fones. As verificações que identificam réplicas — cor da dobradiça, nivelamento do botão, encaixe do cabo, marcações e Find My — exigem contato próximo e conhecimento específico. As versões superiores, especialmente o Pro 2 V5.4 Huilian e a linha atual do Pro 3, são as que melhor resistem se você tende a se preocupar com isso. Compre de um [vendedor confiável](/pt/links/info) para saber exatamente qual versão está adquirindo e pare de se preocupar com a pessoa na mesa ao lado. Ela não se importa.
+Ninguém inspeciona seus fones. Os sinais que denunciam as réplicas — cor da dobradiça, botão nivelado, encaixe do cabo, marcas regulatórias, Buscar — exigem contato próximo e conhecimento específico. As versões superiores, especialmente os Pro 2 V5.4 Huilian e a linha atual Pro 3, resistem melhor à inspeção se você se preocupa com isso. Compre de um [vendedor confiável](/pt/links/info) para saber exatamente qual versão está levando e pare de se preocupar com a pessoa na mesa ao lado. Ela não se importa.
 
-Leitura adicional:
-- Precisa saber como verificar um par por conta própria? Veja [Como saber se os AirPods são falsos](/pt/articles/how-to-spot-fake-airpods).
-- Quer saber do que você abre mão em comparação com a Apple? Leia [AirPods réplicas vs. AirPods reais](/pt/articles/airpods-replicas-vs-real).
-- Considerando alternativas de marcas conhecidas? Confira [AirPods falsos vs. fones de ouvido econômicos](/pt/articles/fake-airpods-vs-budget-earbuds).
+Leia também:
+- Quer saber como verificar um par por conta própria? Veja [Como saber se os AirPods são falsos](/pt/articles/how-to-spot-fake-airpods).
+- Quer saber a que você abre mão em comparação com a Apple? Leia [AirPods réplicas vs. AirPods originais](/pt/articles/airpods-replicas-vs-real).
+- Está considerando alternativas de marcas conhecidas? Confira [AirPods falsos vs. fones de ouvido econômicos](/pt/articles/fake-airpods-vs-budget-earbuds).
 - Procurando as melhores opções econômicas? Veja [Melhores réplicas de AirPods por menos de US$ 50](/pt/articles/best-airpods-replicas-under-50).
 
 ## Perguntas frequentes
 
 ::: details As pessoas conseguem perceber que estou usando AirPods falsos só de olhar para mim?
-Não. A uma distância normal, tudo o que alguém vê são fones de ouvido. Os indícios físicos — cor da dobradiça, nivelamento do botão, alinhamento do cabo e marcações regulatórias — exigem que alguém segure seu estojo e conheça as verificações específicas do [guia de QC e LC](/pt/ordering/qc-lc). Isso essencialmente nunca acontece na vida cotidiana.
+Não. A uma distância normal, todo mundo só vê fones de ouvido. Os sinais físicos — cor da dobradiça, botão nivelado, alinhamento do cabo, marcas regulatórias — exigem que alguém segure seu estojo e conheça as verificações específicas do [guia de QC e LC](/pt/ordering/qc-lc). Isso praticamente nunca acontece no dia a dia.
 :::
 
-::: details Os AirPods falsos exibem o pop-up do iOS?
-A maioria das réplicas de versões superiores exibe, às vezes mais rapidamente que os AirPods genuínos. O pop-up não é um teste confiável de autenticidade em nenhuma das duas direções, portanto sua presença não torna mais nem menos provável que você seja descoberto.
+::: details AirPods falsos exibem o aviso do iOS?
+A maioria das réplicas de versões superiores exibe o aviso, às vezes até mais rápido do que os AirPods originais. O aviso não é um teste de autenticidade confiável em nenhuma das duas direções, então sua presença não aumenta nem diminui a chance de alguém perceber.
 :::
 
-::: details Qual é o indício mais óbvio de que os AirPods são falsos?
-A ausência da rede Find My. Todas as réplicas não a possuem, e esse é o único recurso que a comunidade ainda não conseguiu reproduzir. É algo definitivo se alguém emparelhar seus AirPods ao próprio telefone e verificar o app Find My — mas isso exige que a pessoa tenha seus AirPods conectados ao dispositivo, um cenário que quase nunca acontece.
+::: details Qual é o sinal mais óbvio de que os AirPods são falsos?
+A ausência de acesso à rede Buscar. Todas as réplicas não têm esse recurso, e é o único que a comunidade ainda não conseguiu reproduzir. É um sinal definitivo se alguém emparelhar seus AirPods com o próprio telefone e verificar o app Buscar — mas, para isso, essa pessoa teria de conectar seus AirPods ao próprio dispositivo, algo que quase nunca acontece.
 :::
 
-::: details Qual versão de réplica é mais difícil de distinguir da original?
-As versões superiores. O AirPods Pro 2 V5.4 Huilian é a melhor opção geral da comunidade, e a família atual dos AirPods Pro 3 (V6 e V7) tem os recursos mais recentes e os detalhes de construção mais próximos. Elas não resistirão a uma inspeção minuciosa completa feita por um especialista, mas são as que melhor suportam o uso cotidiano e olhares casuais. Veja a [comparação de versões](/pt/version-info/general) para uma análise completa.
+::: details Qual versão de réplica é mais difícil de diferenciar dos originais?
+As versões superiores. Os AirPods Pro 2 V5.4 Huilian são a melhor opção geral da comunidade, e a família atual AirPods Pro 3 (V6 e V7) tem os recursos mais recentes e os detalhes de construção mais fiéis. Não resistem a uma inspeção minuciosa feita por um especialista, mas são os que melhor aguentam o uso cotidiano e olhares distraídos. Consulte a [comparação de versões](/pt/version-info/general) para ver todos os detalhes.
 :::

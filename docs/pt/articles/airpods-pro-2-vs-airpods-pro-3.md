@@ -1,93 +1,93 @@
 ---
-title: 'Réplicas de AirPods Pro 2 vs AirPods Pro 3: Qual você deve comprar?'
-description: 'Réplicas de AirPods Pro 2 (V5.4 Huilian) vs AirPods Pro 3 (V7 & SE) comparadas — ANC maduro vs recursos experimentais, sensores de frequência cardíaca e recomendações.'
+title: 'Réplicas de AirPods Pro 2 vs AirPods Pro 3: qual você deve comprar?'
+description: 'Réplicas de AirPods Pro 2 (V5.4 Huilian) vs AirPods Pro 3 (V7 & SE) comparadas — o Pro 2 consolidado vs os recursos mais recentes do Pro 3, sensores de frequência cardíaca e recomendações.'
 category: Comparação
 order: 14
 ---
-# Réplicas dos AirPods Pro 2 vs AirPods Pro 3: qual você deve comprar?
+# Répliques des AirPods Pro 2 ou des AirPods Pro 3 : lesquelles acheter ?
 
-Com o lançamento das réplicas dos AirPods Pro 3 (especificamente o **V7 Huilian**, o **SE** e o **V6**), os compradores enfrentam uma decisão importante no meio do funil: você deve comprar o clone do recém-lançado Pro 3 ou continuar com a comprovada e altamente refinada **réplica dos AirPods Pro 2** (o V5.4 Huilian ou o V5.3 TB)?
+Avec la sortie des répliques des AirPods Pro 3 (notamment les modèles **V7 Huilian**, **SE** et **V6**), les acheteurs doivent prendre une décision importante à mi-parcours de leur réflexion : faut-il acheter la nouvelle réplique des Pro 3 ou s’en tenir à la réplique éprouvée et très aboutie des **AirPods Pro 2** (la V5.4 Huilian ou la V5.3 TB) ?
 
-Embora o entusiasmo do marketing sempre favoreça a geração mais recente, a fabricação de réplicas segue uma curva diferente. Os primeiros lotes de produção de novos formatos costumam apresentar bugs de software, enquanto os modelos maduros se beneficiam de anos de revisões de lotes. Veja abaixo a comparação honesta, lado a lado, baseada em testes diários da comunidade.
+Les deux familles sont de très bons choix. La gamme Pro 2 a bénéficié de plusieurs années de révisions, tandis que la gamme Pro 3 propose le format et les fonctionnalités les plus récents. Voici une comparaison honnête, basée sur les tests de la communauté.
 
-> **Resposta rápida:** para 90% dos compradores, a **réplica dos AirPods Pro 2 V5.4 Huilian** (~US$ 58) continua sendo a melhor compra para o uso diário: ela oferece Cancelamento Ativo de Ruído estável de ~38 dB, troca comprovada entre vários dispositivos via iCloud e firmware maduro. Compre a **réplica dos AirPods Pro 3** (como o SE por cerca de US$ 48 ou o V7 por cerca de US$ 68) apenas se você quiser especificamente o formato ergonômico revisado, quiser experimentar os primeiros sensores de frequência cardíaca ou priorizar a Tradução ao vivo em vez do refinamento bruto do hardware.
+> **Réponse rapide :** si vous voulez les fonctionnalités les plus récentes des Pro 3, avec iCloud Connect et la fenêtre contextuelle iOS, choisissez les **AirPods Pro 3 V7 Huilian** (~67 $) : le format des Pro 3, l’ANC hybride avec IA, un capteur optique de fréquence cardiaque, les gestes de la tête, la traduction en direct et un mode jeu à faible latence. Les **AirPods Pro 2 V5.4 Huilian** (~58 $) restent un excellent modèle polyvalent, avec une ANC stable d’environ 38 dB, l’audio adaptatif et le changement d’appareil via iCloud pour un prix légèrement inférieur. Enfin, les **Pro 3 SE**, exclusifs à Jenny (~48 $), sont le meilleur choix économique et offrent l’ANC la plus puissante.
 
-::: tip Maduro vs. de ponta
-O ecossistema de réplicas dos AirPods Pro 2 está no auge da maturidade. A nova família AirPods Pro 3 é empolgante, mas os primeiros lotes do V7, modelo topo de linha, apresentaram ocasionalmente chiado no ANC e comportamentos irregulares dos sensores. Leia a análise abaixo antes de decidir.
+::: tip Modèle éprouvé ou nouveautés
+L’écosystème des répliques des AirPods Pro 2 a atteint sa pleine maturité. La famille des AirPods Pro 3, menée par le modèle phare V7, propose le matériel le plus récent : détection de la fréquence cardiaque, gestes de la tête et traduction en direct. La comparaison ci-dessous vous aidera à choisir le modèle qui vous convient.
 :::
 
-## Principais especificações em resumo
+## Principales caractéristiques en un coup d’œil
 
-| Categoria | Réplica dos AirPods Pro 2 (V5.4 Huilian) | Réplica dos AirPods Pro 3 (V7 Huilian / SE) |
+| Catégorie | Réplique des AirPods Pro 2 (V5.4 Huilian) | Réplique des AirPods Pro 3 (V7 Huilian / SE) |
 | :--- | :--- | :--- |
-| **Preço típico** | ~US$ 50–58 | ~US$ 38–45 (V6) / ~US$ 48 (SE) / ~US$ 68–75 (V7) |
-| **Chipset principal** | Huilian 377 / Airoha 1571AM | Huilian 377H3 (V7) / XiaoBai (SE) |
-| **Cancelamento ativo de ruído** | Estável, ~35–38 dB (até 41 dB de pico no V5.3 TB) | ANC híbrido com IA no V7; alto isolamento no SE |
-| **Troca entre vários dispositivos** | iCloud Connect completo (entre dispositivos Apple) | Apenas Huilian V6/V7; o SE não tem troca via iCloud |
-| **Hardware especial** | Sensores padrão de toque/pressão | Sensor de frequência cardíaca (V7 e SE) e aceno com a cabeça (V7) |
-| **Autonomia dos fones** | ~6–8 horas | ~7 horas (células de 45 mAh) |
-| **Porta do estojo de carregamento** | USB-C | USB-C |
+| **Prix habituel** | ~50–58 $ | ~38–45 $ (V6) / ~48 $ (SE) / ~68–75 $ (V7) |
+| **Jeu de puces principal** | Huilian 377 / Airoha 1571AM | Huilian 377H3 (V7) / XiaoBai (SE) |
+| **Réduction active du bruit** | Stable, ~35–38 dB (jusqu’à 41 dB en pointe sur la V5.3 TB) | ANC hybride avec IA sur la V7 ; isolation élevée sur la SE |
+| **Changement entre plusieurs appareils** | Connexion iCloud complète (entre appareils Apple) | Uniquement sur les Huilian V6/V7 ; la SE ne permet pas le changement via iCloud |
+| **Matériel spécifique** | Capteurs tactiles/à pression classiques | Capteur de fréquence cardiaque (V7 et SE) et hochement de tête (V7) |
+| **Autonomie des écouteurs** | ~6–8 heures | ~7 heures (cellules de 45 mAh) |
+| **Port du boîtier de charge** | USB-C | USB-C |
 
-## 1. Cancelamento ativo de ruído e Transparência
+## 1. Réduction active du bruit et mode Transparence
 
-O cancelamento de ruído é onde a diferença de maturidade aparece com mais clareza:
+Les deux familles offrent une réduction du bruit performante :
 
-- **AirPods Pro 2 (V5.4 e V5.3 TB)**: esses modelos representam o limite acústico do hardware de réplicas. Medições sonoras laboratoriais da comunidade colocam o Pro 2 V5.3 TB em uma redução média de 34,5 dB (chegando a 41 dB nas frequências mais baixas), proporcionando um silêncio próximo ao dos modelos originais no transporte público. O V5.4 Huilian oferece transições ligeiramente mais suaves no modo Transparência, sem nenhum ruído estático de fundo.
-- **AirPods Pro 3 (V7 e SE)**: o Pro 3 SE é a agradável surpresa da linha, oferecendo um isolamento passivo impactante e um ANC potente a um preço acessível. No entanto, os primeiros lotes do V7, modelo topo de linha, apresentam um algoritmo de “ANC híbrido com IA” que, segundo alguns membros da comunidade, introduz um leve chiado de fundo em ambientes silenciosos. Se a redução de ruído impecável for sua principal exigência, o Pro 2 continua sendo a opção mais segura atualmente.
+- **AirPods Pro 2 (V5.4 et V5.3 TB)** : ces modèles représentent le meilleur niveau acoustique atteint par les répliques. Selon les mesures sonores effectuées en laboratoire par la communauté, les Pro 2 V5.3 TB réduisent le bruit de 34,5 dB en moyenne, avec un pic de 41 dB dans les basses fréquences, offrant un silence presque comparable à celui du modèle d’origine dans les transports en commun. La V5.4 Huilian propose des transitions légèrement plus fluides vers le mode Transparence, sans aucun bruit statique de fond.
+- **AirPods Pro 3 (V7 et SE)** : la Pro 3 SE est la bonne surprise de la gamme : elle offre une isolation passive efficace et une ANC puissante à un prix accessible. Le modèle phare V7 utilise une ANC hybride avec IA à double flux, évaluée à environ 38–42 dB sur la [page de la version](/pt/version-info/airpods-pro-3), et sa fabrication Huilian s’accompagne d’iCloud Connect.
 
-## 2. Recursos exclusivos do Pro 3: truque ou utilidade?
+## 2. Fonctionnalités exclusives des Pro 3 : gadgets ou outils utiles ?
 
-Os clones do Pro 3 introduzem vários novos recursos de hardware:
+Les répliques des Pro 3 introduisent plusieurs nouvelles fonctionnalités matérielles :
 
-- **Sensor de frequência cardíaca**: presente no V7 e no SE. No SE, o sensor é impreciso (registra valores 15–20 bpm acima ou abaixo) e deve ser visto apenas como uma curiosidade casual. No V7, as leituras respondem melhor graças ao sensor óptico, mas ainda ficam atrás de rastreadores de atividade dedicados.
-- **Controles por gestos da cabeça**: o V7 permite acenar com a cabeça para aceitar chamadas recebidas ou balançá-la para recusá-las. Na prática, isso funciona surpreendentemente bem.
-- **Tradução ao vivo**: presente no Pro 3 V7, no V6 Huilian e no SE. Eles acionam pop-ups de tradução do iOS ou o encaminhamento de áudio pelo aplicativo complementar, oferecendo acesso rápido à tradução de áudio de conversas.
+- **Capteur de fréquence cardiaque** : présent sur les V7 et SE. Sur la SE, le capteur manque de précision (il affiche un écart de 15 à 20 bpm) et doit être considéré comme une simple curiosité. Sur la V7, les mesures sont plus réactives grâce au capteur optique, mais restent moins précises que celles des traqueurs d’activité dédiés.
+- **Commandes par gestes de la tête** : la V7 permet d’accepter les appels entrants en hochant la tête et de les refuser en la secouant. En pratique, cette fonctionnalité fonctionne étonnamment bien.
+- **Traduction en direct** : présente sur les Pro 3 V7, les V6 Huilian et la SE. Ces modèles déclenchent les fenêtres contextuelles de traduction d’iOS ou transmettent le son via l’application compagnon, pour accéder rapidement à la traduction audio des conversations.
 
-## 3. Ecossistema Apple e iCloud Connect
+## 3. Écosystème Apple et iCloud Connect
 
-Se você usa vários dispositivos Apple (como um iPhone junto com um MacBook ou iPad), a troca entre dispositivos é essencial:
+Si vous utilisez plusieurs appareils Apple, comme un iPhone avec un MacBook ou un iPad, le changement d’appareil est essentiel :
 
-- O **AirPods Pro 2 V5.4 Huilian** conta com o confiável **iCloud Connect**: abrir o estojo em um iPhone registra os fones na sua conta do iCloud, permitindo uma troca manual tranquila no Mac ou iPad sem precisar emparelhá-los novamente.
-- O **AirPods Pro 3 SE** não tem sincronização nativa com o iCloud; você precisa desconectar e reconectar manualmente pelas configurações de Bluetooth ao alternar entre um iPhone e um laptop. Se a troca integrada for importante, você deve escolher o Pro 2 V5.4 ou o Pro 3 V6/V7 Huilian.
+- Les **AirPods Pro 2 V5.4 Huilian** offrent une **connexion iCloud** fiable : lorsque vous ouvrez le boîtier près d’un iPhone, les écouteurs sont enregistrés sur votre compte iCloud, ce qui permet de passer facilement à votre Mac ou iPad sans devoir les jumeler à nouveau.
+- Les **AirPods Pro 3 SE** ne disposent d’aucune synchronisation iCloud native. Vous devez déconnecter puis reconnecter manuellement les écouteurs dans les réglages Bluetooth lorsque vous passez d’un iPhone à un ordinateur portable. Si vous tenez à un changement d’appareil fluide, vous devez choisir les Pro 2 V5.4 ou les Pro 3 V6/V7 Huilian.
 
-Para obter mais detalhes sobre compatibilidade e configuração no Mac, consulte nosso guia dedicado sobre [AirPods falsos no Mac](/pt/articles/fake-airpods-on-mac).
+Pour en savoir plus sur la compatibilité avec Mac et la configuration, consultez notre guide dédié aux [faux AirPods sur Mac](/pt/articles/fake-airpods-on-mac).
 
-## 4. Qualidade de construção e ergonomia
+## 4. Qualité de fabrication et ergonomie
 
-Ambas as famílias usam plástico ABS de alta qualidade, com dobradiças da tampa em liga de zinco ponderada e encaixes limpos nas junções. 
+Les deux familles utilisent du plastique ABS de haute qualité, des charnières de couvercle lestées en alliage de zinc et des ajustements de joint précis.
 
-A principal diferença está no contorno físico dos fones: o Pro 3 apresenta um bocal acústico sutilmente mais fino e um ângulo revisado, projetado para se encaixar mais profundamente no canal auditivo. Se as ponteiras padrão dos AirPods Pro causam fadiga nos seus ouvidos durante sessões longas de audição, o formato do Pro 3 pode proporcionar uma vedação mais natural.
+La principale différence concerne la forme des écouteurs : les Pro 3 possèdent une canule acoustique légèrement plus fine et un angle repensé pour mieux s’insérer dans le conduit auditif. Si les embouts classiques des AirPods Pro fatiguent vos oreilles lors des longues sessions d’écoute, la coque des Pro 3 pourrait offrir un ajustement plus naturel.
 
-## Quem deve comprar qual modelo?
+## Qui devrait acheter quel modèle ?
 
-### Compre a réplica dos AirPods Pro 2 (V5.4) se:
-- Você quer a réplica mais confiável e exaustivamente testada do mercado.
-- ANC impecável e sem chiado, além de um modo Transparência natural, são suas prioridades.
-- Você alterna frequentemente entre um iPhone, iPad e MacBook.
-- Você quer o melhor equilíbrio entre preço (~US$ 55) e ausência de bugs iniciais.
+### Choisissez la réplique des AirPods Pro 2 (V5.4) si :
+- Vous voulez la réplique la plus fiable et la plus éprouvée du marché.
+- L’audio adaptatif et un mode Transparence fluide et naturel sont vos priorités.
+- Vous passez souvent d’un iPhone à un iPad ou à un MacBook.
+- Vous recherchez le meilleur équilibre entre prix (~55 $) et maturité.
 
-### Compre a réplica dos AirPods Pro 3 (V7 / SE) se:
-- Você quer a estética mais recente da Apple e a geometria revisada dos fones.
-- Você quer o SE acessível (~US$ 40) para usar na academia ou em viagens, quando os recursos avançados do ecossistema não são importantes.
-- Você é um entusiasta de tecnologia curioso para testar os acenos com a cabeça e os primeiros sensores biométricos.
+### Choisissez la réplique des AirPods Pro 3 (V7 / SE) si :
+- Vous voulez le style Apple le plus récent et une forme d’écouteur repensée.
+- Vous voulez la SE abordable (~40 $) pour la salle de sport ou les voyages, où les fonctionnalités avancées de l’écosystème ne sont pas essentielles.
+- Vous voulez les fonctionnalités les plus récentes : suivi de la fréquence cardiaque, prise d’appel par gestes de la tête, détection des conversations et traduction en direct. La V7 Huilian conserve également iCloud Connect.
 
-## Leituras relacionadas
+## Articles connexes
 
-- Procurando opções abaixo de US$ 50? Confira [Melhores réplicas de AirPods por menos de US$ 50](/pt/articles/best-airpods-replicas-under-50).
-- Quer saber como os dois modelos se comparam aos AirPods originais da Apple? Leia [AirPods réplica vs AirPods originais](/pt/articles/airpods-replicas-vs-real).
-- Interessado em opções over-ear? Leia nosso [Guia de clones dos AirPods Max](/pt/articles/airpods-max-dupe).
-- Pronto para fazer o pedido? Visite o [Diretório de vendedores confiáveis](/pt/links/info) para consultar o estoque atual.
+- Vous cherchez des options à moins de 50 $ ? Consultez [Les meilleures répliques d’AirPods à moins de 50 $](/pt/articles/best-airpods-replicas-under-50).
+- Vous voulez savoir comment ces deux modèles se comparent aux AirPods d’origine ? Lisez [Répliques d’AirPods ou vrais AirPods](/pt/articles/airpods-replicas-vs-real).
+- Vous préférez des modèles circum-auriculaires ? Consultez notre [guide des répliques d’AirPods Max](/pt/articles/airpods-max-dupe).
+- Prêt à commander ? Consultez le [répertoire des vendeurs de confiance](/pt/links/info) pour connaître les stocks disponibles.
 
-## Perguntas frequentes
+## FAQ
 
-::: details A réplica dos AirPods Pro 3 é melhor que a dos Pro 2?
-Não em todos os aspectos. Embora o Pro 3 introduza recursos mais recentes, como sensores de frequência cardíaca e controles por gestos da cabeça, o AirPods Pro 2 V5.4 continua mais maduro, com ajuste de ANC mais limpo, estabilidade comprovada do firmware e suporte superior à integração de vários dispositivos pelo iCloud.
+::: details La réplique des AirPods Pro 3 est-elle meilleure que celle des Pro 2 ?
+Côté fonctionnalités, oui. Les Pro 3 V7 Huilian ajoutent un capteur optique de fréquence cardiaque, la traduction en direct et un mode jeu à faible latence, en plus d’iCloud Connect. Les AirPods Pro 2 V5.4 sont le modèle le plus éprouvé et proposent l’audio adaptatif à un prix inférieur.
 :::
 
-::: details O sensor de frequência cardíaca realmente funciona nas réplicas do Pro 3?
-Ele funciona no V7 Huilian, mas a precisão é inconsistente em comparação com um Apple Watch ou uma cinta peitoral. No modelo SE mais barato, a leitura do sensor é essencialmente decorativa. Não compre nenhum dos dois modelos principalmente para monitoramento de saúde.
+::: details Le capteur de fréquence cardiaque fonctionne-t-il vraiment sur les répliques des Pro 3 ?
+Oui sur les V7 Huilian : lors de nos tests, leur capteur optique affiche des mesures bien plus proches de la réalité que celui de la SE, même si une Apple Watch ou une ceinture cardio reste plus précise pour l’entraînement. Sur le modèle SE, moins cher, les mesures du capteur sont essentiellement décoratives.
 :::
 
-::: details Qual é a melhor réplica dos AirPods Pro 2 atualmente?
-A principal escolha da comunidade é o **AirPods Pro 2 V5.4 Huilian** pelo conjunto geral de recursos e pela integração com o ecossistema Apple, ou o **V5.3 TB (Airoha 1571AM)** para obter o máximo de Cancelamento Ativo de Ruído bruto.
+::: details Quelle est la meilleure réplique des AirPods Pro 2 actuellement ?
+Selon la communauté, le meilleur choix général est la **V5.4 Huilian des AirPods Pro 2**, pour ses fonctionnalités et son intégration à l’écosystème Apple, ou la **V5.3 TB (Airoha 1571AM)** pour une réduction active du bruit maximale.
 :::
