@@ -3,7 +3,7 @@ title: Jak Bezpiecznie Kupować Repliki AirPods
 description: 'Bezpiecznie zamów repliki AirPods. Metody płatności, zaufani sprzedawcy, wskazówki dotyczące wysyłki i unikanie oszustw.'
 faq:
   - q: Jakie metody płatności akceptują zaufani sprzedawcy?
-    a: 'Zaufani sprzedawcy akceptują karty kredytowe, Alipay, Revolut, Wise, przelewy bankowe i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów takich jak KakoBuy. PayPal jest obsługiwany przez Earhive i HiCity, a agent KakoBuy również go akceptuje.'
+    a: 'Zaufani sprzedawcy akceptują karty kredytowe, Alipay, Revolut, Wise i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów takich jak KakoBuy. PayPal jest obsługiwany przez Earhive i HiCity, a agent KakoBuy również go akceptuje.'
   - q: Dlaczego jestem przekierowywany na stronę kryptowalutową przy płatności kartą kredytową?
     a: 'Zaufani sprzedawcy używają bezpiecznej bramki płatności kryptowalutowych do obsługi płatności kartą kredytową. Twoja karta kupuje kryptowaluty, które finalizują zamówienie. Aby uniknąć KYC, użyj KakoBuy — agenta, który akceptuje zwykłe karty kredytowe bez weryfikacji tożsamości.'
 ---
@@ -15,14 +15,14 @@ Szukasz replik AirPods? Ten przewodnik obejmuje bezpieczne źródła, metody pł
 
 ## Jak kupować
 
-Zalecamy zawsze kupować od [zaufanych sprzedawców](/pl/links/info). Większość sprzedawców ma własne strony internetowe, które akceptują różne metody płatności, w tym [Karta kredytowa](#credit-card-note), [Alipay](#paying-with-alipay), Revolut, Wise, Bitcoin oraz przelew bankowy. Wszyscy sprzedawcy mają także sklepy Weidian dostępne przez agentów takich jak [KakoBuy](https://airreps.link/kakobuy) — zobacz nasz [przewodnik KakoBuy](/pl/ordering/kakobuy) po pełnym przebiegu zamówienia.
+Zalecamy zawsze kupować od [zaufanych sprzedawców](/pl/links/info). Większość sprzedawców ma własne strony internetowe, które akceptują różne metody płatności, w tym [Karta kredytowa](#credit-card-note), [Alipay](#paying-with-alipay), Revolut, Wise oraz Bitcoin. Wszyscy sprzedawcy mają także sklepy Weidian dostępne przez agentów takich jak [KakoBuy](https://airreps.link/kakobuy) — zobacz nasz [przewodnik KakoBuy](/pl/ordering/kakobuy) po pełnym przebiegu zamówienia.
 
 Społeczność AirReps poleca korzystanie z wielu sprzedawców, aby uniknąć monopolu i zachęcać do konkurencji, co przynosi korzyści użytkownikom. Każdy sprzedawca oferuje unikalne usługi, kontrolę jakości (QC), platformy i ceny.
 
 Zamawianie jest proste: wybierz produkt, który chcesz i sfinalizuj zakup. Nie wiesz, który model wybrać? Zrób nasz [krótki quiz](/pl/quiz) lub porównaj wersje w sekcji [informacje o wersjach](/pl/version-info/general).
 
-::: tip Czas weryfikacji Wise i przelewu
-Płatności przez Wise lub przelew bankowy wymagają ręcznej weryfikacji przez sprzedawcę, co może potrwać do 24 godzin, zanim Twoje zamówienie zostanie przetworzone.
+::: tip Czas weryfikacji Wise
+Płatności przez Wise wymagają ręcznej weryfikacji przez sprzedawcę, co może potrwać do 24 godzin, zanim Twoje zamówienie zostanie przetworzone.
 :::
 
 <span id="paying-with-alipay"></span>
@@ -40,7 +40,7 @@ Wielu zaufanych sprzedawców akceptuje teraz Alipay, co umożliwia łatwe płatn
 ## Najczęściej zadawane pytania
 
 ::: details Jakie metody płatności akceptują zaufani sprzedawcy?
-Zaufani sprzedawcy akceptują wiele metod płatności, w tym karty kredytowe, Alipay, Revolut, Wise, przelew bankowy i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów takich jak [KakoBuy](https://airreps.link/kakobuy) — sprawdź nasz [krok po kroku przewodnik KakoBuy](/pl/ordering/kakobuy). PayPal jest obsługiwany przez Earhive i HiCity, a agent [KakoBuy](https://airreps.link/kakobuy) również go akceptuje. Opcje płatności mogą się różnić w zależności od sprzedawcy — zobacz [tabela metod płatności](/pl/links/info#payment-methods) dla szczegółowego rozkładu.
+Zaufani sprzedawcy akceptują wiele metod płatności, w tym karty kredytowe, Alipay, Revolut, Wise i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów takich jak [KakoBuy](https://airreps.link/kakobuy) — sprawdź nasz [krok po kroku przewodnik KakoBuy](/pl/ordering/kakobuy). PayPal jest obsługiwany przez Earhive i HiCity, a agent [KakoBuy](https://airreps.link/kakobuy) również go akceptuje. Opcje płatności mogą się różnić w zależności od sprzedawcy — zobacz [tabela metod płatności](/pl/links/info#payment-methods) dla szczegółowego rozkładu.
 :::
 <span id="credit-card-note"></span>
 ::: details Dlaczego jestem przekierowywany na stronę z kryptowalutami podczas płatności kartą kredytową?

@@ -3,7 +3,7 @@ title: "How to Buy AirPods Replicas Safely"
 description: Securely order AirPods replicas. Payment methods, trusted sellers, shipping tips, and avoiding scams.
 faq:
   - q: "What payment methods do trusted sellers accept?"
-    a: "Trusted sellers accept Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is supported by Earhive and HiCity, and the KakoBuy agent also accepts it."
+    a: "Trusted sellers accept Credit Cards, Alipay, Revolut, Wise, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is supported by Earhive and HiCity, and the KakoBuy agent also accepts it."
   - q: "Why am I redirected to a crypto website when paying via Credit Card?"
     a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. To avoid KYC, use KakoBuy — an agent that accepts regular credit cards without identity checks."
 ---
@@ -16,14 +16,14 @@ Looking to buy AirPods replicas? This guide covers safe sourcing, payment method
 
 ## How to Buy
 
-We recommend always purchasing from [trusted sellers](/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [Alipay](#paying-with-alipay), Revolut, Wise, Bitcoin, and Bank Transfer. All sellers also have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — see our [KakoBuy guide](/ordering/kakobuy) for a full walkthrough.
+We recommend always purchasing from [trusted sellers](/links/info). Most sellers have their own websites that accept various payment methods including [Credit Card](#credit-card-note), [Alipay](#paying-with-alipay), Revolut, Wise, and Bitcoin. All sellers also have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — see our [KakoBuy guide](/ordering/kakobuy) for a full walkthrough.
 
 The AirReps community recommends multiple sellers to avoid a monopoly and encourage competition, which benefits users. Each seller offers unique services, quality control (QC), platforms, and pricing.
 
 Ordering is simple: choose the product you want and check out. Not sure which model? Take our [quick quiz](/quiz) or compare versions in the [version info](/version-info/general) section.
 
-::: tip Wise & bank transfer review time
-Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours before your order is processed.
+::: tip Wise review time
+Payments via Wise require manual review by the seller, which can take up to 24 hours before your order is processed.
 :::
 
 ## Paying with Alipay
@@ -39,7 +39,7 @@ Many trusted sellers now accept Alipay, allowing easy card payments without KYC 
 ## FAQ
 
 ::: details What payment methods do trusted sellers accept?
-Trusted sellers accept multiple payment methods including Credit Cards, Alipay, Revolut, Wise, Bank Transfer, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). PayPal is supported by Earhive and HiCity, and the [KakoBuy](https://airreps.link/kakobuy) agent also accepts it. Payment options may vary by seller — see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
+Trusted sellers accept multiple payment methods including Credit Cards, Alipay, Revolut, Wise, and Bitcoin. All sellers have Weidian storefronts accessible through agents like [KakoBuy](https://airreps.link/kakobuy) — check out our [step-by-step KakoBuy guide](/ordering/kakobuy). PayPal is supported by Earhive and HiCity, and the [KakoBuy](https://airreps.link/kakobuy) agent also accepts it. Payment options may vary by seller — see the [payment methods table](/links/info#payment-methods) for a detailed breakdown.
 :::
 <span id="credit-card-note"></span>
 ::: details Why am I redirected to a crypto website when paying via Credit Card?

@@ -66,7 +66,7 @@ Alle vertrauenswürdigen Verkäufer akzeptieren mehrere Zahlungsmethoden:
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Kryptowährung** | ✅ | ✅ | ✅ |
-| **Banküberweisung** | ❌ | ❌ | ✅ |
+| **Banküberweisung** | ❌ | ❌ | ❌ |
 | **Weidian (über einen Agenten)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -84,8 +84,8 @@ Die OnlyPay-Methoden von HiCity hängen vom Rechnungsland ab: Trustly (AT, DK, E
 Wenn du Probleme beim Bezahlen oder beim Abschließen der Bestellung auf den Websites der Verkäufer hast, empfehlen wir [KakoBuy](https://airreps.link/kakobuy). KakoBuy unterstützt gängige Zahlungsmethoden wie PayPal und Kredit-/Debitkarten, die bei etwa 90 % der Kunden funktionieren, und ist insgesamt ein guter Agent. Siehe unseren [KakoBuy-Leitfaden](/de/ordering/kakobuy).
 :::
 
-::: tip Prüfzeit bei Wise & Überweisung
-Zahlungen über Wise oder per Banküberweisung erfordern eine manuelle Prüfung durch den Verkäufer. Die Bearbeitung kann bis zu 24 Stunden dauern.
+::: tip Prüfzeit bei Wise
+Zahlungen über Wise erfordern eine manuelle Prüfung durch den Verkäufer. Die Bearbeitung kann bis zu 24 Stunden dauern.
 
 Für Weidian-Bestellungen musst du einen Agenten verwenden. Wir empfehlen [KakoBuy](https://airreps.link/kakobuy), das Kreditkarten und mehrere Zahlungsmethoden akzeptiert – in unserem [KakoBuy-Leitfaden](/de/ordering/kakobuy) findest du eine schrittweise Anleitung.
 :::

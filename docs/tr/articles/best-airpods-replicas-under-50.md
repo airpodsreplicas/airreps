@@ -54,7 +54,7 @@ Hiçbir replika fiyatı ne olursa olsun Apple'ın **Find My ağına** sahip değ
 50 doların altındaki pazar, en şüpheli ilanların da bulunduğu yer. Güvenli yol şöyle:
 
 1. [Sürüm karşılaştırma](/tr/version-info/general) sayfasını kullanarak sürümünüzü seçin veya [anketi](/tr/quiz) yanıtlayıp sizin için seçim yapmasını sağlayın.
-2. Yalnızca [güvenilir bir satıcıdan](/tr/links/info) satın alın — üçü de dünya çapında gönderim yapıyor ve kart, Revolut, Wise, banka havalesi ve kripto para kabul ediyor. Bütçeniz kısıtlıysa [KakoBuy](/tr/ordering/kakobuy) da KYC kontrolü gerektirmeyen bir aracı olarak iş görür.
+2. Yalnızca [güvenilir bir satıcıdan](/tr/links/info) satın alın — üçü de dünya çapında gönderim yapıyor ve kart, Revolut, Wise ve kripto para kabul ediyor. Bütçeniz kısıtlıysa [KakoBuy](/tr/ordering/kakobuy) da KYC kontrolü gerektirmeyen bir aracı olarak iş görür.
 3. Ödeme ve gönderim ayrıntıları için [sipariş verme kılavuzunu](/tr/ordering/how-to-buy) izleyin — güvenilir satıcılar AB KDV'sini önceden halleder, böylece gümrükte sürpriz ücretlerle karşılaşmazsınız.
 
 "İnanılmaz ucuz" fiyatlı rastgele pazar yeri ilanları, insanları en düşük kalite klonlarla baş başa bırakıyor. Doğrulanmış bir satıcıdaki aynı ürün birkaç dolar daha pahalıdır ve ilanda belirtilen sürümün aynısıdır.

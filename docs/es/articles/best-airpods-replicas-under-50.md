@@ -54,7 +54,7 @@ Ninguna réplica, a ningún precio, cuenta con la **red Find My** de Apple, así
 El mercado de menos de $50 también es donde abundan los anuncios más sospechosos. La forma segura de comprar es:
 
 1. Elige tu versión en la página de [comparación de versiones](/es/version-info/general), o responde el [cuestionario](/es/quiz) y deja que elija por ti.
-2. Compra únicamente a un [vendedor de confianza](/es/links/info): los tres hacen envíos a todo el mundo y aceptan tarjetas, Revolut, Wise, transferencias bancarias y criptomonedas. Si tienes un presupuesto ajustado, [KakoBuy](/es/ordering/kakobuy) también sirve como agente y no requiere comprobaciones KYC.
+2. Compra únicamente a un [vendedor de confianza](/es/links/info): los tres hacen envíos a todo el mundo y aceptan tarjetas, Revolut, Wise y criptomonedas. Si tienes un presupuesto ajustado, [KakoBuy](/es/ordering/kakobuy) también sirve como agente y no requiere comprobaciones KYC.
 3. Sigue la [guía de pedido](/es/ordering/how-to-buy) para consultar los detalles de pago y envío. Los vendedores de confianza gestionan por adelantado el IVA de la UE, así que no habrá cargos aduaneros inesperados.
 
 Los anuncios aleatorios en plataformas de compraventa con precios «demasiado buenos» son la razón por la que la gente acaba con clones de la categoría más baja. El mismo producto de un vendedor verificado cuesta un par de dólares más y es realmente la versión anunciada.

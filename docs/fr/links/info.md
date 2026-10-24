@@ -66,7 +66,7 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / cryptomonnaies** | ✅ | ✅ | ✅ |
-| **Virement bancaire** | ❌ | ❌ | ✅ |
+| **Virement bancaire** | ❌ | ❌ | ❌ |
 | **Weidian (par l’intermédiaire d’un agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -84,8 +84,8 @@ Les modes de paiement OnlyPay de HiCity dépendent du pays de facturation : Trus
 Si vous avez des difficultés pour payer ou finaliser votre commande sur les sites des vendeurs, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Il prend en charge les modes de paiement classiques comme PayPal et les cartes de crédit/débit, qui fonctionnent pour environ 90 % des clients, et c’est globalement un bon agent. Consultez notre [guide KakoBuy](/fr/ordering/kakobuy).
 :::
 
-::: tip Délai de validation Wise et virement
-Les paiements via Wise ou par virement bancaire nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu’à 24 heures.
+::: tip Délai de validation Wise
+Les paiements via Wise nécessitent une vérification manuelle par le vendeur, ce qui peut prendre jusqu’à 24 heures.
 
 Pour les commandes Weidian, vous devrez utiliser un agent. Nous recommandons [KakoBuy](https://airreps.link/kakobuy), qui accepte les cartes de crédit ainsi que plusieurs modes de paiement — consultez notre [guide KakoBuy](/fr/ordering/kakobuy) pour découvrir la procédure détaillée.
 :::
