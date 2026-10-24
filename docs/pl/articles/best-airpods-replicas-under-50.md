@@ -54,7 +54,7 @@ Zwykle kosztują kilka dolarów powyżej 50 USD, ale społeczność uważa Pro 2
 To właśnie na rynku modeli poniżej 50 USD można znaleźć najwięcej podejrzanych ofert. Bezpieczny sposób postępowania:
 
 1. Wybierz wersję na stronie [porównania wersji](/pl/version-info/general) lub rozwiąż [quiz](/pl/quiz), który zrobi to za Ciebie.
-2. Kupuj wyłącznie u [zaufanego sprzedawcy](/pl/links/info) — cała trójka wysyła zamówienia na cały świat i akceptuje karty, Revolut, Wise, przelew bankowy oraz kryptowaluty. Przy ograniczonym budżecie możesz też skorzystać z [KakoBuy](/pl/ordering/kakobuy) jako pośrednika bez weryfikacji KYC.
+2. Kupuj wyłącznie u [zaufanego sprzedawcy](/pl/links/info) — cała trójka wysyła zamówienia na cały świat i akceptuje karty, Revolut, Wise oraz kryptowaluty. Przy ograniczonym budżecie możesz też skorzystać z [KakoBuy](/pl/ordering/kakobuy) jako pośrednika bez weryfikacji KYC.
 3. Skorzystaj z [przewodnika po zamawianiu](/pl/ordering/how-to-buy), aby poznać szczegóły płatności i wysyłki — zaufani sprzedawcy z góry naliczają unijny VAT, więc nie zaskoczą Cię dodatkowe opłaty celne.
 
 Przypadkowe oferty na platformach handlowych w „zbyt dobrych” cenach często kończą się zakupem klonów najniższej klasy. Ten sam produkt od sprawdzonego sprzedawcy kosztuje kilka dolarów więcej i faktycznie jest reklamowaną wersją.

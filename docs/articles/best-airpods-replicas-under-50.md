@@ -55,7 +55,7 @@ No replica at any price has Apple's **Find My network**, so don't expect to trac
 The under-$50 market is also where the sketchiest listings live. The safe route:
 
 1. Pick your version using the [version comparison](/version-info/general) page, or take the [quiz](/quiz) and let it pick for you.
-2. Buy only from a [trusted seller](/links/info) — all three ship worldwide and take cards, Revolut, Wise, bank transfer, and crypto. On a tight budget, [KakoBuy](/ordering/kakobuy) also works as an agent with no KYC checks.
+2. Buy only from a [trusted seller](/links/info) — all three ship worldwide and take cards, Revolut, Wise, and crypto. On a tight budget, [KakoBuy](/ordering/kakobuy) also works as an agent with no KYC checks.
 3. Follow the [ordering guide](/ordering/how-to-buy) for payment and shipping details — trusted sellers handle EU VAT upfront, so no surprise customs fees.
 
 Random marketplace listings at "too good" prices are how people end up with the lowest-tier clones. The same product from a verified seller costs a couple of dollars more and is actually the version advertised.

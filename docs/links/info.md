@@ -67,7 +67,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
-| **Bank Transfer** | ❌ | ❌ | ✅ |
+| **Bank Transfer** | ❌ | ❌ | ❌ |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -85,8 +85,8 @@ HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI,
 If you have trouble paying or checking out on the sellers' websites, we recommend [KakoBuy](https://airreps.link/kakobuy). It supports normal payment methods like PayPal and credit/debit cards that work for about 90% of customers, and it's a good agent overall. See our [KakoBuy guide](/ordering/kakobuy).
 :::
 
-::: tip Wise & bank transfer review time
-Payments via Wise or Bank Transfer require manual review by the seller, which can take up to 24 hours to process.
+::: tip Wise review time
+Payments via Wise require manual review by the seller, which can take up to 24 hours to process.
 
 For Weidian orders, you'll need to use an agent. We recommend [KakoBuy](https://airreps.link/kakobuy), which accepts Credit Cards and multiple payment methods — see our [KakoBuy guide](/ordering/kakobuy) for a step-by-step walkthrough.
 :::

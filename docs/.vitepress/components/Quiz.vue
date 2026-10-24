@@ -1081,7 +1081,6 @@ const sellers = {
             'Wise',
             'Cash App',
             'Bitcoin/Crypto',
-            'Bank Transfer',
         ],
     },
     jenny: {
@@ -1096,7 +1095,6 @@ const sellers = {
             'Wise',
             'Cash App',
             'Bitcoin/Crypto',
-            'Bank Transfer',
         ],
     },
     hicity: {
@@ -1110,7 +1108,6 @@ const sellers = {
             'Wise',
             'Cash App',
             'Bitcoin/Crypto',
-            'Bank Transfer',
             'Trustly',
             'PIX',
             'Boleto',
