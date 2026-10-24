@@ -229,7 +229,6 @@ FAQ:
 V7 | Chip: Airoha 1571AM (TigerBuilder) / Huilian 377H3
 Has: USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup (not on the TigerBuilder V7), iOS 26 Support, Live Translation (Huilian only), iCloud Connect (Huilian only), Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode
 Missing: Find My Network
-Note: Early release — some first batches have reported ANC hissing and other rough edges; check recent V7 threads before buying.
 Note: Pro 3 V7 (TigerBuilder version only): currently no iOS popup and no serial number — the seller tried to add them in an update, but it did not work; a future update may add them. The Huilian V7 is not affected. The TigerBuilder is the newest and best V7 build; it uses the FlyCC app and multipoint for 3 devices. The Huilian build is the runner-up; it uses the Starfun app and iCloud Connect.
 Reviews: https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1
 
@@ -769,16 +768,17 @@ Open-Fit (AirPods 4 style):
 In-Ear (AirPods Pro style):
 
 For Mac users:
-- Most features: AirPods Pro 2 V5.4 Huilian ($58) -- iCloud Connect, adaptive audio, conversation awareness, OTA updates
-- Best value: AirPods Pro 3 V6 Huilian ($43) -- Newest Pro form factor, iCloud Connect, Live Translation
-- Best ANC for Mac: AirPods Pro 2 V5.3 Huilian ($56) -- Flawless macOS support, iCloud switching
+- Most features: AirPods Pro 3 V7 Huilian ($67) -- iCloud Connect, heart rate sensor, head gestures, conversation awareness, Live Translation; Pro 2 V5.4 Huilian ($58) adds adaptive audio and OTA updates for less
+- Best value: AirPods Pro 3 V6 Huilian ($43) -- Newest Pro form factor, iCloud Connect, Live Translation; step up to the V7 Huilian ($67) for heart rate, head gestures and stronger ANC
+- Best ANC for Mac: AirPods Pro 3 V7 Huilian ($67) -- Dual-feed AI Hybrid ANC (~38-42 dB) with iCloud Connect
+- Most proven for Mac: AirPods Pro 2 V5.3 Huilian ($56) -- Flawless macOS support, iCloud switching
 - Latest design: AirPods Pro 3 V7 Huilian ($67) -- Newest Pro 3 with iCloud Connect, heart rate sensor, head gestures; the V7 TigerBuilder ($68, HiCity-only) is the newest and best V7 build but has no iCloud Connect
 
 For non-Mac users:
 - Best ANC (bass-heavy): AirPods Pro 2 V5.3 TB ($55) -- Highest ANC (34.5 dB avg, 41 dB peak), 8h battery, community favorite
 - Best ANC (balanced sound): AirPods Pro 2 V5.3 HR ($50) -- Balanced tuning, best transparency mode, ideal for commuters
 - Best for calls: AirPods Pro 2 V5.3 HR+ ($58) -- Sealed construction, isolated mic design, best call quality
-- Most features: AirPods Pro 2 V5.4 Huilian ($58) -- iCloud Connect, adaptive audio, conversation awareness
+- Most features: AirPods Pro 3 V7 Huilian ($67) -- Heart rate sensor, head gestures, conversation awareness, Live Translation, iCloud Connect, iOS popup; also consider the V7 TigerBuilder ($68, HiCity-only) or Pro 2 V5.4 Huilian ($58) for adaptive audio
 - Latest design: AirPods Pro 3 V7 TB ($68) -- Newest and best Pro 3 flagship; heart rate sensor, head gestures, adaptive ANC; runner-up: V7 Huilian ($67) for iCloud Connect & Live Translation
 - Budget: AirPods Pro 3 V6 TB ($37) or AirPods 2 V3E ($26) for ultra-budget
 
@@ -801,7 +801,7 @@ The AirReps guide publishes definitive, community-tested answers to high-intent 
 - **Do Fake AirPods Work With New iPhones?** (https://airpodsreplicas.com/articles/do-fake-airpods-work-with-new-iphone): Yes. iOS updates do not brick replica hardware. The connection popup, battery widget, and controls function seamlessly across iOS versions.
 - **AirPods Max Dupe Guide** (https://airpodsreplicas.com/articles/airpods-max-dupe): The V3 metal over-ear replica (~$126) reproduces aluminum ear cups, a mechanical digital crown, and ~50 hours of battery life. It gives up Apple's class-leading computational ANC and native ecosystem handoff.
 - **FlyCC Companion App Guide** (https://airpodsreplicas.com/articles/flycc-app-guide): FlyCC is the official community utility for Airoha silicon (1562AE, 1571AM). It allows custom 10-band parametric EQ tuning, touch sensor calibration, and safe OTA firmware flashing. Settings persist to the DSP across iOS devices.
-- **AirPods Pro 2 vs AirPods Pro 3 Replicas** (https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3): The AirPods Pro 2 V5.4 Huilian remains the most mature and reliable all-rounder with ~38dB noise reduction and proven iCloud switching. The Pro 3 V7/SE introduces new ergonomics, heart rate sensors, and Live Translation, but early batches have minor teething quirks.
+- **AirPods Pro 2 vs AirPods Pro 3 Replicas** (https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3): The AirPods Pro 2 V5.4 Huilian remains the most mature and reliable all-rounder with ~38dB noise reduction and proven iCloud switching. The Pro 3 V7/SE introduces new ergonomics, heart rate sensors, and Live Translation; the V7 Huilian is the newest pick with iCloud Connect.
 - **AirPods Max V3 vs V3P Comparison** (https://airpodsreplicas.com/articles/airpods-max-v3-vs-v3p): The flagship V3 (~$126) features genuine CNC anodized aluminum ear cups and a weighted metal headband (~384g). The budget V3P (~$93) uses painted ABS plastic (~320g). The extra $33 is justified for buyers wanting true cold-touch metal realism and hybrid dual-mic ANC.
 - **How to Update Fake AirPods Firmware** (https://airpodsreplicas.com/articles/how-to-update-fake-airpods-firmware): Step-by-step flashing procedures for FlyCC (Airoha), CloudCC (TigerBuilder), and Starfun (Huilian). Requires keeping battery above 80%, leaving the lid open, and never flashing cross-chip binaries to prevent controller bricking.
 - **Do Fake AirPods Work on Mac?** (https://airpodsreplicas.com/articles/fake-airpods-on-mac): Replicas work natively on macOS for audio and calls. Non-Huilian chips often experience the binary volume slider glitch (fixed via the community volume slider script), while Huilian models offer native volume steps and iCloud multi-device pairing.
