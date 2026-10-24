@@ -3,7 +3,7 @@ title: Wie man AirPods-Repliken sicher kauft
 description: 'AirPods-Repliken sicher bestellen. Zahlungsmethoden, vertrauenswürdige Verkäufer, Versandtipps und Betrugsvermeidung.'
 faq:
   - q: Welche Zahlungsmethoden akzeptieren vertrauenswürdige Verkäufer?
-    a: 'Vertrauenswürdige Verkäufer akzeptieren Kreditkarten, Alipay, Revolut, Wise, Banküberweisung und Bitcoin. Alle Verkäufer haben Weidian-Shops, die über Agenten wie KakoBuy zugänglich sind. PayPal wird von Earhive und HiCity unterstützt, und der KakoBuy-Agent akzeptiert es ebenfalls.'
+    a: 'Vertrauenswürdige Verkäufer akzeptieren Kreditkarten, Alipay, Revolut, Wise und Bitcoin. Alle Verkäufer haben Weidian-Shops, die über Agenten wie KakoBuy zugänglich sind. PayPal wird von Earhive und HiCity unterstützt, und der KakoBuy-Agent akzeptiert es ebenfalls.'
   - q: Warum werde ich beim Bezahlen mit Kreditkarte auf eine Krypto-Webseite weitergeleitet?
     a: 'Vertrauenswürdige Verkäufer nutzen ein sicheres Krypto-Zahlungs-Gateway, um Kreditkartenzahlungen abzuwickeln. Ihre Karte kauft Krypto, womit die Bestellung abgeschlossen wird. Um KYC zu vermeiden, verwenden Sie KakoBuy — einen Agenten, der normale Kreditkarten ohne Identitätsprüfung akzeptiert.'
 ---
@@ -15,14 +15,14 @@ Möchten Sie AirPods-Repliken kaufen? Dieser Leitfaden behandelt sichere Bezugsq
 
 ## Wie man kauft
 
-Wir empfehlen, immer bei [vertrauenswürdigen Verkäufern](/de/links/info) zu kaufen. Die meisten Verkäufer haben eigene Websites, die verschiedene Zahlungsmethoden akzeptieren, einschließlich [Kreditkarte](#credit-card-note), [Alipay](#paying-with-alipay), Revolut, Wise, Bitcoin und Banküberweisung. Alle Verkäufer haben außerdem Weidian-Shops, die über Agenten wie [KakoBuy](https://airreps.link/kakobuy) zugänglich sind — siehe unseren [KakoBuy-Leitfaden](/de/ordering/kakobuy) für eine vollständige Anleitung.
+Wir empfehlen, immer bei [vertrauenswürdigen Verkäufern](/de/links/info) zu kaufen. Die meisten Verkäufer haben eigene Websites, die verschiedene Zahlungsmethoden akzeptieren, einschließlich [Kreditkarte](#credit-card-note), [Alipay](#paying-with-alipay), Revolut, Wise und Bitcoin. Alle Verkäufer haben außerdem Weidian-Shops, die über Agenten wie [KakoBuy](https://airreps.link/kakobuy) zugänglich sind — siehe unseren [KakoBuy-Leitfaden](/de/ordering/kakobuy) für eine vollständige Anleitung.
 
 Die AirReps-Community empfiehlt mehrere Verkäufer, um ein Monopol zu vermeiden und Wettbewerb zu fördern, was den Nutzern zugutekommt. Jeder Verkäufer bietet einzigartige Dienstleistungen, Qualitätskontrollen (QC), Plattformen und Preise.
 
 Das Bestellen ist einfach: Wählen Sie das gewünschte Produkt und schließen Sie den Kauf ab. Nicht sicher, welches Modell? Machen Sie unser [kurzes Quiz](/de/quiz) oder vergleichen Sie die Versionen im Abschnitt [Versionsinformationen](/de/version-info/general).
 
-::: tip Prüfzeit bei Wise & Überweisung
-Zahlungen über Wise oder Banküberweisung erfordern eine manuelle Prüfung durch den Verkäufer, die bis zu 24 Stunden dauern kann, bevor Ihre Bestellung bearbeitet wird.
+::: tip Prüfzeit bei Wise
+Zahlungen über Wise erfordern eine manuelle Prüfung durch den Verkäufer, die bis zu 24 Stunden dauern kann, bevor Ihre Bestellung bearbeitet wird.
 :::
 
 <span id="paying-with-alipay"></span>
@@ -40,7 +40,7 @@ Viele vertrauenswürdige Verkäufer akzeptieren jetzt Alipay, was einfache Karte
 ## Häufig gestellte Fragen
 
 ::: details Welche Zahlungsmethoden akzeptieren vertrauenswürdige Verkäufer?
-Vertrauenswürdige Verkäufer akzeptieren mehrere Zahlungsmethoden, darunter Kreditkarten, Alipay, Revolut, Wise, Banküberweisung und Bitcoin. Alle Verkäufer haben Weidian-Shops, die über Agenten wie [KakoBuy](https://airreps.link/kakobuy) zugänglich sind — siehe unseren [schrittweisen KakoBuy-Leitfaden](/de/ordering/kakobuy). PayPal wird von Earhive und HiCity unterstützt, und der [KakoBuy](https://airreps.link/kakobuy)-Agent akzeptiert ihn ebenfalls. Die Zahlungsoptionen können je nach Verkäufer variieren — siehe die [Tabelle der Zahlungsmethoden](/de/links/info#payment-methods) für eine detaillierte Aufschlüsselung.
+Vertrauenswürdige Verkäufer akzeptieren mehrere Zahlungsmethoden, darunter Kreditkarten, Alipay, Revolut, Wise und Bitcoin. Alle Verkäufer haben Weidian-Shops, die über Agenten wie [KakoBuy](https://airreps.link/kakobuy) zugänglich sind — siehe unseren [schrittweisen KakoBuy-Leitfaden](/de/ordering/kakobuy). PayPal wird von Earhive und HiCity unterstützt, und der [KakoBuy](https://airreps.link/kakobuy)-Agent akzeptiert ihn ebenfalls. Die Zahlungsoptionen können je nach Verkäufer variieren — siehe die [Tabelle der Zahlungsmethoden](/de/links/info#payment-methods) für eine detaillierte Aufschlüsselung.
 :::
 <span id="credit-card-note"></span>
 ::: details Warum werde ich beim Bezahlen mit Kreditkarte auf eine Krypto-Website weitergeleitet?

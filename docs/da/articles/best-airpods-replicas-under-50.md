@@ -54,7 +54,7 @@ Ingen kopi, uanset pris, har Apples **Find My-netværk**, så forvent ikke at ku
 Markedet under 50 $ er også der, hvor de mest tvivlsomme annoncer findes. Sådan handler du sikkert:
 
 1. Vælg din version via siden med [versionssammenligning](/da/version-info/general), eller tag [quizzen](/da/quiz), og lad den vælge for dig.
-2. Køb kun hos en [betroet sælger](/da/links/info) — alle tre sender til hele verden og tager imod kort, Revolut, Wise, bankoverførsel og kryptovaluta. Hvis budgettet er stramt, fungerer [KakoBuy](/da/ordering/kakobuy) også som agent uden KYC-tjek.
+2. Køb kun hos en [betroet sælger](/da/links/info) — alle tre sender til hele verden og tager imod kort, Revolut, Wise og kryptovaluta. Hvis budgettet er stramt, fungerer [KakoBuy](/da/ordering/kakobuy) også som agent uden KYC-tjek.
 3. Følg [bestillingsvejledningen](/da/ordering/how-to-buy) for oplysninger om betaling og forsendelse — betroede sælgere håndterer EU-moms på forhånd, så du undgår uventede toldgebyrer.
 
 Tilfældige annoncer på markedspladser med «for gode» priser er årsagen til, at folk ender med kopier i den laveste kvalitetsklasse. Det samme produkt fra en verificeret sælger koster et par dollars mere og er faktisk den annoncerede version.

@@ -66,7 +66,7 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / kripto** | ✅ | ✅ | ✅ |
-| **Banka havalesi** | ❌ | ❌ | ✅ |
+| **Banka havalesi** | ❌ | ❌ | ❌ |
 | **Weidian (aracı üzerinden)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -84,8 +84,8 @@ HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE
 Satıcıların web sitelerinde ödeme yaparken veya siparişi tamamlarken sorun yaşıyorsanız, [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. PayPal ve kredi/banka kartları gibi, müşterilerin yaklaşık %90'ı için çalışan standart ödeme yöntemlerini destekler ve genel olarak iyi bir aracıdır. Ayrıntılar için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
 :::
 
-::: tip Wise ve havale inceleme süresi
-Wise veya Banka Havalesi üzerinden yapılan ödemeler, satıcı tarafından manuel olarak incelenmelidir; bu işlem 24 saate kadar sürebilir.
+::: tip Wise inceleme süresi
+Wise üzerinden yapılan ödemeler, satıcı tarafından manuel olarak incelenmelidir; bu işlem 24 saate kadar sürebilir.
 
 Weidian siparişleri için bir aracı kullanmanız gerekir. Kredi kartlarını ve birden fazla ödeme yöntemini kabul eden [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz — adım adım açıklama için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
 :::

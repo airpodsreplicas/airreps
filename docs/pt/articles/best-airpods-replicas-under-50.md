@@ -54,7 +54,7 @@ Nenhuma réplica, a qualquer preço, tem a **rede Find My** da Apple, então nã
 O mercado de réplicas por menos de US$ 50 também é onde aparecem os anúncios mais suspeitos. O caminho seguro:
 
 1. Escolha sua versão usando a página de [comparação de versões](/pt/version-info/general) ou responda ao [questionário](/pt/quiz) e deixe que ele escolha por você.
-2. Compre apenas de um [vendedor confiável](/pt/links/info) — os três enviam para todo o mundo e aceitam cartões, Revolut, Wise, transferência bancária e criptomoedas. Com orçamento apertado, o [KakoBuy](/pt/ordering/kakobuy) também funciona como agente sem exigir verificações KYC.
+2. Compre apenas de um [vendedor confiável](/pt/links/info) — os três enviam para todo o mundo e aceitam cartões, Revolut, Wise e criptomoedas. Com orçamento apertado, o [KakoBuy](/pt/ordering/kakobuy) também funciona como agente sem exigir verificações KYC.
 3. Siga o [guia de pedidos](/pt/ordering/how-to-buy) para ver os detalhes de pagamento e envio — vendedores confiáveis cobram o IVA da UE antecipadamente, evitando taxas alfandegárias inesperadas.
 
 Anúncios aleatórios em marketplaces com preços "bons demais" são o motivo pelo qual as pessoas acabam com clones do nível mais básico. O mesmo produto de um vendedor verificado custa alguns dólares a mais e é realmente a versão anunciada.

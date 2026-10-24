@@ -54,7 +54,7 @@ Kein Nachbau, egal zu welchem Preis, verfügt über Apples **„Wo ist?“-Netzw
 Im Markt unter 50 $ finden sich auch besonders unseriöse Angebote. So gehst du auf Nummer sicher:
 
 1. Wähle deine Version über die Seite zum [Versionsvergleich](/de/version-info/general) aus oder mach das [Quiz](/de/quiz) und lass es für dich entscheiden.
-2. Kaufe nur bei einem [vertrauenswürdigen Verkäufer](/de/links/info) — alle drei versenden weltweit und akzeptieren Karten, Revolut, Wise, Banküberweisung und Kryptowährungen. Bei knappem Budget kannst du auch [KakoBuy](/de/ordering/kakobuy) als Agent nutzen, ohne KYC-Prüfung.
+2. Kaufe nur bei einem [vertrauenswürdigen Verkäufer](/de/links/info) — alle drei versenden weltweit und akzeptieren Karten, Revolut, Wise und Kryptowährungen. Bei knappem Budget kannst du auch [KakoBuy](/de/ordering/kakobuy) als Agent nutzen, ohne KYC-Prüfung.
 3. Folge der [Bestellanleitung](/de/ordering/how-to-buy) für Infos zu Zahlung und Versand — vertrauenswürdige Verkäufer übernehmen die EU-Umsatzsteuer im Voraus, sodass keine unerwarteten Zollgebühren anfallen.
 
 Bei zufälligen Angeboten auf Marktplätzen zu „zu guten“ Preisen landest du schnell bei den Nachbauten der niedrigsten Qualitätsstufe. Dasselbe Produkt kostet bei einem verifizierten Verkäufer ein paar Dollar mehr und entspricht tatsächlich der angegebenen Version.
