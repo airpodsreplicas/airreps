@@ -5,7 +5,7 @@ description: 'Compara las versiones de réplicas de AirPods Pro 2 por chip, func
 # AirPods Pro 2
 
 ::: tip Sigue siendo la opción más madura
-Los fabricantes están trasladando poco a poco el foco del desarrollo a modelos más nuevos. Las réplicas de AirPods Pro 2 siguen siendo excelentes productos y la opción más madura y completa de la línea Pro. Si quieres las funciones más recientes, [AirPods Pro 3 V7](/es/version-info/airpods-pro-3) añade un sensor de frecuencia cardíaca y ANC híbrida con IA, aunque es un lanzamiento reciente con algunos detalles que conviene conocer antes de comprar.
+Los fabricantes están trasladando poco a poco el foco del desarrollo a modelos más nuevos. Las réplicas de AirPods Pro 2 siguen siendo excelentes productos y la opción más madura y completa de la línea Pro. Si quieres las funciones más recientes, [AirPods Pro 3 V7](/es/version-info/airpods-pro-3) añade un sensor de frecuencia cardíaca y ANC híbrida con IA.
 :::
 
 **Veredicto rápido:** para la mayoría de los compradores, los **V5.4 Huilian** son la mejor réplica de AirPods Pro 2 en general, ya que combinan las funciones más recientes (conexión a iCloud, audio adaptativo y ANC muy similar a la original) con un rendimiento sólido en todos los aspectos. ¿Prefieres la cancelación de ruido más potente? Los **V5.3 TB** destacan por su ANC. Consulta los [enlaces de compra](/es/links/airpods-pro-2) de ambos modelos.
