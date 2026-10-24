@@ -449,6 +449,11 @@ Has: USB-C, Hybrid ANC, Transparency Mode, Plastic Ear Cups and Headband, In-Ear
 Missing: Multi-Device Connect, Retail AirPods Max ANC, Better Transparency Mode, Spatial Audio (Head Tracking), and more subtle details
 Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1
 
+V2.5 | Chip: Bluetrum BT893X / Realtek 8763ESE
+Has: Hybrid ANC, Transparency Mode, Aluminium Construction, Improved Build Quality, Spatial Audio, Digital Crown Controls, Audio Share, About Page, Multi-Device Connect
+Missing: Retail AirPods Max ANC, Better Transparency Mode, Metal cups, More Subtle Details
+Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v2.5&restrict_sr=1
+
 V2 Metal | Chip: Airoha 1561M
 Has: Hybrid ANC, Transparency Mode, Aluminium Construction, Improved Build Quality, Spatial Audio (Fixed), Digital Crown Controls, Audio Share, About Page, Multi-Device Connect
 Missing: Retail ANC, Better Transparency Mode, Spatial Audio (Head Tracking)
@@ -476,7 +481,7 @@ V1 P9 Max | Chip: Unknown Bluetrum
 Has: Plastic Construction, Mesh Headband
 Missing: ANC, Metal Housing, General Build Quality, Transparency Mode, Multi-Device Connect, Spatial Audio
 
-V3 Overview: Significant upgrade from V2 with Airoha 1562AE chipset. Features upgraded Hybrid ANC, Spatial Audio with Head Tracking, and metal construction options.
+V3 Overview: Significant upgrade from V2.5 with Airoha 1562AE chipset. Features upgraded Hybrid ANC, Spatial Audio with Head Tracking, and metal construction options.
 
 Discontinued: V1.6
 
@@ -571,6 +576,7 @@ AirPods 2 Purchase Links:
 AirPods Max Purchase Links:
 - V3 (Metal): Earhive (https://airreps.link/emaxv3tb), HiCity (https://airreps.link/hcmaxv3tb), Jenny (https://airreps.link/jmaxv3tb)
 - V3P: Earhive (https://airreps.link/emaxv3p), HiCity (https://airreps.link/hcmaxv3p), Jenny (https://airreps.link/jmaxv3p)
+- V2.5 Website: Earhive (https://airreps.link/emaxv25). Jenny's V2.5 Website listing is unavailable; see the seller table for other channels.
 - V2 Metal: Earhive (https://airreps.link/emaxv2tb), Jenny (https://airreps.link/jmaxv2tb)
 
 AirPods Max replicas are available in a range of colors. Refer to sellers' websites for options.
@@ -722,7 +728,7 @@ Huilian:
 - StarFun (Android): https://airreps.link/starfun
 - StarFun (iOS): https://airreps.link/istarfun
 
-KKX:
+V2.5/KKX:
 - KKX (Android): https://airreps.link/kkx
 
 ---

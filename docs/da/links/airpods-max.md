@@ -53,6 +53,22 @@ AirPods Max-kopier er over-ear-muligheden, fra billige plastmodeller til V3 med 
     </td>
   </tr>
   <tr>
+    <td><span class="version-badge">V2.5</span></td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/emaxv25">Hjemmeside</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <span class="unavailable-link">Hjemmeside ikke tilgængelig</span>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V2 Metal</span></td>
     <td>
       <div class="link-column">
