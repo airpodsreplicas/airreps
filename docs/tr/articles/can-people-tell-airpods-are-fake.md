@@ -1,89 +1,89 @@
 ---
-title: İnsanlar AirPods'larınızın sahte olduğunu anlayabilir mi?
-description: 'Kopya AirPods''larınızı birinin fark etmesinden mi endişeleniyorsunuz? İşte klonları yakından bakıldığında gerçekten ele veren şeyler, günlük hayatta kimsenin fark etmediği noktalar ve en iyi versiyonların ne kadar iyi dayandığı.'
-category: Sahte vs gerçek
+title: İnsanlar AirPods'larınızın Sahte Olduğunu Anlayabilir mi?
+description: 'Birinin replika AirPods''larınızı fark edeceğinden mi endişeleniyorsunuz? Yakından bakıldığında sahteleri ele veren şeyler, günlük hayatta kimsenin fark etmedikleri ve en iyi modellerin nasıl performans gösterdiği burada.'
+category: Sahte ve gerçek
 order: 6
 ---
-# İnsanlar AirPods'unuzun sahte olduğunu anlayabilir mi?
+# İnsanlar AirPods'larınızın Sahte Olduğunu Anlayabilir mi?
 
-Kısa cevap: Onları eline alıp inceleyen bilgili biri anlayabilir. Diğer neredeyse herkes ise asla anlayamaz.
+Kısa cevap: Kulaklıkları eline alıp inceleyen bilgili biri anlayabilir. Diğer hemen herkes asla anlayamaz.
 
-İki cümlede tüm yazı bu kadar, ancak ayrıntılar önemli — çünkü bunu fark eden *insan tipi* nadirdir ve bunun gerçekleştiği durumlar oldukça özeldir. Replika kullanmaktan çekiniyorsanız, onları ele veren şeylerin ve gerçek hayatta asla gündeme gelmeyen noktaların dürüst dökümü burada.
+Bu, iki cümleyle yazının tamamı; ancak ayrıntılar önemli — çünkü fark eden *kişiler* nadir, bunun gerçekleştiği durumlar ise belirli. Replika takarken kendinizi rahatsız hissediyorsanız, onları ele veren ve gerçek hayatta asla gündeme gelmeyen unsurları dürüstçe açıklayalım.
 
-> **Kısa cevap:** Normal günlük hayatta hiç kimse sahte AirPods taktığınızı anlayamaz. 60–90 cm mesafeden, AirPods Pro 2 V5.4 veya Pro 3 gibi modern replikalar kulaklık geometrisi, ağırlık, sap uzunluğu ve yüzey bakımından orijinal modellerle eşleşir. Tespit için bir uzmanın kutuyu fiziksel olarak eline alması, menteşedeki mat elektrokaplamayı incelemesi veya Apple Bul ağına bağlanılamadığını ortaya çıkarmak için cihazı eşleştirmesi gerekir.
+> **Kısa yanıt:** Normal günlük hayatta kimse sahte AirPods taktığınızı anlayamaz. 60–90 cm mesafeden, AirPods Pro 2 V5.4 veya Pro 3 gibi modern replikalar kulaklık geometrisi, ağırlık, sap uzunluğu ve yüzey kalitesi bakımından orijinal ürünlerle eşleşir. Tespit için bir uzmanın kutuyu eline alması, menteşedeki mat elektro kaplamayı incelemesi veya Apple Find My ağının olmadığını görmek için cihazı eşleştirmesi gerekir.
 
-## Yakından bakıldığında gerçekten işe yarayan kontroller
+## Yakından incelemede işe yarayan kontroller
 
-Çevrenizden biri [sahte AirPods nasıl anlaşılır](/tr/articles/how-to-spot-fake-airpods) rehberimizi okumuş ve kulaklıklarınızı incelemeye karar vermişse, kontrol edeceği fiziksel ipuçları şunlar olurdu — [QC ve LC rehberindeki](/tr/ordering/qc-lc) maddelerin aynısı:
+Çevrenizden biri [sahte AirPods'ları nasıl ayırt edeceğimize](/tr/articles/how-to-spot-fake-airpods) dair rehberimizi okumuş ve kulaklıklarınızı incelemeye karar vermişse, kontrol edeceği fiziksel işaretler şunlardır — [QC ve LC rehberindeki](/tr/ordering/qc-lc) maddelerin aynısı:
 
-- **Menteşe rengi.** Kutu menteşesindeki replika kaplamaların tonu, referans renkten biraz farklı olabilir. Fark çok ince olabilir ve emin olmak için orijinalini yanına koymanız gerekir — ancak dikkatli bir göz bunu ararsa uyumsuzluğu yakalayabilir.
-- **Düğmenin yüzeyle hizası.** Orijinal AirPods modellerinde eşleştirme düğmesi kutuyla aynı hizadadır. Bazı replikalarda ise düğme biraz daha dışarıda veya belirgin olabilir. [Yapı kalitesi rehberinde](/tr/introduction/build-quality) güncel modellerin çoğunun bunu doğru yaptığı, ancak partiler arasında farklılık bulunduğu belirtiliyor.
-- **Kablo oturuşu.** Şarj kablosunu takın: orijinal AirPods modellerinde kablo tamamen yüzeyle aynı hizada oturur. Biraz bile dışarıda kalıyorsa bu bir replika işaretidir.
-- **Yasal işaretler.** Kutunun üst kısmının içindeki küçük yasal bilgiler bölgeye özgüdür — ABD için FCC, AB için CE/WEEE ve benzeri. Yanlış veya eksik işaretler açıkça ele verir.
+- **Menteşe rengi.** Kutunun menteşesinde replika kaplamanın tonu, referans renkten biraz farklı olabilir. Fark ince olabilir ve emin olmak için orijinal ürünü yanına koymanız gerekir — ancak bunu arayan dikkatli bir göz renk uyuşmazlığını fark edebilir.
+- **Düğmenin yüzeyle hizası.** Orijinal AirPods'larda eşleştirme düğmesi kutunun yüzeyiyle aynı hizadadır. Bazı replikalarda ise düğme biraz çıkıntılıdır veya daha belirgindir. [Yapı kalitesi rehberinde](/tr/introduction/build-quality) belirtildiği üzere, güncel modellerin çoğu bu ayrıntıyı doğru yapıyor; ancak partiler arasında farklılıklar var.
+- **Kablonun oturuşu.** Şarj kablosunu takın: orijinal AirPods'larda kablo tamamen yerine oturur ve dışarı taşmaz. Biraz bile çıkıntı yapıyorsa, bu replikaya işarettir.
+- **Mevzuat işaretleri.** Kutunun üst kısmının içindeki küçük mevzuat metni bölgeye özeldir — ABD için FCC, AB için CE/WEEE ve benzeri. Yanlış veya eksik işaretler hemen ele verir.
 
-Bunların hiçbiri odanın karşısından görülemez. Hepsi birinin kutunuzu eline almasını, yakından bakmasını ve ne aradığını bilmesini gerektirir. Asıl engel “tespit edilebilir mi?” değil, “biri gerçekten bu incelemeyi yapacak mı?” sorusudur.
+Bunların hiçbiri odanın öbür ucundan görülemez. Hepsi birinin kutunuzu eline almasını, yakından bakmasını ve ne aradığını bilmesini gerektirir. Engel de bu: "tespit edilebilir mi" değil, "biri gidip inceleyecek mi?"
 
-## Yazılımsal ipuçları (bunları yalnızca siz göreceksiniz)
+## Yazılımsal işaretler (yalnızca sizin görebilecekleriniz)
 
-Diğer ipuçları kategorisi, kulaklıklar bir iPhone'a bağlandığında ortaya çıkar — genellikle bir yabancının değil, *sizin* iPhone'unuzda:
+Diğer işaretler, kulaklıklar bir iPhone'a bağlandığında ortaya çıkar — genellikle bir yabancının değil, *sizin* iPhone'unuzda:
 
-**Bul özelliği eksik.** Hiçbir replikada bulunmayan tek özellik budur. Her modelde ve her fiyat seviyesinde Apple'ın Bul ağı eksiktir — [sürüm bilgileri tablosunda](/tr/version-info/general) evrensel eksiklik olarak listelenmiştir. Birisi AirPods'unuzu telefonuyla eşleştirip Bul uygulamasını açarsa hassas konum bulma özelliği orada olmaz. Bu, mevcut en kesin ipucudur ve bir kulaklığı kaybettiğinizde büyük olasılıkla kendiniz fark edeceğiniz şey de budur.
+**Find My yoktur.** Bu, hiçbir replikada bulunmayan tek özelliktir. Her modelde ve her fiyat seviyesinde Apple'ın Find My ağı yoktur — [sürüm bilgileri tablosunda](/tr/version-info/general) bu, tüm modeller için ortak eksiklik olarak listelenmiştir. Birisi AirPods'larınızı telefonuna eşleştirip Find My uygulamasını açarsa hassas konum bulma özelliği görünmez. Bu, en kesin işarettir; ayrıca bir kulaklığı kaybettiğinizde kendinizin fark etme olasılığının en yüksek olduğu eksiklik de budur.
 
-**Hakkında sayfası.** Orijinal AirPods modelleri Ayarlar → Genel → Hakkında bölümünde, kapağın içindekiyle eşleşen seri numarasına sahip bir AirPods bölümü gösterir. Yeni replikalar bunun bazı kısımlarını taklit edebilir; dolayısıyla bu artık tek başına güvenilir bir kesinlik ölçütü değildir — ancak bölümün eksik veya uyumsuz olması daha düşük seviye bir çifti ele verir.
+**Hakkında sayfası.** Orijinal AirPods'lar, Ayarlar → Genel → Hakkında bölümünde AirPods'a özel bir alan gösterir ve burada yer alan seri numarası kapağın içindeki numarayla eşleşir. Yeni replikalar bu görüntünün bazı kısımlarını taklit edebilir; dolayısıyla artık bunu kesin bir var-yok testi olarak kullanamazsınız — ancak alanın eksik veya uyuşmuyor olması yine de daha düşük seviyeli bir ürünü ele verir.
 
-**Uzamsal Ses ve ANC.** Kafa takibi kalitesi sürüme göre değişir. [Sürüm bilgileri](/tr/version-info/general), Pro 2 V5.4 modelinde bilinen bir eksiklik olarak “kusursuz Uzamsal Ses” özelliğini listeliyor; daha düşük sürümlerde ise ANC daha zayıf ve kafa takibi daha az isabetlidir. Ucuz bir çifti gerçek bir çiftin yanına koyarsanız farkı siz duyarsınız. Normal bir konuşmada ise duyulmaz.
+**Uzamsal Ses ve ANC.** Kafa takibi kalitesi sürüme göre değişir. [Sürüm bilgileri](/tr/version-info/general), Pro 2 V5.4'ün bilinen eksikliklerinden biri olarak "kusursuz Uzamsal Ses" özelliğini listeler; daha düşük sürümlerde ise ANC daha zayıf, kafa takibi daha az doğrudur. Ucuz bir kulaklığı gerçek bir ürünün yanına koyduğunuzda farkı siz duyarsınız. Normal bir sohbette ise duyulmaz.
 
-**iOS açılır penceresi hiçbir şeyi kanıtlamaz.** “Bir dakika, benim çiftimde açılır pencere görünüyor, yani güvendeyim” diye düşünüyorsanız — replikaların çoğunda da bu pencere görünür. [Bağlantı rehberinde](/tr/introduction/connectivity), açılır pencerenin çoğu zaman orijinal AirPods modellerindeki kadar hızlı veya daha hızlı göründüğü açıklanıyor. Artık hiç kimse açılır pencereyi orijinallik testi olarak kullanmıyor ve bu pencerenin görünmesi gözlemciye hiçbir şey söylemiyor.
+**iOS açılır penceresi hiçbir şeyi kanıtlamaz.** "Bir dakika, benim modelimde açılır pencere çıkıyor, demek ki güvendeyim" diye düşünüyorsanız — çoğu replikada da aynı pencere çıkar. [Bağlantı rehberinde](/tr/introduction/connectivity) açıklandığı üzere, bu pencere genellikle orijinal AirPods'lardaki kadar hızlı, hatta daha hızlı görünür. Artık kimse açılır pencereyi orijinallik testi olarak kullanmıyor ve görünmesi, gözlemciye hiçbir şey söylemiyor.
 
-Şu örüntüye dikkat edin: Her yazılım kontrolü, birinin AirPods'unuzu telefonuna bağlamasını gerektirir. Normal kullanımda böyle biri yoktur.
+Buradaki örüntüye dikkat edin: her yazılım kontrolü, birinin AirPods'larınızı telefonuna bağlamasını gerektirir. Normal kullanımda böyle biri yoktur.
 
-## İnsanların günlük hayatta gerçekten fark ettiği şeyler
+## İnsanların günlük hayatta gerçekten fark ettikleri
 
-Sizi rahatlatması gereken kısım burası. Gerçek hayatta insanlar AirPods'u kulaklarınızda, siz yürürken veya konuşurken, uzaktan ve bir seferde yaklaşık yarım saniye görür. “Beyaz kulaklık” olarak algılar ve yollarına devam ederler.
+İşte içinizi rahatlatması gereken kısım. Gerçek hayatta insanlar AirPods'ları kulaklarınızda, yürürken veya konuşurken, uzaktan ve her seferinde yaklaşık yarım saniyeliğine görür. "Beyaz kulaklık" diye algılar ve yollarına devam ederler.
 
-Birinin dışarıda bir replikayı fark etmesi için neler gerekirdi, düşünün:
+Birinin gerçek hayatta bir replikayı fark edebilmesi için ne yapması gerektiğini düşünün:
 
-- Kutunuza yakından bakacak kadar önemsemeleri gerekirdi.
-- Belirli ipuçlarını — menteşe rengi, düğmenin yüzeyle hizası, kablonun oturuşu — bilmeleri gerekirdi.
-- Yaklaşacak ve bu kontrolleri gerçekten yapacak kadar zamanları olması gerekirdi.
-- Başkalarının eşyalarına bunu yapacak türden biri olmaları gerekirdi; ki bu oldukça garip bir davranıştır.
+- Kutunuza yakından bakacak kadar önemsemesi gerekir.
+- Belirli işaretleri — menteşe rengi, düğmenin yüzeyle hizası, kablonun oturuşu — bilmesi gerekir.
+- Yaklaşacak kadar yakın olması ve bu kontrolleri gerçekten yapacak kadar zaman bulması gerekir.
+- Başkasının eşyalarına böyle davranan türden biri olması gerekir ki bu, tuhaf bir davranıştır.
 
-Bu kombinasyon son derece nadirdir. Fark etme ihtimali en yüksek kişiler, replikaları kendileri satın alanlardır ve bunun için sizi yargılamazlar. İkinci en olası grup ise AirReps topluluğuyla ilgilenen kişilerdir; onlar da genellikle yalnızca hangi sürümü aldığınızı sorar.
+Bu koşulların bir araya gelmesi neredeyse hiç rastlanmayacak kadar nadirdir. Fark etmesi en muhtemel kişiler, replikaları kendileri satın alanlardır ve bunun için sizi yargılamazlar. İkinci en olası grup, AirReps topluluğuyla ilgilenen kişilerdir; onlar da genellikle hangi sürümü aldığınızı sorar.
 
-Dürüst olmak gerekirse: Bir arkadaşınız kulaklıklarınızı gerçekten inceler, eline alır ve bu kontrolleri bilirse anlayabilir. Neye bakacağını bilen birinin tam kapsamlı yakın incelemesinden sağ çıkabilecek bir replika yoktur. Gerçek bu ve sorun değil — aynı durum çoğu şeyin replikası için de geçerlidir.
+Dürüst olmak gerekirse: Bir arkadaşınız kulaklıklarınızı gerçekten inceler, eline alır ve kontrolleri bilirse anlayabilir. Ne aradığını bilen birinin yakından ve bütünüyle incelemesinden sağ çıkabilecek bir replika yoktur. Bu doğru ve bunda sorun yok — aynı şey çoğu ürünün replikaları için de geçerlidir.
 
-## Önem taşıdığı yerler ve dayanıklı sürümler
+## Nerede önemli olduğu ve hangi sürümlerin dayandığı
 
-Fark edilmenin önem taşıdığı gerçek bir durum var: Onları orijinalmiş gibi yeniden satmak. Bu, farklı sonuçları olan farklı bir sorundur ve [tespit rehberimizin](/tr/articles/how-to-spot-fake-airpods) tam olarak varlık nedeni budur — ikinci el alıcıları korumak. Replika kullanmak dolandırıcılık değildir. Klonları gerçekmiş gibi satmak dolandırıcılıktır. Bu ikisini birbirinden ayırın.
+Fark edilmenin önemli olduğu gerçek hayattaki bir durum var: Ürünleri orijinalmiş gibi yeniden satmak. Bu, farklı sonuçları olan ayrı bir sorundur ve ikinci el alıcıları korumak için [ayırt etme rehberimizin](/tr/articles/how-to-spot-fake-airpods) var olma nedeni de tam olarak budur. Replika takmak dolandırıcılık değildir. Klon ürünleri orijinal diye satmak dolandırıcılıktır. Bu ikisini birbirinden ayrı tutun.
 
-İncelemeye en iyi dayanan çifti istiyorsanız daha üst sürümleri tercih etmelisiniz. Topluluğun güncel favorileri, sürüm rehberinde kusursuz Uzamsal Ses ve Bul özelliği dışında gerçek anlamda önemli bir eksikliği olmayan en iyi çok yönlü seçenek olarak tanımlanan **AirPods Pro 2 V5.4 Huilian** ile V6'nın daha kendini kanıtlamış, V7'nin ise kalp atış hızı sensörü ve daha yeni ANC özelliklerine sahip en yeni seçenek olduğu **AirPods Pro 3 ailesidir**. Bunlar daha iyi menteşelere, orijinale daha yakın yapı ayrıntılarına ve en kapsamlı özellik setlerine sahip modellerdir.
+İncelemeye en iyi dayanacak ürünü istiyorsanız üst sürümleri tercih etmelisiniz. Topluluğun şu anda öne çıkardığı modeller **AirPods Pro 2 V5.4 Huilian** — sürüm rehberinde en iyi çok yönlü seçenek olarak tanımlanıyor; gerçek eksiklikleri kusursuz Uzamsal Ses ve Find My — ve **AirPods Pro 3 ailesi**. Bu ailenin en yeni modeli, kalp atış hızı sensörü, kafa hareketleriyle kontrol ve Yapay Zekâ Hibrit ANC özelliklerine sahip V7; daha uygun fiyatlı seçenek ise V6. Menteşeleri daha iyi, yapısal ayrıntıları orijinale daha yakın ve özellik setleri daha eksiksiz olanlar bunlardır.
 
-Düşük sürümler bir sebepten daha ucuzdur: daha görünür ayrıntı eksiklikleri ve daha kaba oturuş ve işçilik. Günlük hayatta yine fark edilmeyeceklerdir, ancak inceleme karşısında en hızlı çöken modeller bunlardır.
+Düşük sürümlerin daha ucuz olmasının bir nedeni var: daha belirgin ayrıntı eksiklikleri ve daha özensiz işçilik. Günlük hayatta yine fark edilmezler, ancak inceleme karşısında en çabuk ele verenler onlardır.
 
-## Sonuç
+## Özet
 
-Kimse kulaklıklarınızı incelemiyor. Replikaları yakalayan kontroller — menteşe rengi, düğmenin yüzeyle hizası, kablonun oturuşu, işaretlemeler ve Bul — yakından temas ve belirli bir bilgi gerektirir. Özellikle Pro 2 V5.4 Huilian ve güncel Pro 3 serisi olmak üzere üst sürümler, bu konuda endişelenen biriyseniz incelemeye en iyi dayanır. Hangi sürümü aldığınızı tam olarak bilmek için [güvenilir bir satıcıdan](/tr/links/info) alışveriş yapın ve yan masadaki kişi için endişelenmeyi bırakın. Umurunda değil.
+Kimse kulaklıklarınızı incelemiyor. Replikaları ortaya çıkaran kontrollerin — menteşe rengi, düğmenin yüzeyle hizası, kablonun oturuşu, işaretler, Find My — tümü yakından teması ve özel bilgi gerektirir. Üst sürümler, özellikle Pro 2 V5.4 Huilian ve güncel Pro 3 ürün gamı, bu konuda endişelenen biriyseniz en iyi performansı gösterir. Tam olarak hangi sürümü alacağınızı bilmek için [güvenilir bir satıcıdan](/tr/links/info) alışveriş yapın ve yan masadaki kişiyi düşünmeyi bırakın. Umurunda değil.
 
-Daha fazla okuma:
-- Bir çifti kendiniz doğrulamanız mı gerekiyor? [AirPods'un sahte olup olmadığı nasıl anlaşılır](/tr/articles/how-to-spot-fake-airpods) yazısına bakın.
-- Apple'a kıyasla nelerden ödün verdiğinizi mi bilmek istiyorsunuz? [Replika AirPods ve gerçek AirPods](/tr/articles/airpods-replicas-vs-real) yazısını okuyun.
-- Marka alternatiflerini mi düşünüyorsunuz? [Sahte AirPods ve uygun fiyatlı kulaklıklar](/tr/articles/fake-airpods-vs-budget-earbuds) yazısına göz atın.
-- En iyi uygun fiyatlı seçenekleri mi arıyorsunuz? [50 doların altındaki en iyi AirPods replikaları](/tr/articles/best-airpods-replicas-under-50) yazısına bakın.
+Daha fazlasını okuyun:
+- Bir ürünü kendiniz nasıl doğrulayacağınızı mı öğrenmek istiyorsunuz? [AirPods'ların Sahte Olduğu Nasıl Anlaşılır?](/tr/articles/how-to-spot-fake-airpods) yazısına göz atın.
+- Apple ürünlerine kıyasla nelerden ödün verdiğinizi mi öğrenmek istiyorsunuz? [Replika AirPods ve Orijinal AirPods](/tr/articles/airpods-replicas-vs-real) yazısını okuyun.
+- Marka alternatiflerini mi düşünüyorsunuz? [Sahte AirPods ve Uygun Fiyatlı Kulaklıklar](/tr/articles/fake-airpods-vs-budget-earbuds) yazısına göz atın.
+- En iyi uygun fiyatlı modelleri mi arıyorsunuz? [50 Doların Altındaki En İyi AirPods Replikaları](/tr/articles/best-airpods-replicas-under-50) yazısına göz atın.
 
 ## SSS
 
 ::: details İnsanlar sadece bana bakarak sahte AirPods taktığımı anlayabilir mi?
-Hayır. Normal bir mesafeden herkesin gördüğü tek şey kulaklıklardır. Fiziksel ipuçları — menteşe rengi, düğmenin yüzeyle hizası, kablonun hizalanması ve yasal işaretler — birinin kutunuzu eline almasını ve [QC ve LC rehberindeki](/tr/ordering/qc-lc) belirli kontrolleri bilmesini gerektirir. Bu da günlük hayatta neredeyse hiç gerçekleşmez.
+Hayır. Normal bir mesafeden herkes yalnızca kulaklık görür. Fiziksel işaretleri — menteşe rengi, düğmenin yüzeyle hizası, kablo hizası, mevzuat işaretleri — görmek için birinin kutunuzu eline alması ve [QC ve LC rehberindeki](/tr/ordering/qc-lc) belirli kontrolleri bilmesi gerekir. Günlük hayatta bu neredeyse hiç yaşanmaz.
 :::
 
-::: details Sahte AirPods iOS açılır penceresini gösterir mi?
-Üst sürümlerin çoğu, bazen orijinal AirPods modellerinden daha hızlı olacak şekilde gösterir. Açılır pencere her iki yönde de güvenilir bir orijinallik testi değildir; dolayısıyla görünmesi fark edilme ihtimalinizi ne artırır ne de azaltır.
+::: details Sahte AirPods'larda iOS açılır penceresi çıkar mı?
+Üst sürümlü replikaların çoğunda çıkar; bazen orijinal AirPods'lardan bile daha hızlı görünür. Açılır pencere, orijinalliği iki yönde de güvenilir şekilde test etmez. Dolayısıyla görünmesi, fark edilme olasılığınızı artırmaz veya azaltmaz.
 :::
 
-::: details Sahte AirPods'un en belirgin ipucu nedir?
-Bul ağının eksik olmasıdır. Her replikada bu özellik eksiktir ve topluluğun henüz çözemediği tek özellik budur. Birisi AirPods'unuzu telefonuyla eşleştirip Bul uygulamasını kontrol ederse bu kesin bir ipucudur — ancak bunun için AirPods'unuzun cihazına bağlı olması gerekir ve bu da neredeyse hiç gerçekleşmeyen bir senaryodur.
+::: details Sahte AirPods'ları en kolay ele veren şey nedir?
+Find My ağının olmaması. Tüm replikalarda bu özellik yoktur ve topluluğun henüz aşamadığı tek eksiklik de budur. Birisi AirPods'larınızı telefonuna eşleştirip Find My uygulamasını kontrol ederse bu kesin bir işarettir — ancak bunun için AirPods'larınızı kendi cihazına bağlaması gerekir ki bu durum neredeyse hiç yaşanmaz.
 :::
 
-::: details Gerçeğinden ayırt edilmesi en zor replika sürümü hangisi?
-Üst sürümler. AirPods Pro 2 V5.4 Huilian, topluluğun en iyi çok yönlü seçeneğidir; güncel AirPods Pro 3 ailesi (V6 ve V7) ise en yeni özelliklere ve gerçeğine en yakın yapı ayrıntılarına sahiptir. Bir uzman tarafından yapılacak tam kapsamlı yakın incelemeden sağ çıkamazlar, ancak günlük kullanıma ve gelişigüzel bakışlara en iyi dayanan modeller bunlardır. Ayrıntılı karşılaştırma için [sürüm karşılaştırmasına](/tr/version-info/general) bakın.
+::: details Orijinalinden ayırt edilmesi en zor replika sürümü hangisi?
+Üst sürümler. AirPods Pro 2 V5.4 Huilian, topluluğun en iyi çok yönlü seçeneğidir; güncel AirPods Pro 3 ailesi (V6 ve V7) ise en yeni özelliklere ve orijinale en yakın yapısal ayrıntılara sahiptir. Uzmanların yaptığı yakından ve kapsamlı bir incelemeden geçemezler, ancak günlük kullanıma ve şöyle bir bakışa en iyi dayananlar bunlardır. Tüm ayrıntılar için [sürüm karşılaştırmasına](/tr/version-info/general) göz atın.
 :::
