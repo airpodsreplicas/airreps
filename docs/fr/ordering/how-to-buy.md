@@ -3,7 +3,7 @@ title: Comment acheter des répliques d'AirPods en toute sécurité
 description: 'Commander des répliques d''AirPods en toute sécurité. Méthodes de paiement, vendeurs fiables, conseils d''expédition et éviter les arnaques.'
 faq:
   - q: Quelles méthodes de paiement les vendeurs fiables acceptent-ils ?
-    a: 'Les vendeurs fiables acceptent les cartes de crédit, Alipay, Revolut, Wise et Bitcoin. Tous les vendeurs ont des boutiques Weidian accessibles via des agents comme KakoBuy. PayPal est pris en charge par Earhive et HiCity, et l''agent KakoBuy l''accepte également.'
+    a: 'Les vendeurs fiables acceptent les cartes de crédit, Alipay, Revolut, Wise et Bitcoin. Tous les vendeurs ont des boutiques Weidian accessibles via des agents comme KakoBuy. PayPal est parfois disponible chez Earhive, et l''agent KakoBuy l''accepte également.'
   - q: Pourquoi suis-je redirigé vers un site crypto lorsque je paie par carte de crédit ?
     a: 'Les vendeurs fiables utilisent une passerelle de paiement crypto sécurisée pour traiter les paiements par carte de crédit. Votre carte achète des crypto-monnaies, ce qui complète la commande. Pour éviter le KYC, utilisez KakoBuy — un agent qui accepte des cartes de crédit ordinaires sans vérification d''identité.'
 ---
@@ -40,7 +40,7 @@ De nombreux vendeurs de confiance acceptent désormais Alipay, permettant des pa
 ## FAQ
 
 ::: details Quels modes de paiement les vendeurs de confiance acceptent-ils ?
-Les vendeurs de confiance acceptent plusieurs moyens de paiement, notamment les cartes bancaires, Alipay, Revolut, Wise et Bitcoin. Tous les vendeurs ont des boutiques Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy) — consultez notre [guide pas à pas KakoBuy](/fr/ordering/kakobuy). PayPal est pris en charge par Earhive et HiCity, et l'agent [KakoBuy](https://airreps.link/kakobuy) l'accepte également. Les options de paiement peuvent varier selon le vendeur — consultez le [tableau des méthodes de paiement](/fr/links/info#payment-methods) pour un aperçu détaillé.
+Les vendeurs de confiance acceptent plusieurs moyens de paiement, notamment les cartes bancaires, Alipay, Revolut, Wise et Bitcoin. Tous les vendeurs ont des boutiques Weidian accessibles via des agents comme [KakoBuy](https://airreps.link/kakobuy) — consultez notre [guide pas à pas KakoBuy](/fr/ordering/kakobuy). PayPal est parfois disponible chez Earhive, et l'agent [KakoBuy](https://airreps.link/kakobuy) l'accepte également. Les options de paiement peuvent varier selon le vendeur — consultez le [tableau des méthodes de paiement](/fr/links/info#payment-methods) pour un aperçu détaillé.
 :::
 <span id="credit-card-note"></span>
 ::: details Pourquoi suis-je redirigé vers un site crypto lorsque je paie par carte de crédit ?
