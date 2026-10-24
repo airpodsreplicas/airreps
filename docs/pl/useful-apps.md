@@ -34,7 +34,7 @@ Poniżej znajdują się aplikacje, które można pobrać, aby ci pomóc, wraz z 
 |[![StarFun (Android)](/app_icon/starfun.png)](https://airreps.link/starfun) StarFun (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/starfun" aria-label="Pobierz APK dla StarFun (Android)" target="_blank" rel="noreferrer">Pobierz APK</a></span>|[![StarFun (iOS)](/app_icon/starfun.png)](https://airreps.link/istarfun) StarFun (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/istarfun" aria-label="Pobierz StarFun (iOS) z App Store" target="_blank" rel="noreferrer">App Store</a></span>|
 |---|---|
 
-## **V2.5/KKX**
+## **KKX**
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/kkx" aria-label="Pobierz APK dla KKX (Android)" target="_blank" rel="noreferrer">Pobierz APK</a></span> |
 |---|

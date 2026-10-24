@@ -53,22 +53,6 @@ Repliki AirPods Max to wariant nauszny, od tanich plastikowych wersji po metalow
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">V2.5</span></td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/emaxv25">Strona</a>
-        <a href="https://airreps.link/earhivew">Weidian</a>
-      </div>
-    </td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Strona niedostępna</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-  <tr>
     <td><span class="version-badge">V2 Metal</span></td>
     <td>
       <div class="link-column">

@@ -53,22 +53,6 @@ Les répliques d'AirPods Max sont l'option circum-aurale, allant des modèles bo
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">V2.5</span></td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/emaxv25">Site web</a>
-        <a href="https://airreps.link/earhivew">Weidian</a>
-      </div>
-    </td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Site web indisponible</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-  <tr>
     <td><span class="version-badge">V2 Metal</span></td>
     <td>
       <div class="link-column">
