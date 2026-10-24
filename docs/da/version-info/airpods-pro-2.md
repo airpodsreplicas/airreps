@@ -5,7 +5,7 @@ description: 'Sammenlign replikaudgaver af AirPods Pro 2 efter chip, funktioner 
 # AirPods Pro 2
 
 ::: tip Stadig det mest modne valg
-Producenterne flytter langsomt udviklingsfokus til nyere modeller. AirPods Pro 2-kopier er stadig fremragende produkter og det mest modne og funktionsrige valg i Pro-serien. Hvis du vil have de nyeste funktioner, tilføjer [AirPods Pro 3 V7](/da/version-info/airpods-pro-3) en pulsmåler og AI Hybrid ANC — men det er en tidlig udgivelse med særheder, som det er værd at læse om, før du køber.
+Producenterne flytter langsomt udviklingsfokus til nyere modeller. AirPods Pro 2-kopier er stadig fremragende produkter og det mest modne og funktionsrige valg i Pro-serien. Hvis du vil have de nyeste funktioner, tilføjer [AirPods Pro 3 V7](/da/version-info/airpods-pro-3) en pulsmåler og AI Hybrid ANC.
 :::
 
 **Kort vurdering:** For de fleste købere er **V5.4 Huilian** den bedste AirPods Pro 2-kopi samlet set, da den kombinerer de nyeste funktioner (iCloud Connect, adaptiv lyd, ANC tæt på originalens niveau) med stærk allround-ydeevne. Vil du i stedet have den stærkeste støjreduktion? **V5.3 TB** fører på ANC. Se [købslinksene](/da/links/airpods-pro-2) til begge modeller.

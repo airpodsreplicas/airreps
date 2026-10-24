@@ -1419,6 +1419,12 @@ const product = computed<ProductRec | null>(() => {
 
     // --- In-ear logic ---
 
+    // Both V7 builds have the heart rate sensor and head gestures, so gym and calls answers get a matching reason.
+    const v7UseCaseReasons = [
+        ...(useCase === 'gym' ? ['Optical heart rate sensor — handy for tracking workouts'] : []),
+        ...(useCase === 'calls' ? ['Nod or shake your head to answer or decline calls'] : []),
+    ];
+
     // In-ear: latest -> Pro 3 V7 TigerBuilder (newest and best V7 build; Huilian V7 is the runner-up).
     // Mac users get the Huilian V7 instead — the TigerBuilder has no iCloud Connect.
     if (priority === 'latest') {
@@ -1431,7 +1437,8 @@ const product = computed<ProductRec | null>(() => {
                 reasons: [
                     'Newest AirPods Pro 3 form factor with iCloud Connect for Mac/iPhone switching',
                     'Heart rate sensor, head gestures, AI Hybrid ANC, Live Translation, Starfun app',
-                    'Early release — check the version page for current community sentiment before buying',
+                    'Pro 3 iOS popup, low-latency gaming mode and ~7h of playback',
+                    ...v7UseCaseReasons,
                     `Also consider: V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) — the newest and best V7 build, but no iCloud Connect`,
                 ],
                 links: [
@@ -1451,8 +1458,8 @@ const product = computed<ProductRec | null>(() => {
                 'Newest AirPods Pro 3 form factor with almost 1:1 hinge',
                 'Heart rate sensor, head gestures, conversation awareness, adaptive ANC, multipoint for 3 devices',
                 'No iOS popup or serial number yet — the seller tried to add them in an update, but it failed; a future update may add them (uses the FlyCC app)',
-                'Early release — check the version page for current community sentiment before buying',
-                `Also consider: V7 Huilian ($${prices['pro3-v7-huilian']}) for iCloud Connect & Live Translation, or Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — even better ANC for less`,
+                ...v7UseCaseReasons,
+                `Also consider: V7 Huilian ($${prices['pro3-v7-huilian']}) for the iOS popup, iCloud Connect & Live Translation, or Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — even better ANC for less`,
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
@@ -1467,18 +1474,19 @@ const product = computed<ProductRec | null>(() => {
     if (needsMac.value) {
         if (priority === 'features') {
             return {
-                title: 'AirPods Pro 2 V5.4 Huilian',
-                linksPageKey: 'airpods-pro-2',
-                subtitle: 'Huilian 377 — Most feature-complete for Apple ecosystem',
-                priceKey: 'pro2-v5.4-huilian',
+                title: 'AirPods Pro 3 V7 Huilian',
+                linksPageKey: 'airpods-pro-3',
+                subtitle: 'Huilian 377H3 — Most feature-complete for Apple ecosystem',
+                priceKey: 'pro3-v7-huilian',
                 reasons: [
-                    'iCloud Connect, adaptive audio, conversation awareness, OTA updates',
-                    'Almost 1:1 hinge, improved ANC',
-                    'Works seamlessly with macOS — iCloud device switching',
-                    'The newest and most feature-packed Pro 2 variant',
+                    'iCloud Connect for seamless Mac/iPhone switching',
+                    'Heart rate sensor, head gestures, conversation awareness, Live Translation',
+                    'AI Hybrid ANC, head-tracking spatial audio, low-latency gaming mode',
+                    ...v7UseCaseReasons,
+                    `Also consider: Pro 2 V5.4 Huilian ($${prices['pro2-v5.4-huilian']}) — adds adaptive audio and OTA updates for less`,
                 ],
                 links: [
-                    { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
+                    { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
                     { text: 'Connectivity Details', url: '/introduction/connectivity' },
                     { text: 'Features Overview', url: '/introduction/features' },
                     { text: 'Battery Life', url: '/introduction/battery-life' },
@@ -1495,6 +1503,7 @@ const product = computed<ProductRec | null>(() => {
                     'Newest Pro form factor with Huilian chip for Mac compatibility',
                     `iCloud Connect & Live Translation at just $${prices['pro3-v6-huilian']}`,
                     'Good ANC, spatial audio, iOS 26 support',
+                    `Step up to V7 Huilian ($${prices['pro3-v7-huilian']}) for heart rate, head gestures & stronger ANC`,
                     `Also consider: AirPods 2 V3E ($${prices['gen2-v3e']}) for ultra-budget`,
                 ],
                 links: [
@@ -1506,7 +1515,28 @@ const product = computed<ProductRec | null>(() => {
                 ],
             };
         }
-        // Mac ANC/stable
+        if (priority === 'anc') {
+            return {
+                title: 'AirPods Pro 3 V7 Huilian',
+                linksPageKey: 'airpods-pro-3',
+                subtitle: 'Huilian 377H3 — Strongest ANC with iCloud Connect',
+                priceKey: 'pro3-v7-huilian',
+                reasons: [
+                    'Dual-feed AI Hybrid ANC (~38–42 dB) — well above the Pro 2 V5.3 Huilian (30–32 dB)',
+                    'iCloud Connect for seamless Mac/iPhone switching',
+                    'Heart rate sensor, head gestures, Live Translation',
+                    ...v7UseCaseReasons,
+                    `Prefer the longest-proven Mac pick? Pro 2 V5.3 Huilian ($${prices['pro2-v5.3-huilian']}) — flawless macOS support`,
+                ],
+                links: [
+                    { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
+                    { text: 'ANC Explained', url: '/introduction/anc-explained' },
+                    { text: 'Connectivity Details', url: '/introduction/connectivity' },
+                    { text: 'Battery Life', url: '/introduction/battery-life' },
+                ],
+            };
+        }
+        // Mac stable
         return {
             title: 'AirPods Pro 2 V5.3 Huilian',
             linksPageKey: 'airpods-pro-2',
@@ -1548,7 +1578,7 @@ const product = computed<ProductRec | null>(() => {
                     : []),
                 ...(priority === 'anc'
                     ? [
-                          `Want the newest instead? Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) adds adaptive ANC, heart rate sensor & head gestures (early release)`,
+                          `Want the newest instead? Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) adds adaptive ANC, heart rate sensor & head gestures`,
                       ]
                     : []),
             ],
@@ -1562,19 +1592,19 @@ const product = computed<ProductRec | null>(() => {
 
     if (priority === 'features') {
         return {
-            title: 'AirPods Pro 2 V5.4 Huilian',
-            linksPageKey: 'airpods-pro-2',
-            subtitle: 'Huilian 377 — Maximum features',
-            priceKey: 'pro2-v5.4-huilian',
+            title: 'AirPods Pro 3 V7 Huilian',
+            linksPageKey: 'airpods-pro-3',
+            subtitle: 'Huilian 377H3 — Maximum features',
+            priceKey: 'pro3-v7-huilian',
             reasons: [
-                'iCloud Connect, adaptive audio, conversation awareness, OTA updates',
-                'Almost 1:1 hinge, improved ANC over older Huilian',
-                'The newest Pro 2 variant with the most features',
-                'Closest-to-retail experience available',
-                `Also consider: Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) — newest Pro 3 with heart rate sensor, head gestures & conversation awareness, but no iCloud Connect`,
+                'Heart rate sensor, head gestures, conversation awareness, Live Translation',
+                'iCloud Connect, Pro 3 iOS popup, Starfun app',
+                'AI Hybrid ANC, head-tracking spatial audio, low-latency gaming mode',
+                ...v7UseCaseReasons,
+                `Also consider: Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) — the newest and best V7 build with adaptive ANC & multipoint for 3 devices, but no iOS popup yet and no iCloud Connect; or Pro 2 V5.4 Huilian ($${prices['pro2-v5.4-huilian']}) for adaptive audio`,
             ],
             links: [
-                { text: 'AirPods Pro 2 Version Info', url: '/version-info/airpods-pro-2' },
+                { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
                 { text: 'Features Overview', url: '/introduction/features' },
                 { text: 'Connectivity Details', url: '/introduction/connectivity' },
                 { text: 'Battery Life', url: '/introduction/battery-life' },

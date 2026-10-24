@@ -5,7 +5,7 @@ description: 'AirPods Pro 2 replika sürümlerini çip, özellikler ve eksik öz
 # AirPods Pro 2
 
 ::: tip Hâlâ en olgun seçenek
-Üreticiler geliştirme odağını yavaş yavaş daha yeni modellere kaydırıyor. AirPods Pro 2 replikaları hâlâ mükemmel ürünler ve Pro serisindeki en olgun, özellik bakımından en kapsamlı seçenek olmayı sürdürüyor. En yeni özellikleri istiyorsanız [AirPods Pro 3 V7](/tr/version-info/airpods-pro-3) bir kalp atış hızı sensörü ve AI Hybrid ANC sunuyor — ancak bu, satın almadan önce hakkında bilgi edinmeye değer bazı pürüzleri olan erken bir sürüm.
+Üreticiler geliştirme odağını yavaş yavaş daha yeni modellere kaydırıyor. AirPods Pro 2 replikaları hâlâ mükemmel ürünler ve Pro serisindeki en olgun, özellik bakımından en kapsamlı seçenek olmayı sürdürüyor. En yeni özellikleri istiyorsanız [AirPods Pro 3 V7](/tr/version-info/airpods-pro-3) bir kalp atış hızı sensörü ve AI Hybrid ANC sunuyor.
 :::
 
 **Kısa karar:** Çoğu alıcı için **V5.4 Huilian**, en yeni özellikleri (iCloud Connect, uyarlanabilir ses, perakende sürümüne yakın ANC) güçlü ve çok yönlü performansla birleştirerek genel olarak en iyi AirPods Pro 2 replikasıdır. En güçlü gürültü engellemeyi mi istiyorsunuz? ANC konusunda **V5.3 TB** önde. Her ikisi için de [satın alma bağlantılarına](/tr/links/airpods-pro-2) göz atın.

@@ -39,7 +39,7 @@ In other words, if a feature is missing on your reps, the phone upgrade won't ad
 
 The sensible buying rule is to pick a version whose feature list matches the iOS generation you're actually running, then confirm it on the version info page rather than trusting a seller's claim. Listings describe clones with vague names and unreliable chip photos; the community numbering exists precisely because those claims don't hold up. Compare versions on the [version info](/version-info/general) page, ask the [quiz](/quiz) for a recommendation, and buy from a [trusted seller](/links/info).
 
-If you're on an older version of iOS, you don't need the newest replica to match — a proven previous-generation model often makes more sense than an early release with rough edges. Match the product to your phone's software generation, not to the marketing.
+If you're on an older version of iOS, you don't need the newest replica to match — a previous-generation model that matches your iOS version often makes more sense than paying for features your phone can't use yet. Match the product to your phone's software generation, not to the marketing.
 
 ## Do iOS updates break replicas?
 
