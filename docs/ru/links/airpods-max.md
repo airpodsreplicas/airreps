@@ -53,6 +53,22 @@ description: Проверенные версии реплик AirPods Max и н�
     </td>
   </tr>
   <tr>
+    <td><span class="version-badge">V2.5</span></td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/emaxv25">Сайт</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <span class="unavailable-link">Сайт недоступен</span>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V2 Metal</span></td>
     <td>
       <div class="link-column">

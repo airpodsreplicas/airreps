@@ -53,6 +53,22 @@ Las réplicas de AirPods Max son la opción circumaural, que van desde construcc
     </td>
   </tr>
   <tr>
+    <td><span class="version-badge">V2.5</span></td>
+    <td>
+      <div class="link-column">
+        <a href="https://airreps.link/emaxv25">Sitio web</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <span class="unavailable-link">Sitio web no disponible</span>
+        <a href="https://airreps.link/jennyw">Weidian</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V2 Metal</span></td>
     <td>
       <div class="link-column">
