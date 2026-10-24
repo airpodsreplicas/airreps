@@ -54,22 +54,6 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">V2.5</span></td>
-    <td>
-      <div class="link-column">
-        <a href="https://airreps.link/emaxv25">Website</a>
-        <a href="https://airreps.link/earhivew">Weidian</a>
-      </div>
-    </td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Website unavailable</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-  <tr>
     <td><span class="version-badge">V2 Metal</span></td>
     <td>
       <div class="link-column">
