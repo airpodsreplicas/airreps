@@ -3,7 +3,7 @@ title: AirPods Replikalarını Güvenli Bir Şekilde Nasıl Satın Alınır
 description: 'AirPods replikalarını güvenli bir şekilde sipariş edin. Ödeme yöntemleri, güvenilir satıcılar, gönderim ipuçları ve dolandırıcılıklardan kaçınma.'
 faq:
   - q: Güvenilir satıcılar hangi ödeme yöntemlerini kabul ediyor?
-    a: 'Güvenilir satıcılar kredi kartları, Alipay, Revolut, Wise ve Bitcoin''i kabul eder. Tüm satıcıların KakoBuy gibi aracılar aracılığıyla erişilebilen Weidian vitrinleri vardır. PayPal, Earhive ve HiCity tarafından desteklenir ve KakoBuy acentesi de PayPal''ı kabul eder.'
+    a: 'Güvenilir satıcılar kredi kartları, Alipay, Revolut, Wise ve Bitcoin''i kabul eder. Tüm satıcıların KakoBuy gibi aracılar aracılığıyla erişilebilen Weidian vitrinleri vardır. PayPal, Earhive''da bazen kullanılabilir ve KakoBuy acentesi de PayPal''ı kabul eder.'
   - q: Kredi kartı ile ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
     a: Güvenilir satıcılar kredi kartı ödemelerini işlemek için güvenli bir kripto ödeme geçidi kullanır. Kartınız kripto satın alır; bu da siparişi tamamlar. KYC'den kaçınmak için KakoBuy'ı kullanın - kimlik kontrolleri olmadan normal kredi kartlarını kabul eden bir acente.
 ---
@@ -40,7 +40,7 @@ Birçok güvenilir satıcı artık Alipay kabul ediyor; bu, KYC doğrulaması ol
 ## Sıkça sorulan sorular
 
 ::: details Güvenilir satıcılar hangi ödeme yöntemlerini kabul ediyor?
-Güvenilir satıcılar Kredi kartları, Alipay, Revolut, Wise ve Bitcoin dahil olmak üzere birden fazla ödeme yöntemini kabul eder. Tüm satıcıların [KakoBuy](https://airreps.link/kakobuy) gibi aracılar aracılığıyla erişilebilen Weidian mağazaları vardır — adım adım [KakoBuy rehberimize](/tr/ordering/kakobuy) göz atın. PayPal, Earhive ve HiCity tarafından desteklenir ve [KakoBuy](https://airreps.link/kakobuy) acentesi de PayPal kabul eder. Ödeme seçenekleri satıcıya göre değişebilir — ayrıntılı döküm için [ödeme yöntemleri tablosuna](/tr/links/info#payment-methods) bakın.
+Güvenilir satıcılar Kredi kartları, Alipay, Revolut, Wise ve Bitcoin dahil olmak üzere birden fazla ödeme yöntemini kabul eder. Tüm satıcıların [KakoBuy](https://airreps.link/kakobuy) gibi aracılar aracılığıyla erişilebilen Weidian mağazaları vardır — adım adım [KakoBuy rehberimize](/tr/ordering/kakobuy) göz atın. PayPal, Earhive'da bazen kullanılabilir ve [KakoBuy](https://airreps.link/kakobuy) acentesi de PayPal kabul eder. Ödeme seçenekleri satıcıya göre değişebilir — ayrıntılı döküm için [ödeme yöntemleri tablosuna](/tr/links/info#payment-methods) bakın.
 :::
 <span id="credit-card-note"></span>
 ::: details Kredi kartı ile ödeme yaparken neden beni kripto bir siteye yönlendiriyorlar?

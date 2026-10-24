@@ -499,7 +499,7 @@ Note: Payments via Wise require manual review (up to 24 hours).
 Paying with AliPay: Many trusted sellers accept AliPay for easy card payments without KYC verification. Download the AliPay app, create an account, add a payment method, then scan the QR code at checkout.
 
 FAQ:
-- What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bitcoin. All have Weidian storefronts. PayPal is supported by Earhive and HiCity, and the KakoBuy agent also accepts it.
+- What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bitcoin. All have Weidian storefronts. PayPal is sometimes available at Earhive, and the KakoBuy agent also accepts it.
 - Why am I redirected to a crypto website when paying via Credit Card? Sellers use a secure crypto payment gateway. Some processors may prompt for KYC. Alternative: Use KakoBuy (https://airreps.link/kakobuy) which never requires KYC verification.
 ---
 
@@ -520,7 +520,7 @@ Payment Methods by Seller:
                         Earhive   HiCity   Jenny
 Credit/Debit Card       Yes       Yes      Yes
 AliPay                  Yes       No       Yes
-PayPal                  Yes       Yes      No
+PayPal                  Sometimes No       No
 Revolut                 Yes       Yes      Yes
 Wise                    Yes       Yes      Yes
 Xoom                    Yes       No       Yes
