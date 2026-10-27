@@ -28,7 +28,7 @@
     "fs-extra": "^11.4.1",
     "gray-matter": "^4.0.3",
     "image-size": "^2.0.4",
-    "openai": "^7.38.0",
+    "openai": "^7.43.0",
     "satori": "^0.62.0",
     "satori-html": "^0.3.2",
     "ultracite": "^8.0.1",
