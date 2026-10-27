@@ -31,7 +31,7 @@
     "openai": "^7.38.0",
     "satori": "^0.62.0",
     "satori-html": "^0.3.2",
-    "ultracite": "^8.0.1",
+    "ultracite": "^8.0.2",
     "vite": "^8.2.0"
   }
 }
