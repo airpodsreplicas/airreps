@@ -13,6 +13,7 @@ import { productFamiliesPlugin } from './plugins/product-families';
 import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
 import { privacyLink } from './privacy-link';
 import { productDestination, productRedirectScript } from './product-routes';
+import { seasonScript } from './theme/season';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
 const docsDir = path.resolve(configDir, '..');
@@ -780,6 +781,8 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
         metaTag('msapplication-TileColor', '#000000', 'name'),
         metaTag('viewport', 'width=device-width, initial-scale=1', 'name'),
         metaTag('author', 'AirReps', 'name'),
+        // Sets html[data-season] before first paint for the festive touches.
+        ['script', {}, seasonScript()],
     ],
 
     lastUpdated: true,

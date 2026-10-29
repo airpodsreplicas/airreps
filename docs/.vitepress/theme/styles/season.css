@@ -1,0 +1,197 @@
+/* Festive colors, a hat on the navbar logo and small characters in the guide.
+   html[data-season] is set before first paint by the inline head script built
+   from theme/season.ts; the greeting and hero decorations live in
+   SeasonGreeting.vue and SeasonScene.vue. The hero title keeps the brand
+   gradient except on Valentine's Day. */
+:root[data-season="halloween"] {
+  --season-a: #f97316;
+  --season-ink: #ea580c;
+  --season-spider: #2c2538;
+  --season-eye: #fff;
+  --season-hat: url("/season/witch-hat.svg");
+}
+
+:root.dark[data-season="halloween"] {
+  --season-ink: #fb923c;
+  --season-spider: #d9d2e6;
+  --season-eye: #f97316;
+}
+
+:root[data-season="christmas"] {
+  --season-a: #e0453a;
+  --season-ink: #d0362c;
+  --season-snow: #a3bcd3;
+  --season-hat: url("/season/santa-hat.svg");
+}
+
+:root.dark[data-season="christmas"] {
+  --season-ink: #f2675d;
+  --season-snow: #fff;
+}
+
+:root[data-season="newyear"] {
+  --season-a: #e8b53a;
+  --season-ink: #a86d0b;
+  --season-hat: url("/season/party-hat.svg");
+}
+
+:root.dark[data-season="newyear"] {
+  --season-ink: #f3c552;
+}
+
+:root[data-season="lunarnewyear"] {
+  --season-a: #e0362f;
+  --season-ink: #cf2b24;
+}
+
+:root.dark[data-season="lunarnewyear"] {
+  --season-ink: #f36b5c;
+}
+
+:root[data-season="valentines"] {
+  --season-a: #e5486f;
+  --season-ink: #d13362;
+  --vp-home-hero-name-background: linear-gradient(120deg, #ff7aa2, #e11d48);
+}
+
+:root.dark[data-season="valentines"] {
+  --season-ink: #f2709a;
+}
+
+:root[data-season="easter"] {
+  --season-a: #a78bfa;
+  --season-ink: #7b5bd6;
+  --season-hat: url("/season/bunny-ears.svg");
+}
+
+:root.dark[data-season="easter"] {
+  --season-ink: #b9a2fb;
+}
+
+/* The hat sits on the 24px navbar logo on every page. Bunny ears go behind it. */
+:root:is(
+    [data-season="halloween"],
+    [data-season="christmas"],
+    [data-season="newyear"],
+    [data-season="easter"]
+  )
+  .VPNavBarTitle
+  .title {
+  position: relative;
+  z-index: 0;
+}
+
+:root:is(
+    [data-season="halloween"],
+    [data-season="christmas"],
+    [data-season="newyear"],
+    [data-season="easter"]
+  )
+  .VPNavBarTitle
+  .title::before {
+  position: absolute;
+  top: calc(50% - 12px - var(--season-hat-rise));
+  left: var(--season-hat-left);
+  z-index: var(--season-hat-layer, 1);
+  width: var(--season-hat-width);
+  aspect-ratio: var(--season-hat-ratio);
+  pointer-events: none;
+  content: "";
+  background: var(--season-hat) center / contain no-repeat;
+  transform: rotate(var(--season-hat-tilt));
+}
+
+:root[data-season="halloween"] {
+  --season-hat-left: -3px;
+  --season-hat-rise: 13px;
+  --season-hat-ratio: 32 / 28;
+  --season-hat-tilt: -12deg;
+  --season-hat-width: 24px;
+}
+
+:root[data-season="christmas"] {
+  --season-hat-left: -4px;
+  --season-hat-rise: 13px;
+  --season-hat-ratio: 32 / 26;
+  --season-hat-tilt: -14deg;
+  --season-hat-width: 24px;
+}
+
+:root[data-season="newyear"] {
+  --season-hat-left: 7px;
+  --season-hat-rise: 14px;
+  --season-hat-ratio: 24 / 30;
+  --season-hat-tilt: 16deg;
+  --season-hat-width: 14px;
+}
+
+:root[data-season="easter"] {
+  --season-hat-left: -4px;
+  --season-hat-rise: 14px;
+  --season-hat-layer: -1;
+  --season-hat-ratio: 32 / 28;
+  --season-hat-tilt: 0deg;
+  --season-hat-width: 32px;
+}
+
+/* Guide pages: a character peeks over the first table and an object sits on
+   the first tip or info box. Both are drawn standing on the top edge. */
+:root[data-season="halloween"] {
+  --season-peek-table: url("/season/ghost-peek.svg");
+  --season-peek-box: url("/season/pumpkin.svg");
+}
+
+:root[data-season="christmas"] {
+  --season-peek-table: url("/season/elf-peek.svg");
+  --season-peek-box: url("/season/santa-peek.svg");
+}
+
+:root[data-season="newyear"] {
+  --season-peek-table: url("/season/popper.svg");
+  --season-peek-box: url("/season/popper.svg");
+}
+
+:root[data-season="lunarnewyear"] {
+  --season-peek-table: url("/season/hongbao.svg");
+  --season-peek-box: url("/season/hongbao.svg");
+}
+
+:root[data-season="valentines"] {
+  --season-peek-table: url("/season/hearts.svg");
+  --season-peek-box: url("/season/hearts.svg");
+}
+
+:root[data-season="easter"] {
+  --season-peek-table: url("/season/bunny-peek.svg");
+  --season-peek-box: url("/season/eggs.svg");
+}
+
+/* Tables scroll sideways, which clips anything drawn outside them, so the
+   character lives in extra top padding instead. */
+:root[data-season] .vp-doc > div > table:first-of-type {
+  padding-top: 33px;
+  margin-top: 12px;
+  background: var(--season-peek-table) left 14px top 0 / 44px 33px no-repeat;
+}
+
+:root[data-season]
+  .vp-doc
+  > div
+  > .custom-block:is(.tip, .info):not(.custom-block:is(.tip, .info) ~ *) {
+  position: relative;
+  margin-top: 40px;
+}
+
+:root[data-season]
+  .vp-doc
+  > div
+  > .custom-block:is(.tip, .info):not(.custom-block:is(.tip, .info) ~ *)::before {
+  position: absolute;
+  right: 16px;
+  bottom: calc(100% - 1px);
+  width: 44px;
+  height: 33px;
+  pointer-events: none;
+  content: "";
+  background: var(--season-peek-box) center bottom / contain no-repeat;
+}
