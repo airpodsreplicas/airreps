@@ -37,12 +37,6 @@ AirPods Pro 2 Repliken sind die beliebteste und ausgereifteste In‑Ear‑Wahl. 
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">V5.3 (HR)</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-  </tr>
-  <tr>
     <td><span class="version-badge">V5.3 (TB)</span></td>
     <td>
       <div class="link-column">
@@ -111,16 +105,10 @@ AirPods Pro 2 Repliken sind die beliebteste und ausgereifteste In‑Ear‑Wahl. 
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <a href="https://airreps.link/jprov52hl">Website</a>
+        <span class="unavailable-link">Webseite nicht verfügbar</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V5.2 (HR)</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
   </tr>
   <tr>
     <td><span class="version-badge">V4.2</span></td>
