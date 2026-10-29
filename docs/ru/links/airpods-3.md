@@ -1,6 +1,6 @@
 ---
 title: 'Купить реплики AirPods 3: ссылки продавцов'
-description: Надежные ссылки продавцов и варианты покупки реплик AirPods 3.
+description: "Сейчас проверенные продавцы не продают реплики AirPods 3. Альтернатива в наличии — AirPods 4."
 ---
 # Купить реплики AirPods 3
 
@@ -8,39 +8,6 @@ description: Надежные ссылки продавцов и вариант�
 
 ## Версии и продавцы
 
-<table>
-  <tr>
-    <th>Версия</th>
-    <th>Earhive</th>
-    <th>HiCity</th>
-    <th>Jenny</th>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V1E</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Сайт недоступен</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V1.2+</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Сайт недоступен</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
-::: tip Для заказов Weidian нужен агент
-Выбор ссылки Weidian требует использования агента для доставки. Мы рекомендуем этот вариант только если вы хотите объединить доставку с другими товарами и знакомы с платформами агентов. Для надёжного агента мы рекомендуем [KakoBuy](https://airreps.link/kakobuy). Не знакомы с агентами? Ознакомьтесь с нашим [руководством по заказу KakoBuy](/ru/ordering/kakobuy).
+::: info Сейчас нет предложений
+Сейчас ни один из наших проверенных продавцов не продаёт реплики AirPods 3. Похожую открытую модель, которая есть в наличии, смотрите в [ссылках на продавцов AirPods 4](/ru/links/airpods-4).
 :::

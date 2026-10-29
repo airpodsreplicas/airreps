@@ -1,6 +1,6 @@
 ---
 title: 'Satın Al AirPods 3 Replikaları: Satıcı Bağlantıları'
-description: AirPods 3 replikaları için güvenilir satıcı bağlantıları ve satın alma seçenekleri.
+description: "Güvenilir satıcılarımız şu anda AirPods 3 replikası satmıyor. Stokta olan bir alternatif için AirPods 4'e bakın."
 ---
 # AirPods 3 replika satın alın
 
@@ -8,39 +8,6 @@ AirPods 3 replikaları size ANC olmadan sap tarzı bir uyum sağlar. Mevcut sür
 
 ## Sürümler ve satıcılar
 
-<table>
-  <tr>
-    <th>Sürüm</th>
-    <th>Earhive</th>
-    <th>HiCity</th>
-    <th>Jenny</th>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V1E</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Web sitesi kullanılamıyor</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V1.2+</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Web sitesi kullanılamıyor</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
-::: tip Weidian siparişleri aracı gerektirir
-Weidian bağlantısı seçmek, sevkiyat için bir acente kullanılmasını gerektirir. Bu seçeneği yalnızca sevkiyatı diğer öğelerle birleştirmek istiyorsanız ve acente platformlarına aşina iseniz öneririz. Güvenilir bir acente için [KakoBuy](https://airreps.link/kakobuy)'ı öneririz. Acentelere yeni misiniz? [KakoBuy sipariş kılavuzunu](/tr/ordering/kakobuy) inceleyin.
+::: info Şu anda ilan yok
+Güvenilir satıcılarımızın hiçbiri şu anda AirPods 3 replikası satmıyor. Stokta olan benzer açık tasarım için [AirPods 4 satıcı bağlantılarına](/tr/links/airpods-4) göz atın.
 :::

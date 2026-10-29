@@ -1,6 +1,6 @@
 ---
 title: 'Kup Repliki AirPods 3: Linki Do Sprzedawców'
-description: Zaufane linki do sprzedawców i opcje zakupu replik AirPods 3.
+description: "Żaden zaufany sprzedawca nie oferuje obecnie replik AirPods 3. Zobacz AirPods 4 jako dostępną alternatywę."
 ---
 # Kup repliki AirPods 3
 
@@ -8,39 +8,6 @@ Repliki AirPods 3 oferują dopasowanie typu stem bez ANC. Porównaj dostępne we
 
 ## Wersje i sprzedawcy
 
-<table>
-  <tr>
-    <th>Wersja</th>
-    <th>Earhive</th>
-    <th>HiCity</th>
-    <th>Jenny</th>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V1E</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Strona niedostępna</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><span class="version-badge">V1.2+</span></td>
-    <td style="text-align: center;">-</td>
-    <td style="text-align: center;">-</td>
-    <td>
-      <div class="link-column">
-        <span class="unavailable-link">Strona niedostępna</span>
-        <a href="https://airreps.link/jennyw">Weidian</a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
-::: tip Zamówienia Weidian wymagają agenta
-Wybór linku Weidian wymaga skorzystania z agenta do wysyłki. Polecamy tę opcję tylko wtedy, gdy chcesz skonsolidować wysyłkę z innymi przedmiotami i znasz platformy agentów. Dla niezawodnego agenta polecamy [KakoBuy](https://airreps.link/kakobuy). Nowy w korzystaniu z agentów? Sprawdź nasz [poradnik zamawiania KakoBuy](/pl/ordering/kakobuy).
+::: info Brak aktualnych ofert
+Żaden z naszych zaufanych sprzedawców nie oferuje obecnie replik AirPods 3. Podobną otwartą konstrukcję, dostępną od ręki, znajdziesz w [linkach do sprzedawców AirPods 4](/pl/links/airpods-4).
 :::
