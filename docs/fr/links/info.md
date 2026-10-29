@@ -66,7 +66,7 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / cryptomonnaies** | ✅ | ✅ | ✅ |
-| **Virement bancaire** | ❌ | ❌ | ❌ |
+| **Virement bancaire** | ✅ | ❌ | ✅ |
 | **Weidian (par l’intermédiaire d’un agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -76,12 +76,12 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Les passerelles de paiement activées par chaque vendeur ont été vérifiées pour la dernière fois le 22 octobre 2026. La caisse du vendeur fait foi, et la disponibilité actuelle peut varier selon le pays ou la commande.
+Les passerelles de paiement activées par chaque vendeur ont été vérifiées pour la dernière fois le 29 octobre 2026. La caisse du vendeur fait foi, et la disponibilité actuelle peut varier selon le pays ou la commande.
 
-Les modes de paiement OnlyPay de HiCity dépendent du pays de facturation : Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB) ; Swish (SE) ; PayU (CZ, PL) ; Bancontact (BE) ; EPS (AT) ; PIX et Boleto (BR). Ces options par pays ont été vérifiées dans la caisse de HiCity le 4 septembre 2026. OnlyPay confirme la disponibilité finale pour chaque commande. Aucune option OnlyPay n’était proposée pour les États-Unis, le Canada, l’Australie ou la France.
+Les modes de paiement OnlyPay de HiCity dépendent du pays de facturation : Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE) ; Swish (SE) ; PayU (CZ, PL) ; Bancontact (BE) ; EPS (AT) ; PIX et Boleto (BR). Ces options par pays proviennent de la caisse de HiCity et ont été vérifiées pour la dernière fois à partir de paiements aboutis le 29 octobre 2026. OnlyPay confirme la disponibilité finale pour chaque commande. Au Royaume-Uni, Trustly apparaît dans la caisse, mais les paiements n’aboutissent pas : choisissez un autre mode de paiement. Aucune option OnlyPay n’est proposée pour les États-Unis, le Canada, l’Australie ou la France.
 
 ::: tip Des difficultés pour payer ?
-Si vous avez des difficultés pour payer ou finaliser votre commande sur les sites des vendeurs, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Il prend en charge les modes de paiement classiques comme PayPal et les cartes de crédit/débit, qui fonctionnent pour environ 90 % des clients, et c’est globalement un bon agent. Consultez notre [guide KakoBuy](/fr/ordering/kakobuy).
+Si vous avez des difficultés pour payer ou finaliser votre commande sur les sites des vendeurs, nous recommandons [KakoBuy](https://airreps.link/kakobuy). Il prend en charge les modes de paiement classiques comme PayPal et les cartes de crédit/débit, qui fonctionnent pour environ 90 % des clients, et c’est globalement un bon agent. Vous pouvez aussi choisir KakoBuy directement dans la caisse du vendeur ; vous arrivez alors sur l’annonce du vendeur sur KakoBuy. Consultez notre [guide KakoBuy](/fr/ordering/kakobuy).
 :::
 
 ::: tip Délai de validation Wise

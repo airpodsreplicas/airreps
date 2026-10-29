@@ -66,7 +66,7 @@ Alle troværdige sælgere accepterer flere betalingsmetoder for din bekvemmeligh
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin/krypto** | ✅ | ✅ | ✅ |
-| **Bankoverførsel** | ❌ | ❌ | ❌ |
+| **Bankoverførsel** | ✅ | ❌ | ✅ |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -76,12 +76,12 @@ Alle troværdige sælgere accepterer flere betalingsmetoder for din bekvemmeligh
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Hvilke betalingsløsninger hver sælger har aktiveret, blev senest kontrolleret den 22. oktober 2026. Sælgerens betalingsside er afgørende, og den aktuelle tilgængelighed kan ændre sig afhængigt af land eller ordre.
+Hvilke betalingsløsninger hver sælger har aktiveret, blev senest kontrolleret den 29. oktober 2026. Sælgerens betalingsside er afgørende, og den aktuelle tilgængelighed kan ændre sig afhængigt af land eller ordre.
 
-HiCitys OnlyPay-metoder afhænger af faktureringslandet: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX og Boleto (BR). Disse landeindstillinger blev kontrolleret i HiCitys betalingsvindue den 4. september 2026. OnlyPay bekræfter den endelige tilgængelighed for hver ordre. Der var ingen OnlyPay-mulighed for USA, Canada, Australien eller Frankrig.
+HiCitys OnlyPay-metoder afhænger af faktureringslandet: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX og Boleto (BR). Landeindstillingerne kommer fra HiCitys betalingsvindue og blev senest kontrolleret mod gennemførte betalinger den 29. oktober 2026. OnlyPay bekræfter den endelige tilgængelighed for hver ordre. Kunder i Storbritannien får vist Trustly i betalingsvinduet, men britiske betalinger går ikke igennem, så vælg en anden metode der. Der er ingen OnlyPay-mulighed for USA, Canada, Australien eller Frankrig.
 
 ::: tip Problemer med at betale?
-Hvis du har problemer med at betale eller gennemføre købet på sælgernes hjemmesider, anbefaler vi [KakoBuy](https://airreps.link/kakobuy). KakoBuy understøtter almindelige betalingsmetoder som PayPal og kredit-/betalingskort, der virker for omkring 90 % af kunderne, og er generelt en god agent. Se vores [KakoBuy-guide](/da/ordering/kakobuy).
+Hvis du har problemer med at betale eller gennemføre købet på sælgernes hjemmesider, anbefaler vi [KakoBuy](https://airreps.link/kakobuy). KakoBuy understøtter almindelige betalingsmetoder som PayPal og kredit-/betalingskort, der virker for omkring 90 % af kunderne, og er generelt en god agent. Du kan også vælge KakoBuy direkte på sælgerens betalingsside; så kommer du til sælgerens vare på KakoBuy. Se vores [KakoBuy-guide](/da/ordering/kakobuy).
 :::
 
 ::: tip Behandlingstid for Wise

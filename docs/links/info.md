@@ -67,7 +67,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
-| **Bank Transfer** | ❌ | ❌ | ❌ |
+| **Bank Transfer** | ✅ | ❌ | ✅ |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -77,12 +77,12 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Each seller's enabled payment gateways were last checked on 22 October 2026. The seller's checkout is authoritative, and current availability can change by country or order.
+Each seller's enabled payment gateways were last checked on 29 October 2026. The seller's checkout is authoritative, and current availability can change by country or order.
 
-HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options were checked in HiCity's cashier on 4 September 2026. OnlyPay confirms final availability for each order. No OnlyPay option was listed for the US, Canada, Australia or France.
+HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options come from HiCity's cashier and were last checked against completed payments on 29 October 2026. OnlyPay confirms final availability for each order. UK buyers see Trustly in the cashier, but UK payments don't go through, so choose another method there. No OnlyPay option is offered for the US, Canada, Australia or France.
 
 ::: tip Trouble paying?
-If you have trouble paying or checking out on the sellers' websites, we recommend [KakoBuy](https://airreps.link/kakobuy). It supports normal payment methods like PayPal and credit/debit cards that work for about 90% of customers, and it's a good agent overall. See our [KakoBuy guide](/ordering/kakobuy).
+If you have trouble paying or checking out on the sellers' websites, we recommend [KakoBuy](https://airreps.link/kakobuy). It supports normal payment methods like PayPal and credit/debit cards that work for about 90% of customers, and it's a good agent overall. You can also pick KakoBuy right at the seller's checkout; it takes you to the seller's listing on KakoBuy. See our [KakoBuy guide](/ordering/kakobuy).
 :::
 
 ::: tip Wise review time
