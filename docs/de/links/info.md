@@ -66,7 +66,7 @@ Alle vertrauenswürdigen Verkäufer akzeptieren mehrere Zahlungsmethoden:
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / Kryptowährung** | ✅ | ✅ | ✅ |
-| **Banküberweisung** | ❌ | ❌ | ❌ |
+| **Banküberweisung** | ✅ | ❌ | ✅ |
 | **Weidian (über einen Agenten)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -76,12 +76,12 @@ Alle vertrauenswürdigen Verkäufer akzeptieren mehrere Zahlungsmethoden:
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Die von den Verkäufern aktivierten Zahlungs-Gateways wurden zuletzt am 22. Oktober 2026 überprüft. Maßgeblich ist der Kassenbereich des jeweiligen Verkäufers; die aktuelle Verfügbarkeit kann sich je nach Land oder Bestellung ändern.
+Die von den Verkäufern aktivierten Zahlungs-Gateways wurden zuletzt am 29. Oktober 2026 überprüft. Maßgeblich ist der Kassenbereich des jeweiligen Verkäufers; die aktuelle Verfügbarkeit kann sich je nach Land oder Bestellung ändern.
 
-Die OnlyPay-Methoden von HiCity hängen vom Rechnungsland ab: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX und Boleto (BR). Diese Länderoptionen wurden am 4. September 2026 im Kassenbereich von HiCity überprüft. OnlyPay bestätigt die endgültige Verfügbarkeit für jede Bestellung. Für die USA, Kanada, Australien und Frankreich wurde keine OnlyPay-Option aufgeführt.
+Die OnlyPay-Methoden von HiCity hängen vom Rechnungsland ab: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX und Boleto (BR). Diese Länderoptionen stammen aus dem Kassenbereich von HiCity und wurden zuletzt am 29. Oktober 2026 anhand abgeschlossener Zahlungen überprüft. OnlyPay bestätigt die endgültige Verfügbarkeit für jede Bestellung. Käufer aus dem Vereinigten Königreich sehen Trustly zwar im Kassenbereich, britische Zahlungen gehen aber nicht durch – wähle dort eine andere Methode. Für die USA, Kanada, Australien und Frankreich gibt es keine OnlyPay-Option.
 
 ::: tip Probleme beim Bezahlen?
-Wenn du Probleme beim Bezahlen oder beim Abschließen der Bestellung auf den Websites der Verkäufer hast, empfehlen wir [KakoBuy](https://airreps.link/kakobuy). KakoBuy unterstützt gängige Zahlungsmethoden wie PayPal und Kredit-/Debitkarten, die bei etwa 90 % der Kunden funktionieren, und ist insgesamt ein guter Agent. Siehe unseren [KakoBuy-Leitfaden](/de/ordering/kakobuy).
+Wenn du Probleme beim Bezahlen oder beim Abschließen der Bestellung auf den Websites der Verkäufer hast, empfehlen wir [KakoBuy](https://airreps.link/kakobuy). KakoBuy unterstützt gängige Zahlungsmethoden wie PayPal und Kredit-/Debitkarten, die bei etwa 90 % der Kunden funktionieren, und ist insgesamt ein guter Agent. Du kannst KakoBuy auch direkt an der Kasse des Verkäufers auswählen; dann gelangst du zum Angebot des Verkäufers auf KakoBuy. Siehe unseren [KakoBuy-Leitfaden](/de/ordering/kakobuy).
 :::
 
 ::: tip Prüfzeit bei Wise

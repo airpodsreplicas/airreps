@@ -66,7 +66,7 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 | **Xoom** | ❌ | ❌ | ❌ |
 | [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
 | **Bitcoin / kripto** | ✅ | ✅ | ✅ |
-| **Banka havalesi** | ❌ | ❌ | ❌ |
+| **Banka havalesi** | ✅ | ❌ | ✅ |
 | **Weidian (aracı üzerinden)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -76,12 +76,12 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Satıcıların etkinleştirdiği ödeme altyapıları en son 22 Ekim 2026'da kontrol edilmiştir. Belirleyici olan satıcının ödeme sayfasıdır; güncel kullanılabilirlik ülkeye veya siparişe göre değişebilir.
+Satıcıların etkinleştirdiği ödeme altyapıları en son 29 Ekim 2026'da kontrol edilmiştir. Belirleyici olan satıcının ödeme sayfasıdır; güncel kullanılabilirlik ülkeye veya siparişe göre değişebilir.
 
-HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE, GB); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri 4 Eylül 2026'da HiCity'nin ödeme sayfasında kontrol edilmiştir. Her sipariş için son uygunluğu OnlyPay onaylar. ABD, Kanada, Avustralya veya Fransa için hiçbir OnlyPay seçeneği listelenmemiştir.
+HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri HiCity'nin ödeme sayfasından alınmıştır ve en son 29 Ekim 2026'da tamamlanan ödemelerle kontrol edilmiştir. Her sipariş için son uygunluğu OnlyPay onaylar. Birleşik Krallık'taki alıcılar ödeme sayfasında Trustly'yi görür, ancak Birleşik Krallık'tan yapılan ödemeler tamamlanmaz; bu yüzden orada başka bir yöntem seçin. ABD, Kanada, Avustralya veya Fransa için OnlyPay seçeneği yoktur.
 
 ::: tip Ödeme yaparken sorun mu yaşıyorsunuz?
-Satıcıların web sitelerinde ödeme yaparken veya siparişi tamamlarken sorun yaşıyorsanız, [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. PayPal ve kredi/banka kartları gibi, müşterilerin yaklaşık %90'ı için çalışan standart ödeme yöntemlerini destekler ve genel olarak iyi bir aracıdır. Ayrıntılar için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
+Satıcıların web sitelerinde ödeme yaparken veya siparişi tamamlarken sorun yaşıyorsanız, [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. PayPal ve kredi/banka kartları gibi, müşterilerin yaklaşık %90'ı için çalışan standart ödeme yöntemlerini destekler ve genel olarak iyi bir aracıdır. KakoBuy'u doğrudan satıcının ödeme sayfasında da seçebilirsiniz; sizi satıcının KakoBuy'daki ürün sayfasına götürür. Ayrıntılar için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
 :::
 
 ::: tip Wise inceleme süresi
