@@ -60,7 +60,7 @@ Alle vertrauenswürdigen Verkäufer akzeptieren mehrere Zahlungsmethoden:
 |----------------|---------|--------|-------|
 | [**Kredit-/Debitkarte**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ⚠️ Manchmal | ❌ | ❌ |
+| **PayPal** | ⚠️ Manchmal | ✅ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ❌ | ❌ | ❌ |

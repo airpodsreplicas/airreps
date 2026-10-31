@@ -520,7 +520,7 @@ Payment Methods by Seller:
                         Earhive   HiCity   Jenny
 Credit/Debit Card       Yes       Yes      Yes
 AliPay                  Yes       No       Yes
-PayPal                  Sometimes No       No
+PayPal                  Sometimes Yes      No
 Revolut                 Yes       Yes      Yes
 Wise                    Yes       Yes      Yes
 Xoom                    No        No       No
