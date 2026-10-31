@@ -60,7 +60,7 @@ Alle troværdige sælgere accepterer flere betalingsmetoder for din bekvemmeligh
 |----------------|---------|--------|-------|
 | [**Kredit-/debetkort**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ⚠️ Nogle gange | ❌ | ❌ |
+| **PayPal** | ⚠️ Nogle gange | ✅ | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ❌ | ❌ | ❌ |
