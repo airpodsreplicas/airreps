@@ -308,23 +308,37 @@ iframe[src*="youtube"] {
   text-transform: uppercase;
 }
 
+/* Three picks sit in one row instead of leaving one card alone. */
+.vp-doc .pick-cards ul:has(> li:nth-child(3):last-child) {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 @media (max-width: 640px) {
-  .vp-doc .pick-cards ul {
+  .vp-doc .pick-cards ul,
+  .vp-doc .pick-cards ul:has(> li:nth-child(3):last-child) {
     grid-template-columns: 1fr;
   }
 }
 
 /* Version comparison matrix: one column per build, centred cells and a
    feature column that stays put while the table scrolls sideways. */
-.vp-doc .compare-table table {
+.vp-doc .compare-table {
   margin: 12px 0;
+  overflow-x: auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+}
+
+.vp-doc .compare-table table {
+  display: table;
+  width: 100%;
+  margin: 0;
   font-size: 14px;
   /* Separate borders keep the sticky column opaque while scrolling; collapsed
      borders let scrolled text bleed past its edge. */
   border-spacing: 0;
   border-collapse: separate;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
+  border: 0;
 }
 
 .vp-doc .compare-table th,
@@ -376,13 +390,26 @@ iframe[src*="youtube"] {
   font-size: 0.9em;
 }
 
-/* Short values (prices, "Very strong") read better on one line. */
 .vp-doc .compare-table td:not(:first-child) {
+  text-wrap: balance;
+}
+
+/* Prices and sellers (the first rows) read better on one line. The technical
+   details table keeps normal wrapping for long chip names. */
+.vp-doc .compare-table tbody tr:nth-child(-n + 2) td:not(:first-child) {
   white-space: nowrap;
+}
+
+.vp-doc details .compare-table tbody tr:nth-child(n) td:not(:first-child) {
+  white-space: normal;
 }
 
 .vp-doc .compare-notes {
   font-size: 13px;
   line-height: 1.6;
   color: var(--vp-c-text-2);
+}
+
+.vp-doc .compare-notes p {
+  margin: 4px 0;
 }

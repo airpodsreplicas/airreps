@@ -34,14 +34,20 @@ Prices are what the sellers charged on 3 November 2026; see the [purchase links]
 
 </div>
 
-<p class="compare-notes">¹ The V7 TB currently has no iOS popup and no serial number. The seller tried to add them in an update, but it didn't work; a future update may add them. You set it up in the FlyCC app instead, so it isn't for everyone.<br>² The SE's heart rate read 15–20 bpm off a medical-grade sensor in our testing: fine for casual curiosity. The V7 tracks much closer.</p>
+<div class="compare-notes">
+
+¹ The V7 TB currently has no iOS popup and no serial number. The seller tried to add them in an update, but it didn't work; a future update may add them. You set it up in the FlyCC app instead, so it isn't for everyone.
+
+² The SE's heart rate read 15–20 bpm off a medical-grade sensor in our testing: fine for casual curiosity. The V7 tracks much closer.
+
+</div>
 
 ::: tip Every Pro 3 version has
 USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, the Pro 3 iOS popup (not on the V7 TB) and iOS 27 support.
 *(Note: No replica supports Apple's encrypted Find My network.)*
 :::
 
-::: details Technical details: chipsets and measured noise cancelling
+::: details Technical details: chipsets and noise cancelling
 
 <div class="compare-table">
 

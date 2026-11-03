@@ -5,27 +5,56 @@ description: "Compare AirPods 4 replica versions by chip, features, and missing 
 
 # AirPods 4
 
-**Quick verdict:** for open-ear listening with active noise cancellation, the **V3 TB (Airoha 1571AM)** is the current gold standard — featuring top-tier dual-mic hybrid ANC for an open-ear design, dual ST bone-voiceprint gyroscopes for head-tracking spatial audio, AI conversation awareness, and 1-to-3 multi-device switching. If you want seamless Apple ecosystem switching, the **V2 Huilian** provides iCloud Connect and Starfun EQ syncing. On a budget, the **V2 TB / HR** offers great open-ear sound with basic ANC. See the [AirPods 4 purchase links](/links/airpods-4).
+<div class="pick-cards">
 
-::: tip Shared AirPods 4 Baseline
+- <span class="pick-label">Best overall</span> **V3 TB** · $52–53<br>The best open-ear noise cancelling, head-tracking spatial audio, conversation awareness and switching between 3 devices. [V3 overview](#v3-overview)
+- <span class="pick-label">Best for iCloud switching</span> **V2 Huilian** · $39–42<br>iCloud Connect between your Apple devices and Starfun EQ that syncs to iOS. [V2 overview](#v2-overview)
+- <span class="pick-label">Lowest price</span> **V2 TB** · $29–30<br>Great open-ear sound with basic noise cancelling. No head tracking.
+
+</div>
+
+Prices are what the sellers charged on 3 November 2026; see the [purchase links](/links/airpods-4) for current prices. Click a version name in the table to read community reviews.
+
+<div class="compare-table">
+
+| | [<span class="version-badge">V3 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V3) | [<span class="version-badge">V2 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V2) | [<span class="version-badge">V2 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Price** | $52–53 | $39–42 | $29–30 | Not listed |
+| **Sold by** | All 3 | All 3 | All 3 | — |
+| **Noise cancelling** | Best open-ear | Good | Basic | Basic |
+| **Head-tracking spatial audio** | ✅ | ✅ | ❌¹ | ❌ |
+| **Conversation awareness** | ✅ | ✅ | ❌ | ❌ |
+| **Adaptive audio** | ✅ | ✅ | ❌ | ❌ |
+| **Switch between devices** | 3 devices | iCloud Connect | 2 devices | 1 device |
+| **Case speaker** | ✅ | ✅ | ✅ | Basic |
+| **Stem controls** | Force Touch | Force Touch | Force Touch | Touch |
+| **App for EQ & settings** | FlyCC (Android) | Starfun | FlyCC / CloudCC | — |
+
+</div>
+
+<div class="compare-notes">
+
+¹ The V2 HR build has head tracking; the TB build uses fixed spatial audio. The trusted sellers currently list the V2 TB.
+
+</div>
+
+::: tip Every AirPods 4 version has
 All AirPods 4 models feature: open-fit (non-in-ear) design, USB-C charging case with case speaker, stem playback controls, Hey Siri, in-ear detection, and iOS 27 support with About page popup.
 *(Note: No replica supports Apple's encrypted Find My network. Open-ear ANC naturally reduces less low-frequency rumble than silicone-tip in-ear Pro models.)*
 :::
 
-Click any version badge to find community reviews for that model.
+::: details Technical details: chipsets and noise cancelling
 
-| Version → | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1)<br>(TB) | [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V2&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V2&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V1&restrict_sr=1)<br>(Bluetrum) |
+<div class="compare-table">
+
+| | V3 TB | V2 Huilian | V2 TB | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1571AM | Huilian 247 | Airoha 1563E | Bluetrum 8922 |
-| **ANC Performance** | Dual-Mic Hybrid (Best Open-Ear) | Hybrid (~35 dB) | Single-Mic ANC | Basic ANC |
-| **Spatial Audio (Head-tracking)** | ✅ Yes (Dual ST Gyro) | ✅ Yes | ⚠️ HR yes / TB fixed | ❌ Fixed (no tracking) |
-| **Conversation Awareness** | ✅ Yes (AI) | ✅ Yes | ❌ No | ❌ No |
-| **Adaptive Audio** | ✅ Yes | ✅ Yes | ❌ No | ❌ No |
-| **Multi-Device Switching** | Up to 3 devices | ✅ iCloud Connect | Up to 2 devices | 1 device |
-| **Case Speaker** | ✅ Yes (Accurate SFX) | ✅ Yes | ✅ Yes | ⚠️ Basic SFX |
-| **Stem Controls** | Force Touch | Force Touch | Force Touch | Touch Sensor |
-| **App EQ & Customization** | ✅ FlyCC (Android) | ✅ Starfun (Syncs to iOS) | ✅ CloudCC / FlyCC | ❌ No |
-| **Detailed Notes** | [V3 Overview](#v3-overview) | [V2 Overview](#v2-overview) | [V2 Overview](#v2-overview) | — |
+| **Noise cancelling** | Dual-mic hybrid | Hybrid (~35 dB) | Single-mic | Basic |
+
+</div>
+
+:::
 
 ## V3 Overview {#v3-overview}
 
