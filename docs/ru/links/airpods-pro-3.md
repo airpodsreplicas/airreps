@@ -44,7 +44,6 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
       <div class="link-column">
         <a href="https://airreps.link/jprov7hl">Сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -56,7 +55,6 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
       <div class="link-column">
         <a href="https://airreps.link/jpro3se">Сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -78,7 +76,6 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
       <div class="link-column">
         <a href="https://airreps.link/jprov6tb">Сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -100,7 +97,6 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
       <div class="link-column">
         <a href="https://airreps.link/jprov6hl">Сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -122,7 +118,6 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
       <div class="link-column">
         <a href="https://airreps.link/jprov55">Сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

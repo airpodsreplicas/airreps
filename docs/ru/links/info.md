@@ -52,8 +52,6 @@ faq:
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-У Jenny также есть [магазин на Alibaba](https://airreps.link/jennyali), если вам удобнее заказывать через Alibaba.
-
 ## Способы оплаты {#payment-methods}
 
 Все проверенные продавцы принимают несколько способов оплаты для вашего удобства:

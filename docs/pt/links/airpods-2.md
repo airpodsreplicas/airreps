@@ -33,7 +33,6 @@ As réplicas de AirPods 2 são a forma mais barata de entrar no ecossistema. Esc
       <div class="link-column">
         <a href="https://airreps.link/j2v3e">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

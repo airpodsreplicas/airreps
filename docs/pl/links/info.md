@@ -52,8 +52,6 @@ W obrębie każdego modelu wyższy numer wersji zazwyczaj oznacza wyższą cenę
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-Jenny ma też [sklep na Alibabie](https://airreps.link/jennyali), jeśli wolisz zamówić przez Alibabę.
-
 ## Metody płatności {#payment-methods}
 
 Wszyscy zaufani sprzedawcy akceptują wiele metod płatności dla Twojej wygody:
