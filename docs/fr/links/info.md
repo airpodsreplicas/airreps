@@ -52,6 +52,8 @@ Pour chaque modèle, un numéro de version plus élevé coûte généralement pl
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
+Jenny a aussi une [boutique Alibaba](https://airreps.link/jennyali) si vous préférez commander via Alibaba.
+
 ## Modes de paiement {#payment-methods}
 
 Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous faciliter la tâche :
