@@ -33,6 +33,7 @@ Las réplicas de AirPods 4 ofrecen un diseño de oreja abierta, con ANC en las v
       <div class="link-column">
         <a href="https://airreps.link/j4v3tb">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -54,6 +55,7 @@ Las réplicas de AirPods 4 ofrecen un diseño de oreja abierta, con ANC en las v
       <div class="link-column">
         <a href="https://airreps.link/j4v2tb">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -75,6 +77,7 @@ Las réplicas de AirPods 4 ofrecen un diseño de oreja abierta, con ANC en las v
       <div class="link-column">
         <a href="https://airreps.link/j4v2hl">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
