@@ -1,40 +1,69 @@
 ---
 title: Versiones réplica de AirPods 4 y especificaciones
-description: 'Compara las versiones réplica de AirPods 4 según el chip, las funciones y las funciones que faltan.'
+description: 'Compara las versiones réplica de AirPods 4 por chip, funciones y funciones ausentes.'
 ---
 # AirPods 4
 
-**Veredicto rápido:** para escuchar con diseño abierto y cancelación activa de ruido, la **V3 TB (Airoha 1571AM)** es actualmente el estándar de oro: incorpora ANC híbrida de doble micrófono de primer nivel para un diseño abierto, giroscopios duales ST de huella ósea y vocal para audio espacial con seguimiento de la cabeza, detección de conversaciones mediante IA y cambio entre varios dispositivos, hasta 3 a la vez. Si quieres un cambio fluido entre dispositivos del ecosistema de Apple, la **V2 Huilian** ofrece iCloud Connect y sincronización del ecualizador de Starfun. Con un presupuesto limitado, la **V2 TB / HR** ofrece un excelente sonido de diseño abierto con ANC básica. Consulta los [enlaces de compra de AirPods 4](/es/links/airpods-4).
+<div class="pick-cards">
 
-::: tip Base común de AirPods 4
-Todos los modelos de AirPods 4 incorporan: diseño de ajuste abierto (no intraauricular), estuche de carga USB-C con altavoz en el estuche, controles de reproducción en el tallo, Oye Siri, detección intraauricular y compatibilidad con iOS 27, incluida la ventana emergente de la página «Información».
-*(Nota: ninguna réplica es compatible con la red cifrada Buscar de Apple. La ANC en diseños abiertos reduce naturalmente menos el ruido sordo de baja frecuencia que los modelos Pro intraauriculares con almohadillas de silicona.)*
+- <span class="pick-label">Mejor en general</span> **V3 TB** · $52–53<br>La mejor cancelación de ruido con diseño abierto, audio espacial con seguimiento de cabeza, detección de conversaciones y cambio entre 3 dispositivos. [Descripción general de V3](#v3-overview)
+- <span class="pick-label">Mejor para cambiar con iCloud</span> **V2 Huilian** · $39–42<br>Conexión de iCloud entre tus dispositivos Apple y ecualizador Starfun que se sincroniza con iOS. [Descripción general de V2](#v2-overview)
+- <span class="pick-label">Precio más bajo</span> **V2 TB** · $29–30<br>Excelente sonido abierto con cancelación de ruido básica. Sin seguimiento de cabeza.
+
+</div>
+
+Estos son los precios que cobraban los vendedores el 3 de noviembre de 2026; consulta los [enlaces de compra](/es/links/airpods-4) para ver los precios actuales. Haz clic en el nombre de una versión en la tabla para leer las reseñas de la comunidad.
+
+<div class="compare-table">
+
+| | [<span class="version-badge">V3 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V3) | [<span class="version-badge">V2 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V2) | [<span class="version-badge">V2 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Precio** | $52–53 | $39–42 | $29–30 | No indicado |
+| **Vendido por** | Los 3 | Los 3 | Los 3 | — |
+| **Cancelación de ruido** | La mejor con diseño abierto | Buena | Básica | Básica |
+| **Audio espacial con seguimiento de cabeza** | ✅ | ✅ | ❌¹ | ❌ |
+| **Detección de conversaciones** | ✅ | ✅ | ❌ | ❌ |
+| **Audio adaptativo** | ✅ | ✅ | ❌ | ❌ |
+| **Cambio entre dispositivos** | 3 dispositivos | Conexión de iCloud | 2 dispositivos | 1 dispositivo |
+| **Altavoz del estuche** | ✅ | ✅ | ✅ | Básico |
+| **Controles del vástago** | Force Touch | Force Touch | Force Touch | Táctiles |
+| **App para ecualizador y ajustes** | FlyCC (Android) | Starfun | FlyCC / CloudCC | — |
+
+</div>
+
+<div class="compare-notes">
+
+¹ La versión V2 HR tiene seguimiento de cabeza; la versión TB usa audio espacial fijo. Actualmente, los vendedores de confianza ofrecen la V2 TB.
+
+</div>
+
+::: tip Todas las versiones de AirPods 4 incluyen
+Todos los modelos de AirPods 4 cuentan con diseño abierto (no intraauricular), estuche de carga USB-C con altavoz, controles de reproducción en el vástago, Oye Siri, detección de uso y compatibilidad con iOS 27, incluida la ventana emergente de la página «Acerca de».
+*(Nota: ninguna réplica es compatible con la red cifrada Buscar de Apple. La cancelación de ruido con diseño abierto reduce naturalmente menos el ruido grave que los modelos Pro intraauriculares con almohadillas de silicona.)*
 :::
 
-Haz clic en cualquier insignia de versión para consultar las reseñas de la comunidad sobre ese modelo.
+::: details Detalles técnicos: chipsets y cancelación de ruido
 
-| Versión → | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1)<br>(TB) | [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V2&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V2&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V1&restrict_sr=1)<br>(Bluetrum) |
+<div class="compare-table">
+
+| | V3 TB | V2 Huilian | V2 TB | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1571AM | Huilian 247 | Airoha 1563E | Bluetrum 8922 |
-| **Rendimiento de ANC** | Híbrida de doble micrófono (la mejor en diseño abierto) | Híbrida (~35 dB) | ANC de un solo micrófono | ANC básica |
-| **Audio espacial (seguimiento de la cabeza)** | ✅ Sí (giroscopio dual ST) | ✅ Sí | ⚠️ HR sí / TB fija | ❌ Fijo (sin seguimiento) |
-| **Detección de conversaciones** | ✅ Sí (IA) | ✅ Sí | ❌ No | ❌ No |
-| **Audio adaptativo** | ✅ Sí | ✅ Sí | ❌ No | ❌ No |
-| **Cambio entre varios dispositivos** | Hasta 3 dispositivos | ✅ iCloud Connect | Hasta 2 dispositivos | 1 dispositivo |
-| **Altavoz del estuche** | ✅ Sí (efectos de sonido precisos) | ✅ Sí | ✅ Sí | ⚠️ Efectos de sonido básicos |
-| **Controles del tallo** | Force Touch | Force Touch | Force Touch | Sensor táctil |
-| **Ecualizador y personalización mediante la aplicación** | ✅ FlyCC (Android) | ✅ Starfun (sincroniza con iOS) | ✅ CloudCC / FlyCC | ❌ No |
-| **Notas detalladas** | [Descripción general de V3](#v3-overview) | [Descripción general de V2](#v2-overview) | [Descripción general de V2](#v2-overview) | — |
+| **Cancelación de ruido** | Híbrida con dos micrófonos | Híbrida (~35 dB) | Un solo micrófono | Básica |
+
+</div>
+
+:::
 
 ## Descripción general de V3 {#v3-overview}
 
-La V3 TigerBuilder (TB) se basa en el chipset de alto rendimiento **Airoha 1571AM** y representa la réplica de diseño abierto más avanzada disponible. Incorpora giroscopios duales ST de huella ósea y vocal que ofrecen un seguimiento preciso de la cabeza en tiempo real para el audio espacial, detección de conversaciones mediante IA que reduce automáticamente el volumen cuando hablas y efectos de sonido responsivos en el altavoz del estuche. También permite cambiar sin interrupciones entre hasta 3 dispositivos vinculados y se puede actualizar mediante la aplicación FlyCC para Android.
+La V3 TigerBuilder (TB) está basada en el chipset **Airoha 1571AM** de alto rendimiento y es la réplica abierta de gama alta disponible. Cuenta con dos giroscopios ST de huella vocal ósea que proporcionan un seguimiento de cabeza preciso y en tiempo real para el audio espacial, detección de conversaciones con IA, que baja automáticamente el volumen cuando hablas, y efectos de sonido responsivos del altavoz del estuche. También permite cambiar sin interrupciones entre hasta 3 dispositivos enlazados y actualizarse mediante la app FlyCC para Android.
 
 ## Descripción general de V2 {#v2-overview}
 
-La gama V2 ofrece un audio de diseño abierto fiable, con ligeras diferencias según el fabricante:
+La gama V2 ofrece un sonido abierto fiable, con ligeras diferencias según el fabricante:
 
-- **Huilian 247**: incorpora iCloud Connect para cambiar sin interrupciones entre dispositivos Apple con la misma ID de Apple, audio adaptativo y compatibilidad con la aplicación Starfun, que permite sincronizar directamente con iOS perfiles de ecualización personalizados.
-- **TigerBuilder / HR (Airoha 1563E)**: opciones fiables para el uso diario, con un sonido de diseño abierto contundente y ANC de un solo micrófono. La versión HR incluye seguimiento de la cabeza funcional, mientras que el modelo TB utiliza audio espacial fijo y está ajustado con un mayor énfasis en los graves.
+- **Huilian 247**: incluye Conexión de iCloud para cambiar sin interrupciones entre dispositivos Apple con la misma cuenta de Apple, audio adaptativo y compatibilidad con la app Starfun, que permite sincronizar perfiles de ecualización personalizados directamente con iOS.
+- **TigerBuilder / HR (Airoha 1563E)**: opciones fiables para el uso diario, con un sonido abierto contundente y cancelación de ruido con un solo micrófono. La versión HR incluye seguimiento de cabeza funcional, mientras que el modelo TB utiliza audio espacial fijo y está ajustado con mayor énfasis en los graves.
 
-¿Listo para comprar? Consulta nuestros [enlaces de compra de AirPods 4](/es/links/airpods-4) y nuestra [guía de pedidos](/es/ordering/how-to-buy).
+¿Listo para comprar? Consulta nuestros [enlaces de compra de AirPods 4](/es/links/airpods-4) y la [guía de compra](/es/ordering/how-to-buy).

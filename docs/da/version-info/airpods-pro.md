@@ -1,33 +1,48 @@
 ---
-title: AirPods Pro-kopiversioner og specifikationer
+title: 'Kopiudgaver af AirPods Pro: versioner og specifikationer'
 description: 'Sammenlign kopiversioner af AirPods Pro efter chip, funktioner og manglende funktioner.'
 ---
 # AirPods Pro
 
-::: warning Ikke længere på lager hos pålidelige sælgere
-Originale replikaer af **AirPods Pro (1. gen.)** produceres eller lagerføres ikke længere aktivt af pålidelige sælgere. Se [AirPods Pro 2](/da/version-info/airpods-pro-2) eller [AirPods Pro 3](/da/version-info/airpods-pro-3) for aktuelle Pro-modeller. Denne sammenligning bevares som reference.
+::: warning Ikke længere på lager hos betroede sælgere
+Kopier af de originale **AirPods Pro (1. generation)** produceres eller lagerføres ikke længere aktivt af betroede sælgere. Se [AirPods Pro 2](/da/version-info/airpods-pro-2) eller [AirPods Pro 3](/da/version-info/airpods-pro-3) for aktuelle Pro-modeller. Denne sammenligning er bevaret som reference.
 :::
 
-**Kort konklusion:** **V4.9 (Airoha 1562AE)** var højdepunktet i den originale AirPods Pro-serie — med hybrid-ANC i butiksniveau, rumlig lyd med hovedsporing via ST-gyroskop og forbindelse til to enheder. Alle versioner under V4.9 er udgået.
+**Kort vurdering:** **V4.9 (Airoha 1562AE)** var højdepunktet i den oprindelige AirPods Pro-serie — med hybrid-ANC på niveau med originalerne, rumlig lyd med ST-gyroskopisk hovedsporing og tilslutning til to enheder. Alle versioner under V4.9 er udgået.
 
-::: tip Fælles grundlag for Pro 1
-Alle Pro 1-modeller omfatter: design med silikoneørepropper til øret, Transparency Mode, metalventiler, Force Touch-styring på stilken, opladningsetui med Lightning og understøttelse af iOS 27 med pop op-vindue på siden Om.
-*(Bemærk: Pro 1-replikaer har ikke USB-C-opladning, lydstyrkestrygning eller Apples krypterede Find My-netværk.)*
+::: tip Fælles grundfunktioner for Pro 1
+Alle Pro 1-modeller omfatter: design med silikonepropper, Transparency Mode, metalventiler, Force Touch-betjening på stængerne, Lightning-opladningsetui og understøttelse af iOS 27 med pop op-vindue på siden Om.
+*(Bemærk: Pro 1-kopier har ikke USB-C-opladning, lydstyrkestyring med swipe eller adgang til Apples krypterede Find My-netværk.)*
 :::
 
-Klik på et versionsmærke for at finde fællesskabsanmeldelser af den pågældende model.
+Klik på et versionsnavn for at læse anmeldelser fra fællesskabet. V4.9 fandtes i TB- og HR-udgaver: se [forskellene mellem V4.9-udgaverne](#v4-9-version-differences).
 
-| Version → | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)<br>(BES) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1)<br>(Huilian / BES) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1)<br>(Airoha) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.9) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.8) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.7) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.5) |
 |:---|:---:|:---:|:---:|:---:|
-| **Chipset** | Airoha 1562AE | BES 2300ZP | Huilian A6 Pro / BES | Airoha 1562A |
-| **ANC-ydeevne** | Hybrid i butiksniveau (~38 dB) | Forbedret hybrid (~35 dB) | Hybrid (~33 dB) | Tidlig hybrid (~30 dB) |
-| **Transparency Mode** | ✅ Naturlig og klar | ✅ Forbedret | ⚠️ Grundlæggende | ⚠️ Grundlæggende |
-| **Rumlig lyd (hovedsporing)** | ✅ Ja (ST-gyroskop) | ❌ Fast (ingen sporing) | ✅ Ja | ❌ Fast (ingen sporing) |
-| **Forbindelse til flere enheder** | ✅ To enheder | ❌ 1 enhed | ❌ 1 enhed | ❌ 1 enhed |
-| **App-EQ og opdateringer** | ✅ FlyCC / CloudCC | ❌ Nej | ⚠️ Afhænger af chipset | ❌ Nej |
-| **iOS-kompatibilitet** | iOS 27 | iOS 27 | Grundlæggende iOS | Grundlæggende iOS |
-| **Modelstatus** | **Endelig (reference)** | Udgået | Udgået | Udgået |
-| **Detaljerede noter** | [V4.9-forskelle](#v4-9-version-differences) | Udgået | Udgået | Udgået |
+| **Status** | Sidste version (reference) | Udgået | Udgået | Udgået |
+| **Støjreduktion** | På niveau med originalerne | Forbedret | Hybrid | Tidlig hybrid |
+| **Transparency-tilstand** | Naturlig | Forbedret | Grundlæggende | Grundlæggende |
+| **Rumlig lyd med hovedsporing** | ✅ | ❌ | ✅ | ❌ |
+| **Skift mellem enheder** | 2 enheder | 1 enhed | 1 enhed | 1 enhed |
+| **App til EQ og opdateringer** | FlyCC / CloudCC | — | Afhænger af chippen | — |
+| **iOS-understøttelse** | iOS 27 | iOS 27 | Grundlæggende | Grundlæggende |
+
+</div>
+
+::: details Tekniske detaljer: chipsæt og støjreduktion
+
+<div class="compare-table">
+
+| | V4.9 | V4.8 | V4.7 | V4.5 |
+|:---|:---:|:---:|:---:|:---:|
+| **Chipsæt** | Airoha 1562AE | BES 2300ZP | Huilian A6 Pro / BES | Airoha 1562A |
+| **Støjreduktion (ca.)** | ~38 dB | ~35 dB | ~33 dB | ~30 dB |
+
+</div>
+
+:::
 
 ::: info Udgåede Pro 1-modeller
 Alle versioner under V4.9 er udgået hos producenterne:
@@ -38,10 +53,10 @@ Alle versioner under V4.9 er udgået hos producenterne:
 - **V3.9** og **V3.8** (Airoha 1536)
 :::
 
-## Forskelle mellem V4.9-versionerne: {#v4-9-version-differences}
+## Forskelle mellem V4.9-udgaverne: {#v4-9-version-differences}
 
-**TB** – TB-headsettet er kendt for sit hvide og mere robuste etui, som er mere svedafvisende end HR-modellen. Det har også et ST-gyroskop, ligesom V4.7- og detailversionerne, hvilket giver fremragende rumlig lyd. Med ANC slået til har det en batteritid på 6 timer, mens HR-modellen kun holder i 4 timer.
+**TB** - TB-headsettet er kendt for sit hvide, mere robuste etui, der er mere svedafvisende end HR-modellen. Det har også et ST-gyroskop, ligesom V4.7- og originalmodellerne, hvilket giver fremragende rumlig lyd. Med ANC slået til holder batteriet i 6 timer, mens HR-modellen kun holder i 4 timer.
 
-**HR** – HR-headsettet har et gulligt og blødere etui, som er mindre svedafvisende end TB-modellen. Det har også en lidt bedre ANC-ydeevne, selvom forskellen er lille i de fleste situationer, med lejlighedsvise forskelle på op til 1 dB. HR-modellens batteritid er 6 timer uden ANC og 4 timer med ANC slået til.
+**HR** - HR-headsettet har et gulligt, blødere etui, der er mindre svedafvisende end TB-modellen. Det har også en smule bedre ANC, selvom forskellen er lille i de fleste situationer og lejlighedsvis kan være op til 1 dB. HR-modellen holder i 6 timer uden ANC og 4 timer med ANC slået til.
 
 Klar til at købe en aktuel Pro-model? Se [links til AirPods Pro 2](/da/links/airpods-pro-2) og [links til AirPods Pro 3](/da/links/airpods-pro-3).

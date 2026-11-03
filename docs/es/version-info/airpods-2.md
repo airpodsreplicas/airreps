@@ -1,35 +1,52 @@
 ---
-title: Versiones y especificaciones de réplicas de AirPods 2
+title: Versiones réplica de AirPods 2 y especificaciones
 description: 'Compara las versiones réplica de AirPods 2 según el chip, las funciones y las funciones que faltan. Algunos modelos están descatalogados.'
 ---
 # AirPods 2
 
-::: tip Desarrollo centrado en modelos nuevos
-Esta línea de productos ya no recibe actualizaciones activas por parte de los fabricantes, ya que el desarrollo se ha trasladado a modelos más nuevos. Las réplicas de AirPods 2 siguen siendo excelentes productos y continúan siendo opciones populares. Si buscas las funciones y mejoras más recientes, considera consultar [AirPods 3](/es/version-info/airpods-3) o [AirPods 4](/es/version-info/airpods-4).
+::: tip El desarrollo ha avanzado
+Los fabricantes ya no actualizan activamente esta línea de productos, ya que el desarrollo se ha centrado en modelos más nuevos. Las réplicas de AirPods 2 siguen siendo excelentes productos y continúan siendo opciones populares. Si buscas las funciones y mejoras más recientes, considera echar un vistazo a [AirPods 3](/es/version-info/airpods-3) o [AirPods 4](/es/version-info/airpods-4).
 :::
 
-**Veredicto rápido:** el **V3E (Airoha 1562E)** es la única réplica de AirPods de 2.ª generación que se sigue fabricando activamente: ofrece conectividad con dos dispositivos, personalización del ecualizador mediante la aplicación FlyCC, una duración de batería fiable de 5–6 horas y una sólida compatibilidad con iOS 27 a un precio económico imbatible. Consulta los [enlaces de compra de AirPods 2](/es/links/airpods-2).
+**Veredicto rápido:** el **V3E (Airoha 1562E)** es la única réplica de AirPods Gen 2 que se sigue fabricando activamente: ofrece conectividad con dos dispositivos, personalización del ecualizador en la app FlyCC, una autonomía fiable de 5–6 horas y una sólida compatibilidad con iOS 27 a un precio económico imbatible. Consulta los [enlaces de compra de AirPods 2](/es/links/airpods-2).
 
 ::: tip Características comunes de los AirPods 2
-Todos los modelos de 2.ª generación incluyen: el ajuste clásico original de auriculares con tallo largo, controles táctiles (doble toque para reproducir/pausar/saltar), detección óptica en el oído, carga Lightning y compatibilidad con iOS 27 con ventana emergente en la página «Información». Ten en cuenta que los auriculares de 2.ª generación no cuentan con ANC ni Audio espacial.
+Todos los modelos Gen 2 incluyen: el ajuste clásico de auriculares con vástago largo original, controles táctiles (doble toque para reproducir, pausar o saltar), detección óptica en el oído, carga Lightning y compatibilidad con iOS 27 con ventana emergente en la página «Acerca de». Ten en cuenta que los auriculares Gen 2 no incluyen ANC ni audio espacial.
 :::
 
-Haz clic en cualquier distintivo de versión para consultar las reseñas de la comunidad sobre ese modelo.
+Precios de los vendedores a 3 de noviembre de 2026; consulta los [enlaces de compra](/es/links/airpods-2) para ver los precios actuales. Haz clic en el nombre de una versión para leer las opiniones de la comunidad.
 
-| Versión → | [<span class="version-badge">V3E</span>](https://www.reddit.com/r/AirReps/search?q=v3e&restrict_sr=1) | [<span class="version-badge">V3M</span>](https://www.reddit.com/r/AirReps/search?q=v3m&restrict_sr=1) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=v3&restrict_sr=1) | [<span class="version-badge">V2 / V1.5</span>](https://www.reddit.com/r/AirReps/search?q=v2&restrict_sr=1) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V3E</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v3e) | [<span class="version-badge">V3M</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v3m) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v3) | [<span class="version-badge">V2 / V1.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v2) |
+|:---|:---:|:---:|:---:|:---:|
+| **Estado** | **Activo** | Descatalogado | Descatalogado | Descatalogado |
+| **Precio** | $26 | — | — | — |
+| **Vendido por** | Los 3 | — | — | — |
+| **Cambio entre dispositivos** | 2 dispositivos | 1 dispositivo | 1 dispositivo | 1 dispositivo |
+| **Batería** | ~5–6 h | ~5–6 h | ~3–4 h | ~3–4 h |
+| **Sonido** | Ajustado y equilibrado | Equilibrado | Estándar | Básico |
+| **Carga inalámbrica** | ✅ | ✅ | Básica | ❌ Solo con cable |
+| **Construcción y bisagra** | Metal galvanizado | Bisagra metálica | Bisagra metálica | Básica / plástico |
+| **App para ecualizador y ajustes** | FlyCC / CloudCC | FlyCC | — | — |
+| **Compatibilidad con iOS** | iOS 27 | iOS 27 | iOS 27 | Básica |
+
+</div>
+
+::: details Detalles técnicos: chipsets
+
+<div class="compare-table">
+
+| | V3E | V3M | V3 | V2 / V1.5 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1562E | Airoha 1562M | Airoha 1536 | JL (Jieli) / Airoha |
-| **Conexión multidispositivo** | ✅ Dos dispositivos | ❌ 1 dispositivo | ❌ 1 dispositivo | ❌ 1 dispositivo |
-| **Duración de la batería** | ~5–6 horas | ~5–6 horas | ~3–4 horas | ~3–4 horas |
-| **Calidad del sonido** | Ajustado y equilibrado | Equilibrado | Estándar | Básico |
-| **Carga inalámbrica** | ✅ Qi inalámbrica | ✅ Qi inalámbrica | ⚠️ Qi básica | ❌ Solo con cable |
-| **Construcción y bisagra** | Metal galvanizado | Bisagra metálica | Bisagra metálica | Básica / Plástico |
-| **Ecualizador y personalización mediante la aplicación** | ✅ FlyCC / CloudCC | ✅ FlyCC | ❌ No | ❌ No |
-| **Compatibilidad con iOS** | iOS 27 | iOS 27 | iOS 27 | iOS básica |
-| **Estado del modelo** | **Activo (opción principal)** | Descatalogado | Descatalogado | Descatalogado |
 
-::: info Modelos de 2.ª generación descatalogados
-Los siguientes modelos antiguos de 2.ª generación han sido descatalogados por los fabricantes:
+</div>
+
+:::
+
+::: info Modelos Gen 2 descatalogados
+Los siguientes modelos Gen 2 antiguos han sido descatalogados por los fabricantes:
 - **V3M**, **V3U** y **V3F** (Airoha 1562M/F)
 - **V3** y **V2.5** (Airoha 1536)
 - **V2** y **V1.5** (Airoha 1536 / JL)

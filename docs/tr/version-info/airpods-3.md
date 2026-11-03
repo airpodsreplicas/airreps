@@ -1,37 +1,52 @@
 ---
-title: AirPods 3 Replica Sürümleri ve Teknik Özellikleri
-description: 'AirPods 3 replica sürümlerini çip, özellikler ve eksik özellikler açısından karşılaştırın.'
+title: AirPods 3 Replika Sürümleri ve Teknik Özellikleri
+description: 'AirPods 3 replika sürümlerini çip, özellikler ve eksik özellikler açısından karşılaştırın.'
 ---
 # AirPods 3
 
-::: tip Geliştirme yeni modellere kaydı
-Bu ürün serisi, geliştirme çalışmaları daha yeni modellere kaydığı için üreticiler tarafından artık aktif olarak güncellenmiyor. AirPods 3 replikaları hâlâ oldukça başarılı ürünler ve popüler seçenekler olmaya devam ediyor. En yeni özellikleri ve geliştirmeleri arıyorsanız [AirPods 4](/tr/version-info/airpods-4) modeline göz atmayı düşünün.
+::: tip Geliştirme süreci devam etti
+Üreticiler geliştirme çalışmalarını daha yeni modellere yönelttiğinden bu ürün serisi artık aktif olarak güncellenmiyor. AirPods 3 kopyaları hâlâ mükemmel ürünler ve popüler tercihler olmaya devam ediyor. En yeni özellikleri ve geliştirmeleri arıyorsanız [AirPods 4](/tr/version-info/airpods-4) modellerine göz atabilirsiniz.
 :::
 
-**Kısa karar:** **V1E (Airoha 1562E)**, kesinlikle en iyi AirPods 3 replikası ve bu seride hâlâ aktif olarak üretilen tek modeldir — çoklu cihaz geçişi, baş takibi özellikli uzamsal ses, 7–8 saat pil ömrü ve MagSafe kablosuz şarj sunar. [AirPods 3 satın alma bağlantılarına](/tr/links/airpods-3) göz atın.
+**Kısa karar:** **V1E (Airoha 1562E)**, AirPods 3'ün kesinlikle en iyi kopyası ve bu seride hâlâ aktif olarak üretilen tek modeldir — çoklu cihazlar arasında geçiş, kafa takibi özellikli uzamsal ses, 7–8 saat pil ömrü ve MagSafe kablosuz şarj sunar. [AirPods 3 satın alma bağlantılarına](/tr/links/airpods-3) göz atın.
 
-::: tip AirPods 3 ortak temel özellikleri
-Tüm AirPods 3 modelleri şunları sunar: daha kısa saplara sahip, kulağı çevreleyen açık tasarım, Force Sensor oynatma kontrolleri, kulak içi algılama, kablosuz şarj ve Hakkında sayfası açılır penceresiyle iOS 27 desteği. AirPods 3 replikalarında Aktif Gürültü Engelleme (ANC) bulunmadığını unutmayın.
+::: tip AirPods 3 modellerinin ortak temel özellikleri
+Tüm AirPods 3 modellerinde kısa saplı, kulağı saran açık tasarım, Force Sensor oynatma kontrolleri, kulak içi algılama, kablosuz şarj ve Hakkında sayfası açılır penceresiyle iOS 27 desteği bulunur. AirPods 3 kopyalarının Aktif Gürültü Engelleme (ANC) özelliği olmadığını unutmayın.
 :::
 
-Bu model için topluluk incelemelerini bulmak üzere herhangi bir sürüm rozetine tıklayın.
+Topluluk yorumlarını okumak için bir sürüm adına tıklayın.
 
-| Sürüm → | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?q=V1.3&restrict_sr=1) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1E) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.3) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Durum** | **Aktif** | Üretimi durduruldu | Üretimi durduruldu | Üretimi durduruldu |
+| **Kafa takibi özellikli uzamsal ses** | ✅ | ✅ | ✅ | ❌ |
+| **Cihazlar arasında geçiş** | 2 cihaz | 2 cihaz | 1 cihaz | 1 cihaz |
+| **Pil** | ~7–8 sa. | ~7–8 sa. | ~7–8 sa. | ~8–9 sa. |
+| **Kablosuz şarj** | ✅ MagSafe | ✅ MagSafe | ✅ MagSafe | Temel Qi |
+| **EQ ve ayarlar için uygulama** | FlyCC / CloudCC | — | Starfun | — |
+| **Menteşe** | Metal | 1:1 buzlu | Metal | Plastik |
+
+</div>
+
+::: details Teknik ayrıntılar: yonga setleri
+
+<div class="compare-table">
+
+| | V1E | V1.3 | V1.2 | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Yonga seti** | Airoha 1562E | BES 2500YP | Huilian A10 | Airoha 1562M |
-| **Uzamsal ses (baş takibi)** | ✅ Evet (ST Gyro) | ✅ Evet | ✅ Evet | ❌ Sabit / Yok |
-| **Çoklu cihaz bağlantısı** | ✅ Çift cihaz | ✅ Çift cihaz | ❌ 1 cihaz | ❌ 1 cihaz |
-| **Pil ömrü** | ~7–8 saat | ~7–8 saat | ~7–8 saat | ~8–9 saat |
-| **Kablosuz şarj ve MagSafe** | ✅ Evet | ✅ Evet | ✅ Evet | ⚠️ Temel Qi |
-| **Uygulama EQ ve özelleştirme** | ✅ FlyCC / CloudCC | ❌ Yok | ✅ Starfun | ❌ Yok |
-| **Menteşe kalitesi** | Metal menteşe | 1:1 buzlu menteşe | Metal menteşe | Plastik / temel |
-| **Model durumu** | **Aktif (en iyi seçenek)** | Üretimi durduruldu | Üretimi durduruldu | Üretimi durduruldu |
+
+</div>
+
+:::
 
 ::: info Üretimi durdurulan 3. nesil modeller
-Aşağıdaki eski 3. nesil modellerin üretimi, üreticiler tarafından durdurulmuştur:
+Aşağıdaki eski 3. nesil modellerin üreticiler tarafından üretimi durdurulmuştur:
 - **V1.3** (BES 2500YP)
 - **V1.2** ve **V1.2U** (Huilian A10)
 - **V1** (Airoha 1562M)
 :::
 
-Satın almaya hazır mısınız? [AirPods 3 satın alma bağlantılarına](/tr/links/airpods-3) ve [sipariş verme rehberimize](/tr/ordering/how-to-buy) göz atın.
+Satın almaya hazır mısınız? [AirPods 3 satın alma bağlantılarına](/tr/links/airpods-3) ve [sipariş verme kılavuzuna](/tr/ordering/how-to-buy) göz atın.

@@ -1,36 +1,51 @@
 ---
-title: AirPods Pro Replika Sürümleri ve Teknik Özellikleri
+title: AirPods Pro Replika Sürümleri ve Özellikleri
 description: 'AirPods Pro replika sürümlerini çip, özellikler ve eksik özellikler açısından karşılaştırın.'
 ---
 # AirPods Pro
 
 ::: warning Artık güvenilir satıcılarda stokta yok
-Orijinal **AirPods Pro (1. nesil)** replikaları artık aktif olarak üretilmiyor veya güvenilir satıcılarda stoklanmıyor. Güncel Pro modelleri için [AirPods Pro 2](/tr/version-info/airpods-pro-2) veya [AirPods Pro 3](/tr/version-info/airpods-pro-3) sayfalarına göz atın. Bu karşılaştırma referans olması için tutulmaktadır.
+Orijinal **AirPods Pro (1. nesil)** replikaları artık güvenilir satıcılar tarafından üretilmiyor veya stoklanmıyor. Güncel Pro modelleri için [AirPods Pro 2](/tr/version-info/airpods-pro-2) veya [AirPods Pro 3](/tr/version-info/airpods-pro-3) sayfalarına göz atın. Bu karşılaştırma başvuru amacıyla tutulmaktadır.
 :::
 
-**Kısa sonuç:** **V4.9 (Airoha 1562AE)**, orijinal AirPods Pro serisinin zirvesiydi — perakende kalitesinde hibrit ANC, ST jiroskoplu kafa takibi özellikli uzamsal ses ve çift cihaz bağlantısı sunuyordu. V4.9'un altındaki tüm sürümler üretimden kaldırılmıştır.
+**Kısa karar:** **V4.9 (Airoha 1562AE)**, orijinal AirPods Pro serisinin zirvesiydi — perakende düzeyinde hibrit ANC, ST jiroskopuyla kafa takibi destekli uzamsal ses ve iki cihaza bağlanma özellikleri sunuyordu. V4.9 altındaki tüm sürümlerin üretimi durdurulmuştur.
 
-::: tip Pro 1 için ortak temel özellikler
-Tüm Pro 1 modelleri şunları içerir: kulak içi silikon uç tasarımı, Şeffaflık Modu, metal havalandırma delikleri, Force Touch sap kontrolleri, Lightning şarj kutusu ve Hakkında sayfası açılır penceresiyle iOS 27 desteği.
-*(Not: Pro 1 replikalarında USB-C şarjı, kaydırarak ses seviyesi kontrolü veya Apple'ın şifreli Bul ağı bulunmaz.)*
+::: tip Pro 1 modellerinin ortak temel özellikleri
+Tüm Pro 1 modellerinde kulak içi silikon uç tasarımı, Şeffaf Mod, metal havalandırma delikleri, Force Touch gövde kontrolleri, Lightning şarj kutusu ve Hakkında sayfası açılır penceresiyle iOS 27 desteği bulunur.
+*(Not: Pro 1 replikalarında USB-C şarj, ses düzeyini kaydırarak ayarlama veya Apple'ın şifreli Bul ağı bulunmaz.)*
 :::
 
-Bu modelle ilgili topluluk incelemelerini bulmak için herhangi bir sürüm rozetine tıklayın.
+Topluluk yorumlarını okumak için bir sürüm adına tıklayın. V4.9, TB ve HR sürümleriyle sunulmuştur: [V4.9 farklarına](#v4-9-version-differences) göz atın.
 
-| Sürüm → | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)<br>(BES) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1)<br>(Huilian / BES) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1)<br>(Airoha) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.9) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.8) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.7) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.5) |
+|:---|:---:|:---:|:---:|:---:|
+| **Durum** | Son sürüm (başvuru) | Üretimi durduruldu | Üretimi durduruldu | Üretimi durduruldu |
+| **Gürültü engelleme** | Perakende düzeyinde | Geliştirilmiş | Hibrit | İlk nesil hibrit |
+| **Şeffaf mod** | Doğal | Geliştirilmiş | Temel | Temel |
+| **Kafa takibi destekli uzamsal ses** | ✅ | ❌ | ✅ | ❌ |
+| **Cihazlar arasında geçiş** | 2 cihaz | 1 cihaz | 1 cihaz | 1 cihaz |
+| **EQ ve güncellemeler için uygulama** | FlyCC / CloudCC | — | Çipe bağlı | — |
+| **iOS desteği** | iOS 27 | iOS 27 | Temel | Temel |
+
+</div>
+
+::: details Teknik ayrıntılar: yonga setleri ve gürültü engelleme
+
+<div class="compare-table">
+
+| | V4.9 | V4.8 | V4.7 | V4.5 |
 |:---|:---:|:---:|:---:|:---:|
 | **Yonga seti** | Airoha 1562AE | BES 2300ZP | Huilian A6 Pro / BES | Airoha 1562A |
-| **ANC performansı** | Perakende kalitesinde hibrit (~38 dB) | Geliştirilmiş hibrit (~35 dB) | Hibrit (~33 dB) | İlk nesil hibrit (~30 dB) |
-| **Şeffaflık Modu** | ✅ Doğal ve net | ✅ Geliştirilmiş | ⚠️ Temel | ⚠️ Temel |
-| **Uzamsal ses (kafa takibi)** | ✅ Evet (ST jiroskopu) | ❌ Sabit (takip yok) | ✅ Evet | ❌ Sabit (takip yok) |
-| **Çoklu cihaz bağlantısı** | ✅ Çift cihaz | ❌ 1 cihaz | ❌ 1 cihaz | ❌ 1 cihaz |
-| **Uygulama EQ'su ve güncellemeler** | ✅ FlyCC / CloudCC | ❌ Yok | ⚠️ Yongaya bağlı | ❌ Yok |
-| **iOS uyumluluğu** | iOS 27 | iOS 27 | Temel iOS | Temel iOS |
-| **Model durumu** | **Son (Referans)** | Üretimden kaldırıldı | Üretimden kaldırıldı | Üretimden kaldırıldı |
-| **Ayrıntılı notlar** | [V4.9 farkları](#v4-9-version-differences) | Üretimden kaldırıldı | Üretimden kaldırıldı | Üretimden kaldırıldı |
+| **Gürültü engelleme (yaklaşık)** | ~38 dB | ~35 dB | ~33 dB | ~30 dB |
 
-::: info Üretimden kaldırılan Pro 1 modelleri
-V4.9'un altındaki tüm sürümler üreticiler tarafından üretimden kaldırılmıştır:
+</div>
+
+:::
+
+::: info Üretimi durdurulan Pro 1 modelleri
+V4.9 altındaki tüm sürümlerin üreticileri üretimi durdurmuştur:
 - **V4.8** (BES 2300ZP)
 - **V4.7** (Huilian A6 Pro / BES 2300ZP)
 - **V4.5** (Airoha 1562A)
@@ -40,8 +55,8 @@ V4.9'un altındaki tüm sürümler üreticiler tarafından üretimden kaldırıl
 
 ## V4.9 sürüm farkları: {#v4-9-version-differences}
 
-**TB** - TB kulaklık, HR modeline göre tere daha dayanıklı olan beyaz ve daha sağlam kutusuyla bilinir. Ayrıca V4.7 ve perakende sürümlerine benzer şekilde mükemmel uzamsal ses sağlayan bir ST jiroskopuna sahiptir. ANC açıkken 6 saat pil ömrü sunarken HR modeli yalnızca 4 saat dayanır.
+**TB** - TB kulaklık, HR modeline kıyasla terlemeye daha dayanıklı olan beyaz ve daha sert kutusuyla bilinir. Ayrıca V4.7 ve perakende sürümlerindekine benzer bir ST jiroskopa sahiptir; bu da mükemmel uzamsal ses sağlar. ANC açıkken pil ömrü 6 saattir; HR modeliyse yalnızca 4 saat dayanır.
 
-**HR** - HR kulaklık, TB modeline göre tere daha az dayanıklı olan sarımsı ve daha yumuşak kutuya sahiptir. Ayrıca ANC performansı biraz daha iyidir; ancak çoğu durumda benzerdir ve arada 1 dB'ye kadar fark görülebilir. HR modelinin pil ömrü ANC kapalıyken 6 saat, ANC açıkken 4 saattir.
+**HR** - HR kulaklığın sarımsı ve daha yumuşak kutusu, TB modeline kıyasla tere daha az dayanıklıdır. Çoğu durumda benzer olsa da ANC performansı biraz daha iyidir; ara sıra 1 dB'ye varan farklar görülür. HR modelinin pil ömrü ANC kapalıyken 6 saat, ANC açıkken 4 saattir.
 
 Güncel bir Pro modeli satın almaya hazır mısınız? [AirPods Pro 2 bağlantılarına](/tr/links/airpods-pro-2) ve [AirPods Pro 3 bağlantılarına](/tr/links/airpods-pro-3) göz atın.
