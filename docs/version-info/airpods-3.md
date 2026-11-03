@@ -15,18 +15,33 @@ This product line is no longer being actively updated by manufacturers, as devel
 All AirPods 3 models feature: open-fit contoured design with shorter stems, Force Sensor playback controls, in-ear detection, wireless charging, and iOS 27 support with About page popup. Note that AirPods 3 replicas do not feature Active Noise Cancellation (ANC).
 :::
 
-Click any version badge to find community reviews for that model.
+Click a version name to read community reviews.
 
-| Version → | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?q=V1.3&restrict_sr=1) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1E) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.3) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Status** | **Active** | Discontinued | Discontinued | Discontinued |
+| **Head-tracking spatial audio** | ✅ | ✅ | ✅ | ❌ |
+| **Switch between devices** | 2 devices | 2 devices | 1 device | 1 device |
+| **Battery** | ~7–8 h | ~7–8 h | ~7–8 h | ~8–9 h |
+| **Wireless charging** | ✅ MagSafe | ✅ MagSafe | ✅ MagSafe | Basic Qi |
+| **App for EQ & settings** | FlyCC / CloudCC | — | Starfun | — |
+| **Hinge** | Metal | 1:1 frosted | Metal | Plastic |
+
+</div>
+
+::: details Technical details: chipsets
+
+<div class="compare-table">
+
+| | V1E | V1.3 | V1.2 | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1562E | BES 2500YP | Huilian A10 | Airoha 1562M |
-| **Spatial Audio (Head-tracking)** | ✅ Yes (ST Gyro) | ✅ Yes | ✅ Yes | ❌ Fixed / None |
-| **Multi-Device Connect** | ✅ Dual-Device | ✅ Dual-Device | ❌ 1 Device | ❌ 1 Device |
-| **Battery Life** | ~7–8 hours | ~7–8 hours | ~7–8 hours | ~8–9 hours |
-| **Wireless Charging & MagSafe** | ✅ Yes | ✅ Yes | ✅ Yes | ⚠️ Basic Qi |
-| **App EQ & Customization** | ✅ FlyCC / CloudCC | ❌ No | ✅ Starfun | ❌ No |
-| **Hinge Quality** | Metal Hinge | 1:1 Frosted Hinge | Metal Hinge | Plastic / Basic |
-| **Model Status** | **Active (Top Pick)** | Discontinued | Discontinued | Discontinued |
+
+</div>
+
+:::
 
 ::: info Discontinued Gen 3 Models
 The following older Gen 3 models have been discontinued by manufacturers:

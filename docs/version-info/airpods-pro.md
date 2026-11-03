@@ -16,19 +16,34 @@ All Pro 1 models include: in-ear silicone tip design, Transparency Mode, metal v
 *(Note: Pro 1 replicas do not feature USB-C charging, volume swipe controls, or Apple's encrypted Find My network.)*
 :::
 
-Click any version badge to find community reviews for that model.
+Click a version name to read community reviews. The V4.9 came in TB and HR builds: see the [V4.9 differences](#v4-9-version-differences).
 
-| Version → | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1)<br>(BES) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1)<br>(Huilian / BES) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1)<br>(Airoha) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V4.9</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.9) | [<span class="version-badge">V4.8</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.8) | [<span class="version-badge">V4.7</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.7) | [<span class="version-badge">V4.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v4.5) |
+|:---|:---:|:---:|:---:|:---:|
+| **Status** | Final (reference) | Discontinued | Discontinued | Discontinued |
+| **Noise cancelling** | Retail-grade | Improved | Hybrid | Early hybrid |
+| **Transparency mode** | Natural | Improved | Basic | Basic |
+| **Head-tracking spatial audio** | ✅ | ❌ | ✅ | ❌ |
+| **Switch between devices** | 2 devices | 1 device | 1 device | 1 device |
+| **App for EQ & updates** | FlyCC / CloudCC | — | Depends on chip | — |
+| **iOS support** | iOS 27 | iOS 27 | Basic | Basic |
+
+</div>
+
+::: details Technical details: chipsets and noise cancelling
+
+<div class="compare-table">
+
+| | V4.9 | V4.8 | V4.7 | V4.5 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1562AE | BES 2300ZP | Huilian A6 Pro / BES | Airoha 1562A |
-| **ANC Performance** | Retail-Grade Hybrid (~38 dB) | Improved Hybrid (~35 dB) | Hybrid (~33 dB) | Early Hybrid (~30 dB) |
-| **Transparency Mode** | ✅ Natural & Clear | ✅ Improved | ⚠️ Basic | ⚠️ Basic |
-| **Spatial Audio (Head-tracking)** | ✅ Yes (ST Gyro) | ❌ Fixed (no tracking) | ✅ Yes | ❌ Fixed (no tracking) |
-| **Multi-Device Connect** | ✅ Dual-Device | ❌ 1 Device | ❌ 1 Device | ❌ 1 Device |
-| **App EQ & Updates** | ✅ FlyCC / CloudCC | ❌ No | ⚠️ Chip-dependent | ❌ No |
-| **iOS Compatibility** | iOS 27 | iOS 27 | Basic iOS | Basic iOS |
-| **Model Status** | **Final (Reference)** | Discontinued | Discontinued | Discontinued |
-| **Detailed Notes** | [V4.9 Differences](#v4-9-version-differences) | Discontinued | Discontinued | Discontinued |
+| **Noise cancelling (approx.)** | ~38 dB | ~35 dB | ~33 dB | ~30 dB |
+
+</div>
+
+:::
 
 ::: info Discontinued Pro 1 Models
 All versions below V4.9 are discontinued by manufacturers:

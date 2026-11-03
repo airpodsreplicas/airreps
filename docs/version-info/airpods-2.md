@@ -15,19 +15,36 @@ This product line is no longer being actively updated by manufacturers, as devel
 All Gen 2 models feature: original long-stem classic earbud fit, tap controls (double-tap to play/pause/skip), in-ear optical detection, Lightning charging, and iOS 27 support with About page popup. Note that Gen 2 earbuds do not feature ANC or Spatial Audio.
 :::
 
-Click any version badge to find community reviews for that model.
+Price from the sellers on 3 November 2026; see the [purchase links](/links/airpods-2) for current prices. Click a version name to read community reviews.
 
-| Version → | [<span class="version-badge">V3E</span>](https://www.reddit.com/r/AirReps/search?q=v3e&restrict_sr=1) | [<span class="version-badge">V3M</span>](https://www.reddit.com/r/AirReps/search?q=v3m&restrict_sr=1) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=v3&restrict_sr=1) | [<span class="version-badge">V2 / V1.5</span>](https://www.reddit.com/r/AirReps/search?q=v2&restrict_sr=1) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V3E</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v3e) | [<span class="version-badge">V3M</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v3m) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v3) | [<span class="version-badge">V2 / V1.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v2) |
+|:---|:---:|:---:|:---:|:---:|
+| **Status** | **Active** | Discontinued | Discontinued | Discontinued |
+| **Price** | $26 | — | — | — |
+| **Sold by** | All 3 | — | — | — |
+| **Switch between devices** | 2 devices | 1 device | 1 device | 1 device |
+| **Battery** | ~5–6 h | ~5–6 h | ~3–4 h | ~3–4 h |
+| **Sound** | Tuned & balanced | Balanced | Standard | Basic |
+| **Wireless charging** | ✅ | ✅ | Basic | ❌ Wired only |
+| **Build & hinge** | Electroplated metal | Metal hinge | Metal hinge | Basic / plastic |
+| **App for EQ & settings** | FlyCC / CloudCC | FlyCC | — | — |
+| **iOS support** | iOS 27 | iOS 27 | iOS 27 | Basic |
+
+</div>
+
+::: details Technical details: chipsets
+
+<div class="compare-table">
+
+| | V3E | V3M | V3 | V2 / V1.5 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1562E | Airoha 1562M | Airoha 1536 | JL (Jieli) / Airoha |
-| **Multi-Device Connect** | ✅ Dual-Device | ❌ 1 Device | ❌ 1 Device | ❌ 1 Device |
-| **Battery Life** | ~5–6 hours | ~5–6 hours | ~3–4 hours | ~3–4 hours |
-| **Sound Quality** | Tuned & Balanced | Balanced | Standard | Basic |
-| **Wireless Charging** | ✅ Qi Wireless | ✅ Qi Wireless | ⚠️ Basic Qi | ❌ Wired Only |
-| **Build & Hinge** | Electroplated Metal | Metal Hinge | Metal Hinge | Basic / Plastic |
-| **App EQ & Customization** | ✅ FlyCC / CloudCC | ✅ FlyCC | ❌ No | ❌ No |
-| **iOS Compatibility** | iOS 27 | iOS 27 | iOS 27 | Basic iOS |
-| **Model Status** | **Active (Top Pick)** | Discontinued | Discontinued | Discontinued |
+
+</div>
+
+:::
 
 ::: info Discontinued Gen 2 Models
 The following older Gen 2 models have been discontinued by manufacturers:

@@ -5,30 +5,60 @@ description: "Compare AirPods Pro 3 replica versions (V7, SE, V6, V5.5) by chip,
 
 # AirPods Pro 3
 
-**Quick verdict:** the Jenny-exclusive **SE** is the standout value pick of the Pro 3 series — built on the XiaoBai chipset, it delivers the strongest ANC tested on any replica (beating even the pricier V7), flawless head-tracking spatial audio, real-time translation, and built-in heart rate monitoring for just $48. For most buyers choosing between the SE and the V7, the SE comes out well ahead on value and everyday listening — see the [SE overview](#se-overview). The **V6 Huilian** remains the pick if you want iCloud Connect and multi-device switching. The **V7** wins if fitness-grade heart rate accuracy, head gesture answering, or conversation awareness are must-haves — the **TigerBuilder** is the newest and best V7 build, with the Huilian as the runner-up. On a tight budget, the **V5.5** has the Pro 3 look for less. See the [purchase links](/links/airpods-pro-3) for all versions.
+<div class="pick-cards">
 
-::: tip Shared Pro 3 Baseline
-All Pro 3 models include: USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, Pro 3 iOS popup (not on the TigerBuilder V7), and iOS 27 support.
+- <span class="pick-label">Best value</span> **SE** · $48 · Jenny only<br>The strongest noise cancelling we've tested on any replica, working head tracking and live translation. Connects to one device at a time. [SE overview](#se-overview)
+- <span class="pick-label">Most features</span> **V7 TB** · $68 · HiCity<br>Heart rate, head gestures, conversation awareness and switching between 3 devices. No iOS popup or serial number. [V7 overview](#v7-overview)
+- <span class="pick-label">Best for iCloud switching</span> **V6 Huilian** · $43–45<br>Switches between your iPhone, iPad and Mac with iCloud Connect, for less than a V7. The **V7 Huilian** adds heart rate and head gestures.
+- <span class="pick-label">Lowest price</span> **V5.5** · $27–28<br>The Pro 3 look and decent noise cancelling. No head tracking.
+
+</div>
+
+Prices are what the sellers charged on 3 November 2026; see the [purchase links](/links/airpods-pro-3) for current prices. Click a version name in the table to read community reviews.
+
+<div class="compare-table">
+
+| | [<span class="version-badge">V7 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v7+tb) | [<span class="version-badge">V7 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v7+huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=%22pro+3+se%22) | [<span class="version-badge">V6 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v6+huilian) | [<span class="version-badge">V6 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v6+tb) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v5.5) |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Price** | $68 | $67–68 | $48 | $43–45 | $37–38 | $27–28 |
+| **Sold by** | HiCity | All 3 | Jenny | All 3 | All 3 | All 3 |
+| **iOS popup** | ❌ No¹ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Noise cancelling** | Very strong | Very strong | Strongest | Good | Good | Decent |
+| **Head-tracking spatial audio** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| **Heart rate** | ✅ | ✅ | ✅ Casual² | ❌ | ❌ | ❌ |
+| **Head gestures (nod / shake)** | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **Conversation awareness** | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| **Live translation** | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| **Switch between devices** | 3 devices | iCloud Connect | 1 device | iCloud Connect | 2 devices | 1 device |
+| **App for EQ & settings** | FlyCC | Starfun | — | Starfun | FlyCC | — |
+
+</div>
+
+<div class="compare-notes">
+
+¹ The V7 TB currently has no iOS popup and no serial number. The seller tried to add them in an update, but it didn't work; a future update may add them. You set it up in the FlyCC app instead, so it isn't for everyone.
+
+² The SE's heart rate read 15–20 bpm off a medical-grade sensor in our testing: fine for casual curiosity. The V7 tracks much closer.
+
+</div>
+
+::: tip Every Pro 3 version has
+USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, the Pro 3 iOS popup (not on the V7 TB) and iOS 27 support.
 *(Note: No replica supports Apple's encrypted Find My network.)*
 :::
 
-Click any version badge to find community reviews for that model.
+::: details Technical details: chipsets and noise cancelling
 
-| Version → | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1)<br>(TB / Huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1)<br>(Jenny Exclusive) | [<span class="version-badge">V6</span>](https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1)<br>(HL / TB) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1) |
-|:---|:---:|:---:|:---:|:---:|
-| **Chipset** | Airoha 1571AM / Huilian 377H3 | XiaoBai | Huilian 247 / Airoha 1563E | Bluetrum 8922 |
-| **ANC Performance** | Dual-Feed Hybrid (~38–42 dB) | Top-Tier Hybrid (~42 dB, Best) | Good (~36–38 dB) | Decent (~32 dB) |
-| **Spatial Audio (Head-tracking)** | ✅ Working | ✅ Working Flawlessly | ✅ Working | ❌ Fixed (no tracking) |
-| **Real-Time Translation** | ⚠️ Huilian variant only | ✅ Yes (iOS prompt) | ⚠️ Huilian variant only | ❌ No |
-| **Heart Rate Monitoring** | ✅ Optical sensor | ✅ Yes (casual monitoring) | ❌ No | ❌ No |
-| **Head Gesture Controls** | ✅ Yes (nod / shake) | ❌ No | ❌ No | ❌ No |
-| **Conversation Awareness** | ✅ Yes | ❌ No | ⚠️ Huilian variant only | ❌ No |
-| **Multi-Device / Switching** | 3 devices (TB) / iCloud (HL) | 1 device | iCloud (HL) / 2 devices (TB) | 1 device |
-| **App EQ / Customization** | FlyCC (TB) / Starfun (HL) | ❌ No | Starfun (HL) / FlyCC (TB) | ❌ No |
-| **Price / Value Tier** | ~$68–$75 (Flagship) | ~$48 (Top Value Pick) | ~$38–$45 (Mid-tier) | ~$25–$30 (Budget) |
-| **Detailed Overview** | [V7 Overview](#v7-overview) | [SE Overview](#se-overview) | — | — |
+<div class="compare-table">
 
-*⚠️ Pro 3 V7 (TigerBuilder version only): currently no iOS popup and no serial number — the seller tried to add them in an update, but it didn't work; a future update may add them. It uses the FlyCC app instead — not for everyone. The Huilian V7 is not affected.*
+| | V7 TB | V7 Huilian | SE | V6 Huilian | V6 TB | V5.5 |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Chipset** | Airoha 1571AM | Huilian 377H3 | XiaoBai | Huilian 247 | Airoha 1563E | Bluetrum 8922 |
+| **Noise cancelling (approx.)** | ~38–42 dB | ~38–42 dB | ~42 dB | ~36–38 dB | ~36–38 dB | ~32 dB |
+
+</div>
+
+:::
 
 ## V7 Overview {#v7-overview}
 

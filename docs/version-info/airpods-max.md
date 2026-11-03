@@ -5,29 +5,57 @@ description: "Compare AirPods Max replica versions by chip, features, and missin
 
 # AirPods Max
 
-**Quick verdict:** choose the **V3 Metal (Airoha 1562AE)** for metal ear cups, upgraded hybrid ANC, and head-tracking spatial audio. The cheaper **V3P (Airoha 1561M)** uses a plastic-steel shell and a different chipset; it is not simply the V3 in a plastic case. The **V2.5** is a mid-range alternative with head tracking and dual-device connectivity on the Realtek variant. See the [AirPods Max purchase links](/links/airpods-max).
+<div class="pick-cards">
 
-::: tip Shared AirPods Max Baseline
+- <span class="pick-label">Best overall</span> **V3 Metal** · $126–127<br>Metal ear cups, upgraded hybrid noise cancelling and head-tracking spatial audio. [V3 overview](#v3-overview)
+- <span class="pick-label">Lower price</span> **V3P** · $85–93<br>A plastic-steel shell and an older chipset, so it isn't simply the V3 in a plastic case. No head tracking. [V3 overview](#v3-overview)
+
+</div>
+
+Prices are what the sellers charged on 3 November 2026; see the [purchase links](/links/airpods-max) for current prices. Click a version name in the table to read community reviews.
+
+<div class="compare-table">
+
+| | [<span class="version-badge">V3 Metal</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v3) | [<span class="version-badge">V3P</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v3p) | [<span class="version-badge">V2.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v2.5) | [<span class="version-badge">V2 Metal</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v2) |
+|:---|:---:|:---:|:---:|:---:|
+| **Price** | $126–127 | $85–93 | $124 | $110–112 |
+| **Sold by** | All 3 | Earhive, Jenny | Earhive | Earhive, Jenny |
+| **Ear cups** | Metal | Plastic-steel | Aluminium alloy | Aluminium alloy |
+| **Noise cancelling** | Four-mic hybrid¹ | Hybrid | Hybrid | Hybrid |
+| **Transparency mode** | Natural | Decent | Decent | Basic |
+| **Head-tracking spatial audio** | ✅ | ❌ | ✅² | ❌ |
+| **Battery** | 20 h¹ | 20 h¹ | Not verified | Not verified |
+| **Switch between devices** | 2 devices | 1 device | 2 devices² | 1 device |
+| **App for EQ & updates** | FlyCC (Android) | FlyCC (Android) | Depends on chip | FlyCC (Android) |
+| **Charging port** | USB-C | USB-C | USB-C or Lightning | Lightning or USB-C |
+
+</div>
+
+<div class="compare-notes">
+
+¹ Seller specifications checked September 22, 2026: [Jenny V3](https://jenny.airreps.info/product/max-v3-tb/), [Jenny V3P](https://jenny.airreps.info/product/max-v3p-tb/), and [Earhive V3P](https://earhive.com/product/max-v3p-tb/). The 45 dB ANC figure and 20-hour battery figures are seller claims, not comparable community measurements. Runtime depends on volume, ANC, firmware, and batch; earlier 35–50-hour guide estimates were not supported by a documented test.
+
+² On the Realtek build of the V2.5. [V2 and V2.5 details](#v2-v2-5-version-differences)
+
+</div>
+
+::: tip Every AirPods Max version has
 All Max models include: over-ear design with mesh headband, Digital Crown volume & playback dial, dedicated noise control button, in-ear / on-head detection, audio sharing, and iOS 27 support with About page popup.
 *(Note: No replica matches 1:1 retail Max ANC depth or supports Apple's encrypted Find My network.)*
 :::
 
-Click any version badge to find community reviews for that model.
+::: details Technical details: chipsets and noise cancelling
 
-| Version → | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1)<br>(Metal TB) | [<span class="version-badge">V3P</span>](https://www.reddit.com/r/AirReps/search?q=max%20v3p&restrict_sr=1)<br>(Plastic TB) | [<span class="version-badge">V2.5</span>](https://www.reddit.com/r/AirReps/search?q=max%20v2.5&restrict_sr=1)<br>(Realtek) | [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=max%20v2&restrict_sr=1)<br>(Metal TB) |
+<div class="compare-table">
+
+| | V3 Metal | V3P | V2.5 | V2 Metal |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1562AE | Airoha 1561M | Realtek 8763ESE / Bluetrum | Airoha 1561M |
-| **Cup Material** | Full Metal (Aluminium) | Plastic-Steel | Aluminium Alloy | Aluminium Alloy |
-| **ANC Performance** | Four-mic hybrid; up to 45 dB advertised | Hybrid ANC (seller-listed) | Hybrid ANC | Hybrid ANC |
-| **Transparency Mode** | ✅ Natural & Clear | ✅ Decent | ✅ Decent | ⚠️ Basic |
-| **Spatial Audio (Head-tracking)** | ✅ Yes (ST Gyro) | ❌ Fixed (no tracking) | ✅ Yes (Realtek) | ❌ Fixed (no tracking) |
-| **Battery Life** | 20h (seller-listed) | 20h (seller-listed) | Not verified | Not verified |
-| **Multi-Device Connect** | ✅ Dual-Device | ❌ 1 Device | ✅ Dual-Device | ⚠️ 1 Device |
-| **App EQ & Updates** | ✅ FlyCC (Android) | ✅ FlyCC (Android) | ⚠️ Chip-dependent OTA | ✅ FlyCC (Android) |
-| **Charging Port** | USB-C | USB-C | USB-C / Lightning | Lightning / USB-C |
-| **Detailed Notes** | [V3 Overview](#v3-overview) | [V3 Overview](#v3-overview) | [V2.5 Details](#v2-v2-5-version-differences) | [V2 Details](#v2-v2-5-version-differences) |
+| **Noise cancelling** | Four-mic hybrid, up to 45 dB advertised | Hybrid (seller-listed) | Hybrid | Hybrid |
 
-Seller specifications checked September 22, 2026: [Jenny V3](https://jenny.airreps.info/product/max-v3-tb/), [Jenny V3P](https://jenny.airreps.info/product/max-v3p-tb/), and [Earhive V3P](https://earhive.com/product/max-v3p-tb/). The 45 dB ANC figure and 20-hour battery figures are seller claims, not comparable community measurements. Runtime depends on volume, ANC, firmware, and batch; earlier 35–50-hour guide estimates were not supported by a documented test.
+</div>
+
+:::
 
 ::: info Discontinued Max Models
 The following older models have been discontinued by manufacturers and are no longer recommended:

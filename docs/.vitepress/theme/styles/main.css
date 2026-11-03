@@ -271,3 +271,145 @@ iframe[src*="youtube"] {
   box-shadow: var(--depth-press);
   transform: translateY(1px);
 }
+
+/* Version comparison: quick-pick cards above the matrix. */
+.vp-doc .pick-cards ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  padding: 0;
+  margin: 20px 0;
+  list-style: none;
+}
+
+.vp-doc .pick-cards li {
+  padding: 14px 16px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--vp-c-text-2);
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+}
+
+.vp-doc .pick-cards li > strong:first-of-type {
+  font-size: 17px;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc .pick-cards .pick-label {
+  display: block;
+  margin-bottom: 2px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--vp-c-brand-1);
+  text-transform: uppercase;
+}
+
+/* Three picks sit in one row instead of leaving one card alone. */
+.vp-doc .pick-cards ul:has(> li:nth-child(3):last-child) {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+@media (max-width: 640px) {
+  .vp-doc .pick-cards ul,
+  .vp-doc .pick-cards ul:has(> li:nth-child(3):last-child) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Version comparison matrix: one column per build, centred cells and a
+   feature column that stays put while the table scrolls sideways. */
+.vp-doc .compare-table {
+  margin: 12px 0;
+  overflow-x: auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+}
+
+.vp-doc .compare-table table {
+  display: table;
+  width: 100%;
+  margin: 0;
+  font-size: 14px;
+  /* Separate borders keep the sticky column opaque while scrolling; collapsed
+     borders let scrolled text bleed past its edge. */
+  border-spacing: 0;
+  border-collapse: separate;
+  border: 0;
+}
+
+.vp-doc .compare-table th,
+.vp-doc .compare-table td {
+  border: 0;
+  border-right: 1px solid var(--vp-c-divider);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc .compare-table tr > :last-child {
+  border-right: 0;
+}
+
+.vp-doc .compare-table tbody tr:last-child > * {
+  border-bottom: 0;
+}
+
+.vp-doc .compare-table th,
+.vp-doc .compare-table td {
+  padding: 8px 6px;
+  line-height: 1.4;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.vp-doc .compare-table tr > :first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  min-width: 9.5em;
+  padding-left: 12px;
+  text-align: left;
+  background: inherit;
+}
+
+.vp-doc .compare-table thead tr > :first-child {
+  background: var(--vp-c-bg-soft);
+}
+
+.vp-doc .compare-table td:first-child strong {
+  font-weight: 600;
+}
+
+.vp-doc .compare-table th a {
+  text-decoration: none;
+}
+
+.vp-doc .compare-table th .version-badge {
+  font-size: 0.9em;
+}
+
+.vp-doc .compare-table td:not(:first-child) {
+  text-wrap: balance;
+}
+
+/* Prices and sellers (the first rows) read better on one line. The technical
+   details table keeps normal wrapping for long chip names. */
+.vp-doc .compare-table tbody tr:nth-child(-n + 2) td:not(:first-child) {
+  white-space: nowrap;
+}
+
+.vp-doc details .compare-table tbody tr:nth-child(n) td:not(:first-child) {
+  white-space: normal;
+}
+
+.vp-doc .compare-notes {
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .compare-notes p {
+  margin: 4px 0;
+}
