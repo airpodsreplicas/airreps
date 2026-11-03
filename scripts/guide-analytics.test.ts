@@ -282,6 +282,7 @@ describe('outbound targets', () => {
             ['https://airreps.link/hcmaxv3tb', 'hicity'],
             ['https://airreps.link/earhivew', 'earhive'],
             ['https://airreps.link/jennyw', 'jenny'],
+            ['https://airreps.link/jennyali', 'jenny'],
             ['https://airreps.link/hicityw', 'hicity'],
             ['https://airreps.link/kakobuy', 'kakobuy'],
             ['https://airreps.link/discord', 'discord'],

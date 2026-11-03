@@ -232,6 +232,7 @@ const SHORTLINK_ALIASES: Record<string, Target> = {
     discord: 'discord',
     earhivew: 'earhive',
     hicityw: 'hicity',
+    jennyali: 'jenny',
     jennyw: 'jenny',
     kakobuy: 'kakobuy',
     reddit: 'reddit',
