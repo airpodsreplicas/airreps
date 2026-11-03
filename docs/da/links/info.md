@@ -52,8 +52,6 @@ Inden for hver model koster et højere versionsnummer normalt mere og tilføjer 
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-Jenny har også en [Alibaba-butik](https://airreps.link/jennyali), hvis du hellere vil bestille via Alibaba.
-
 ## Betalingsmetoder {#payment-methods}
 
 Alle troværdige sælgere accepterer flere betalingsmetoder for din bekvemmeligheds skyld:

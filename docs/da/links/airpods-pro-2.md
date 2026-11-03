@@ -33,7 +33,6 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
       <div class="link-column">
         <a href="https://airreps.link/jprov54hl">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -55,7 +54,6 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
       <div class="link-column">
         <a href="https://airreps.link/jprov53tb">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -72,7 +70,6 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
       <div class="link-column">
         <a href="https://airreps.link/jprov53hl">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -94,7 +91,6 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
       <div class="link-column">
         <a href="https://airreps.link/jprov52tb">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -111,7 +107,6 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
       <div class="link-column">
         <span class="unavailable-link">Hjemmeside ikke tilgængelig</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -133,7 +128,6 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
       <div class="link-column">
         <a href="https://airreps.link/jprov42">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

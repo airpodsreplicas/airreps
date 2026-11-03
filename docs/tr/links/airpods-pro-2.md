@@ -33,7 +33,6 @@ AirPods Pro 2 replikaları en popüler ve olgun kulak içi seçeneğidir. Her ve
       <div class="link-column">
         <a href="https://airreps.link/jprov54hl">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -55,7 +54,6 @@ AirPods Pro 2 replikaları en popüler ve olgun kulak içi seçeneğidir. Her ve
       <div class="link-column">
         <a href="https://airreps.link/jprov53tb">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -72,7 +70,6 @@ AirPods Pro 2 replikaları en popüler ve olgun kulak içi seçeneğidir. Her ve
       <div class="link-column">
         <a href="https://airreps.link/jprov53hl">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -94,7 +91,6 @@ AirPods Pro 2 replikaları en popüler ve olgun kulak içi seçeneğidir. Her ve
       <div class="link-column">
         <a href="https://airreps.link/jprov52tb">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -111,7 +107,6 @@ AirPods Pro 2 replikaları en popüler ve olgun kulak içi seçeneğidir. Her ve
       <div class="link-column">
         <span class="unavailable-link">Web sitesi kullanılamıyor</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -133,7 +128,6 @@ AirPods Pro 2 replikaları en popüler ve olgun kulak içi seçeneğidir. Her ve
       <div class="link-column">
         <a href="https://airreps.link/jprov42">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
