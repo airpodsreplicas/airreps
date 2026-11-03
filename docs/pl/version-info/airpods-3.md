@@ -1,37 +1,52 @@
 ---
-title: Wersje replik AirPods 3 i specyfikacje
-description: 'Porównaj repliki AirPods 3 pod względem układu, funkcji i brakujących funkcji.'
+title: Wersje replik AirPods 3 i ich specyfikacja
+description: 'Porównaj wersje replik AirPods 3 pod względem układu, funkcji i brakujących funkcji.'
 ---
 # AirPods 3
 
 ::: tip Rozwój przeniósł się na nowsze modele
-Ta linia produktów nie jest już aktywnie aktualizowana przez producentów, ponieważ rozwój przeniósł się na nowsze modele. Repliki AirPods 3 nadal są świetnymi produktami i pozostają popularnym wyborem. Jeśli szukasz najnowszych funkcji i ulepszeń, sprawdź [AirPods 4](/pl/version-info/airpods-4).
+Producenci nie rozwijają już aktywnie tej linii produktów, ponieważ prace nad rozwojem przeniosły się na nowsze modele. Repliki AirPods 3 nadal są znakomitymi produktami i cieszą się dużą popularnością. Jeśli szukasz najnowszych funkcji i ulepszeń, sprawdź [AirPods 4](/pl/version-info/airpods-4).
 :::
 
-**Szybki werdykt:** **V1E (Airoha 1562E)** to zdecydowanie najlepsza replika AirPods 3 i jedyny aktywnie produkowany model w tej serii — oferuje przełączanie między wieloma urządzeniami, dźwięk przestrzenny ze śledzeniem ruchów głowy, 7–8 godzin pracy na baterii oraz bezprzewodowe ładowanie MagSafe. Zobacz [linki do zakupu AirPods 3](/pl/links/airpods-3).
+**Krótka ocena:** **V1E (Airoha 1562E)** to najlepsza replika AirPods 3 i jedyny aktywnie produkowany model z tej serii — oferuje przełączanie między urządzeniami, dźwięk przestrzenny ze śledzeniem ruchów głowy, 7–8 godzin pracy na baterii oraz bezprzewodowe ładowanie MagSafe. Zobacz [linki do zakupu AirPods 3](/pl/links/airpods-3).
 
 ::: tip Wspólne cechy wszystkich modeli AirPods 3
-Wszystkie modele AirPods 3 oferują: ergonomiczny, otwarty design z krótszymi nóżkami, sterowanie odtwarzaniem za pomocą Force Sensor, wykrywanie słuchawek w uszach, ładowanie bezprzewodowe oraz obsługę iOS 27 z wyskakującym oknem strony „Informacje”. Pamiętaj, że repliki AirPods 3 nie oferują aktywnej redukcji hałasu (ANC).
+Wszystkie modele AirPods 3 mają otwartą, wyprofilowaną konstrukcję z krótszymi nóżkami, sterowanie odtwarzaniem za pomocą czujnika nacisku, wykrywanie w uchu, ładowanie bezprzewodowe oraz obsługę iOS 27 z wyskakującym oknem na stronie „To urządzenie”. Pamiętaj, że repliki AirPods 3 nie mają aktywnej redukcji szumów (ANC).
 :::
 
-Kliknij dowolną plakietkę wersji, aby znaleźć opinie społeczności na temat danego modelu.
+Kliknij nazwę wersji, aby przeczytać opinie społeczności.
 
-| Wersja → | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?q=V1.3&restrict_sr=1) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1E) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.3) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1) |
 |:---|:---:|:---:|:---:|:---:|
-| **Układ** | Airoha 1562E | BES 2500YP | Huilian A10 | Airoha 1562M |
-| **Dźwięk przestrzenny (śledzenie ruchów głowy)** | ✅ Tak (żyroskop ST) | ✅ Tak | ✅ Tak | ❌ Stały / brak |
-| **Połączenie z wieloma urządzeniami** | ✅ Dwa urządzenia | ✅ Dwa urządzenia | ❌ 1 urządzenie | ❌ 1 urządzenie |
-| **Czas pracy na baterii** | ~7–8 godzin | ~7–8 godzin | ~7–8 godzin | ~8–9 godzin |
-| **Ładowanie bezprzewodowe i MagSafe** | ✅ Tak | ✅ Tak | ✅ Tak | ⚠️ Podstawowe Qi |
-| **Korektor aplikacji i personalizacja** | ✅ FlyCC / CloudCC | ❌ Nie | ✅ Starfun | ❌ Nie |
-| **Jakość zawiasu** | Metalowy zawias | Matowy zawias 1:1 | Metalowy zawias | Plastikowy / podstawowy |
-| **Status modelu** | **Aktywny (najlepszy wybór)** | Wycofany | Wycofany | Wycofany |
+| **Status** | **Aktywny** | Wycofany | Wycofany | Wycofany |
+| **Dźwięk przestrzenny ze śledzeniem ruchów głowy** | ✅ | ✅ | ✅ | ❌ |
+| **Przełączanie między urządzeniami** | 2 urządzenia | 2 urządzenia | 1 urządzenie | 1 urządzenie |
+| **Bateria** | ~7–8 h | ~7–8 h | ~7–8 h | ~8–9 h |
+| **Ładowanie bezprzewodowe** | ✅ MagSafe | ✅ MagSafe | ✅ MagSafe | Podstawowe Qi |
+| **Aplikacja do korektora i ustawień** | FlyCC / CloudCC | — | Starfun | — |
+| **Zawias** | Metalowy | Matowy 1:1 | Metalowy | Plastikowy |
 
-::: info Wycofane modele 3. generacji
-Następujące starsze modele 3. generacji zostały wycofane przez producentów:
+</div>
+
+::: details Szczegóły techniczne: chipsety
+
+<div class="compare-table">
+
+| | V1E | V1.3 | V1.2 | V1 |
+|:---|:---:|:---:|:---:|:---:|
+| **Chipset** | Airoha 1562E | BES 2500YP | Huilian A10 | Airoha 1562M |
+
+</div>
+
+:::
+
+::: info Wycofane modele Gen 3
+Producenci wycofali następujące starsze modele Gen 3:
 - **V1.3** (BES 2500YP)
 - **V1.2** i **V1.2U** (Huilian A10)
 - **V1** (Airoha 1562M)
 :::
 
-Gotowy na zakup? Sprawdź nasze [linki do zakupu AirPods 3](/pl/links/airpods-3) oraz [przewodnik składania zamówienia](/pl/ordering/how-to-buy).
+Chcesz kupić? Zobacz [linki do zakupu AirPods 3](/pl/links/airpods-3) i [przewodnik po zamawianiu](/pl/ordering/how-to-buy).

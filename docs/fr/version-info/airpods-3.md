@@ -1,34 +1,49 @@
 ---
-title: Versions de réplique des AirPods 3 et spécifications
-description: 'Comparez les versions de réplique des AirPods 3 selon la puce, les fonctionnalités et les fonctionnalités manquantes.'
+title: Versions de réplique des AirPods 3 et caractéristiques
+description: 'Comparez les versions de réplique des AirPods 3 selon la puce, les fonctionnalités et les fonctionnalités absentes.'
 ---
 # AirPods 3
 
-::: tip Développement axé sur les nouveaux modèles
-Cette gamme de produits n’est plus activement mise à jour par les fabricants, qui ont reporté leurs efforts de développement sur des modèles plus récents. Les répliques d’AirPods 3 restent d’excellents produits et demeurent des choix populaires. Si vous recherchez les dernières fonctionnalités et améliorations, consultez les [AirPods 4](/fr/version-info/airpods-4).
+::: tip Le développement est passé à autre chose
+Cette gamme de produits n’est plus activement mise à jour par les fabricants, car le développement s’est orienté vers des modèles plus récents. Les répliques d’AirPods 3 restent d’excellents produits et sont toujours très populaires. Si vous recherchez les dernières fonctionnalités et améliorations, pensez à consulter les [AirPods 4](/fr/version-info/airpods-4).
 :::
 
-**Verdict rapide :** le **V1E (Airoha 1562E)** est la réplique définitive des AirPods 3 et le seul modèle encore activement produit de cette gamme — avec basculement entre plusieurs appareils, audio spatial avec suivi de la tête, 7 à 8 heures d’autonomie et recharge sans fil MagSafe. Consultez les [liens d’achat des AirPods 3](/fr/links/airpods-3).
+**Verdict rapide :** le **V1E (Airoha 1562E)** est la réplique définitive des AirPods 3 et le seul modèle de cette gamme encore produit activement — avec le basculement entre plusieurs appareils, l’audio spatial avec suivi des mouvements de la tête, une autonomie de 7 à 8 heures et la recharge sans fil MagSafe. Consultez les [liens d’achat des AirPods 3](/fr/links/airpods-3).
 
-::: tip Base commune des AirPods 3
-Tous les modèles d’AirPods 3 disposent d’un design profilé à ajustement ouvert avec des tiges plus courtes, de commandes de lecture par capteur de pression, de la détection intra-auriculaire, de la recharge sans fil et de la prise en charge d’iOS 27 avec une fenêtre contextuelle sur la page « À propos ». Notez que les répliques d’AirPods 3 ne disposent pas de la réduction active du bruit (ANC).
+::: tip Caractéristiques communes des AirPods 3
+Tous les modèles d’AirPods 3 sont dotés d’un design ergonomique ouvert avec des tiges plus courtes, de commandes de lecture par capteur de pression, de la détection intra-auriculaire, de la recharge sans fil et de la compatibilité avec iOS 27, avec une fenêtre contextuelle sur la page À propos. Notez que les répliques d’AirPods 3 ne disposent pas de la réduction active du bruit (ANC).
 :::
 
-Cliquez sur n’importe quel badge de version pour consulter les avis de la communauté concernant ce modèle.
+Cliquez sur le nom d’une version pour consulter les avis de la communauté.
 
-| Version → | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?q=V1.3&restrict_sr=1) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1E) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.3) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Statut** | **Actif** | Arrêté | Arrêté | Arrêté |
+| **Audio spatial avec suivi des mouvements de la tête** | ✅ | ✅ | ✅ | ❌ |
+| **Basculement entre appareils** | 2 appareils | 2 appareils | 1 appareil | 1 appareil |
+| **Autonomie** | ~7–8 h | ~7–8 h | ~7–8 h | ~8–9 h |
+| **Recharge sans fil** | ✅ MagSafe | ✅ MagSafe | ✅ MagSafe | Qi standard |
+| **Application pour l’égalisation et les réglages** | FlyCC / CloudCC | — | Starfun | — |
+| **Charnière** | Métal | Aspect dépoli 1:1 | Métal | Plastique |
+
+</div>
+
+::: details Détails techniques : puces
+
+<div class="compare-table">
+
+| | V1E | V1.3 | V1.2 | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Puce** | Airoha 1562E | BES 2500YP | Huilian A10 | Airoha 1562M |
-| **Audio spatial (suivi de la tête)** | ✅ Oui (gyroscope ST) | ✅ Oui | ✅ Oui | ❌ Fixe / aucun |
-| **Connexion à plusieurs appareils** | ✅ Deux appareils | ✅ Deux appareils | ❌ 1 appareil | ❌ 1 appareil |
-| **Autonomie** | ~7–8 heures | ~7–8 heures | ~7–8 heures | ~8–9 heures |
-| **Recharge sans fil et MagSafe** | ✅ Oui | ✅ Oui | ✅ Oui | ⚠️ Qi basique |
-| **Égaliseur et personnalisation via l’application** | ✅ FlyCC / CloudCC | ❌ Non | ✅ Starfun | ❌ Non |
-| **Qualité de la charnière** | Charnière en métal | Charnière dépolie 1:1 | Charnière en métal | Plastique / basique |
-| **Statut du modèle** | **Actif (meilleur choix)** | Abandonné | Abandonné | Abandonné |
 
-::: info Modèles Gen 3 abandonnés
-Les anciens modèles Gen 3 suivants ont été abandonnés par les fabricants :
+</div>
+
+:::
+
+::: info Modèles Gen 3 arrêtés
+Les anciens modèles Gen 3 suivants ne sont plus fabriqués :
 - **V1.3** (BES 2500YP)
 - **V1.2** et **V1.2U** (Huilian A10)
 - **V1** (Airoha 1562M)

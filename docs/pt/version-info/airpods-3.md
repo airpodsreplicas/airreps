@@ -1,34 +1,49 @@
 ---
-title: Versões de réplica do AirPods 3 e especificações
-description: 'Compare as versões réplica do AirPods 3 quanto ao chip, aos recursos e aos recursos ausentes.'
+title: Versões Réplica do AirPods 3 e Especificações
+description: 'Compare as versões réplica do AirPods 3 por chip, recursos e recursos ausentes.'
 ---
 # AirPods 3
 
-::: tip Desenvolvimento focado em modelos mais novos
-Esta linha de produtos não é mais atualizada ativamente pelos fabricantes, pois o desenvolvimento mudou para modelos mais recentes. As réplicas dos AirPods 3 ainda são excelentes produtos e continuam sendo opções populares. Se você procura os recursos e aprimoramentos mais recentes, confira os [AirPods 4](/pt/version-info/airpods-4).
+::: tip O desenvolvimento avançou
+Os fabricantes já não atualizam ativamente esta linha de produtos, pois o desenvolvimento passou para modelos mais recentes. As réplicas dos AirPods 3 continuam sendo excelentes produtos e seguem populares. Se você procura os recursos e as melhorias mais recentes, confira os [AirPods 4](/pt/version-info/airpods-4).
 :::
 
-**Veredito rápido:** o **V1E (Airoha 1562E)** é a réplica definitiva dos AirPods 3 e o único modelo produzido ativamente nesta linha — com alternância entre vários dispositivos, áudio espacial com rastreamento da cabeça, 7–8 horas de duração da bateria e carregamento sem fio MagSafe. Veja os [links de compra dos AirPods 3](/pt/links/airpods-3).
+**Veredito rápido:** o **V1E (Airoha 1562E)** é a réplica definitiva dos AirPods 3 e o único modelo desta linha ainda em produção ativa — com alternância entre vários dispositivos, áudio espacial com rastreamento da cabeça, 7–8 horas de duração da bateria e carregamento sem fio MagSafe. Veja os [links de compra dos AirPods 3](/pt/links/airpods-3).
 
-::: tip Características básicas compartilhadas dos AirPods 3
-Todos os modelos de AirPods 3 apresentam: design contornado de encaixe aberto com hastes mais curtas, controles de reprodução pelo Sensor de Força, detecção intra-auricular, carregamento sem fio e suporte ao iOS 27 com pop-up da página Sobre. Observe que as réplicas dos AirPods 3 não oferecem Cancelamento Ativo de Ruído (ANC).
+::: tip Características comuns dos AirPods 3
+Todos os modelos de AirPods 3 apresentam: design contornado de encaixe aberto com hastes mais curtas, controles de reprodução pelo sensor de pressão, detecção no ouvido, carregamento sem fio e suporte ao iOS 27 com janela pop-up na página Sobre. Observe que as réplicas dos AirPods 3 não contam com Cancelamento Ativo de Ruído (ANC).
 :::
 
-Clique em qualquer selo de versão para encontrar avaliações da comunidade sobre esse modelo.
+Clique no nome de uma versão para ler as avaliações da comunidade.
 
-| Versão → | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?q=V1.3&restrict_sr=1) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1E) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.3) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Status** | **Ativo** | Descontinuado | Descontinuado | Descontinuado |
+| **Áudio espacial com rastreamento da cabeça** | ✅ | ✅ | ✅ | ❌ |
+| **Alternância entre dispositivos** | 2 dispositivos | 2 dispositivos | 1 dispositivo | 1 dispositivo |
+| **Bateria** | ~7–8 h | ~7–8 h | ~7–8 h | ~8–9 h |
+| **Carregamento sem fio** | ✅ MagSafe | ✅ MagSafe | ✅ MagSafe | Qi básico |
+| **App para equalização e configurações** | FlyCC / CloudCC | — | Starfun | — |
+| **Dobradiça** | Metal | Fosca 1:1 | Metal | Plástico |
+
+</div>
+
+::: details Detalhes técnicos: chipsets
+
+<div class="compare-table">
+
+| | V1E | V1.3 | V1.2 | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1562E | BES 2500YP | Huilian A10 | Airoha 1562M |
-| **Áudio espacial (rastreamento da cabeça)** | ✅ Sim (giroscópio ST) | ✅ Sim | ✅ Sim | ❌ Fixo / nenhum |
-| **Conexão com vários dispositivos** | ✅ Dois dispositivos | ✅ Dois dispositivos | ❌ 1 dispositivo | ❌ 1 dispositivo |
-| **Duração da bateria** | ~7–8 horas | ~7–8 horas | ~7–8 horas | ~8–9 horas |
-| **Carregamento sem fio e MagSafe** | ✅ Sim | ✅ Sim | ✅ Sim | ⚠️ Qi básico |
-| **EQ e personalização pelo app** | ✅ FlyCC / CloudCC | ❌ Não | ✅ Starfun | ❌ Não |
-| **Qualidade da dobradiça** | Dobradiça metálica | Dobradiça fosca 1:1 | Dobradiça metálica | Plástica / básica |
-| **Status do modelo** | **Ativo (principal escolha)** | Descontinuado | Descontinuado | Descontinuado |
 
-::: info Modelos descontinuados da geração 3
-Os seguintes modelos antigos da geração 3 foram descontinuados pelos fabricantes:
+</div>
+
+:::
+
+::: info Modelos Gen 3 descontinuados
+Os seguintes modelos antigos de Gen 3 foram descontinuados pelos fabricantes:
 - **V1.3** (BES 2500YP)
 - **V1.2** e **V1.2U** (Huilian A10)
 - **V1** (Airoha 1562M)

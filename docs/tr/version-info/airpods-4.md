@@ -4,37 +4,66 @@ description: 'AirPods 4 replika sürümlerini çip, özellikler ve eksik özelli
 ---
 # AirPods 4
 
-**Kısa değerlendirme:** aktif gürültü engelleme özellikli açık kulak dinleme için **V3 TB (Airoha 1571AM)** şu anda altın standarttır — açık kulak tasarımında sınıfının en iyisi çift mikrofonlu hibrit ANC, kafa takibi özellikli uzamsal ses için çift ST kemik ses izi jiroskobu, yapay zekâ destekli konuşma farkındalığı ve 1'den 3'e çoklu cihaz geçişi sunar. Sorunsuz Apple ekosistemi geçişi istiyorsanız **V2 Huilian**, iCloud Connect ve Starfun EQ senkronizasyonu sağlar. Bütçe dostu seçenek olarak **V2 TB / HR**, temel ANC ile harika açık kulak sesi sunar. [AirPods 4 satın alma bağlantılarına](/tr/links/airpods-4) göz atın.
+<div class="pick-cards">
 
-::: tip Ortak AirPods 4 temel özellikleri
-Tüm AirPods 4 modelleri şunları sunar: açık tasarım (kulak içi olmayan), kutu hoparlörlü USB-C şarj kutusu, sap üzerinden oynatma kontrolleri, Hey Siri, kulak içi algılama ve About sayfası açılır penceresiyle iOS 27 desteği.
-*(Not: Hiçbir replika, Apple'ın şifreli Find My ağıyla uyumlu değildir. Açık kulak ANC, silikon uçlu kulak içi Pro modellerine kıyasla doğal olarak düşük frekanslı uğultuyu daha az azaltır.)*
+- <span class="pick-label">Genel olarak en iyisi</span> **V3 TB** · $52–53<br>Açık tasarımlı kulaklıklarda en iyi gürültü engelleme, kafa takibi özellikli uzamsal ses, konuşma algılama ve 3 cihaz arasında geçiş. [V3 genel bakış](#v3-overview)
+- <span class="pick-label">iCloud geçişi için en iyisi</span> **V2 Huilian** · $39–42<br>Apple aygıtlarınız arasında iCloud Connect ve iOS ile eşitlenen Starfun ekolayzırı. [V2 genel bakış](#v2-overview)
+- <span class="pick-label">En düşük fiyat</span> **V2 TB** · $29–30<br>Temel gürültü engelleme ile harika açık tasarım sesi. Kafa takibi yok.
+
+</div>
+
+Fiyatlar, satıcıların 3 Kasım 2026 tarihinde istediği fiyatlardır; güncel fiyatlar için [satın alma bağlantılarına](/tr/links/airpods-4) bakın. Topluluk yorumlarını okumak için tablodaki sürüm adına tıklayın.
+
+<div class="compare-table">
+
+| | [<span class="version-badge">V3 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V3) | [<span class="version-badge">V2 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V2) | [<span class="version-badge">V2 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Fiyat** | $52–53 | $39–42 | $29–30 | Listelenmemiş |
+| **Satanlar** | 3'ü de | 3'ü de | 3'ü de | — |
+| **Gürültü engelleme** | Açık tasarımlı modeller arasında en iyisi | İyi | Temel | Temel |
+| **Kafa takibi özellikli uzamsal ses** | ✅ | ✅ | ❌¹ | ❌ |
+| **Konuşma algılama** | ✅ | ✅ | ❌ | ❌ |
+| **Uyarlanabilir ses** | ✅ | ✅ | ❌ | ❌ |
+| **Aygıtlar arasında geçiş** | 3 aygıt | iCloud Connect | 2 aygıt | 1 aygıt |
+| **Kılıf hoparlörü** | ✅ | ✅ | ✅ | Temel |
+| **Sap kontrolleri** | Force Touch | Force Touch | Force Touch | Dokunmatik |
+| **EQ ve ayarlar uygulaması** | FlyCC (Android) | Starfun | FlyCC / CloudCC | — |
+
+</div>
+
+<div class="compare-notes">
+
+¹ V2 HR yapısında kafa takibi bulunur; TB yapısı sabit uzamsal ses kullanır. Güvenilir satıcılar şu anda V2 TB'yi listeliyor.
+
+</div>
+
+::: tip Her AirPods 4 sürümünde
+Tüm AirPods 4 modellerinde açık tasarımlı (kulak içi olmayan) yapı, hoparlörlü USB-C şarj kutusu, sap üzerinden oynatma kontrolleri, Hey Siri, kulak içi algılama ve Hakkında sayfası açılır penceresiyle iOS 27 desteği bulunur.
+*(Not: Hiçbir replika, Apple'ın şifreli Bul ağını desteklemez. Açık tasarımlı Aktif Gürültü Engelleme, silikon uçlu kulak içi Pro modellerine kıyasla düşük frekanslı uğultuyu doğal olarak daha az azaltır.)*
 :::
 
-Bu model için topluluk incelemelerini bulmak üzere herhangi bir sürüm rozetine tıklayın.
+::: details Teknik ayrıntılar: yonga setleri ve gürültü engelleme
 
-| Sürüm → | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1)<br>(TB) | [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V2&restrict_sr=1)<br>(Huilian) | [<span class="version-badge">V2</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V2&restrict_sr=1)<br>(TB / HR) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V1&restrict_sr=1)<br>(Bluetrum) |
+<div class="compare-table">
+
+| | V3 TB | V2 Huilian | V2 TB | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Yonga seti** | Airoha 1571AM | Huilian 247 | Airoha 1563E | Bluetrum 8922 |
-| **ANC performansı** | Çift mikrofonlu hibrit (açık kulak modelleri arasında en iyisi) | Hibrit (~35 dB) | Tek mikrofonlu ANC | Temel ANC |
-| **Uzamsal ses (kafa takibi)** | ✅ Evet (çift ST jiroskop) | ✅ Evet | ⚠️ HR evet / TB sabit | ❌ Sabit (takip yok) |
-| **Konuşma farkındalığı** | ✅ Evet (yapay zekâ) | ✅ Evet | ❌ Hayır | ❌ Hayır |
-| **Uyarlanabilir ses** | ✅ Evet | ✅ Evet | ❌ Hayır | ❌ Hayır |
-| **Çoklu cihaz geçişi** | En fazla 3 cihaz | ✅ iCloud Connect | En fazla 2 cihaz | 1 cihaz |
-| **Kutu hoparlörü** | ✅ Evet (doğru SFX) | ✅ Evet | ✅ Evet | ⚠️ Temel SFX |
-| **Sap kontrolleri** | Force Touch | Force Touch | Force Touch | Dokunmatik sensör |
-| **Uygulama EQ'su ve özelleştirme** | ✅ FlyCC (Android) | ✅ Starfun (iOS ile senkronize olur) | ✅ CloudCC / FlyCC | ❌ Hayır |
-| **Ayrıntılı notlar** | [V3 genel bakış](#v3-overview) | [V2 genel bakış](#v2-overview) | [V2 genel bakış](#v2-overview) | — |
+| **Gürültü engelleme** | Çift mikrofonlu hibrit | Hibrit (~35 dB) | Tek mikrofonlu | Temel |
+
+</div>
+
+:::
 
 ## V3 genel bakış {#v3-overview}
 
-V3 TigerBuilder (TB), yüksek performanslı **Airoha 1571AM** yonga seti üzerine kuruludur ve mevcut en üst düzey açık kulak replikasını temsil eder. Uzamsal ses için doğru gerçek zamanlı kafa takibi sağlayan çift ST kemik ses izi jiroskobuna, siz konuştuğunuzda sesi otomatik olarak azaltan yapay zekâ destekli Konuşma Farkındalığına ve duyarlı kutu hoparlörü ses efektlerine sahiptir. Ayrıca eşleştirilmiş en fazla 3 cihaz arasında sorunsuz geçişi destekler ve FlyCC Android uygulaması üzerinden güncellenebilir.
+V3 TigerBuilder (TB), yüksek performanslı **Airoha 1571AM** yonga seti üzerine kuruludur ve piyasadaki en üst düzey açık tasarımlı replikayı temsil eder. Uzamsal ses için doğru ve gerçek zamanlı kafa takibi sağlayan çift ST kemik sesi algılayıcı jiroskop, konuştuğunuzda sesi otomatik olarak kısan Yapay Zekâ Konuşma Algılama ve duyarlı kılıf hoparlörü ses efektleri sunar. Ayrıca eşleştirilmiş en fazla 3 aygıt arasında sorunsuz geçişi destekler ve FlyCC Android uygulaması üzerinden güncellenebilir.
 
 ## V2 genel bakış {#v2-overview}
 
-V2 sınıfı, üreticiye bağlı olarak küçük farklılıklar gösteren güvenilir açık kulak sesi sunar:
+V2 serisi, üreticiye bağlı küçük farklılıklarla güvenilir açık tasarımlı ses sunar:
 
-- **Huilian 247**: Aynı Apple hesabıyla giriş yapılmış Apple cihazları arasında sorunsuz geçiş için iCloud Connect, uyarlanabilir ses ve özel EQ profillerinin doğrudan iOS ile senkronize edilmesini sağlayan Starfun uygulaması desteği sunar.
-- **TigerBuilder / HR (Airoha 1563E)**: Güçlü açık kulak sesi ve tek mikrofonlu ANC sunan güvenilir günlük kullanım seçenekleridir. HR sürümünde çalışan kafa takibi bulunurken TB modeli sabit uzamsal ses kullanır ve daha güçlü bas vurgusuyla ayarlanmıştır.
+- **Huilian 247**: Aynı Apple Kimliğiyle giriş yapılmış Apple aygıtları arasında sorunsuz geçiş için iCloud Connect, uyarlanabilir ses ve özel EQ profillerinin doğrudan iOS ile eşitlenmesini sağlayan Starfun uygulama desteği sunar.
+- **TigerBuilder / HR (Airoha 1563E)**: Güçlü açık tasarım sesi ve tek mikrofonlu ANC sunan, günlük kullanım için güvenilir modellerdir. HR sürümünde çalışan kafa takibi bulunurken TB modeli sabit uzamsal ses kullanır ve daha belirgin bas vurgusuna göre ayarlanmıştır.
 
-Satın almaya hazır mısınız? [AirPods 4 satın alma bağlantılarımıza](/tr/links/airpods-4) ve [sipariş rehberimize](/tr/ordering/how-to-buy) göz atın.
+Satın almaya hazır mısınız? [AirPods 4 satın alma bağlantılarımıza](/tr/links/airpods-4) ve [sipariş verme kılavuzumuza](/tr/ordering/how-to-buy) göz atın.

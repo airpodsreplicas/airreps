@@ -1,37 +1,52 @@
 ---
-title: AirPods 3 Nachbauversionen & Spezifikationen
-description: 'Vergleiche die Nachbauversionen der AirPods 3 anhand von Chip, Funktionen und fehlenden Funktionen.'
+title: AirPods 3 Replica-Versionen und technische Daten
+description: 'Vergleiche AirPods 3 Replica-Versionen anhand des Chips, der Funktionen und der fehlenden Funktionen.'
 ---
 # AirPods 3
 
-::: tip Fokus liegt auf neueren Modellen
-Diese Produktlinie wird von den Herstellern nicht mehr aktiv aktualisiert, da sich die Entwicklung auf neuere Modelle verlagert hat. Replikate der AirPods 3 sind weiterhin hervorragende Produkte und nach wie vor beliebt. Wenn du nach den neuesten Funktionen und Verbesserungen suchst, schau dir [AirPods 4](/de/version-info/airpods-4) an.
+::: tip Die Entwicklung ist weitergezogen
+Diese Produktreihe wird von den Herstellern nicht mehr aktiv weiterentwickelt, da sich die Entwicklung neueren Modellen zugewandt hat. AirPods-3-Nachbauten sind nach wie vor hervorragende Produkte und beliebte Optionen. Wenn du nach den neuesten Funktionen und Verbesserungen suchst, sieh dir [AirPods 4](/de/version-info/airpods-4) an.
 :::
 
-**Kurzfazit:** Die **V1E (Airoha 1562E)** ist das definitive AirPods-3-Replikat und das einzige aktiv produzierte Modell dieser Produktreihe – mit Umschaltung zwischen mehreren Geräten, räumlichem Audio mit Kopftracking, 7–8 Stunden Akkulaufzeit und kabellosem MagSafe-Laden. Siehe die [Kauflinks für AirPods 3](/de/links/airpods-3).
+**Kurzurteil:** Der **V1E (Airoha 1562E)** ist der maßgebliche AirPods-3-Nachbau und das einzige aktiv produzierte Modell dieser Reihe – mit Wechsel zwischen mehreren Geräten, räumlichem Audio mit Kopfbewegungserfassung, 7–8 Stunden Akkulaufzeit und kabellosem MagSafe-Laden. Sieh dir die [Kauflinks für AirPods 3](/de/links/airpods-3) an.
 
 ::: tip Gemeinsame Basis aller AirPods 3
-Alle AirPods-3-Modelle verfügen über: ein konturiertes Open-Fit-Design mit kürzeren Bügeln, Wiedergabesteuerung über einen Kraftsensor, In-Ear-Erkennung, kabelloses Laden und iOS-27-Unterstützung mit Popup auf der „Über“-Seite. Beachte, dass Replikate der AirPods 3 keine aktive Geräuschunterdrückung (ANC) bieten.
+Alle AirPods-3-Modelle bieten: eine ergonomische, offene Passform mit kürzeren Stielen, Wiedergabesteuerung über den Drucksensor, In-Ear-Erkennung, kabelloses Laden und Unterstützung für iOS 27 mit einem Popup auf der Seite „Info“. Beachte, dass AirPods-3-Nachbauten keine aktive Geräuschunterdrückung (ANC) bieten.
 :::
 
-Klicke auf ein beliebiges Versionsabzeichen, um Community-Bewertungen für das jeweilige Modell zu finden.
+Klicke auf einen Versionsnamen, um Community-Bewertungen zu lesen.
 
-| Version → | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?q=V1.3&restrict_sr=1) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?q=V1.2&restrict_sr=1) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?q=V1&restrict_sr=1) |
+<div class="compare-table">
+
+| | [<span class="version-badge">V1E</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1E) | [<span class="version-badge">V1.3</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.3) | [<span class="version-badge">V1.2</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1.2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=V1) |
+|:---|:---:|:---:|:---:|:---:|
+| **Status** | **Aktiv** | Eingestellt | Eingestellt | Eingestellt |
+| **Räumliches Audio mit Kopfbewegungserfassung** | ✅ | ✅ | ✅ | ❌ |
+| **Wechsel zwischen Geräten** | 2 Geräte | 2 Geräte | 1 Gerät | 1 Gerät |
+| **Akku** | ~7–8 h | ~7–8 h | ~7–8 h | ~8–9 h |
+| **Kabelloses Laden** | ✅ MagSafe | ✅ MagSafe | ✅ MagSafe | Einfaches Qi |
+| **App für EQ und Einstellungen** | FlyCC / CloudCC | — | Starfun | — |
+| **Scharnier** | Metall | 1:1 mattiert | Metall | Kunststoff |
+
+</div>
+
+::: details Technische Details: Chipsätze
+
+<div class="compare-table">
+
+| | V1E | V1.3 | V1.2 | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipsatz** | Airoha 1562E | BES 2500YP | Huilian A10 | Airoha 1562M |
-| **Räumliches Audio (Kopftracking)** | ✅ Ja (ST Gyro) | ✅ Ja | ✅ Ja | ❌ Fest / Keines |
-| **Verbindung mit mehreren Geräten** | ✅ Zwei Geräte | ✅ Zwei Geräte | ❌ 1 Gerät | ❌ 1 Gerät |
-| **Akkulaufzeit** | ~7–8 Stunden | ~7–8 Stunden | ~7–8 Stunden | ~8–9 Stunden |
-| **Kabelloses Laden und MagSafe** | ✅ Ja | ✅ Ja | ✅ Ja | ⚠️ Einfaches Qi |
-| **App-EQ und Anpassung** | ✅ FlyCC / CloudCC | ❌ Nein | ✅ Starfun | ❌ Nein |
-| **Qualität des Scharniers** | Metallscharnier | 1:1-Mattierungsscharnier | Metallscharnier | Kunststoff / Einfach |
-| **Modellstatus** | **Aktiv (Top-Empfehlung)** | Eingestellt | Eingestellt | Eingestellt |
+
+</div>
+
+:::
 
 ::: info Eingestellte Gen-3-Modelle
-Die folgenden älteren Gen-3-Modelle wurden von den Herstellern eingestellt:
+Die folgenden älteren Gen-3-Modelle werden von den Herstellern nicht mehr produziert:
 - **V1.3** (BES 2500YP)
-- **V1.2** und **V1.2U** (Huilian A10)
+- **V1.2** & **V1.2U** (Huilian A10)
 - **V1** (Airoha 1562M)
 :::
 
-Bereit zum Kauf? Siehe unsere [Kauflinks für AirPods 3](/de/links/airpods-3) und unseren [Bestellleitfaden](/de/ordering/how-to-buy).
+Bereit zum Kauf? Sieh dir unsere [Kauflinks für AirPods 3](/de/links/airpods-3) und unseren [Bestellleitfaden](/de/ordering/how-to-buy) an.
