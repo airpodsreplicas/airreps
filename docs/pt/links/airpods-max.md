@@ -33,6 +33,7 @@ As réplicas do AirPods Max são a opção circumaural, variando de modelos bara
       <div class="link-column">
         <a href="https://airreps.link/jmaxv3tb">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -49,6 +50,7 @@ As réplicas do AirPods Max são a opção circumaural, variando de modelos bara
       <div class="link-column">
         <a href="https://airreps.link/jmaxv3p">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -76,6 +78,7 @@ As réplicas do AirPods Max são a opção circumaural, variando de modelos bara
       <div class="link-column">
         <a href="https://airreps.link/jmaxv2tb">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

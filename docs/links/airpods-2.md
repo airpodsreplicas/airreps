@@ -34,6 +34,7 @@ AirPods 2 replicas are the cheapest way into the ecosystem. Pick a version below
       <div class="link-column">
         <a href="https://airreps.link/j2v3e">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
