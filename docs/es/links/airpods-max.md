@@ -21,6 +21,7 @@ Las réplicas de AirPods Max son la opción circumaural, que van desde construcc
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -43,6 +44,7 @@ Las réplicas de AirPods Max son la opción circumaural, que van desde construcc
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -60,6 +62,7 @@ Las réplicas de AirPods Max son la opción circumaural, que van desde construcc
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -71,6 +74,7 @@ Las réplicas de AirPods Max son la opción circumaural, que van desde construcc
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Sitio web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>

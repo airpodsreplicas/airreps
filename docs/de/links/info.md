@@ -52,7 +52,7 @@ Innerhalb jedes Modells kostet eine höhere Versionsnummer in der Regel mehr und
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-Jenny hat außerdem einen [Alibaba-Shop](https://airreps.link/jennyali), falls du lieber über Alibaba bestellst.
+Earhive und Jenny haben außerdem Alibaba-Shops ([Earhive](https://airreps.link/ehali), [Jenny](https://airreps.link/jennyali)), falls du lieber über Alibaba bestellst.
 
 ## Zahlungsmethoden {#payment-methods}
 

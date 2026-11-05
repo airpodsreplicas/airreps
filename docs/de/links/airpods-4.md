@@ -21,6 +21,7 @@ AirPods 4-Replikate bieten ein Open-Ear-Design; die höherwertigen Versionen hab
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -43,6 +44,7 @@ AirPods 4-Replikate bieten ein Open-Ear-Design; die höherwertigen Versionen hab
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -65,6 +67,7 @@ AirPods 4-Replikate bieten ein Open-Ear-Design; die höherwertigen Versionen hab
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Website</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

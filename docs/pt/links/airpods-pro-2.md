@@ -21,6 +21,7 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/eprov54hl">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -43,6 +44,7 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/eprov53tb">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -65,6 +67,7 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/eprov53hl">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -82,6 +85,7 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/eprov52tb">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -104,6 +108,7 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/eprov52hl">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -121,6 +126,7 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/eprov42">Site</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
