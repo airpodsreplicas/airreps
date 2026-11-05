@@ -21,6 +21,7 @@ description: Проверенные версии реплик AirPods Max и н�
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -43,6 +44,7 @@ description: Проверенные версии реплик AirPods Max и н�
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -60,6 +62,7 @@ description: Проверенные версии реплик AirPods Max и н�
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -71,6 +74,7 @@ description: Проверенные версии реплик AirPods Max и н�
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>

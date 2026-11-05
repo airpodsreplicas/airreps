@@ -53,7 +53,7 @@ Within each model, a higher version number usually costs more and adds features.
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-Jenny also has an [Alibaba store](https://airreps.link/jennyali) if you'd rather order through Alibaba.
+Earhive and Jenny also have Alibaba stores ([Earhive](https://airreps.link/ehali), [Jenny](https://airreps.link/jennyali)) if you'd rather order through Alibaba.
 
 ## Payment Methods {#payment-methods}
 

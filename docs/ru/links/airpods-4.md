@@ -21,6 +21,7 @@ description: Надёжные ссылки продавцов и вариант�
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -43,6 +44,7 @@ description: Надёжные ссылки продавцов и вариант�
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -65,6 +67,7 @@ description: Надёжные ссылки продавцов и вариант�
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Сайт</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

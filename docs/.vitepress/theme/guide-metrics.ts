@@ -231,6 +231,7 @@ export function guideRoute(page: { relativePath?: string; isNotFound?: boolean }
 const SHORTLINK_ALIASES: Record<string, Target> = {
     discord: 'discord',
     earhivew: 'earhive',
+    ehali: 'earhive',
     hicityw: 'hicity',
     jennyali: 'jenny',
     jennyw: 'jenny',

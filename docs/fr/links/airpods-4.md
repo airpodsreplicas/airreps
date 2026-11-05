@@ -21,6 +21,7 @@ Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC 
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -43,6 +44,7 @@ Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC 
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -65,6 +67,7 @@ Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC 
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

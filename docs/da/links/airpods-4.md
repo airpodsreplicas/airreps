@@ -21,6 +21,7 @@ AirPods 4-kopier har et åbent-øre-design, med ANC på de højere versioner. Se
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Hjemmeside</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -43,6 +44,7 @@ AirPods 4-kopier har et åbent-øre-design, med ANC på de højere versioner. Se
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Hjemmeside</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -65,6 +67,7 @@ AirPods 4-kopier har et åbent-øre-design, med ANC på de højere versioner. Se
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Hjemmeside</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>

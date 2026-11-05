@@ -21,6 +21,7 @@ Les répliques d'AirPods Max sont l'option circum-aurale, allant des modèles bo
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td>
@@ -43,6 +44,7 @@ Les répliques d'AirPods Max sont l'option circum-aurale, allant des modèles bo
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -60,6 +62,7 @@ Les répliques d'AirPods Max sont l'option circum-aurale, allant des modèles bo
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
@@ -71,6 +74,7 @@ Les répliques d'AirPods Max sont l'option circum-aurale, allant des modèles bo
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Site web</a>
         <a href="https://airreps.link/earhivew">Weidian</a>
+        <a href="https://airreps.link/ehali">Alibaba</a>
       </div>
     </td>
     <td style="text-align: center;">-</td>
