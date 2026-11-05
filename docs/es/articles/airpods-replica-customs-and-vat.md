@@ -30,6 +30,10 @@ La caja doble existe porque los vendedores conocen el problema. Cuando seleccion
 
 Si quieres disfrutar de un desembalaje al estilo Apple, la caja doble es la forma de conseguirlo con el menor riesgo adicional. De lo contrario, la caja sin logotipo es la opción más discreta.
 
+## Los pedidos de Alibaba siempre usan embalaje neutro
+
+Hay una excepción que conviene conocer: **los pedidos realizados a través de Alibaba siempre se envían en una caja neutra y sin logotipo.** El embalaje con la marca Apple no está disponible allí en absoluto, y la [guía sobre cómo comprar](/es/ordering/how-to-buy) explica por qué: Alibaba y AliExpress están sometidos a una fuerte presión por parte de Apple debido a los anuncios de réplicas, así que el embalaje neutro es la forma en que los vendedores evitan problemas de aduanas y derechos de autor en esas plataformas. Si haces el pedido a través de Alibaba, esta decisión ya está tomada por ti.
+
 ## Compradores de la UE: los vendedores de confianza gestionan el IVA por adelantado
 
 La otra gran preocupación relacionada con aduanas es la factura inesperada: una solicitud de pago antes de que liberen tu paquete. Si haces el pedido a un [vendedor de confianza](/es/links/info), normalmente eso no ocurre.

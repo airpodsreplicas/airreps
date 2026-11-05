@@ -30,6 +30,10 @@ La boîte double existe parce que les vendeurs connaissent le problème. Lorsque
 
 Si vous voulez un déballage complet dans le style Apple, la boîte double est la solution qui ajoute le moins de risques. Sinon, la boîte sans logo est le choix le plus discret.
 
+## Les commandes Alibaba sont toujours neutres
+
+Une exception mérite d’être connue : **les commandes passées via Alibaba sont toujours expédiées dans une boîte neutre, sans logo.** Les emballages aux couleurs d’Apple n’y sont pas du tout disponibles, et le [guide d’achat](/fr/ordering/how-to-buy) explique pourquoi — Alibaba et AliExpress subissent une forte pression d’Apple concernant les annonces de répliques, si bien que l’emballage neutre permet aux vendeurs d’éviter les problèmes de douane et de droits d’auteur sur ces plateformes. Si vous commandez via Alibaba, cette décision est déjà prise pour vous.
+
 ## Acheteurs de l’UE : la TVA est réglée à l’avance par les vendeurs de confiance
 
 L’autre grande inquiétude liée à la douane est la facture surprise — une demande de paiement avant la libération de votre colis. Si vous commandez auprès d’un [vendeur de confiance](/fr/links/info), cela n’arrive généralement pas.

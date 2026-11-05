@@ -6,6 +6,8 @@ faq:
     a: 'Güvenilir satıcılar kredi kartları, Alipay, Revolut, Wise ve Bitcoin''i kabul eder. Tüm satıcıların KakoBuy gibi aracılar aracılığıyla erişilebilen Weidian vitrinleri vardır. PayPal, Earhive''da bazen kullanılabilir ve KakoBuy acentesi de PayPal''ı kabul eder.'
   - q: Kredi kartı ile ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
     a: Güvenilir satıcılar kredi kartı ödemelerini işlemek için güvenli bir kripto ödeme geçidi kullanır. Kartınız kripto satın alır; bu da siparişi tamamlar. KYC'den kaçınmak için KakoBuy'ı kullanın - kimlik kontrolleri olmadan normal kredi kartlarını kabul eden bir acente.
+  - q: Alibaba Linkleri ve Ambalaj Hakkında Not
+    a: 'Apple, AliExpress ve Alibaba''daki replik bağlantılarına karşı sert önlemler alıyor. Alibaba üzerinden verilen siparişler her zaman nötr ambalajla gelir (Apple logolu kutu yok). Satıcıların doğrudan web siteleri ve Weidian mağazaları daha fazla ambalaj seçeneği sunar.'
 ---
 # Sipariş
 
@@ -49,6 +51,10 @@ Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kr
 **Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik kontrolü (KYC) isteyebilir, ancak bu her zaman gerekli değildir.**
 
 **Alternatif:** Herhangi bir KYC doğrulaması olasılığından kaçınmak istiyorsanız, satıcılar adına ürün satın alan ve sevkiyattan önce kalite kontrol (QC) fotoğrafları sağlayan bir acente platformu olan [KakoBuy](https://airreps.link/kakobuy) kullanmayı düşünün. KakoBuy, kredi ve banka kartlarını kabul eden düzenli ödeme işlemcilerini kullanır ve **asla KYC doğrulaması veya kimlik kontrolü gerektirmez**. Kartınızı KYC gereksinimi olmadan kullanmayı tercih ederken yine de QC fotoğrafları almanın ek güvencesini sağladığı için mükemmel bir seçenektir. Ayrıntılar için [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) bakın.
+:::
+
+::: details Alibaba bağlantıları ve ambalaj hakkında not
+Apple, AliExpress ve Alibaba gibi platformlardaki kopya bağlantılara karşı agresif bir şekilde mücadele eder. Satıcılar (ör. Earhive ve Jenny) ara sıra satın alma için Alibaba bağlantıları sunsalar da, lütfen unutmayın ki **Alibaba üzerinden verilen siparişler gümrük ve telif hakkı sorunlarından kaçınmak için her zaman nötr ambalaj (Apple logolu kutu yok)** ile gönderilecektir. Satıcıların doğrudan web siteleri ve Weidian mağazaları genellikle daha güvenlidir ve daha Apple-benzeri ambalaj seçenekleri sunar.
 :::
 
 ::: details AirPods kopyaları yasal mı?
