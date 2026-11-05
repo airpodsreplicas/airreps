@@ -6,6 +6,8 @@ faq:
     a: 'Vertrauenswürdige Verkäufer akzeptieren Kreditkarten, Alipay, Revolut, Wise und Bitcoin. Alle Verkäufer haben Weidian-Shops, die über Agenten wie KakoBuy zugänglich sind. PayPal ist bei Earhive manchmal verfügbar, und der KakoBuy-Agent akzeptiert es ebenfalls.'
   - q: Warum werde ich beim Bezahlen mit Kreditkarte auf eine Krypto-Webseite weitergeleitet?
     a: 'Vertrauenswürdige Verkäufer nutzen ein sicheres Krypto-Zahlungs-Gateway, um Kreditkartenzahlungen abzuwickeln. Ihre Karte kauft Krypto, womit die Bestellung abgeschlossen wird. Um KYC zu vermeiden, verwenden Sie KakoBuy — einen Agenten, der normale Kreditkarten ohne Identitätsprüfung akzeptiert.'
+  - q: Hinweis zu Alibaba-Links und Verpackung
+    a: Apple geht gegen Replica-Links auf AliExpress und Alibaba vor. Bestellungen über Alibaba werden stets in neutraler Verpackung geliefert (kein Apple-Logo-Karton). Die direkten Webseiten der Verkäufer und Weidian-Shops bieten mehr Verpackungsoptionen.
 ---
 # Bestellung
 
@@ -49,6 +51,10 @@ Vertrauenswürdige Verkäufer verwenden ein sicheres Krypto-Zahlungsgateway, um 
 **Hinweis: Manche Zahlungsdienstleister können gelegentlich eine Identitätsprüfung (KYC) anfordern, um lokale Vorschriften einzuhalten, obwohl dies nicht immer erforderlich ist.**
 
 **Alternative:** Wenn Sie jegliche Möglichkeit einer KYC-Verifizierung vermeiden möchten, sollten Sie [KakoBuy](https://airreps.link/kakobuy) in Betracht ziehen, eine Agentenplattform, die Produkte im Auftrag von Verkäufern für Sie kauft und Qualitätskontrollbilder (QC) vor dem Versand bereitstellt. KakoBuy nutzt reguläre Zahlungsdienstleister, die Kredit- und Debitkarten akzeptieren und **niemals KYC-Verifizierung** oder Identitätsprüfungen verlangen. Das macht es zu einer ausgezeichneten Option, wenn Sie Ihre Karte ohne KYC-Anforderungen verwenden möchten und dennoch die zusätzliche Sicherheit von QC-Bildern wünschen. Siehe unseren [KakoBuy-Bestellanleitung](/de/ordering/kakobuy) für Details.
+:::
+
+::: details Hinweis zu Alibaba-Links und Verpackung
+Apple geht aggressiv gegen Replik-Links auf Plattformen wie AliExpress und Alibaba vor. Während Verkäufer (wie Earhive und Jenny) gelegentlich Alibaba-Links zum Kauf anbieten, beachten Sie bitte, dass **Bestellungen über Alibaba immer mit neutraler Verpackung (ohne Apple-Logo-Box)** geliefert werden, um Zoll- und Urheberrechtsprobleme zu vermeiden. Direktseiten der Verkäufer und Weidian-Shops sind in der Regel sicherer und bieten eher Verpackungsoptionen, die Apple-ähnlicher sind.
 :::
 
 ::: details Sind AirPods-Repliken legal?

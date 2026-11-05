@@ -30,6 +30,10 @@ Podwójne pudełko istnieje, ponieważ sprzedawcy znają ten problem. Gdy podcza
 
 Jeśli zależy Ci na rozpakowywaniu w stylu Apple, podwójne pudełko pozwala uzyskać ten efekt przy najmniejszym dodatkowym ryzyku. W przeciwnym razie pudełko bez logo jest mniej rzucającym się w oczy wyborem.
 
+## Zamówienia z Alibaba są zawsze neutralne
+
+Warto znać jeden wyjątek: **zamówienia składane za pośrednictwem Alibaba są zawsze wysyłane w neutralnym pudełku bez logo.** Markowe opakowanie Apple nie jest tam w ogóle dostępne, a [przewodnik zakupowy](/pl/ordering/how-to-buy) wyjaśnia dlaczego — Alibaba i AliExpress znajdują się pod silną presją Apple z powodu ofert replik, więc neutralne opakowanie pozwala sprzedawcom unikać problemów celnych i związanych z prawami autorskimi na tych platformach. Jeśli zamawiasz przez Alibaba, ta decyzja została już podjęta za Ciebie.
+
 ## Kupujący z UE: zaufani sprzedawcy opłacają VAT z góry
 
 Drugą dużą obawą związaną z odprawą celną jest niespodziewany rachunek — żądanie opłaty przed zwolnieniem paczki. Jeśli zamawiasz od [zaufanego sprzedawcy](/pl/links/info), zwykle do tego nie dochodzi.

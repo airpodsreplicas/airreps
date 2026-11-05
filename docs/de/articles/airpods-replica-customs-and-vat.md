@@ -30,6 +30,10 @@ Die Doppelbox gibt es, weil die Verkäufer das Problem kennen. Wenn du beim Beza
 
 Wenn du das vollständige Unboxing im Apple-Stil möchtest, bekommst du es mit der Doppelbox bei möglichst geringem Zusatzrisiko. Andernfalls ist die Box ohne Logo die unauffälligere Wahl.
 
+## Alibaba-Bestellungen werden immer neutral verpackt
+
+Eine erwähnenswerte Ausnahme: **Bestellungen über Alibaba werden immer in einer neutralen Box ohne Logo verschickt.** Eine Verpackung mit Apple-Marke ist dort überhaupt nicht verfügbar, und der [Kaufratgeber](/de/ordering/how-to-buy) erklärt auch warum: Alibaba und AliExpress stehen wegen der dort angebotenen Repliken stark unter dem Druck von Apple. Eine neutrale Verpackung ist daher die Möglichkeit der Verkäufer, Zoll- und Urheberrechtsprobleme auf diesen Plattformen zu vermeiden. Wenn du über Alibaba bestellst, ist diese Entscheidung bereits für dich getroffen.
+
 ## Käufer in der EU: Vertrauenswürdige Verkäufer kümmern sich im Voraus um die Mehrwertsteuer
 
 Die andere große Zollsorge ist die überraschende Rechnung – eine Zahlungsaufforderung, bevor dein Paket freigegeben wird. Wenn du bei einem [vertrauenswürdigen Verkäufer](/de/links/info) bestellst, passiert das normalerweise nicht.

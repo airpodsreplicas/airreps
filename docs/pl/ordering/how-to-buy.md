@@ -6,6 +6,8 @@ faq:
     a: 'Zaufani sprzedawcy akceptują karty kredytowe, Alipay, Revolut, Wise i Bitcoin. Wszyscy sprzedawcy mają sklepy Weidian dostępne przez agentów takich jak KakoBuy. PayPal jest czasami dostępny w Earhive, a agent KakoBuy również go akceptuje.'
   - q: Dlaczego jestem przekierowywany na stronę kryptowalutową przy płatności kartą kredytową?
     a: 'Zaufani sprzedawcy używają bezpiecznej bramki płatności kryptowalutowych do obsługi płatności kartą kredytową. Twoja karta kupuje kryptowaluty, które finalizują zamówienie. Aby uniknąć KYC, użyj KakoBuy — agenta, który akceptuje zwykłe karty kredytowe bez weryfikacji tożsamości.'
+  - q: Uwaga dotycząca linków na Alibaba i opakowań
+    a: Apple zwalcza linki do replik na AliExpress i Alibaba. Zamówienia przez Alibaba zawsze przychodzą w neutralnym opakowaniu (bez pudełka z logo Apple). Bezpośrednie strony sprzedawców i sklepy Weidian oferują więcej opcji opakowań.
 ---
 # Zamawianie
 
@@ -49,6 +51,10 @@ Zaufani sprzedawcy używają bezpiecznej bramki płatniczej do kryptowalut do pr
 **Uwaga: niektórzy dostawcy płatności mogą czasami poprosić o weryfikację tożsamości (KYC), aby spełnić lokalne przepisy, choć nie zawsze jest to wymagane.**
 
 **Alternatywa:** Jeśli chcesz uniknąć jakiejkolwiek możliwości weryfikacji KYC, rozważ użycie [KakoBuy](https://airreps.link/kakobuy), platformy agenta, która kupuje produkty od sprzedawców w Twoim imieniu i dostarcza zdjęcia kontroli jakości (QC) przed wysyłką. KakoBuy korzysta z normalnych procesorów płatniczych, które akceptują karty kredytowe i debetowe i **nigdy nie wymagają weryfikacji KYC** ani sprawdzania tożsamości. To czyni go doskonałą opcją, jeśli wolisz użyć karty bez wymogów KYC, a jednocześnie otrzymać dodatkowe zapewnienie w postaci zdjęć QC. Zobacz nasz [przewodnik zamawiania przez KakoBuy](/pl/ordering/kakobuy) po szczegóły.
+:::
+
+::: details Uwaga dotycząca linków Alibaba i opakowania
+Apple agresywnie zwalcza linki do replik na platformach takich jak AliExpress i Alibaba. Chociaż sprzedawcy (np. Earhive i Jenny) okazjonalnie oferują linki z Alibaba, pamiętaj, że **zamówienia złożone przez Alibaba zawsze będą wysyłane w neutralnym opakowaniu (bez pudełka z logo Apple)**, aby uniknąć problemów celnych i praw autorskich. Bezpośrednie strony sprzedawców i sklepy Weidian są zazwyczaj bezpieczniejsze i oferują bardziej apple-podobne opcje opakowań.
 :::
 
 ::: details Czy repliki AirPods są legalne?

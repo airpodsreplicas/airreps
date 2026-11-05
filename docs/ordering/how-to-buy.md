@@ -6,6 +6,8 @@ faq:
     a: "Trusted sellers accept Credit Cards, Alipay, Revolut, Wise, and Bitcoin. All sellers have Weidian storefronts accessible through agents like KakoBuy. PayPal is sometimes available at Earhive, and the KakoBuy agent also accepts it."
   - q: "Why am I redirected to a crypto website when paying via Credit Card?"
     a: "Trusted sellers use a secure crypto payment gateway to process Credit Card payments. Your card buys crypto, which completes the order. To avoid KYC, use KakoBuy — an agent that accepts regular credit cards without identity checks."
+  - q: "Note on Alibaba links and packaging"
+    a: "Apple cracks down on replica links on AliExpress and Alibaba. Orders through Alibaba always come with neutral packaging (no Apple logo box). Sellers' direct websites and Weidian stores offer more packaging options."
 ---
 
 # Ordering
@@ -48,6 +50,10 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 **Note: Some payment processors may occasionally prompt for an ID check (KYC) to comply with local regulations, though this is not always required.**
 
 **Alternative:** If you want to avoid any possibility of KYC verification, consider using [KakoBuy](https://airreps.link/kakobuy), an agent platform that purchases products from sellers on your behalf and provides quality control (QC) pictures before shipping. KakoBuy uses regular payment processors that accept credit and debit cards and **never require KYC verification** or identity checks. This makes it an excellent option if you prefer to use your card without any KYC requirements while still getting the added assurance of QC pictures. See our [KakoBuy ordering guide](/ordering/kakobuy) for details.
+:::
+
+::: details Note on Alibaba links and packaging
+Apple aggressively cracks down on replica links on platforms like AliExpress and Alibaba. While sellers (like Earhive and Jenny) occasionally offer Alibaba links for purchasing, please be aware that **orders placed through Alibaba will always come with neutral packaging (no Apple logo box)** to avoid customs and copyright issues. Sellers' direct websites and Weidian stores are generally more secure and offer more Apple-like packaging options.
 :::
 
 ::: details Are AirPods replicas legal?

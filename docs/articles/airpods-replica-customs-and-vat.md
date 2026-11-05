@@ -31,6 +31,10 @@ The double box exists because sellers know the problem. When you select the Appl
 
 If you want the full Apple-style unboxing, the double box is how you get it with the least added risk. Otherwise, the no-logo box is the lower-profile choice.
 
+## Alibaba orders are always neutral
+
+One exception worth knowing: **orders placed through Alibaba always ship in a neutral, no-logo box.** Apple-branded packaging is not available there at all, and the [how-to-buy guide](/ordering/how-to-buy) explains why — Alibaba and AliExpress are under heavy pressure from Apple over replica listings, so neutral packaging is how sellers avoid customs and copyright problems on those platforms. If you're ordering via Alibaba, this decision is already made for you.
+
 ## EU buyers: VAT is handled upfront by trusted sellers
 
 The other big customs worry is the surprise bill — a fee demand before your package is released. If you order from a [trusted seller](/links/info), that usually doesn't happen.

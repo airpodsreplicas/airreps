@@ -30,6 +30,10 @@ Dobbeltæsken findes, fordi sælgerne kender problemet. Når du vælger æsken m
 
 Hvis du ønsker den fulde Apple-lignende udpakning, er dobbeltæsken den måde, du får den på med mindst mulig ekstra risiko. Ellers er æsken uden logo det mere diskrete valg.
 
+## Alibaba-bestillinger er altid neutrale
+
+En undtagelse, der er værd at kende: **Bestillinger gennem Alibaba sendes altid i en neutral æske uden logo.** Apple-mærket emballage er slet ikke tilgængelig der, og [købeguiden](/da/ordering/how-to-buy) forklarer hvorfor — Alibaba og AliExpress er under kraftigt pres fra Apple på grund af annoncer med kopier, så neutral emballage er den måde, sælgerne undgår told- og ophavsretsproblemer på disse platforme. Hvis du bestiller via Alibaba, er beslutningen allerede truffet for dig.
+
 ## Købere i EU: Moms håndteres på forhånd af betroede sælgere
 
 Den anden store toldbekymring er den uventede regning — et betalingskrav, før din pakke bliver frigivet. Hvis du bestiller fra en [betroet sælger](/da/links/info), sker det normalt ikke.

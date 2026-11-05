@@ -6,6 +6,8 @@ faq:
     a: 'Betroede sælgere accepterer Kreditkort, Alipay, Revolut, Wise og Bitcoin. Alle sælgere har Weidian-butikker, der kan tilgås gennem agenter som KakoBuy. PayPal er nogle gange tilgængelig hos Earhive, og KakoBuy-agenten accepterer det også.'
   - q: 'Hvorfor bliver jeg omdirigeret til et krypto-websted, når jeg betaler med Kreditkort?'
     a: 'Betroede sælgere bruger en sikker krypto-betalingsgateway til at behandle Kreditkortbetalinger. Dit kort køber krypto, hvilket fuldfører ordren. For at undgå KYC, brug KakoBuy — en agent, der accepterer almindelige kreditkort uden identitetskontrol.'
+  - q: Bemærkning om Alibaba-links og emballage
+    a: Apple går hårdt ind mod links til kopivarer på AliExpress og Alibaba. Ordrer via Alibaba leveres altid i neutral emballage (ingen Apple-logoæske). Sælgeres direkte hjemmesider og Weidian-butikker tilbyder flere emballagemuligheder.
 ---
 # Bestilling
 
@@ -49,6 +51,10 @@ Betroede sælgere bruger en sikker crypto-betalingsgateway til at behandle kredi
 **Bemærk:** Nogle betalingsudbydere kan lejlighedsvis bede om en ID-kontrol (KYC) for at overholde lokale regler, selvom dette ikke altid er påkrævet.
 
 **Alternativ:** Hvis du vil undgå enhver mulighed for KYC-verifikation, kan du overveje at bruge [KakoBuy](https://airreps.link/kakobuy), en agentplatform, der køber produkter fra sælgere på dine vegne og leverer kvalitetskontrol (QC)-billeder før forsendelse. KakoBuy bruger almindelige betalingsprocessorer, der accepterer kredit- og betalingskort og **kræver aldrig KYC-verifikation** eller ID-kontroller. Dette gør det til en fremragende mulighed, hvis du foretrækker at bruge dit kort uden KYC-krav, samtidig med at du får ekstra sikkerhed gennem QC-billeder. Se vores [KakoBuy-bestillingsguide](/da/ordering/kakobuy) for detaljer.
+:::
+
+::: details Bemærkning om Alibaba-links og emballage
+Apple går aggressivt efter replika-links på platforme som AliExpress og Alibaba. Mens sælgere (som Earhive og Jenny) lejlighedsvis tilbyder Alibaba-links til køb, skal du være opmærksom på, at **ordrer afgivet gennem Alibaba altid vil komme med neutral emballage (ingen Apple-logo-æske)** for at undgå told- og ophavsretsproblemer. Sælgeres direkte hjemmesider og Weidian-butikker er generelt mere sikre og tilbyder mere Apple-lignende emballagemuligheder.
 :::
 
 ::: details Er AirPods-kopier lovlige?
