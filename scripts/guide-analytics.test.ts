@@ -287,6 +287,9 @@ describe('outbound targets', () => {
             ['https://airreps.link/kakobuy', 'kakobuy'],
             ['https://airreps.link/discord', 'discord'],
             ['https://airreps.link/reddit', 'reddit'],
+            ['https://airreps.link/jennybf26', 'jenny'],
+            ['https://airreps.link/hicityeaster27', 'hicity'],
+            ['https://airreps.link/earhivesummer27', 'earhive'],
         ];
         for (const [href, target] of cases) {
             expect([href, outboundTarget(href)]).toEqual([href, target]);
@@ -326,6 +329,9 @@ describe('outbound targets', () => {
             'https://airreps.link/everything',
             'https://airreps.link/hcprov54hl/extra',
             'https://airreps.link/EPROV54HL',
+            'https://airreps.link/jennybf',
+            'https://airreps.link/replicutebf26',
+            'https://airreps.link/jennyxmas26',
             'https://airreps.link/',
             'https://airreps.info/aboutsection',
             'https://discord.com/privacy',

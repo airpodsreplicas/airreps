@@ -244,6 +244,8 @@ const SHORTLINK_ALIASES: Record<string, Target> = {
 const SELLER_SHORTLINK =
     /^(e|j|hc)(?:(?:gen)?2v\d{1,2}e?|4v\d{1,2}(?:tb|hl)|maxv\d{1,2}(?:p|tb)?|pro3se|prov\d{1,2}(?:tb|hl|hr\d?)?)$/;
 const SELLER_PREFIXES: Record<string, Target> = { e: 'earhive', hc: 'hicity', j: 'jenny' };
+// Sale links that apply a seller's coupon (theme/sales.ts), e.g. jennybf26.
+const SALE_SHORTLINK = /^(jenny|hicity|earhive)(?:bf|easter|summer)\d{2}$/;
 
 const DESTINATION_DOMAINS: [string, Target][] = [
     ['hicitypods.com', 'hicity'],
@@ -275,7 +277,11 @@ export function outboundTarget(href: string): Target | null {
             return SHORTLINK_ALIASES[slug];
         }
         const seller = slug.match(SELLER_SHORTLINK)?.[1];
-        return seller ? SELLER_PREFIXES[seller] : null;
+        if (seller) {
+            return SELLER_PREFIXES[seller];
+        }
+        const saleSeller = slug.match(SALE_SHORTLINK)?.[1];
+        return saleSeller ? (saleSeller as Target) : null;
     }
     if (host === 'jenny.airreps.info') {
         return 'jenny';

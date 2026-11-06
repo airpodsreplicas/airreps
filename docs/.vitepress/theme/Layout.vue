@@ -3,6 +3,7 @@ import DefaultTheme from 'vitepress/theme';
 import { defineAsyncComponent } from 'vue';
 import PrivacyLink from '../components/PrivacyLink.vue';
 import RelatedGuides from '../components/RelatedGuides.vue';
+import SaleBanner from '../components/SaleBanner.vue';
 import SeasonGreeting from '../components/SeasonGreeting.vue';
 import SeasonScene from '../components/SeasonScene.vue';
 
@@ -16,13 +17,17 @@ const SeasonPreview = import.meta.env.DEV
 <template>
   <!-- The default layout, plus related guides at the end of guide pages
        (related-guides.ts), the privacy link under doc and page content and
-       the festive touches on the home hero (theme/season.ts). -->
+       the festive touches on the home hero (theme/season.ts) and the
+       seller codes while a public sale runs (theme/sales.ts). -->
   <Layout>
     <template #home-hero-before><SeasonScene /></template>
     <template #home-hero-info-before><SeasonGreeting /></template>
     <template #doc-footer-before><RelatedGuides /></template>
     <template #doc-after><PrivacyLink /></template>
     <template #page-bottom><PrivacyLink /></template>
-    <template #layout-bottom><SeasonPreview v-if="SeasonPreview" /></template>
+    <template #layout-bottom>
+      <SaleBanner />
+      <SeasonPreview v-if="SeasonPreview" />
+    </template>
   </Layout>
 </template>
