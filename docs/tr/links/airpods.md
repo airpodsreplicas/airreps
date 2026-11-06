@@ -1,13 +1,12 @@
 ---
-title: "AirPods Replikaları: Satıcı Bağlantıları"
-description: "Nesillere göre güvenilir satıcı bağlantılarını bulun. Satın alma seçeneklerine gitmek için bir nesil seçin."
+title: 'AirPods 4 ve AirPods 2 Replikalarını Satın Al: Satıcı Bağlantıları'
+description: Sürüme göre AirPods 4 ve AirPods 2 replikaları için güncel fiyatları içeren güvenilir satıcı bağlantıları ve ayrıca AirPods 3 ve AirPods 5 stok durumu.
 ---
-
 <!-- product-family -->
 
 # AirPods
 
-Nesillere göre güvenilir satıcı bağlantılarını bulun. Satın alma seçeneklerine gitmek için bir nesil seçin.
+AirPods replikalarının tüm standart nesilleri için güvenilir satıcı bağlantıları: AirPods 4, AirPods 3 ve AirPods 2; yakında AirPods 5 de eklenecek. Sürümlerine, fiyatlarına ve satıcılarına gitmek için bir nesil seçin.
 
 [AirPods 5 (Yakında)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
 
