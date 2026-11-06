@@ -57,13 +57,13 @@ The honest caveat: if a friend genuinely inspects your earbuds, picks them up, a
 
 There is a real-world scenario where being noticed matters: reselling them as genuine. That's a different problem with different consequences, and it's exactly why our [spotting guide](/articles/how-to-spot-fake-airpods) exists — to protect second-hand buyers. Wearing replicas yourself isn't fraud. Selling clones as real is. Keep those separate.
 
-If you want the pair that holds up best under scrutiny, you want the higher versions. The community's current top picks are the **AirPods Pro 2 V5.4 Huilian** — described in the version guide as the best all-rounder, with its only real gaps being perfect Spatial Audio and Find My — and the **AirPods Pro 3 family**, where the V7 is the newest, with a heart rate sensor, head gestures, and AI Hybrid ANC, and the V6 is the lower-priced option. These are the ones with the better hinges, the closer build details, and the most complete feature sets.
+If you want the pair that holds up best under scrutiny, you want the higher versions. The current top pick is the **AirPods Pro 3 V7 Huilian** — the newest, with a heart rate sensor, head gestures, and AI Hybrid ANC — with the V6 as the lower-priced Pro 3, and the **AirPods Pro 2 V5.3 TB** is the best Pro 2, with the strongest noise cancelling in the Pro 2 line. These are the ones with the better hinges, the closer build details, and the most complete feature sets.
 
 Lower versions are cheaper for a reason: more visible detail gaps and rougher fit and finish. They're still not going to be noticed in daily life, but they're the ones that fold under inspection fastest.
 
 ## The bottom line
 
-Nobody inspects your earbuds. The checks that catch replicas — hinge color, button flushness, cable fit, markings, Find My — all require close contact and specific knowledge. The higher versions, especially the Pro 2 V5.4 Huilian and the current Pro 3 lineup, hold up best if you're the type to worry about it. Buy from a [trusted seller](/links/info) so you know exactly which version you're getting, and stop worrying about the person at the next table. They don't care.
+Nobody inspects your earbuds. The checks that catch replicas — hinge color, button flushness, cable fit, markings, Find My — all require close contact and specific knowledge. The higher versions, especially the current Pro 3 lineup and the Pro 2 V5.3 TB, hold up best if you're the type to worry about it. Buy from a [trusted seller](/links/info) so you know exactly which version you're getting, and stop worrying about the person at the next table. They don't care.
 
 Further reading:
 - Need to know how to verify a pair yourself? See [How to Tell if AirPods Are Fake](/articles/how-to-spot-fake-airpods).
@@ -86,5 +86,5 @@ The missing Find My network. Every replica is missing it, and it's the one featu
 :::
 
 ::: details Which replica version is hardest to tell apart from the real thing?
-The higher versions. The AirPods Pro 2 V5.4 Huilian is the community's best all-rounder, and the current AirPods Pro 3 family (V6 and V7) has the newest features and closest build details. They won't survive a full close inspection by an expert, but they're the ones that hold up best to everyday use and casual glances. See the [version comparison](/version-info/general) for the full breakdown.
+The higher versions. The current top pick is the AirPods Pro 3 V7 Huilian, the AirPods Pro 2 V5.3 TB is the best Pro 2, and the current AirPods Pro 3 family (V6 and V7) has the newest features and closest build details. They won't survive a full close inspection by an expert, but they're the ones that hold up best to everyday use and casual glances. See the [version comparison](/version-info/general) for the full breakdown.
 :::

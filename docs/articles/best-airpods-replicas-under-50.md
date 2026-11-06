@@ -9,7 +9,7 @@ order: 2
 
 Under $50 you're choosing between genuine AirPods budget models and replicas of Apple's *best* models. Replicas win that fight easily — a [$27 AirPods Pro 3 replica](/version-info/airpods-pro-3) delivers more than a genuine pair of budget AirPods ever will. Here's what's actually worth buying at each price, based on the versions the community currently recommends.
 
-> **Quick Answer:** The best AirPods replica under $50 is the **AirPods Pro 3 SE** (~$48), with the strongest active noise cancelling we've tested on any replica and working head tracking. The **AirPods Pro 3 V5.5** (~$27–$35) is the cheapest Pro 3 with noise cancelling and the in-ear silicone fit, and the **AirPods 4 V2 TB** (~$30) is the pick for open-ear comfort. For buyers with an extra $8 to spare, stretching to the **AirPods Pro 2 V5.4 Huilian** (~$58) yields community-grade ~38dB ANC, stable iCloud switching, and superior microphones.
+> **Quick Answer:** The best AirPods replica under $50 is the **AirPods Pro 3 SE** (~$48), with the strongest active noise cancelling we've tested on any replica and working head tracking. The **AirPods Pro 3 V5.5** (~$27–$35) is the cheapest Pro 3 with noise cancelling and the in-ear silicone fit, and the **AirPods 4 V2 TB** (~$30) is the pick for open-ear comfort. For buyers with an extra $8 to spare, stretching to the **AirPods Pro 2 V5.3 TB** (~$56), the best Pro 2, gets the strongest noise cancelling in the Pro 2 line, head tracking and switching between 3 devices.
 
 ::: tip Prices move around
 Replica prices fluctuate with batches and promotions. The figures below are typical [trusted-seller](/links/info) prices — check the links pages for what's in stock right now.
@@ -22,7 +22,7 @@ Replica prices fluctuate with batches and promotions. The figures below are typi
 | Under $30 | [AirPods 2 V3E](/version-info/airpods-2) | ~$26 | The cheapest entry point that's still genuinely good |
 | $30–40 | [AirPods 4 V2 TB](/version-info/airpods-4) | ~$30 | Better sound and fit than the 2, still very cheap |
 | $40–50 | [AirPods Pro 3 SE](/version-info/airpods-pro-3) | ~$48 | Best ANC on any replica tested, working head tracking, and Pro 3 design |
-| Can stretch to $60? | [AirPods Pro 2 V5.4](/version-info/airpods-pro-2) | ~$50–58 | The best all-rounder in the entire replica market — worth the stretch |
+| Can stretch to $60? | [AirPods Pro 2 V5.3 TB](/version-info/airpods-pro-2) | ~$56 | The best Pro 2, with the strongest noise cancelling in the Pro 2 line — worth the stretch |
 
 ## The picks in detail
 
@@ -50,11 +50,11 @@ At $48, the Jenny-exclusive **AirPods Pro 3 SE** is the value highlight of the e
 
 <span class="pick-buy">Buy the SE at [Jenny](https://airreps.link/jpro3se)</span> <span class="pick-buy">Buy the V5.5 at [Earhive](https://airreps.link/eprov55) [HiCity](https://airreps.link/hcprov55) [Jenny](https://airreps.link/jprov55)</span>
 
-### The stretch pick: AirPods Pro 2 V5.4
+### The stretch pick: AirPods Pro 2 V5.3 TB
 
-It usually lands a few dollars over $50, but the community considers the Pro 2 V5.4 Huilian the best all-rounder there is — the most refined balance of features, ANC, and reliability. Its known gaps are perfect Spatial Audio and the Find My network. If you can find the extra $10, this is the pick that most people should stop scrolling at.
+It usually lands a few dollars over $50, but the Pro 2 V5.3 TB is the best Pro 2: the strongest noise cancelling in the Pro 2 line (34.5 dB average, 41 dB peak), head tracking, adaptive audio and switching between 3 devices. Its known gaps are iCloud switching and the Find My network; if you want iCloud switching, the V5.4 Huilian (~$58) has it. If you can find the extra $8, this is the pick that most people should stop scrolling at.
 
-<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov54hl) [HiCity](https://airreps.link/hcprov54hl) [Jenny](https://airreps.link/jprov54hl)</span>
+<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span>
 
 ## What every replica under $50 is missing
 
