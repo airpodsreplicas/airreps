@@ -1,94 +1,94 @@
 ---
-title: Sahte AirPods Bağlanmıyor mu? Bunu Sırayla Uygulayın
-description: 'Sahte AirPods eşleşmiyor veya görünmüyor mu? Şarj edin, aygıtı unutup yeniden eşleştirin, iOS açılır penceresini kontrol edin, çipi belirleyin ve sorunun cihazda olduğunu anlayıp satıcıyla ne zaman iletişime geçmeniz gerektiğini bilin.'
-category: Sorun Giderme
+title: Sahte AirPods Bağlanmıyor mu? Nasıl Eşleştirilir ve Sorunları Giderilir
+description: 'Sahte AirPods eşleşmiyor veya görünmüyor mu? Şarj edin, eşleşmeyi unutup yeniden eşleştirin, iOS açılır penceresini kontrol edin, çipi belirleyin ve sorunun cihazdan kaynaklandığını anlayıp satıcıyla ne zaman iletişime geçmeniz gerektiğini öğrenin.'
+category: Sorun giderme
 order: 8
 ---
-# Sahte AirPods bağlanmıyor mu? Bunları sırayla deneyin
+# Sahte AirPods Bağlanmıyor mu? Bu Adımları Sırayla Uygulayın
 
-Eşleşmeyen bir replika can sıkıcıdır, ancak genellikle bilinen birkaç nedenden biri söz konusudur ve çoğunun çözümü vardır. Adımları yukarıdan aşağıya uygulayın; neden olma sıklığına göre sıralanmışlardır. Sona geldiğinizde hâlâ bağlanmıyorsa sorun sizde değil, cihazdadır.
+Eşleşmeyen bir replika can sıkıcıdır, ancak genellikle bilinen birkaç nedenden biri söz konusudur ve çoğunun çözümü vardır. Adımları baştan sona uygulayın; sıralama, soruna en sık neden olan durumlara göredir. Son adıma geldiğinizde hâlâ bağlanmıyorsa sorun sizde değil, cihazdadır.
 
-> **Kısa cevap:** Sahte AirPods'unuz bağlanmıyorsa eşleşme sorunlarının %80'i basit bir sıfırlamayla çözülür: Telefonunuzun Bluetooth ayarlarından AirPods'u unutun, Bluetooth'u **kapatın**, iki kulaklığı da kapağı açık şekilde kutuya koyun, arka düğmeyi LED sarı/beyaz renkte yanıp sönene kadar 10–15 saniye basılı tutun, kapağı 60 saniye kapalı bırakın, Bluetooth'u tekrar açın ve kapağı telefonunuzun yanında yeniden açın.
+> **Kısa Yanıt:** Sahte AirPods'unuz bağlanmıyorsa eşleşme sorunlarının %80'i yazılımsal sıfırlamayla çözülür: Telefonunuzun Bluetooth ayarlarından AirPods'u unutun, Bluetooth'u KAPATIN, iki kulaklığı da kapağı açık olan kutuya koyun, LED sarı/beyaz yanıp sönene kadar arka düğmeyi 10–15 saniye basılı tutun, kapağı 60 saniye kapalı tutun, Bluetooth'u tekrar açın ve telefonunuzun yanında kapağı yeniden açın.
 
-::: tip Bunları ilk kez mi kuruyorsunuz?
-Replikaların kutudan çıkarıldıktan sonra genellikle bir veya iki kez sıfırlanması gerekir. Aşağıdaki adımları uygulamadan size çalışmayan bir çift gönderildiğini düşünmeyin.
+::: tip İlk kez mi kuruyorsunuz?
+Replikaları kutudan çıkarınca bir veya iki kez sıfırlamak gerekebilir. Aşağıdaki adımları uygulamadan önce size çalışmayan bir çift gönderildiğini varsaymayın.
 :::
 
 ## 1. Önce kutuyu şarj edin
 
-Kulağa çok açık gelebilir, ancak “hiç bağlanmıyor” sorununun en yaygın nedeni budur. Kulaklıkları kutuya koyun, kutuyu şarja takın ve şarj edin — şarjı olmayan bir kutu eşleşme için kendini yayınlayamaz. Ardından kapağı açıp tekrar deneyin.
+Kulağa bariz geliyor ama "hiç bağlanmıyor" sorununun en yaygın nedeni budur. Kulaklıkları kutuya koyup kutuyu prize takın ve şarj edin; şarjı olmayan bir kutu eşleşme için sinyal yayınlayamaz. Ardından kapağı açıp tekrar deneyin.
 
-## 2. Cihazı unutun ve yeniden eşleştirin
+## 2. Aygıtı unutun ve yeniden eşleştirin
 
-Sıradaki olası neden eski eşleşme verileridir. [Yaygın sorunlar](/tr/troubleshooting/other-common-bugs) bölümündeki topluluk sıfırlama prosedürü:
+Sıradaki olası neden eski eşleşme verileridir. Topluluğun [Yaygın Sorunlar](/tr/troubleshooting/other-common-bugs) sayfasındaki sıfırlama yöntemi:
 
-1. Telefonunuzun Bluetooth ayarlarından cihazı unutun, ardından Bluetooth'u **kapatın**.
-2. Kapağı açın ve ışık yanıp sönene kadar arka düğmeyi birkaç saniye basılı tutun, ardından kapağı kapatın. Işığınız görsellerdeki gibi tam olarak yanıp sönmüyorsa endişelenmeyin — partiler arasında farklılıklar olabilir.
+1. Telefonunuzun Bluetooth ayarlarından aygıtı unutun, ardından Bluetooth'u **kapatın**.
+2. Kapağı açın ve ışık yanıp sönene kadar arka düğmeyi birkaç saniye basılı tutun, sonra kapağı kapatın. Işığınız görsellerdeki gibi tam olarak yanıp sönmüyorsa endişelenmeyin — üretim partileri farklılık gösterebilir.
 3. Tam bir dakika bekleyin, Bluetooth'u tekrar açın, kapağı açın ve yeniden bağlanın.
-4. İşe yaramazsa kulaklıkları çıkarıp tekrar yerlerine koyun. Kapağı kapatıp ışık sönene kadar bekleyin, ardından kapağı açıp tekrar deneyin.
+4. İşe yaramazsa kulaklıkları çıkarıp tekrar kutuya koyun. Kapağı kapatın ve ışığın sönmesini bekleyin, sonra kapağı açıp yeniden deneyin.
 
-İşlemin oturması için **3–4 basit sıfırlama** gerekebilir, bu yüzden birkaç kez tekrarlayın. Hâlâ bağlanmıyorsa **tam sıfırlama** yapın: cihazı tekrar unutun, ardından kulaklıkları kutu açık şekilde en az tam bir gün (gerekirse daha uzun süre) kutunun dışında bırakın; böylece üzerlerinde kalan şarj tamamen bitsin. Şarjları tükendiğinde kulaklıkları kutuya koyun, kutuyu şarj edin ve basit sıfırlamayı yeniden uygulayın.
+İşlemin işe yaraması **3–4 yazılımsal sıfırlama** gerektirebilir; bu yüzden birkaç kez tekrarlayın. Hâlâ bağlanmıyorsa **donanımsal sıfırlama** yapın: Aygıtı tekrar unutun, ardından kulaklıkların kalan şarjı tamamen bitsin diye onları kutu açıkken en az bir tam gün boyunca kutunun dışında bırakın (gerekirse daha uzun süre). Şarjları bitince tekrar kutuya koyun, kutuyu şarj edin ve yazılımsal sıfırlamayı yeniden uygulayın.
 
 Yalnızca bir kulaklık sorun çıkarıyorsa — örneğin kutuyu her açtığınızda sağ kulaklık yavaşça yanıp sönüyorsa — kulaklıklar kutudayken arka düğmeyi 2–3 saniye basılı tutarak [eşleşmeyi sıfırlayın](/tr/troubleshooting/other-common-bugs).
 
-## 3. Eşleşme açılır penceresinin davranışını kontrol edin
+## 3. Eşleşme penceresinin nasıl davrandığını kontrol edin
 
-Bir iPhone'da açılır pencere neredeyse anında görünmelidir, ancak hız [satıcıya](/tr/links/info) ve partiye göre değişir — bazen orijinal AirPods'tan bile daha hızlı olabilir. Açılır pencereden iki noktayı değerlendirin:
+iPhone'da pencere neredeyse anında görünmelidir, ancak hız [satıcıya](/tr/links/info) ve üretim partisine göre değişir — bazen orijinal AirPods'tan bile hızlı olabilir. Pencerede gördüklerinizi şöyle değerlendirin:
 
-- **Açılır pencere görünüyor, ardından bağlantı kesiliyor.** Kulaklıklar algılanıyor, dolayısıyla sorun genellikle eşleşme durumundadır — 2. adımı tekrarlayın.
-- **Hiç açılır pencere görünmüyor.** Ya iOS kullanmıyorsunuzdur (Android'de açılır pencere yoktur — bu normaldir) ya da kulaklıklar yayın yapmıyordur. [Bağlantı kılavuzunda](/tr/introduction/connectivity) replikaların bazen ilk denemede iOS'a bağlanamadığı ve genellikle bir çözüm bulunduğu belirtiliyor.
+- **Pencere görünüyor, ardından bağlantı kesiliyor.** Kulaklıklar algılanıyor demektir; sorun genellikle eşleşme durumundadır — 2. adımı tekrarlayın.
+- **Hiç pencere görünmüyor.** Ya iOS kullanmıyorsunuzdur (Android'de pencere görünmez — bu normaldir) ya da kulaklıklar sinyal yayınlamıyordur. [Bağlantı kılavuzunda](/tr/introduction/connectivity), replikaların bazen ilk denemede iOS'a bağlanamadığı ve bunun genellikle bir çözümü olduğu belirtiliyor.
 
-## 4. Platformunuzun beklendiği gibi çalıştığını doğrulayın
+## 4. Platformunuzun beklenen şekilde çalıştığından emin olun
 
-Bazı “bağlanmıyor” bildirimleri yalnızca platform farklılıklarından kaynaklanır. **Android**'de replikalar, diğer tüm kulaklıklar gibi Bluetooth menüsünden eşleşir — açılır pencere yoktur ve bu bir arıza değildir. İsim değiştirme ve dokunma kontrolleri yalnızca iOS'a özeldir — bir kez iPhone ödünç alın; yaptığınız değişiklikler genellikle kulaklıklara aktarılır. [Android makalemiz](/tr/articles/airpods-replicas-on-android), geçici çözümü ve burada çalışan çip uygulamalarını açıklar. **iOS**'te ayarlar kaydedilmiyorsa veya kulaklıklar tekrar tekrar eşleşiyorsa donanım arızası olduğunu varsaymak yerine 2. adımı yeniden uygulayın.
+"Bağlanmıyor" bildirimlerinin bazıları yalnızca platform farklılıklarından kaynaklanır. **Android**'de replikalar, diğer tüm kulaklıklar gibi Bluetooth menüsünden eşleştirilir — pencere görünmez ve bu bir arıza değildir. Ad değiştirme ve dokunmatik kontroller yalnızca iOS'ta çalışır — değişiklikler genellikle kulaklıklara aktarılır, bu yüzden bir kez iPhone ödünç alabilirsiniz. [Android makalemizde](/tr/articles/airpods-replicas-on-android) geçici çözümler ve orada çalışan yonga seti uygulamaları ele alınıyor. **iOS**'ta ayarlar kaydedilmiyorsa veya kulaklıklar tekrar tekrar eşleştiriliyorsa donanım arızası olduğunu varsaymak yerine 2. adımı yeniden uygulayın.
 
-## 5. Topluluk uygulamalarıyla çipi belirleyin
+## 5. Topluluk uygulamalarıyla yongayı belirleyin
 
-Eşleşme tutarsızsa elinizde hangi çipin olduğunu bilmek yardımcı olur. Topluluk her çip seti için ücretsiz [yazılım uygulamaları](/tr/useful-apps) sunuyor — FlyCC, CloudCC, StarFun, BullSuper, KKX ve diğerleri — ve bunları yüklemek çipinizi belirlemenin standart yoludur. Uygulamaları tek tek deneyin ve hangisinin bağlandığına bakın.
+Eşleşme tutarsızsa elinizdeki modelin ne olduğunu bilmek işe yarar. Topluluk, her yonga seti için FlyCC, CloudCC, StarFun, BullSuper, KKX ve diğerleri gibi ücretsiz [yazılım uygulamaları](/tr/useful-apps) sunuyor; yonganızı belirlemenin standart yolu bunları yüklemektir. Uygulamaları sırayla deneyip hangisinin bağlandığına bakın.
 
-Önemli bir not: **çok düşük kaliteli klonlar Jieli çipi kullanır ve bu uygulamaların hiçbirine bağlanmaz.** Orijinal AirPods da bağlanmaz; dolayısıyla “hiçbir uygulama bağlanmıyor” ifadesi ucuz bir sahte veya gerçek bir çiftiniz olduğu anlamına gelebilir — tek başına asla gerçek bir çifti doğrulamaz. Uygulamaların hiçbiri kulaklıkları görmüyorsa muhtemelen düşük kaliteli bir klonunuz vardır.
+Önemli bir uyarı: **çok düşük kaliteli klonlarda Jieli yonga seti kullanılır ve bu klonlar bu uygulamaların hiçbirine bağlanmaz.** Orijinal AirPods da bağlanmaz; bu nedenle "hiçbir uygulama bağlanmıyor" demek elinizde ya ucuz bir sahte ya da orijinal bir çift olduğu anlamına gelir — tek başına orijinal olduğunu hiçbir zaman kanıtlamaz. Uygulamaların hiçbiri kulaklıkları algılamıyorsa muhtemelen düşük kaliteli bir klon kullanıyorsunuzdur.
 
-## 6. Bilinen sürüme özgü sorunları kontrol edin
+## 6. Sürüme özgü bilinen sorunları kontrol edin
 
-Bazı davranışlar genel arızalardan ziyade çip setine ve sürüme özgüdür:
+Bazı davranışlar genel arızalardan ziyade yonga setine ve sürüme özgüdür:
 
-- **iCloud doğrulama hataları.** Bazı replikalar iCloud'u tam olarak destekleyemez; bu da macOS eşleşmesini engelleyebilir. Çözüm, kulaklıkları tüm iCloud cihazlarınızda unutturmak, macOS'ta da unutturmak, ışık önce sarı sonra beyaz renkte yanıp sönene kadar arka düğmeyi 15 saniye basılı tutmak ve yeniden eşleştirmektir. Bu hata Huilian çip setinde bulunmaz — [iCloud uyumluluk çözümüne](/tr/troubleshooting/AirReps-Incompatibility-with-iCloud) bakın.
-- **Otomatik cihaz değiştirme.** Apple'ın iCloud Connect ile cihaz değiştirme özelliği yalnızca 5.3 ve 5.4 Huilian modellerinde çalışır. Diğer tüm modeller birden fazla cihaza bağlanabilir, ancak cihazlar arasında manuel olarak geçiş yapmanız gerekir. Huilian olmayan bir cihazdan otomatik geçiş beklemek bir arıza değildir — bu özellik mevcut değildir.
+- **iCloud doğrulama hataları.** Bazı replikalar iCloud'u tam olarak destekleyemediğinden macOS ile eşleşme engellenebilir. Çözüm: Kulaklıkları tüm iCloud aygıtlarınızda ve macOS'ta unutun, ışık önce sarı sonra beyaz yanıp sönene kadar arka düğmeyi 15 saniye basılı tutun ve yeniden eşleştirin. Huilian yonga setinde bu sorun görülmez — [iCloud uyumluluğu çözümüne](/tr/troubleshooting/AirReps-Incompatibility-with-iCloud) bakın.
+- **Aygıtlar arasında otomatik geçiş.** Apple'ın iCloud Connect geçiş özelliği yalnızca 5.3 ve 5.4 Huilian modellerinde çalışır. Diğer modeller birden fazla aygıta bağlanabilir ancak aygıtlar arasında elle geçiş yapmanız gerekir. Huilian olmayan bir modelden otomatik geçiş beklemek arıza değildir — özellik desteklenmiyordur.
 
 ## 7. macOS'a özgü sorunlar
 
-Kulaklıklar telefonunuza bağlanıyor ancak Mac'te sorun çıkarıyorsa:
+Kulaklıklar telefonunuza bağlanıyor ama Mac'te sorun çıkarıyorsa:
 
-- **Ses seviyesi kaydırıcısı bir düğme gibi çalışıyor** (Intel Mac'lerde). Bu sorun replikaların çoğunu etkiler ve açık kaynaklı bir araçla çözülebilir — [macOS ses seviyesi kaydırıcısı çözümünü](/tr/troubleshooting/macOS-volume-slider-fixup) uygulayın. TigerBuilder modellerinde kulaklıkların ses seviyesi hareketlerinin bu yöntemle çalışmayacağını unutmayın.
-- **Mac'e hiç bağlanmıyor.** Önce iPhone'unuzdaki AirPods'u unutturun, ardından Mac'e bağlanmayı deneyin. Bağlanıyor ancak ses duymuyorsanız sıfırlayın.
-- **Mac için mi satın alıyorsunuz?** [Bağlantı kılavuzu](/tr/introduction/connectivity), işin içinde bir MacBook veya iMac olduğunda Huilian modelini öneriyor; diğer çip setlerinde iCloud ile cihaz değiştirme özelliği bulunmayabilir veya ses seviyesi %100'de takılı kalabilir.
+- **Ses düzeyi sürgüsü bir düğme gibi davranıyor** (Intel Mac'lerde). Bu sorun çoğu replikada görülür ve açık kaynaklı bir araçla çözülür — [macOS ses düzeyi sürgüsü düzeltmesini](/tr/troubleshooting/macOS-volume-slider-fixup) uygulayın. TigerBuilder modellerinde bu yöntemin kulaklık üzerindeki ses düzeyi hareketleriyle çalışmayacağını unutmayın.
+- **Mac'e hiç bağlanmıyor.** Önce iPhone'unuzdan AirPods'u unutun, ardından Mac'e bağlanmayı deneyin. Bağlanıyor ama ses duymuyorsanız sıfırlayın.
+- **Mac için mi satın alıyorsunuz?** [Bağlantı kılavuzu](/tr/introduction/connectivity), MacBook veya iMac kullanacağınız durumlarda Huilian modelini öneriyor; diğer yonga setlerinde iCloud geçişi olmayabilir veya ses düzeyi %100'de takılı kalabilir.
 
 ## Sorun cihazdaysa satıcıyla iletişime geçin
 
-Şarj etme, basit sıfırlama, tam sıfırlama ve iCloud çözümü başarısız olursa muhtemelen arızalı bir cihaz almışsınızdır. Topluluk uygulamalarının hiçbirinin göremediği düşük kaliteli bir klon, çip sınırlamasına işaret eder — hiçbir ayar Jieli kullanan bir çifti Huilian'a dönüştüremez.
+Şarj etme, yazılımsal sıfırlama, donanımsal sıfırlama ve iCloud çözümü işe yaramazsa muhtemelen arızalı bir cihaz almışsınızdır. Topluluk uygulamalarının hiçbirinin algılayamadığı düşük kaliteli bir klonun sorunu yonga seti kısıtlamasıdır — hiçbir ayar Jieli yonga setli bir çifti Huilian'a dönüştüremez.
 
-Güvenilir satıcılar arızalı cihazları değiştirir; topluluğun insanları onlara yönlendirmesinin nedeni budur. Para iadesi veya değişim için satıcınızla iletişime geçin. Hâlâ seçim yapıyorsanız, [doğrulanmış bir satıcıdan](/tr/links/info) satın alın ve iadelerin kolay olması için [sipariş kılavuzunu](/tr/ordering/how-to-buy) izleyin.
+Güvenilir satıcılar arızalı cihazları değiştirir; bu nedenle topluluk kullanıcıları onlara yönlendiriyor. Para iadesi veya değişim için satıcınızla iletişime geçin. Hâlâ seçim yapıyorsanız [onaylı bir satıcıdan](/tr/links/info) alışveriş yapın ve iade işlemlerinin kolay olması için [sipariş kılavuzunu](/tr/ordering/how-to-buy) izleyin.
 
 İlgili kılavuzlar ve çözümler:
-- Derin deşarj veya kutu düğmesi sıfırlamasına mı ihtiyacınız var? [Sahte AirPods nasıl sıfırlanır](/tr/articles/how-to-reset-fake-airpods) bölümüne bakın.
-- Daha yeni bir iOS cihazı mı kullanıyorsunuz? [Sahte AirPods yeni iPhone'larla çalışır mı?](/tr/articles/do-fake-airpods-work-with-new-iphone) yazısını okuyun.
-- Android'e mi bağlıyorsunuz? [Android'de AirPods replikaları](/tr/articles/airpods-replicas-on-android) bölümüne bakın.
-- Sahte bir cihazdan mı şüpheleniyorsunuz? [Sahte AirPods nasıl anlaşılır?](/tr/articles/how-to-spot-fake-airpods) kılavuzumuzu izleyin.
+- Derin deşarj veya kutu düğmesiyle sıfırlama mı gerekiyor? [Sahte AirPods nasıl sıfırlanır](/tr/articles/how-to-reset-fake-airpods) sayfasına bakın.
+- Daha yeni bir iOS aygıtı mı kullanıyorsunuz? [Sahte AirPods yeni iPhone'larla çalışır mı?](/tr/articles/do-fake-airpods-work-with-new-iphone) yazısını okuyun.
+- Android'e mi bağlanıyorsunuz? [Android'de AirPods replikaları](/tr/articles/airpods-replicas-on-android) sayfasına göz atın.
+- Elinizdekinin sahte olduğundan mı şüpheleniyorsunuz? [Sahte AirPods nasıl anlaşılır?](/tr/articles/how-to-spot-fake-airpods) kılavuzumuzu izleyin.
 
 ## SSS
 
 ::: details Sahte AirPods'um neden hiç görünmüyor?
-Genellikle nedenler kutunun şarjının bitmesi, eski eşleşme verileri veya çip seti sınırlamasıdır. Kutuyu şarj edin, ardından cihazı unutturup yeniden eşleştirme sıfırlamasını birkaç kez yapın. Topluluk çip uygulamalarından hiçbiri kulaklıkları görmüyorsa düşük kaliteli bir klon veya arızalı bir cihaz olduğunu varsayın.
+Yaygın nedenler kutunun şarjının bitmiş olması, eski eşleşme verileri veya yonga seti kısıtlamasıdır. Kutuyu şarj edin, ardından aygıtı unutma ve yeniden eşleştirme sıfırlamasını birkaç kez uygulayın. Toplulukta kullanılan yonga seti uygulamalarının hiçbiri kulaklıkları algılamıyorsa düşük kaliteli bir klon veya arızalı bir cihaz olduğunu varsayın.
 :::
 
 ::: details Vazgeçmeden önce replikalarımı kaç kez sıfırlamalıyım?
-Çalışması için 3–4 basit sıfırlama gerekebilir; bir denemeden sonra vazgeçmeyin. Bunlar yardımcı olmazsa tam sıfırlama yapın — kulaklıkları kutu açık şekilde en az tam bir gün kutunun dışında bırakarak şarjlarını bitirin, ardından tekrar şarj edip sıfırlayın.
+İşe yaraması 3–4 yazılımsal sıfırlama gerektirebilir, bu yüzden bir denemeden sonra vazgeçmeyin. İşe yaramazsa donanımsal sıfırlama yapın — şarjlarını bitirmek için kulaklıkları kutu açıkken en az bir tam gün kutunun dışında bırakın, ardından şarj edip yeniden sıfırlayın.
 :::
 
-::: details Sahte AirPods'ların eşleşmesi için özel bir uygulama gerekir mi?
-Hayır. Replikalar telefonunuzun normal Bluetooth menüsünden eşleşir — Android'de açılır pencere hiç görünmez ve bu beklenen bir durumdur. Topluluk uygulamaları temel eşleşme için değil, yazılım, EQ ve çip seti tanımlama için kullanılır. Liste için [kullanışlı uygulamalara](/tr/useful-apps) bakın.
+::: details Sahte AirPods'ları eşleştirmek için özel bir uygulama gerekir mi?
+Hayır. Replikalar telefonunuzun normal Bluetooth menüsü üzerinden eşleştirilir — Android'de pencere hiç görünmez ve bu beklenen bir durumdur. Topluluk uygulamaları temel eşleştirme için değil, yazılım, EQ ve yonga setini belirlemek içindir. Liste için [yararlı uygulamalar](/tr/useful-apps) sayfasına bakın.
 :::
 
 ::: details Arızalı bir çift düzeltilebilir mi?
-Bazen. Yukarıdaki sıfırlama ve iCloud işlemleri yaygın sorunları çözer. Ancak hiçbiri işe yaramazsa bağlanmayan düşük kaliteli bir klon kullanıcı hatasından değil, çip sınırlamasından kaynaklanır; bu nedenle para iadesi veya değişim için satıcıyla iletişime geçin — tercihen [güvenilir dizindeki](/tr/links/info) satıcılardan biriyle.
+Bazen. Yukarıdaki sıfırlama ve iCloud yöntemleri yaygın sorunları çözer. Ancak hiçbiri işe yaramazsa bağlantı kurmayan düşük kaliteli bir klonun sorunu kullanıcı hatası değil, yonga seti kısıtlamasıdır; bu nedenle satıcıyla para iadesi veya değişim için iletişime geçin — tercihen [güvenilir satıcılar dizinindeki](/tr/links/info) satıcılardan biriyle.
 :::
