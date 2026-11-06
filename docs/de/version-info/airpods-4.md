@@ -1,45 +1,45 @@
 ---
-title: AirPods 4 Replica-Versionen & technische Daten
-description: 'Vergleiche AirPods 4 Replica-Versionen anhand von Chip, Funktionen und fehlenden Funktionen.'
+title: AirPods 4-Nachbildungen & technische Daten
+description: 'Vergleiche AirPods 4-Nachbildungen nach Chip, Funktionen und fehlenden Funktionen.'
 ---
 # AirPods 4
 
 <div class="pick-cards">
 
-- <span class="pick-label">Beste insgesamt</span> **V3 TB** · $52–53<br>Die beste Geräuschunterdrückung bei Open-Ear-Kopfhörern, räumliches Audio mit Head-Tracking, Gesprächserkennung und Wechsel zwischen 3 Geräten. [V3-Übersicht](#v3-overview)
-- <span class="pick-label">Am besten für den Wechsel über iCloud</span> **V2 Huilian** · $39–42<br>iCloud Connect zwischen deinen Apple-Geräten und Starfun EQ, das mit iOS synchronisiert. [V2-Übersicht](#v2-overview)
-- <span class="pick-label">Niedrigster Preis</span> **V2 TB** · $29–30<br>Toller Open-Ear-Klang mit einfacher Geräuschunterdrückung. Kein Head-Tracking.
+- <span class="pick-label">Beste insgesamt</span> **V3 TB** · $52–53<br>Die beste Geräuschunterdrückung bei offenem Sitz, räumliches Audio mit Head-Tracking, Konversationserkennung und Wechsel zwischen 3 Geräten. [V3-Übersicht](#v3-overview)<span class="pick-buy">Kaufen bei [Earhive](https://airreps.link/e4v3tb) [HiCity](https://airreps.link/hc4v3tb) [Jenny](https://airreps.link/j4v3tb)</span>
+- <span class="pick-label">Am besten für den Wechsel über iCloud</span> **V2 Huilian** · $39–42<br>iCloud Connect zwischen deinen Apple-Geräten und Starfun EQ, das mit iOS synchronisiert wird. [V2-Übersicht](#v2-overview)<span class="pick-buy">Kaufen bei [Earhive](https://airreps.link/e4v2hl) [HiCity](https://airreps.link/hc4v2hl) [Jenny](https://airreps.link/j4v2hl)</span>
+- <span class="pick-label">Niedrigster Preis</span> **V2 TB** · $29–30<br>Toller Klang mit offenem Sitz und grundlegender Geräuschunterdrückung. Kein Head-Tracking.<span class="pick-buy">Kaufen bei [Earhive](https://airreps.link/e4v2tb) [HiCity](https://airreps.link/hc4v2tb) [Jenny](https://airreps.link/j4v2tb)</span>
 
 </div>
 
-Die Preise entsprechen den Angaben der Verkäufer vom 3. November 2026; aktuelle Preise findest du unter [Kauf-Links](/de/links/airpods-4). Klicke auf den Namen einer Version in der Tabelle, um Community-Bewertungen zu lesen.
+Die Preise entsprechen den Angaben der Verkäufer vom 3. November 2026; die [Kauflinks](/de/links/airpods-4) zeigen die aktuellen Preise. Klicke in der Tabelle auf einen Versionsnamen, um Community-Bewertungen zu lesen.
 
 <div class="compare-table">
 
 | | [<span class="version-badge">V3 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V3) | [<span class="version-badge">V2 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V2) | [<span class="version-badge">V2 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V2) | [<span class="version-badge">V1</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=AirPods4V1) |
 |:---|:---:|:---:|:---:|:---:|
-| **Preis** | $52–53 | $39–42 | $29–30 | Nicht aufgeführt |
+| **Preis** | $52–53 | $39–42 | $29–30 | Nicht angegeben |
 | **Verkauft von** | Alle 3 | Alle 3 | Alle 3 | — |
-| **Geräuschunterdrückung** | Beste bei Open-Ear-Kopfhörern | Gut | Einfach | Einfach |
+| **Geräuschunterdrückung** | Beste bei offenem Sitz | Gut | Grundlegend | Grundlegend |
 | **Räumliches Audio mit Head-Tracking** | ✅ | ✅ | ❌¹ | ❌ |
-| **Gesprächserkennung** | ✅ | ✅ | ❌ | ❌ |
+| **Konversationserkennung** | ✅ | ✅ | ❌ | ❌ |
 | **Adaptives Audio** | ✅ | ✅ | ❌ | ❌ |
-| **Wechsel zwischen Geräten** | 3 Geräte | iCloud Connect | 2 Geräte | 1 Gerät |
-| **Lautsprecher im Ladecase** | ✅ | ✅ | ✅ | Einfach |
-| **Bedienelemente am Stiel** | Force Touch | Force Touch | Force Touch | Berührung |
+| **Zwischen Geräten wechseln** | 3 Geräte | iCloud Connect | 2 Geräte | 1 Gerät |
+| **Lautsprecher im Case** | ✅ | ✅ | ✅ | Grundlegend |
+| **Bedienung am Stiel** | Force Touch | Force Touch | Force Touch | Touch |
 | **App für EQ und Einstellungen** | FlyCC (Android) | Starfun | FlyCC / CloudCC | — |
 
 </div>
 
 <div class="compare-notes">
 
-¹ Die V2-HR-Ausführung bietet Head-Tracking; die TB-Ausführung verwendet festes räumliches Audio. Die vertrauenswürdigen Verkäufer führen derzeit die V2 TB.
+¹ Die V2-HR-Version unterstützt Head-Tracking; die TB-Version verwendet festes räumliches Audio. Die vertrauenswürdigen Verkäufer führen derzeit die V2 TB.
 
 </div>
 
 ::: tip Alle AirPods-4-Versionen bieten
-Alle AirPods-4-Modelle verfügen über ein offenes Design (keine In-Ear-Kopfhörer), ein USB-C-Ladecase mit Lautsprecher, Wiedergabesteuerung am Stiel, Hey Siri, In-Ear-Erkennung und Unterstützung für iOS 27 mit Popup auf der Seite „Info“.
-*(Hinweis: Keine Nachbildung unterstützt Apples verschlüsseltes „Wo ist?“-Netzwerk. Die ANC-Funktion offener Kopfhörer reduziert naturgemäß tieffrequentes Brummen weniger stark als Pro-In-Ear-Modelle mit Silikonaufsätzen.)*
+Alle AirPods-4-Modelle bieten: ein offenes Design (keine In-Ear-Ohrstöpsel), ein USB-C-Ladecase mit Lautsprecher, Wiedergabesteuerung am Stiel, Hey Siri, Trageerkennung und Unterstützung für iOS 27 mit Popup auf der Seite „Info“.
+*(Hinweis: Keine Fälschung unterstützt Apples verschlüsseltes „Wo ist?“-Netzwerk. Die ANC bei offenem Sitz reduziert tieffrequentes Dröhnen naturgemäß weniger stark als In-Ear-Pro-Modelle mit Silikonaufsätzen.)*
 :::
 
 ::: details Technische Details: Chipsätze und Geräuschunterdrückung
@@ -49,7 +49,7 @@ Alle AirPods-4-Modelle verfügen über ein offenes Design (keine In-Ear-Kopfhör
 | | V3 TB | V2 Huilian | V2 TB | V1 |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipsatz** | Airoha 1571AM | Huilian 247 | Airoha 1563E | Bluetrum 8922 |
-| **Geräuschunterdrückung** | Hybrid mit zwei Mikrofonen | Hybrid (~35 dB) | Mit einem Mikrofon | Einfach |
+| **Geräuschunterdrückung** | Hybrid mit zwei Mikrofonen | Hybrid (~35 dB) | Einzelnes Mikrofon | Grundlegend |
 
 </div>
 
@@ -57,13 +57,13 @@ Alle AirPods-4-Modelle verfügen über ein offenes Design (keine In-Ear-Kopfhör
 
 ## V3-Übersicht {#v3-overview}
 
-Die V3 TigerBuilder (TB) basiert auf dem leistungsstarken **Airoha 1571AM**-Chipsatz und ist die Premium-Nachbildung unter den verfügbaren Open-Ear-Modellen. Sie verfügt über zwei ST-Knochenstimmabdruck-Gyroskope, die präzises Head-Tracking in Echtzeit für räumliches Audio ermöglichen, eine KI-Gesprächserkennung, die die Audiowiedergabe beim Sprechen automatisch leiser stellt, und reaktionsschnelle Soundeffekte über den Lautsprecher im Ladecase. Außerdem unterstützt sie den nahtlosen Wechsel zwischen bis zu 3 gekoppelten Geräten und lässt sich über die Android-App FlyCC aktualisieren.
+Die V3 TigerBuilder (TB) basiert auf dem leistungsstarken Chipsatz **Airoha 1571AM** und ist die hochwertigste verfügbare Nachbildung mit offenem Sitz. Sie verfügt über zwei ST-Knochenstimmabdruck-Gyroskope, die präzises Head-Tracking in Echtzeit für räumliches Audio ermöglichen, eine KI-gestützte Konversationserkennung, die die Lautstärke automatisch senkt, wenn du sprichst, sowie reaktionsschnelle Soundeffekte über den Lautsprecher im Case. Außerdem unterstützt sie den nahtlosen Wechsel zwischen bis zu 3 gekoppelten Geräten und lässt sich über die FlyCC-Android-App aktualisieren.
 
 ## V2-Übersicht {#v2-overview}
 
-Die V2-Klasse bietet zuverlässigen Open-Ear-Klang mit leichten Unterschieden je nach Hersteller:
+Die V2-Klasse bietet zuverlässigen Klang mit offenem Sitz und leichte Unterschiede je nach Hersteller:
 
-- **Huilian 247**: Bietet iCloud Connect für den nahtlosen Wechsel zwischen Apple-Geräten, die bei derselben Apple-ID angemeldet sind, adaptives Audio und Unterstützung für die Starfun-App, mit der benutzerdefinierte EQ-Profile direkt mit iOS synchronisiert werden können.
-- **TigerBuilder / HR (Airoha 1563E)**: Zuverlässige Begleiter für den Alltag mit kraftvollem Open-Ear-Klang und ANC mit einem Mikrofon. Die HR-Version bietet funktionierendes Head-Tracking, während das TB-Modell festes räumliches Audio verwendet und mit einer stärkeren Bassbetonung abgestimmt ist.
+- **Huilian 247**: Bietet iCloud Connect für den nahtlosen Wechsel zwischen Apple-Geräten, die mit derselben Apple-ID angemeldet sind, adaptives Audio und Unterstützung für die Starfun-App, mit der sich eigene EQ-Profile direkt mit iOS synchronisieren lassen.
+- **TigerBuilder / HR (Airoha 1563E)**: Zuverlässige Begleiter für den Alltag mit druckvollem Klang bei offenem Sitz und ANC mit einem Mikrofon. Die HR-Version bietet funktionierendes Head-Tracking, während das TB-Modell festes räumliches Audio verwendet und mit stärkerem Bass abgestimmt ist.
 
-Bereit zum Kauf? Sieh dir unsere [Kauf-Links für AirPods 4](/de/links/airpods-4) und unseren [Bestellleitfaden](/de/ordering/how-to-buy) an.
+Bereit zum Kaufen? Sieh dir unsere [Kauflinks für AirPods 4](/de/links/airpods-4) und unseren [Bestellleitfaden](/de/ordering/how-to-buy) an.

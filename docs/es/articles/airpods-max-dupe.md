@@ -1,80 +1,82 @@
 ---
-title: 'Imitación de AirPods Max: lo que obtienes y a lo que renuncias'
-description: 'Una mirada honesta a la imitación de AirPods Max: qué copia la réplica circumaural, qué no puede copiar, cuál es el rango de precios habitual y si vale la pena frente a las imitaciones intraaurales.'
-category: Comprar
+title: 'Imitación de AirPods Max: qué obtienes y a qué renuncias'
+description: 'Una mirada honesta a la imitación de AirPods Max: qué copia la réplica circumaural, qué no puede ofrecer, cuál es su rango de precios habitual y si vale la pena frente a las réplicas intraaurales.'
+category: Compras
 order: 12
 ---
-# Réplica de AirPods Max: qué obtienes y qué sacrificas
+# Imitación de AirPods Max: qué obtienes y a qué renuncias
 
-Una réplica de los AirPods Max es una copia de los auriculares circumaurales de Apple: imita el aspecto de aluminio, la diadema de malla, la corona Digital Crown y el comportamiento en iOS. Y sí: activa la misma ventana emergente de emparejamiento y se conecta como un par genuino al iPhone. Lo que no puede hacer es igualar el sonido, la cancelación activa de ruido ni el nivel de integración del ecosistema de los originales. Este artículo te ayuda a decidir si comprarlos; para consultar las versiones y especificaciones actuales, lee la [página de versiones de AirPods Max](/es/version-info/airpods-max).
+Una imitación de AirPods Max es una réplica de los auriculares circumaurales de Apple: copia el aspecto de aluminio, la diadema de malla, la corona digital y el comportamiento en iOS. Y sí: activa la misma ventana emergente de emparejamiento y se conecta como un par auténtico a un iPhone. Lo que no puede hacer es igualar el sonido, la cancelación activa de ruido y el acabado del ecosistema de los originales. Este artículo te ayuda a decidir si comprarlos; para consultar las versiones y especificaciones actuales, lee la [página de versiones de AirPods Max](/es/version-info/airpods-max).
 
-> **Respuesta rápida:** La réplica insignia de los AirPods Max (V3 de metal, unos 126 $) ofrece copas de aluminio anodizado auténtico, una corona Digital Crown funcional, seguimiento de la cabeza y la animación de emparejamiento de iOS por menos de una cuarta parte del precio oficial de Apple, de 549 $. Lo que sacrificas es la cancelación activa de ruido computacional líder de Apple, el cambio fluido entre varios dispositivos mediante iCloud y el seguimiento de la red Find My.
+> **Respuesta rápida:** La réplica insignia de AirPods Max (V3 Metal, unos $126) ofrece copas de aluminio anodizado auténtico, una corona digital funcional, seguimiento de la cabeza y la animación de emparejamiento de iOS por menos de una cuarta parte del precio de venta de $549 de Apple. A cambio, renuncias a la cancelación activa de ruido computacional líder de Apple, al cambio fluido entre varios dispositivos mediante iCloud y al seguimiento de la red Buscar.
 
 ::: tip Los precios varían
-Los precios de las réplicas fluctúan según los lotes y las promociones. Considera todas las cifras de este artículo como orientativas, no fijas, y consulta la [página de enlaces](/es/links/airpods-max) para saber qué hay disponible ahora mismo.
+Los precios de las réplicas fluctúan según los lotes y las promociones. Toma todas las cifras de aquí como orientativas, no como fijas, y consulta la [página de enlaces](/es/links/airpods-max) para ver qué hay disponible ahora mismo.
 :::
 
-## Qué es realmente una réplica de los Max
+## Qué es realmente una imitación de Max
 
-Las réplicas circumaurales se presentan en dos tipos principales. Las versiones de plástico reproducen la forma y los controles, pero no el acabado. Las versiones de metal van más allá: la V3 insignia usa copas de metal mullidas y una diadema de metal, lo que hace que parezca la original a cierta distancia. Para muchos compradores, ese aspecto de aluminio es precisamente el objetivo de esta categoría.
+Las réplicas circumaurales se presentan en dos tipos de fabricación. Las versiones de plástico reproducen la forma y los controles, pero no el acabado. Las versiones de metal van más allá: la V3 insignia tiene copas acolchadas de metal y una diadema metálica, lo que hace que parezca auténtica a cierta distancia. Para muchos compradores, el aspecto de aluminio es el principal atractivo de esta categoría.
 
-Además de la construcción, la experiencia de iOS está bien imitada. Aparece la animación de emparejamiento, funciona el cambio de nombre y el [análisis de la calidad de construcción](/es/introduction/build-quality) de la comunidad explica cómo se comparan las bisagras, el texto y el peso con los originales (en resumen: todas las réplicas que se venden a través de la guía usan bisagras de metal, y la precisión del texto varía según el vendedor). Las versiones actuales también incluyen la corona Digital Crown y la detección de colocación en el oído.
+Además de la construcción, la experiencia en iOS está bien imitada. Aparece la animación de emparejamiento, se puede cambiar el nombre y el [análisis de la calidad de fabricación](/es/introduction/build-quality) de la comunidad explica cómo se comparan las bisagras, las inscripciones y el peso con los originales (en resumen: todas las réplicas que se venden a través de la guía usan bisagras de metal, y la precisión de las inscripciones varía según el vendedor). Las versiones actuales también incluyen la corona digital y la detección en el oído.
 
-## Lo que realmente sacrificas frente a los originales
+## A qué renuncias de verdad frente a los originales
 
 La guía es clara sobre las diferencias, y nosotros también. En comparación con unos AirPods Max auténticos, la réplica no ofrece:
 
-- **Conexión a varios dispositivos** — no cambia automáticamente entre tus dispositivos Apple como los originales. Solo los modelos basados en Huilian permiten cambiar entre varios dispositivos, y los Max no son uno de ellos.
-- **Cancelación activa de ruido al nivel de los originales** — la cancelación funciona y es híbrida (consulta la [explicación de la cancelación activa de ruido](/es/introduction/anc-explained)), pero no alcanza el nivel de Apple.
-- **Un modo de transparencia superior** — funciona, pero no resulta tan natural como el de los originales.
-- **Los detalles más sutiles** — los pequeños matices del acabado, el ajuste y el comportamiento que solo notas cuando tienes ambos modelos uno al lado del otro.
+- **Conexión multidispositivo** — no cambia automáticamente entre tus dispositivos Apple como los originales. Solo los modelos basados en Huilian permiten cambiar entre varios dispositivos, y Max no es uno de ellos.
+- **Cancelación activa de ruido al nivel de los originales** — la cancelación de ruido funciona y es híbrida (consulta la [explicación sobre la cancelación de ruido](/es/introduction/anc-explained)), pero no alcanza el nivel de Apple.
+- **Un modo de transparencia mejor** — funciona, pero no es tan natural como el original.
+- **Los detalles más sutiles** — los pequeños matices de acabado, ajuste y comportamiento que solo se notan al comparar ambos lado a lado.
 
-Y, como todas las réplicas de la guía, **no tiene la red Find My**. Si para ti es importante localizar unos auriculares perdidos, comprar los originales es una opción real. La [comparativa entre réplicas y originales](/es/articles/airpods-replicas-vs-real) analiza esta función punto por punto.
+Y, como todas las réplicas de la guía, **no tiene acceso a la red Buscar**. Si te importa poder localizar unos auriculares perdidos, es una compra importante. La [comparativa entre réplicas y originales](/es/articles/airpods-replicas-vs-real) analiza esta función punto por punto.
 
-La forma honesta de plantearlo es esta: una réplica de los AirPods Max es **un producto más orientado a la moda que a los audiófilos**. Compras el aspecto, la silueta y el comportamiento en iOS. No compras un sonido de referencia.
+La descripción más honesta: una imitación de AirPods Max es **más un producto de moda que uno para audiófilos**. Compras el aspecto, la silueta y el comportamiento en iOS. No compras un sonido de referencia.
 
-## Franja de precios frente al precio oficial
+## Precios frente al original
 
-Según los [vendedores de confianza](/es/links/info) de la guía, las réplicas de los AirPods Max suelen costar entre **93 y 126 $**, dependiendo de la versión y la construcción. Como referencia, se mueven en un rango similar al de unos AirPods estándar auténticos, mientras que los Max originales de Apple cuestan mucho más. Por tanto, el valor es real, pero solo si valoras lo que la réplica realmente ofrece.
+En los [vendedores de confianza](/es/links/info) de la guía, las réplicas de AirPods Max suelen costar entre **$93 y $126**, según la versión y la construcción. Para ponerlo en contexto, ese precio se acerca al de unos AirPods estándar auténticos, mientras que los Max originales de Apple cuestan mucho más. Así que la relación calidad-precio es real, pero solo si valoras lo que la réplica ofrece de verdad.
 
-## La parte incómoda: los circumaurales ofrecen peor relación calidad-precio
+## La parte incómoda: los auriculares circumaurales ofrecen menos por tu dinero
 
-Esta es la parte que las páginas de venta omiten. Si buscas únicamente sonido y cancelación de ruido, **las réplicas intraaurales son una mejor compra**. Las réplicas actuales de los AirPods Pro y de los modelos sin Pro obtienen una valoración aproximada de 8–9/10 frente a sus equivalentes originales, y las líneas Pro se acercan de verdad en cancelación activa de ruido. La réplica de los Max intenta reproducir un objetivo más difícil: un controlador más grande, una cámara acústica mayor y la afinación circumaural de Apple. Por eso se aleja más de su equivalente original que las réplicas intraaurales de los suyos.
+Esto es lo que omiten las páginas de venta. Si lo que te importa es la calidad de sonido y la cancelación de ruido, **las réplicas intraaurales son mejor compra**. Las réplicas actuales de AirPods Pro y de los modelos que no son Pro obtienen una puntuación de alrededor de 8–9/10 frente a sus equivalentes originales, y las líneas Pro se acercan bastante a los originales en cancelación de ruido. La réplica de Max apunta a un objetivo más difícil —un transductor más grande, una cámara acústica mayor y el ajuste de sonido circumaural de Apple— y queda más lejos de su equivalente original que las réplicas intraaurales de los suyos.
 
-En términos sencillos: obtienes más de la experiencia real por cada dólar con una réplica de los Pro 2 o Pro 3. La réplica de los Max gana por el formato y el aspecto, no por el audio. Si tu prioridad es un sonido de nivel de referencia, compra los intraaurales. Si quieres el aspecto circumaural y el comportamiento en iOS, los Max están bien, siempre que tengas esa expectativa.
+En pocas palabras: obtienes una experiencia más parecida a la original por cada dólar con una réplica de Pro 2 o Pro 3. La imitación de Max destaca por el formato y el aspecto, no por el sonido. Si tu prioridad es un sonido de referencia, compra los intraaurales. Si quieres el aspecto circumaural y el comportamiento en iOS, Max está bien, siempre que tengas claras esas expectativas.
 
-## Para quién es adecuada
+## A quién le conviene
 
-- Alguien que quiere el aspecto de los Max en su escritorio, en fotos o durante sus desplazamientos, y no quiere pagar el precio de Apple.
-- Alguien que valora más la ventana emergente de emparejamiento de iOS y los controles de la corona que una afinación de referencia.
-- Alguien que acepta las diferencias en cancelación activa de ruido y transparencia como el precio de entrada.
+- A quien quiera el aspecto de los Max en su escritorio, en fotos o para ir al trabajo y no quiera pagar el precio de Apple.
+- A quien valore más la ventana emergente de emparejamiento de iOS y los controles de la corona que un ajuste de sonido de referencia.
+- A quien acepte las diferencias en la cancelación de ruido y el modo de transparencia como parte del trato.
 
-**No** es adecuada para quien busca un sonido insignia, necesita cambiar entre varios dispositivos o depende de Find My.
+**No** le conviene a quien busque un sonido insignia, necesite cambiar entre varios dispositivos o dependa de Buscar.
 
 ## Dónde comprar
 
-Las réplicas de los AirPods Max se venden a través de los vendedores de confianza verificados por la guía —entre ellos Jenny y HiCity; Earhive también ofrece versiones de los Max—. Los enlaces de compra de cada versión están en la [página de enlaces de los AirPods Max](/es/links/airpods-max). El consejo habitual de la comunidad también se aplica aquí: compra a un [vendedor de confianza](/es/links/info), no en un anuncio aleatorio de un marketplace, porque la versión que recibes realmente importa más que el precio que pagas. El mismo anuncio de tres vendedores corresponde al mismo producto; las principales diferencias están en la asistencia, el envío y las opciones de pago.
+Las réplicas de AirPods Max se venden a través de los vendedores de confianza verificados por la guía, como Jenny y HiCity; Earhive también ofrece versiones Max. Los enlaces de compra de cada versión están en la [página de enlaces de AirPods Max](/es/links/airpods-max). También se aplica el consejo habitual de la comunidad: compra a un [vendedor de confianza](/es/links/info), no en una publicación cualquiera de un mercado en línea, porque la versión que recibas importa más que el precio que pagues. El mismo producto anunciado por tres vendedores es el mismo; las principales diferencias están en la asistencia, el envío y las opciones de pago.
+
+<span class="pick-buy">Compra la V3 Metal en [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span> <span class="pick-buy">V3P en [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
 Lecturas y comparativas relacionadas:
-- ¿Réplicas intraaurales o réplicas circumaurales? Consulta [Las mejores réplicas de AirPods por menos de 50 $](/es/articles/best-airpods-replicas-under-50).
-- AirPods auténticos frente a réplicas, función por función: lee [Réplicas de AirPods frente a AirPods originales](/es/articles/airpods-replicas-vs-real).
-- ¿Te preocupan los problemas con los paquetes? Consulta [Aduanas e IVA de las réplicas de AirPods](/es/articles/airpods-replica-customs-and-vat).
-- ¿Vas a verificar un par usado? Sigue la guía [Cómo saber si unos AirPods son falsos](/es/articles/how-to-spot-fake-airpods).
+- ¿Réplicas intraaurales o imitaciones circumaurales? Consulta [Las mejores réplicas de AirPods por menos de $50](/es/articles/best-airpods-replicas-under-50).
+- AirPods auténticos frente a réplicas, función por función: lee [AirPods réplica frente a AirPods originales](/es/articles/airpods-replicas-vs-real).
+- ¿Te preocupa que retengan el paquete en la aduana? Consulta [Aduanas e IVA para las réplicas de AirPods](/es/articles/airpods-replica-customs-and-vat).
+- ¿Quieres verificar unos de segunda mano? Sigue [Cómo saber si los AirPods son falsos](/es/articles/how-to-spot-fake-airpods).
 
 ## Preguntas frecuentes
 
-::: details ¿Merece la pena comprar réplicas de los AirPods Max?
-Por el aspecto y el comportamiento en iOS, sí, si eso es lo que buscas. Para el sonido y la cancelación activa de ruido, las réplicas intraaurales ofrecen una mejor relación calidad-precio. Decide cuál de esas dos cosas estás comprando antes de hacer el pedido.
+::: details ¿Merece la pena comprar réplicas de AirPods Max?
+Sí, si lo que quieres es el aspecto y el comportamiento en iOS. En cuanto al sonido y la cancelación de ruido, las réplicas intraaurales ofrecen una mejor relación calidad-precio. Decide cuál de esas dos cosas buscas antes de hacer el pedido.
 :::
 
-::: details ¿La gente puede saber si una réplica de los AirPods Max es falsa?
-Visualmente, la V3 de metal se acerca bastante, que es precisamente la razón por la que funcionan las estafas de segunda mano. Las señales reveladoras son las que requieren tener el dispositivo en la mano: la ausencia de Find My, una cancelación activa de ruido que no alcanza el nivel de los originales y los detalles más sutiles del acabado. Consulta [cómo saber si unos AirPods son falsos](/es/articles/how-to-spot-fake-airpods) para conocer las comprobaciones.
+::: details ¿Se nota que una imitación de AirPods Max es falsa?
+Visualmente, la V3 Metal se parece mucho al original, y precisamente por eso funcionan las estafas de segunda mano. Las pistas solo se notan al probar el dispositivo: la falta de acceso a Buscar, una cancelación de ruido que no alcanza el nivel del original y los detalles más sutiles del acabado. Consulta [cómo saber si los AirPods son falsos](/es/articles/how-to-spot-fake-airpods) para ver qué debes comprobar.
 :::
 
-::: details ¿Las réplicas de los Max muestran la ventana emergente de iOS?
-Sí. Funcionan la animación de emparejamiento, el cambio de nombre, la pantalla del GPS y los controles táctiles, y las versiones actuales añaden la corona Digital Crown y la detección de colocación en el oído. Lo que falta es la conexión a varios dispositivos y una cancelación activa de ruido y transparencia de nivel original.
+::: details ¿Las réplicas de Max tienen la ventana emergente de iOS?
+Sí. Funcionan la animación de emparejamiento, el cambio de nombre, la visualización del GPS y los controles táctiles; además, las versiones actuales incorporan la corona digital y la detección en el oído. Lo que falta es la conexión multidispositivo y una cancelación de ruido y un modo de transparencia al nivel de los originales.
 :::
 
-::: details ¿Cuánto debería costar una réplica de los AirPods Max?
-Normalmente, entre 93 y 126 $ comprada a un vendedor de confianza, según la versión y la construcción. Las versiones superiores cuestan más y añaden funciones; compáralas en la [página de versiones](/es/version-info/airpods-max) antes de comprar.
+::: details ¿Cuánto debería costar una imitación de AirPods Max?
+Por lo general, entre $93 y $126 en un vendedor de confianza, según la versión y la construcción. Las versiones superiores cuestan más y añaden funciones; compáralas en la [página de versiones](/es/version-info/airpods-max) antes de comprar.
 :::
