@@ -9,7 +9,7 @@ order: 2
 
 Under $50 you're choosing between genuine AirPods budget models and replicas of Apple's *best* models. Replicas win that fight easily — a [$27 AirPods Pro 3 replica](/version-info/airpods-pro-3) delivers more than a genuine pair of budget AirPods ever will. Here's what's actually worth buying at each price, based on the versions the community currently recommends.
 
-> **Quick Answer:** The best overall AirPods replica under $50 is the **AirPods Pro 3 V5.5** (~$27–$35) for active noise cancelling and in-ear silicone fit, or the **AirPods 4 V2 TB** (~$30) for open-ear comfort. For buyers with an extra $8 to spare, stretching to the **AirPods Pro 2 V5.4 Huilian** (~$58) yields community-grade ~38dB ANC, stable iCloud switching, and superior microphones.
+> **Quick Answer:** The best AirPods replica under $50 is the **AirPods Pro 3 SE** (~$48), with the strongest active noise cancelling we've tested on any replica and working head tracking. The **AirPods Pro 3 V5.5** (~$27–$35) is the cheapest Pro 3 with noise cancelling and the in-ear silicone fit, and the **AirPods 4 V2 TB** (~$30) is the pick for open-ear comfort. For buyers with an extra $8 to spare, stretching to the **AirPods Pro 2 V5.4 Huilian** (~$58) yields community-grade ~38dB ANC, stable iCloud switching, and superior microphones.
 
 ::: tip Prices move around
 Replica prices fluctuate with batches and promotions. The figures below are typical [trusted-seller](/links/info) prices — check the links pages for what's in stock right now.
