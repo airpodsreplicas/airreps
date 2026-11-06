@@ -62,7 +62,7 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 |----------------|---------|--------|-------|
 | [**Kredi / banka kartı**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ⚠️ Bazen | ✅ | ❌ |
+| **PayPal** | ⚠️ Bazen | ⚠️ Bazen | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ❌ | ❌ | ❌ |

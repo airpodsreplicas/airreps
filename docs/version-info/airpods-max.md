@@ -1,5 +1,5 @@
 ---
-title: "AirPods Max Replica Versions: V3 Metal vs V3P"
+title: "AirPods Max Replica Versions Compared"
 description: "AirPods Max replica versions compared: the V3 Metal, the cheaper V3P and the older V2 and V2.5, by chip, noise cancelling, head tracking and price."
 ---
 
