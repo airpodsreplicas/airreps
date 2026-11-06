@@ -88,7 +88,7 @@ rewrites anything. Counted destinations:
 - `airreps.link` seller product shortlinks: prefix `e` (Earhive), `j` (Jenny)
   or `hc` (HiCity) plus a product code (`prov54hl`, `4v2tb`, `maxv3p`,
   `gen2v3e`, `pro3se`, …), and the Weidian landing aliases `earhivew`,
-  `jennyw`, `hicityw`, and Jenny's Alibaba store alias `jennyali`.
+  `jennyw`, `hicityw`, and Earhive's Alibaba store alias `ehali`.
 - `airreps.link/kakobuy`, `/discord`, `/reddit`.
 - Direct hosts: `hicitypods.com`, `jenny.airreps.info`, `earhive.com`,
   `replicute.com`, `kakobuy.com`, `kakoguide.com`, `discord.gg`,

@@ -54,7 +54,7 @@ Betroede sælgere bruger en sikker crypto-betalingsgateway til at behandle kredi
 :::
 
 ::: details Bemærkning om Alibaba-links og emballage
-Apple går aggressivt efter replika-links på platforme som AliExpress og Alibaba. Mens sælgere (som Earhive og Jenny) lejlighedsvis tilbyder Alibaba-links til køb, skal du være opmærksom på, at **ordrer afgivet gennem Alibaba altid vil komme med neutral emballage (ingen Apple-logo-æske)** for at undgå told- og ophavsretsproblemer. Sælgeres direkte hjemmesider og Weidian-butikker er generelt mere sikre og tilbyder mere Apple-lignende emballagemuligheder.
+Apple går aggressivt efter replika-links på platforme som AliExpress og Alibaba. Mens sælgere (som Earhive) lejlighedsvis tilbyder Alibaba-links til køb, skal du være opmærksom på, at **ordrer afgivet gennem Alibaba altid vil komme med neutral emballage (ingen Apple-logo-æske)** for at undgå told- og ophavsretsproblemer. Sælgeres direkte hjemmesider og Weidian-butikker er generelt mere sikre og tilbyder mere Apple-lignende emballagemuligheder.
 :::
 
 ::: details Er AirPods-kopier lovlige?

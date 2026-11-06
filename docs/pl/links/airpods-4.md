@@ -34,7 +34,6 @@ Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach w
       <div class="link-column">
         <a href="https://airreps.link/j4v3tb">Strona</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -57,7 +56,6 @@ Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach w
       <div class="link-column">
         <a href="https://airreps.link/j4v2tb">Strona</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -80,7 +78,6 @@ Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach w
       <div class="link-column">
         <a href="https://airreps.link/j4v2hl">Strona</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

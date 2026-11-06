@@ -34,7 +34,6 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/jprov54hl">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -57,7 +56,6 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/jprov53tb">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -75,7 +73,6 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/jprov53hl">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -98,7 +95,6 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/jprov52tb">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -116,7 +112,6 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <span class="unavailable-link">Site indisponível</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -139,7 +134,6 @@ As réplicas do AirPods Pro 2 são a escolha intra-auricular mais popular e madu
       <div class="link-column">
         <a href="https://airreps.link/jprov42">Site</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

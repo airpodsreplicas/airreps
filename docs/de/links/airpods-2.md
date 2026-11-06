@@ -34,7 +34,6 @@ AirPods 2-Replikate sind der günstigste Einstieg in das Ökosystem. Wähle unte
       <div class="link-column">
         <a href="https://airreps.link/j2v3e">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
