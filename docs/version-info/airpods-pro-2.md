@@ -11,8 +11,8 @@ Manufacturers are slowly transitioning development focus to newer models. AirPod
 
 <div class="pick-cards">
 
-- <span class="pick-label">Best overall</span> **V5.4 Huilian** · $58<br>iCloud Connect, adaptive audio and close-to-retail noise cancelling, with strong all-round performance. [V5.4 details](#v5-4-version-differences)<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov54hl) [HiCity](https://airreps.link/hcprov54hl) [Jenny](https://airreps.link/jprov54hl)</span>
-- <span class="pick-label">Best noise cancelling</span> **V5.3 TB** · $55–57<br>The strongest ANC in the Pro 2 line, head tracking and switching between 3 devices. [V5.3 details](#v5-3-version-differences)<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span>
+- <span class="pick-label">Best overall</span> **V5.3 TB** · $55–57<br>The strongest ANC in the Pro 2 line, head tracking and switching between 3 devices. [V5.3 details](#v5-3-version-differences)<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span>
+- <span class="pick-label">Best for iCloud switching</span> **V5.4 Huilian** · $58<br>iCloud Connect, adaptive audio and close-to-retail noise cancelling, with strong all-round performance. [V5.4 details](#v5-4-version-differences)<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov54hl) [HiCity](https://airreps.link/hcprov54hl) [Jenny](https://airreps.link/jprov54hl)</span>
 - <span class="pick-label">Lowest price</span> **V5.2 TB** · $49–52<br>Strong noise cancelling and head tracking for less, on one device at a time. [V5.2 details](#v5-2-version-differences)<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov52tb) [HiCity](https://airreps.link/hcprov52tb) [Jenny](https://airreps.link/jprov52tb)</span>
 
 </div>
