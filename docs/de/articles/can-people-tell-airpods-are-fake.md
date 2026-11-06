@@ -1,89 +1,89 @@
 ---
-title: 'Können andere erkennen, dass deine AirPods gefälscht sind?'
-description: 'Sorge, dass jemand deine AirPods-Replikate bemerkt? Hier erfährst du, woran sich Klone bei genauerem Hinsehen tatsächlich erkennen lassen, was im Alltag niemandem auffällt und wie gut die besten Versionen abschneiden.'
+title: 'Erkennen andere, dass deine AirPods gefälscht sind?'
+description: 'Machst du dir Sorgen, dass jemand deine nachgemachten AirPods bemerkt? Hier erfährst du, woran Klone bei genauerem Hinsehen tatsächlich zu erkennen sind, was im Alltag niemandem auffällt und wie gut die besten Versionen abschneiden.'
 category: Fälschung vs. Original
 order: 6
 ---
 # Können andere erkennen, dass deine AirPods gefälscht sind?
 
-Kurz gesagt: Eine fachkundige Person, die sie in die Hand nimmt und genau untersucht, kann es erkennen. Fast alle anderen werden es nie merken.
+Kurze Antwort: Eine sachkundige Person, die sie in die Hand nimmt und untersucht, kann es erkennen. Fast alle anderen werden es nie merken.
 
-Das ist der ganze Artikel in zwei Sätzen, aber die Details sind wichtig – denn die *Art* von Person, die es bemerkt, ist selten, und die Situationen, in denen das vorkommt, sind ganz bestimmte. Wenn es dir unangenehm ist, Nachbildungen zu tragen, findest du hier eine ehrliche Einschätzung dazu, woran sie zu erkennen sind – und was im Alltag nie zur Sprache kommt.
+Das ist der ganze Artikel in zwei Sätzen, aber die Details sind wichtig — denn die *Art* von Person, der es auffällt, ist selten, und die Situationen, in denen es passiert, sind ganz bestimmte. Wenn du dich beim Tragen von Nachbildungen unwohl fühlst, findest du hier eine ehrliche Aufschlüsselung: Was sie verrät und was im Alltag nie zur Sprache kommt.
 
-> **Kurzantwort:** Im normalen Alltag kann niemand erkennen, dass du gefälschte AirPods trägst. Aus 60–90 cm Entfernung sind moderne Nachbildungen wie die AirPods Pro 2 V5.4 oder Pro 3 in Geometrie der Ohrhörer, Gewicht, Stiellänge und Verarbeitung den Originalen ebenbürtig. Um sie zu erkennen, muss eine fachkundige Person das Case in die Hand nehmen, die matte galvanische Beschichtung am Scharnier untersuchen oder das Gerät koppeln und feststellen, dass Apples „Wo ist?“-Netzwerk fehlt.
+> **Kurzantwort:** Im normalen Alltag kann niemand erkennen, dass du gefälschte AirPods trägst. Aus einer Entfernung von 60–90 cm stimmen moderne Nachbildungen wie die AirPods Pro 2 V5.4 oder Pro 3 in Form, Gewicht, Stiellänge und Verarbeitung mit echten Geräten überein. Zum Erkennen muss ein Experte das Case in die Hand nehmen, die matte Galvanisierung am Scharnier untersuchen oder das Gerät koppeln, um festzustellen, dass Apples „Wo ist?“-Netzwerk fehlt.
 
-## Die Prüfungen, die bei genauerem Hinsehen wirklich etwas verraten
+## Die Prüfungen, die bei genauer Betrachtung wirklich helfen
 
-Wenn jemand in deiner Nähe unseren Leitfaden dazu gelesen hat, [gefälschte AirPods zu erkennen](/de/articles/how-to-spot-fake-airpods), und beschließt, deine Ohrhörer zu untersuchen, würde diese Person nach diesen äußerlichen Merkmalen suchen – denselben Punkten wie im [QC- und LC-Leitfaden](/de/ordering/qc-lc):
+Wenn jemand in deinem Umfeld unseren Leitfaden [gefälschte AirPods erkennen](/de/articles/how-to-spot-fake-airpods) gelesen hat und sich dazu entschließt, deine Ohrhörer zu untersuchen, würde die Person nach diesen äußerlichen Merkmalen suchen — denselben Punkten aus dem [QC- und LC-Leitfaden](/de/ordering/qc-lc):
 
-- **Farbe des Scharniers.** Die Farbe des Scharniers am Case kann bei Nachbildungen leicht vom Referenzton abweichen. Das ist subtil, und um sicherzugehen, musst du das Original danebenhalten – aber ein geschultes Auge, das darauf achtet, kann eine Abweichung erkennen.
-- **Bündigkeit des Knopfs.** Bei echten AirPods schließt die Kopplungstaste bündig mit dem Case ab. Bei manchen Nachbildungen steht sie leicht hervor oder ist stärker ausgeprägt. Der [Leitfaden zur Verarbeitungsqualität](/de/introduction/build-quality) weist darauf hin, dass aktuelle Modelle dies meist richtig hinbekommen, die Chargen sich aber unterscheiden.
-- **Sitz des Kabels.** Steck das Ladekabel ein: Bei echten AirPods sitzt es vollständig bündig. Ragt es auch nur ein wenig heraus, ist das ein verräterisches Merkmal einer Nachbildung.
-- **Zulassungskennzeichnungen.** Der winzige Zulassungstext im oberen Teil des Case ist regionsabhängig – FCC für die USA, CE/WEEE für die EU und so weiter. Falsche oder fehlende Kennzeichnungen sind ein klares Zeichen.
+- **Farbe des Scharniers.** Die Farbe des Scharniers am Case kann bei Nachbildungen leicht vom Referenzton abweichen. Das ist subtil, und um sicherzugehen, musst du das Original danebenhalten — aber ein scharfes Auge kann eine Abweichung erkennen.
+- **Bündigkeit der Taste.** Bei echten AirPods schließt die Kopplungstaste bündig mit dem Case ab. Bei manchen Nachbildungen steht sie etwas hervor oder ist markanter. Im [Leitfaden zur Verarbeitungsqualität](/de/introduction/build-quality) steht, dass aktuelle Modelle das meist richtig hinbekommen, die Qualität der Chargen aber variiert.
+- **Sitz des Kabels.** Schließe das Ladekabel an: Bei echten AirPods sitzt es vollständig bündig. Steht es auch nur ein wenig hervor, ist das ein verräterisches Merkmal einer Nachbildung.
+- **Zulassungskennzeichnungen.** Der winzige Zulassungstext im oberen Teil des Case ist regionsspezifisch — FCC für die USA, CE/WEEE für die EU und so weiter. Falsche oder fehlende Kennzeichnungen verraten die Fälschung.
 
-Nichts davon ist von der anderen Seite eines Raums zu erkennen. All das setzt voraus, dass jemand dein Case in die Hand nimmt, genau hinsieht und weiß, worauf zu achten ist. Genau darin liegt die Hürde: nicht „Kann man es erkennen?“, sondern „Wird sich überhaupt jemals jemand die Mühe machen, es zu prüfen?“.
+Nichts davon ist quer durch einen Raum zu sehen. Für all diese Prüfungen muss jemand dein Case in die Hand nehmen, genau hinschauen und wissen, wonach die Person sucht. Darin liegt die Hürde: nicht „Kann man es erkennen?“, sondern „Wird überhaupt jemand die Prüfung vornehmen?“
 
-## Die Software-Merkmale (die nur du selbst siehst)
+## Software-Merkmale (die nur du sehen wirst)
 
-Die anderen verräterischen Merkmale treten auf, wenn die Ohrhörer mit einem iPhone verbunden sind – normalerweise *deinem* iPhone, nicht dem eines Fremden:
+Die andere Kategorie verräterischer Merkmale zeigt sich, wenn die Ohrhörer mit einem iPhone verbunden sind — meist mit *deinem* iPhone, nicht mit dem eines Fremden:
 
-**„Wo ist?“ fehlt.** Diese Funktion hat keine Nachbildung. Bei jedem Modell, zu jedem Preis, fehlt Apples „Wo ist?“-Netzwerk – in der [Versionstabelle](/de/version-info/general) wird es als allgemeiner Mangel aufgeführt. Wenn jemand deine AirPods mit dem eigenen Handy koppelt und die App „Wo ist?“ öffnet, ist die präzise Suche einfach nicht verfügbar. Das ist das eindeutigste Erkennungsmerkmal überhaupt und zugleich das, was dir selbst am ehesten auffällt, wenn du einen Ohrhörer verlegst.
+**„Wo ist?“ fehlt.** Das ist das eine Feature, das keine Nachbildung hat. Bei jedem Modell und zu jedem Preis fehlt Apples „Wo ist?“-Netzwerk — in der [Tabelle mit Versionsinfos](/de/version-info/general) ist es als allgemeine Einschränkung aufgeführt. Wenn jemand deine AirPods mit dem eigenen Handy koppelt und die App „Wo ist?“ öffnet, ist die präzise Suche einfach nicht verfügbar. Das ist das eindeutigste Erkennungsmerkmal überhaupt und zugleich das, das du selbst am ehesten bemerken wirst, wenn du einen Ohrhörer verlegst.
 
-**Die Seite „Über“.** Bei echten AirPods wird unter „Einstellungen“ → „Allgemein“ → „Info“ ein AirPods-Bereich mit einer Seriennummer angezeigt, die mit der Nummer im Deckel übereinstimmt. Neuere Nachbildungen können Teile davon imitieren, deshalb ist es nicht mehr zuverlässig, nur nach diesem Entweder-oder-Kriterium zu urteilen – aber ein fehlender oder nicht übereinstimmender Bereich verrät weiterhin ein einfacher verarbeitetes Paar.
+**Die Seite „Info“.** Bei echten AirPods wird unter „Einstellungen“ → „Allgemein“ → „Info“ ein AirPods-Abschnitt mit einer Seriennummer angezeigt, die mit der Nummer im Deckel übereinstimmt. Neuere Nachbildungen können Teile davon imitieren, daher ist es nicht mehr zuverlässig, sich allein auf dieses Ja-oder-Nein-Merkmal zu verlassen — aber ein fehlender oder nicht übereinstimmender Abschnitt verrät immer noch ein niedrigerwertiges Paar.
 
-**Räumliches Audio und ANC.** Die Qualität der Kopfverfolgung hängt von der Version ab. In den [Versionsinformationen](/de/version-info/general) wird „perfektes räumliches Audio“ bei den Pro 2 V5.4 als bekannter Mangel aufgeführt, und niedrigere Versionen bieten schwächeres ANC und eine weniger genaue Kopfverfolgung. Stell ein günstiges Paar neben ein echtes, und du hörst den Unterschied. In einem normalen Gespräch fällt er nicht auf.
+**Räumliches Audio und ANC.** Die Qualität der Kopfbewegungserkennung variiert je nach Version. In den [Versionsinfos](/de/version-info/general) wird „perfektes räumliches Audio“ als bekannte Einschränkung der Pro 2 V5.4 aufgeführt; niedrigere Versionen haben schwächeres ANC und eine weniger präzise Kopfbewegungserkennung. Legt man ein günstiges Paar neben ein echtes, hörst du den Unterschied. In einem normalen Gespräch nicht.
 
-**Das iOS-Popup beweist nichts.** Falls du denkst: „Moment, bei meinem Paar wird das Popup angezeigt, also bin ich auf der sicheren Seite“ – das gilt auch für die meisten Nachbildungen. Der [Leitfaden zur Konnektivität](/de/introduction/connectivity) erklärt, dass das Popup oft genauso schnell oder sogar schneller als bei echten AirPods erscheint. Niemand verwendet das Popup heute noch als Echtheitstest, und sein Erscheinen verrät Beobachtern nichts.
+**Das iOS-Popup beweist nichts.** Wenn du denkst: „Moment, bei meinem Paar erscheint das Popup, also bin ich auf der sicheren Seite“ — das passiert auch bei den meisten Nachbildungen. Im [Leitfaden zur Konnektivität](/de/introduction/connectivity) wird erklärt, dass das Popup oft genauso schnell oder sogar schneller erscheint als bei echten AirPods. Niemand verwendet das Popup mehr als Echtheitstest, und sein Erscheinen verrät Beobachtern nichts.
 
-Achte auf das Muster: Für jede Softwareprüfung müssen die AirPods einer Person mit einem Handy verbunden sein. Bei der normalen Nutzung gibt es diese Person nicht.
+Das Muster ist klar: Für jede Softwareprüfung muss jemand deine AirPods mit einem Handy verbunden haben. Im normalen Gebrauch gibt es so jemanden nicht.
 
-## Was anderen im Alltag tatsächlich auffällt
+## Was Menschen im Alltag tatsächlich bemerken
 
-Das dürfte dich beruhigen. Im echten Leben sehen andere AirPods jeweils etwa eine halbe Sekunde lang: in deinen Ohren, aus einiger Entfernung, während du gehst oder sprichst. Sie nehmen „weiße Ohrhörer“ wahr und denken nicht weiter darüber nach.
+Das sollte dich beruhigen. Im echten Leben sehen Menschen AirPods jeweils etwa eine halbe Sekunde lang, in deinen Ohren, aus einiger Entfernung, während du gehst oder sprichst. Sie nehmen „weiße Ohrhörer“ wahr und gehen weiter.
 
-Überleg einmal, was nötig wäre, damit jemand eine Nachbildung in freier Wildbahn erkennt:
+Überlege einmal, was nötig wäre, damit jemand eine Nachbildung im Alltag erkennt:
 
 - Die Person müsste sich genug dafür interessieren, dein Case genau anzusehen.
-- Sie müsste die spezifischen Merkmale kennen – Scharnierfarbe, Bündigkeit des Knopfs und Sitz des Kabels.
-- Sie müsste nahe genug herankommen und genügend Zeit haben, um diese Prüfungen tatsächlich durchzuführen.
-- Sie müsste zu den Menschen gehören, die das mit den Sachen anderer Leute machen – was ziemlich seltsam wäre.
+- Sie müsste die konkreten Merkmale kennen — Scharnierfarbe, bündige Taste, Sitz des Kabels.
+- Sie müsste nah genug herankommen und genügend Zeit haben, um die Prüfungen tatsächlich durchzuführen.
+- Sie müsste jemand sein, der so etwas mit dem Eigentum anderer Leute macht — was ziemlich seltsam wäre.
 
-Diese Kombination kommt verschwindend selten vor. Am ehesten bemerken es Leute, die selbst Nachbildungen kaufen, und sie werden dich dafür nicht verurteilen. Die zweithäufigste Gruppe sind Leute aus der AirReps-Community – sie fragen normalerweise einfach, welche Version du hast.
+Diese Kombination kommt äußerst selten vor. Am ehesten bemerken es Menschen, die selbst Nachbildungen kaufen, und sie werden dich dafür nicht verurteilen. Die zweithäufigste Gruppe sind Menschen aus der AirReps-Community, die normalerweise einfach fragen, welche Version du hast.
 
-Die ehrliche Einschränkung: Wenn ein Freund deine Ohrhörer wirklich genau untersucht, sie in die Hand nimmt und die Prüfungen kennt, kann er es erkennen. Keine Nachbildung besteht eine gründliche Prüfung aus nächster Nähe durch jemanden, der weiß, worauf zu achten ist. So ist es nun einmal, und das ist in Ordnung – für die meisten Nachbildungen gilt dasselbe.
+Die ehrliche Einschränkung: Wenn ein Freund deine Ohrhörer wirklich untersucht, in die Hand nimmt und die Prüfungen kennt, kann er es erkennen. Keine Nachbildung hält einer gründlichen Untersuchung durch jemanden stand, der weiß, worauf er achten muss. Das ist einfach so, und das ist in Ordnung — dasselbe gilt für die meisten Nachbildungen aller möglichen Produkte.
 
-## Wann es wichtig ist und welche Versionen am besten abschneiden
+## Wann es wichtig ist und welche Versionen sich bewähren
 
-Es gibt eine Situation im echten Leben, in der es wichtig ist, dass jemand es bemerkt: wenn man sie als Originale weiterverkauft. Das ist ein anderes Problem mit anderen Folgen, und genau deshalb gibt es unseren [Erkennungsleitfaden](/de/articles/how-to-spot-fake-airpods) – um Gebrauchtkäufer zu schützen. Nachbildungen selbst zu tragen, ist kein Betrug. Fälschungen als Originale zu verkaufen, schon. Halte diese Dinge auseinander.
+Es gibt eine Situation im echten Leben, in der es wichtig ist, erkannt zu werden: wenn du sie als echte AirPods weiterverkaufst. Das ist ein anderes Problem mit anderen Konsequenzen und genau der Grund, warum es unseren [Erkennungsleitfaden](/de/articles/how-to-spot-fake-airpods) gibt — um Käufer von Gebrauchtware zu schützen. Selbst Nachbildungen zu tragen ist kein Betrug. Klone als Originale zu verkaufen schon. Das sollte man auseinanderhalten.
 
-Wenn du ein Paar möchtest, das einer genaueren Prüfung am besten standhält, solltest du zu den höheren Versionen greifen. Die aktuellen Empfehlungen der Community sind die **AirPods Pro 2 V5.4 Huilian** – im Versionsleitfaden als bester Allrounder beschrieben, dessen einzige wirkliche Mängel perfektes räumliches Audio und „Wo ist?“ sind – sowie die **AirPods-Pro-3-Familie**. Hier ist die V7 die neueste Version mit Herzfrequenzsensor, Kopfgesten und AI Hybrid ANC, während die V6 die günstigere Option darstellt. Diese Modelle haben bessere Scharniere, eine originalgetreuere Verarbeitung und den vollständigsten Funktionsumfang.
+Wenn du das Paar möchtest, das einer genauen Prüfung am besten standhält, solltest du zu den höherwertigen Versionen greifen. Die aktuelle Top-Empfehlung ist der **AirPods Pro 3 V7 Huilian** — die neueste Version mit Herzfrequenzsensor, Kopfgesten und KI-Hybrid-ANC. Der V6 ist der günstigere Pro 3, und der **AirPods Pro 2 V5.3 TB** ist der beste Pro 2 mit der stärksten Geräuschunterdrückung der Pro-2-Reihe. Diese Modelle haben bessere Scharniere, besser nachgebildete Verarbeitungsdetails und den vollständigsten Funktionsumfang.
 
-Niedrigere Versionen sind aus gutem Grund billiger: Sie weisen mehr sichtbare Detailmängel auf und sind gröber verarbeitet. Im Alltag wird man sie trotzdem nicht bemerken, aber bei einer genauen Prüfung fallen sie am schnellsten durch.
+Niedrigere Versionen sind aus gutem Grund günstiger: mehr sichtbare Abweichungen bei Details und eine gröbere Passform und Verarbeitung. Im Alltag wird man sie trotzdem nicht bemerken, aber sie fallen bei einer genauen Prüfung am schnellsten durch.
 
-## Fazit
+## Das Fazit
 
-Niemand untersucht deine Ohrhörer. Um Nachbildungen zu erkennen – anhand von Scharnierfarbe, Bündigkeit des Knopfs, Sitz des Kabels, Kennzeichnungen oder „Wo ist?“ – braucht man engen Kontakt und spezifisches Wissen. Die höheren Versionen, insbesondere die Pro 2 V5.4 Huilian und die aktuelle Pro-3-Reihe, halten einer genaueren Prüfung am besten stand, falls du dir darüber Sorgen machst. Kauf bei einem [vertrauenswürdigen Händler](/de/links/info), damit du genau weißt, welche Version du bekommst, und hör auf, dir wegen der Person am Nebentisch Gedanken zu machen. Es ist ihr egal.
+Niemand untersucht deine Ohrhörer. Die Merkmale, an denen man Nachbildungen erkennt — Scharnierfarbe, bündige Taste, Sitz des Kabels, Kennzeichnungen, „Wo ist?“ — erfordern engen Kontakt und Fachwissen. Die höherwertigen Versionen, insbesondere die aktuelle Pro-3-Reihe und der Pro 2 V5.3 TB, halten einer Prüfung am besten stand, falls du dir darüber Sorgen machst. Kaufe bei einem [vertrauenswürdigen Verkäufer](/de/links/info), damit du genau weißt, welche Version du bekommst, und mach dir keine Gedanken um die Person am Nebentisch. Es ist ihr egal.
 
-Weiterführende Lektüre:
-- Möchtest du wissen, wie du ein Paar selbst überprüfen kannst? Siehe [So erkennst du gefälschte AirPods](/de/articles/how-to-spot-fake-airpods).
+Weiterführende Informationen:
+- Möchtest du wissen, wie du ein Paar selbst überprüfst? Siehe [So erkennst du gefälschte AirPods](/de/articles/how-to-spot-fake-airpods).
 - Möchtest du wissen, worauf du im Vergleich zu Apple verzichtest? Lies [AirPods-Nachbildungen im Vergleich zu echten AirPods](/de/articles/airpods-replicas-vs-real).
-- Ziehst du Alternativen von Markenherstellern in Betracht? Sieh dir [Gefälschte AirPods im Vergleich zu günstigen Ohrhörern](/de/articles/fake-airpods-vs-budget-earbuds) an.
-- Suchst du die besten günstigen Empfehlungen? Siehe [Die besten AirPods-Nachbildungen unter 50 $](/de/articles/best-airpods-replicas-under-50).
+- Ziehst du Alternativen von bekannten Marken in Betracht? Sieh dir [Gefälschte AirPods im Vergleich zu günstigen Ohrhörern](/de/articles/fake-airpods-vs-budget-earbuds) an.
+- Suchst du nach den besten günstigen Modellen? Siehe [Die besten AirPods-Nachbildungen unter 50 $](/de/articles/best-airpods-replicas-under-50).
 
 ## Häufig gestellte Fragen
 
 ::: details Können andere allein durch einen Blick auf mich erkennen, dass ich gefälschte AirPods trage?
-Nein. Aus normaler Entfernung sehen alle nur Ohrhörer. Die äußerlichen Merkmale – Scharnierfarbe, Bündigkeit des Knopfs, Ausrichtung des Kabels und Zulassungskennzeichnungen – setzen voraus, dass jemand dein Case in die Hand nimmt und die spezifischen Prüfungen aus dem [QC- und LC-Leitfaden](/de/ordering/qc-lc) kennt. Das kommt im Alltag praktisch nie vor.
+Nein. Aus normaler Entfernung sieht man nur Ohrhörer. Die äußerlichen Merkmale — Scharnierfarbe, bündige Taste, Ausrichtung des Kabels, Zulassungskennzeichnungen — lassen sich nur erkennen, wenn jemand dein Case in die Hand nimmt und die konkreten Prüfungen aus dem [QC- und LC-Leitfaden](/de/ordering/qc-lc) kennt. Im Alltag passiert das so gut wie nie.
 :::
 
 ::: details Zeigen gefälschte AirPods das iOS-Popup an?
-Die meisten Nachbildungen höherer Versionen tun das, manchmal sogar schneller als echte AirPods. Das Popup ist in keine der beiden Richtungen ein zuverlässiger Echtheitstest. Sein Erscheinen macht es also weder wahrscheinlicher noch unwahrscheinlicher, dass jemand die Fälschung erkennt.
+Die meisten höherwertigen Nachbildungen tun das, manchmal sogar schneller als echte AirPods. Das Popup ist kein zuverlässiger Echtheitstest, weder in die eine noch in die andere Richtung. Sein Erscheinen macht es also weder wahrscheinlicher noch unwahrscheinlicher, dass jemand die Nachbildung erkennt.
 :::
 
 ::: details Was ist das offensichtlichste Erkennungsmerkmal gefälschter AirPods?
-Das fehlende „Wo ist?“-Netzwerk. Es fehlt bei jeder Nachbildung und ist die eine Funktion, die die Community bisher nicht nachbilden konnte. Es ist ein eindeutiges Merkmal, wenn jemand deine AirPods mit dem eigenen Handy koppelt und die App „Wo ist?“ überprüft – dazu muss die Person deine AirPods jedoch mit ihrem Gerät verbinden, was so gut wie nie vorkommt.
+Das fehlende „Wo ist?“-Netzwerk. Jede Nachbildung hat es nicht, und es ist das eine Feature, das die Community noch nicht nachbilden konnte. Es ist eindeutig, wenn jemand deine AirPods mit dem eigenen Handy koppelt und die App „Wo ist?“ überprüft — dafür muss die Person deine AirPods aber mit ihrem Gerät verbinden, was so gut wie nie vorkommt.
 :::
 
 ::: details Welche Nachbildung ist am schwersten vom Original zu unterscheiden?
-Die höheren Versionen. Die AirPods Pro 2 V5.4 Huilian sind der beste Allrounder der Community, und die aktuelle AirPods-Pro-3-Familie (V6 und V7) bietet die neuesten Funktionen und die originalgetreueste Verarbeitung. Eine fachkundige Person kann sie bei einer gründlichen Prüfung aus nächster Nähe zwar erkennen, aber sie halten dem Alltagsgebrauch und beiläufigen Blicken am besten stand. Die vollständige Aufschlüsselung findest du im [Versionsvergleich](/de/version-info/general).
+Die höherwertigen Versionen. Die aktuelle Top-Empfehlung ist der AirPods Pro 3 V7 Huilian, der AirPods Pro 2 V5.3 TB ist der beste Pro 2, und die aktuelle AirPods-Pro-3-Familie (V6 und V7) bietet die neuesten Funktionen und die am besten nachgebildeten Verarbeitungsdetails. Eine gründliche Prüfung durch einen Experten bestehen sie zwar nicht, aber im Alltag und bei flüchtigen Blicken halten sie am besten stand. Die vollständige Übersicht findest du im [Versionsvergleich](/de/version-info/general).
 :::

@@ -1,19 +1,19 @@
 ---
-title: 'AirPods Pro 2 vs AirPods Pro 3-replikaer: Hvilke bør du købe?'
-description: 'AirPods Pro 2 (V5.4 Huilian) vs AirPods Pro 3 (V7 & SE)-replikaer sammenlignet — de gennemprøvede Pro 2 vs de nyeste Pro 3-funktioner, pulsmålere og anbefalinger.'
+title: 'AirPods Pro 2 vs AirPods Pro 3-kopier: Hvilke bør du købe?'
+description: 'AirPods Pro 2 (V5.3 TB & V5.4 Huilian) vs AirPods Pro 3 (V7 & SE)-kopier sammenlignet — den gennemprøvede Pro 2 vs de nyeste funktioner i Pro 3, pulsmålere og anbefalinger.'
 category: Sammenligning
 order: 14
 ---
-# AirPods Pro 2-replikaer vs. AirPods Pro 3-replikaer: Hvilken bør du købe?
+# AirPods Pro 2-replikaer vs. AirPods Pro 3-replikaer: Hvilke bør du købe?
 
-Med lanceringen af AirPods Pro 3-replikaer (nærmere bestemt **V7 Huilian**, **SE** og **V6**) står køberne over for et vigtigt valg midt i købsprocessen: Skal du købe den nyligt lancerede Pro 3-klon eller holde dig til den gennemprøvede og gennemarbejdede **AirPods Pro 2-replika** (V5.4 Huilian eller V5.3 TB)?
+Med lanceringen af AirPods Pro 3-replikaer (nærmere bestemt **V7 Huilian**, **SE** og **V6**) står køberne over for en vigtig beslutning midt i købsprocessen: Skal du købe den nyligt lancerede Pro 3-klon eller holde dig til den gennemprøvede og gennemarbejdede **AirPods Pro 2-replika** (V5.4 Huilian eller V5.3 TB)?
 
-Begge familier er gode køb. Pro 2-serien har gennemgået batchrevisioner i årevis, mens Pro 3-serien byder på det nyeste design og de nyeste funktioner. Her er den ærlige sammenligning baseret på test i fællesskabet.
+Begge familier er gode køb. Pro 2-serien har gennemgået batchrevisioner i årevis, mens Pro 3-serien byder på det nyeste design og de nyeste funktioner. Her er en ærlig sammenligning baseret på test i fællesskabet.
 
-> **Kort svar:** Hvis du vil have de nyeste Pro 3-funktioner med iCloud Connect og iOS-pop op-vinduet, skal du vælge **AirPods Pro 3 V7 Huilian** (~$67): Pro 3-designet, AI Hybrid ANC, en optisk pulssensor, hovedbevægelser, Live Translation og en spiltilstand med lav latenstid. **AirPods Pro 2 V5.4 Huilian** (~$58) er stadig et fremragende allroundvalg med stabil ANC på ~38 dB, adaptiv lyd og iCloud-skift til en lidt lavere pris, mens den Jenny-eksklusive **Pro 3 SE** (~$48) er et prisvenligt valg med den stærkeste ANC.
+> **Kort svar:** Hvis du vil have de nyeste Pro 3-funktioner med iCloud Connect og iOS-pop op-vinduet, skal du vælge **AirPods Pro 3 V7 Huilian** (~$67): Pro 3-designet, AI Hybrid ANC, en optisk pulssensor, hovedbevægelser, Live Translation og en gamingtilstand med lav latenstid. **AirPods Pro 2 V5.3 TB** (~$56) er den bedste Pro 2 med den stærkeste støjreduktion i Pro 2-serien, adaptiv lyd og skift mellem 3 enheder til en lidt lavere pris (V5.4 Huilian, ~$58, tilføjer iCloud-skift), mens den Jenny-eksklusive **Pro 3 SE** (~$48) er det bedste køb til prisen med den stærkeste ANC.
 
-::: tip Moden vs. nyeste
-Økosystemet af AirPods Pro 2-replikaer er på sit mest modne. AirPods Pro 3-familien, anført af flagskibet V7, byder på den nyeste hardware: pulsmåling, hovedbevægelser og Live Translation. Gennemgangen nedenfor viser, hvilken der passer til dig.
+::: tip Gennemprøvet eller nyeste
+AirPods Pro 2-replikaøkosystemet er på sit mest modne. AirPods Pro 3-familien, anført af flagskibet V7, byder på den nyeste hardware: pulsmåling, hovedbevægelser og Live Translation. Gennemgangen nedenfor viser, hvilken der passer til dig.
 :::
 
 ## Vigtige specifikationer på et øjeblik
@@ -22,76 +22,76 @@ Begge familier er gode køb. Pro 2-serien har gennemgået batchrevisioner i åre
 | :--- | :--- | :--- |
 | **Typisk pris** | ~$50–$58 | ~$38–$45 (V6) / ~$48 (SE) / ~$68–$75 (V7) |
 | **Primært chipsæt** | Huilian 377 / Airoha 1571AM | Huilian 377H3 (V7) / XiaoBai (SE) |
-| **Aktiv støjreduktion** | Stabil ~35–38 dB (op til 41 dB ved spidsbelastning på V5.3 TB) | AI Hybrid ANC på V7; høj isolation på SE |
+| **Aktiv støjreduktion** | Stabilt ~35–38dB (op til 41dB ved spidsbelastning på V5.3 TB) | AI Hybrid ANC på V7; høj isolation på SE |
 | **Skift mellem flere enheder** | Fuld iCloud Connect (mellem Apple-enheder) | Kun Huilian V6/V7; SE mangler iCloud-skift |
-| **Særlig hardware** | Standardberørings-/kraftsensorer | Pulssensor (V7 og SE) og nik med hovedet (V7) |
-| **Batteritid for øretelefoner** | ~6–8 timer | ~7 timer (45 mAh-celler) |
+| **Særlig hardware** | Standardberørings-/tryksensorer | Pulssensor (V7 og SE) og hovedbevægelser med nik (V7) |
+| **Batteritid for øretelefoner** | ~6–8 timer | ~7 timer (45mAh-celler) |
 | **Port på opladningsetui** | USB-C | USB-C |
 
 ## 1. Aktiv støjreduktion og transparens
 
 Begge familier leverer effektiv støjreduktion:
 
-- **AirPods Pro 2 (V5.4 og V5.3 TB)**: Disse modeller repræsenterer det akustiske topniveau for replika-hardware. Lydmålinger fra laboratorietests i fællesskabet måler Pro 2 V5.3 TB til en gennemsnitlig reduktion på 34,5 dB (med en top på 41 dB ved lave frekvenser), hvilket giver næsten samme stilhed som originalerne i offentlig transport. V5.4 Huilian har lidt jævnere overgange til transparenstilstand uden baggrundsstøj.
-- **AirPods Pro 3 (V7 og SE)**: Pro 3 SE er seriens behagelige overraskelse med effektiv passiv isolering og kraftig ANC til en overkommelig pris. Flagskibet V7 bruger AI Hybrid ANC med to mikrofonindgange, målt til omkring 38–42 dB på [versionssiden](/da/version-info/airpods-pro-3), og Huilian-versionen kombinerer det med iCloud Connect.
+- **AirPods Pro 2 (V5.4 og V5.3 TB)**: Disse modeller repræsenterer den akustiske grænse for replika-hardware. Lydmålinger udført i fællesskabets laboratorium viser en gennemsnitlig reduktion på 34,5 dB for Pro 2 V5.3 TB (med en spidsværdi på 41 dB ved lave frekvenser), hvilket giver næsten samme stilhed som originalerne i offentlig transport. V5.4 Huilian har lidt jævnere overgange i transparenstilstanden uden baggrundsstøj.
+- **AirPods Pro 3 (V7 og SE)**: Pro 3 SE er en positiv overraskelse i serien og leverer effektiv passiv isolation og stærk ANC til en overkommelig pris. Flagskibet V7 bruger AI Hybrid ANC med to fødekilder, vurderet til omkring 38–42 dB på [versionssiden](/da/version-info/airpods-pro-3), og Huilian-modellen kombinerer det med iCloud Connect.
 
-## 2. Særlige Pro 3-funktioner: gimmick eller nyttige?
+## 2. Pro 3's særlige funktioner: gimmick eller nyttige?
 
 Pro 3-klonerne introducerer flere nye hardwarefunktioner:
 
-- **Pulssensor**: Findes på V7 og SE. På SE er sensoren upræcis (viser 15–20 slag i minuttet forkert) og bør betragtes som ren nysgerrighed. På V7 reagerer målingerne hurtigere via den optiske sensor, men de halter stadig efter dedikerede fitnesstrackere.
-- **Styring med hovedbevægelser**: V7 lader dig nikke for at besvare indgående telefonopkald eller ryste på hovedet for at afvise dem. Det fungerer overraskende godt i praksis.
-- **Live Translation**: Findes på Pro 3 V7, V6 Huilian og SE. De udløser iOS-pop op-vinduer med oversættelsesforslag eller lydgennemgang via den tilhørende app, så du hurtigt får adgang til oversættelse af samtalelyd.
+- **Pulssensor**: Findes på V7 og SE. På SE er sensoren upræcis (viser 15–20 bpm forkert) og bør betragtes som ren kuriositet. På V7 reagerer målingerne hurtigere takket være den optiske sensor, men halter stadig efter dedikerede fitnesstrackere.
+- **Styring med hovedbevægelser**: Med V7 kan du nikke for at besvare indgående telefonopkald eller ryste på hovedet for at afvise dem. I praksis fungerer det overraskende godt.
+- **Live Translation**: Findes på Pro 3 V7, V6 Huilian og SE. De udløser iOS-pop op-vinduer med oversættelse eller lydgennemgang via en tilhørende app, så du hurtigt kan få adgang til samtaleoversættelse.
 
 ## 3. Apples økosystem og iCloud Connect
 
-Hvis du bruger flere Apple-enheder (f.eks. en iPhone sammen med en MacBook eller iPad), er skift mellem enheder afgørende:
+Hvis du bruger flere Apple-enheder (for eksempel en iPhone sammen med en MacBook eller iPad), er skift mellem enheder afgørende:
 
 - **AirPods Pro 2 V5.4 Huilian** har pålidelig **iCloud Connect**: Når du åbner etuiet ved en iPhone, registreres øretelefonerne på din iCloud-konto, så du nemt kan skifte manuelt på din Mac eller iPad uden at parre dem igen.
 - **AirPods Pro 3 SE** mangler helt indbygget iCloud-synkronisering; du skal manuelt afbryde forbindelsen og oprette forbindelse igen via Bluetooth-indstillingerne, når du skifter mellem en iPhone og en bærbar computer. Hvis problemfrit skift er vigtigt, skal du vælge enten Pro 2 V5.4 eller Pro 3 V6/V7 Huilian.
 
-Du kan læse mere om kompatibilitet med Mac og opsætning i vores særskilte vejledning om [falske AirPods på Mac](/da/articles/fake-airpods-on-mac).
+Du kan læse mere om kompatibilitet med Mac og opsætning i vores særlige guide om [falske AirPods på Mac](/da/articles/fake-airpods-on-mac).
 
 ## 4. Byggekvalitet og ergonomi
 
-Begge familier bruger ABS-plast af høj kvalitet, hængsler i zinklegering med passende vægt og rene samlinger med præcise tolerancer. 
+Begge familier bruger ABS-plast af høj kvalitet, hængsler på låget med vægtet zinklegering og ensartede samlinger.
 
-Den primære forskel er øretelefonernes fysiske form: Pro 3 har en lidt slankere lydkanal og en ændret vinkel, der skal få den til at sidde længere inde i øregangen. Hvis du bliver træt i ørerne af almindelige AirPods Pro-ørepropper under lange lyttesessioner, kan Pro 3-huset give en mere naturlig forsegling.
+Den primære forskel er øretelefonernes fysiske form: Pro 3 har en lidt slankere akustisk kanal og en ændret vinkel, der er beregnet til at sidde dybere i øregangen. Hvis almindelige AirPods Pro-ørepropper bliver ubehagelige for dine ører under længere lyttesessioner, kan Pro 3-etuiets udformning give en mere naturlig forsegling.
 
 ## Hvem bør købe hvilken?
 
-### Køb AirPods Pro 2-replikaen (V5.4), hvis:
+### Køb AirPods Pro 2-replikaen (V5.3 TB), hvis:
 - Du vil have den mest pålidelige og grundigt testede replika på markedet.
 - Adaptiv lyd og en jævn, naturlig transparenstilstand er vigtigst for dig.
-- Du ofte skifter mellem en iPhone, iPad og MacBook.
-- Du vil have den bedste balance mellem pris (~$58) og modenhed.
+- Du ofte skifter mellem en iPhone, iPad og MacBook (V5.4 Huilian tilføjer iCloud Connect til det).
+- Du vil have den bedste balance mellem pris (~$56) og modenhed.
 
-<span class="pick-buy">Køb V5.4 hos [Earhive](https://airreps.link/eprov54hl) [HiCity](https://airreps.link/hcprov54hl) [Jenny](https://airreps.link/jprov54hl)</span>
+<span class="pick-buy">Køb V5.3 TB hos [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span> <span class="pick-buy">V5.4 hos [Earhive](https://airreps.link/eprov54hl) [HiCity](https://airreps.link/hcprov54hl) [Jenny](https://airreps.link/jprov54hl)</span>
 
 ### Køb AirPods Pro 3-replikaen (V7 / SE), hvis:
-- Du vil have det nyeste Apple-design og en ændret form på øretelefonerne.
-- Du vil have den budgetvenlige SE (~$48) til træning eller rejser, hvor avancerede funktioner til økosystemet ikke er vigtige.
-- Du vil have de nyeste funktioner: pulsmåling, besvarelse af opkald med hovedbevægelser, samtalebevidsthed og Live Translation. V7 Huilian har også iCloud Connect.
+- Du vil have det nyeste Apple-design og en ændret øretelefonform.
+- Du vil have den prisvenlige SE (~$48) til træning eller rejser, hvor avancerede funktioner i økosystemet ikke betyder noget.
+- Du vil have de nyeste funktioner: pulsmåling, opkaldsbesvarelse med hovedbevægelser, samtalebevidsthed og Live Translation. V7 Huilian har også iCloud Connect.
 
 <span class="pick-buy">Køb V7 Huilian hos [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">V7 TB hos [HiCity](https://hicitypods.com/product/pro-3-v7-tb/)</span> <span class="pick-buy">SE hos [Jenny](https://airreps.link/jpro3se)</span>
 
 ## Relateret læsning
 
 - Leder du efter muligheder til under $50? Se [de bedste AirPods-replikaer til under $50](/da/articles/best-airpods-replicas-under-50).
-- Vil du vide, hvordan de begge klarer sig sammenlignet med Apples originaler? Læs [AirPods-replikaer vs. ægte AirPods](/da/articles/airpods-replicas-vs-real).
-- Nysgerrig på alternativer, der dækker øret? Læs vores [guide til AirPods Max-kopier](/da/articles/airpods-max-dupe).
-- Klar til at bestille? Besøg [fortegnelsen over pålidelige sælgere](/da/links/info) for at se det aktuelle lager.
+- Vil du vide, hvordan de klarer sig mod Apples originaler? Læs [AirPods-replikaer vs. ægte AirPods](/da/articles/airpods-replicas-vs-real).
+- Er du i stedet interesseret i hovedtelefoner med bøjle? Læs vores [guide til AirPods Max-kopier](/da/articles/airpods-max-dupe).
+- Klar til at bestille? Besøg [listen over pålidelige sælgere](/da/links/info) for at se det aktuelle lager.
 
-## Ofte stillede spørgsmål
+## FAQ
 
 ::: details Er AirPods Pro 3-replikaen bedre end Pro 2?
-Når det gælder funktioner, ja. Pro 3 V7 Huilian tilføjer en optisk pulssensor, Live Translation og en spiltilstand med lav latenstid oven i iCloud Connect. AirPods Pro 2 V5.4 er den mere modne model og tilføjer adaptiv lyd til en lavere pris.
+Når det gælder funktioner, ja. Pro 3 V7 Huilian tilføjer en optisk pulssensor, Live Translation og en gamingtilstand med lav latenstid oven i iCloud Connect. AirPods Pro 2 V5.3 TB, den bedste Pro 2-model, er mere gennemprøvet og tilbyder adaptiv lyd til en lavere pris.
 :::
 
-::: details Virker pulssensoren faktisk på Pro 3-replikaer?
-Ja, på V7 Huilian: I vores test følger den optiske sensor pulsen langt mere præcist end SE-sensoren, men et Apple Watch eller et brystbælte er stadig mere præcist til træning. På den billigere SE-model er sensorens måling nærmest kun til pynt.
+::: details Virker pulssensoren rent faktisk på Pro 3-replikaer?
+Ja, på V7 Huilian: I vores test fulgte dens optiske sensor pulsen langt bedre end SE-modellens, selvom et Apple Watch eller et brystbælte stadig er mere præcist til træning. På den billigere SE-model er sensoraflæsningen nærmest kun til pynt.
 :::
 
 ::: details Hvad er den bedste AirPods Pro 2-replika lige nu?
-Fællesskabets klare favorit er **AirPods Pro 2 V5.4 Huilian** på grund af de samlede funktioner og integrationen med Apples økosystem eller **V5.3 TB (Airoha 1571AM)**, hvis du vil have den størst mulige aktive støjreduktion.
+Den bedste AirPods Pro 2-replika er **V5.3 TB (Airoha 1571AM)** med den stærkeste aktive støjreduktion i Pro 2-serien. **AirPods Pro 2 V5.4 Huilian** er det bedste valg, hvis du vil have iCloud-skift og integration med Apples økosystem.
 :::
