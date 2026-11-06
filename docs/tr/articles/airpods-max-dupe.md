@@ -1,80 +1,82 @@
 ---
-title: 'AirPods Max Taklidi: Ne Alırsınız ve Nelerden Vazgeçersiniz'
-description: 'AirPods Max taklidine dürüst bir bakış — kulak üstü replikasının neyi kopyaladığı, neleri yapamadığı, tipik fiyat aralığı ve kulak içi replikalara kıyasla buna değip değmediği.'
-category: Satın alma
+title: 'AirPods Max Taklidi: Ne Elde Edersiniz, Nelerden Vazgeçersiniz'
+description: 'AirPods Max taklidine dürüst bir bakış — kulak üstü replikasının neleri kopyaladığı, neleri kopyalayamadığı, tipik fiyat aralığı ve kulak içi replikalara kıyasla buna değip değmediği.'
+category: Satın Alma
 order: 12
 ---
-# AirPods Max muadili: Aldıklarınız ve vazgeçtikleriniz
+# AirPods Max muadili: Neler kazanır, nelerden vazgeçersiniz
 
-AirPods Max muadili, Apple'ın kulak üstü kulaklığının bir replikasıdır: alüminyum görünümünü, fileli kafa bandını, dijital crown'u ve iOS davranışlarını kopyalar. Üstelik evet — aynı eşleştirme penceresini gösterir ve iPhone'a orijinal bir çift gibi bağlanır. Yapamadığı şey, satış fiyatındaki ses kalitesine, ANC'ye ve ekosistem bütünlüğüne ulaşmaktır. Bu yazı satın alma kararına odaklanır; güncel sürümler ve teknik özellikler için [AirPods Max sürüm sayfasını](/tr/version-info/airpods-max) okuyun.
+AirPods Max muadili, Apple'ın kulak üstü kulaklığının bir replikasıdır: alüminyum görünümünü, file kafa bandını, Digital Crown'u ve iOS davranışlarını taklit eder. Evet — aynı eşleştirme penceresini gösterir ve iPhone'a orijinal bir çift gibi bağlanır. Yapamadığı şey, satış fiyatındaki ses kalitesini, ANC'yi ve ekosistem kusursuzluğunu yakalamaktır. Bu makale satın alma kararınıza yardımcı olur; güncel sürümler ve teknik özellikler için [AirPods Max sürüm sayfasını](/tr/version-info/airpods-max) okuyun.
 
-> **Kısa cevap:** Amiral gemisi AirPods Max replikası (V3 metal, yaklaşık 126 $), Apple'ın 549 $'lık satış fiyatının dörtte birinden daha düşük bir fiyata gerçek eloksallı alüminyum kulak kapakları, çalışan bir dijital crown, kafa takibi ve iOS eşleştirme animasyonu sunar. Vazgeçtiğiniz şeyler ise Apple'ın sınıfının lideri hesaplamalı ANC'si, iCloud üzerinden sorunsuz çoklu cihaz geçişi ve Find My ağ takibidir.
+> **Kısa yanıt:** Amiral gemisi AirPods Max replikası (V3 metal, yaklaşık 126 $), Apple'ın 549 $'lık satış fiyatının dörtte birinden daha azına gerçek eloksallı alüminyum kulaklık kapları, çalışan bir Digital Crown, kafa takibi ve iOS eşleştirme animasyonu sunar. Vazgeçtikleriniz ise Apple'ın sınıfının en iyisi hesaplamalı ANC'si, iCloud üzerinden sorunsuz çoklu cihaz geçişi ve Bul ağıyla takip özelliğidir.
 
 ::: tip Fiyatlar değişebilir
-Replika fiyatları partilere ve kampanyalara göre değişir. Buradaki her rakamı sabit değil, tipik bir fiyat olarak değerlendirin ve şu anda stokta ne olduğunu görmek için [bağlantılar sayfasına](/tr/links/airpods-max) bakın.
+Replika fiyatları üretim partilerine ve promosyonlara göre değişir. Buradaki tüm rakamları sabit değil, tipik fiyatlar olarak değerlendirin ve şu anda stokta neler olduğunu görmek için [bağlantılar sayfasına](/tr/links/airpods-max) göz atın.
 :::
 
-## Bir Max muadili aslında nedir?
+## Max muadili aslında nedir?
 
-Kulak üstü replikalar iki genel yapı türüne ayrılır. Plastik sürümler şekli ve kontrolleri taklit eder, ancak kaplamayı taklit etmez. Metal sürümler ise daha ileri gider — amiral gemisi V3, yumuşak metal kulak kapakları ve metal kafa bandı kullanır; bu da onu kol mesafesinden bakıldığında gerçek ürün gibi gösterir. Bu alüminyum görünümü, birçok alıcı için bu kategorinin asıl amacıdır.
+Kulak üstü replikalar iki temel yapıda gelir. Plastik sürümler şekli ve kontrolleri taklit eder, ancak kaplamayı taklit etmez. Metal sürümler ise daha ileri gider — amiral gemisi V3, yumuşak metal kulaklık kapları ve metal kafa bandı kullanır; bu da uzaktan bakıldığında gerçek üründen ayırt edilmesini zorlaştırır. Birçok alıcı için bu kategorinin asıl amacı, alüminyum görünümüdür.
 
-Yapının yanı sıra iOS deneyimi de başarılı biçimde taklit edilir. Eşleştirme animasyonu görünür, isim değiştirme çalışır ve topluluğun [yapı kalitesi incelemesi](/tr/introduction/build-quality), menteşelerin, yazıların ve ağırlığın orijinallerle nasıl karşılaştırıldığını açıklar (kısaca: rehber üzerinden satılan tüm replikalarda metal menteşeler kullanılır ve yazı doğruluğu satıcıya göre değişir). Dijital crown ve kulak içi algılama da güncel sürümlerde bulunur.
+Yapının yanı sıra iOS deneyimi de iyi taklit edilmiştir. Eşleştirme animasyonu görünür, ad değiştirme çalışır ve topluluğun [yapı kalitesi incelemesinde](/tr/introduction/build-quality) menteşelerin, yazıların ve ağırlığın orijinallerle karşılaştırması ele alınır (kısaca: rehberde satılan tüm replikalarda metal menteşeler kullanılır; yazıların doğruluğu ise satıcıya göre değişir). Mevcut sürümlerde Digital Crown ve kulak içi algılama da bulunur.
 
-## Satış ürünüyle karşılaştırıldığında gerçekten nelerden vazgeçiyorsunuz?
+## Orijinal ürüne kıyasla gerçekten nelerden vazgeçersiniz?
 
-Rehber eksikler konusunda açık sözlü; biz de öyleyiz. Gerçek bir AirPods Max ile karşılaştırıldığında replika şunlardan vazgeçer:
+Rehber eksiklikleri açıkça belirtir, biz de öyle. Gerçek bir AirPods Max ile karşılaştırıldığında replika şunlardan yoksundur:
 
-- **Çoklu cihaz bağlantısı** — satış ürününde olduğu gibi Apple cihazlarınız arasında otomatik geçiş yapmaz. Yalnızca Huilian tabanlı modellerde çoklu cihaz geçişi bulunur ve Max bunlardan biri değildir.
-- **Satış ürünü düzeyinde ANC** — gürültü engelleme çalışır ve hibrittir ([ANC açıklamasına](/tr/introduction/anc-explained) bakın), ancak Apple'ın seviyesine ulaşmaz.
-- **Daha iyi şeffaflık modu** — çalışır, yalnızca satış ürünü kadar doğal değildir.
-- **Daha ince ayrıntılar** — iki ürünü yan yana koymadığınız sürece fark etmeyeceğiniz küçük kaplama, uyum ve davranış ayrıntıları.
+- **Çoklu cihaz bağlantısı** — satışa sunulan modelde olduğu gibi Apple cihazlarınız arasında otomatik geçiş yapmaz. Yalnızca Huilian tabanlı modellerde çoklu cihaz geçişi vardır; Max bunlardan biri değildir.
+- **Satışa sunulan model düzeyinde ANC** — gürültü engelleme çalışır ve hibrittir ([ANC açıklamasına](/tr/introduction/anc-explained) bakın), ancak Apple'ın seviyesine ulaşmaz.
+- **Daha iyi şeffaflık modu** — çalışır, ancak orijinal üründeki kadar doğal değildir.
+- **Daha ince ayrıntılar** — iki ürünü yan yana kullanmadığınız sürece fark etmeyebileceğiniz küçük kaplama, uyum ve davranış farklılıkları.
 
-Rehberdeki her replika gibi bunda da **Find My ağı bulunmaz**. Kaybolan bir kulaklığı takip etmek sizin için önemliyse, gerçek ürünü satın almanız gerekir. [Replika ve gerçek karşılaştırması](/tr/articles/airpods-replicas-vs-real), bu özelliği tek tek ele alır.
+Rehberdeki tüm replikalar gibi bunda da **Bul ağı yoktur**. Kayıp bir kulaklığı takip etmek sizin için önemliyse bu gerçek bir satın alma gerekçesidir. [Replika ve orijinal karşılaştırması](/tr/articles/airpods-replicas-vs-real), bu özelliği tüm ayrıntılarıyla ele alır.
 
-Dürüstçe ifade etmek gerekirse: AirPods Max muadili, **odyofil üründen çok modaya odaklı bir üründür**. Görünümü, silüeti ve iOS davranışlarını satın alırsınız. Referans düzeyinde ses satın almıyorsunuz.
+Dürüstçe söylemek gerekirse: AirPods Max muadili, **ses tutkunlarından çok modaya önem verenlere yönelik bir üründür**. Görünümü, silüeti ve iOS davranışlarını satın alıyorsunuz. Referans düzeyinde ses satın almıyorsunuz.
 
-## Satış fiyatına karşı fiyat aralığı
+## Fiyat aralığı ve orijinal ürün
 
-Rehberin [güvenilir satıcılarında](/tr/links/info) AirPods Max replikaları, sürüme ve yapıya bağlı olarak genellikle **93–126 $** civarındadır. Bağlam açısından bu, gerçek standart AirPods'larla aynı seviyededir; Apple'ın gerçek Max modeli ise bunun çok üzerindedir. Dolayısıyla değer önerisi gerçektir — ancak yalnızca replikaya gerçekten sundukları için değer veriyorsanız.
+Rehberin [güvenilir satıcılarında](/tr/links/info) AirPods Max replikalarının fiyatı sürüme ve yapıya bağlı olarak genellikle **93–126 $** civarındadır. Karşılaştırma için bu fiyat, orijinal standart AirPods'larla aynı düzeydedir; Apple'ın gerçek Max modeli ise bunun çok üzerindedir. Yani sunduğu değer gerçektir — ancak yalnızca replikadan gerçekten alacağınız şeylere değer veriyorsanız.
 
-## Rahatsız edici kısım: kulak üstü modeller daha zayıf bir değer seçeneği
+## Rahatsız edici gerçek: kulak üstü modeller daha zayıf bir fiyat-performans seçeneği
 
-Satış sayfalarının atladığı kısım şu. Saf ses kalitesi ve gürültü engelleme açısından **kulak içi replikalar daha iyi bir satın alma seçeneğidir**. Güncel AirPods Pro ve Pro olmayan replikalar, satış ürünleriyle karşılaştırıldığında yaklaşık 8–9/10 olarak değerlendirilir ve Pro serileri ANC konusunda gerçekten yaklaşır. Max replikası ise daha zor bir hedefi yakalamaya çalışır — daha büyük bir sürücü, daha geniş bir akustik hazne ve Apple'ın kulak üstü ayarı — ve satış ürünündeki karşılığından, kulak içi replikaların kendi karşılıklarından uzak olduğundan daha uzakta kalır.
+Satış sayfalarının atladığı kısım şu: Sırf ses ve gürültü engelleme açısından bakıldığında **kulak içi replikalar daha iyi bir seçimdir**. Güncel AirPods Pro ve Pro olmayan replikalar, satışa sunulan karşılıklarına kıyasla yaklaşık 8–9/10 puan alır; Pro serilerinde ANC de gerçekten orijinaline yaklaşır. Max replikası ise daha zorlu bir hedefi yakalamaya çalışır — daha büyük bir sürücü, daha geniş bir akustik oda ve Apple'ın kulak üstü ses ayarı. Bu nedenle orijinalinden aldığı uzaklık, kulak içi replikaların kendi orijinallerinden aldığı uzaklıktan daha fazladır.
 
-Basitçe söylemek gerekirse: Bir Pro 2 veya Pro 3 replikasıyla dolar başına gerçek deneyimin daha fazlasını elde edersiniz. Max muadili form faktörü ve görünüm konusunda kazanır, seste değil. Önceliğiniz referans düzeyinde sesse kulak içi modeli alın. Kulak üstü görünümünü ve iOS davranışını istiyorsanız Max uygundur — yalnızca beklentinizi buna göre belirleyin.
+Basitçe ifade etmek gerekirse: Pro 2 veya Pro 3 replikasıyla, harcadığınız her dolar karşılığında gerçek deneyimin daha fazlasını elde edersiniz. Max muadili, ses kalitesinde değil; form faktöründe ve görünümde öne çıkar. Referans düzeyinde ses önceliğinizse kulak içi modeli alın. Kulak üstü görünümünü ve iOS davranışlarını istiyorsanız Max uygundur — yalnızca beklentinizi buna göre belirleyin.
 
 ## Kimlere uygun?
 
-- Masasında, fotoğraflarda veya işe gidip gelirken Max görünümünü isteyen ve bunun için Apple fiyatı ödemek istemeyen biri.
-- Referans ayarından çok iOS eşleştirme penceresine ve crown kontrollerine değer veren biri.
-- ANC ve şeffaflık eksiklerini bu deneyimin bedeli olarak kabul eden biri.
+- Masasında, fotoğraflarda veya işe gidip gelirken Max görünümünü isteyen ve bunun için Apple fiyatı ödemek istemeyenlere.
+- Referans ses ayarından çok iOS eşleştirme penceresine ve taç kontrollerine önem verenlere.
+- ANC ve şeffaflık konusundaki eksiklikleri bu ürünün bedeli olarak kabul edenlere.
 
-Amiral gemisi düzeyinde ses peşinde olanlara, çoklu cihaz geçişine ihtiyaç duyanlara veya Find My'a güvenenlere **uygun değildir**.
+Amiral gemisi ses kalitesi arayanlara, çoklu cihaz geçişine ihtiyaç duyanlara veya Bul'a güvenenlere **uygun değildir**.
 
-## Nereden satın alınır?
+## Nereden alınır?
 
-AirPods Max replikaları, rehberin doğruladığı güvenilir satıcılar tarafından satılır — bunlar arasında Jenny ve HiCity bulunur; Earhive de Max sürümleri listeler. Her sürüme ait satın alma bağlantıları [AirPods Max bağlantıları sayfasında](/tr/links/airpods-max) yer alır. Topluluğun genel tavsiyesi burada da geçerlidir: rastgele bir pazaryeri ilanı yerine [güvenilir bir satıcıdan](/tr/links/info) satın alın; çünkü gerçekten elinize ulaşan sürüm, ödediğiniz fiyattan daha önemlidir. Üç satıcıdaki aynı ilan aynı üründür — aralarındaki temel fark destek, kargo ve ödeme seçenekleridir.
+AirPods Max replikalarını, rehberin doğruladığı güvenilir satıcılar satar. Bunlar arasında Jenny ve HiCity bulunur; Earhive da Max sürümlerini listeler. Her sürümün satın alma bağlantıları [AirPods Max bağlantıları sayfasında](/tr/links/airpods-max) yer alır. Topluluğun genel tavsiyesi burada da geçerlidir: rastgele bir pazar yeri ilanı yerine [güvenilir bir satıcıdan](/tr/links/info) alın; çünkü aldığınız sürüm, ödediğiniz fiyattan daha önemlidir. Üç satıcının aynı ilanı aynı üründür — temel farkları destek, kargo ve ödeme seçenekleridir.
+
+<span class="pick-buy">V3 Metal'i şuradan alın: [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span> <span class="pick-buy">V3P: [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
 İlgili okumalar ve karşılaştırmalar:
-- Kulak içi replikalar mı, kulak üstü muadiller mi? [50 doların altındaki en iyi AirPods replikalarına](/tr/articles/best-airpods-replicas-under-50) göz atın.
-- Gerçek AirPods ve replikaların özellik bazında karşılaştırması: [Replika AirPods ve gerçek AirPods](/tr/articles/airpods-replicas-vs-real) yazısını okuyun.
-- Paketin gümrükte takılmasından mı endişelisiniz? [AirPods replikalarında gümrük ve KDV](/tr/articles/airpods-replica-customs-and-vat) yazısına bakın.
-- Kullanılmış bir çifti doğruluyor musunuz? [AirPods'ların sahte olduğu nasıl anlaşılır](/tr/articles/how-to-spot-fake-airpods) yazısını izleyin.
+- Kulak içi replikalar mı, kulak üstü muadiller mi? [50 $ altındaki en iyi AirPods replikalarına](/tr/articles/best-airpods-replicas-under-50) göz atın.
+- Orijinal AirPods ile replikaları özellik özellik karşılaştırın: [Replika AirPods ve orijinal AirPods](/tr/articles/airpods-replicas-vs-real) yazısını okuyun.
+- Paketin gümrükte takılmasından mı endişeleniyorsunuz? [AirPods replikalarında gümrük ve KDV](/tr/articles/airpods-replica-customs-and-vat) yazısına bakın.
+- İkinci el bir çifti doğruluyor musunuz? [AirPods'un sahte olup olmadığını anlama](/tr/articles/how-to-spot-fake-airpods) rehberini izleyin.
 
 ## SSS
 
-::: details AirPods Max replikaları buna değer mi?
-Görünüm ve iOS davranışı için, istediğiniz şeyler bunlarsa evet. Ses ve ANC için kulak içi replikalar daha iyi değer sunar. Sipariş vermeden önce bu iki şeyden hangisini satın aldığınıza karar verin.
+::: details AirPods Max replikaları almaya değer mi?
+Görünüm ve iOS davranışları için evet — aradığınız şeyler bunlarsa. Ses ve ANC açısından kulak içi replikalar daha iyi bir fiyat-performans seçeneğidir. Sipariş vermeden önce bu iki özellikten hangisi için satın aldığınıza karar verin.
 :::
 
-::: details İnsanlar bir AirPods Max muadilinin sahte olduğunu anlayabilir mi?
-Görsel olarak metal V3 yaklaşır; ikinci el dolandırıcılıklarının işe yaramasının nedeni de tam olarak budur. İşaretler, cihazı elinize aldığınızda fark edilen şeylerdir: Find My'ın olmaması, satış ürünü seviyesine ulaşmayan ANC ve daha ince kaplama ayrıntıları. Kontroller için [AirPods'ların sahte olduğu nasıl anlaşılır](/tr/articles/how-to-spot-fake-airpods) yazısına bakın.
+::: details İnsanlar AirPods Max muadilinin sahte olduğunu anlayabilir mi?
+Görünüş bakımından metal V3 oldukça yaklaşır; ikinci el dolandırıcılıklarının işe yaramasının nedeni de budur. Ayırt edici noktalar, cihazı elinize almanızı gerektiren şeylerdir: Bul özelliğinin olmaması, satışa sunulan model düzeyine ulaşmayan ANC ve daha ince kaplama ayrıntıları. Kontroller için [AirPods'un sahte olup olmadığını anlama](/tr/articles/how-to-spot-fake-airpods) rehberine bakın.
 :::
 
-::: details Max replikalarında iOS penceresi var mı?
-Evet. Eşleştirme animasyonu, isim değiştirme, GPS gösterimi ve dokunmatik kontroller çalışır; güncel sürümlerde ayrıca dijital crown ve kulak içi algılama bulunur. Eksik olanlar çoklu cihaz bağlantısı ile satış ürünü düzeyinde ANC ve şeffaflıktır.
+::: details Max replikalarında iOS penceresi çıkar mı?
+Evet. Eşleştirme animasyonu, ad değiştirme, GPS gösterimi ve dokunmatik kontroller çalışır; güncel sürümlerde Digital Crown ve kulak içi algılama da bulunur. Eksik olanlar çoklu cihaz bağlantısı ile satışa sunulan model düzeyindeki ANC ve şeffaflık modudur.
 :::
 
-::: details Bir AirPods Max muadili ne kadar tutmalı?
-Güvenilir bir satıcıdan, sürüme ve yapıya bağlı olarak genellikle 93–126 $ civarındadır. Daha üst sürümler daha pahalıdır ve ek özellikler sunar — satın almadan önce bunları [sürüm sayfasında](/tr/version-info/airpods-max) karşılaştırın.
+::: details AirPods Max muadili ne kadar olmalı?
+Güvenilir bir satıcıdan genellikle 93–126 $ civarındadır; fiyat sürüme ve yapıya göre değişir. Üst sürümler daha pahalıdır ve ek özellikler sunar — satın almadan önce bunları [sürüm sayfasında](/tr/version-info/airpods-max) karşılaştırın.
 :::

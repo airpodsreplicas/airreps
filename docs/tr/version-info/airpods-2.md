@@ -1,17 +1,19 @@
 ---
-title: AirPods 2 Taklit Sürümleri ve Teknik Özellikleri
-description: 'AirPods 2 taklit sürümlerini yonga, özellikler ve eksik özellikler bakımından karşılaştırın. Bazı modellerin üretimi durdurulmuştur.'
+title: AirPods 2 Replika Sürümleri ve Teknik Özellikleri
+description: 'AirPods 2 replika sürümlerini çip, özellikler ve eksik özellikler açısından karşılaştırın. Bazı modellerin üretimi durdurulmuştur.'
 ---
 # AirPods 2
 
-::: tip Geliştirme süreci ilerledi
-Üreticiler geliştirme çalışmalarını daha yeni modellere yönelttiğinden, bu ürün serisi artık aktif olarak güncellenmiyor. AirPods 2 replikaları hâlâ mükemmel ürünler ve popüler seçenekler arasında yer alıyor. En yeni özellikleri ve iyileştirmeleri arıyorsanız [AirPods 3](/tr/version-info/airpods-3) veya [AirPods 4](/tr/version-info/airpods-4) modellerine göz atabilirsiniz.
+::: tip Geliştirme durdu
+Üreticiler geliştirme çalışmalarını daha yeni modellere yönelttiğinden bu ürün serisi artık aktif olarak güncellenmiyor. AirPods 2 replikaları hâlâ mükemmel ürünler ve popüler seçenekler arasında. En yeni özellikleri ve iyileştirmeleri arıyorsanız [AirPods 3](/tr/version-info/airpods-3) veya [AirPods 4](/tr/version-info/airpods-4) modellerine göz atabilirsiniz.
 :::
 
-**Kısa değerlendirme:** **V3E (Airoha 1562E)**, aktif olarak üretilmeye devam eden tek AirPods Gen 2 replikasıdır — rakipsiz bütçe fiyatıyla çift cihaz bağlantısı, FlyCC uygulamasında EQ özelleştirmesi, güvenilir 5–6 saatlik pil ömrü ve iOS 27 için sağlam destek sunar. [AirPods 2 satın alma bağlantılarına](/tr/links/airpods-2) göz atın.
+**Kısa karar:** **V3E (Airoha 1562E)**, hâlâ aktif olarak üretilen tek AirPods Gen 2 replikasıdır. Rakipsiz bütçe dostu fiyatıyla iki cihaza bağlanma, FlyCC uygulamasında EQ özelleştirme, güvenilir 5–6 saat pil ömrü ve iOS 27 desteği sunar. [AirPods 2 satın alma bağlantılarına](/tr/links/airpods-2) göz atın.
 
-::: tip AirPods 2 için ortak temel özellikler
-Tüm Gen 2 modellerinde şu özellikler bulunur: orijinal uzun saplı klasik kulak içi tasarım, dokunmatik kontroller (oynatma/duraklatma/atlama için iki kez dokunma), kulak içi optik algılama, Lightning ile şarj ve Hakkında sayfası açılır penceresiyle iOS 27 desteği. Gen 2 kulaklıkların ANC veya Uzamsal Ses özelliği olmadığını unutmayın.
+<span class="pick-buy">V3E’yi [Earhive](https://airreps.link/e2v3e) [HiCity](https://airreps.link/hcgen2v3e) [Jenny](https://airreps.link/j2v3e) üzerinden satın alın</span>
+
+::: tip Tüm AirPods 2 modellerinde ortak özellikler
+Tüm Gen 2 modellerinde şunlar bulunur: klasik, uzun saplı ve kulağa oturan tasarım; dokunmatik kontroller (oynatma/duraklatma/parça atlama için çift dokunma); kulak içi optik algılama; Lightning ile şarj ve Hakkında sayfasında açılır pencereyle iOS 27 desteği. Gen 2 kulaklıklarda ANC veya Uzamsal Ses bulunmadığını unutmayın.
 :::
 
 Satıcıların 3 Kasım 2026 tarihindeki fiyatları; güncel fiyatlar için [satın alma bağlantılarına](/tr/links/airpods-2) göz atın. Topluluk yorumlarını okumak için sürüm adına tıklayın.
@@ -22,12 +24,12 @@ Satıcıların 3 Kasım 2026 tarihindeki fiyatları; güncel fiyatlar için [sat
 |:---|:---:|:---:|:---:|:---:|
 | **Durum** | **Üretimde** | Üretimi durduruldu | Üretimi durduruldu | Üretimi durduruldu |
 | **Fiyat** | $26 | — | — | — |
-| **Satan mağaza** | 3 mağazanın tümü | — | — | — |
+| **Satıcılar** | Üçü de | — | — | — |
 | **Cihazlar arasında geçiş** | 2 cihaz | 1 cihaz | 1 cihaz | 1 cihaz |
-| **Pil** | ~5–6 saat | ~5–6 saat | ~3–4 saat | ~3–4 saat |
+| **Pil** | ~5–6 sa | ~5–6 sa | ~3–4 sa | ~3–4 sa |
 | **Ses** | Ayarlanmış ve dengeli | Dengeli | Standart | Temel |
 | **Kablosuz şarj** | ✅ | ✅ | Temel | ❌ Yalnızca kablolu |
-| **Yapı ve menteşe** | Elektroliz kaplama metal | Metal menteşe | Metal menteşe | Temel / plastik |
+| **Kasa ve menteşe** | Elektro kaplama metal | Metal menteşe | Metal menteşe | Temel / plastik |
 | **EQ ve ayarlar için uygulama** | FlyCC / CloudCC | FlyCC | — | — |
 | **iOS desteği** | iOS 27 | iOS 27 | iOS 27 | Temel |
 
@@ -46,10 +48,10 @@ Satıcıların 3 Kasım 2026 tarihindeki fiyatları; güncel fiyatlar için [sat
 :::
 
 ::: info Üretimi durdurulan Gen 2 modelleri
-Üreticiler aşağıdaki eski Gen 2 modellerinin üretimini durdurmuştur:
+Aşağıdaki eski Gen 2 modellerinin üreticiler tarafından üretimi durdurulmuştur:
 - **V3M**, **V3U** ve **V3F** (Airoha 1562M/F)
 - **V3** ve **V2.5** (Airoha 1536)
 - **V2** ve **V1.5** (Airoha 1536 / JL)
 :::
 
-Satın almaya hazır mısınız? [AirPods 2 satın alma bağlantılarımıza](/tr/links/airpods-2) ve [sipariş verme kılavuzumuza](/tr/ordering/how-to-buy) göz atın.
+Satın almaya hazır mısınız? [AirPods 2 satın alma bağlantılarımıza](/tr/links/airpods-2) ve [sipariş kılavuzumuza](/tr/ordering/how-to-buy) göz atın.

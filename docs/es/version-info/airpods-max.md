@@ -1,17 +1,17 @@
 ---
-title: 'Versiones réplica de AirPods Max: V3 Metal vs. V3P'
+title: Versiones réplica de AirPods Max comparadas
 description: 'Comparativa de las versiones réplica de AirPods Max: la V3 Metal, la V3P más barata y las antiguas V2 y V2.5, según el chip, la cancelación de ruido, el seguimiento de cabeza y el precio.'
 ---
 # AirPods Max
 
 <div class="pick-cards">
 
-- <span class="pick-label">Mejor en general</span> **V3 Metal** · $126–127<br>Copas metálicas, cancelación de ruido híbrida mejorada y audio espacial con seguimiento de la cabeza. [Descripción general de V3](#v3-overview)
-- <span class="pick-label">Precio más bajo</span> **V3P** · $85–93<br>Carcasa de plástico y acero y un chipset más antiguo, por lo que no es simplemente la V3 en una carcasa de plástico. No tiene seguimiento de la cabeza. [Descripción general de V3](#v3-overview)
+- <span class="pick-label">Mejor en general</span> **V3 Metal** · $126–127<br>Copas metálicas, cancelación de ruido híbrida mejorada y audio espacial con seguimiento de la cabeza. [Descripción general de V3](#v3-overview)<span class="pick-buy">Comprar en [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
+- <span class="pick-label">Precio más bajo</span> **V3P** · $85–93<br>Carcasa de plástico y acero, y un chipset más antiguo; no es simplemente un V3 en una carcasa de plástico. Sin seguimiento de la cabeza. [Descripción general de V3](#v3-overview)<span class="pick-buy">Comprar en [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
 </div>
 
-Estos son los precios que cobraban los vendedores el 3 de noviembre de 2026; consulta los [enlaces de compra](/es/links/airpods-max) para ver los precios actuales. Haz clic en el nombre de una versión de la tabla para leer las reseñas de la comunidad.
+Estos son los precios que cobraban los vendedores el 3 de noviembre de 2026; consulta los [enlaces de compra](/es/links/airpods-max) para ver los precios actuales. Haz clic en el nombre de una versión en la tabla para leer las reseñas de la comunidad.
 
 <div class="compare-table">
 
@@ -32,15 +32,15 @@ Estos son los precios que cobraban los vendedores el 3 de noviembre de 2026; con
 
 <div class="compare-notes">
 
-¹ Especificaciones del vendedor comprobadas el 22 de septiembre de 2026: [Jenny V3](https://jenny.airreps.info/product/max-v3-tb/), [Jenny V3P](https://jenny.airreps.info/product/max-v3p-tb/) y [Earhive V3P](https://earhive.com/product/max-v3p-tb/). La cifra de 45 dB de ANC y las cifras de 20 horas de batería son afirmaciones de los vendedores, no mediciones comparables de la comunidad. La autonomía depende del volumen, la ANC, el firmware y el lote; las estimaciones anteriores de 35–50 horas de la guía no estaban respaldadas por una prueba documentada.
+¹ Especificaciones del vendedor verificadas el 22 de septiembre de 2026: [Jenny V3](https://jenny.airreps.info/product/max-v3-tb/), [Jenny V3P](https://jenny.airreps.info/product/max-v3p-tb/) y [Earhive V3P](https://earhive.com/product/max-v3p-tb/). La cifra de 45 dB de ANC y las 20 horas de batería son afirmaciones de los vendedores, no mediciones comparables de la comunidad. La autonomía depende del volumen, la ANC, el firmware y el lote; las estimaciones anteriores de 35–50 horas de la guía no estaban respaldadas por una prueba documentada.
 
 ² En la versión V2.5 con Realtek. [Detalles de V2 y V2.5](#v2-v2-5-version-differences)
 
 </div>
 
 ::: tip Todas las versiones de AirPods Max incluyen
-Todos los modelos Max incluyen: diseño circumaural con diadema de malla, rueda Digital Crown para el volumen y la reproducción, botón específico para el control de ruido, detección de oído / de colocación en la cabeza, compartir audio y compatibilidad con iOS 27, incluida la ventana emergente de la página «Acerca de».
-*(Nota: ninguna réplica iguala la profundidad de la ANC de los Max originales ni es compatible con la red cifrada Buscar de Apple.)*
+Todos los modelos Max incluyen: diseño circumaural con diadema de malla, rueda Digital Crown para el volumen y la reproducción, botón específico de control de ruido, detección de inserción en el oído y de uso sobre la cabeza, compartir audio y compatibilidad con iOS 27, con ventana emergente en la página «Acerca de».
+*(Nota: ninguna réplica iguala la profundidad de ANC de los Max originales ni es compatible con la red cifrada Buscar de Apple.)*
 :::
 
 ::: details Detalles técnicos: chipsets y cancelación de ruido
@@ -57,19 +57,19 @@ Todos los modelos Max incluyen: diseño circumaural con diadema de malla, rueda 
 :::
 
 ::: info Modelos Max descatalogados
-Los siguientes modelos antiguos han sido descatalogados por los fabricantes y ya no se recomiendan:
+Los siguientes modelos anteriores han sido descatalogados por los fabricantes y ya no se recomiendan:
 - **V2 BES** (BES 2600IHC)
 - **V2 Plastic**
 - **V1.6** y **V1.5** (Bluetrum 8892E)
-- **V1 P9 Max** (carcasa genérica barata)
+- **V1 P9 Max** (carcasa genérica económica)
 :::
 
 ## Descripción general de V3 {#v3-overview}
 
-V3 supone una mejora considerable respecto a V2.5, con un chipset diferente (Airoha 1562AE) y funciones mejoradas, como ANC híbrida mejorada, audio espacial con seguimiento de la cabeza y opciones de construcción metálica. La versión V3 Metal ofrece copas metálicas mullidas y una diadema metálica, mientras que la versión V3P tiene una estructura de plástico. Ambas usan USB-C, pero la V3P conserva la antigua plataforma Airoha 1561M y no incorpora el seguimiento de la cabeza de V3. No des por hecho que el rendimiento de audio o la duración de la batería sean iguales por tener un diseño similar.
+V3 supone una mejora importante con respecto a V2.5: incorpora un chipset diferente (Airoha 1562AE) y funciones mejoradas, como ANC híbrida mejorada, audio espacial con seguimiento de la cabeza y opciones de construcción metálica. La versión V3 Metal ofrece copas y diadema de metal acolchadas, mientras que la versión V3P está fabricada en plástico. Ambas usan USB-C, pero la V3P conserva la plataforma anterior Airoha 1561M y no incluye el seguimiento de la cabeza de V3. No des por sentado que el rendimiento de audio ni la duración de la batería sean idénticos por compartir el mismo diseño.
 
 ## Diferencias entre las versiones V2 y V2.5: {#v2-v2-5-version-differences}
 
-**V2 TB**: El modelo V2 ofrece una calidad de sonido satisfactoria y admite ajustes de ecualización mediante FlyCC. Tiene una carcasa más rígida y permite estar preparado para el futuro gracias a la posibilidad de actualizar el firmware.
+**V2 TB**: El modelo V2 ofrece una calidad de sonido satisfactoria y permite ajustar la ecualización mediante FlyCC. Tiene una carcasa más rígida y está preparado para el futuro gracias a la posibilidad de actualizar el firmware.
 
-**V2.5**: Esta versión mejorada ofrece una cancelación activa del ruido (ANC) más eficaz y un modo de transparencia mejorado. También tiene un diseño de diadema superior al de V2. La versión Realtek 8763ESE admite actualizaciones de firmware OTA y conexión con dos dispositivos. ¿Listo para comprar? Consulta nuestros [enlaces de compra de AirPods Max](/es/links/airpods-max).
+**V2.5**: Esta versión mejorada ofrece una cancelación activa de ruido (ANC) más eficaz y un modo de transparencia mejorado. También tiene una diadema de diseño superior a la de V2. La versión Realtek 8763ESE admite actualizaciones de firmware OTA y conexión a dos dispositivos. ¿Listo para comprar? Consulta nuestros [enlaces de compra de AirPods Max](/es/links/airpods-max).
