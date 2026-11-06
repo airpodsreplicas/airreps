@@ -13,10 +13,10 @@ hero:
   actions:
     - theme: brand
       text: Прочитать полное руководство
-      link: introduction/overview
+      link: /ru/introduction/overview
     - theme: alt
       text: Пройти тест
-      link: quiz
+      link: /ru/quiz
     - theme: alt
       text: Посмотреть проверенных продавцов
       link: /ru/links/info
@@ -29,7 +29,7 @@ features:
   - icon: ⏰
     title: Актуальная информация
     details: 'Все ресурсы, руководства и приложения всегда поддерживаются в актуальном состоянии нашей преданной командой.'
-    link: /introduction/overview
+    link: /ru/introduction/overview
     linkText: Прочитать руководство
   - icon: "💸"
     title: Список проверенных продавцов

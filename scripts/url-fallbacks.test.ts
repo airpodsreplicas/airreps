@@ -7,7 +7,9 @@ import {
     injectNotFoundFix,
     notFoundFixScript,
     pagesNeedingSlashStub,
+    SECTION_START_PAGES,
     slashRedirectHtml,
+    writeSectionRootRedirects,
     writeTrailingSlashRedirects,
 } from '../docs/.vitepress/url-fallbacks';
 
@@ -74,6 +76,46 @@ describe('trailing-slash stubs', () => {
     });
 });
 
+describe('section root forwards', () => {
+    test('forward each section folder to its start page, per locale, without clobbering', () => {
+        const dir = mkdtempSync(path.join(tmpdir(), 'airreps-dist-'));
+        try {
+            const pages = [
+                ...Object.values(SECTION_START_PAGES).map((p) => `${p}.html`),
+                'de/links/info.html',
+                'articles/index.html',
+            ];
+            for (const file of pages) {
+                mkdirSync(path.dirname(path.join(dir, file)), { recursive: true });
+                writeFileSync(path.join(dir, file), '<!doctype html>');
+            }
+            // An existing index page is never replaced.
+            mkdirSync(path.join(dir, 'ordering'), { recursive: true });
+            writeFileSync(path.join(dir, 'ordering/index.html'), 'real');
+
+            expect(writeSectionRootRedirects(dir)).toEqual([
+                '/introduction/',
+                '/links/',
+                '/troubleshooting/',
+                '/version-info/',
+                '/de/links/',
+            ]);
+            expect(readFileSync(path.join(dir, 'links/index.html'), 'utf8')).toBe(
+                slashRedirectHtml('/links/info')
+            );
+            expect(readFileSync(path.join(dir, 'de/links/index.html'), 'utf8')).toBe(
+                slashRedirectHtml('/de/links/info')
+            );
+            expect(readFileSync(path.join(dir, 'ordering/index.html'), 'utf8')).toBe('real');
+            // No start page in that locale, no forward.
+            expect(existsSync(path.join(dir, 'de/version-info/index.html'))).toBe(false);
+            expect(writeSectionRootRedirects(dir)).toEqual([]);
+        } finally {
+            rmSync(dir, { force: true, recursive: true });
+        }
+    });
+});
+
 describe('404 fallback for mistyped URLs', () => {
     test('strips text glued after a closing parenthesis and .md suffixes', () => {
         expect(fixMistypedPath('/links/info)de')).toBe('/links/info');
@@ -82,6 +124,14 @@ describe('404 fallback for mistyped URLs', () => {
         expect(fixMistypedPath('/index.md')).toBe('/');
         expect(fixMistypedPath('/ordering/how-to-buy.md')).toBe('/ordering/how-to-buy');
         expect(fixMistypedPath('/da/index.md')).toBe('/da/');
+    });
+
+    test('maps old /links/info/<page> relative-link leftovers to the links page', () => {
+        expect(fixMistypedPath('/links/info/pro')).toBe('/links/pro');
+        expect(fixMistypedPath('/de/links/info/pro')).toBe('/de/links/pro');
+        expect(fixMistypedPath('/es/links/info/airpods-max/')).toBe('/es/links/airpods-max');
+        expect(fixMistypedPath('/links/info/airpods-pro-2)de')).toBe('/links/airpods-pro-2');
+        expect(fixMistypedPath(fixMistypedPath('/de/links/info/pro') ?? '')).toBeNull();
     });
 
     test('leaves everything else on the 404 page, so it can never loop', () => {

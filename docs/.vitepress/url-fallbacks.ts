@@ -56,10 +56,45 @@ export function writeTrailingSlashRedirects(outDir: string): string[] {
     return urls;
 }
 
+// Section folders have no page of their own, so /links/, /version-info/,
+// /introduction/ ... (and /links, which GitHub Pages 301s to /links/) were
+// 404s in every language; Search Console still lists them. Each one forwards
+// to its section's start page.
+export const SECTION_START_PAGES: Record<string, string> = {
+    introduction: 'introduction/overview',
+    links: 'links/info',
+    ordering: 'ordering/how-to-buy',
+    troubleshooting: 'troubleshooting/other-common-bugs',
+    'version-info': 'version-info/general',
+};
+
+const LOCALE_DIRS = ['', 'da', 'de', 'es', 'fr', 'pl', 'pt', 'ru', 'tr'];
+
+/** Write `<locale>/<section>/index.html` forwards; returns the section URLs covered. */
+export function writeSectionRootRedirects(outDir: string): string[] {
+    const urls: string[] = [];
+    for (const locale of LOCALE_DIRS) {
+        const base = locale ? `${locale}/` : '';
+        for (const [section, start] of Object.entries(SECTION_START_PAGES)) {
+            const file = path.join(outDir, base, section, 'index.html');
+            const startPage = path.join(outDir, `${base}${start}.html`);
+            if (fs.existsSync(file) || !fs.existsSync(startPage)) {
+                continue;
+            }
+            fs.mkdirSync(path.dirname(file), { recursive: true });
+            fs.writeFileSync(file, slashRedirectHtml(`/${base}${start}`));
+            urls.push(`/${base}${section}/`);
+        }
+    }
+    return urls;
+}
+
 /**
- * Where a mistyped guide URL should go, or null to keep the 404. Only strips
- * text after a `)` and a `.md`/`index.md` suffix, so the result never matches
- * again and the 404 page cannot loop. Runs in the browser on the 404 page.
+ * Where a mistyped guide URL should go, or null to keep the 404. Strips text
+ * after a `)` and a `.md`/`index.md` suffix, and maps the old relative-link
+ * leftovers /links/info/<page> (any locale) to /links/<page>. None of the
+ * results match again, so the 404 page cannot loop. Runs in the browser on the
+ * 404 page, so it must stay self-contained.
  */
 export function fixMistypedPath(pathname: string): string | null {
     let p = pathname;
@@ -71,7 +106,8 @@ export function fixMistypedPath(pathname: string): string | null {
     const fixed = p
         .replace(/\).*$/, '')
         .replace(/(^|\/)index\.md$/, '$1')
-        .replace(/\.md$/, '');
+        .replace(/\.md$/, '')
+        .replace(/^((?:\/[a-z]{2})?\/links)\/info\/([A-Za-z0-9-]+)\/?$/, '$1/$2');
     return fixed && fixed !== p ? fixed : null;
 }
 

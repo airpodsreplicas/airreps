@@ -1,6 +1,6 @@
 ---
 title: "Do AirPods Replicas Work With Android?"
-description: "Yes — here's how AirPods replicas behave on Android: pairing, which features work, why the best firmware apps are Android-only, and what to check before buying."
+description: "Yes — here's how AirPods replicas behave on Android: pairing, which features work, why most firmware apps are Android-only, and what to check before buying."
 category: "Using your reps"
 order: 4
 ---

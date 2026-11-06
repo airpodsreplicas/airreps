@@ -26,7 +26,7 @@ Befolgen Sie diese Schritte, um einen Hard Reset an Ihren AirPods-Replikaten dur
 ## **Öffnen von AirPods-Replikaten**
 Beim Bestellen auf Seiten wie AliExpress von nicht verifizierten Verkäufern können falsch beworbene AirPods-Klone ankommen. Sie können die App für den Chipset verwenden, um zu prüfen, ob Sie den richtigen Chip erhalten haben. Allerdings reicht das Zeigen der App oft nicht als Beweis aus. Möglicherweise müssen Sie die AirPods öffnen und ein Foto des Chipsets als Nachweis machen. So können Sie das tun, ohne die AirPods zu beschädigen:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Audio/Video pausiert häufig bei AirPods-Replikaten**
 Häufiges Pausieren von Audio oder Video bei Nutzung von AirPods-Replikaten ist ein häufiges Problem, das oft durch die [In-Ear-Erkennungssensoren](/de/introduction/features#in-ear-sensors) (bei Pro-Modellen) verursacht wird. Dieses Problem kann auch auftreten, wenn die AirPods nicht fest im Ohr sitzen. Zur Behebung können Sie entweder andere Ohrstöpsel auswählen (bei Pro-Modellen) oder die In-Ear-Erkennung in den Einstellungen deaktivieren.
@@ -34,7 +34,7 @@ Häufiges Pausieren von Audio oder Video bei Nutzung von AirPods-Replikaten ist 
 ## **AirPods-Replikate bleiben nach Schließen des Ladecases verbunden**
 Einige Benutzer von AirPods-Replikaten erleben das Problem, dass die AirPods nach dem Schließen des Ladecases weiterhin mit ihrem Gerät verbunden bleiben. Dies wird typischerweise durch einen Defekt der Magnete und des Hall-Sensors im Case verursacht, die dafür verantwortlich sind, die Position der AirPods zu erkennen. Zur Behebung dieses Problems folgen Sie den Schritten im folgenden YouTube-Tutorial:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Schlechte Klangqualität oder Bass-Probleme mit AirPods-Replikaten auf iOS**
 Einige Benutzer von AirPods-Replikaten können Probleme mit der Klangqualität oder dem Bass auf iOS-Geräten feststellen. Dies wird typischerweise durch die standardmäßig aktivierte Funktion „Headphone Accommodations“ verursacht. Zur Behebung gehen Sie zu Einstellungen > Bedienungshilfen > Audio/Visuell > Headphone Accommodations und schalten Sie sie aus.

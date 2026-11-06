@@ -13,10 +13,10 @@ hero:
   actions:
     - theme: brand
       text: Leer la guía definitiva
-      link: introduction/overview
+      link: /es/introduction/overview
     - theme: alt
       text: Haz el cuestionario
-      link: quiz
+      link: /es/quiz
     - theme: alt
       text: Ver vendedores de confianza
       link: /es/links/info
@@ -29,7 +29,7 @@ features:
   - icon: ⏰
     title: Al día
     details: 'Todos los recursos, guías y aplicaciones se mantienen siempre al día gracias a nuestro equipo dedicado.'
-    link: /introduction/overview
+    link: /es/introduction/overview
     linkText: Leer la guía
   - icon: "💸"
     title: Lista de vendedores de confianza

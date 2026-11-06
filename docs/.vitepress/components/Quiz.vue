@@ -1356,9 +1356,9 @@ const product = computed<ProductRec | null>(() => {
                 subtitle: 'Airoha 1561M — Budget over-ear with plastic build',
                 priceKey: 'max-v3p-tb',
                 reasons: [
-                    'Solid ANC with spatial audio & head tracking',
+                    'Hybrid ANC; no head-tracking spatial audio',
                     'Plastic ear cups and headband keep the price down',
-                    'Same core audio experience as V3 at a lower cost',
+                    "Older Airoha 1561M chipset, so it isn't simply the V3 in a plastic case",
                 ],
                 links: [
                     { text: 'AirPods Max Version Info', url: '/version-info/airpods-max' },
@@ -1374,7 +1374,7 @@ const product = computed<ProductRec | null>(() => {
             reasons: [
                 'Metal ear cups and headband — premium build quality',
                 'Upgraded hybrid ANC with spatial audio & head tracking',
-                '~50 hours battery life',
+                '20-hour battery (seller-listed)',
                 needsMac.value
                     ? 'Works with macOS — check the volume slider fix in troubleshooting'
                     : 'Great with all devices',
@@ -1527,7 +1527,7 @@ const product = computed<ProductRec | null>(() => {
                 reasons: [
                     'Newest Pro form factor with Huilian chip for Mac compatibility',
                     `iCloud Connect & Live Translation at just $${prices['pro3-v6-huilian']}`,
-                    'Good ANC, spatial audio, iOS 26 support',
+                    'Good ANC, spatial audio, iOS 27 support',
                     `Step up to V7 Huilian ($${prices['pro3-v7-huilian']}) for heart rate, head gestures & stronger ANC`,
                     `Also consider: AirPods 2 V3E ($${prices['gen2-v3e']}) for ultra-budget`,
                 ],
@@ -1594,7 +1594,7 @@ const product = computed<ProductRec | null>(() => {
             subtitle: 'Airoha 1571AM — Community favorite, best ANC',
             priceKey: 'pro2-v5.3-tb',
             reasons: [
-                'Highest ANC: 34.5 dB average, 41 dB peak — best on any rep',
+                'Best ANC of the V5.3 builds: 34.5 dB average, 41 dB peak',
                 '8h battery without ANC, 6h with ANC — longest in the Pro 2 lineup',
                 'Sweatproof white case, excellent spatial audio with ST gyroscope',
                 'The most tried-and-tested version — proven stability',
@@ -1645,7 +1645,7 @@ const product = computed<ProductRec | null>(() => {
         priceKey: 'pro3-v5.5',
         reasons: [
             `Pro 3 form factor at just $${prices['pro3-v5.5']}`,
-            'Decent ANC, transparency mode, iOS 26 popup',
+            'Decent ANC, transparency mode, Pro 3 iOS popup',
             `Step up to V6 TB ($${prices['pro3-v6-tb']}) for stronger ANC and better build`,
             `Also consider: AirPods 2 V3E ($${prices['gen2-v3e']}) for ultra-budget, or the flagship V7 TigerBuilder ($${prices['pro3-v7-tb']}) — the newest and best Pro 3`,
         ],
@@ -1802,15 +1802,6 @@ function restart() {
         <li v-for="(reason, i) in product.reasons" :key="i">{{ reason }}</li>
       </ul>
 
-      <div class="quiz-result-links">
-        <h4>{{ t('learnMore') }}</h4>
-        <div class="quiz-link-list">
-          <a v-for="link in product.links" :key="link.url" :href="localeUrl(link.url)" class="quiz-link">
-            {{ link.text }} &rarr;
-          </a>
-        </div>
-      </div>
-
       <div class="quiz-result-buy">
         <h4>{{ t('readyToBuy') }}</h4>
 
@@ -1882,6 +1873,15 @@ function restart() {
           </a>
           <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allLinksWeidian') }} &rarr;
+          </a>
+        </div>
+      </div>
+
+      <div class="quiz-result-links">
+        <h4>{{ t('learnMore') }}</h4>
+        <div class="quiz-link-list">
+          <a v-for="link in product.links" :key="link.url" :href="localeUrl(link.url)" class="quiz-link">
+            {{ link.text }} &rarr;
           </a>
         </div>
       </div>

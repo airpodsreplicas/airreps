@@ -77,13 +77,21 @@ describe('IndexNow URLs', () => {
             'docs/.vitepress/config.ts',
             'docs/.vitepress/theme/index.ts',
             'docs/.vitepress/components/Quiz.vue',
-            'docs/public/llms-full.txt',
             'docs/public/notes.md',
+            'docs/public/robots.txt',
             'README.md',
             'scripts/indexnow-urls.ts',
         ];
         expect(internals.filter(isPage)).toEqual([]);
         expect(urls(internals)).toEqual([]);
+    });
+
+    test('changed llms files are submitted by their own URL', () => {
+        expect(urls(['docs/public/llms-full.txt', 'docs/public/llms.txt'])).toEqual([
+            '/llms-full.txt',
+            '/llms.txt',
+        ]);
+        expect(isPage('docs/public/llms.txt')).toBe(false);
     });
 
     test('null or unknown before SHAs fall back to the head commit', () => {
@@ -143,6 +151,7 @@ describe('IndexNow URLs', () => {
                 '/articles/new-name',
                 '/articles/old-name',
                 '/articles/retired',
+                '/llms.txt',
                 '/version-info/pro',
             ].map((route) => `${ORIGIN}${route}`);
             expect(collectChangedUrls(repo, before, after)).toEqual(expected);

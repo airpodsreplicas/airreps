@@ -26,7 +26,7 @@ Sigue estos pasos para realizar un reinicio forzado en tus réplicas de AirPods:
 ## **Abrir réplicas de AirPods**
 Al pedir en sitios como AliExpress a vendedores no verificados, puedes recibir clones mal etiquetados de AirPods. Puedes usar la app del chipset para verificar que recibiste el chipset correcto. Sin embargo, mostrar solo la app a menudo no es prueba suficiente. Puede que necesites abrir los AirPods y tomar una foto del chipset como prueba. Aquí tienes cómo puedes hacerlo, sin dañar los AirPods:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Audio/video que se pausa frecuentemente con réplicas de AirPods**
 La pausa frecuente de audio o video al usar réplicas de AirPods es un problema común, a menudo causado por los [sensores de detección intraaural](/es/introduction/features#in-ear-sensors) (en modelos Pro). Este problema también puede ocurrir si los AirPods no se ajustan bien en tu oído. Para solucionar este problema, puedes elegir otras almohadillas (en modelos Pro) o desactivar la detección intraaural desde los ajustes.
@@ -34,7 +34,7 @@ La pausa frecuente de audio o video al usar réplicas de AirPods es un problema 
 ## **Las réplicas de AirPods permanecen conectadas después de cerrar el estuche de carga**
 Algunos usuarios de réplicas de AirPods pueden experimentar un problema donde los AirPods permanecen conectados a su dispositivo incluso después de cerrar el estuche de carga. Esto suele ser causado por un mal funcionamiento de los imanes y el sensor Hall dentro del estuche, que son responsables de detectar la posición de los AirPods. Para solucionar este problema, sigue los pasos descritos en el siguiente tutorial de YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Mala calidad de sonido o problemas de bajos con réplicas de AirPods en iOS**
 Algunos usuarios de réplicas de AirPods pueden experimentar problemas con la calidad de sonido o los bajos en dispositivos iOS. Esto suele ser causado por la función "Headphone Accommodations", que viene habilitada por defecto en iOS. Para solucionar este problema, ve a Ajustes > Accesibilidad > Audio / Visual > Headphone Accommodations y desactívala.

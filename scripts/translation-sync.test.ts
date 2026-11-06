@@ -1,6 +1,7 @@
 import { describe, expect, test } from 'bun:test';
 import {
     collectTranslatableStrings,
+    localizeFrontmatterLinks,
     restoreBodyUrls,
     runPool,
     translateBody,
@@ -46,6 +47,34 @@ describe('translation sync', () => {
             '[Uygulama](/tr/useful-apps)'
         );
         expect(calls).toBe(2);
+    });
+
+    test('points locale home buttons at the locale pages, not the English ones', () => {
+        const data = {
+            features: [
+                { link: 'https://airreps.link/discord', title: 'Discord' },
+                { link: '/introduction/overview', title: 'Guide' },
+            ],
+            hero: {
+                actions: [
+                    { link: '/introduction/overview', text: 'Read the guide' },
+                    { link: '/quiz', text: 'Take the quiz' },
+                    { link: '/de/links/info', text: 'Sellers' },
+                ],
+            },
+            image: '/logo.webp',
+        };
+        localizeFrontmatterLinks(data, 'de');
+        expect(data.hero.actions.map((a) => a.link)).toEqual([
+            '/de/introduction/overview',
+            '/de/quiz',
+            '/de/links/info',
+        ]);
+        expect(data.features.map((f) => f.link)).toEqual([
+            'https://airreps.link/discord',
+            '/de/introduction/overview',
+        ]);
+        expect(data.image).toBe('/logo.webp');
     });
 
     test('translates article labels while retaining machine-facing metadata', () => {

@@ -265,6 +265,28 @@ export function collectTranslatableStrings(data) {
     return refs;
 }
 
+// Frontmatter `link:` values (home hero buttons and feature cards) are copied
+// from the English source, so without this every locale home sent readers to
+// the English guide and quiz. Same rules as body links: only internal
+// root-relative links get the /{locale} prefix.
+export function localizeFrontmatterLinks(node, locale) {
+    if (Array.isArray(node)) {
+        node.forEach((item) => localizeFrontmatterLinks(item, locale));
+        return node;
+    }
+    if (!node || typeof node !== 'object') {
+        return node;
+    }
+    for (const [key, value] of Object.entries(node)) {
+        if (key === 'link' && typeof value === 'string') {
+            node[key] = localizeUrl(value, locale);
+        } else if (value && typeof value === 'object') {
+            localizeFrontmatterLinks(value, locale);
+        }
+    }
+    return node;
+}
+
 function setAtPath(obj, pathArr, value) {
     let cur = obj;
     for (let i = 0; i < pathArr.length - 1; i++) {
@@ -342,6 +364,7 @@ async function translateDocument(openai, sourcePath, targetPath, locale, languag
     refs.forEach((ref, i) => {
         setAtPath(translatedData, ref.path, translatedStrings[i]);
     });
+    localizeFrontmatterLinks(translatedData, locale);
 
     // gray-matter.stringify uses js-yaml, which always emits syntactically
     // valid YAML. This is the linchpin of the fix — the model never produces

@@ -13,10 +13,10 @@ hero:
   actions:
     - theme: brand
       text: Kapsamlı Rehberi Oku
-      link: introduction/overview
+      link: /tr/introduction/overview
     - theme: alt
       text: Teste Katıl
-      link: quiz
+      link: /tr/quiz
     - theme: alt
       text: Güvenilir Satıcıları Görüntüle
       link: /tr/links/info
@@ -29,7 +29,7 @@ features:
   - icon: ⏰
     title: Güncel
     details: 'Tüm kaynaklar, rehberler ve uygulamalar özverili ekip üyelerimiz tarafından her zaman güncel tutulur.'
-    link: /introduction/overview
+    link: /tr/introduction/overview
     linkText: Rehberi Oku
   - icon: "💸"
     title: Güvenilir satıcı listesi

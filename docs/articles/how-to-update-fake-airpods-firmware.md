@@ -7,11 +7,11 @@ order: 16
 
 # How to Update Fake AirPods Firmware: Step-by-Step Guide
 
-Unlike genuine Apple AirPods, which update silently in the background via iOS, AirPods replicas update through community companion apps running on Android or macOS. Updating firmware can resolve iOS handshake bugs, improve Active Noise Cancellation (ANC) stability, or fix connection drops.
+Unlike genuine Apple AirPods, which update silently in the background via iOS, AirPods replicas update through community companion apps running on Android, iOS or macOS. Updating firmware can resolve iOS handshake bugs, improve Active Noise Cancellation (ANC) stability, or fix connection drops.
 
 However, flashing firmware writes directly to the earbud's internal flash storage. An interrupted update can permanently brick a controller. This guide covers the safe, community-tested flashing procedures for every major replica chipset.
 
-> **Quick Answer:** To update replica AirPods firmware, first identify your chipset to choose the correct utility: **FlyCC** (Airoha), **CloudCC** (TigerBuilder), or **Starfun** (Huilian). Ensure both earbuds and the charging case are charged above 80%. Keep the case lid open, leave both earbuds seated inside, start the OTA update in the app, and do not close the lid, toggle Bluetooth, or exit the app until the progress reaches 100%.
+> **Quick Answer:** To update replica AirPods firmware, first identify your chipset to choose the correct utility: **FlyCC** (Airoha, including TigerBuilder) or **Starfun** (Huilian). Ensure both earbuds and the charging case are charged above 80%. Keep the case lid open, leave both earbuds seated inside, start the OTA update in the app, and do not close the lid, toggle Bluetooth, or exit the app until the progress reaches 100%.
 
 ::: warning The Cardinal Rule: If it works, don't touch it
 Firmware updates on replicas do not function like video game patches. They are released primarily to fix breaking changes caused by major iOS updates or to resolve severe hardware bugs. If your earbuds currently connect smoothly, sound great, and ANC operates without flaw, **do not update firmware**. Unnecessary flashing only introduces bricking risk.
@@ -30,10 +30,10 @@ Before touching the update button, verify these four conditions without exceptio
 
 Flashing a firmware binary intended for an Airoha chip onto a Huilian board will instantly brick the unit. Match your utility to your chip from our [Useful Apps catalog](/useful-apps):
 
-- **Airoha Chipsets (1562AE, 1562E, 1571AM)** $\to$ Use **FlyCC** (Read our [FlyCC App Guide](/articles/flycc-app-guide)).
-- **TigerBuilder Chipsets (1562AE/TB, 1571AM/TB)** $\to$ Use **CloudCC**.
-- **Huilian Chipsets (247, 277, 377, 377H3)** $\to$ Use **Starfun**.
-- **Jieli (Jerry) Chipsets** $\to$ Low-tier Jieli clones do not support OTA firmware updates.
+- **Airoha Chipsets (1562AE, 1562E, 1571AM)** → Use **FlyCC** (Read our [FlyCC App Guide](/articles/flycc-app-guide)).
+- **TigerBuilder Chipsets (1562AE/TB, 1571AM/TB)** → Use **FlyCC**. CloudCC has been deprecated since TigerBuilder integrated OTA functionality into FlyCC; only use it as a workaround if you encounter the storage permission issue.
+- **Huilian Chipsets (247, 277, 377, 377H3)** → Use **Starfun**.
+- **Jieli (Jerry) Chipsets** → Low-tier Jieli clones do not support OTA firmware updates.
 
 ## Step 2: Step-by-step update procedures
 
@@ -47,7 +47,9 @@ Flashing a firmware binary intended for an Airoha chip onto a Huilian board will
 6. Once the progress hits 100%, wait for the message: *"Update Successful"*.
 7. Close the charging case lid and leave it undisturbed for 60 seconds to allow the microcontrollers to reboot.
 
-### Method B: Updating with CloudCC (TigerBuilder)
+### Method B: CloudCC workaround (TigerBuilder)
+
+TigerBuilder units update through FlyCC (Method A). Only use CloudCC if FlyCC runs into the storage permission issue:
 
 1. Place both earbuds in the case with the lid open.
 2. Open **CloudCC** and tap **Search Device**.
