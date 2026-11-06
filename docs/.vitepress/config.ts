@@ -8,6 +8,7 @@ import {
     type HeadConfig,
     type PageData,
 } from 'vitepress';
+import { stampLlmsFiles } from './llms-files';
 import { createPageDates } from './page-dates';
 import { productFamiliesPlugin } from './plugins/product-families';
 import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
@@ -727,7 +728,10 @@ const synthetic404Head: HeadConfig[] = synthetic404Page.frontmatter.head;
 // https://vitepress.dev/reference/site-config
 export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: HeadConfig[] }>({
     base: '/',
-    buildEnd: (site) => writeProductRedirects(site.outDir),
+    buildEnd: (site) => {
+        writeProductRedirects(site.outDir);
+        stampLlmsFiles(site.outDir, repoRoot);
+    },
     cleanUrls: true,
     description: 'A community for the discussion and exploration of AirPods clones.',
 

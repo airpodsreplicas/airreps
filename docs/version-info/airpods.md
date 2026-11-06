@@ -1,13 +1,13 @@
 ---
-title: "AirPods Replica Versions"
-description: "Compare generations and replica versions below. Choose a generation to jump to its details."
+title: "AirPods 4, 3 & 2 Replica Versions Compared"
+description: "AirPods 4, 3 and 2 replica versions compared, from the AirPods 4 V3 TB and V2 Huilian to the AirPods 3 V1E and AirPods 2 V3E, by chip, features and price."
 ---
 
 <!-- product-family -->
 
 # AirPods
 
-Compare generations and replica versions below. Choose a generation to jump to its details.
+Every standard AirPods replica generation on one page: AirPods 4, AirPods 3 and AirPods 2, with AirPods 5 to follow. Choose a generation to jump to its picks, chips, features and what each version is missing.
 
 [AirPods 5 (Coming Soon)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
 

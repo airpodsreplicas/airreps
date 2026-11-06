@@ -1,6 +1,6 @@
 ---
-title: "AirPods Replica Firmware Apps"
-description: "Essential firmware update apps for AirPods replicas. Support for Airoha, TigerBuilder, BES, HR, and Huilian."
+title: "FlyCC, CloudCC & StarFun APKs for AirPods Replicas"
+description: "Download FlyCC, CloudCC, StarFun, BullSuper, HBluetooth and KKX for AirPods replicas, matched to your chipset: TigerBuilder, Huilian, HR, BES and KKX."
 ---
 
 # Useful Apps
