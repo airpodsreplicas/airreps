@@ -15,6 +15,7 @@ import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
 import { privacyLink } from './privacy-link';
 import { productDestination, productRedirectScript } from './product-routes';
 import { seasonScript } from './theme/season';
+import { injectNotFoundFix, writeTrailingSlashRedirects } from './url-fallbacks';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
 const docsDir = path.resolve(configDir, '..');
@@ -730,6 +731,8 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
     base: '/',
     buildEnd: (site) => {
         writeProductRedirects(site.outDir);
+        writeTrailingSlashRedirects(site.outDir);
+        injectNotFoundFix(site.outDir);
         stampLlmsFiles(site.outDir, repoRoot);
     },
     cleanUrls: true,

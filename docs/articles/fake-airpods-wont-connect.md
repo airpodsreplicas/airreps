@@ -1,5 +1,5 @@
 ---
-title: "Fake AirPods Won't Connect? Work Through This in Order"
+title: "Fake AirPods Won't Connect? How to Pair and Fix Them"
 description: "Fake AirPods not pairing or not showing up? Charge, forget and re-pair, check the iOS popup, identify the chip, and know when it's the unit and you should contact the seller."
 category: "Troubleshooting"
 order: 8
