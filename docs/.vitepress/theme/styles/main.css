@@ -446,3 +446,9 @@ iframe[src*="youtube"] {
 .vp-doc .compare-notes p {
   margin: 4px 0;
 }
+
+/* Room for the sale bar (components/SaleBanner.vue) so it never covers the
+   footer. The bar sets the height while it's showing. */
+body {
+  padding-bottom: var(--sale-banner-height, 0px);
+}
