@@ -16,10 +16,10 @@ hero:
   actions:
     - theme: brand
       text: Read the Ultimate Guide
-      link: introduction/overview
+      link: /introduction/overview
     - theme: alt
       text: Take the Quiz
-      link: quiz
+      link: /quiz
     - theme: alt
       text: View Trusted Sellers
       link: /links/info

@@ -9,13 +9,20 @@
 // Only page content counts. Config, theme and component changes under
 // docs/.vitepress can touch metadata on every page, but pinging all ~430 URLs
 // for a template tweak is noise; crawlers pick those up on their normal
-// recrawl. Static files in docs/public are not pages.
+// recrawl. Static files in docs/public are not pages, except the llms files:
+// AI assistants read them directly, so a changed one is submitted too.
 import { execFileSync } from 'node:child_process';
 import path from 'node:path';
 import { createIncludeResolver } from '../docs/.vitepress/page-dates';
 import { productDestination } from '../docs/.vitepress/product-routes';
 
 const ORIGIN = 'https://airpodsreplicas.com';
+
+// docs/public files that are submitted by URL when they change.
+export const PUBLIC_FILE_URLS: Record<string, string> = {
+    'docs/public/llms-full.txt': `${ORIGIN}/llms-full.txt`,
+    'docs/public/llms.txt': `${ORIGIN}/llms.txt`,
+};
 
 // Markdown files VitePress builds into pages (repo-relative paths).
 export function isPage(file: string): boolean {
@@ -47,6 +54,11 @@ export function changedPageUrls(
 ): string[] {
     const changedFiles = new Set(changed);
     const urls = new Set(changed.filter(isPage).map(pageUrl));
+    for (const file of changed) {
+        if (Object.hasOwn(PUBLIC_FILE_URLS, file)) {
+            urls.add(PUBLIC_FILE_URLS[file]);
+        }
+    }
     for (const page of pages) {
         if (includesOf(page).some((file) => changedFiles.has(file))) {
             urls.add(pageUrl(page));

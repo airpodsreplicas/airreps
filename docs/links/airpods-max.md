@@ -17,7 +17,7 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V3 (Metal)</span></td>
+    <td><span class="version-badge">V3 (Metal)</span><br>Sold as Max V3 TB</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Website</a>

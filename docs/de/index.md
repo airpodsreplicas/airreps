@@ -13,10 +13,10 @@ hero:
   actions:
     - theme: brand
       text: Den ultimativen Leitfaden lesen
-      link: introduction/overview
+      link: /de/introduction/overview
     - theme: alt
       text: Das Quiz machen
-      link: quiz
+      link: /de/quiz
     - theme: alt
       text: Vertrauenswürdige Verkäufer ansehen
       link: /de/links/info
@@ -29,7 +29,7 @@ features:
   - icon: ⏰
     title: Aktuell
     details: 'Alle Ressourcen, Anleitungen und Apps werden von unserem engagierten Team stets auf dem neuesten Stand gehalten.'
-    link: /introduction/overview
+    link: /de/introduction/overview
     linkText: Den Leitfaden lesen
   - icon: "💸"
     title: Liste vertrauenswürdiger Verkäufer

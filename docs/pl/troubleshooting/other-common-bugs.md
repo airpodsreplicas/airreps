@@ -26,7 +26,7 @@ Wykonaj następujące kroki, aby przeprowadzić twardy reset replik AirPods:
 ## **Otwieranie replik AirPods**
 Możesz otrzymać nieprawidłowo opisane klony AirPods zamawiając na stronach takich jak AliExpress od nieweryfikowanych sprzedawców. Możesz użyć aplikacji dla chipsetu, aby zweryfikować, że otrzymałeś właściwy chipset. Jednak samo pokazanie aplikacji często nie jest wystarczającym dowodem. Może być konieczne otwarcie AirPods i zrobienie zdjęcia chipsetu jako dowodu. Oto jak możesz to zrobić, nie uszkadzając słuchawek:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Częste pauzowanie audio/wideo podczas używania replik AirPods**
 Częste przerywanie odtwarzania audio lub wideo podczas korzystania z replik AirPods to częsty problem, często powodowany przez [czujniki wykrywania w uchu](/pl/introduction/features#in-ear-sensors) (w modelach Pro). Problem ten może także wystąpić, jeśli słuchawki nie leżą pewnie w uchu. Aby rozwiązać ten problem, możesz wybrać inne końcówki douszne (w modelach Pro) lub wyłączyć wykrywanie wkładania do ucha w ustawieniach.
@@ -34,7 +34,7 @@ Częste przerywanie odtwarzania audio lub wideo podczas korzystania z replik Air
 ## **Repliki AirPods pozostają połączone po zamknięciu etui ładującego**
 Niektórzy użytkownicy replik AirPods mogą doświadczyć sytuacji, w której słuchawki pozostają połączone z urządzeniem nawet po zamknięciu etui ładującego. Zwykle jest to spowodowane usterką magnesów i czujnika Halla wewnątrz etui, które odpowiadają za wykrywanie pozycji słuchawek. Aby naprawić ten problem, wykonaj kroki przedstawione w następującym poradniku na YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Słaba jakość dźwięku lub problemy z basem replik AirPods na iOS**
 Niektórzy użytkownicy replik AirPods mogą mieć problemy z jakością dźwięku lub basem na urządzeniach z iOS. Zwykle jest to spowodowane funkcją "Headphone Accommodations", która jest włączona domyślnie na iOS. Aby rozwiązać ten problem, przejdź do Ustawienia > Dostępność > Audio / Wideo > Dopasowania słuchawek i wyłącz tę opcję.

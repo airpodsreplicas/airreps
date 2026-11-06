@@ -26,7 +26,7 @@ Suivez ces étapes pour effectuer une réinitialisation complète de vos répliq
 ## **Ouverture des répliques d'AirPods**
 Vous pouvez recevoir des clones d'AirPods mal étiquetés lorsque vous commandez sur des sites comme AliExpress auprès de vendeurs non vérifiés. Vous pouvez utiliser l'application du chipset pour vérifier que vous avez reçu le bon chipset. Cependant, montrer simplement l'application n'est souvent pas une preuve suffisante. Il peut être nécessaire d'ouvrir les AirPods et de prendre une photo du chipset comme preuve. Voici comment procéder sans endommager les AirPods :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Mises en pause fréquentes de l'audio/vidéo avec des répliques d'AirPods**
 Les mises en pause fréquentes de l'audio ou de la vidéo lors de l'utilisation de répliques d'AirPods sont un problème courant, souvent causé par les [capteurs de détection intra-auriculaires](/fr/introduction/features#in-ear-sensors) (sur les modèles Pro). Ce problème peut également se produire si les AirPods ne tiennent pas correctement dans l'oreille. Pour le corriger, vous pouvez soit choisir d'autres embouts (sur les modèles Pro), soit désactiver la détection intra-auriculaire dans les réglages.
@@ -34,7 +34,7 @@ Les mises en pause fréquentes de l'audio ou de la vidéo lors de l'utilisation 
 ## **Les répliques d'AirPods restent connectées après la fermeture du boîtier de charge**
 Certains utilisateurs de répliques d'AirPods peuvent rencontrer un problème où les AirPods restent connectés à leur appareil même après la fermeture du boîtier de charge. C'est généralement causé par un dysfonctionnement des aimants et du capteur à effet Hall à l'intérieur du boîtier, qui sont responsables de la détection de la position des AirPods. Pour résoudre ce problème, suivez les étapes décrites dans le tutoriel YouTube suivant :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Mauvaise qualité sonore ou problèmes de basses avec des répliques d'AirPods sur iOS**
 Certains utilisateurs de répliques d'AirPods peuvent rencontrer des problèmes de qualité sonore ou de basses sur des appareils iOS. Cela est généralement causé par la fonction "Headphone Accommodations", qui est activée par défaut sur iOS. Pour corriger ce problème, allez dans Réglages > Accessibilité > Audio/Visuel > Adaptations pour écouteurs et désactivez-la.

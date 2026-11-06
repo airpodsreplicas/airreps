@@ -15,7 +15,11 @@ import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
 import { privacyLink } from './privacy-link';
 import { productDestination, productRedirectScript } from './product-routes';
 import { seasonScript } from './theme/season';
-import { injectNotFoundFix, writeTrailingSlashRedirects } from './url-fallbacks';
+import {
+    injectNotFoundFix,
+    writeSectionRootRedirects,
+    writeTrailingSlashRedirects,
+} from './url-fallbacks';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
 const docsDir = path.resolve(configDir, '..');
@@ -292,7 +296,16 @@ function getNav(lang: string): DefaultTheme.NavItem[] {
         { link: `${prefix}/introduction/overview`, text: t.nav.ultimateGuide },
         { link: `${prefix}/quiz`, text: t.nav.quiz },
         { link: `${prefix}/articles/`, text: t.sidebar.articles },
-        { link: `${prefix}/links/info`, text: t.nav.links },
+        {
+            activeMatch: `^${prefix}/links/`,
+            items: [
+                { link: `${prefix}/links/pro`, text: 'AirPods Pro' },
+                { link: `${prefix}/links/airpods`, text: 'AirPods' },
+                { link: `${prefix}/links/airpods-max`, text: 'AirPods Max' },
+                { link: `${prefix}/links/info`, text: t.nav.allSellers },
+            ],
+            text: t.nav.links,
+        },
     ];
 }
 
@@ -300,7 +313,13 @@ function getNav(lang: string): DefaultTheme.NavItem[] {
 const translations: Record<
     string,
     {
-        nav: { home: string; ultimateGuide: string; links: string; quiz: string };
+        nav: {
+            allSellers: string;
+            home: string;
+            ultimateGuide: string;
+            links: string;
+            quiz: string;
+        };
         sidebar: {
             ultimateGuide: string;
             articles: string;
@@ -339,7 +358,13 @@ const translations: Record<
             copyright: `© Copyright ${new Date().getFullYear()} AirReps. Alle Rettigheder Forbeholdes.`,
             message: 'Udgivet under GPLv3 Licensen.',
         },
-        nav: { home: 'Hjem', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Ultimativ Guide' },
+        nav: {
+            allSellers: 'Alle sælgere',
+            home: 'Hjem',
+            links: 'Links',
+            quiz: 'Quiz',
+            ultimateGuide: 'Ultimativ Guide',
+        },
         sidebar: {
             ancExplained: 'ANC Forklaret',
             articles: 'Artikler',
@@ -376,6 +401,7 @@ const translations: Record<
             message: 'Veröffentlicht unter der GPLv3-Lizenz.',
         },
         nav: {
+            allSellers: 'Alle Verkäufer',
             home: 'Startseite',
             links: 'Links',
             quiz: 'Quiz',
@@ -416,7 +442,13 @@ const translations: Record<
             copyright: `© Copyright ${new Date().getFullYear()} AirReps. All Rights Reserved.`,
             message: 'Released under the GPLv3 License.',
         },
-        nav: { home: 'Home', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Ultimate Guide' },
+        nav: {
+            allSellers: 'All sellers',
+            home: 'Home',
+            links: 'Links',
+            quiz: 'Quiz',
+            ultimateGuide: 'Ultimate Guide',
+        },
         sidebar: {
             ancExplained: 'ANC Explained',
             articles: 'Articles',
@@ -452,7 +484,13 @@ const translations: Record<
             copyright: `© Copyright ${new Date().getFullYear()} AirReps. Todos los Derechos Reservados.`,
             message: 'Publicado bajo la Licencia GPLv3.',
         },
-        nav: { home: 'Inicio', links: 'Enlaces', quiz: 'Quiz', ultimateGuide: 'Guía Definitiva' },
+        nav: {
+            allSellers: 'Todos los vendedores',
+            home: 'Inicio',
+            links: 'Enlaces',
+            quiz: 'Quiz',
+            ultimateGuide: 'Guía Definitiva',
+        },
         sidebar: {
             ancExplained: 'ANC Explicado',
             articles: 'Artículos',
@@ -488,7 +526,13 @@ const translations: Record<
             copyright: `© Copyright ${new Date().getFullYear()} AirReps. Tous Droits Réservés.`,
             message: 'Publié sous Licence GPLv3.',
         },
-        nav: { home: 'Accueil', links: 'Liens', quiz: 'Quiz', ultimateGuide: 'Guide Ultime' },
+        nav: {
+            allSellers: 'Tous les vendeurs',
+            home: 'Accueil',
+            links: 'Liens',
+            quiz: 'Quiz',
+            ultimateGuide: 'Guide Ultime',
+        },
         sidebar: {
             ancExplained: 'ANC Expliqué',
             articles: 'Articles',
@@ -525,6 +569,7 @@ const translations: Record<
             message: 'Wydane na licencji GPLv3.',
         },
         nav: {
+            allSellers: 'Wszyscy sprzedawcy',
             home: 'Strona główna',
             links: 'Linki',
             quiz: 'Quiz',
@@ -565,7 +610,13 @@ const translations: Record<
             copyright: `© Copyright ${new Date().getFullYear()} AirReps. Todos os Direitos Reservados.`,
             message: 'Lançado sob a Licença GPLv3.',
         },
-        nav: { home: 'Início', links: 'Links', quiz: 'Quiz', ultimateGuide: 'Guia Definitivo' },
+        nav: {
+            allSellers: 'Todos os vendedores',
+            home: 'Início',
+            links: 'Links',
+            quiz: 'Quiz',
+            ultimateGuide: 'Guia Definitivo',
+        },
         sidebar: {
             ancExplained: 'ANC Explicado',
             articles: 'Artigos',
@@ -602,6 +653,7 @@ const translations: Record<
             message: 'Выпущено под лицензией GPLv3.',
         },
         nav: {
+            allSellers: 'Все продавцы',
             home: 'Главная',
             links: 'Ссылки',
             quiz: 'Тест',
@@ -643,6 +695,7 @@ const translations: Record<
             message: 'GPLv3 Lisansı altında yayınlanmıştır.',
         },
         nav: {
+            allSellers: 'Tüm satıcılar',
             home: 'Ana Sayfa',
             links: 'Bağlantılar',
             quiz: 'Test',
@@ -732,6 +785,7 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
     buildEnd: (site) => {
         writeProductRedirects(site.outDir);
         writeTrailingSlashRedirects(site.outDir);
+        writeSectionRootRedirects(site.outDir);
         injectNotFoundFix(site.outDir);
         stampLlmsFiles(site.outDir, repoRoot);
     },

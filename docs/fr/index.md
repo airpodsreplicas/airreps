@@ -13,10 +13,10 @@ hero:
   actions:
     - theme: brand
       text: Lire le guide ultime
-      link: introduction/overview
+      link: /fr/introduction/overview
     - theme: alt
       text: Répondre au quiz
-      link: quiz
+      link: /fr/quiz
     - theme: alt
       text: Voir les vendeurs fiables
       link: /fr/links/info
@@ -29,7 +29,7 @@ features:
   - icon: ⏰
     title: À jour
     details: 'Toutes les ressources, tous les guides et toutes les applications sont constamment mis à jour par notre équipe dédiée.'
-    link: /introduction/overview
+    link: /fr/introduction/overview
     linkText: Lire le guide
   - icon: "💸"
     title: Liste de vendeurs fiables

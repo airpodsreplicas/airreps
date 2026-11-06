@@ -64,9 +64,15 @@ USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency
 
 V7 is the newest AirPods Pro 3 replica and comes in two builds: the **TigerBuilder** — the newest and best V7 — and the **Huilian**.
 
+### V7 TigerBuilder {#v7-tb}
+
 **TigerBuilder** is the newest and best V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ It currently has no iOS popup and no serial number — the seller tried to add them in an update, but it didn't work; a future update may add them. It uses the FlyCC app instead — not for everyone; the Huilian V7 is not affected. It's sold by HiCity — see the [purchase links](/links/airpods-pro-3).
 
+### V7 Huilian {#v7-huilian}
+
 The **Huilian** is the original V7 build, based on the Huilian 377H3 chipset. It introduces a heart rate sensor, head gesture controls for answering calls, AI Hybrid ANC, working head-tracking spatial audio, and a low-latency gaming mode. The 45mAh earbuds are rated around 7 hours of playback, and the 500mAh case delivers 3–4 full charges. Pick it over the TigerBuilder if you want iCloud Connect, real-time translation, and the Starfun app. It's sold by Earhive, HiCity and Jenny — see the [purchase links](/links/airpods-pro-3).
+
+<span class="pick-buy">Buy the V7 Huilian at [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span>
 
 ## SE Overview {#se-overview}
 

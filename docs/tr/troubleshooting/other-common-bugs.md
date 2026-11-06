@@ -26,7 +26,7 @@ AirPods replikalarınızda sert sıfırlama yapmak için şu adımları izleyin:
 ## **AirPods Replikalarını Açma**
 AliExpress gibi sitelerde doğrulanmamış satıcılardan sipariş verirken yanlış işaretlenmiş AirPods klonları alabilirsiniz. Doğru chipseti aldığınızı doğrulamak için chipset uygulamasını kullanabilirsiniz. Ancak, sadece uygulamayı göstermek genellikle yeterli kanıt değildir. Kanıt olarak chipsetin fotoğrafını çekmek için AirPods'u açmanız gerekebilir. İşte bunu AirPods'a zarar vermeden nasıl yapabileceğiniz:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **AirPods Replikalarında Sık Sık Duraklayan Ses/Video**
 AirPods replikalarını kullanırken sesin veya videonun sık sık durması yaygın bir sorundur; genellikle Pro modellerdeki [kulak içi algılama sensörleri](/tr/introduction/features#in-ear-sensors) neden olur. Bu sorun ayrıca AirPods kulağınıza sıkıca oturmuyorsa da meydana gelebilir. Bu sorunu çözmek için Pro modellerde farklı kulak uçları seçebilir veya ayarlardan kulak içi algılamayı kapatabilirsiniz.
@@ -34,7 +34,7 @@ AirPods replikalarını kullanırken sesin veya videonun sık sık durması yayg
 ## **Şarj Kasesini Kapatmanıza Rağmen AirPods Replikaları Bağlı Kalıyor**
 Bazı AirPods replika kullanıcıları, şarj kasasını kapatsalar bile AirPods'un cihazlarına bağlı kaldığını görebilir. Bu genellikle kasanın içindeki mıknatıslar ve konumu algılayan hall sensöründeki arızadan kaynaklanır. Bu sorunu çözmek için aşağıdaki YouTube eğitimindeki adımları izleyin:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **iOS'ta AirPods Replikalarında Kötü Ses Kalitesi veya Bas Sorunları**
 Bazı AirPods replika kullanıcıları, iOS cihazlarda ses kalitesi veya bas ile ilgili sorunlar yaşayabilir. Bu genellikle iOS'ta varsayılan olarak etkin olan "Headphone Accommodations" özelliğinden kaynaklanır. Bu sorunu düzeltmek için Settings > Accessibility > Audio / Visual > Headphone Accommodations bölümüne gidin ve kapatın.

@@ -37,7 +37,7 @@ Muitos vendedores confiáveis agora aceitam Alipay, permitindo pagamentos com ca
 
 **Para pagar:** Faça seu pedido, selecione Alipay e escaneie o código QR exibido com o app Alipay para completar o pagamento.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
 
 ## Perguntas frequentes
 

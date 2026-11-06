@@ -13,10 +13,10 @@ hero:
   actions:
     - theme: brand
       text: Læs den ultimative guide
-      link: introduction/overview
+      link: /da/introduction/overview
     - theme: alt
       text: Tag quizzen
-      link: quiz
+      link: /da/quiz
     - theme: alt
       text: Se pålidelige sælgere
       link: /da/links/info
@@ -29,7 +29,7 @@ features:
   - icon: ⏰
     title: Opdateret
     details: 'Alle ressourcer, guides og apps holdes altid opdateret af vores dedikerede team.'
-    link: /introduction/overview
+    link: /da/introduction/overview
     linkText: Læs guiden
   - icon: "💸"
     title: Liste over pålidelige sælgere

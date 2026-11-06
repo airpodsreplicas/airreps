@@ -26,7 +26,7 @@ Følg disse trin for at udføre en hård nulstilling af dine AirPods-replikaer:
 ## **Åbning af AirPods-replikaer**
 Når du bestiller på sider som AliExpress fra uverificerede sælgere, kan du modtage forkert markerede AirPods-kloner. Du kan bruge appen til chipsetet for at bekræfte, at du har modtaget det korrekte chipset. Dog er det ofte ikke tilstrækkeligt kun at vise appen som bevis. Du kan blive nødt til at åbne AirPods og tage et billede af chipsetet som bevis. Her er hvordan du kan gøre det uden at beskadige AirPods:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
 
 ## **Audio/video, der pauser ofte med AirPods-replikaer**
 Hyppige pauser i audio eller video ved brug af AirPods-replikaer er et almindeligt problem, ofte forårsaget af [in-ear-detekteringssensorer](/da/introduction/features#in-ear-sensors) (på Pro-modeller). Dette problem kan også opstå, hvis AirPods ikke sidder sikkert i dit øre. For at løse dette kan du enten vælge andre ørepropper (på Pro-modeller) eller slå in-ear-detektering fra i indstillingerne.
@@ -34,7 +34,7 @@ Hyppige pauser i audio eller video ved brug af AirPods-replikaer er et almindeli
 ## **AirPods-replikaer forbliver forbundet efter lukning af opladningsetuiet**
 Nogle brugere oplever, at AirPods-replikaerne forbliver forbundet til deres enhed, selv efter at opladningsetuiet er lukket. Dette skyldes typisk en fejl i magneterne og hallsensoren inde i etuiet, som registrerer positionen af AirPods. For at løse dette, følg trinnene i følgende YouTube-tutorial:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
 
 ## **Dårlig lydkvalitet eller basproblemer med AirPods-replikaer på iOS**
 Nogle brugere kan opleve problemer med lydkvaliteten eller bassen på iOS-enheder. Dette skyldes typisk funktionen "Headphone Accommodations", som er aktiveret som standard på iOS. For at løse dette, gå til Settings > Accessibility > Audio / Visual > Headphone Accommodations og slå det fra.

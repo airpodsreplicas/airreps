@@ -5,6 +5,10 @@ description: "The AirReps Ultimate Guide — compare, buy, and troubleshoot repl
 
 # AirReps Ultimate Guide
 
+::: tip Looking for Purchase Links?
+If you are just looking for links to purchase AirPods replicas, go straight to the [AirPods Pro](/links/pro), [AirPods](/links/airpods) or [AirPods Max](/links/airpods-max) links, or see [all trusted sellers](/links/info).
+:::
+
 ## What is AirReps?
 
 AirReps is the largest community dedicated to AirPods replicas. We maintain a comprehensive, community-driven guide covering everything you need to buy replica AirPods with confidence — from choosing the right model and finding trusted sellers to comparing versions, understanding features like ANC and Spatial Audio, and troubleshooting common issues.
@@ -15,10 +19,6 @@ This guide is constantly updated and available in 9 languages. Whether you're lo
 If you're here, you're probably interested in purchasing a pair of AirPods but can't justify spending $150+ on a product that will likely only last a year or two before the battery depletes or they get lost. This is where replica AirPods come in – they offer similar functionality and performance at a lower price point and are becoming increasingly popular. With good care, replica AirPods typically last 3-4 years.
 
 After reading this guide, you will likely find that purchasing replica AirPods is a more cost-effective and equally viable option compared to buying from Apple. In the **AirReps Ultimate Guide**, we provide detailed information on the best replica AirPods, what to look out for, how to buy, and how to troubleshoot. This guide is constantly updated to provide the latest information, and the best way to get continued support and help is to join our [Discord community](https://airreps.link/discord).
-
-::: tip Looking for Purchase Links?
-If you are just looking for links to purchase AirPods replicas, [click here to go to the links section](/links/info).
-:::
 
 ::: tip Not sure which model to get?
 Take our [quick quiz](/quiz) to find the best AirPods replica for your needs, device, and budget.

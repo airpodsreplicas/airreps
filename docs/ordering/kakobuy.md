@@ -30,7 +30,7 @@ KakoBuy is one of several shopping agents that serve the replica market. Others 
 For AirPods replicas specifically, we recommend KakoBuy because:
 
 - **No KYC** — credit/debit card, PayPal, Apple Pay, and Google Pay all work without identity verification
-- **Direct Weidian integration** — paste any Weidian link, or use the KakoBuy buttons in our [Links](/links/info) section for one-click product loading
+- **Direct Weidian integration** — paste any Weidian link, or use the KakoBuy button on each seller's Weidian page, linked from our [Links](/links/info) section
 - **Reasonable rates on light items** — AirPods are small and light, so KakoBuy's shipping lines work out competitively versus agents that are optimized for fashion or heavier parcels
 
 If you already have an account with another agent and only want to order AirPods, any of them will work — you can paste the same Weidian links from our [Links](/links/info) section into any agent's search bar.
@@ -107,7 +107,7 @@ No. KakoBuy uses standard payment processors that accept credit/debit cards, Pay
 :::
 
 ::: details How does KakoBuy compare to Superbuy, CSSBuy, or Sugargoo?
-All four are Chinese shopping agents that do the same core job — purchase, warehouse, QC, and ship. KakoBuy is the AirReps recommendation for AirPods replicas because its payment flow doesn't trigger KYC, its UI handles Weidian links cleanly, and our [Links section](/links/info) has direct KakoBuy buttons for every trusted seller. **Superbuy** is larger and more established but has higher service fees and stricter verification on some payment methods. **CSSBuy** is older with a dated UI and occasionally requires phone verification. **Sugargoo** is popular for fashion buyers but doesn't offer a meaningful advantage for AirPods. For a fee-by-fee comparison of the three, see [KakoBuy vs Superbuy vs Sugargoo](https://kakoguide.com/guides/kakobuy-vs-superbuy-vs-sugargoo).
+All four are Chinese shopping agents that do the same core job — purchase, warehouse, QC, and ship. KakoBuy is the AirReps recommendation for AirPods replicas because its payment flow doesn't trigger KYC, its UI handles Weidian links cleanly, and every trusted seller's Weidian page, linked from our [Links section](/links/info), has a direct KakoBuy button. **Superbuy** is larger and more established but has higher service fees and stricter verification on some payment methods. **CSSBuy** is older with a dated UI and occasionally requires phone verification. **Sugargoo** is popular for fashion buyers but doesn't offer a meaningful advantage for AirPods. For a fee-by-fee comparison of the three, see [KakoBuy vs Superbuy vs Sugargoo](https://kakoguide.com/guides/kakobuy-vs-superbuy-vs-sugargoo).
 :::
 
 ::: details Will I be charged customs fees or VAT on a KakoBuy order?

@@ -13,10 +13,10 @@ hero:
   actions:
     - theme: brand
       text: Przeczytaj kompletny przewodnik
-      link: introduction/overview
+      link: /pl/introduction/overview
     - theme: alt
       text: Rozwiąż quiz
-      link: quiz
+      link: /pl/quiz
     - theme: alt
       text: Zobacz zaufanych sprzedawców
       link: /pl/links/info
@@ -29,7 +29,7 @@ features:
   - icon: ⏰
     title: Aktualne
     details: 'Wszystkie zasoby, poradniki i aplikacje są zawsze aktualizowane przez nasz zaangażowany zespół.'
-    link: /introduction/overview
+    link: /pl/introduction/overview
     linkText: Przeczytaj przewodnik
   - icon: "💸"
     title: Lista zaufanych sprzedawców

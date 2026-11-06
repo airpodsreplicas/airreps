@@ -18,6 +18,12 @@ faq:
 
 # Where to Buy AirPods Replicas
 
+## Choose the product you want to view links for
+
+- [AirPods](/links/airpods) — AirPods 5 (Coming Soon), 4, 3, 2
+- [AirPods Pro](/links/pro) — Pro 3, Pro 2, Pro 1
+- [AirPods Max](/links/airpods-max)
+
 ::: tip Compare versions first
 This list is kept up to date. A higher version usually means a better product — but not always, so compare the [version info](/version-info/general) before buying.
 :::
@@ -26,12 +32,6 @@ The following list contains links to verified sellers only. If you know of any s
 
 Some seller and shopping-agent links may earn AirReps a commission.
 
-## Choose the product you want to view links for
-
-- [AirPods](/links/airpods) — AirPods 5 (Coming Soon), 4, 3, 2
-- [AirPods Pro](/links/pro) — Pro 3, Pro 2, Pro 1
-- [AirPods Max](/links/airpods-max)
-
 ## How much do AirPods replicas cost?
 
 Prices vary by model and version and fluctuate over time, but as a rough guide trusted sellers typically charge:
@@ -39,10 +39,10 @@ Prices vary by model and version and fluctuate over time, but as a rough guide t
 | Model | Typical price (USD) |
 |-------|---------------------|
 | AirPods 2 | ~$26 |
-| AirPods 3 | ~$30 |
+| AirPods 3 | Not currently listed by trusted sellers |
 | AirPods 4 | ~$29–52 |
 | AirPods Pro 2 | ~$50–58 |
-| AirPods Pro 3 | ~$27–67 |
+| AirPods Pro 3 | ~$27–68 |
 | AirPods Max | ~$93–126 |
 
 Within each model, a higher version number usually costs more and adds features. Take the [quiz](/quiz) for a tailored pick, or open a model's links page above for exact per-version options. On a tight budget? Our roundup of the [best AirPods replicas under $50](/articles/best-airpods-replicas-under-50) compares the budget picks.
