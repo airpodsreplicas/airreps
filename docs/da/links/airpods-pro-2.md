@@ -1,12 +1,12 @@
 ---
-title: 'Køb AirPods Pro 2 Kopier: Sælgerlinks'
-description: Pålidelige sælgerlinks og købsoptioner for AirPods Pro 2-kopier.
+title: 'Køb kopier af AirPods Pro 2: Sælgerlinks'
+description: Pålidelige sælgerlinks og købsmuligheder for kopier af AirPods Pro 2.
 ---
-# Køb AirPods Pro 2-replikaer
+# Køb kopier af AirPods Pro 2
 
-AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign hver version på siden [AirPods Pro 2 versionsinfo](/da/version-info/airpods-pro-2) — V5.4 Huilian er den nuværende alt-i-én — eller tag [quizzen](/da/quiz) for en anbefaling.
+Kopier af AirPods Pro 2 er det mest populære og gennemprøvede valg blandt in-ear-hovedtelefoner. Sammenlign alle versionerne på siden med [info om versioner af AirPods Pro 2](/da/version-info/airpods-pro-2) — V5.3 TB er den bedste Pro 2 — eller tag [quizzen](/da/quiz) for at få en anbefaling.
 
-## Versions and Sellers
+## Versioner og sælgere
 
 <table>
   <tr>
@@ -110,7 +110,7 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
     <td style="text-align: center;">-</td>
     <td>
       <div class="link-column">
-        <span class="unavailable-link">Hjemmeside ikke tilgængelig</span>
+        <span class="unavailable-link">Hjemmeside utilgængelig</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
@@ -141,6 +141,6 @@ AirPods Pro 2-replikaer er det mest populære og modne in-ear-valg. Sammenlign h
 
 
 
-::: tip Weidian-ordrer kræver en agent
-Hvis du vælger et Weidian-link, kræver det brug af en agent til forsendelse. Vi anbefaler kun denne mulighed, hvis du ønsker at samle forsendelse med andre varer og er fortrolig med agentplatforme. Til en pålidelig agent anbefaler vi [KakoBuy](https://airreps.link/kakobuy). Ny med agenter? Tjek vores [KakoBuy bestillingsguide](/da/ordering/kakobuy).
+::: tip Bestillinger via Weidian kræver en agent
+Hvis du vælger et Weidian-link, skal du bruge en agent til forsendelsen. Vi anbefaler kun denne løsning, hvis du ønsker at samle forsendelsen med andre varer og er fortrolig med agentplatforme. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy) som en pålidelig agent. Ny med agenter? Se vores [bestillingsguide til KakoBuy](/da/ordering/kakobuy).
 :::
