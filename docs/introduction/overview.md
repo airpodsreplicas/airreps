@@ -39,7 +39,7 @@ For most people, yes. Replica AirPods cost a fraction of the retail price while 
 :::
 
 ::: details Which AirPods replica is the best?
-It depends on what you want. For most buyers the AirPods Pro 2 V5.4 Huilian is the best all-rounder, balancing the newest features with close-to-retail ANC. If you want the latest hardware, look at the AirPods Pro 3 V7; on a budget, the Pro 3 V5.5 or AirPods 2 V3E are the cheapest entry points. Take the [quiz](/quiz) for a personalised pick, or compare everything on the [version info](/version-info/general) page.
+Right now our main recommendation is the [AirPods Pro 3 V7 Huilian](/version-info/airpods-pro-3#v7-huilian) (~$67–68). The [Pro 3 SE](/version-info/airpods-pro-3#se-overview) (~$48) is still a solid, cheaper option with the strongest noise cancelling we've tested on any replica. Honestly, the best one depends on what you need: the Pro 2 V5.4 Huilian for proven stability, or the Pro 3 V7 TigerBuilder for the most features. On a budget, the Pro 3 V5.5 or AirPods 2 V3E are the cheapest entry points. Take the [quiz](/quiz) for a personalised pick, or compare everything on the [version info](/version-info/general) page.
 :::
 
 ::: details How long do replica AirPods last?
