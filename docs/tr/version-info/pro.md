@@ -1,13 +1,12 @@
 ---
-title: "AirPods Pro Replika Sürümleri"
-description: "Aşağıda nesilleri ve replika sürümlerini karşılaştırın. Ayrıntılara gitmek için bir nesil seçin."
+title: AirPods Pro 3 ve Pro 2 Replika Sürümleri Karşılaştırması
+description: 'Tüm AirPods Pro replika sürümleri karşılaştırılıyor: Pro 3 V7, SE, V6 ve V5.5; Pro 2 V5.4, V5.3 ve V5.2; ve birinci nesil V4.9. Yonga, özellikler ve fiyat açısından.'
 ---
-
 <!-- product-family -->
 
 # AirPods Pro
 
-Aşağıda nesilleri ve replika sürümlerini karşılaştırın. Ayrıntılara gitmek için bir nesil seçin.
+Tüm AirPods Pro replika nesilleri tek bir sayfada: AirPods Pro 3 (V7, SE, V6, V5.5), AirPods Pro 2 (V5.4, V5.3, V5.2 ve daha eski sürümler) ve ilk nesil AirPods Pro. Önerilen modellere, yonga setlerine, özelliklere ve her sürümde bulunmayan özelliklere gitmek için bir nesil seçin.
 
 [AirPods Pro 3](#airpods-pro-3) · [AirPods Pro 2](#airpods-pro-2) · [AirPods Pro 1](#airpods-pro)
 

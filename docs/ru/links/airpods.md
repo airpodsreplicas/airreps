@@ -1,15 +1,14 @@
 ---
-title: "Реплики AirPods: Ссылки на продавцов"
-description: "Найдите ссылки на надёжных продавцов по поколениям. Выберите поколение, чтобы перейти к вариантам покупки."
+title: 'Купить реплики AirPods 4 и AirPods 2: ссылки продавцов'
+description: 'Проверенные ссылки продавцов реплик AirPods 4 и AirPods 2 по версиям с актуальными ценами, а также наличие AirPods 3 и AirPods 5.'
 ---
-
 <!-- product-family -->
 
 # AirPods
 
-Найдите ссылки на надёжных продавцов по поколениям. Выберите поколение, чтобы перейти к вариантам покупки.
+Ссылки на проверенных продавцов реплик всех поколений стандартных AirPods: AirPods 4, AirPods 3 и AirPods 2; AirPods 5 появятся позже. Выберите поколение, чтобы перейти к его версиям, ценам и продавцам.
 
-[AirPods 5 (Скоро)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
+[AirPods 5 (скоро)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
 
 <!-- @include: ./airpods-5.md -->
 

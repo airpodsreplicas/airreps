@@ -1,12 +1,12 @@
 ---
-title: Applications De Mise À Jour Du Micrologiciel Pour Répliques D'AirPods
-description: 'Applications essentielles de mise à jour du micrologiciel pour répliques d''AirPods. Prise en charge de Airoha, TigerBuilder, BES, HR, et Huilian.'
+title: 'APK FlyCC, CloudCC et StarFun pour les répliques d’AirPods'
+description: 'Téléchargez FlyCC, CloudCC, StarFun, BullSuper, HBluetooth et KKX pour les répliques d’AirPods, adaptés à votre chipset : TigerBuilder, Huilian, HR, BES et KKX.'
 ---
 # Applications utiles
 
-La mise à jour du firmware de vos réplicas peut souvent ajouter de nouvelles fonctionnalités, comme l'audio spatial, ou améliorer leur stabilité. Pour ce faire, vous pouvez utiliser diverses applications disponibles en téléchargement. Cependant, veuillez noter que **la plupart de ces applications ne sont disponibles que pour les appareils Android**. Pour identifier quel chipset utilisent vos réplicas, consultez les [tables de comparaison des versions](/fr/version-info/general).
+La mise à jour du micrologiciel de vos répliques peut souvent ajouter de nouvelles fonctionnalités, comme l’audio spatial, ou améliorer leur stabilité. Pour ce faire, vous pouvez utiliser diverses applications disponibles en téléchargement. Veuillez toutefois noter que **la plupart de ces applications sont uniquement disponibles sur les appareils Android**. Pour identifier le chipset utilisé par vos répliques, consultez les [tableaux comparatifs des versions](/fr/version-info/general).
 
-Ci‑dessous figurent des applications téléchargeables pour vous aider, ainsi que les versions et chipsets des réplicas qu'elles prennent en charge. Si vous rencontrez des problèmes lors de l'installation d'applications ne provenant pas du Play Store, assurez‑vous d'activer « Installer des applications provenant de sources inconnues » dans vos paramètres (dans la section Sécurité ou Accessibilité). Ces applications peuvent également aider à ajuster la [qualité sonore](/fr/introduction/sound-quality) via les réglages d'égaliseur. Pour plus d'informations sur l'utilisation de ces applications et pour éviter les problèmes, visitez notre [Discord](https://airreps.link/discord).
+Vous trouverez ci-dessous des applications que vous pouvez télécharger, ainsi que les versions et les chipsets de répliques qu’elles prennent en charge. Si vous rencontrez des problèmes lors de l’installation d’applications qui ne proviennent pas du Play Store, veillez à activer l’option « Installer des applications de sources inconnues » dans vos paramètres (dans la section Sécurité ou Accessibilité). Ces applications peuvent également vous aider à régler la [qualité sonore](/fr/introduction/sound-quality) à l’aide des paramètres d’égalisation. Pour en savoir plus sur leur utilisation et éviter les problèmes, rendez-vous sur notre [Discord](https://airreps.link/discord).
 
 ## **TigerBuilder**
 
@@ -14,9 +14,9 @@ Ci‑dessous figurent des applications téléchargeables pour vous aider, ainsi 
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Télécharger l’APK de CloudCC (Android)" target="_blank" rel="noreferrer">Télécharger l’APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Téléchargement indisponible |
 
-:::warning **CloudCC** a été déprécié depuis que TigerBuilder a intégré la fonctionnalité OTA dans FlyCC. Il ne doit être utilisé qu'en tant que solution de contournement si vous rencontrez le problème d'autorisation de stockage.
+:::warning **CloudCC** est obsolète depuis que TigerBuilder a intégré la fonctionnalité OTA à FlyCC. Elle ne doit être utilisée comme solution de contournement que si vous rencontrez un problème d’autorisation de stockage.
 :::
-:::tip Airoha156x ne doit être utilisé que pour modifier les paramètres de l'égaliseur sur les AirPods Max V2 (Airoha 1561M) et V3 (Airoha 1562AE).
+:::tip Airoha156x ne doit être utilisé que pour modifier les paramètres de l’égaliseur des AirPods Max V2 (Airoha 1561M) et V3 (Airoha 1562AE).
 :::
 
 ## **BES**
