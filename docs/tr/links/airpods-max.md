@@ -34,7 +34,6 @@ AirPods Max replikaları kulak üstü seçeneğidir; ucuz plastik yapımlardan m
       <div class="link-column">
         <a href="https://airreps.link/jmaxv3tb">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -52,7 +51,6 @@ AirPods Max replikaları kulak üstü seçeneğidir; ucuz plastik yapımlardan m
       <div class="link-column">
         <a href="https://airreps.link/jmaxv3p">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -82,7 +80,6 @@ AirPods Max replikaları kulak üstü seçeneğidir; ucuz plastik yapımlardan m
       <div class="link-column">
         <a href="https://airreps.link/jmaxv2tb">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

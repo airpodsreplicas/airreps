@@ -54,7 +54,7 @@ Los vendedores de confianza utilizan una pasarela de pago cripto segura para pro
 :::
 
 ::: details Nota sobre enlaces de Alibaba y embalaje
-Apple actúa con dureza contra enlaces de réplicas en plataformas como AliExpress y Alibaba. Aunque los vendedores (como Earhive y Jenny) ocasionalmente ofrecen enlaces de Alibaba para comprar, ten en cuenta que **los pedidos realizados a través de Alibaba siempre vendrán con embalaje neutro (sin caja con logo de Apple)** para evitar problemas con aduanas y derechos de autor. Los sitios web directos de los vendedores y las tiendas Weidian suelen ser más seguros y ofrecen opciones de embalaje más parecidas a Apple.
+Apple actúa con dureza contra enlaces de réplicas en plataformas como AliExpress y Alibaba. Aunque los vendedores (como Earhive) ocasionalmente ofrecen enlaces de Alibaba para comprar, ten en cuenta que **los pedidos realizados a través de Alibaba siempre vendrán con embalaje neutro (sin caja con logo de Apple)** para evitar problemas con aduanas y derechos de autor. Los sitios web directos de los vendedores y las tiendas Weidian suelen ser más seguros y ofrecen opciones de embalaje más parecidas a Apple.
 :::
 
 ::: details ¿Son legales las réplicas de AirPods?

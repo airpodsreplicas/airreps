@@ -52,7 +52,7 @@ Her model içinde daha yüksek bir sürüm numarası genellikle daha pahalıdır
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-Alibaba üzerinden sipariş vermeyi tercih ederseniz Earhive ve Jenny'nin Alibaba mağazaları da var ([Earhive](https://airreps.link/ehali), [Jenny](https://airreps.link/jennyali)).
+Alibaba üzerinden sipariş vermeyi tercih ederseniz Earhive'ın [Alibaba mağazası](https://airreps.link/ehali) da var.
 
 ## Ödeme yöntemleri {#payment-methods}
 

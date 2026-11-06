@@ -52,7 +52,7 @@ faq:
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-У Earhive и Jenny также есть магазины на Alibaba ([Earhive](https://airreps.link/ehali), [Jenny](https://airreps.link/jennyali)), если вам удобнее заказывать через Alibaba.
+У Earhive также есть [магазин на Alibaba](https://airreps.link/ehali), если вам удобнее заказывать через Alibaba.
 
 ## Способы оплаты {#payment-methods}
 

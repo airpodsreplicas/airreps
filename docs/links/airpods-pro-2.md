@@ -35,7 +35,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/jprov54hl">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -58,7 +57,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/jprov53tb">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -76,7 +74,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/jprov53hl">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -99,7 +96,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/jprov52tb">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -117,7 +113,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <span class="unavailable-link">Website unavailable</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -140,7 +135,6 @@ AirPods Pro 2 replicas are the most popular and mature in-ear pick. Compare ever
       <div class="link-column">
         <a href="https://airreps.link/jprov42">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

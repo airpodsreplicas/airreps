@@ -34,7 +34,6 @@ AirPods Pro 2 Repliken sind die beliebteste und ausgereifteste In‑Ear‑Wahl. 
       <div class="link-column">
         <a href="https://airreps.link/jprov54hl">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -57,7 +56,6 @@ AirPods Pro 2 Repliken sind die beliebteste und ausgereifteste In‑Ear‑Wahl. 
       <div class="link-column">
         <a href="https://airreps.link/jprov53tb">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -75,7 +73,6 @@ AirPods Pro 2 Repliken sind die beliebteste und ausgereifteste In‑Ear‑Wahl. 
       <div class="link-column">
         <a href="https://airreps.link/jprov53hl">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -98,7 +95,6 @@ AirPods Pro 2 Repliken sind die beliebteste und ausgereifteste In‑Ear‑Wahl. 
       <div class="link-column">
         <a href="https://airreps.link/jprov52tb">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -116,7 +112,6 @@ AirPods Pro 2 Repliken sind die beliebteste und ausgereifteste In‑Ear‑Wahl. 
       <div class="link-column">
         <span class="unavailable-link">Webseite nicht verfügbar</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -139,7 +134,6 @@ AirPods Pro 2 Repliken sind die beliebteste und ausgereifteste In‑Ear‑Wahl. 
       <div class="link-column">
         <a href="https://airreps.link/jprov42">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
-        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

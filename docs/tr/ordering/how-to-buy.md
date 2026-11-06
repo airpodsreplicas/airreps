@@ -54,7 +54,7 @@ Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kr
 :::
 
 ::: details Alibaba bağlantıları ve ambalaj hakkında not
-Apple, AliExpress ve Alibaba gibi platformlardaki kopya bağlantılara karşı agresif bir şekilde mücadele eder. Satıcılar (ör. Earhive ve Jenny) ara sıra satın alma için Alibaba bağlantıları sunsalar da, lütfen unutmayın ki **Alibaba üzerinden verilen siparişler gümrük ve telif hakkı sorunlarından kaçınmak için her zaman nötr ambalaj (Apple logolu kutu yok)** ile gönderilecektir. Satıcıların doğrudan web siteleri ve Weidian mağazaları genellikle daha güvenlidir ve daha Apple-benzeri ambalaj seçenekleri sunar.
+Apple, AliExpress ve Alibaba gibi platformlardaki kopya bağlantılara karşı agresif bir şekilde mücadele eder. Satıcılar (ör. Earhive) ara sıra satın alma için Alibaba bağlantıları sunsalar da, lütfen unutmayın ki **Alibaba üzerinden verilen siparişler gümrük ve telif hakkı sorunlarından kaçınmak için her zaman nötr ambalaj (Apple logolu kutu yok)** ile gönderilecektir. Satıcıların doğrudan web siteleri ve Weidian mağazaları genellikle daha güvenlidir ve daha Apple-benzeri ambalaj seçenekleri sunar.
 :::
 
 ::: details AirPods kopyaları yasal mı?
