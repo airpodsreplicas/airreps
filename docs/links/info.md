@@ -63,7 +63,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 |----------------|---------|--------|-------|
 | [**Credit / Debit Card**](#credit-card) | ✅ | ✅ | ✅ |
 | **Alipay** | ✅ | ❌ | ✅ |
-| **PayPal** | ⚠️ Sometimes | ✅ | ❌ |
+| **PayPal** | ⚠️ Sometimes | ⚠️ Sometimes | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
 | **Xoom** | ❌ | ❌ | ❌ |
