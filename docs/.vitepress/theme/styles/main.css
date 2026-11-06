@@ -308,6 +308,39 @@ iframe[src*="youtube"] {
   text-transform: uppercase;
 }
 
+/* Direct seller buttons on pick cards and in buying articles. */
+.vp-doc .pick-buy {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc p > .pick-buy:first-child {
+  margin-top: 0;
+}
+
+.vp-doc .pick-buy a {
+  display: inline-block;
+  padding: 3px 11px;
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 999px;
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.vp-doc .pick-buy a:hover {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-2);
+}
+
 /* Three picks sit in one row instead of leaving one card alone. */
 .vp-doc .pick-cards ul:has(> li:nth-child(3):last-child) {
   grid-template-columns: repeat(3, minmax(0, 1fr));

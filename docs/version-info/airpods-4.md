@@ -7,9 +7,9 @@ description: "Compare AirPods 4 replica versions by chip, features, and missing 
 
 <div class="pick-cards">
 
-- <span class="pick-label">Best overall</span> **V3 TB** · $52–53<br>The best open-ear noise cancelling, head-tracking spatial audio, conversation awareness and switching between 3 devices. [V3 overview](#v3-overview)
-- <span class="pick-label">Best for iCloud switching</span> **V2 Huilian** · $39–42<br>iCloud Connect between your Apple devices and Starfun EQ that syncs to iOS. [V2 overview](#v2-overview)
-- <span class="pick-label">Lowest price</span> **V2 TB** · $29–30<br>Great open-ear sound with basic noise cancelling. No head tracking.
+- <span class="pick-label">Best overall</span> **V3 TB** · $52–53<br>The best open-ear noise cancelling, head-tracking spatial audio, conversation awareness and switching between 3 devices. [V3 overview](#v3-overview)<span class="pick-buy">Buy at [Earhive](https://airreps.link/e4v3tb) [HiCity](https://airreps.link/hc4v3tb) [Jenny](https://airreps.link/j4v3tb)</span>
+- <span class="pick-label">Best for iCloud switching</span> **V2 Huilian** · $39–42<br>iCloud Connect between your Apple devices and Starfun EQ that syncs to iOS. [V2 overview](#v2-overview)<span class="pick-buy">Buy at [Earhive](https://airreps.link/e4v2hl) [HiCity](https://airreps.link/hc4v2hl) [Jenny](https://airreps.link/j4v2hl)</span>
+- <span class="pick-label">Lowest price</span> **V2 TB** · $29–30<br>Great open-ear sound with basic noise cancelling. No head tracking.<span class="pick-buy">Buy at [Earhive](https://airreps.link/e4v2tb) [HiCity](https://airreps.link/hc4v2tb) [Jenny](https://airreps.link/j4v2tb)</span>
 
 </div>
 

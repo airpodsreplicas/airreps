@@ -7,10 +7,10 @@ description: "Compare AirPods Pro 3 replica versions (V7, SE, V6, V5.5) by chip,
 
 <div class="pick-cards">
 
-- <span class="pick-label">Best value</span> **SE** · $48 · Jenny only<br>The strongest noise cancelling we've tested on any replica, working head tracking and live translation. Connects to one device at a time. [SE overview](#se-overview)
-- <span class="pick-label">Most features</span> **V7 TB** · $68 · HiCity<br>Heart rate, head gestures, conversation awareness and switching between 3 devices. No iOS popup or serial number. [V7 overview](#v7-overview)
-- <span class="pick-label">Best for iCloud switching</span> **V6 Huilian** · $43–45<br>Switches between your iPhone, iPad and Mac with iCloud Connect, for less than a V7. The **V7 Huilian** adds heart rate and head gestures.
-- <span class="pick-label">Lowest price</span> **V5.5** · $27–28<br>The Pro 3 look and decent noise cancelling. No head tracking.
+- <span class="pick-label">Best value</span> **SE** · $48 · Jenny only<br>The strongest noise cancelling we've tested on any replica, working head tracking and live translation. Connects to one device at a time. [SE overview](#se-overview)<span class="pick-buy">Buy at [Jenny](https://airreps.link/jpro3se)</span>
+- <span class="pick-label">Most features</span> **V7 TB** · $68 · HiCity<br>Heart rate, head gestures, conversation awareness and switching between 3 devices. No iOS popup or serial number. [V7 overview](#v7-overview)<span class="pick-buy">Buy at [HiCity](https://hicitypods.com/product/pro-3-v7-tb/)</span>
+- <span class="pick-label">Best for iCloud switching</span> **V6 Huilian** · $43–45<br>Switches between your iPhone, iPad and Mac with iCloud Connect, for less than a V7. The **V7 Huilian** adds heart rate and head gestures.<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov6hl) [HiCity](https://airreps.link/hcprov6hl) [Jenny](https://airreps.link/jprov6hl)</span>
+- <span class="pick-label">Lowest price</span> **V5.5** · $27–28<br>The Pro 3 look and decent noise cancelling. No head tracking.<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov55) [HiCity](https://airreps.link/hcprov55) [Jenny](https://airreps.link/jprov55)</span>
 
 </div>
 

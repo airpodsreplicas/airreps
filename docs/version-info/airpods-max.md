@@ -7,8 +7,8 @@ description: "AirPods Max replica versions compared: the V3 Metal, the cheaper V
 
 <div class="pick-cards">
 
-- <span class="pick-label">Best overall</span> **V3 Metal** · $126–127<br>Metal ear cups, upgraded hybrid noise cancelling and head-tracking spatial audio. [V3 overview](#v3-overview)
-- <span class="pick-label">Lower price</span> **V3P** · $85–93<br>A plastic-steel shell and an older chipset, so it isn't simply the V3 in a plastic case. No head tracking. [V3 overview](#v3-overview)
+- <span class="pick-label">Best overall</span> **V3 Metal** · $126–127<br>Metal ear cups, upgraded hybrid noise cancelling and head-tracking spatial audio. [V3 overview](#v3-overview)<span class="pick-buy">Buy at [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
+- <span class="pick-label">Lower price</span> **V3P** · $85–93<br>A plastic-steel shell and an older chipset, so it isn't simply the V3 in a plastic case. No head tracking. [V3 overview](#v3-overview)<span class="pick-buy">Buy at [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
 </div>
 

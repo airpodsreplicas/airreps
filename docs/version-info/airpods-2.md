@@ -11,6 +11,8 @@ This product line is no longer being actively updated by manufacturers, as devel
 
 **Quick verdict:** the **V3E (Airoha 1562E)** is the only remaining actively produced AirPods Gen 2 replica — offering dual-device connectivity, FlyCC app EQ customization, reliable 5–6 hour battery life, and solid iOS 27 support at an unbeatable budget price. See the [AirPods 2 purchase links](/links/airpods-2).
 
+<span class="pick-buy">Buy the V3E at [Earhive](https://airreps.link/e2v3e) [HiCity](https://airreps.link/hcgen2v3e) [Jenny](https://airreps.link/j2v3e)</span>
+
 ::: tip Shared AirPods 2 Baseline
 All Gen 2 models feature: original long-stem classic earbud fit, tap controls (double-tap to play/pause/skip), in-ear optical detection, Lightning charging, and iOS 27 support with About page popup. Note that Gen 2 earbuds do not feature ANC or Spatial Audio.
 :::

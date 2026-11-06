@@ -70,10 +70,14 @@ Regardless of whether you choose the V3 or V3P, you are still purchasing a repli
 - You want the best noise cancellation and sound quality available in an over-ear clone.
 - You want a headphone that survives close inspection from friends and colleagues.
 
+<span class="pick-buy">Buy the V3 at [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
+
 ### Choose the AirPods Max V3P if:
 - You are on a strict sub-$100 budget.
 - You prefer lighter headphones on your head for long work sessions.
 - You plan to keep the headphones in silicone protective covers anyway (which hides the metal finish).
+
+<span class="pick-buy">Buy the V3P at [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
 ## Related reading
 

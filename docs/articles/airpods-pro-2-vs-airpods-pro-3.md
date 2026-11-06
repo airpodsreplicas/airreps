@@ -65,12 +65,16 @@ The primary difference is the physical earbud contour: the Pro 3 features a subt
 - You want the most reliable, thoroughly tested replica on the market.
 - Adaptive audio and a smooth, natural transparency mode are your priority.
 - You frequently switch between an iPhone, iPad, and MacBook.
-- You want the best balance of price (~$55) and maturity.
+- You want the best balance of price (~$58) and maturity.
+
+<span class="pick-buy">Buy the V5.4 at [Earhive](https://airreps.link/eprov54hl) [HiCity](https://airreps.link/hcprov54hl) [Jenny](https://airreps.link/jprov54hl)</span>
 
 ### Buy the AirPods Pro 3 Replica (V7 / SE) if:
 - You want the latest Apple aesthetic and revised earbud geometry.
-- You want the budget-friendly SE (~$40) for gym or travel use where high-end ecosystem features don't matter.
+- You want the budget-friendly SE (~$48) for gym or travel use where high-end ecosystem features don't matter.
 - You want the newest features: heart rate tracking, head-gesture call answering, conversation awareness, and Live Translation. The V7 Huilian also keeps iCloud Connect.
+
+<span class="pick-buy">Buy the V7 Huilian at [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">V7 TB at [HiCity](https://hicitypods.com/product/pro-3-v7-tb/)</span> <span class="pick-buy">SE at [Jenny](https://airreps.link/jpro3se)</span>
 
 ## Related reading
 

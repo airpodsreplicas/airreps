@@ -56,6 +56,8 @@ It does **not** suit someone chasing flagship sound, someone who needs multi-dev
 
 AirPods Max replicas are sold by the trusted sellers the guide verifies — Jenny and HiCity among them, with Earhive also listing Max versions. The per-version purchase links live on the [AirPods Max links page](/links/airpods-max). The community's standing advice applies here too: buy from a [trusted seller](/links/info), not a random marketplace listing, because the version you actually receive matters more than the price you pay. The same listing from three sellers is the same product — they differ mainly in support, shipping, and payment options.
 
+<span class="pick-buy">Buy the V3 Metal at [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span> <span class="pick-buy">V3P at [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
+
 Related reading and comparisons:
 - In-ear replicas vs over-ear dupes? Check [Best AirPods Replicas Under $50](/articles/best-airpods-replicas-under-50).
 - Genuine AirPods vs replicas feature-by-feature: Read [Replica AirPods vs Real AirPods](/articles/airpods-replicas-vs-real).
