@@ -1,50 +1,50 @@
 ---
-title: AirPods Replikalarını Nereden Satın Alabilirim?
-description: Tüm AirPods replika modelleri için doğrulanmış satıcıların ve doğrudan satın alma bağlantılarının listesi.
+title: AirPods Replikaları Nereden Alınır
+description: Tüm AirPods replikası modelleri için doğrulanmış satıcıların listesi ve doğrudan satın alma bağlantıları.
 faq:
   - q: Kaliteli bir ürün alacak mıyım?
-    a: Bir ürünün kalitesini garanti etmek mümkün değildir; kalite aynı satıcıdan alınan ürünler arasında bile değişiklik gösterebilir. Ancak güvenilir satıcıların genellikle kaliteli ürünler sunduğu bilinir.
+    a: Bir ürünün kalitesini garanti etmek mümkün değildir; aynı satıcıdan alınan ürünler arasında bile kalite değişebilir. Ancak güvenilir satıcılar genellikle kaliteli ürünler sunmalarıyla bilinir.
   - q: Satıcılarla nasıl iletişime geçebilirim?
-    a: 'Her satıcının resmî web sitesindeki WhatsApp iletişim bağlantısını kullanın: Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/) veya Jenny (https://jenny.airreps.info/go/whatsapp/). Alternatif olarak https://airreps.link/discord adresindeki AirReps Discord sunucusunda yardım isteyebilirsiniz.'
+    a: 'Satıcının resmî web sitesindeki WhatsApp iletişim bağlantısını kullanın: Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/) veya Jenny (https://jenny.airreps.info/go/whatsapp/). Alternatif olarak, https://airreps.link/discord adresindeki AirReps Discord sunucusundan yardım isteyin.'
   - q: En iyi satıcı hangisi?
-    a: 'En iyi satıcı ihtiyaçlarınıza göre değişir. Satıcılar genellikle benzer ürünler sunar — örneğin, Jenny''deki Pro 2 V5.2 TB ile HiCity''deki aynıdır. Farklar destek, kargo süreleri ve satın alma platformlarında ortaya çıkar.'
+    a: 'En iyi satıcı, ihtiyaçlarınıza göre değişir. Satıcılar genellikle benzer ürünler sunar; örneğin, Jenny''den alınan bir Pro 2 V5.2 TB, HiCity''den alınanla aynıdır. Farklılıklar destek, kargo süreleri ve satın alma platformlarından kaynaklanır.'
   - q: Takip bilgilerim Çince. Ne yapmalıyım?
-    a: 'Güncellemeleri İngilizce görmek için takip numarasını kopyalayıp 17Track''e (https://www.17track.net/) yapıştırın. Alternatif olarak, takip güncellemelerini Google Translate''e yapıştırabilirsiniz.'
+    a: 'Takip numarasını kopyalayıp 17Track''e (https://www.17track.net/) yapıştırarak güncellemeleri İngilizce görün. Alternatif olarak, takip güncellemelerini Google Translate''e yapıştırın.'
   - q: Kartım çalışmıyor. Ne yapmalıyım?
-    a: Alternatif ödeme yöntemlerini sormak için satıcıyla iletişime geçin. Wise gibi bazı yöntemler alıcı koruması sunmaz. Ayrıca farklı bir kart deneyebilir veya farklı bir satıcıdan satın alabilirsiniz.
+    a: Alternatif ödeme yöntemlerini sormak için satıcıyla iletişime geçin. Wise gibi bazı yöntemler alıcı koruması sunmaz. Farklı bir kart deneyebilir veya başka bir satıcıdan satın alabilirsiniz.
   - q: Kredi Kartıyla ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
-    a: 'Güvenilir satıcılar, Kredi Kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız kripto satın alır ve bu işlem siparişi tamamlar. KYC''den kaçınmak istiyorsanız, kimlik kontrolü olmadan normal kredi kartlarını kabul eden bir aracı olan KakoBuy''u kullanın.'
+    a: 'Güvenilir satıcılar, Kredi Kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız kripto para satın alır ve bu işlem siparişi tamamlar. KYC''den kaçınmak istiyorsanız, kimlik doğrulaması olmadan normal kredi kartlarını kabul eden bir aracı olan KakoBuy''u kullanın.'
 ---
-# AirPods replikaları nereden satın alınır?
+# AirPods Kopyaları Nereden Satın Alınır
 
-::: tip Önce sürümleri karşılaştırın
-Bu liste güncel tutulmaktadır. Daha yüksek bir sürüm genellikle daha iyi bir ürün anlamına gelir — ancak her zaman değil; bu nedenle satın almadan önce [sürüm bilgilerini](/tr/version-info/general) karşılaştırın.
-:::
+## Bağlantılarını görüntülemek istediğiniz ürünü seçin
 
-Aşağıdaki liste yalnızca doğrulanmış satıcılara ait bağlantıları içerir. Güvenilir olduğunu ve doğrulanmayı hak ettiğini düşündüğünüz satıcılar biliyorsanız lütfen bir Ultimate Guide yazarına bildirin veya ürünleri hakkında bir inceleme yazıp AirReps forumlarında yayımlayın. Apple AirPods replikalarınızın kalitesini ve özgünlüğünü güvence altına almak için yalnızca bu doğrulanmış satıcılardan satın almanızı öneririz.
-
-Bazı satıcı ve alışveriş aracısı bağlantıları AirReps'e komisyon kazandırabilir.
-
-## Bağlantılarını görmek istediğiniz ürünü seçin
-
-- [AirPods](/tr/links/airpods) — AirPods 5 (yakında), 4, 3, 2
+- [AirPods](/tr/links/airpods) — AirPods 5 (Yakında), 4, 3, 2
 - [AirPods Pro](/tr/links/pro) — Pro 3, Pro 2, Pro 1
 - [AirPods Max](/tr/links/airpods-max)
 
-## AirPods replikalarının fiyatı ne kadar?
+::: tip Önce sürümleri karşılaştırın
+Bu liste güncel tutulur. Daha yüksek bir sürüm genellikle daha iyi bir ürün anlamına gelir — ancak her zaman değil; bu nedenle satın almadan önce [sürüm bilgilerini](/tr/version-info/general) karşılaştırın.
+:::
 
-Fiyatlar modele ve sürüme göre değişir ve zaman içinde dalgalanır; ancak genel bir kılavuz olarak güvenilir satıcılar genellikle şu fiyatları talep eder:
+Aşağıdaki listede yalnızca doğrulanmış satıcıların bağlantıları yer alır. Güvenilir olduğunu düşündüğünüz ve doğrulanmayı hak eden satıcılar biliyorsanız lütfen bir Ultimate Guide yazarına bildirin veya ürünleri hakkında bir inceleme yazıp AirReps forumlarında yayımlayın. Apple AirPods kopyalarınızın kalitesini ve orijinalliğini güvence altına almak için yalnızca bu doğrulanmış satıcılardan satın almanızı öneririz.
+
+Bazı satıcı ve alışveriş aracısı bağlantıları AirReps'e komisyon kazandırabilir.
+
+## AirPods kopyaları ne kadar tutar?
+
+Fiyatlar modele ve sürüme göre değişir ve zaman içinde dalgalanır; ancak kabaca, güvenilir satıcılar genellikle şu fiyatları sunar:
 
 | Model | Tipik fiyat (USD) |
 |-------|---------------------|
 | AirPods 2 | ~$26 |
-| AirPods 3 | ~$30 |
+| AirPods 3 | Şu anda güvenilir satıcılarda listelenmiyor |
 | AirPods 4 | ~$29–52 |
 | AirPods Pro 2 | ~$50–58 |
-| AirPods Pro 3 | ~$27–67 |
+| AirPods Pro 3 | ~$27–68 |
 | AirPods Max | ~$93–126 |
 
-Her model içinde daha yüksek bir sürüm numarası genellikle daha pahalıdır ve ek özellikler sunar. Size özel bir seçim için [quizi](/tr/quiz) çözün veya sürüm başına sunulan seçenekleri görmek için yukarıdaki bir modelin bağlantı sayfasını açın. Bütçeniz kısıtlı mı? [$50 altındaki en iyi AirPods replikaları](/tr/articles/best-airpods-replicas-under-50) derlememiz bütçe dostu seçenekleri karşılaştırır.
+Her model içinde, daha yüksek sürüm numarası genellikle daha pahalıdır ve ek özellikler sunar. Size uygun seçeneği bulmak için [testi](/tr/quiz) çözün veya sürümlere göre sunulan seçeneklerin tam listesi için yukarıdaki model bağlantı sayfasını açın. Bütçeniz kısıtlı mı? [50 doların altındaki en iyi AirPods kopyalarını](/tr/articles/best-airpods-replicas-under-50) karşılaştırdığımız derlememize göz atın.
 
 ## Güvenilir satıcılar (resmî web siteleri)
 
@@ -52,11 +52,11 @@ Her model içinde daha yüksek bir sürüm numarası genellikle daha pahalıdır
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-Alibaba üzerinden sipariş vermeyi tercih ederseniz Earhive'ın [Alibaba mağazası](https://airreps.link/ehali) da var.
+Alibaba üzerinden sipariş vermeyi tercih ederseniz Earhive'in bir [Alibaba mağazası](https://airreps.link/ehali) da var.
 
 ## Ödeme yöntemleri {#payment-methods}
 
-Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemini kabul eder:
+Tüm güvenilir satıcılar, size kolaylık sağlamak için birden fazla ödeme yöntemi kabul eder:
 
 | Ödeme yöntemi | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
@@ -78,52 +78,52 @@ Tüm güvenilir satıcılar, kolaylığınız için birden fazla ödeme yöntemi
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Satıcıların etkinleştirdiği ödeme altyapıları en son 29 Ekim 2026'da kontrol edilmiştir. Belirleyici olan satıcının ödeme sayfasıdır; güncel kullanılabilirlik ülkeye veya siparişe göre değişebilir.
+Her satıcının etkin ödeme altyapıları en son 29 Ekim 2026'da kontrol edildi. Satıcının ödeme sayfasındaki bilgiler esas alınmalıdır; yöntemlerin kullanılabilirliği ülkeye veya siparişe göre değişebilir.
 
-HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri HiCity'nin ödeme sayfasından alınmıştır ve en son 29 Ekim 2026'da tamamlanan ödemelerle kontrol edilmiştir. Her sipariş için son uygunluğu OnlyPay onaylar. Birleşik Krallık'taki alıcılar ödeme sayfasında Trustly'yi görür, ancak Birleşik Krallık'tan yapılan ödemeler tamamlanmaz; bu yüzden orada başka bir yöntem seçin. ABD, Kanada, Avustralya veya Fransa için OnlyPay seçeneği yoktur.
+HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri HiCity'nin ödeme sayfasından alınmıştır ve tamamlanmış ödemelerle karşılaştırılarak en son 29 Ekim 2026'da kontrol edilmiştir. Her sipariş için nihai kullanılabilirliği OnlyPay belirler. Birleşik Krallık'taki alıcılar ödeme sayfasında Trustly'yi görür, ancak Birleşik Krallık ödemeleri gerçekleşmez; bu nedenle orada başka bir yöntem seçin. ABD, Kanada, Avustralya veya Fransa için OnlyPay seçeneği sunulmaz.
 
 ::: tip Ödeme yaparken sorun mu yaşıyorsunuz?
-Satıcıların web sitelerinde ödeme yaparken veya siparişi tamamlarken sorun yaşıyorsanız, [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz. PayPal ve kredi/banka kartları gibi, müşterilerin yaklaşık %90'ı için çalışan standart ödeme yöntemlerini destekler ve genel olarak iyi bir aracıdır. KakoBuy'u doğrudan satıcının ödeme sayfasında da seçebilirsiniz; sizi satıcının KakoBuy'daki ürün sayfasına götürür. Ayrıntılar için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
+Satıcıların web sitelerinde ödeme yaparken veya siparişi tamamlarken sorun yaşıyorsanız [KakoBuy](https://airreps.link/kakobuy) kullanmanızı öneririz. Müşterilerin yaklaşık %90'ının kullanabildiği PayPal ve kredi/banka kartları gibi standart ödeme yöntemlerini destekler ve genel olarak iyi bir aracıdır. Satıcının ödeme sayfasında doğrudan KakoBuy'u da seçebilirsiniz; bu seçenek sizi satıcının KakoBuy'daki ilanına yönlendirir. [KakoBuy rehberimize](/tr/ordering/kakobuy) göz atın.
 :::
 
-::: tip Wise inceleme süresi
-Wise üzerinden yapılan ödemeler, satıcı tarafından manuel olarak incelenmelidir; bu işlem 24 saate kadar sürebilir.
+::: tip Wise ödemelerinin incelenme süresi
+Wise üzerinden yapılan ödemelerin satıcı tarafından manuel olarak incelenmesi gerekir; bu işlem 24 saate kadar sürebilir.
 
-Weidian siparişleri için bir aracı kullanmanız gerekir. Kredi kartlarını ve birden fazla ödeme yöntemini kabul eden [KakoBuy'u](https://airreps.link/kakobuy) öneriyoruz — adım adım açıklama için [KakoBuy rehberimize](/tr/ordering/kakobuy) bakın.
+Weidian siparişleri için bir aracı kullanmanız gerekir. Kredi kartlarını ve çeşitli ödeme yöntemlerini kabul eden [KakoBuy'u](https://airreps.link/kakobuy) öneririz — adım adım anlatım için [KakoBuy rehberimize](/tr/ordering/kakobuy) göz atın.
 :::
 
 ## SSS
 
 ::: details Kaliteli bir ürün alacak mıyım?
-Bir ürünün kalitesini garanti etmek mümkün değildir; aynı satıcıdan alınan ürünler arasında bile kalite değişebilir. Bununla birlikte, özgün metinde adı geçen satıcıların genellikle kaliteli ürünler sunduğu bilinmektedir.
+Ürün kalitesini garanti etmek mümkün değildir; aynı satıcıdan alınan ürünler arasında bile kalite farklılık gösterebilir. Bununla birlikte, orijinal metinde adı geçen satıcılar genellikle kaliteli ürünler sunmalarıyla bilinir.
 :::
 
 ::: details Satıcılarla nasıl iletişime geçebilirim?
-Her güvenilir satıcının resmî web sitesinde bir WhatsApp iletişim bağlantısı bulunur: [Earhive](https://earhive.com/go/whatsapp/), [HiCity](https://hicitypods.com/go/whatsapp/) ve [Jenny](https://jenny.airreps.info/go/whatsapp/). Alternatif olarak [AirReps Discord sunucusunda](https://airreps.link/discord) yardım isteyebilirsiniz.
+Her güvenilir satıcının web sitesinde resmî bir WhatsApp iletişim bağlantısı bulunur: [Earhive](https://earhive.com/go/whatsapp/), [HiCity](https://hicitypods.com/go/whatsapp/) ve [Jenny](https://jenny.airreps.info/go/whatsapp/). Dilerseniz [AirReps Discord](https://airreps.link/discord) sunucusundan da yardım isteyebilirsiniz.
 :::
 
 ::: details En iyi satıcı hangisi?
-En iyi satıcı kesin olarak belirlenemez; bu, ihtiyaçlarınıza ve satın almayı seçtiğiniz platforma göre değişir. Satıcılar genellikle benzer ürünler sunar; örneğin Jenny'deki 'Pro 2 V5.2 TB', HiCity'dekiyle aynıdır. Ancak destek, kargo süreleri ve satın alımların gerçekleştirildiği platformlar gibi konularda farklılıklar ortaya çıkar.
+En iyi satıcı kesin olarak belirlenemez; bu, ihtiyaçlarınıza ve satın almayı tercih ettiğiniz platforma göre değişir. Satıcılar genellikle benzer ürünler sunar; örneğin Jenny'deki 'Pro 2 V5.2 TB' ile HiCity'deki aynı ürün birebir aynıdır. Ancak destek, kargo süreleri ve alışverişin yapıldığı platform gibi konularda farklılıklar olabilir.
 :::
 
-::: details x gün önce sipariş verdim ve paketim henüz gelmedi. Ne yapmalıyım?
-Çin'den yapılan gönderilerin ulaşması bazen uzun sürebilir. Takip bilgileri paket Çin'den ayrıldığında kaybolabilir ve yalnızca ülkenizdeki gümrüğe ulaştığında güncellenebilir. Uzun zaman geçtiyse ve hâlâ herhangi bir takip bilgisi mevcut değilse güncelleme almak için satıcınızla iletişime geçmelisiniz.
+::: details x gün önce sipariş verdim ama paketim hâlâ gelmedi. Ne yapmalıyım?
+Çin'den gönderilen siparişlerin ulaşması bazen uzun sürebilir. Paket Çin'den ayrıldıktan sonra takip bilgileri kaybolabilir ve yalnızca ülkenizdeki gümrüğe ulaştığında güncellenir. Uzun süre geçmesine rağmen hâlâ takip bilgisi yoksa satıcınızla iletişime geçerek bilgi alın.
 :::
 
 ::: details Takip bilgilerim Çince. Ne yapmalıyım?
-Çince takip bilgileriniz varsa takip numarasını kopyalayıp [17Track](https://www.17track.net/) web sitesine yapıştırabilirsiniz. Böylece güncellemeleri İngilizce olarak görebilirsiniz. Alternatif olarak takip güncellemelerini bir bilgisayarda açıp farklı bir dilde görmek için Google Translate'e yapıştırabilirsiniz.
+Takip bilgileriniz Çinceyse takip numarasını kopyalayıp [17Track](https://www.17track.net/) web sitesine yapıştırabilirsiniz. Böylece güncellemeleri İngilizce görebilirsiniz. Alternatif olarak, takip güncellemelerini bilgisayarda açıp farklı bir dilde görüntülemek için Google Translate'e yapıştırabilirsiniz.
 :::
 
 ::: details Kartım çalışmıyor. Ne yapmalıyım?
-Kartınız çalışmıyorsa satıcıyla iletişime geçip farklı bir ödeme yöntemini kabul edip etmeyeceklerini sorun. Wise gibi bazı alternatif ödeme yöntemlerinin alıcı koruması sunmadığını unutmayın. Satıcı farklı bir ödeme yöntemini kabul edemiyorsa farklı bir kart kullanmayı veya başka bir satıcıdan satın almayı deneyebilirsiniz.
+Kartınız çalışmıyorsa satıcıyla iletişime geçip başka bir ödeme yöntemi kabul edip etmeyeceklerini sorun. Wise gibi bazı alternatif ödeme yöntemlerinin alıcı koruması sunmadığını unutmayın. Satıcı farklı bir ödeme yöntemi kabul edemiyorsa başka bir kart kullanmayı veya başka bir satıcıdan satın almayı deneyebilirsiniz.
 :::
 
 <a id="credit-card"></a>
 
-::: details Kredi kartıyla ödeme yaparken neden bir kripto web sitesine yönlendiriliyorum?
-Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kripto ödeme ağ geçidi kullanır. Kartınız kripto satın almak için kullanılır ve bu kripto daha sonra siparişinizi güvenli ve verimli bir şekilde tamamlamak için kullanılır.
+::: details Kredi kartıyla ödeme yaparken neden bir kripto para web sitesine yönlendiriliyorum?
+Güvenilir satıcılar, kredi kartı ödemelerini işlemek için güvenli bir kripto ödeme altyapısı kullanır. Kartınız kripto para satın almak için kullanılır; ardından bu kripto para siparişinizi güvenli ve hızlı bir şekilde tamamlamak için kullanılır.
 
-**Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik kontrolü (KYC) isteyebilir; ancak bu her zaman gerekli değildir.**
+**Not: Bazı ödeme işlemcileri yerel düzenlemelere uymak için zaman zaman kimlik doğrulaması (KYC) isteyebilir; ancak bu her zaman gerekli değildir.**
 
-**Alternatif:** KYC doğrulaması ihtimalinden tamamen kaçınmak istiyorsanız, satıcılardan sizin adınıza ürün satın alan ve gönderimden önce kalite kontrolü (QC) fotoğrafları sağlayan bir aracı platform olan [KakoBuy'u](https://airreps.link/kakobuy) kullanmayı düşünebilirsiniz. KakoBuy, kredi ve banka kartlarını kabul eden standart ödeme işlemcilerini kullanır ve **KYC doğrulaması veya kimlik kontrolü gerektirmez**. Böylece QC fotoğraflarının sağladığı ek güvenceyi elde ederken kartınızı KYC gereklilikleri olmadan kullanmak istiyorsanız mükemmel bir seçenek sunar. Ayrıntılı açıklama için [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) bakın.
+**Alternatif:** KYC doğrulaması istenmesi ihtimalinden kaçınmak istiyorsanız, ürünleri sizin adınıza satıcılardan satın alan ve gönderim öncesinde kalite kontrol (QC) fotoğrafları sağlayan bir aracı platform olan [KakoBuy'u](https://airreps.link/kakobuy) kullanmayı düşünebilirsiniz. KakoBuy, kredi ve banka kartlarını kabul eden standart ödeme işlemcilerini kullanır ve **asla KYC doğrulaması veya kimlik kontrolü gerektirmez**. Böylece QC fotoğraflarının sağladığı ek güvenceyi alırken kartınızı KYC şartı olmadan kullanabilirsiniz. Adım adım anlatım için [KakoBuy sipariş rehberimize](/tr/ordering/kakobuy) göz atın.
 :::

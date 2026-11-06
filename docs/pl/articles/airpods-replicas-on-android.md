@@ -1,71 +1,71 @@
 ---
 title: Czy repliki AirPods działają z Androidem?
-description: 'Tak — oto jak repliki AirPods zachowują się na Androidzie: parowanie, które funkcje działają, dlaczego najlepsze aplikacje do oprogramowania układowego są dostępne wyłącznie na Androidzie i co sprawdzić przed zakupem.'
-category: Korzystanie z replik
+description: 'Tak — oto jak repliki AirPods działają na Androidzie: parowanie, dostępne funkcje, dlaczego większość aplikacji do aktualizacji oprogramowania układowego jest dostępna tylko na Androida oraz co sprawdzić przed zakupem.'
+category: Korzystanie z Twoich replik
 order: 4
 ---
-# Czy podróbki AirPods działają z Androidem?
+# Czy repliki AirPods działają z Androidem?
 
-Tak. Podróbki AirPods łączą się z Androidem jak dowolne słuchawki Bluetooth — można słuchać muzyki, prowadzić rozmowy i regulować głośność. Elementy dostępne wyłącznie w iOS są powiązane z oprogramowaniem Apple, a część z nich ma swoje obejścia. Jest nawet obszar, w którym użytkownicy Androida mają *lepiej*: aplikacje firmware. Oto pełny obraz sytuacji.
+Tak. Repliki AirPods łączą się z Androidem jak wszystkie słuchawki Bluetooth — możesz odtwarzać muzykę, odbierać połączenia i regulować głośność. Tylko te elementy obsługi, które zależą od oprogramowania Apple, działają inaczej, a część z nich można obejść. Jest nawet jedna dziedzina, w której użytkownicy Androida mają *lepiej*: aplikacje do aktualizacji oprogramowania sprzętowego. Oto pełny obraz sytuacji.
 
-> **Krótka odpowiedź:** Tak, podróbki AirPods działają z Androidem jak standardowe, wysokowydajne słuchawki Bluetooth. Podstawowe odtwarzanie, rozmowy telefoniczne, wykrywanie słuchawek w uszach oraz aktywna redukcja hałasu (ANC) działają natywnie. Co więcej, Android jest jedynym systemem operacyjnym obsługującym tworzone przez społeczność aplikacje towarzyszące dla chipsetów (takie jak FlyCC i CloudCC), umożliwiające niestandardowy parametryczny korektor EQ oraz aktualizacje firmware OTA.
+> **Krótka odpowiedź:** Tak, repliki AirPods działają z Androidem jak standardowe, wysokowydajne słuchawki Bluetooth. Odtwarzanie, połączenia telefoniczne, wykrywanie słuchawek w uszach i aktywna redukcja szumów (ANC) działają natywnie. Co więcej, Android to jedyny system operacyjny obsługujący tworzone przez społeczność aplikacje towarzyszące dla chipsetów (takie jak FlyCC i CloudCC), które umożliwiają korzystanie z parametrycznego korektora EQ i aktualizacji oprogramowania sprzętowego OTA.
 
-## Parowanie: bez wyskakującego okienka, ten sam rezultat
+## Parowanie: bez wyskakującego okienka, ten sam efekt
 
-Słynne wyskakujące okienko parowania to funkcja iPhone’a — na Androidzie parujesz słuchawki z poziomu menu Bluetooth, tak jak każdy inny zestaw słuchawkowy. To różnica kosmetyczna, a nie funkcjonalna: po sparowaniu wszystko inne działa jak w zwykłych słuchawkach. (Jeśli masz również iPhone’a, możesz użyć go do konfiguracji jednym stuknięciem, a następnie przełączyć słuchawki na Androida).
+Słynne wyskakujące okienko parowania to funkcja iPhone’a — na Androidzie parujesz słuchawki w menu Bluetooth, tak jak każdy inny zestaw słuchawkowy. To różnica kosmetyczna, a nie funkcjonalna: po sparowaniu wszystko inne działa jak w zwykłych słuchawkach. (Jeśli masz też iPhone’a, możesz użyć go do konfiguracji jednym stuknięciem, a potem przełączyć słuchawki na Androida).
 
 ## Co działa na Androidzie
 
-- **Podstawowe odtwarzanie** — muzyka, rozmowy, głośność i sterowanie utworami działają.
-- **ANC i tryb transparentny** — są to funkcje chipsetu, a nie Apple, więc działają na Androidzie tak samo.
+- **Podstawowe odtwarzanie** — muzyka, połączenia, głośność i sterowanie utworami działają.
+- **ANC i tryb kontaktu** — to funkcje chipsetu, a nie Apple, więc działają tak samo na Androidzie.
 - **Zasięg i opóźnienia** — taki sam zasięg około 10 metrów jak w oryginalnych AirPods, a opóźnienia często są porównywalne lub mniejsze.
-- **Połączenia wielopunktowe** — większość podróbek łączy się jednocześnie z kilkoma urządzeniami, co jest przydatne, jeśli przełączasz się między telefonem a laptopem.
+- **Połączenia wielopunktowe** — większość replik łączy się z kilkoma urządzeniami jednocześnie, co przydaje się, gdy przełączasz się między telefonem a laptopem.
 
 ## Co wymaga iPhone’a
 
-Kilka udogodnień to funkcje oprogramowania Apple i poza iOS działają inaczej:
+Niektóre udogodnienia są funkcjami oprogramowania Apple i poza iOS działają inaczej:
 
-- **Zmiana nazwy i konfiguracja sterowania stuknięciami** odbywają się przez iOS. Sposób opisany w naszym [przewodniku po funkcjach](/pl/introduction/features) jest prosty: pożycz iPhone’a, raz zmień na nim ustawienia, a zostaną one przeniesione do samych słuchawek — w większości przypadków pozostają zapisane.
-- **Wyświetlanie lokalizacji GPS** w usługach Apple jest dostępne wyłącznie w iOS.
-- **Przełączanie między urządzeniami iCloud Connect** (automatyczne przełączanie między urządzeniami Apple) działa tylko ze sprzętem Apple i wyłącznie w modelach Huilian — na Androidzie urządzenia przełączasz ręcznie, tak jak w przypadku dowolnych słuchawek.
+- **Zmiana nazwy i konfiguracja sterowania stuknięciami** odbywają się w iOS. Sposób opisany w naszym [przewodniku po funkcjach](/pl/introduction/features): pożycz iPhone’a, wprowadź na nim ustawienia, a zostaną one zapisane w samych słuchawkach — zazwyczaj są trwałe.
+- **Wyświetlanie lokalizacji GPS** w usługach Apple jest dostępne tylko w iOS.
+- **Przełączanie między urządzeniami przez iCloud Connect** (automatyczne przełączanie między urządzeniami Apple) działa wyłącznie ze sprzętem Apple i tylko w modelach Huilian — na Androidzie przełączasz urządzenia ręcznie, jak w przypadku dowolnych słuchawek.
 
-Żadna z tych kwestii nie wpływa na codzienne korzystanie z Androida; są to udogodnienia konfiguracyjne i dodatki ekosystemu Apple.
+Żadna z tych rzeczy nie wpływa na codzienne korzystanie z Androida; to udogodnienia konfiguracyjne i dodatki z ekosystemu Apple.
 
-## Przewaga Androida: aplikacje firmware
+## Atut Androida: aplikacje do aktualizacji oprogramowania sprzętowego
 
-I tu pojawia się niespodzianka — **większość tworzonych przez społeczność aplikacji firmware jest dostępna wyłącznie na Androidzie**. Aplikacje te aktualizują firmware podróbek (co może dodać funkcje takie jak dźwięk przestrzenny lub poprawić stabilność) oraz dostrajają korektor EQ; pomagają też przede wszystkim ustalić, z jakiego chipsetu korzysta dany egzemplarz.
+Oto niespodzianka — **większość społecznościowych aplikacji do aktualizacji oprogramowania sprzętowego działa tylko na Androidzie**. Te aplikacje aktualizują oprogramowanie sprzętowe replik (co może dodać funkcje takie jak Spatial Audio lub poprawić stabilność) i pozwalają dostroić korektor EQ. To także dzięki nim możesz sprawdzić, jakiego chipsetu używają Twoje słuchawki.
 
-Najważniejsze z nich — FlyCC, CloudCC, BullSuper, StarFun, KKX i inne — wraz z linkami do pobrania oraz tabelami obsługiwanych chipsetów zostały zebrane na naszej stronie [przydatne aplikacje](/pl/useful-apps). Przed instalacją warto wiedzieć dwie rzeczy:
+Główne aplikacje — FlyCC, CloudCC, BullSuper, StarFun, KKX i inne — wraz z linkami do pobrania i tabelami obsługiwanych chipsetów znajdziesz na stronie [przydatnych aplikacji](/pl/useful-apps). Przed instalacją warto wiedzieć dwie rzeczy:
 
 1. Nie ma ich w Sklepie Play. Najpierw włącz w ustawieniach zabezpieczeń opcję **„Instalowanie z nieznanych źródeł”**.
-2. Dopasuj aplikację do swojego chipsetu. Nie wiesz, jaki masz chipset? Same aplikacje służą jako test — wypróbuj je po kolei i sprawdź, która się połączy, albo najpierw przeczytaj stronę [informacje o wersji](/pl/version-info/general).
+2. Dobierz aplikację do chipsetu. Nie wiesz, jaki masz chipset? Same aplikacje pomogą go rozpoznać — wypróbuj je po kolei i sprawdź, która się połączy, albo najpierw przeczytaj stronę [informacje o wersjach](/pl/version-info/general).
 
-## Kupowanie podróbek jako użytkownik Androida
+## Zakup replik jako użytkownik Androida
 
-Wszystkie informacje z poradników zakupowych nadal obowiązują: wybierz wersję na stronie [porównanie wersji](/pl/version-info/general) (lub rozwiąż [quiz](/pl/quiz)), kup od [zaufanego sprzedawcy](/pl/links/info) i skorzystaj z [poradnika zamawiania](/pl/ordering/how-to-buy), aby uzyskać informacje o płatnościach i wysyłce. Jedna uwaga dotycząca Androida: obsługa chipsetów w aplikacjach firmware jest różna, więc jeśli aktualizacje firmware są dla Ciebie ważne, wybierz aktualne wersje Huilian i TigerBuilder wymienione w poradniku — to właśnie one są aktywnie obsługiwane przez aplikacje.
+Wszystkie wskazówki dotyczące zakupów pozostają bez zmian: wybierz wersję na stronie [porównania wersji](/pl/version-info/general) (lub rozwiąż [quiz](/pl/quiz)), kup u [zaufanego sprzedawcy](/pl/links/info) i skorzystaj z [przewodnika po zamówieniu](/pl/ordering/how-to-buy), aby uzyskać informacje o płatnościach i wysyłce. Wskazówka dotycząca Androida: obsługa chipsetów przez aplikacje do aktualizacji oprogramowania sprzętowego jest różna, więc jeśli aktualizacje są dla Ciebie ważne, wybierz aktualne wersje Huilian i TigerBuilder wymienione w przewodniku — to one są aktywnie obsługiwane przez te aplikacje.
 
-A jeśli korzystasz z mieszanego ekosystemu (telefon z Androidem, Mac lub iPad), sprawdź nasze [uwagi dotyczące łączności](/pl/introduction/connectivity): modele Huilian są zalecane zawsze, gdy w grę wchodzi MacBook.
+Jeśli korzystasz z różnych ekosystemów (telefon z Androidem, Mac lub iPad), zajrzyj do naszych [wskazówek dotyczących łączności](/pl/introduction/connectivity): modele Huilian są najlepszym wyborem, gdy w grę wchodzi MacBook.
 
 Powiązane poradniki dla użytkowników Androida:
-- Problemy z parowaniem lub zrywanie połączenia? Skorzystaj z poradnika [Fałszywe AirPods nie chcą się połączyć](/pl/articles/fake-airpods-wont-connect).
-- Chcesz wyczyścić zapisane parowanie lub uruchomić ponownie oporną słuchawkę? Sprawdź [Jak zresetować fałszywe AirPods](/pl/articles/how-to-reset-fake-airpods).
-- Porównujesz podróbki z budżetowymi słuchawkami na Androida? Przeczytaj [Fałszywe AirPods kontra budżetowe słuchawki](/pl/articles/fake-airpods-vs-budget-earbuds).
-- Szukasz sprawdzonych budżetowych propozycji? Zobacz [Najlepsze podróbki AirPods do 50 USD](/pl/articles/best-airpods-replicas-under-50).
+- Problemy z parowaniem lub zerwane połączenie? Skorzystaj z poradnika [Fałszywe AirPods nie chcą się połączyć](/pl/articles/fake-airpods-wont-connect).
+- Chcesz usunąć zapisane parowanie lub zrestartować oporną słuchawkę? Zobacz [Jak zresetować fałszywe AirPods](/pl/articles/how-to-reset-fake-airpods).
+- Porównujesz repliki ze sklepowymi słuchawkami do Androida? Przeczytaj [Fałszywe AirPods a tanie słuchawki](/pl/articles/fake-airpods-vs-budget-earbuds).
+- Szukasz sprawdzonych niedrogich modeli? Zobacz [Najlepsze repliki AirPods poniżej 50 USD](/pl/articles/best-airpods-replicas-under-50).
 
 ## FAQ
 
 ::: details Czy fałszywe AirPods łączą się z Androidem?
-Tak — podróbki parują się z Androidem jak dowolne słuchawki Bluetooth. Brakuje tylko wyskakującego okienka parowania Apple, które jest funkcją iPhone’a i którego oryginalne AirPods również nie mają na Androidzie.
+Tak — repliki parują się z Androidem jak wszystkie słuchawki Bluetooth. Brakuje tylko wyskakującego okienka parowania Apple, które jest funkcją iPhone’a i nie pojawia się na Androidzie również w przypadku oryginalnych AirPods.
 :::
 
 ::: details Czy można zmienić nazwę fałszywych AirPods na Androidzie?
-Nie bezpośrednio — zmiana nazwy i ustawienia sterowania stuknięciami odbywają się przez iOS. Obejście polega na jednokrotnym wprowadzeniu zmian na dowolnym iPhonie; zostaną one zapisane w słuchawkach i przeniesione na Androida. Niektóre chipsety mają także własne aplikacje na Androida, które oferują więcej możliwości.
+Nie bezpośrednio — zmianę nazwy i ustawienia sterowania stuknięciami wprowadza się w iOS. Można to obejść, wprowadzając zmiany raz na dowolnym iPhonie; zostaną zapisane w słuchawkach i będą obowiązywać po połączeniu z Androidem. Niektóre chipsety mają też własne aplikacje na Androida, które oferują więcej możliwości.
 :::
 
-::: details Dlaczego moje podróbki nie łączą się z aplikacjami firmware?
-Albo aplikacja nie pasuje do Twojego chipsetu, albo podróbki korzystają z budżetowego chipsetu Jieli, którego nie obsługuje żadna aplikacja społeczności. Przetestuj po kolei aplikacje ze strony [przydatne aplikacje](/pl/useful-apps) — jeśli żadna się nie połączy, masz podróbkę z niższej półki.
+::: details Dlaczego moje repliki nie łączą się z aplikacjami do aktualizacji oprogramowania sprzętowego?
+Aplikacja może nie pasować do chipsetu albo repliki mogą używać niższej klasy chipsetu Jieli, którego nie obsługuje żadna aplikacja społecznościowa. Wypróbuj po kolei aplikacje ze strony [przydatnych aplikacji](/pl/useful-apps) — jeśli żadna się nie połączy, masz replikę niższej klasy.
 :::
 
-::: details Czy podróbki AirPods brzmią gorzej na Androidzie?
-Nie. Jakość dźwięku zależy od przetwornika i chipsetu w słuchawkach, a nie od telefonu. Jeśli już, użytkownicy Androida mogą lepiej dostroić dźwięk, ponieważ aplikacje firmware obsługujące korektor EQ są w większości dostępne wyłącznie na Androidzie.
+::: details Czy repliki AirPods brzmią gorzej na Androidzie?
+Nie. Jakość dźwięku zależy od przetwornika i chipsetu w słuchawkach, a nie od telefonu. Jeśli już, użytkownicy Androida mogą precyzyjniej dostroić dźwięk, bo aplikacje do aktualizacji oprogramowania sprzętowego z korektorem EQ działają głównie na Androidzie.
 :::

@@ -1,10 +1,10 @@
 ---
-title: 'Comprar réplicas de AirPods Max: Enlaces del vendedor'
-description: Versiones verificadas de réplicas de AirPods Max y enlaces de vendedores confiables.
+title: 'Comprar réplicas de AirPods Max: enlaces de vendedores'
+description: Versiones verificadas de réplicas de AirPods Max y enlaces confiables de vendedores.
 ---
 # Comprar réplicas de AirPods Max
 
-Las réplicas de AirPods Max son la opción circumaural, que van desde construcciones económicas de plástico hasta la V3 con cuerpo de metal. Compáralas en la página [Información de versiones de AirPods Max](/es/version-info/airpods-max) antes de comprar, o haz el [cuestionario](/es/quiz).
+Las réplicas de AirPods Max son la opción circumaural, con modelos que van desde construcciones económicas de plástico hasta la V3 con cuerpo metálico. Compáralas en la página de [información sobre las versiones de AirPods Max](/es/version-info/airpods-max) antes de comprar, o responde al [cuestionario](/es/quiz).
 
 ## Versiones y vendedores
 
@@ -16,7 +16,7 @@ Las réplicas de AirPods Max son la opción circumaural, que van desde construcc
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V3 (Metal)</span></td>
+    <td><span class="version-badge">V3 (Metal)</span><br>Se vende como Max V3 TB</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Sitio web</a>
@@ -86,9 +86,9 @@ Las réplicas de AirPods Max son la opción circumaural, que van desde construcc
 </table>
 
 
-> [!NOTA]
-> Las réplicas de AirPods Max están disponibles en varios colores. Para ver las opciones detalladas, consulta los sitios web de los respectivos vendedores.
+> [!NOTE]
+> Las réplicas de AirPods Max están disponibles en varios colores. Para consultar las opciones detalladas, visita los sitios web de los vendedores correspondientes.
 
-::: tip Los pedidos de Weidian requieren agente
-Elegir un enlace de Weidian requiere el uso de un agente para el envío. Recomendamos esta opción solo si deseas consolidar el envío con otros artículos y estás familiarizado con las plataformas de agentes. Para un agente confiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Nuevo en el uso de agentes? Consulta nuestra [guía de pedidos de KakoBuy](/es/ordering/kakobuy).
+::: tip Los pedidos de Weidian requieren un agente
+Al elegir un enlace de Weidian, es necesario utilizar un agente para el envío. Recomendamos esta opción solo si quieres combinar el envío con otros artículos y estás familiarizado con las plataformas de agentes. Para un agente fiable, recomendamos [KakoBuy](https://airreps.link/kakobuy). ¿Es la primera vez que utilizas un agente? Consulta nuestra [guía para hacer pedidos con KakoBuy](/es/ordering/kakobuy).
 :::
