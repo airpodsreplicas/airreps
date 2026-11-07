@@ -4,7 +4,7 @@ description: Vertrauenswürdige Verkäuferlinks für AirPods 4- und AirPods 2-Re
 ---
 <!-- product-family -->
 
-# AirPods
+# AirPods-Nachbildungen kaufen
 
 Vertrauenswürdige Händlerlinks für jede Generation der Standard-AirPods-Repliken: AirPods 4, AirPods 3 und AirPods 2, AirPods 5 folgen noch. Wähle eine Generation aus, um zu ihren Versionen, Preisen und Händlern zu springen.
 

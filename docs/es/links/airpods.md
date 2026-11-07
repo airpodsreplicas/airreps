@@ -4,7 +4,7 @@ description: 'Enlaces de vendedores de confianza para réplicas de AirPods 4 y A
 ---
 <!-- product-family -->
 
-# AirPods
+# Comprar réplicas de AirPods
 
 Enlaces a vendedores de confianza para todas las generaciones estándar de réplicas de AirPods: AirPods 4, AirPods 3 y AirPods 2, y próximamente AirPods 5. Elige una generación para acceder a sus versiones, precios y vendedores.
 

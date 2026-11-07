@@ -4,7 +4,7 @@ description: Sürüme göre AirPods 4 ve AirPods 2 replikaları için güncel fi
 ---
 <!-- product-family -->
 
-# AirPods
+# AirPods kopyaları satın alın
 
 AirPods replikalarının tüm standart nesilleri için güvenilir satıcı bağlantıları: AirPods 4, AirPods 3 ve AirPods 2; yakında AirPods 5 de eklenecek. Sürümlerine, fiyatlarına ve satıcılarına gitmek için bir nesil seçin.
 

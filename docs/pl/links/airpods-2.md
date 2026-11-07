@@ -2,7 +2,7 @@
 title: 'Kup Repliki AirPods 2: Linki Sprzedawców'
 description: Zaufane linki sprzedawców i opcje zakupu dla replik AirPods 2.
 ---
-# Kup repliki AirPods 2
+# Zakup replik AirPods 2
 
 Repliki AirPods 2 to najtańszy sposób wejścia do ekosystemu. Wybierz wersję poniżej lub przeczytaj [informacje o wersjach AirPods 2](/pl/version-info/airpods-2), aby zobaczyć, co oferuje V3E przed zakupem. Nie wiesz, który model Ci odpowiada? Zrób [quiz](/pl/quiz).
 

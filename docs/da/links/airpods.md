@@ -4,7 +4,7 @@ description: Pålidelige links til sælgere af kopier af AirPods 4 og AirPods 2 
 ---
 <!-- product-family -->
 
-# AirPods
+# Køb AirPods-replikaer
 
 Pålidelige forhandlerlinks til hver generation af standardreplikaer af AirPods: AirPods 4, AirPods 3 og AirPods 2, med AirPods 5 på vej. Vælg en generation for at gå til dens versioner, priser og forhandlere.
 

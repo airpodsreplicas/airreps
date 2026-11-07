@@ -2,7 +2,7 @@
 title: 'AirPods 2 Replikalarını Satın Al: Satıcı Bağlantıları'
 description: AirPods 2 replikaları için güvenilir satıcı bağlantıları ve satın alma seçenekleri.
 ---
-# AirPods 2 replikalarını satın alın
+# AirPods 2 kopyaları satın alın
 
 AirPods 2 replikaları ekosisteme girmenin en ucuz yoludur. Aşağıdan bir sürüm seçin veya satın almadan önce V3E'nin neler sunduğunu görmek için [AirPods 2 sürüm bilgilerini](/tr/version-info/airpods-2) inceleyin. Hangi modelin size uygun olduğundan emin değil misiniz? [testi](/tr/quiz) çözün.
 

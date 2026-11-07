@@ -2,7 +2,7 @@
 title: AirPods Pro Replikker (Afløst)
 description: AirPods Pro (1st gen) replikker sælges ikke længere af pålidelige sælgere. Køb AirPods Pro 2 eller Pro 3 replikker i stedet.
 ---
-# AirPods Pro
+# Køb AirPods Pro-replikaer
 
 ::: warning Sælges ikke længere af betroede sælgere
 Den oprindelige kopi af **AirPods Pro (1st generation)** er blevet afløst og er **ikke længere på lager hos nogen af de betroede sælgere** — den er simpelthen for forældet, og fællesskabet er gået videre til nyere, langt mere kapable modeller.

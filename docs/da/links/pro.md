@@ -4,7 +4,7 @@ description: 'Pålidelige sælgerlinks til alle replikaudgaver af AirPods Pro 3 
 ---
 <!-- product-family -->
 
-# AirPods Pro
+# Køb AirPods Pro-replikaer
 
 Links til betroede sælgere for hver generation af AirPods Pro-kopier: AirPods Pro 3 (V7, SE, V6, V5.5), AirPods Pro 2 (V5.4, V5.3, V5.2) og den første generation af AirPods Pro. Vælg en generation for at gå til dens versioner, priser og sælgere.
 

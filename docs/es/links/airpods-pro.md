@@ -2,7 +2,7 @@
 title: AirPods Pro Réplicas (Obsoletas)
 description: Las réplicas de AirPods Pro (1st gen) ya no están disponibles entre los vendedores de confianza. Compra réplicas de AirPods Pro 2 o Pro 3 en su lugar.
 ---
-# AirPods Pro
+# Comprar réplicas de AirPods Pro
 
 ::: warning Ya no se vende a través de vendedores de confianza
 La réplica original **AirPods Pro (1st generation)** ha sido superada y **ningún vendedor de confianza la tiene ya en stock** — está simplemente demasiado anticuada, y la comunidad ha pasado a modelos más nuevos y mucho más capaces.

@@ -3,7 +3,7 @@ title: "Réplicas de AirPods 5: Enlaces de vendedores — Próximamente"
 description: "Esta guía aún no tiene enlaces de compra verificados para réplicas de AirPods 5. La página se actualizará cuando los vendedores de confianza tengan versiones confirmadas disponibles."
 ---
 
-# AirPods 5
+# Comprar réplicas de AirPods 5
 
 ::: warning Próximamente
 Esta guía aún no tiene enlaces de compra verificados para réplicas de AirPods 5. La página se actualizará cuando los vendedores de confianza tengan versiones confirmadas disponibles.

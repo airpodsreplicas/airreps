@@ -2,7 +2,7 @@
 title: 'AirPods Pro 3 Taklitlerini Satın Alın: Satıcı Bağlantıları'
 description: 'AirPods Pro 3 taklit sürümlerini (V7, SE, V6, V5.5) ve doğrulanmış AirReps satıcılarından güvenilir satıcı bağlantılarını bulun.'
 ---
-# AirPods Pro 3 replika satın al
+# AirPods Pro 3 kopyaları satın alın
 
 AirPods Pro 3 replikaları, en yeni özellikleri farklı fiyat seçenekleriyle sunan en yeni kulak içi modeldir. Her sürümün neler sunduğunu görmek için [AirPods Pro 3 sürüm bilgilerine](/tr/version-info/airpods-pro-3) bakın veya [teste](/tr/quiz) katılın.
 

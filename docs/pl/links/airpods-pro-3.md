@@ -2,7 +2,7 @@
 title: 'Kup repliki AirPods Pro 3: linki do sprzedawców'
 description: 'Znajdź repliki AirPods Pro 3 w wersjach (V7, SE, V6, V5.5) oraz zaufane linki do zweryfikowanych sprzedawców AirReps.'
 ---
-# Kup repliki AirPods Pro 3
+# Zakup replik AirPods Pro 3
 
 Repliki AirPods Pro 3 to najnowszy model douszny, oferujący najnowsze funkcje w różnych przedziałach cenowych. Zobacz [informacje o wersjach AirPods Pro 3](/pl/version-info/airpods-pro-3), aby dowiedzieć się, co oferuje każda wersja, lub rozwiąż [quiz](/pl/quiz).
 

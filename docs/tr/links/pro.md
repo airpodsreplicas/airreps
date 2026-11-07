@@ -4,7 +4,7 @@ description: 'Tüm AirPods Pro 3 (V7, SE, V6, V5.5) ve AirPods Pro 2 (V5.4, V5.3
 ---
 <!-- product-family -->
 
-# AirPods Pro
+# AirPods Pro kopyaları satın alın
 
 AirPods Pro klonlarının her nesli için güvenilir satıcı bağlantıları: AirPods Pro 3 (V7, SE, V6, V5.5), AirPods Pro 2 (V5.4, V5.3, V5.2) ve ilk nesil AirPods Pro. Sürümlerini, fiyatlarını ve satıcılarını görmek için bir nesil seçin.
 

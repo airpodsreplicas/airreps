@@ -5,7 +5,7 @@ description: "Trusted seller links for AirPods 4 and AirPods 2 replicas by versi
 
 <!-- product-family -->
 
-# AirPods
+# Buy AirPods Replicas
 
 Trusted seller links for every standard AirPods replica generation: AirPods 4, AirPods 3 and AirPods 2, with AirPods 5 to follow. Choose a generation to jump to its versions, prices and sellers.
 

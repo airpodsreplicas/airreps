@@ -5,7 +5,7 @@ description: "Trusted seller links for every AirPods Pro 3 (V7, SE, V6, V5.5) an
 
 <!-- product-family -->
 
-# AirPods Pro
+# Buy AirPods Pro Replicas
 
 Trusted seller links for every AirPods Pro replica generation: AirPods Pro 3 (V7, SE, V6, V5.5), AirPods Pro 2 (V5.4, V5.3, V5.2) and the first-gen AirPods Pro. Choose a generation to jump to its versions, prices and sellers.
 

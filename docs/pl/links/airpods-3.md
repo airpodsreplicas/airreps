@@ -2,7 +2,7 @@
 title: 'Kup Repliki AirPods 3: Linki Do Sprzedawców'
 description: "Żaden zaufany sprzedawca nie oferuje obecnie replik AirPods 3. Zobacz AirPods 4 jako dostępną alternatywę."
 ---
-# Kup repliki AirPods 3
+# Zakup replik AirPods 3
 
 Repliki AirPods 3 oferują dopasowanie typu stem bez ANC. Porównaj dostępne wersje na stronie [Informacje o wersjach AirPods 3](/pl/version-info/airpods-3), lub skorzystaj z [quizu](/pl/quiz), jeśli decydujesz się między modelami.
 

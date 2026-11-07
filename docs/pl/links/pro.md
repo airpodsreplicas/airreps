@@ -4,7 +4,7 @@ description: 'Zaufane linki do sprzedawców każdej wersji repliki AirPods Pro 3
 ---
 <!-- product-family -->
 
-# AirPods Pro
+# Zakup replik AirPods Pro
 
 Zaufane linki do sprzedawców podróbek każdej generacji AirPods Pro: AirPods Pro 3 (V7, SE, V6, V5.5), AirPods Pro 2 (V5.4, V5.3, V5.2) oraz AirPods Pro pierwszej generacji. Wybierz generację, aby przejść do jej wersji, cen i sprzedawców.
 

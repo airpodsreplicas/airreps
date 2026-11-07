@@ -2,7 +2,7 @@
 title: 'Kaufe AirPods 2 Replikate: Verkäufer-Links'
 description: Vertrauenswürdige Verkäufer-Links und Kaufoptionen für AirPods 2 Replikate.
 ---
-# AirPods 2-Replikate kaufen
+# AirPods 2-Nachbildungen kaufen
 
 AirPods 2-Replikate sind der günstigste Einstieg in das Ökosystem. Wähle unten eine Version aus, oder lies die [Informationen zu den AirPods 2-Versionen](/de/version-info/airpods-2), um zu sehen, was die V3E bietet, bevor du kaufst. Nicht sicher, welches Modell zu dir passt? Mach das [Quiz](/de/quiz).
 
