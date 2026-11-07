@@ -169,8 +169,9 @@ Trusted Seller Websites:
 
 All sellers also have Weidian storefronts accessible through agents like KakoBuy (https://airreps.link/kakobuy).
 
-Earhive also has an Alibaba store:
+Earhive and Jenny also have Alibaba stores:
 - Earhive Alibaba: https://airreps.link/ehali
+- Jenny Alibaba: https://airreps.link/jennyali
 
 Resellers: Some offer replicas at higher prices with additional services like warranties or expedited shipping. However, a higher price does not guarantee a better product.
 
@@ -511,7 +512,7 @@ Paying with AliPay: Many trusted sellers accept AliPay for easy card payments wi
 FAQ:
 - What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bitcoin. All have Weidian storefronts. PayPal is sometimes available at Earhive and HiCity, and the KakoBuy agent also accepts it.
 - Why am I redirected to a crypto website when paying via Credit Card? Sellers use a secure crypto payment gateway. Some processors may prompt for KYC. Alternative: Use KakoBuy (https://airreps.link/kakobuy) which never requires KYC verification.
-- Note on Alibaba: Orders through Alibaba (Earhive has an Alibaba store) always come with neutral packaging (no Apple logo box).
+- Note on Alibaba: Orders through Alibaba (Earhive and Jenny have Alibaba stores) always come with neutral packaging (no Apple logo box).
 ---
 
 ## Purchase Links
@@ -526,8 +527,9 @@ All sellers also have Weidian storefronts (requires agent like KakoBuy):
 - HiCity Weidian: https://airreps.link/hicityw
 - Jenny Weidian: https://airreps.link/jennyw
 
-Alibaba store:
+Alibaba stores:
 - Earhive Alibaba: https://airreps.link/ehali
+- Jenny Alibaba: https://airreps.link/jennyali
 
 Payment Methods by Seller:
 
@@ -542,7 +544,7 @@ Cash App (Lightning)    Yes       Yes      Yes
 Bitcoin/Crypto          Yes       Yes      Yes
 Bank Transfer           Yes       No       Yes
 Weidian (via agent)     Yes       Yes      Yes
-Alibaba                 Yes       No       No
+Alibaba                 Yes       No       Yes
 Trustly                 No        Yes      No
 Swish                   No        Yes      No
 PIX                     No        Yes      No

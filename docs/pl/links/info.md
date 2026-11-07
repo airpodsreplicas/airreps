@@ -52,7 +52,7 @@ W obrębie danego modelu wyższy numer wersji zwykle oznacza wyższą cenę i wi
 - **HiCity**: https://hicitypods.com
 - **Jenny**: https://jenny.airreps.info
 
-Earhive ma również [sklep na Alibaba](https://airreps.link/ehali), jeśli wolisz złożyć zamówienie za pośrednictwem Alibaba.
+Earhive i Jenny mają też sklepy na Alibabie ([Earhive](https://airreps.link/ehali), [Jenny](https://airreps.link/jennyali)), jeśli wolisz zamówić przez Alibabę.
 
 ## Metody płatności {#payment-methods}
 

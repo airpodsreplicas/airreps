@@ -34,6 +34,7 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y cons
       <div class="link-column">
         <a href="https://airreps.link/jprov54hl">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -56,6 +57,7 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y cons
       <div class="link-column">
         <a href="https://airreps.link/jprov53tb">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -73,6 +75,7 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y cons
       <div class="link-column">
         <a href="https://airreps.link/jprov53hl">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -95,6 +98,7 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y cons
       <div class="link-column">
         <a href="https://airreps.link/jprov52tb">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -112,6 +116,7 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y cons
       <div class="link-column">
         <span class="unavailable-link">Sitio web no disponible</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -134,6 +139,7 @@ Las réplicas de AirPods Pro 2 son la opción intraauricular más popular y cons
       <div class="link-column">
         <a href="https://airreps.link/jprov42">Sitio web</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

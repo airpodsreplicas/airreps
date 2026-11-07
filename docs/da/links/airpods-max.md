@@ -34,6 +34,7 @@ AirPods Max-replikaer er modellen med over-ear-design og fås i alt fra budgetve
       <div class="link-column">
         <a href="https://airreps.link/jmaxv3tb">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -51,6 +52,7 @@ AirPods Max-replikaer er modellen med over-ear-design og fås i alt fra budgetve
       <div class="link-column">
         <a href="https://airreps.link/jmaxv3p">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -80,6 +82,7 @@ AirPods Max-replikaer er modellen med over-ear-design og fås i alt fra budgetve
       <div class="link-column">
         <a href="https://airreps.link/jmaxv2tb">Hjemmeside</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

@@ -52,7 +52,7 @@ Pour chaque modèle, une version portant un numéro supérieur coûte générale
 - **HiCity** : https://hicitypods.com
 - **Jenny** : https://jenny.airreps.info
 
-Earhive possède également une [boutique Alibaba](https://airreps.link/ehali) si vous préférez commander par l’intermédiaire d’Alibaba.
+Earhive et Jenny ont aussi des boutiques Alibaba ([Earhive](https://airreps.link/ehali), [Jenny](https://airreps.link/jennyali)) si vous préférez commander via Alibaba.
 
 ## Modes de paiement {#payment-methods}
 
