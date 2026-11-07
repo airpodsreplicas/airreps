@@ -2,7 +2,7 @@
 title: 'Køb AirPods 2 Replikaer: Sælger Links'
 description: Pålidelige links til sælgere og købemuligheder for AirPods 2 replikaer.
 ---
-# Køb AirPods 2-kopier
+# Køb AirPods 2-replikaer
 
 AirPods 2-kopier er den billigste måde at komme ind i økosystemet på. Vælg en version nedenfor, eller læs [AirPods 2 versionsinfo](/da/version-info/airpods-2) for at se, hvad V3E tilbyder, før du køber. Er du ikke sikker på, hvilken model der passer til dig? Tag [quizzen](/da/quiz).
 

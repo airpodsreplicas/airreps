@@ -3,7 +3,7 @@ title: "AirPods 5 Replikaları: Satıcı Bağlantıları — Yakında"
 description: "Bu rehberde henüz AirPods 5 replikaları için doğrulanmış satın alma bağlantıları bulunmuyor. Güvenilir satıcılarda doğrulanmış sürümler mevcut olduğunda bu sayfa güncellenecek."
 ---
 
-# AirPods 5
+# AirPods 5 kopyaları satın alın
 
 ::: warning Yakında
 Bu rehberde henüz AirPods 5 replikaları için doğrulanmış satın alma bağlantıları bulunmuyor. Güvenilir satıcılarda doğrulanmış sürümler mevcut olduğunda bu sayfa güncellenecek.

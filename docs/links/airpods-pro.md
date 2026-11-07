@@ -3,7 +3,7 @@ title: "AirPods Pro Replicas (Superseded)"
 description: "AirPods Pro (1st gen) replicas are no longer stocked by trusted sellers. Buy AirPods Pro 2 or Pro 3 replicas instead."
 ---
 
-# AirPods Pro
+# Buy AirPods Pro Replicas
 
 ::: warning No longer sold by trusted sellers
 The original **AirPods Pro (1st generation)** replica has been superseded and is **no longer stocked by any trusted seller** — it's simply too outdated, and the community has moved on to newer, far more capable models.

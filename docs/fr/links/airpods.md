@@ -4,7 +4,7 @@ description: 'Liens de vendeurs de confiance pour les répliques d’AirPods 4 e
 ---
 <!-- product-family -->
 
-# AirPods
+# Acheter des répliques d’AirPods
 
 Liens vers des vendeurs fiables pour chaque génération standard de répliques d’AirPods : AirPods 4, AirPods 3 et AirPods 2, bientôt suivis des AirPods 5. Choisissez une génération pour accéder à ses versions, ses prix et ses vendeurs.
 

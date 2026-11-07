@@ -2,7 +2,7 @@
 title: 'Acheter AirPods 3 Répliques: Liens Des Vendeurs'
 description: "Aucun vendeur de confiance ne propose actuellement de répliques d'AirPods 3. Consultez les AirPods 4 pour une alternative en stock."
 ---
-# Acheter des répliques d'AirPods 3
+# Acheter des répliques d’AirPods 3
 
 Les répliques d'AirPods 3 offrent l'ajustement de type tige sans ANC. Comparez les versions disponibles sur la page [informations sur les versions d'AirPods 3](/fr/version-info/airpods-3), ou utilisez le [quiz](/fr/quiz) si vous hésitez entre les modèles.
 

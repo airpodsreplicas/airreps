@@ -4,7 +4,7 @@ description: 'Liens de vendeurs de confiance pour chaque version de réplique de
 ---
 <!-- product-family -->
 
-# AirPods Pro
+# Acheter des répliques d’AirPods Pro
 
 Liens de vendeurs fiables pour chaque génération de répliques d’AirPods Pro : AirPods Pro 3 (V7, SE, V6, V5.5), AirPods Pro 2 (V5.4, V5.3, V5.2) et AirPods Pro de première génération. Choisissez une génération pour accéder à ses versions, prix et vendeurs.
 

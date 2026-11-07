@@ -2,7 +2,7 @@
 title: AirPods Pro Répliques (Remplacées)
 description: Les répliques d'AirPods Pro (1st gen) ne sont plus proposées par des vendeurs de confiance. Achetez plutôt des répliques d'AirPods Pro 2 ou Pro 3.
 ---
-# AirPods Pro
+# Acheter des répliques d’AirPods Pro
 
 ::: warning Plus vendu par des vendeurs de confiance
 La réplique originale **AirPods Pro (1st generation)** a été supplantée et **n'est plus proposée par aucun vendeur de confiance** — elle est simplement trop obsolète, et la communauté est passée à des modèles plus récents et bien plus performants.

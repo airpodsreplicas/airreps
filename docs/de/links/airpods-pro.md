@@ -2,7 +2,7 @@
 title: AirPods Pro Replikate (Abgelöst)
 description: AirPods Pro (1st gen) Replikate werden von vertrauenswürdigen Verkäufern nicht mehr geführt. Kaufen Sie stattdessen Replikate der AirPods Pro 2 oder Pro 3.
 ---
-# AirPods Pro
+# AirPods Pro-Nachbildungen kaufen
 
 ::: warning Nicht mehr von vertrauenswürdigen Verkäufern verkauft
 Die originale **AirPods Pro (1st generation)**-Replik wurde abgelöst und wird **nicht mehr von einem vertrauenswürdigen Verkäufer vorrätig gehalten** — sie ist schlichtweg zu veraltet, und die Community ist zu neueren, weitaus leistungsfähigeren Modellen übergegangen.

@@ -3,7 +3,7 @@ title: "AirPods 5-kopier: Sælgerlinks — Kommer snart"
 description: "Denne guide har endnu ingen verificerede købslinks til AirPods 5-kopier. Siden opdateres, når pålidelige sælgere har bekræftede versioner til salg."
 ---
 
-# AirPods 5
+# Køb AirPods 5-replikaer
 
 ::: warning Kommer snart
 Denne guide har endnu ingen verificerede købslinks til AirPods 5-kopier. Siden opdateres, når pålidelige sælgere har bekræftede versioner til salg.

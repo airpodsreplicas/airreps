@@ -2,7 +2,7 @@
 title: 'Kup repliki AirPods Pro 2: linki do sprzedawców'
 description: Zaufane linki do sprzedawców i opcje zakupu replik AirPods Pro 2.
 ---
-# Kup repliki AirPods Pro 2
+# Zakup replik AirPods Pro 2
 
 Repliki AirPods Pro 2 to najpopularniejszy i najbardziej dopracowany wybór douszny. Porównaj wszystkie wersje na stronie [informacje o wersjach AirPods Pro 2](/pl/version-info/airpods-pro-2) — V5.3 TB to najlepsza wersja Pro 2 — lub rozwiąż [quiz](/pl/quiz), aby otrzymać rekomendację.
 

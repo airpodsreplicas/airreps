@@ -2,7 +2,7 @@
 title: 'Comprar Réplicas De AirPods 2: Links De Vendedores'
 description: Links de vendedores confiáveis e opções de compra para réplicas de AirPods 2.
 ---
-# Comprar réplicas de AirPods 2
+# Comprar réplicas dos AirPods 2
 
 As réplicas de AirPods 2 são a forma mais barata de entrar no ecossistema. Escolha uma versão abaixo, ou leia as [informações sobre a versão dos AirPods 2](/pt/version-info/airpods-2) para ver o que o V3E oferece antes de comprar. Não tem certeza de qual modelo lhe convém? Faça o [quiz](/pt/quiz).
 

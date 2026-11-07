@@ -2,7 +2,7 @@
 title: 'Acheter AirPods 4 Répliques: Liens des Vendeurs'
 description: Liens de vendeurs fiables et options d'achat pour les répliques d'AirPods 4.
 ---
-# Acheter des répliques d'AirPods 4
+# Acheter des répliques d’AirPods 4
 
 Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC étant disponible sur les versions supérieures. Voir les [informations sur les versions d'AirPods 4](/fr/version-info/airpods-4) pour les différences entre les chipsets V2 et V3, ou faites le [quiz](/fr/quiz) pour un choix personnalisé.
 

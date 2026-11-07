@@ -3,7 +3,7 @@ title: "AirPods 5 Replica Seller Links — Coming Soon"
 description: "There are no verified AirPods 5 replica purchase links in this guide yet. This page will be updated once trusted sellers have confirmed versions available."
 ---
 
-# AirPods 5
+# Buy AirPods 5 Replicas
 
 ::: warning Coming Soon
 There are no verified AirPods 5 replica purchase links in this guide yet. This page will be updated once trusted sellers have confirmed versions available.

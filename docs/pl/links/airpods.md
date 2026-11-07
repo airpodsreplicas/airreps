@@ -4,7 +4,7 @@ description: 'Zaufane linki do sprzedawców replik AirPods 4 i AirPods 2 według
 ---
 <!-- product-family -->
 
-# AirPods
+# Zakup replik AirPods
 
 Sprawdzone linki do sprzedawców dla każdej generacji standardowych replik AirPods: AirPods 4, AirPods 3 i AirPods 2, a wkrótce także AirPods 5. Wybierz generację, aby przejść do jej wersji, cen i sprzedawców.
 

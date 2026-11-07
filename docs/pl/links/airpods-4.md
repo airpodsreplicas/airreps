@@ -2,7 +2,7 @@
 title: 'Kup Repliki AirPods 4: Linki do Sprzedawców'
 description: Zaufane linki do sprzedawców i opcje zakupu replik AirPods 4.
 ---
-# Kup repliki AirPods 4
+# Zakup replik AirPods 4
 
 Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach występuje ANC. Zobacz [informacje o wersjach AirPods 4](/pl/version-info/airpods-4), aby poznać różnice między chipsetami V2 i V3, albo zrób [quiz](/pl/quiz), by otrzymać dopasowaną rekomendację.
 

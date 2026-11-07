@@ -2,7 +2,7 @@
 title: 'Køb AirPods 4-kopier: Sælgerlinks'
 description: Pålidelige links til sælgere og købsmuligheder for AirPods 4-kopier.
 ---
-# Køb AirPods 4-kopier
+# Køb AirPods 4-replikaer
 
 AirPods 4-kopier har et åbent-øre-design, med ANC på de højere versioner. Se [AirPods 4 versionsinfo](/da/version-info/airpods-4) for forskellene mellem V2- og V3-chipsæt, eller tag [quizzen](/da/quiz) for et tilpasset valg.
 

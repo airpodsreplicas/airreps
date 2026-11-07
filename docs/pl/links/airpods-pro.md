@@ -2,7 +2,7 @@
 title: AirPods Pro Repliki (Zastąpione)
 description: AirPods Pro (1st gen) repliki nie są już dostępne u zaufanych sprzedawców. Kup zamiast nich repliki AirPods Pro 2 lub Pro 3.
 ---
-# AirPods Pro
+# Zakup replik AirPods Pro
 
 ::: warning Już nie sprzedawane przez zaufanych sprzedawców
 Oryginalna replika **AirPods Pro (1st generation)** została zastąpiona i **nie jest już dostępna u żadnego zaufanego sprzedawcy** — jest po prostu zbyt przestarzała, a społeczność przeszła na nowsze, znacznie bardziej zaawansowane modele.
