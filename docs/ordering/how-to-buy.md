@@ -53,7 +53,7 @@ Trusted sellers use a secure crypto payment gateway to process Credit Card payme
 :::
 
 ::: details Note on Alibaba links and packaging
-Apple aggressively cracks down on replica links on platforms like AliExpress and Alibaba. While sellers (like Earhive) occasionally offer Alibaba links for purchasing, please be aware that **orders placed through Alibaba will always come with neutral packaging (no Apple logo box)** to avoid customs and copyright issues. Sellers' direct websites and Weidian stores are generally more secure and offer more Apple-like packaging options.
+Apple aggressively cracks down on replica links on platforms like AliExpress and Alibaba. While sellers (like Earhive and Jenny) occasionally offer Alibaba links for purchasing, please be aware that **orders placed through Alibaba will always come with neutral packaging (no Apple logo box)** to avoid customs and copyright issues. Sellers' direct websites and Weidian stores are generally more secure and offer more Apple-like packaging options.
 :::
 
 ::: details Are AirPods replicas legal?

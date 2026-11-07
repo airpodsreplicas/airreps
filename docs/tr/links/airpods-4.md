@@ -34,6 +34,7 @@ AirPods 4 replikalar açık kulak tasarımı sunar, daha üst versiyonlarda ANC 
       <div class="link-column">
         <a href="https://airreps.link/j4v3tb">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -56,6 +57,7 @@ AirPods 4 replikalar açık kulak tasarımı sunar, daha üst versiyonlarda ANC 
       <div class="link-column">
         <a href="https://airreps.link/j4v2tb">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -78,6 +80,7 @@ AirPods 4 replikalar açık kulak tasarımı sunar, daha üst versiyonlarda ANC 
       <div class="link-column">
         <a href="https://airreps.link/j4v2hl">Web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

@@ -34,6 +34,7 @@ Repliki AirPods Max to opcja nauszna — od budżetowych modeli z plastikową ko
       <div class="link-column">
         <a href="https://airreps.link/jmaxv3tb">Strona internetowa</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -51,6 +52,7 @@ Repliki AirPods Max to opcja nauszna — od budżetowych modeli z plastikową ko
       <div class="link-column">
         <a href="https://airreps.link/jmaxv3p">Strona internetowa</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -80,6 +82,7 @@ Repliki AirPods Max to opcja nauszna — od budżetowych modeli z plastikową ko
       <div class="link-column">
         <a href="https://airreps.link/jmaxv2tb">Strona internetowa</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

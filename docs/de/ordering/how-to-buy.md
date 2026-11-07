@@ -54,7 +54,7 @@ Vertrauenswürdige Verkäufer verwenden ein sicheres Krypto-Zahlungsgateway, um 
 :::
 
 ::: details Hinweis zu Alibaba-Links und Verpackung
-Apple geht aggressiv gegen Replik-Links auf Plattformen wie AliExpress und Alibaba vor. Während Verkäufer (wie Earhive) gelegentlich Alibaba-Links zum Kauf anbieten, beachten Sie bitte, dass **Bestellungen über Alibaba immer mit neutraler Verpackung (ohne Apple-Logo-Box)** geliefert werden, um Zoll- und Urheberrechtsprobleme zu vermeiden. Direktseiten der Verkäufer und Weidian-Shops sind in der Regel sicherer und bieten eher Verpackungsoptionen, die Apple-ähnlicher sind.
+Apple geht aggressiv gegen Replik-Links auf Plattformen wie AliExpress und Alibaba vor. Während Verkäufer (wie Earhive und Jenny) gelegentlich Alibaba-Links zum Kauf anbieten, beachten Sie bitte, dass **Bestellungen über Alibaba immer mit neutraler Verpackung (ohne Apple-Logo-Box)** geliefert werden, um Zoll- und Urheberrechtsprobleme zu vermeiden. Direktseiten der Verkäufer und Weidian-Shops sind in der Regel sicherer und bieten eher Verpackungsoptionen, die Apple-ähnlicher sind.
 :::
 
 ::: details Sind AirPods-Repliken legal?

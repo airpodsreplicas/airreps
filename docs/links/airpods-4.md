@@ -35,6 +35,7 @@ AirPods 4 replicas bring an open-ear design, with ANC on the higher versions. Se
       <div class="link-column">
         <a href="https://airreps.link/j4v3tb">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -57,6 +58,7 @@ AirPods 4 replicas bring an open-ear design, with ANC on the higher versions. Se
       <div class="link-column">
         <a href="https://airreps.link/j4v2tb">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -79,6 +81,7 @@ AirPods 4 replicas bring an open-ear design, with ANC on the higher versions. Se
       <div class="link-column">
         <a href="https://airreps.link/j4v2hl">Website</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

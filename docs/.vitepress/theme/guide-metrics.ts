@@ -233,6 +233,7 @@ const SHORTLINK_ALIASES: Record<string, Target> = {
     earhivew: 'earhive',
     ehali: 'earhive',
     hicityw: 'hicity',
+    jennyali: 'jenny',
     jennyw: 'jenny',
     kakobuy: 'kakobuy',
     reddit: 'reddit',

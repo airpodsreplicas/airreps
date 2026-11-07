@@ -34,6 +34,7 @@ AirPods 2 replikaları ekosisteme girmenin en ucuz yoludur. Aşağıdan bir sür
       <div class="link-column">
         <a href="https://airreps.link/j2v3e">web sitesi</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>

@@ -1109,6 +1109,7 @@ const sellers = {
         name: 'Jenny',
         url: 'https://jenny.airreps.info',
         weidian: 'https://airreps.link/jennyw',
+        alibaba: 'https://airreps.link/jennyali',
         strength: 'Fastest shipping',
         payments: [
             'Credit Card',
@@ -1118,6 +1119,7 @@ const sellers = {
             'Cash App',
             'Bitcoin/Crypto',
             'Bank Transfer',
+            'Alibaba',
         ],
     },
     hicity: {
@@ -1707,10 +1709,10 @@ const isOnlySeller = computed(
 // Get direct product link for the recommended seller
 const directProductLink = computed(() => sellerLink(recommendedSeller.value));
 
-// Alibaba answer: the sellers with an Alibaba store (currently Earhive only)
+// Alibaba answer: the sellers with an Alibaba store (Earhive first, then Jenny)
 // that list the recommended pick
 const alibabaSellers = computed(() =>
-    [sellers.earhive].filter((seller) => sellerLink(seller))
+    [sellers.earhive, sellers.jenny].filter((seller) => sellerLink(seller))
 );
 
 function productToLinksPage(): LinksPageKey {

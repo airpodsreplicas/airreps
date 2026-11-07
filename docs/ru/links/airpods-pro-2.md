@@ -34,6 +34,7 @@ description: Надёжные ссылки на продавцов и вариа
       <div class="link-column">
         <a href="https://airreps.link/jprov54hl">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -56,6 +57,7 @@ description: Надёжные ссылки на продавцов и вариа
       <div class="link-column">
         <a href="https://airreps.link/jprov53tb">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -73,6 +75,7 @@ description: Надёжные ссылки на продавцов и вариа
       <div class="link-column">
         <a href="https://airreps.link/jprov53hl">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -95,6 +98,7 @@ description: Надёжные ссылки на продавцов и вариа
       <div class="link-column">
         <a href="https://airreps.link/jprov52tb">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -112,6 +116,7 @@ description: Надёжные ссылки на продавцов и вариа
       <div class="link-column">
         <span class="unavailable-link">Веб-сайт недоступен</span>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
@@ -134,6 +139,7 @@ description: Надёжные ссылки на продавцов и вариа
       <div class="link-column">
         <a href="https://airreps.link/jprov42">Веб-сайт</a>
         <a href="https://airreps.link/jennyw">Weidian</a>
+        <a href="https://airreps.link/jennyali">Alibaba</a>
       </div>
     </td>
   </tr>
