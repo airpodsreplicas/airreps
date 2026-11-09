@@ -18,14 +18,22 @@ AirPods Pro 3 replicas are the newest in-ear model, with the latest features at 
   </tr>
   <tr>
     <td><span class="version-badge">V7 (TB)</span></td>
-    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://earhive.com/product/pro-3-v7-tb/">Website</a>
+      </div>
+    </td>
     <td>
       <div class="link-column">
         <a href="https://hicitypods.com/product/pro-3-v7-tb/">Website</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
-    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://jenny.airreps.info/product/pro-3-v7-tb/">Website</a>
+      </div>
+    </td>
   </tr>
   <tr>
     <td><span class="version-badge">V7 (Huilian)</span></td>

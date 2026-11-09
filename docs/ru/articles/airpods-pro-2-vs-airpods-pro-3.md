@@ -73,7 +73,7 @@ order: 14
 - Вам нужна доступная модель SE (~$48) для спортзала или поездок, где продвинутые функции экосистемы не так важны.
 - Вам нужны новейшие функции: отслеживание пульса, управление звонками жестами головы, распознавание речи и Live Translation. В V7 Huilian также есть iCloud Connect.
 
-<span class="pick-buy">Купить V7 Huilian в [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">V7 TB в [HiCity](https://hicitypods.com/product/pro-3-v7-tb/)</span> <span class="pick-buy">SE в [Jenny](https://airreps.link/jpro3se)</span>
+<span class="pick-buy">Купить V7 Huilian в [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">V7 TB в [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span> <span class="pick-buy">SE в [Jenny](https://airreps.link/jpro3se)</span>
 
 ## Читайте также
 

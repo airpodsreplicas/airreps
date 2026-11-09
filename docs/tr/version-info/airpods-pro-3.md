@@ -7,7 +7,7 @@ description: 'AirPods Pro 3 taklit sürümlerini (V7, SE, V6, V5.5) yonga, özel
 <div class="pick-cards">
 
 - <span class="pick-label">En iyi fiyat-performans</span> **SE** · $48 · yalnızca Jenny<br>Test ettiğimiz tüm replikalar arasında en güçlü gürültü engelleme, çalışan kafa takibi ve canlı çeviri. Aynı anda tek bir cihaza bağlanır. [SE genel bakış](#se-overview)<span class="pick-buy">[Jenny'den](https://airreps.link/jpro3se) satın al</span>
-- <span class="pick-label">En çok özellik</span> **V7 TB** · $68 · HiCity<br>Kalp atış hızı, kafa hareketleriyle kontrol, konuşma farkındalığı ve 3 cihaz arasında geçiş. iOS açılır penceresi veya seri numarası yok. [V7 genel bakış](#v7-overview)<span class="pick-buy">[HiCity'den](https://hicitypods.com/product/pro-3-v7-tb/) satın al</span>
+- <span class="pick-label">En çok özellik</span> **V7 TB** · $67–68<br>Kalp atış hızı, kafa hareketleriyle kontrol, konuşma farkındalığı ve 3 cihaz arasında geçiş. iOS açılır penceresi veya seri numarası yok. [V7 genel bakış](#v7-overview)<span class="pick-buy">[Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/) üzerinden satın al</span>
 - <span class="pick-label">iCloud geçişi için en iyisi</span> **V6 Huilian** · $43–45<br>V7'den daha ucuza iCloud Connect ile iPhone, iPad ve Mac'iniz arasında geçiş yapar. **V7 Huilian** kalp atış hızı ve kafa hareketleriyle kontrol özelliklerini ekler.<span class="pick-buy">[Earhive](https://airreps.link/eprov6hl) [HiCity](https://airreps.link/hcprov6hl) [Jenny](https://airreps.link/jprov6hl) üzerinden satın al</span>
 - <span class="pick-label">En düşük fiyat</span> **V5.5** · $27–28<br>Pro 3 görünümü ve iyi sayılabilecek gürültü engelleme. Kafa takibi yok.<span class="pick-buy">[Earhive](https://airreps.link/eprov55) [HiCity](https://airreps.link/hcprov55) [Jenny](https://airreps.link/jprov55) üzerinden satın al</span>
 
@@ -19,8 +19,8 @@ Fiyatlar, satıcıların 3 Kasım 2026 tarihinde belirlediği fiyatlardır; gün
 
 | | [<span class="version-badge">V7 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v7+tb) | [<span class="version-badge">V7 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v7+huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=%22pro+3+se%22) | [<span class="version-badge">V6 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v6+huilian) | [<span class="version-badge">V6 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v6+tb) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v5.5) |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Fiyat** | $68 | $67–68 | $48 | $43–45 | $37–38 | $27–28 |
-| **Satıcı** | HiCity | 3'ü de | Jenny | 3'ü de | 3'ü de | 3'ü de |
+| **Fiyat** | $67–68 | $67–68 | $48 | $43–45 | $37–38 | $27–28 |
+| **Satıcı** | 3'ü de | 3'ü de | Jenny | 3'ü de | 3'ü de | 3'ü de |
 | **iOS açılır penceresi** | ❌ Hayır¹ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Gürültü engelleme** | Çok güçlü | Çok güçlü | En güçlü | İyi | İyi | İyi sayılır |
 | **Kafa takibi destekli uzamsal ses** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -65,7 +65,7 @@ V7, en yeni AirPods Pro 3 replikasıdır ve iki farklı yapıda sunulur: en yeni
 
 ### V7 TigerBuilder {#v7-tb}
 
-**TigerBuilder**, yaklaşık $68 fiyatla Airoha 1571AM yonga setini temel alan, en yeni ve en iyi V7 yapısıdır. Satıcının belirttiği özellikler arasında kalp atış hızı sensörü, uyarlanabilir ANC, konuşma farkındalığı, kafa takibi destekli uzamsal ses, kafa hareketleriyle kontrol, kaydırarak ses kontrolü, çift mikrofonlu ENC, 10 mm sürücü, 550 mAh Qi kutuyla birlikte 45 mAh kulaklıklar, kutu hoparlörü ve 3 cihaz için çok noktalı bağlantı bulunur. ⚠️ Şu anda iOS açılır penceresi ve seri numarası yok — satıcı bunları bir güncellemeyle eklemeyi denedi ancak işe yaramadı; gelecekteki bir güncelleme ekleyebilir. Bunun yerine FlyCC uygulamasını kullanır — herkese uygun değildir; Huilian V7 bu durumdan etkilenmez. HiCity'de satılır — [satın alma bağlantılarına](/tr/links/airpods-pro-3) bakın.
+**TigerBuilder**, yaklaşık $68 fiyatla Airoha 1571AM yonga setini temel alan, en yeni ve en iyi V7 yapısıdır. Satıcının belirttiği özellikler arasında kalp atış hızı sensörü, uyarlanabilir ANC, konuşma farkındalığı, kafa takibi destekli uzamsal ses, kafa hareketleriyle kontrol, kaydırarak ses kontrolü, çift mikrofonlu ENC, 10 mm sürücü, 550 mAh Qi kutuyla birlikte 45 mAh kulaklıklar, kutu hoparlörü ve 3 cihaz için çok noktalı bağlantı bulunur. ⚠️ Şu anda iOS açılır penceresi ve seri numarası yok — satıcı bunları bir güncellemeyle eklemeyi denedi ancak işe yaramadı; gelecekteki bir güncelleme ekleyebilir. Bunun yerine FlyCC uygulamasını kullanır — herkese uygun değildir; Huilian V7 bu durumdan etkilenmez. Earhive, HiCity ve Jenny'de satılır — [satın alma bağlantılarına](/tr/links/airpods-pro-3) bakın.
 
 ### V7 Huilian {#v7-huilian}
 

@@ -7,7 +7,7 @@ description: 'Compare as versões réplica do AirPods Pro 3 (V7, SE, V6, V5.5) p
 <div class="pick-cards">
 
 - <span class="pick-label">Melhor custo-benefício</span> **SE** · $48 · apenas Jenny<br>O cancelamento de ruído mais eficaz que já testamos em qualquer réplica, com rastreamento da cabeça funcional e tradução em tempo real. Conecta-se a um dispositivo por vez. [Visão geral do SE](#se-overview)<span class="pick-buy">Compre na [Jenny](https://airreps.link/jpro3se)</span>
-- <span class="pick-label">Mais recursos</span> **V7 TB** · $68 · HiCity<br>Frequência cardíaca, gestos com a cabeça, reconhecimento de conversas e conexão com até 3 dispositivos. Sem janela de conexão do iOS nem número de série. [Visão geral do V7](#v7-overview)<span class="pick-buy">Compre na [HiCity](https://hicitypods.com/product/pro-3-v7-tb/)</span>
+- <span class="pick-label">Mais recursos</span> **V7 TB** · $67–68<br>Frequência cardíaca, gestos com a cabeça, reconhecimento de conversas e conexão com até 3 dispositivos. Sem janela de conexão do iOS nem número de série. [Visão geral do V7](#v7-overview)<span class="pick-buy">Compre na [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
 - <span class="pick-label">Melhor para alternar com o iCloud</span> **V6 Huilian** · $43–45<br>Alterna entre seu iPhone, iPad e Mac com o iCloud Connect, por menos que um V7. O **V7 Huilian** adiciona frequência cardíaca e gestos com a cabeça.<span class="pick-buy">Compre na [Earhive](https://airreps.link/eprov6hl) [HiCity](https://airreps.link/hcprov6hl) [Jenny](https://airreps.link/jprov6hl)</span>
 - <span class="pick-label">Menor preço</span> **V5.5** · $27–28<br>Visual do Pro 3 e cancelamento de ruído decente. Sem rastreamento da cabeça.<span class="pick-buy">Compre na [Earhive](https://airreps.link/eprov55) [HiCity](https://airreps.link/hcprov55) [Jenny](https://airreps.link/jprov55)</span>
 
@@ -19,8 +19,8 @@ Os preços são os cobrados pelos vendedores em 3 de novembro de 2026; consulte 
 
 | | [<span class="version-badge">V7 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v7+tb) | [<span class="version-badge">V7 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v7+huilian) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=%22pro+3+se%22) | [<span class="version-badge">V6 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v6+huilian) | [<span class="version-badge">V6 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v6+tb) | [<span class="version-badge">V5.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v5.5) |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Preço** | $68 | $67–68 | $48 | $43–45 | $37–38 | $27–28 |
-| **Vendido por** | HiCity | Todos os 3 | Jenny | Todos os 3 | Todos os 3 | Todos os 3 |
+| **Preço** | $67–68 | $67–68 | $48 | $43–45 | $37–38 | $27–28 |
+| **Vendido por** | Todos os 3 | Todos os 3 | Jenny | Todos os 3 | Todos os 3 | Todos os 3 |
 | **Janela de conexão do iOS** | ❌ Não¹ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Cancelamento de ruído** | Muito eficaz | Muito eficaz | O mais eficaz | Bom | Bom | Decente |
 | **Áudio espacial com rastreamento da cabeça** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -65,7 +65,7 @@ O V7 é a réplica mais recente do AirPods Pro 3 e está disponível em duas ver
 
 ### V7 TigerBuilder {#v7-tb}
 
-A **TigerBuilder** é a versão mais recente e melhor do V7, baseada no chipset Airoha 1571AM e custando cerca de $68. Entre os recursos informados pelo vendedor estão sensor de frequência cardíaca, ANC adaptativo, reconhecimento de conversas, áudio espacial com rastreamento da cabeça, gestos com a cabeça, controle de volume por deslize, ENC com dois microfones, driver de 10 mm, fones de 45 mAh com estojo Qi de 550 mAh, alto-falante no estojo e conexão multiponto com 3 dispositivos. ⚠️ No momento, não tem janela de conexão do iOS nem número de série — o vendedor tentou adicioná-los em uma atualização, mas não funcionou; uma atualização futura poderá incluí-los. Em vez disso, usa o app FlyCC — não é para todo mundo; o V7 Huilian não é afetado. É vendida pela HiCity — consulte os [links de compra](/pt/links/airpods-pro-3).
+A **TigerBuilder** é a versão mais recente e melhor do V7, baseada no chipset Airoha 1571AM e custando cerca de $68. Entre os recursos informados pelo vendedor estão sensor de frequência cardíaca, ANC adaptativo, reconhecimento de conversas, áudio espacial com rastreamento da cabeça, gestos com a cabeça, controle de volume por deslize, ENC com dois microfones, driver de 10 mm, fones de 45 mAh com estojo Qi de 550 mAh, alto-falante no estojo e conexão multiponto com 3 dispositivos. ⚠️ No momento, não tem janela de conexão do iOS nem número de série — o vendedor tentou adicioná-los em uma atualização, mas não funcionou; uma atualização futura poderá incluí-los. Em vez disso, usa o app FlyCC — não é para todo mundo; o V7 Huilian não é afetado. É vendida pela Earhive, HiCity e Jenny — consulte os [links de compra](/pt/links/airpods-pro-3).
 
 ### V7 Huilian {#v7-huilian}
 

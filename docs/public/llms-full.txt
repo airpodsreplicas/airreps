@@ -558,7 +558,7 @@ HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI,
 Trouble paying? If you have trouble paying or checking out on the sellers' websites, we recommend KakoBuy (https://airreps.link/kakobuy). It supports normal payment methods like PayPal and credit/debit cards that work for about 90% of customers, and it's a good agent overall. You can also pick KakoBuy right at the seller's checkout; it takes you to the seller's listing on KakoBuy. See the KakoBuy guide: https://airpodsreplicas.com/ordering/kakobuy
 
 AirPods Pro 3 Purchase Links:
-- V7 (TB): HiCity (https://hicitypods.com/product/pro-3-v7-tb/)
+- V7 (TB): Earhive (https://earhive.com/product/pro-3-v7-tb/), HiCity (https://hicitypods.com/product/pro-3-v7-tb/), Jenny (https://jenny.airreps.info/product/pro-3-v7-tb/)
 - V7 (Huilian): Earhive (https://airreps.link/eprov7hl), HiCity (https://airreps.link/hcprov7hl), Jenny (https://airreps.link/jprov7hl)
 - SE: Jenny (https://airreps.link/jpro3se)
 - V6 (TB): Earhive (https://airreps.link/eprov6tb), HiCity (https://airreps.link/hcprov6tb), Jenny (https://airreps.link/jprov6tb)
@@ -754,7 +754,7 @@ Approximate Prices (USD, what the sellers charged on 2026-11-03; prices fluctuat
 - AirPods Pro 2 V5.4 Huilian: $58
 - AirPods Pro 2 V5.3 TB: $55–57
 - AirPods Pro 2 V5.3 Huilian: $56
-- AirPods Pro 3 V7 TB: $68
+- AirPods Pro 3 V7 TB: $67–68
 - AirPods Pro 3 V7 Huilian: $67–68
 - AirPods Pro 3 SE: $48 (Jenny only)
 - AirPods Pro 3 V6 TB: $37–38
@@ -784,11 +784,11 @@ For Mac users:
 - Best value: AirPods Pro 3 V6 Huilian ($43) -- Newest Pro form factor, iCloud Connect, Live Translation; step up to the V7 Huilian ($67) for heart rate, head gestures and stronger ANC
 - Best ANC for Mac: AirPods Pro 3 V7 Huilian ($67) -- Dual-feed AI Hybrid ANC (~38-42 dB) with iCloud Connect
 - Most proven for Mac: AirPods Pro 2 V5.3 Huilian ($56) -- Flawless macOS support, iCloud switching
-- Latest design: AirPods Pro 3 V7 Huilian ($67) -- Newest Pro 3 with iCloud Connect, heart rate sensor, head gestures; the V7 TigerBuilder ($68, HiCity-only) is the newest and best V7 build but has no iCloud Connect
+- Latest design: AirPods Pro 3 V7 Huilian ($67) -- Newest Pro 3 with iCloud Connect, heart rate sensor, head gestures; the V7 TigerBuilder ($67–68) is the newest and best V7 build but has no iCloud Connect
 
 For non-Mac users:
 - Best ANC (bass-heavy): AirPods Pro 2 V5.3 TB ($55) -- Best ANC of the V5.3 builds (34.5 dB avg, 41 dB peak), 8h battery, community favorite
-- Most features: AirPods Pro 3 V7 Huilian ($67) -- Heart rate sensor, head gestures, conversation awareness, Live Translation, iCloud Connect, iOS popup; also consider the V7 TigerBuilder ($68, HiCity-only) or Pro 2 V5.4 Huilian ($58) for adaptive audio
+- Most features: AirPods Pro 3 V7 Huilian ($67) -- Heart rate sensor, head gestures, conversation awareness, Live Translation, iCloud Connect, iOS popup; also consider the V7 TigerBuilder ($67–68) or Pro 2 V5.4 Huilian ($58) for adaptive audio
 - Latest design: AirPods Pro 3 V7 TB ($68) -- Newest and best Pro 3 flagship; heart rate sensor, head gestures, adaptive ANC; runner-up: V7 Huilian ($67) for iCloud Connect & Live Translation; or Pro 3 SE ($48, Jenny-exclusive) for even better ANC for less
 - Budget: AirPods Pro 3 V5.5 ($27) -- Pro 3 form factor at the lowest price; step up to V6 TB ($37) for stronger ANC, or AirPods 2 V3E ($26) for ultra-budget
 
