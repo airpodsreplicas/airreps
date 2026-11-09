@@ -73,7 +73,7 @@ La principale différence concerne la forme physique des écouteurs : les Pro 3 
 - Vous recherchez la SE à prix abordable (~48 $) pour la salle de sport ou les voyages, sans avoir besoin des fonctions haut de gamme de l’écosystème.
 - Vous voulez les fonctionnalités les plus récentes : suivi de la fréquence cardiaque, réponse aux appels par mouvements de la tête, détection des conversations et traduction en direct. La V7 Huilian conserve également iCloud Connect.
 
-<span class="pick-buy">Acheter la V7 Huilian chez [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">V7 TB chez [HiCity](https://hicitypods.com/product/pro-3-v7-tb/)</span> <span class="pick-buy">SE chez [Jenny](https://airreps.link/jpro3se)</span>
+<span class="pick-buy">Acheter la V7 Huilian chez [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">V7 TB chez [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span> <span class="pick-buy">SE chez [Jenny](https://airreps.link/jpro3se)</span>
 
 ## À lire aussi
 

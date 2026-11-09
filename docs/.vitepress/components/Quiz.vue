@@ -1018,6 +1018,8 @@ const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: 
         jenny: 'https://airreps.link/jprov53hl',
     },
     'pro3-v7-tb': {
+        earhive: 'https://earhive.com/product/pro-3-v7-tb/',
+        jenny: 'https://jenny.airreps.info/product/pro-3-v7-tb/',
         hicity: 'https://hicitypods.com/product/pro-3-v7-tb/',
     },
     'pro3-v7-huilian': {
@@ -1466,7 +1468,7 @@ const product = computed<ProductRec | null>(() => {
                     'Heart rate sensor, head gestures, AI Hybrid ANC, Live Translation, Starfun app',
                     'Pro 3 iOS popup, low-latency gaming mode and ~7h of playback',
                     ...v7UseCaseReasons,
-                    `Also consider: V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) — the newest and best V7 build, but no iCloud Connect`,
+                    `Also consider: V7 TigerBuilder ($${prices['pro3-v7-tb']}) — the newest and best V7 build, but no iCloud Connect`,
                 ],
                 links: [
                     { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
@@ -1605,7 +1607,7 @@ const product = computed<ProductRec | null>(() => {
                     : []),
                 ...(priority === 'anc'
                     ? [
-                          `Want the newest instead? Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) adds adaptive ANC, heart rate sensor & head gestures`,
+                          `Want the newest instead? Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}) adds adaptive ANC, heart rate sensor & head gestures`,
                       ]
                     : []),
             ],
@@ -1628,7 +1630,7 @@ const product = computed<ProductRec | null>(() => {
                 'iCloud Connect, Pro 3 iOS popup, Starfun app',
                 'AI Hybrid ANC, head-tracking spatial audio, low-latency gaming mode',
                 ...v7UseCaseReasons,
-                `Also consider: Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}, HiCity-only) — the newest and best V7 build with adaptive ANC & multipoint for 3 devices, but no iOS popup yet and no iCloud Connect; or Pro 2 V5.4 Huilian ($${prices['pro2-v5.4-huilian']}) for adaptive audio`,
+                `Also consider: Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}) — the newest and best V7 build with adaptive ANC & multipoint for 3 devices, but no iOS popup yet and no iCloud Connect; or Pro 2 V5.4 Huilian ($${prices['pro2-v5.4-huilian']}) for adaptive audio`,
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
@@ -1689,30 +1691,54 @@ function sellerLink(seller: (typeof sellers)[keyof typeof sellers] | null) {
     return links[sellerKey] || null;
 }
 
-// When the preferred seller has no listing for the pick (e.g. the HiCity-only
-// Pro 3 V7 TigerBuilder), send the reader to a seller that has one, in today's
+// Sellers that sell a pick on their own website but not yet on their Weidian or
+// Alibaba listings (Pro 3 V7 TB at Earhive and Jenny, Nov 2026). The KakoBuy and
+// Alibaba answers must not send readers to a listing without the pick.
+const websiteOnly: Record<string, string[]> = {
+    'pro3-v7-tb': ['earhive', 'jenny'],
+};
+
+// Whether the seller has the pick where this reader will order it
+function sellerHasPick(seller: (typeof sellers)[keyof typeof sellers] | null) {
+    if (!sellerLink(seller)) {
+        return false;
+    }
+    const ordering = answers.value.ordering;
+    if (ordering !== 'agent' && ordering !== 'alibaba') {
+        return true;
+    }
+    const sellerKey = Object.keys(sellers).find(
+        (k) => sellers[k as keyof typeof sellers] === seller
+    );
+    return !(websiteOnly[product.value?.priceKey ?? ''] ?? []).includes(sellerKey ?? '');
+}
+
+// When the preferred seller has no listing for the pick (e.g. the Jenny-only
+// Pro 3 SE), send the reader to a seller that has one, in today's
 // rotation order, instead of a dead end
 const recommendedSeller = computed(() => {
     const preferred = preferredSeller.value;
-    if (!preferred || sellerLink(preferred)) {
+    if (!preferred || sellerHasPick(preferred)) {
         return preferred;
     }
-    return rotatedSellers.find((s) => sellerLink(s.seller))?.seller ?? preferred;
+    return rotatedSellers.find((s) => sellerHasPick(s.seller))?.seller ?? preferred;
 });
 
 const isOnlySeller = computed(
     () =>
         recommendedSeller.value !== preferredSeller.value &&
-        rotatedSellers.filter((s) => sellerLink(s.seller)).length === 1
+        rotatedSellers.filter((s) => sellerHasPick(s.seller)).length === 1
 );
 
 // Get direct product link for the recommended seller
-const directProductLink = computed(() => sellerLink(recommendedSeller.value));
+const directProductLink = computed(() =>
+    sellerHasPick(recommendedSeller.value) ? sellerLink(recommendedSeller.value) : null
+);
 
 // Alibaba answer: the sellers with an Alibaba store (Earhive first, then Jenny)
 // that list the recommended pick
 const alibabaSellers = computed(() =>
-    [sellers.earhive, sellers.jenny].filter((seller) => sellerLink(seller))
+    [sellers.earhive, sellers.jenny].filter((seller) => sellerHasPick(seller))
 );
 
 function productToLinksPage(): LinksPageKey {

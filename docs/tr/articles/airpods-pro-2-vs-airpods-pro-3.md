@@ -73,7 +73,7 @@ Temel fark, kulaklıkların fiziksel biçiminde: Pro 3, kulağın içine daha de
 - Üst düzey ekosistem özelliklerinin önemli olmadığı spor salonu veya seyahat kullanımı için uygun fiyatlı SE'yi (~$48) istiyorsanız.
 - En yeni özellikleri istiyorsanız: kalp atış hızı takibi, kafa hareketiyle arama yanıtlama, konuşma farkındalığı ve Canlı Çeviri. V7 Huilian ayrıca iCloud Connect özelliğini de sunuyor.
 
-<span class="pick-buy">V7 Huilian'ı [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl) üzerinden satın alın</span> <span class="pick-buy">V7 TB'yi [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) üzerinden satın alın</span> <span class="pick-buy">SE'yi [Jenny](https://airreps.link/jpro3se) üzerinden satın alın</span>
+<span class="pick-buy">V7 Huilian'ı [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl) üzerinden satın alın</span> <span class="pick-buy">V7 TB'yi [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/) üzerinden satın alın</span> <span class="pick-buy">SE'yi [Jenny](https://airreps.link/jpro3se) üzerinden satın alın</span>
 
 ## İlgili okumalar
 
