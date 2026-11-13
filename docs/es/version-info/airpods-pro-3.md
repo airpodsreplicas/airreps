@@ -35,7 +35,7 @@ Estos son los precios que cobraban los vendedores el 3 de noviembre de 2026; con
 
 <div class="compare-notes">
 
-¹ Solo el V7 TB de Jenny tiene la ventana emergente de iOS y número de serie. Aviso de Jenny: el modelo se puede crackear, pero después no podrás actualizar su firmware desde la app, y en cuanto se actualiza el firmware, la ventana emergente y el número de serie desaparecen. El V7 TB de los demás vendedores no tiene ninguno de los dos; la actualización de fábrica para añadirlos no funcionó. Se configura con la app FlyCC, así que no es para todo el mundo.
+¹ Solo el V7 TB de Jenny tiene la ventana emergente de iOS y número de serie. Nota: tras una actualización de firmware en la app FlyCC, la ventana emergente de iOS y el número de serie desaparecen y hay que volver a añadirlos. El V7 TB de los demás vendedores no tiene ninguno de los dos; la actualización de fábrica para añadirlos no funcionó. Se configura con la app FlyCC, así que no es para todo el mundo.
 
 ² En nuestras pruebas, la medición de frecuencia cardíaca del SE se desviaba entre 15 y 20 lpm respecto a un sensor de grado médico: sirve para satisfacer la curiosidad. El V7 mide con mucha más precisión.
 
@@ -65,7 +65,7 @@ El V7 es la réplica más reciente de los AirPods Pro 3 y se presenta en dos ver
 
 ### V7 TigerBuilder {#v7-tb}
 
-**TigerBuilder** es la versión más reciente y mejor del V7, basada en el chipset Airoha 1571AM y con un precio de unos $68. Entre las funciones indicadas por el vendedor están el sensor de frecuencia cardíaca, ANC adaptativa, detección de conversaciones, audio espacial con seguimiento de cabeza, gestos con la cabeza, control deslizante de volumen, ENC con dos micrófonos, un transductor de 10 mm, auriculares de 45 mAh con estuche Qi de 550 mAh, altavoz en el estuche y conexión multipunto para 3 dispositivos. ⚠️ Solo el V7 TB de Jenny tiene la ventana emergente de iOS y número de serie. Aviso de Jenny: se puede crackear, pero después no podrás actualizar el firmware desde la app, y una actualización de firmware elimina la ventana emergente y el número de serie. El V7 TB de los demás vendedores no tiene ninguno de los dos; la actualización de fábrica para añadirlos no funcionó. Usa la app FlyCC, que no es para todo el mundo; el V7 Huilian no se ve afectado. Lo venden Earhive, HiCity y Jenny; consulta los [enlaces de compra](/es/links/airpods-pro-3).
+**TigerBuilder** es la versión más reciente y mejor del V7, basada en el chipset Airoha 1571AM y con un precio de unos $68. Entre las funciones indicadas por el vendedor están el sensor de frecuencia cardíaca, ANC adaptativa, detección de conversaciones, audio espacial con seguimiento de cabeza, gestos con la cabeza, control deslizante de volumen, ENC con dos micrófonos, un transductor de 10 mm, auriculares de 45 mAh con estuche Qi de 550 mAh, altavoz en el estuche y conexión multipunto para 3 dispositivos. ⚠️ Solo el V7 TB de Jenny tiene la ventana emergente de iOS y número de serie. Nota: tras una actualización de firmware en la app FlyCC, la ventana emergente de iOS y el número de serie desaparecen y hay que volver a añadirlos. El V7 TB de los demás vendedores no tiene ninguno de los dos; la actualización de fábrica para añadirlos no funcionó. Usa la app FlyCC, que no es para todo el mundo; el V7 Huilian no se ve afectado. Lo venden Earhive, HiCity y Jenny; consulta los [enlaces de compra](/es/links/airpods-pro-3).
 
 ### V7 Huilian {#v7-huilian}
 

@@ -35,7 +35,7 @@ Priserne er dem, sælgerne tog den 3. november 2026; se [købslinks](/da/links/a
 
 <div class="compare-notes">
 
-¹ Kun Jennys V7 TB har iOS-popup og serienummer. Jennys bemærkning: modellen kan crackes, men bagefter kan du ikke opdatere firmwaren via appen, og når firmwaren er opdateret, forsvinder popup og serienummer. De andre sælgeres V7 TB har ingen af delene; fabrikkens opdatering, der skulle tilføje dem, virkede ikke. Du konfigurerer den i FlyCC-appen, så den er ikke for alle.
+¹ Kun Jennys V7 TB har iOS-popup og serienummer. Bemærk: efter en firmwareopdatering i FlyCC-appen forsvinder iOS-popup og serienummer og skal tilføjes igen. De andre sælgeres V7 TB har ingen af delene; fabrikkens opdatering, der skulle tilføje dem, virkede ikke. Du konfigurerer den i FlyCC-appen, så den er ikke for alle.
 
 ² I vores test afveg SE's pulsmåling med 15–20 bpm fra en medicinsk sensor: fint til uformel nysgerrighed. V7 måler langt mere præcist.
 
@@ -65,7 +65,7 @@ V7 er den nyeste AirPods Pro 3-kopi og fås i to udgaver: **TigerBuilder** — d
 
 ### V7 TigerBuilder {#v7-tb}
 
-**TigerBuilder** er den nyeste og bedste V7-udgave, baseret på Airoha 1571AM-chipsettet og koster omkring $68. Ifølge sælgeren har den pulsmåler, adaptiv ANC, samtaleregistrering, rumlig lyd med hovedsporing, hovedbevægelser, lydstyrkekontrol med swipe, ENC med to mikrofoner, en 10 mm driver, øretelefoner på 45 mAh med et Qi-etui på 550 mAh, en etuihøjttaler og multipoint til 3 enheder. ⚠️ Kun Jennys V7 TB har iOS-popup og serienummer. Jennys bemærkning: den kan crackes, men bagefter kan du ikke opdatere firmwaren via appen, og en firmwareopdatering fjerner popup og serienummer. De andre sælgeres V7 TB har ingen af delene — fabrikkens opdatering, der skulle tilføje dem, virkede ikke. Den bruger FlyCC-appen — ikke for alle; Huilian V7 er ikke berørt. Den sælges af Earhive, HiCity og Jenny — se [købslinks](/da/links/airpods-pro-3).
+**TigerBuilder** er den nyeste og bedste V7-udgave, baseret på Airoha 1571AM-chipsettet og koster omkring $68. Ifølge sælgeren har den pulsmåler, adaptiv ANC, samtaleregistrering, rumlig lyd med hovedsporing, hovedbevægelser, lydstyrkekontrol med swipe, ENC med to mikrofoner, en 10 mm driver, øretelefoner på 45 mAh med et Qi-etui på 550 mAh, en etuihøjttaler og multipoint til 3 enheder. ⚠️ Kun Jennys V7 TB har iOS-popup og serienummer. Bemærk: efter en firmwareopdatering i FlyCC-appen forsvinder iOS-popup og serienummer og skal tilføjes igen. De andre sælgeres V7 TB har ingen af delene — fabrikkens opdatering, der skulle tilføje dem, virkede ikke. Den bruger FlyCC-appen — ikke for alle; Huilian V7 er ikke berørt. Den sælges af Earhive, HiCity og Jenny — se [købslinks](/da/links/airpods-pro-3).
 
 ### V7 Huilian {#v7-huilian}
 

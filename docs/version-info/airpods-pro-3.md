@@ -36,7 +36,7 @@ Prices are what the sellers charged on 3 November 2026; see the [purchase links]
 
 <div class="compare-notes">
 
-¹ Only Jenny's V7 TB comes with the iOS popup and a serial number. Jenny's note: the model can be cracked, but after that you can't update its firmware through the app, and once the firmware is updated, the popup and serial number are gone. The other sellers' V7 TB has neither; the factory's update to add them didn't work. You set it up in the FlyCC app, so it isn't for everyone.
+¹ Only Jenny's V7 TB comes with the iOS popup and a serial number. Note: after a firmware update in the FlyCC app, the iOS popup and serial number disappear and need to be re-added. The other sellers' V7 TB has neither; the factory's update to add them didn't work. You set it up in the FlyCC app, so it isn't for everyone.
 
 ² The SE's heart rate read 15–20 bpm off a medical-grade sensor in our testing: fine for casual curiosity. The V7 tracks much closer.
 
@@ -66,7 +66,7 @@ V7 is the newest AirPods Pro 3 replica and comes in two builds: the **TigerBuild
 
 ### V7 TigerBuilder {#v7-tb}
 
-**TigerBuilder** is the newest and best V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ Only Jenny's V7 TB has the iOS popup and a serial number. Jenny's note: it can be cracked, but after that you can't update the firmware through the app, and a firmware update removes the popup and serial number. The other sellers' V7 TB has neither — the factory's update to add them didn't work. It uses the FlyCC app — not for everyone; the Huilian V7 is not affected. It's sold by Earhive, HiCity and Jenny — see the [purchase links](/links/airpods-pro-3).
+**TigerBuilder** is the newest and best V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ Only Jenny's V7 TB has the iOS popup and a serial number. Note: after a firmware update in the FlyCC app, the iOS popup and serial number disappear and need to be re-added. The other sellers' V7 TB has neither — the factory's update to add them didn't work. It uses the FlyCC app — not for everyone; the Huilian V7 is not affected. It's sold by Earhive, HiCity and Jenny — see the [purchase links](/links/airpods-pro-3).
 
 ### V7 Huilian {#v7-huilian}
 
