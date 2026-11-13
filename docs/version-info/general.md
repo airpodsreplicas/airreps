@@ -25,7 +25,7 @@ This table provides a summary of the most notable missing features for various A
 
 | AirPods Model | Based On | Missing Features                                                                                                                                         |
 |---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirPods Pro 3](/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Find My Network; on the TigerBuilder V7, only Jenny's units have the iOS popup and serial number (a firmware update removes them; uses the FlyCC app) |
+| [AirPods Pro 3](/version-info/airpods-pro-3) | [<span class="version-badge">V7</span>](https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1) | Find My Network; on the TigerBuilder V7, only Jenny's units have the iOS popup and serial number (after a FlyCC firmware update they disappear and need to be re-added; uses the FlyCC app) |
 | [AirPods Pro 3](/version-info/airpods-pro-3) | [<span class="version-badge">SE</span>](https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1) | Find My Network, iCloud switching, Conversation Awareness, head-gesture call controls; heart-rate readings are inaccurate |
 | [AirPods Gen 4](/version-info/airpods-4) | [<span class="version-badge">V3</span>](https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1) | Find My Network, and subtle retail finishing details |
 | [AirPods Pro 2](/version-info/airpods-pro-2) | [<span class="version-badge">V5.4</span>](https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1) | Perfect Spatial Audio, Find My Network |
@@ -62,7 +62,7 @@ AirPods Max replicas are available and mature. Flagship V3 Metal models use the 
 :::
 
 ::: details Are AirPods Pro 3 reps available?
-AirPods Pro 3 replicas are available. The Jenny-exclusive SE (XiaoBai) is the top value pick with class-leading ANC. The V7 (TigerBuilder Airoha 1571AM / Huilian 377H3 — the TigerBuilder is the newest and best build) adds optical heart rate tracking, AI Hybrid ANC, and head gesture controls; note that only Jenny's TigerBuilder V7 has the iOS popup and a serial number (it can be cracked, but then you can't update its firmware through the app, and a firmware update removes them); the other sellers' TigerBuilder V7 has neither; it uses the FlyCC app. V6 (Huilian/TB) offers a proven mid-tier with iCloud switching on Huilian, and V5.5 covers the budget entry. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
+AirPods Pro 3 replicas are available. The Jenny-exclusive SE (XiaoBai) is the top value pick with class-leading ANC. The V7 (TigerBuilder Airoha 1571AM / Huilian 377H3 — the TigerBuilder is the newest and best build) adds optical heart rate tracking, AI Hybrid ANC, and head gesture controls; note that only Jenny's TigerBuilder V7 has the iOS popup and a serial number (after a firmware update in the FlyCC app they disappear and need to be re-added); the other sellers' TigerBuilder V7 has neither; it uses the FlyCC app. V6 (Huilian/TB) offers a proven mid-tier with iCloud switching on Huilian, and V5.5 covers the budget entry. For more information, see the [AirPods Pro 3 version info](/version-info/airpods-pro-3) page.
 :::
 
 ::: details Why might similar communities have newer products than this guide?

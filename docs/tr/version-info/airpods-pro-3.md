@@ -35,7 +35,7 @@ Fiyatlar, satıcıların 3 Kasım 2026 tarihinde belirlediği fiyatlardır; gün
 
 <div class="compare-notes">
 
-¹ iOS açılır penceresi ve seri numarası yalnızca Jenny'nin V7 TB'sinde var. Jenny'nin notu: Bu model kırılabilir (crack), ancak sonrasında donanım yazılımını uygulama üzerinden güncelleyemezsiniz; donanım yazılımı güncellendiğinde açılır pencere ve seri numarası kaybolur. Diğer satıcıların V7 TB'sinde ikisi de yok; bunları eklemesi gereken fabrika güncellemesi işe yaramadı. Kurulumu FlyCC uygulamasında yaparsınız, bu nedenle herkese uygun değildir.
+¹ iOS açılır penceresi ve seri numarası yalnızca Jenny'nin V7 TB'sinde var. Not: FlyCC uygulamasında donanım yazılımı güncellemesinden sonra iOS açılır penceresi ve seri numarası kaybolur ve yeniden eklenmesi gerekir. Diğer satıcıların V7 TB'sinde ikisi de yok; bunları eklemesi gereken fabrika güncellemesi işe yaramadı. Kurulumu FlyCC uygulamasında yaparsınız, bu nedenle herkese uygun değildir.
 
 ² Testlerimizde SE'nin kalp atış hızı ölçümü, tıbbi sınıf bir sensörden 15–20 bpm farklı çıktı: gündelik merak için yeterli. V7'nin ölçümü gerçeğe çok daha yakın.
 
@@ -65,7 +65,7 @@ V7, en yeni AirPods Pro 3 replikasıdır ve iki farklı yapıda sunulur: en yeni
 
 ### V7 TigerBuilder {#v7-tb}
 
-**TigerBuilder**, yaklaşık $68 fiyatla Airoha 1571AM yonga setini temel alan, en yeni ve en iyi V7 yapısıdır. Satıcının belirttiği özellikler arasında kalp atış hızı sensörü, uyarlanabilir ANC, konuşma farkındalığı, kafa takibi destekli uzamsal ses, kafa hareketleriyle kontrol, kaydırarak ses kontrolü, çift mikrofonlu ENC, 10 mm sürücü, 550 mAh Qi kutuyla birlikte 45 mAh kulaklıklar, kutu hoparlörü ve 3 cihaz için çok noktalı bağlantı bulunur. ⚠️ iOS açılır penceresi ve seri numarası yalnızca Jenny'nin V7 TB'sinde var. Jenny'nin notu: Kırılabilir (crack), ancak sonrasında donanım yazılımını uygulama üzerinden güncelleyemezsiniz ve bir donanım yazılımı güncellemesi açılır pencereyi ve seri numarasını kaldırır. Diğer satıcıların V7 TB'sinde ikisi de yok — bunları eklemesi gereken fabrika güncellemesi işe yaramadı. FlyCC uygulamasını kullanır — herkese uygun değildir; Huilian V7 bu durumdan etkilenmez. Earhive, HiCity ve Jenny'de satılır — [satın alma bağlantılarına](/tr/links/airpods-pro-3) bakın.
+**TigerBuilder**, yaklaşık $68 fiyatla Airoha 1571AM yonga setini temel alan, en yeni ve en iyi V7 yapısıdır. Satıcının belirttiği özellikler arasında kalp atış hızı sensörü, uyarlanabilir ANC, konuşma farkındalığı, kafa takibi destekli uzamsal ses, kafa hareketleriyle kontrol, kaydırarak ses kontrolü, çift mikrofonlu ENC, 10 mm sürücü, 550 mAh Qi kutuyla birlikte 45 mAh kulaklıklar, kutu hoparlörü ve 3 cihaz için çok noktalı bağlantı bulunur. ⚠️ iOS açılır penceresi ve seri numarası yalnızca Jenny'nin V7 TB'sinde var. Not: FlyCC uygulamasında donanım yazılımı güncellemesinden sonra iOS açılır penceresi ve seri numarası kaybolur ve yeniden eklenmesi gerekir. Diğer satıcıların V7 TB'sinde ikisi de yok — bunları eklemesi gereken fabrika güncellemesi işe yaramadı. FlyCC uygulamasını kullanır — herkese uygun değildir; Huilian V7 bu durumdan etkilenmez. Earhive, HiCity ve Jenny'de satılır — [satın alma bağlantılarına](/tr/links/airpods-pro-3) bakın.
 
 ### V7 Huilian {#v7-huilian}
 
