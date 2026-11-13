@@ -8,7 +8,7 @@ description: "Compare AirPods Pro 3 replica versions (V7, SE, V6, V5.5) by chip,
 <div class="pick-cards">
 
 - <span class="pick-label">Best value</span> **SE** · $48 · Jenny only<br>The strongest noise cancelling we've tested on any replica, working head tracking and live translation. Connects to one device at a time. [SE overview](#se-overview)<span class="pick-buy">Buy at [Jenny](https://airreps.link/jpro3se)</span>
-- <span class="pick-label">Most features</span> **V7 TB** · $67–68<br>Heart rate, head gestures, conversation awareness and switching between 3 devices. No iOS popup or serial number. [V7 overview](#v7-overview)<span class="pick-buy">Buy at [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
+- <span class="pick-label">Most features</span> **V7 TB** · $67–68<br>Heart rate, head gestures, conversation awareness and switching between 3 devices. iOS popup and serial number on Jenny's units only. [V7 overview](#v7-overview)<span class="pick-buy">Buy at [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
 - <span class="pick-label">Best for iCloud switching</span> **V6 Huilian** · $43–45<br>Switches between your iPhone, iPad and Mac with iCloud Connect, for less than a V7. The **V7 Huilian** adds heart rate and head gestures.<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov6hl) [HiCity](https://airreps.link/hcprov6hl) [Jenny](https://airreps.link/jprov6hl)</span>
 - <span class="pick-label">Lowest price</span> **V5.5** · $27–28<br>The Pro 3 look and decent noise cancelling. No head tracking.<span class="pick-buy">Buy at [Earhive](https://airreps.link/eprov55) [HiCity](https://airreps.link/hcprov55) [Jenny](https://airreps.link/jprov55)</span>
 
@@ -22,7 +22,7 @@ Prices are what the sellers charged on 3 November 2026; see the [purchase links]
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Price** | $67–68 | $67–68 | $48 | $43–45 | $37–38 | $27–28 |
 | **Sold by** | All 3 | All 3 | Jenny | All 3 | All 3 | All 3 |
-| **iOS popup** | ❌ No¹ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **iOS popup** | ⚠️ Jenny only¹ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Noise cancelling** | Very strong | Very strong | Strongest | Good | Good | Decent |
 | **Head-tracking spatial audio** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | **Heart rate** | ✅ | ✅ | ✅ Casual² | ❌ | ❌ | ❌ |
@@ -36,14 +36,14 @@ Prices are what the sellers charged on 3 November 2026; see the [purchase links]
 
 <div class="compare-notes">
 
-¹ The V7 TB currently has no iOS popup and no serial number. The seller tried to add them in an update, but it didn't work; a future update may add them. You set it up in the FlyCC app instead, so it isn't for everyone.
+¹ Only Jenny's V7 TB comes with the iOS popup and a serial number. Jenny's note: the model can be cracked, but after that you can't update its firmware through the app, and once the firmware is updated, the popup and serial number are gone. The other sellers' V7 TB has neither; the factory's update to add them didn't work. You set it up in the FlyCC app, so it isn't for everyone.
 
 ² The SE's heart rate read 15–20 bpm off a medical-grade sensor in our testing: fine for casual curiosity. The V7 tracks much closer.
 
 </div>
 
 ::: tip Every Pro 3 version has
-USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, the Pro 3 iOS popup (not on the V7 TB) and iOS 27 support.
+USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency Mode, in-ear detection, the Pro 3 iOS popup (on the V7 TB, only Jenny's units) and iOS 27 support.
 *(Note: No replica supports Apple's encrypted Find My network.)*
 :::
 
@@ -66,7 +66,7 @@ V7 is the newest AirPods Pro 3 replica and comes in two builds: the **TigerBuild
 
 ### V7 TigerBuilder {#v7-tb}
 
-**TigerBuilder** is the newest and best V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ It currently has no iOS popup and no serial number — the seller tried to add them in an update, but it didn't work; a future update may add them. It uses the FlyCC app instead — not for everyone; the Huilian V7 is not affected. It's sold by Earhive, HiCity and Jenny — see the [purchase links](/links/airpods-pro-3).
+**TigerBuilder** is the newest and best V7 build, based on the Airoha 1571AM chipset at around $68. Seller-listed features include a heart rate sensor, adaptive ANC, conversation awareness, head-tracking spatial audio, head gestures, swipe volume control, dual-mic ENC, a 10mm driver, 45mAh earbuds with a 550mAh Qi case, a case speaker, and multipoint for 3 devices. ⚠️ Only Jenny's V7 TB has the iOS popup and a serial number. Jenny's note: it can be cracked, but after that you can't update the firmware through the app, and a firmware update removes the popup and serial number. The other sellers' V7 TB has neither — the factory's update to add them didn't work. It uses the FlyCC app — not for everyone; the Huilian V7 is not affected. It's sold by Earhive, HiCity and Jenny — see the [purchase links](/links/airpods-pro-3).
 
 ### V7 Huilian {#v7-huilian}
 

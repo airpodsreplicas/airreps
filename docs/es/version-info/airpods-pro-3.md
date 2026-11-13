@@ -7,7 +7,7 @@ description: 'Compara las versiones réplica de AirPods Pro 3 (V7, SE, V6, V5.5)
 <div class="pick-cards">
 
 - <span class="pick-label">Mejor relación calidad-precio</span> **SE** · $48 · Solo Jenny<br>La mejor cancelación de ruido que hemos probado en una réplica, con seguimiento de cabeza y traducción en tiempo real que funcionan. Se conecta a un dispositivo a la vez. [Información general del SE](#se-overview)<span class="pick-buy">Comprar en [Jenny](https://airreps.link/jpro3se)</span>
-- <span class="pick-label">Más funciones</span> **V7 TB** · $67–68<br>Frecuencia cardíaca, gestos con la cabeza, detección de conversaciones y conexión a 3 dispositivos. Sin ventana emergente de iOS ni número de serie. [Información general del V7](#v7-overview)<span class="pick-buy">Comprar en [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
+- <span class="pick-label">Más funciones</span> **V7 TB** · $67–68<br>Frecuencia cardíaca, gestos con la cabeza, detección de conversaciones y conexión a 3 dispositivos. Ventana emergente de iOS y número de serie solo en las unidades de Jenny. [Información general del V7](#v7-overview)<span class="pick-buy">Comprar en [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
 - <span class="pick-label">Ideal para cambiar entre dispositivos con iCloud</span> **V6 Huilian** · $43–45<br>Cambia entre tu iPhone, iPad y Mac con iCloud Connect, por menos que un V7. El **V7 Huilian** añade frecuencia cardíaca y gestos con la cabeza.<span class="pick-buy">Comprar en [Earhive](https://airreps.link/eprov6hl) [HiCity](https://airreps.link/hcprov6hl) [Jenny](https://airreps.link/jprov6hl)</span>
 - <span class="pick-label">Precio más bajo</span> **V5.5** · $27–28<br>El aspecto de los Pro 3 y una cancelación de ruido decente. Sin seguimiento de cabeza.<span class="pick-buy">Comprar en [Earhive](https://airreps.link/eprov55) [HiCity](https://airreps.link/hcprov55) [Jenny](https://airreps.link/jprov55)</span>
 
@@ -21,7 +21,7 @@ Estos son los precios que cobraban los vendedores el 3 de noviembre de 2026; con
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Precio** | $67–68 | $67–68 | $48 | $43–45 | $37–38 | $27–28 |
 | **Vendido por** | Los 3 | Los 3 | Jenny | Los 3 | Los 3 | Los 3 |
-| **Ventana emergente de iOS** | ❌ No¹ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Ventana emergente de iOS** | ⚠️ Solo Jenny¹ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Cancelación de ruido** | Muy potente | Muy potente | La más potente | Buena | Buena | Decente |
 | **Audio espacial con seguimiento de cabeza** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | **Frecuencia cardíaca** | ✅ | ✅ | ✅ Casual² | ❌ | ❌ | ❌ |
@@ -35,14 +35,14 @@ Estos son los precios que cobraban los vendedores el 3 de noviembre de 2026; con
 
 <div class="compare-notes">
 
-¹ Actualmente, el V7 TB no tiene ventana emergente de iOS ni número de serie. El vendedor intentó añadirlos en una actualización, pero no funcionó; quizá se incorporen en una actualización futura. Se configura con la app FlyCC, así que no es para todo el mundo.
+¹ Solo el V7 TB de Jenny tiene la ventana emergente de iOS y número de serie. Aviso de Jenny: el modelo se puede crackear, pero después no podrás actualizar su firmware desde la app, y en cuanto se actualiza el firmware, la ventana emergente y el número de serie desaparecen. El V7 TB de los demás vendedores no tiene ninguno de los dos; la actualización de fábrica para añadirlos no funcionó. Se configura con la app FlyCC, así que no es para todo el mundo.
 
 ² En nuestras pruebas, la medición de frecuencia cardíaca del SE se desviaba entre 15 y 20 lpm respecto a un sensor de grado médico: sirve para satisfacer la curiosidad. El V7 mide con mucha más precisión.
 
 </div>
 
 ::: tip Todas las versiones Pro 3 incluyen
-Carga USB-C, control deslizante de volumen en la patilla, cancelación activa de ruido, modo de transparencia, detección en el oído, la ventana emergente de iOS de los Pro 3 (excepto en el V7 TB) y compatibilidad con iOS 27.
+Carga USB-C, control deslizante de volumen en la patilla, cancelación activa de ruido, modo de transparencia, detección en el oído, la ventana emergente de iOS de los Pro 3 (en el V7 TB, solo las unidades de Jenny) y compatibilidad con iOS 27.
 *(Nota: ninguna réplica es compatible con la red cifrada Buscar de Apple.)*
 :::
 
@@ -65,7 +65,7 @@ El V7 es la réplica más reciente de los AirPods Pro 3 y se presenta en dos ver
 
 ### V7 TigerBuilder {#v7-tb}
 
-**TigerBuilder** es la versión más reciente y mejor del V7, basada en el chipset Airoha 1571AM y con un precio de unos $68. Entre las funciones indicadas por el vendedor están el sensor de frecuencia cardíaca, ANC adaptativa, detección de conversaciones, audio espacial con seguimiento de cabeza, gestos con la cabeza, control deslizante de volumen, ENC con dos micrófonos, un transductor de 10 mm, auriculares de 45 mAh con estuche Qi de 550 mAh, altavoz en el estuche y conexión multipunto para 3 dispositivos. ⚠️ Actualmente no tiene ventana emergente de iOS ni número de serie; el vendedor intentó añadirlos en una actualización, pero no funcionó; quizá se incorporen en una actualización futura. Usa la app FlyCC, que no es para todo el mundo; el V7 Huilian no se ve afectado. Lo venden Earhive, HiCity y Jenny; consulta los [enlaces de compra](/es/links/airpods-pro-3).
+**TigerBuilder** es la versión más reciente y mejor del V7, basada en el chipset Airoha 1571AM y con un precio de unos $68. Entre las funciones indicadas por el vendedor están el sensor de frecuencia cardíaca, ANC adaptativa, detección de conversaciones, audio espacial con seguimiento de cabeza, gestos con la cabeza, control deslizante de volumen, ENC con dos micrófonos, un transductor de 10 mm, auriculares de 45 mAh con estuche Qi de 550 mAh, altavoz en el estuche y conexión multipunto para 3 dispositivos. ⚠️ Solo el V7 TB de Jenny tiene la ventana emergente de iOS y número de serie. Aviso de Jenny: se puede crackear, pero después no podrás actualizar el firmware desde la app, y una actualización de firmware elimina la ventana emergente y el número de serie. El V7 TB de los demás vendedores no tiene ninguno de los dos; la actualización de fábrica para añadirlos no funcionó. Usa la app FlyCC, que no es para todo el mundo; el V7 Huilian no se ve afectado. Lo venden Earhive, HiCity y Jenny; consulta los [enlaces de compra](/es/links/airpods-pro-3).
 
 ### V7 Huilian {#v7-huilian}
 

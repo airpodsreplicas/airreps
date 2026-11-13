@@ -1486,7 +1486,7 @@ const product = computed<ProductRec | null>(() => {
             reasons: [
                 'Newest AirPods Pro 3 form factor with almost 1:1 hinge',
                 'Heart rate sensor, head gestures, conversation awareness, adaptive ANC, multipoint for 3 devices',
-                'No iOS popup or serial number yet — the seller tried to add them in an update, but it failed; a future update may add them (uses the FlyCC app)',
+                'iOS popup and serial number only on units from Jenny (a firmware update removes them); units from other sellers have neither (uses the FlyCC app)',
                 ...v7UseCaseReasons,
                 `Also consider: V7 Huilian ($${prices['pro3-v7-huilian']}) for the iOS popup, iCloud Connect & Live Translation, or Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — even better ANC for less`,
             ],
@@ -1630,7 +1630,7 @@ const product = computed<ProductRec | null>(() => {
                 'iCloud Connect, Pro 3 iOS popup, Starfun app',
                 'AI Hybrid ANC, head-tracking spatial audio, low-latency gaming mode',
                 ...v7UseCaseReasons,
-                `Also consider: Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}) — the newest and best V7 build with adaptive ANC & multipoint for 3 devices, but no iOS popup yet and no iCloud Connect; or Pro 2 V5.4 Huilian ($${prices['pro2-v5.4-huilian']}) for adaptive audio`,
+                `Also consider: Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}) — the newest and best V7 build with adaptive ANC & multipoint for 3 devices, but the iOS popup only on units from Jenny and no iCloud Connect; or Pro 2 V5.4 Huilian ($${prices['pro2-v5.4-huilian']}) for adaptive audio`,
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
