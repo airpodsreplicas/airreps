@@ -535,7 +535,7 @@ Payment Methods by Seller:
 
                         Earhive   HiCity   Jenny
 Credit/Debit Card       Yes       Yes      Yes
-AliPay                  Yes       No       Yes
+AliPay                  Yes       Yes      Yes
 PayPal                  Sometimes Sometimes No
 Revolut                 Yes       Yes      Yes
 Wise                    Yes       Yes      Yes
@@ -552,6 +552,8 @@ Boleto                  No        Yes      No
 PayU                    No        Yes      No
 Bancontact              No        Yes      No
 EPS                     No        Yes      No
+
+HiCity's Alipay payments go straight to the seller and are confirmed by hand, so your order stays on hold until the seller checks the payment. Earhive's and Jenny's Alipay payments are confirmed automatically.
 
 HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options come from HiCity's cashier and were last checked against completed payments on 29 October 2026. OnlyPay confirms final availability for each order. UK buyers see Trustly in the cashier, but UK payments don't go through, so choose another method there. No OnlyPay option is offered for the US, Canada, Australia or France.
 

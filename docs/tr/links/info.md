@@ -61,7 +61,7 @@ Tüm güvenilir satıcılar, size kolaylık sağlamak için birden fazla ödeme 
 | Ödeme yöntemi | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
 | [**Kredi / banka kartı**](#credit-card) | ✅ | ✅ | ✅ |
-| **Alipay** | ✅ | ❌ | ✅ |
+| **Alipay** | ✅ | ✅ | ✅ |
 | **PayPal** | ⚠️ Bazen | ⚠️ Bazen | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
@@ -78,7 +78,9 @@ Tüm güvenilir satıcılar, size kolaylık sağlamak için birden fazla ödeme 
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Her satıcının etkin ödeme altyapıları en son 29 Ekim 2026'da kontrol edildi. Satıcının ödeme sayfasındaki bilgiler esas alınmalıdır; yöntemlerin kullanılabilirliği ülkeye veya siparişe göre değişebilir.
+Her satıcının etkin ödeme altyapıları en son 18 Kasım 2026'da kontrol edildi. Satıcının ödeme sayfasındaki bilgiler esas alınmalıdır; yöntemlerin kullanılabilirliği ülkeye veya siparişe göre değişebilir.
+
+HiCity'deki Alipay ödemeleri doğrudan satıcıya gider ve elle onaylanır; bu nedenle satıcı ödemeyi kontrol edene kadar siparişiniz beklemede kalır. Earhive ve Jenny'de Alipay ödemeleri otomatik olarak onaylanır.
 
 HiCity'nin OnlyPay yöntemleri fatura ülkesine bağlıdır: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX ve Boleto (BR). Bu ülke seçenekleri HiCity'nin ödeme sayfasından alınmıştır ve tamamlanmış ödemelerle karşılaştırılarak en son 29 Ekim 2026'da kontrol edilmiştir. Her sipariş için nihai kullanılabilirliği OnlyPay belirler. Birleşik Krallık'taki alıcılar ödeme sayfasında Trustly'yi görür, ancak Birleşik Krallık ödemeleri gerçekleşmez; bu nedenle orada başka bir yöntem seçin. ABD, Kanada, Avustralya veya Fransa için OnlyPay seçeneği sunulmaz.
 

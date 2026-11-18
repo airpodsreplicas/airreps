@@ -62,7 +62,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | Payment Method | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
 | [**Credit / Debit Card**](#credit-card) | ✅ | ✅ | ✅ |
-| **Alipay** | ✅ | ❌ | ✅ |
+| **Alipay** | ✅ | ✅ | ✅ |
 | **PayPal** | ⚠️ Sometimes | ⚠️ Sometimes | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
@@ -79,7 +79,9 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Each seller's enabled payment gateways were last checked on 29 October 2026. The seller's checkout is authoritative, and current availability can change by country or order.
+Each seller's enabled payment gateways were last checked on 18 November 2026. The seller's checkout is authoritative, and current availability can change by country or order.
+
+HiCity's Alipay payments go straight to the seller and are confirmed by hand, so your order stays on hold until the seller checks the payment. Earhive's and Jenny's Alipay payments are confirmed automatically.
 
 HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options come from HiCity's cashier and were last checked against completed payments on 29 October 2026. OnlyPay confirms final availability for each order. UK buyers see Trustly in the cashier, but UK payments don't go through, so choose another method there. No OnlyPay option is offered for the US, Canada, Australia or France.
 
