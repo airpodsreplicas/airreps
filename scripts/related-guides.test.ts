@@ -18,15 +18,20 @@ describe('related guides map', () => {
         }
     });
 
-    test('every linked article exists in English and all eight translations', () => {
+    // New articles ship in English and Translation Sync writes the eight
+    // locale copies after merge, so a brand-new article has no translations
+    // yet (translated pages skip it until then). Once any translation exists,
+    // all eight must, which still catches a partial or broken sync.
+    test('every linked article exists in English and in all eight translations or none yet', () => {
         for (const slugs of Object.values(RELATED_GUIDES)) {
             expect(slugs.length).toBeGreaterThan(0);
             expect(new Set(slugs).size).toBe(slugs.length);
             for (const slug of slugs) {
                 expect(existsSync(`docs/articles/${slug}.md`)).toBe(true);
-                for (const locale of LOCALES) {
-                    expect(existsSync(`docs/${locale}/articles/${slug}.md`)).toBe(true);
-                }
+                const translated = LOCALES.filter((locale) =>
+                    existsSync(`docs/${locale}/articles/${slug}.md`)
+                );
+                expect([0, LOCALES.length]).toContain(translated.length);
             }
         }
     });

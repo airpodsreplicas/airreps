@@ -16,7 +16,11 @@ export const RELATED_GUIDES: Record<string, string[]> = {
         'fake-airpods-wont-connect',
     ],
     'introduction/dictionary': ['how-to-spot-fake-airpods', 'airpods-pro-2-vs-airpods-pro-3'],
-    'introduction/features': ['airpods-replicas-vs-real', 'airpods-pro-2-vs-airpods-pro-3'],
+    'introduction/features': [
+        'airpods-replicas-vs-real',
+        'airpods-pro-2-vs-airpods-pro-3',
+        'do-fake-airpods-work-with-find-my',
+    ],
     'introduction/overview': [
         'best-airpods-replicas-under-50',
         'are-airpods-replicas-safe',
@@ -27,7 +31,11 @@ export const RELATED_GUIDES: Record<string, string[]> = {
         'can-people-tell-airpods-are-fake',
     ],
     'introduction/sellers': ['are-airpods-replicas-safe', 'airpods-replica-customs-and-vat'],
-    'introduction/sound-quality': ['flycc-app-guide', 'airpods-replicas-vs-real'],
+    'introduction/sound-quality': [
+        'flycc-app-guide',
+        'starfun-app-guide',
+        'airpods-replicas-vs-real',
+    ],
     'links/airpods': ['best-airpods-replicas-under-50', 'airpods-replicas-on-android'],
     'links/airpods-max': ['airpods-max-v3-vs-v3p', 'airpods-max-dupe'],
     'links/info': [
@@ -35,10 +43,18 @@ export const RELATED_GUIDES: Record<string, string[]> = {
         'are-airpods-replicas-safe',
         'airpods-replica-customs-and-vat',
     ],
-    'links/pro': ['airpods-pro-2-vs-airpods-pro-3', 'best-airpods-replicas-under-50'],
+    'links/pro': [
+        'airpods-pro-2-vs-airpods-pro-3',
+        'airpods-pro-3-v7-huilian-vs-v7-tb',
+        'best-airpods-replicas-under-50',
+    ],
     'ordering/how-to-buy': ['airpods-replica-customs-and-vat', 'are-airpods-replicas-safe'],
     'ordering/kakobuy': ['airpods-replica-customs-and-vat', 'are-airpods-replicas-safe'],
-    'ordering/qc-lc': ['how-to-spot-fake-airpods', 'can-people-tell-airpods-are-fake'],
+    'ordering/qc-lc': [
+        'how-to-spot-fake-airpods',
+        'do-fake-airpods-work-with-find-my',
+        'can-people-tell-airpods-are-fake',
+    ],
     quiz: ['airpods-pro-2-vs-airpods-pro-3', 'best-airpods-replicas-under-50'],
     'troubleshooting/AirReps-Incompatibility-with-iCloud': [
         'fake-airpods-on-mac',
@@ -52,6 +68,7 @@ export const RELATED_GUIDES: Record<string, string[]> = {
     ],
     'useful-apps': [
         'flycc-app-guide',
+        'starfun-app-guide',
         'how-to-update-fake-airpods-firmware',
         'airpods-replicas-on-android',
     ],
@@ -65,8 +82,10 @@ export const RELATED_GUIDES: Record<string, string[]> = {
         'airpods-pro-2-vs-airpods-pro-3',
         'best-airpods-replicas-under-50',
         'airpods-replicas-vs-real',
+        'do-fake-airpods-work-with-find-my',
     ],
     'version-info/pro': [
+        'airpods-pro-3-v7-huilian-vs-v7-tb',
         'airpods-pro-2-vs-airpods-pro-3',
         'fake-airpods-on-mac',
         'how-to-update-fake-airpods-firmware',
