@@ -61,7 +61,7 @@ Alle pålidelige sælgere accepterer flere betalingsmetoder for at gøre det nem
 | Betalingsmetode | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
 | [**Kredit- / debetkort**](#credit-card) | ✅ | ✅ | ✅ |
-| **Alipay** | ✅ | ❌ | ✅ |
+| **Alipay** | ✅ | ✅ | ✅ |
 | **PayPal** | ⚠️ Nogle gange | ⚠️ Nogle gange | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
@@ -78,7 +78,9 @@ Alle pålidelige sælgere accepterer flere betalingsmetoder for at gøre det nem
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Hver sælgers aktiverede betalingsløsninger blev senest kontrolleret den 29. oktober 2026. Sælgerens betalingsside er den autoritative kilde, og den aktuelle tilgængelighed kan variere efter land eller ordre.
+Hver sælgers aktiverede betalingsløsninger blev senest kontrolleret den 18. november 2026. Sælgerens betalingsside er den autoritative kilde, og den aktuelle tilgængelighed kan variere efter land eller ordre.
+
+HiCitys Alipay-betalinger går direkte til sælgeren og bekræftes manuelt, så din ordre afventer, indtil sælgeren har tjekket betalingen. Hos Earhive og Jenny bekræftes Alipay-betalinger automatisk.
 
 HiCitys OnlyPay-metoder afhænger af faktureringslandet: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX og Boleto (BR). Disse landeindstillinger stammer fra HiCitys betalingsside og blev senest kontrolleret mod gennemførte betalinger den 29. oktober 2026. OnlyPay bekræfter den endelige tilgængelighed for hver ordre. Købere i Storbritannien kan se Trustly på betalingsside, men betalinger fra Storbritannien går ikke igennem, så vælg en anden metode dér. Der tilbydes ingen OnlyPay-muligheder i USA, Canada, Australien eller Frankrig.
 

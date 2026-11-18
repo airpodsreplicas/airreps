@@ -85,7 +85,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card: 'Credit / Debit Card',
         o_card_d: 'Accepted by all sellers',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive & Jenny',
+        o_alipay_d: 'Earhive, HiCity & Jenny',
         o_regional: 'Regional (PIX, Swish, PayU, etc.)',
         o_regional_d: 'HiCity has the most regional options',
         o_payAny: "Don't care",
@@ -187,7 +187,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card: 'Tarjeta de cr\u00e9dito/d\u00e9bito',
         o_card_d: 'Aceptada por todos los vendedores',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive y Jenny',
+        o_alipay_d: 'Earhive, HiCity y Jenny',
         o_regional: 'Regional (PIX, Swish, PayU, etc.)',
         o_regional_d: 'HiCity tiene m\u00e1s opciones regionales',
         o_payAny: 'No me importa',
@@ -288,7 +288,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card: 'Cart\u00e3o de cr\u00e9dito/d\u00e9bito',
         o_card_d: 'Aceito por todos os vendedores',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive e Jenny',
+        o_alipay_d: 'Earhive, HiCity e Jenny',
         o_regional: 'Regional (PIX, Swish, PayU, etc.)',
         o_regional_d: 'HiCity tem mais op\u00e7\u00f5es regionais',
         o_payAny: 'Tanto faz',
@@ -389,7 +389,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card: 'Kredit-/debetkort',
         o_card_d: 'Accepteret af alle s\u00e6lgere',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive og Jenny',
+        o_alipay_d: 'Earhive, HiCity og Jenny',
         o_regional: 'Regional (PIX, Swish, PayU, etc.)',
         o_regional_d: 'HiCity har flest regionale muligheder',
         o_payAny: 'Ligegyldigt',
@@ -490,7 +490,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card: 'Carte de cr\u00e9dit/d\u00e9bit',
         o_card_d: 'Accept\u00e9e par tous les vendeurs',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive et Jenny',
+        o_alipay_d: 'Earhive, HiCity et Jenny',
         o_regional: 'R\u00e9gional (PIX, Swish, PayU, etc.)',
         o_regional_d: "HiCity a le plus d'options r\u00e9gionales",
         o_payAny: 'Peu importe',
@@ -591,7 +591,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card: 'Karta kredytowa/debetowa',
         o_card_d: 'Akceptowana przez wszystkich sprzedawc\u00f3w',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive i Jenny',
+        o_alipay_d: 'Earhive, HiCity i Jenny',
         o_regional: 'Regionalne (PIX, Swish, PayU, itp.)',
         o_regional_d: 'HiCity ma najwi\u0119cej opcji regionalnych',
         o_payAny: 'Nie wa\u017cne',
@@ -740,7 +740,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card_d:
             '\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u0432\u0441\u0435\u043c\u0438 \u043f\u0440\u043e\u0434\u0430\u0432\u0446\u0430\u043c\u0438',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive \u0438 Jenny',
+        o_alipay_d: 'Earhive, HiCity \u0438 Jenny',
         o_regional:
             '\u0420\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 (PIX, Swish, PayU \u0438 \u0442.\u0434.)',
         o_regional_d:
@@ -858,7 +858,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card: 'Kredit-/Debitkarte',
         o_card_d: 'Von allen Verk\u00e4ufern akzeptiert',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive & Jenny',
+        o_alipay_d: 'Earhive, HiCity & Jenny',
         o_regional: 'Regional (PIX, Swish, PayU usw.)',
         o_regional_d: 'HiCity hat die meisten regionalen Optionen',
         o_payAny: 'Egal',
@@ -959,7 +959,7 @@ const i18n: Record<string, Record<string, string>> = {
         o_card: 'Kredi / Banka kart\u0131',
         o_card_d: 'T\u00fcm sat\u0131c\u0131lar taraf\u0131ndan kabul edilir',
         o_alipay: 'AliPay',
-        o_alipay_d: 'Earhive ve Jenny',
+        o_alipay_d: 'Earhive, HiCity ve Jenny',
         o_regional: 'B\u00f6lgesel (PIX, Swish, PayU vb.)',
         o_regional_d: 'HiCity en fazla b\u00f6lgesel se\u00e7ene\u011fe sahip',
         o_payAny: 'Farketmez',
@@ -1131,6 +1131,7 @@ const sellers = {
         strength: 'Best support & most payment options',
         payments: [
             'Credit Card',
+            'AliPay',
             'Revolut',
             'Wise',
             'Cash App',
@@ -1148,7 +1149,6 @@ const sellers = {
 
 // Payment methods that are unique to specific sellers
 const _regionalPayments = [
-    { value: 'alipay', label: 'AliPay', sellers: ['earhive', 'jenny'] },
     { value: 'pix', label: 'PIX / Boleto (BR)', sellers: ['hicity'] },
     { value: 'payu', label: 'PayU (CZ, PL)', sellers: ['hicity'] },
     { value: 'bancontact', label: 'Bancontact / EPS', sellers: ['hicity'] },
@@ -1305,15 +1305,9 @@ const preferredSeller = computed(() => {
             return sellers.jenny;
         }
         if (sellerPriority === 'support') {
-            if (payment === 'alipay') {
-                return sellers.jenny;
-            }
             return sellers.hicity;
         }
         // sellerPriority === 'any' — fair rotation
-        if (payment === 'alipay') {
-            return sellers.earhive;
-        }
         if (payment === 'regional') {
             return sellers.hicity;
         }

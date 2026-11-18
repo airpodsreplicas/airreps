@@ -61,7 +61,7 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 | Mode de paiement | Earhive | HiCity | Jenny |
 |----------------|---------|--------|-------|
 | [**Carte de crédit / débit**](#credit-card) | ✅ | ✅ | ✅ |
-| **Alipay** | ✅ | ❌ | ✅ |
+| **Alipay** | ✅ | ✅ | ✅ |
 | **PayPal** | ⚠️ Parfois | ⚠️ Parfois | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
@@ -78,7 +78,9 @@ Tous les vendeurs de confiance acceptent plusieurs modes de paiement pour vous f
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Les moyens de paiement activés chez chaque vendeur ont été vérifiés pour la dernière fois le 29 octobre 2026. Les options proposées au moment du paiement par le vendeur font foi, et leur disponibilité peut varier selon le pays ou la commande.
+Les moyens de paiement activés chez chaque vendeur ont été vérifiés pour la dernière fois le 18 novembre 2026. Les options proposées au moment du paiement par le vendeur font foi, et leur disponibilité peut varier selon le pays ou la commande.
+
+Chez HiCity, les paiements Alipay vont directement au vendeur et sont confirmés manuellement : votre commande reste en attente jusqu’à ce que le vendeur vérifie le paiement. Chez Earhive et Jenny, les paiements Alipay sont confirmés automatiquement.
 
 Les moyens de paiement OnlyPay de HiCity dépendent du pays de facturation : Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE) ; Swish (SE) ; PayU (CZ, PL) ; Bancontact (BE) ; EPS (AT) ; PIX et Boleto (BR). Ces options par pays proviennent du système d’encaissement de HiCity et ont été vérifiées pour la dernière fois à partir de paiements effectués le 29 octobre 2026. OnlyPay confirme la disponibilité finale pour chaque commande. Les acheteurs du Royaume-Uni voient Trustly dans le système d’encaissement, mais les paiements britanniques n’aboutissent pas : choisissez donc un autre moyen de paiement. Aucune option OnlyPay n’est proposée aux États-Unis, au Canada, en Australie ni en France.
 
