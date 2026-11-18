@@ -10,6 +10,8 @@ Ja. AirPods-Nachbauten lassen sich wie alle Bluetooth-Ohrhörer mit Android kopp
 
 > **Kurzantwort:** Ja, AirPods-Nachbauten funktionieren unter Android uneingeschränkt als leistungsstarke Standard-Bluetooth-Ohrhörer. Die grundlegende Wiedergabe, Telefonate, Trageerkennung und aktive Geräuschunterdrückung (ANC) funktionieren direkt. Außerdem ist Android das einzige Betriebssystem, das Community-Begleit-Apps für Chipsätze (wie FlyCC und CloudCC) unterstützt, mit denen sich ein parametrischer Equalizer individuell einstellen und Firmware-Updates per OTA installieren lassen.
 
+<CommunityCta variant="ask" />
+
 ## Koppeln: kein Pop-up, dasselbe Ergebnis
 
 Das bekannte Kopplungs-Pop-up ist eine iPhone-Funktion — unter Android koppelst du die Ohrhörer wie jedes andere Headset über das Bluetooth-Menü. Das ist ein kosmetischer Unterschied, kein funktionaler: Nach dem Koppeln verhält sich alles andere wie bei normalen Ohrhörern. (Wenn du auch ein iPhone besitzt, kannst du es für die Einrichtung mit einem Fingertipp verwenden und die Ohrhörer anschließend mit deinem Android-Gerät verbinden.)
@@ -39,6 +41,8 @@ Die wichtigsten Apps — FlyCC, CloudCC, BullSuper, StarFun, KKX und weitere —
 
 1. Sie sind nicht im Play Store verfügbar. Aktiviere zuerst in den Sicherheitseinstellungen **„Installation aus unbekannten Quellen“**.
 2. Die App muss zu deinem Chip passen. Du weißt nicht, welchen Chip du hast? Die Apps selbst sind der Test — probiere sie nacheinander aus und prüfe, welche eine Verbindung herstellt, oder lies zuerst die Seite mit den [Versionsinformationen](/de/version-info/general).
+
+<CommunityCta variant="apps" />
 
 ## AirPods-Nachbauten als Android-Nutzer kaufen
 

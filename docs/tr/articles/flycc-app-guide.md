@@ -14,6 +14,8 @@ FlyCC, **Airoha yonga setleri** kullanan AirPods replikaları için temel yardı
 FlyCC, Android APK’sı ve iOS App Store’da mevcuttur; her ikisine de [Useful Apps](/tr/useful-apps#tigerbuilder) sayfasından ulaşabilirsiniz. Topluluk tarafından yayımlanan macOS sürümünü de kullanabilirsiniz. Kulaklıklara kaydedilen ayarlar, başka bir telefona geçseniz bile korunur.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Desteklenen yonga setleri
 
 FlyCC yalnızca **Airoha donanımıyla** çalışır. Kulaklıklarınız bağlanıyorsa içlerinde gerçek Airoha yongası bulunduğunu doğrulamış olursunuz:
@@ -71,6 +73,8 @@ FlyCC kulaklıklarınızı görmüyorsa:
 - **Yakındaki cihazlar izinlerini verin**: Android 12 ve sonraki sürümlerde, "Yakındaki cihazlar" izni etkin değilse FlyCC Bluetooth LE cihazlarını algılayamaz.
 - **Yonganızı belirleyin**: Kulaklıklarınız FlyCC’ye bağlanmıyorsa **CloudCC** veya **Starfun** ile tarama yapmayı deneyin. Hiçbir uygulama bağlanmazsa, uygun fiyatlı bir Jieli klonunuz olup olmadığını kontrol etmek için [Sahte AirPods nasıl anlaşılır](/tr/articles/how-to-spot-fake-airpods) yazısına bakın.
 - **Eşleştirme önbelleğini temizleyin**: Bağlantılar kopuyorsa [Sıfırlama kılavuzumuzu](/tr/articles/how-to-reset-fake-airpods) kullanarak denetleyici sıfırlaması yapın.
+
+<CommunityCta variant="stuck" />
 
 ## İlgili kılavuzlar
 

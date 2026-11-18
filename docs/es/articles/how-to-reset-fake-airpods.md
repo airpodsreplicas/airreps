@@ -12,6 +12,8 @@ Esta es la versión corta: un **restablecimiento parcial** elimina los problemas
 
 > **Respuesta rápida:** para restablecer parcialmente unos AirPods falsos, olvídalos en el menú de Bluetooth de tu teléfono, desactiva el Bluetooth, coloca los auriculares en el estuche de carga con la tapa abierta, mantén pulsado el botón trasero durante 5–10 segundos hasta que el LED parpadee y cierra la tapa durante 60 segundos. Para problemas graves de sincronización o errores de iCloud, mantén pulsado el botón trasero durante **15 segundos** hasta que el LED cambie de ámbar a blanco para realizar un restablecimiento completo del controlador de fábrica.
 
+<CommunityCta variant="stuck" />
+
 ## Restablecimiento parcial (empieza aquí)
 
 Un restablecimiento parcial soluciona los problemas cotidianos: un auricular que no se conecta, un emparejamiento que se interrumpe constantemente o unos AirPods que no aparecen cuando abres la tapa. Estás borrando el estado de emparejamiento Bluetooth, no eliminando los datos de los auriculares.
@@ -53,6 +55,8 @@ Un restablecimiento solo ayuda con problemas de emparejamiento y conexión. No s
 - **Una réplica de nivel Jieli que ninguna aplicación detecta.** Si ninguna de las [aplicaciones de firmware](/es/useful-apps) de la comunidad puede conectarse a tus auriculares, restablecerlos no cambiará nada; es una limitación de un chipset de gama baja, no un fallo.
 - **Un error con una solución específica conocida.** Los problemas de emparejamiento de iCloud en macOS y el control deslizante de volumen atascado tienen sus propios procedimientos. Restablecerlos antes de probar esas soluciones solo hace perder tiempo; la [guía de problemas comunes](/es/troubleshooting/other-common-bugs) enlaza a ambas.
 - **Un fallo de hardware.** Si un auricular está realmente muerto, ningún número de restablecimientos lo reanimará. En ese momento, tendrás que hablar con tu [vendedor](/es/links/info).
+
+<CommunityCta variant="unit" />
 
 ## Ajustes que quizá tengas que rehacer
 

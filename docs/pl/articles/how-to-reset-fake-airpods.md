@@ -12,6 +12,8 @@ W skrócie: **miękki reset** usuwa problemy z parowaniem, nie ingerując w zapi
 
 > **Szybka odpowiedź:** Aby wykonać miękki reset podróbek AirPods, wybierz opcję zapomnienia ich w menu Bluetooth telefonu, wyłącz Bluetooth, włóż słuchawki do etui ładującego przy otwartej pokrywie, przytrzymaj tylny przycisk przez 5–10 sekund, aż dioda zacznie migać, a następnie zamknij pokrywę na 60 sekund. W przypadku poważnych problemów z synchronizacją lub błędów iCloud przytrzymaj tylny przycisk przez **15 sekund**, aż dioda zacznie cyklicznie migać na bursztynowo, a następnie na biało, aby wykonać pełny reset kontrolera do ustawień fabrycznych.
 
+<CommunityCta variant="stuck" />
+
 ## Miękki reset (zacznij od niego)
 
 Miękki reset naprawia codzienne problemy: jedną słuchawkę, która się nie łączy, parowanie, które ciągle się rozłącza, albo AirPods, które nie pojawiają się po otwarciu pokrywy. Usuwasz stan parowania Bluetooth, a nie wszystkie dane ze słuchawek.
@@ -53,6 +55,8 @@ Reset pomaga tylko w przypadku problemów z parowaniem i połączeniem. Nie pomo
 - **Klony klasy Jieli, których nie wykrywa żadna aplikacja.** Jeśli żadna ze społecznościowych [aplikacji do oprogramowania układowego](/pl/useful-apps) nie może połączyć się ze słuchawkami, reset niczego nie zmieni — to ograniczenie taniego chipsetu, a nie usterka.
 - **Błąd ze znanym, konkretnym rozwiązaniem.** Problemy z parowaniem iCloud w macOS oraz zablokowany suwak głośności mają własne procedury. Resetowanie przed ich zastosowaniem to tylko strata czasu; [przewodnik po typowych problemach](/pl/troubleshooting/other-common-bugs) zawiera odnośniki do obu rozwiązań.
 - **Usterka sprzętowa.** Jeśli słuchawka rzeczywiście nie działa, żadna liczba resetów jej nie ożywi. W takim momencie pozostaje kontakt ze [sprzedawcą](/pl/links/info).
+
+<CommunityCta variant="unit" />
 
 ## Ustawienia, które może być konieczne skonfigurować ponownie
 

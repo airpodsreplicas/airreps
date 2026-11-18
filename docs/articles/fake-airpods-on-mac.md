@@ -17,6 +17,8 @@ Historically, early guides like CrypticStreet covered these Mac workarounds in 2
 If a MacBook or iMac is your primary computer, do not buy a generic marketplace clone. The community specifically recommends **Huilian chipsets** for macOS users due to their native volume table integration and iCloud handoff stability.
 :::
 
+<CommunityCta variant="ask" />
+
 ## How to pair fake AirPods to a Mac
 
 Pairing replica AirPods to macOS is straightforward:
@@ -37,6 +39,8 @@ macOS uses a hardware volume synchronization protocol (`Absolute Volume`) over B
 ### The solution
 1. **The Software Fix**: The community maintains an open-source volume slider fix that decouples software volume from hardware gain tables. Follow our step-by-step [macOS Volume Slider Fixup Guide](/troubleshooting/macOS-volume-slider-fixup) to run the terminal patch.
 2. **The Hardware Solution**: If you haven't purchased yet, choose the **AirPods Pro 2 V5.4 Huilian** or **AirPods 4 V2 Huilian**. Huilian models feature fully mapped volume steps that behave identically to authentic Apple AirPods on macOS without requiring third-party tools.
+
+<CommunityCta variant="stuck" />
 
 ## iCloud multi-device switching on Mac
 

@@ -20,12 +20,15 @@ hero:
     - theme: alt
       text: Voir les vendeurs fiables
       link: /fr/links/info
+    - theme: alt
+      text: Demander à la communauté
+      link: https://airreps.link/dghome
 features:
   - icon: "🤝"
     title: Équipe d’entraide
     details: Des membres dévoués sont prêts à répondre à presque toutes les questions que vous pourriez avoir.
-    link: 'https://airreps.link/discord'
-    linkText: Rejoindre Discord
+    link: /fr/community
+    linkText: Découvrir la communauté
   - icon: ⏰
     title: À jour
     details: 'Toutes les ressources, tous les guides et toutes les applications sont constamment mis à jour par notre équipe dédiée.'

@@ -27,6 +27,8 @@ The EQ can vary by seller. Use **FlyCC**, **BullSuper**, or **StarFun** to adjus
 
 If you're not satisfied with the sound of your AirPods replicas, join our [Discord server](https://airreps.link/discord). Many community members share their own EQ settings, which may help you achieve a sound you prefer. You’ll find most of these presets pinned in the **#help-and-advice** channel.
 
+<CommunityCta variant="eq" />
+
 ## Delay
 
 The delay is around 50-150 ms depending on the version, barely noticeable. For reference, the original AirPods have a delay of between 140-200 ms.

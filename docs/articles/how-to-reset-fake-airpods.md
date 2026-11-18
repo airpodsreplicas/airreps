@@ -13,6 +13,8 @@ Here's the short version: a **soft reset** clears pairing quirks without touchin
 
 > **Quick Answer:** To soft reset fake AirPods, forget them in your phone's Bluetooth menu, turn Bluetooth off, place the pods in the charging case with the lid open, hold the back button for 5–10 seconds until the LED flashes, and close the lid for 60 seconds. For severe sync issues or iCloud bugs, hold the back button for **15 seconds** until the LED cycles amber then white for a full factory controller reset.
 
+<CommunityCta variant="stuck" />
+
 ## Soft reset (start here)
 
 A soft reset fixes the everyday stuff: one bud not connecting, a pairing that keeps dropping, or AirPods that refuse to show up when you open the lid. You're clearing the Bluetooth pairing state, not wiping the buds.
@@ -54,6 +56,8 @@ A reset only helps with pairing and connection glitches. It won't help in these 
 - **A Jieli-tier clone that no app detects.** If none of the community [firmware apps](/useful-apps) will connect to your buds, resetting changes nothing — that's a low-end chipset limitation, not a glitch.
 - **A bug with a known specific fix.** macOS iCloud pairing issues and the stuck volume slider have their own procedures. Resetting before trying those just wastes time; the [common issues guide](/troubleshooting/other-common-bugs) links to both.
 - **A hardware fault.** If a pod is genuinely dead, no number of resets will revive it. At that point it's a conversation with your [seller](/links/info).
+
+<CommunityCta variant="unit" />
 
 ## Settings you may need to redo
 

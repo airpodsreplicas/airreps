@@ -10,6 +10,8 @@ Ja. AirPods-kopier parres med Android ligesom alle andre Bluetooth-øretelefoner
 
 > **Kort svar:** Ja, AirPods-kopier fungerer fuldt ud med Android som almindelige Bluetooth-øretelefoner med høj ydeevne. Grundlæggende afspilning, telefonopkald, registrering i øret og aktiv støjreduktion (ANC) fungerer direkte. Desuden er Android det eneste operativsystem, der understøtter community-apps til chipset (som FlyCC og CloudCC) til brugerdefineret parametrisk EQ og OTA-firmwareopdateringer.
 
+<CommunityCta variant="ask" />
+
 ## Parring: ingen pop op, samme resultat
 
 Den berømte parringspop op er en iPhone-funktion — på Android parrer du via Bluetooth-menuen ligesom med alle andre hovedtelefoner. Det er en kosmetisk forskel, ikke en forskel i funktionalitet: Når de er parret, fungerer alt andet som på almindelige øretelefoner. (Hvis du også ejer en iPhone, kan du bruge den til opsætning med ét tryk og derefter skifte øretelefonerne til din Android.)
@@ -39,6 +41,8 @@ De vigtigste — FlyCC, CloudCC, BullSuper, StarFun, KKX og flere — er samlet 
 
 1. De findes ikke i Play Butik. Aktivér først **"Installation fra ukendte kilder"** i sikkerhedsindstillingerne.
 2. Match appen med din chip. Er du usikker på, hvilken chip du har? Selve appsene kan bruges til at teste det — prøv dem én ad gangen, og se, hvilken der opretter forbindelse, eller læs først siden med [versionsoplysninger](/da/version-info/general).
+
+<CommunityCta variant="apps" />
 
 ## Køb af kopier som Android-bruger
 

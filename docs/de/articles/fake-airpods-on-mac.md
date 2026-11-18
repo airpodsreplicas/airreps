@@ -16,6 +16,8 @@ Frühe Anleitungen wie die von CrypticStreet behandelten diese Mac-Workarounds b
 Wenn ein MacBook oder iMac dein Hauptcomputer ist, solltest du keinen beliebigen Nachbau von einem Marktplatz kaufen. Die Community empfiehlt Mac-Nutzern ausdrücklich **Huilian-Chipsätze**, da sie eine native Integration der Lautstärketabelle und eine stabile Übergabe über iCloud bieten.
 :::
 
+<CommunityCta variant="ask" />
+
 ## So koppelst du gefälschte AirPods mit einem Mac
 
 Das Koppeln von AirPods-Nachbauten mit macOS ist unkompliziert:
@@ -36,6 +38,8 @@ macOS verwendet über Bluetooth AAC ein Protokoll zur Synchronisierung der Hardw
 ### Die Lösung
 1. **Die Softwarelösung**: Die Community pflegt eine quelloffene Lösung für den Lautstärkeregler, die die Softwarelautstärke von den Hardwareverstärkungstabellen entkoppelt. Folge unserer schrittweisen [Anleitung zur Reparatur des macOS-Lautstärkereglers](/de/troubleshooting/macOS-volume-slider-fixup), um den Terminal-Patch auszuführen.
 2. **Die Hardwarelösung**: Wenn du noch nicht gekauft hast, wähle die **AirPods Pro 2 V5.4 Huilian** oder **AirPods 4 V2 Huilian**. Huilian-Modelle verfügen über vollständig zugeordnete Lautstärkestufen, die sich unter macOS genauso verhalten wie echte Apple AirPods, ohne dass Tools von Drittanbietern erforderlich sind.
+
+<CommunityCta variant="stuck" />
 
 ## Geräteübergreifender Wechsel über iCloud am Mac
 

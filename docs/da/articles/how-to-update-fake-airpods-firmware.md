@@ -16,6 +16,8 @@ Firmwareopdateringer skriver dog direkte til øretelefonernes interne flashlager
 Firmwareopdateringer på kopier fungerer ikke som opdateringer til videospil. De udgives primært for at rette fejl, der opstår som følge af større iOS-opdateringer, eller for at løse alvorlige hardwarefejl. Hvis dine øretelefoner i øjeblikket opretter forbindelse uden problemer, lyder godt, og ANC fungerer fejlfrit, **skal du ikke opdatere firmwaren**. Unødvendig firmwareopdatering medfører kun risiko for at ødelægge enheden.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Tjekliste for sikkerhed før opdatering
 
 Kontrollér uden undtagelse, at følgende fire betingelser er opfyldt, før du trykker på opdateringsknappen:
@@ -73,6 +75,8 @@ Hvis en opdatering går i stå ved en bestemt procent (f.eks. fryser ved 45 % i 
 2. Kontrollér, om Bluetooth blev afbrudt. Hvis appen giver mulighed for det, skal du trykke på **Retry** eller genstarte appen, mens øretelefonerne bliver siddende.
 3. Hvis øretelefonerne bliver helt ufølsomme, skal du følge vores [vejledning til nulstilling af falske AirPods](/da/articles/how-to-reset-fake-airpods) for at udføre en hård nulstilling af controlleren på 15 sekunder.
 4. Åbn opdateringsappen igen — i de fleste tilfælde kan gendannelsesbootloaderen geninstallere pakken fra 0 %.
+
+<CommunityCta variant="stuck" />
 
 ## Relaterede fejlfindingsvejledninger
 

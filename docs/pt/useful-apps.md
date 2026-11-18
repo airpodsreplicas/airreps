@@ -8,6 +8,8 @@ Atualizar o firmware dos seus reps pode adicionar novos recursos, como áudio es
 
 Abaixo estão os aplicativos que você pode baixar para ajudar, além das versões e dos chipsets de reps compatíveis com eles. Se tiver problemas para instalar aplicativos que não são da Play Store, ative a opção “Instalar de fontes desconhecidas” nas configurações (na seção Segurança ou Acessibilidade). Esses aplicativos também podem ajudar a ajustar a [qualidade do som](/pt/introduction/sound-quality) por meio das configurações de EQ. Para saber mais sobre como usar esses aplicativos e evitar problemas, visite nosso [Discord](https://airreps.link/discord).
 
+<CommunityCta variant="apps" />
+
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Baixar APK do FlyCC (Android)" target="_blank" rel="noreferrer">Baixar APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Baixar FlyCC (iOS) na App Store" target="_blank" rel="noreferrer">App Store</a></span> |

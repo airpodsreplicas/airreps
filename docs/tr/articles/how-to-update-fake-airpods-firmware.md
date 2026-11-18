@@ -16,6 +16,8 @@ Ancak ürün yazılımını yüklemek, kulaklığın dahili flash depolama birim
 Kopya ürünlerdeki ürün yazılımı güncellemeleri video oyunu yamaları gibi çalışmaz. Bu güncellemeler öncelikle büyük iOS güncellemelerinin neden olduğu uyumluluk sorunlarını gidermek veya ciddi donanım hatalarını çözmek için yayımlanır. Kulaklıklarınız sorunsuz bağlanıyor, harika ses veriyor ve ANC kusursuz çalışıyorsa **ürün yazılımını güncellemeyin**. Gereksiz yükleme işlemleri yalnızca cihazı kullanılmaz hâle getirme riski doğurur.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Güncelleme öncesi güvenlik kontrol listesi
 
 Güncelleme düğmesine dokunmadan önce bu dört koşulun tamamını mutlaka doğrulayın:
@@ -73,6 +75,8 @@ Güncelleme belirli bir yüzde değerinde takılırsa (ör. 5 dakikadan uzun sü
 2. Bluetooth bağlantısının kesilip kesilmediğini kontrol edin. Uygulama izin veriyorsa kulaklıkları yerinde bırakıp **Retry** (Yeniden Dene) seçeneğine dokunun veya uygulamayı yeniden başlatın.
 3. Kulaklıklar tamamen yanıt vermez hâle gelirse 15 saniyelik kontrol birimi donanım sıfırlamasını uygulamak için [Sahte AirPods Nasıl Sıfırlanır Kılavuzumuzu](/tr/articles/how-to-reset-fake-airpods) izleyin.
 4. Güncelleme uygulamasını yeniden açın — çoğu durumda kurtarma önyükleyicisi paketi %0'dan yeniden yüklemenize olanak tanır.
+
+<CommunityCta variant="stuck" />
 
 ## İlgili sorun giderme kılavuzları
 

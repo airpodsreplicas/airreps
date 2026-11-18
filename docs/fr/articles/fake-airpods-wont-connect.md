@@ -14,6 +14,8 @@ Une réplique qui refuse de se jumeler, c’est agaçant, mais le problème vien
 Les répliques ont souvent besoin d’une ou deux réinitialisations dès leur sortie de la boîte. Ne pensez pas qu’on vous a envoyé une paire hors service avant d’avoir suivi les étapes ci-dessous.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## 1. Commencez par charger le boîtier
 
 Cela paraît évident, mais c’est la cause la plus fréquente d’une absence totale de connexion. Placez les écouteurs dans le boîtier, branchez-le et chargez-le : un boîtier déchargé ne peut pas se signaler pour le jumelage. Ouvrez ensuite le couvercle et réessayez.
@@ -68,6 +70,8 @@ Si les écouteurs se connectent à votre téléphone, mais fonctionnent mal sur 
 Si la charge, la réinitialisation logicielle, la réinitialisation matérielle et la solution iCloud ne fonctionnent pas, vous avez probablement reçu un appareil défectueux. Un clone d’entrée de gamme qu’aucune application de la communauté ne peut détecter est limité par sa puce : aucun réglage ne peut transformer une paire Jieli en paire Huilian.
 
 Les vendeurs de confiance remplacent les appareils défectueux ; c’est pourquoi la communauté les recommande. Contactez votre vendeur pour demander un remboursement ou un remplacement. Si vous n’avez pas encore choisi, achetez auprès d’un [vendeur vérifié](/fr/links/info) et suivez le [guide de commande](/fr/ordering/how-to-buy) pour faciliter les retours.
+
+<CommunityCta variant="unit" />
 
 Guides et solutions connexes :
 - Besoin d’une décharge complète ou de réinitialiser le boîtier avec son bouton ? Consultez [Comment réinitialiser de faux AirPods](/fr/articles/how-to-reset-fake-airpods).

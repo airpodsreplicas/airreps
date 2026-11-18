@@ -14,6 +14,8 @@ Ein Replikat, das sich nicht koppeln lässt, ist ärgerlich, aber meist steckt e
 Replikate müssen oft schon direkt nach dem Auspacken ein- oder zweimal zurückgesetzt werden. Geh nicht davon aus, dass du ein defektes Paar bekommen hast, bevor du die folgenden Schritte ausprobiert hast.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## 1. Lade zuerst das Case auf
 
 Klingt offensichtlich, ist aber die häufigste Ursache dafür, dass „überhaupt keine Verbindung hergestellt wird“. Lege die Ohrhörer in das Case, schließe es ans Ladegerät an und lade es auf – ein ungeladenes Case kann sich nicht für die Kopplung bemerkbar machen. Öffne dann den Deckel und versuche es erneut.
@@ -68,6 +70,8 @@ Wenn sich die Ohrhörer mit deinem Smartphone verbinden, sich am Mac aber merkw�
 Wenn das Aufladen, ein Soft-Reset, ein Hard-Reset und die iCloud-Lösung nicht helfen, hast du wahrscheinlich ein defektes Gerät erhalten. Dass ein billiger Klon von keiner Community-App erkannt wird, ist eine Einschränkung des Chips – keine Einstellung macht aus einem Jieli-Paar ein Huilian-Paar.
 
 Vertrauenswürdige Verkäufer tauschen defekte Geräte aus. Deshalb empfiehlt die Community, sich an sie zu wenden. Kontaktiere deinen Verkäufer und bitte um eine Rückerstattung oder einen Ersatz. Wenn du noch auf der Suche bist, kaufe bei einem [verifizierten Verkäufer](/de/links/info) und befolge den [Bestellleitfaden](/de/ordering/how-to-buy), damit Rückgaben unkompliziert sind.
+
+<CommunityCta variant="unit" />
 
 Verwandte Anleitungen und Lösungen:
 - Brauchst du den vollständigen Entladevorgang oder das Zurücksetzen über die Taste am Case? Siehe [So setzt du Fake AirPods zurück](/de/articles/how-to-reset-fake-airpods).

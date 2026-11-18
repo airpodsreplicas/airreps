@@ -33,3 +33,5 @@ Obecnie większość replik obsługuje jednoczesne połączenie z wieloma urząd
 ## Początkowa łączność z urządzeniami iOS
 
 W niektórych przypadkach repliki AirPods mogą początkowo nie łączyć się z urządzeniami iOS. Często istnieje jednak rozwiązanie tego problemu. Zobacz sekcję [Typowe problemy](/pl/troubleshooting/other-common-bugs), aby poznać procedury resetowania, lub [rozwiązanie problemu zgodności z iCloud](/pl/troubleshooting/AirReps-Incompatibility-with-iCloud), jeśli problem dotyczy parowania z macOS.
+
+<CommunityCta variant="stuck" />

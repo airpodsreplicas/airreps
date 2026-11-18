@@ -11,6 +11,8 @@ Yes. AirPods replicas pair with Android like any Bluetooth earbuds — connect, 
 
 > **Quick Answer:** Yes, replica AirPods work completely on Android as standard high-performance Bluetooth earbuds. Core playback, phone calls, in-ear detection, and Active Noise Cancelling (ANC) function natively. Furthermore, Android is the only operating system that supports community chipset companion apps (like FlyCC and CloudCC) for custom parametric EQ and OTA firmware updates.
 
+<CommunityCta variant="ask" />
+
 ## Pairing: no popup, same result
 
 The famous pairing popup is an iPhone feature — on Android you pair from the Bluetooth menu like any other headset. That's a cosmetic difference, not a capability one: after pairing, everything else behaves like normal earbuds. (If you also own an iPhone, you can use it for the one-tap setup and then switch the buds to your Android.)
@@ -40,6 +42,8 @@ The main ones — FlyCC, CloudCC, BullSuper, StarFun, KKX and more — are catal
 
 1. They're not on the Play Store. Enable **"Install from unknown sources"** in your security settings first.
 2. Match the app to your chip. Not sure which chip you have? The apps themselves are the test — try them one by one and see which connects, or read the [version info](/version-info/general) page first.
+
+<CommunityCta variant="apps" />
 
 ## Buying replicas as an Android user
 

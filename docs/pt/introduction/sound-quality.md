@@ -26,6 +26,8 @@ O EQ pode variar por vendedor. Use **FlyCC**, **BullSuper**, ou **StarFun** para
 
 Se você não estiver satisfeito com o som das suas réplicas de AirPods, junte-se ao nosso [Discord server](https://airreps.link/discord). Muitos membros da comunidade compartilham suas próprias configurações de EQ, que podem ajudá-lo a alcançar um som que prefira. Você encontrará a maioria desses presets fixados no canal **#help-and-advice**.
 
+<CommunityCta variant="eq" />
+
 ## Atraso
 
 O atraso fica entre cerca de 50–150 ms dependendo da versão, praticamente imperceptível. Para referência, os AirPods originais têm um atraso entre 140–200 ms.

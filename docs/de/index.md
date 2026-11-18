@@ -20,12 +20,15 @@ hero:
     - theme: alt
       text: Vertrauenswürdige Verkäufer ansehen
       link: /de/links/info
+    - theme: alt
+      text: Frag die Community
+      link: https://airreps.link/dghome
 features:
   - icon: "🤝"
     title: Helferteam
     details: 'Engagierte Helfer, die bereit sind, fast jede Frage zu beantworten, die du haben könntest.'
-    link: 'https://airreps.link/discord'
-    linkText: Discord beitreten
+    link: /de/community
+    linkText: Community kennenlernen
   - icon: ⏰
     title: Aktuell
     details: 'Alle Ressourcen, Anleitungen und Apps werden von unserem engagierten Team stets auf dem neuesten Stand gehalten.'

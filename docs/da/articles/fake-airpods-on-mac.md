@@ -16,6 +16,8 @@ Historisk set beskrev tidlige vejledninger som CrypticStreet disse løsninger ti
 Hvis en MacBook eller iMac er din primære computer, bør du ikke købe en generisk kopi fra en markedsplads. Fællesskabet anbefaler specifikt **Huilian-chipsets** til macOS-brugere på grund af deres indbyggede integration af lydstyrketabellen og stabile iCloud-overdragelse.
 :::
 
+<CommunityCta variant="ask" />
+
 ## Sådan parrer du falske AirPods med en Mac
 
 Det er enkelt at parre replika-AirPods med macOS:
@@ -36,6 +38,8 @@ macOS bruger en protokol til synkronisering af hardwarelydstyrke (`Absolute Volu
 ### Løsningen
 1. **Softwareløsningen**: Fællesskabet vedligeholder en open source-løsning til lydstyrkeskyderen, som adskiller softwarelydstyrken fra hardwarelydstyrketabellerne. Følg vores trin-for-trin-[vejledning til løsning af macOS-problemer med lydstyrkeskyderen](/da/troubleshooting/macOS-volume-slider-fixup) for at køre terminalrettelsen.
 2. **Hardwareløsningen**: Hvis du endnu ikke har købt, skal du vælge **AirPods Pro 2 V5.4 Huilian** eller **AirPods 4 V2 Huilian**. Huilian-modeller har fuldt kortlagte lydstyrketrin, der fungerer identisk med ægte Apple AirPods på macOS uden behov for tredjepartsværktøjer.
+
+<CommunityCta variant="stuck" />
 
 ## Skift mellem flere enheder via iCloud på Mac
 

@@ -33,3 +33,5 @@ Die Verbindung mit mehreren Geräten über **iCloud Connect** (nahtlose Synchron
 ## Erstmalige Verbindung mit iOS-Geräten
 
 In einigen Fällen verbinden sich AirPods-Klone zunächst möglicherweise nicht mit iOS-Geräten. Für dieses Problem gibt es jedoch häufig eine Lösung. Siehe [Häufige Probleme](/de/troubleshooting/other-common-bugs) für Anweisungen zum Zurücksetzen oder den [Fix für die iCloud-Kompatibilität](/de/troubleshooting/AirReps-Incompatibility-with-iCloud), wenn das Problem mit der Kopplung unter macOS zusammenhängt.
+
+<CommunityCta variant="stuck" />

@@ -20,12 +20,15 @@ hero:
     - theme: alt
       text: Zobacz zaufanych sprzedawców
       link: /pl/links/info
+    - theme: alt
+      text: Zapytaj społeczność
+      link: https://airreps.link/dghome
 features:
   - icon: "🤝"
     title: Zespół pomocników
     details: 'Zaangażowani pomocnicy gotowi odpowiedzieć na niemal każde pytanie, jakie możesz mieć.'
-    link: 'https://airreps.link/discord'
-    linkText: Dołącz do Discorda
+    link: /pl/community
+    linkText: Poznaj społeczność
   - icon: ⏰
     title: Aktualne
     details: 'Wszystkie zasoby, poradniki i aplikacje są zawsze aktualizowane przez nasz zaangażowany zespół.'

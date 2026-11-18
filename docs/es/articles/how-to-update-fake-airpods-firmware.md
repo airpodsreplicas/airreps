@@ -16,6 +16,8 @@ Sin embargo, instalar firmware escribe directamente en el almacenamiento flash i
 Las actualizaciones de firmware de las réplicas no funcionan como los parches de videojuegos. Se publican principalmente para solucionar cambios incompatibles causados por actualizaciones importantes de iOS o errores graves de hardware. Si tus auriculares se conectan sin problemas, suenan muy bien y la ANC funciona perfectamente, **no actualices el firmware**. Instalar actualizaciones innecesarias solo introduce el riesgo de dejar los auriculares inutilizables.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Lista de comprobación de seguridad previa a la actualización
 
 Antes de tocar el botón de actualización, verifica estas cuatro condiciones sin excepción:
@@ -73,6 +75,8 @@ Si una actualización se detiene en un porcentaje concreto (por ejemplo, se qued
 2. Comprueba si se ha desconectado Bluetooth. Si la aplicación lo permite, pulsa **Retry** o reinicia la aplicación sin mover los auriculares.
 3. Si los auriculares dejan de responder por completo, sigue nuestra [guía para restablecer unos AirPods falsos](/es/articles/how-to-reset-fake-airpods) para ejecutar un restablecimiento completo del controlador de 15 segundos.
 4. Vuelve a abrir la aplicación de actualización: en la mayoría de los casos, el cargador de arranque de recuperación permitirá volver a instalar el paquete desde el 0 %.
+
+<CommunityCta variant="stuck" />
 
 ## Guías de solución de problemas relacionadas
 

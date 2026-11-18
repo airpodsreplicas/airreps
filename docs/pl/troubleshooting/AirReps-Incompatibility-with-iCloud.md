@@ -32,3 +32,5 @@ Naciśnij i przytrzymaj przycisk parowania na tyle etui przez 15 sekund, aż dio
 Otwórz etui AirPods i upewnij się, że biała dioda miga.
 
 Na macOS przejdź do **Preferencje systemowe > Bluetooth** i wybierz Połącz obok swoich AirPods.
+
+<CommunityCta variant="stuck" />

@@ -8,6 +8,8 @@ Ein Firmware-Update für deine Reps kann oft neue Funktionen wie räumliches Aud
 
 Im Folgenden findest du Apps, die du herunterladen kannst, sowie Informationen dazu, welche Versionen und Chipsätze von Reps sie unterstützen. Wenn du Probleme bei der Installation von Apps verwendest, die nicht aus dem Play Store stammen, aktiviere in den Einstellungen den Eintrag „Installation aus unbekannten Quellen“ (im Bereich „Sicherheit“ oder „Bedienungshilfen“). Mit diesen Apps kannst du außerdem über EQ-Einstellungen die [Klangqualität](/de/introduction/sound-quality) anpassen. Weitere Informationen zur Verwendung dieser Apps und dazu, wie du Probleme vermeidest, findest du auf unserem [Discord](https://airreps.link/discord).
 
+<CommunityCta variant="apps" />
+
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="APK für FlyCC (Android) herunterladen" target="_blank" rel="noreferrer">APK herunterladen</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="FlyCC (iOS) im App Store laden" target="_blank" rel="noreferrer">App Store</a></span> |

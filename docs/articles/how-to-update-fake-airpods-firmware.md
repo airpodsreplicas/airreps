@@ -17,6 +17,8 @@ However, flashing firmware writes directly to the earbud's internal flash storag
 Firmware updates on replicas do not function like video game patches. They are released primarily to fix breaking changes caused by major iOS updates or to resolve severe hardware bugs. If your earbuds currently connect smoothly, sound great, and ANC operates without flaw, **do not update firmware**. Unnecessary flashing only introduces bricking risk.
 :::
 
+<CommunityCta variant="apps" />
+
 ## The pre-update safety checklist
 
 Before touching the update button, verify these four conditions without exception:
@@ -74,6 +76,8 @@ If an update hangs at a specific percentage (e.g. frozen at 45% for over 5 minut
 2. Check if Bluetooth disconnected. If the app allows, tap **Retry** or restart the app while leaving the earbuds in place.
 3. If the earbuds become completely unresponsive, follow our [How to Reset Fake AirPods Guide](/articles/how-to-reset-fake-airpods) to execute a 15-second controller hard reset.
 4. Reopen the update app — in most cases, the recovery bootloader will allow you to reflash the package from 0%.
+
+<CommunityCta variant="stuck" />
 
 ## Related troubleshooting guides
 

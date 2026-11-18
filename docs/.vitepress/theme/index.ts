@@ -5,6 +5,8 @@ import './styles/season.css';
 // @ts-ignore - Vue component import
 import Articles from '../components/Articles.vue';
 // @ts-ignore - Vue component import
+import CommunityCta from '../components/CommunityCta.vue';
+// @ts-ignore - Vue component import
 import Contributor from '../components/Contributors.vue';
 // @ts-ignore - Vue component import
 import Quiz from '../components/Quiz.vue';
@@ -19,6 +21,7 @@ export default {
         ctx.app.component('Contributor', Contributor);
         ctx.app.component('Quiz', Quiz);
         ctx.app.component('Articles', Articles);
+        ctx.app.component('CommunityCta', CommunityCta);
 
         if (typeof window !== 'undefined') {
             // In VitePress 2.0.0-alpha.19, before the initial route loads this is the shared default

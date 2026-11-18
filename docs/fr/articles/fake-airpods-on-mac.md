@@ -16,6 +16,8 @@ Historiquement, les premiers guides, comme ceux de CrypticStreet, abordaient ces
 Si un MacBook ou un iMac est votre ordinateur principal, n’achetez pas un clone générique vendu sur une marketplace. La communauté recommande spécifiquement les **chipsets Huilian** aux utilisateurs de macOS en raison de leur intégration native de la table de volume et de la stabilité du transfert via iCloud.
 :::
 
+<CommunityCta variant="ask" />
+
 ## Comment jumeler des faux AirPods à un Mac
 
 Le jumelage de répliques d’AirPods avec macOS est simple :
@@ -36,6 +38,8 @@ macOS utilise un protocole de synchronisation du volume matériel (`Absolute Vol
 ### La solution
 1. **La solution logicielle** : La communauté maintient un correctif open source du curseur de volume qui découple le volume logiciel des tables de gain matériel. Suivez notre [guide de correction du curseur de volume de macOS](/fr/troubleshooting/macOS-volume-slider-fixup) étape par étape pour exécuter le correctif dans le Terminal.
 2. **La solution matérielle** : Si vous n’avez pas encore acheté vos écouteurs, choisissez les **AirPods Pro 2 V5.4 Huilian** ou les **AirPods 4 V2 Huilian**. Les modèles Huilian disposent de niveaux de volume entièrement mappés qui se comportent exactement comme ceux des véritables AirPods Apple sur macOS, sans nécessiter d’outils tiers.
+
+<CommunityCta variant="stuck" />
 
 ## Passage entre plusieurs appareils via iCloud sur Mac
 

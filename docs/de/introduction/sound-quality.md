@@ -26,6 +26,8 @@ Der EQ kann je nach Verkäufer variieren. Verwende **FlyCC**, **BullSuper** oder
 
 If you're not satisfied with the sound of your AirPods replicas, join our [Discord server](https://airreps.link/discord). Many community members share their own EQ settings, which may help you achieve a sound you prefer. You’ll find most of these presets pinned in the **#help-and-advice** channel.
 
+<CommunityCta variant="eq" />
+
 ## Verzögerung
 
 Die Verzögerung liegt je nach Version bei etwa 50–150 ms und ist kaum bemerkbar. Zum Vergleich haben die originalen AirPods eine Verzögerung von etwa 140–200 ms.

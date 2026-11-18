@@ -33,3 +33,5 @@ Forbindelse til flere enheder via **iCloud Connect** (problemfri synkronisering 
 ## Første forbindelse til iOS-enheder
 
 I nogle tilfælde kan AirPods-replikaer muligvis ikke oprette forbindelse til iOS-enheder første gang. Der findes dog ofte en løsning på dette problem. Se [Almindelige problemer](/da/troubleshooting/other-common-bugs) for procedurer til nulstilling, eller [løsningen på iCloud-kompatibilitetsproblemer](/da/troubleshooting/AirReps-Incompatibility-with-iCloud), hvis problemet er relateret til parring med macOS.
+
+<CommunityCta variant="stuck" />

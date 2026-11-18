@@ -26,6 +26,8 @@ EQ może się różnić w zależności od sprzedawcy. Użyj **FlyCC**, **BullSup
 
 Jeśli nie jesteś zadowolony z dźwięku swoich replik AirPods, dołącz do naszego [serwer Discord](https://airreps.link/discord). Wielu członków społeczności dzieli się swoimi ustawieniami EQ, które mogą pomóc uzyskać preferowany dźwięk. Większość z tych presetów znajdziesz przypiętych na kanale **#help-and-advice**.
 
+<CommunityCta variant="eq" />
+
 ## Opóźnienie
 
 Opóźnienie wynosi około 50-150 ms w zależności od wersji, praktycznie niezauważalne. Dla porównania oryginalne AirPods mają opóźnienie w przedziale 140-200 ms.

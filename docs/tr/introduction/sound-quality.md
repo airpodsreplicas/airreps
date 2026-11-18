@@ -26,6 +26,8 @@ EQ satıcıya göre değişebilir. TigerBuilder, HR ve Huilian cihazları için 
 
 AirPods kopyalarınızın sesinden memnun değilseniz, [Discord sunucumuza](https://airreps.link/discord) katılın. Birçok topluluk üyesi kendi EQ ayarlarını paylaşır; bu ayarlar size daha uygun bir ses elde etmenizde yardımcı olabilir. Bu ön ayarların çoğunu **#help-and-advice** kanalında sabitlenmiş olarak bulacaksınız.
 
+<CommunityCta variant="eq" />
+
 ## Gecikme
 
 Gecikme sürüme göre yaklaşık 50-150 ms arasındadır, pek farkedilmiyor. Referans olarak, orijinal AirPods'un gecikmesi 140-200 ms arasındadır.

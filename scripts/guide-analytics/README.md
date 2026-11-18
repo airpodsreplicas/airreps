@@ -89,7 +89,9 @@ rewrites anything. Counted destinations:
   or `hc` (HiCity) plus a product code (`prov54hl`, `4v2tb`, `maxv3p`,
   `gen2v3e`, `pro3se`, …), and the Weidian landing aliases `earhivew`,
   `jennyw`, `hicityw`, and the Alibaba store aliases `ehali` and `jennyali`.
-- `airreps.link/kakobuy`, `/discord`, `/reddit`.
+- `airreps.link/kakobuy`, `/discord`, `/reddit`, and the per-placement Discord
+  invites `/dghelp`, `/dgcomm`, `/dghome`, `/dgnav` and `/dgquiz` (all counted
+  as `discord`).
 - Direct hosts: `hicitypods.com`, `jenny.airreps.info`, `earhive.com`,
   `replicute.com`, `kakobuy.com`, `kakoguide.com`, `discord.gg`,
   `discord.com/invite/…`, `reddit.com/r/airreps…`.

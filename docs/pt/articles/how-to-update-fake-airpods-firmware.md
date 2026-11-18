@@ -16,6 +16,8 @@ No entanto, a gravação do firmware escreve diretamente na memória flash inter
 As atualizações de firmware em réplicas não funcionam como atualizações de videogames. Elas são lançadas principalmente para corrigir mudanças incompatíveis provocadas por grandes atualizações do iOS ou resolver problemas graves de hardware. Se seus fones se conectam sem problemas, têm um ótimo som e o ANC funciona perfeitamente, **não atualize o firmware**. Gravar o firmware sem necessidade só traz o risco de inutilizar os fones.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Lista de verificação de segurança antes da atualização
 
 Antes de tocar no botão de atualização, confirme estas quatro condições, sem exceção:
@@ -73,6 +75,8 @@ Se uma atualização parar em uma porcentagem específica (por exemplo, ficar tr
 2. Verifique se o Bluetooth foi desconectado. Se o aplicativo permitir, toque em **Retry** ou reinicie o aplicativo sem mover os fones.
 3. Se os fones deixarem de responder completamente, siga nosso [guia para redefinir AirPods falsos](/pt/articles/how-to-reset-fake-airpods) para executar uma reinicialização forçada do controlador por 15 segundos.
 4. Abra novamente o aplicativo de atualização — na maioria dos casos, o bootloader de recuperação permitirá gravar o pacote novamente desde 0%.
+
+<CommunityCta variant="stuck" />
 
 ## Guias de solução de problemas relacionados
 

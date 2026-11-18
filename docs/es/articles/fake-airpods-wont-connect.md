@@ -14,6 +14,8 @@ Que una réplica no se empareje es molesto, pero suele deberse a una de unas poc
 A menudo, las réplicas necesitan uno o dos restablecimientos nada más sacarlas de la caja. No des por hecho que te han enviado unos auriculares averiados hasta que hayas seguido los pasos que se indican a continuación.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## 1. Carga primero el estuche
 
 Parece obvio, pero es la causa más común de que «no se conecten en absoluto». Coloca los auriculares en el estuche, enchúfalo y cárgalo: un estuche sin carga no se anunciará para el emparejamiento. Luego, abre la tapa y vuelve a intentarlo.
@@ -68,6 +70,8 @@ Si los auriculares se conectan al teléfono, pero no funcionan bien con un Mac:
 Si la carga, el restablecimiento parcial, el restablecimiento completo y la solución para iCloud no funcionan, probablemente te han enviado una unidad defectuosa. Que una aplicación de la comunidad no detecte un clon de gama baja es una limitación del chip: ningún ajuste puede convertir unos auriculares Jieli en unos Huilian.
 
 Los vendedores de confianza reemplazan las unidades defectuosas, por eso la comunidad los recomienda. Contacta con el vendedor para solicitar un reembolso o un reemplazo. Si aún estás eligiendo, compra a un [vendedor verificado](/es/links/info) y sigue la [guía de pedidos](/es/ordering/how-to-buy) para que las devoluciones sean sencillas.
+
+<CommunityCta variant="unit" />
 
 Guías y soluciones relacionadas:
 - ¿Necesitas descargar por completo los auriculares o restablecerlos con el botón del estuche? Consulta [Cómo restablecer los AirPods falsos](/es/articles/how-to-reset-fake-airpods).

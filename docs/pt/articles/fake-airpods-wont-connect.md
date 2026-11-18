@@ -14,6 +14,8 @@ order: 8
 Muitas vezes, as réplicas precisam ser reiniciadas uma ou duas vezes logo que saem da caixa. Não pense que recebeu um par sem funcionar antes de seguir as etapas abaixo.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## 1. Carregue o estojo primeiro
 
 Parece óbvio, mas essa é a causa mais comum de “não conecta de jeito nenhum”. Coloque os fones no estojo, conecte-o à tomada e carregue-o — um estojo sem carga não fica visível para o emparelhamento. Depois, abra a tampa e tente novamente.
@@ -68,6 +70,8 @@ Se os fones se conectarem ao celular, mas apresentarem problemas no Mac:
 Se o carregamento, a reinicialização simples, a reinicialização completa e a solução para o iCloud não funcionarem, provavelmente você recebeu uma unidade com defeito. Um clone de qualidade baixa que nenhum aplicativo da comunidade detecta tem uma limitação de chip — nenhum ajuste transforma um par Jieli em um Huilian.
 
 Vendedores confiáveis substituem unidades com defeito; por isso, a comunidade os recomenda. Entre em contato com o vendedor para pedir reembolso ou substituição. Se ainda estiver escolhendo, compre de um [vendedor verificado](/pt/links/info) e siga o [guia de pedidos](/pt/ordering/how-to-buy) para facilitar uma eventual devolução.
+
+<CommunityCta variant="unit" />
 
 Guias e soluções relacionados:
 - Precisa fazer uma descarga completa ou reiniciar pelo botão do estojo? Veja [Como reiniciar AirPods falsos](/pt/articles/how-to-reset-fake-airpods).

@@ -10,6 +10,8 @@ Oui. Les répliques d’AirPods s’associent à Android comme n’importe quels
 
 > **Réponse rapide :** Oui, les répliques d’AirPods fonctionnent parfaitement sous Android comme des écouteurs Bluetooth hautes performances standard. La lecture, les appels téléphoniques, la détection de port et la réduction active du bruit (ANC) fonctionnent nativement. De plus, Android est le seul système d’exploitation à prendre en charge des applications communautaires associées aux chipsets (comme FlyCC et CloudCC), qui permettent de personnaliser l’égaliseur paramétrique et de mettre à jour le micrologiciel par OTA.
 
+<CommunityCta variant="ask" />
+
 ## Appairage : pas de fenêtre contextuelle, même résultat
 
 La célèbre fenêtre contextuelle d’appairage est une fonctionnalité de l’iPhone : sous Android, vous effectuez l’appairage depuis le menu Bluetooth comme avec n’importe quel casque. C’est une différence esthétique, pas fonctionnelle : une fois l’appairage effectué, tout le reste se comporte comme avec des écouteurs classiques. (Si vous possédez aussi un iPhone, vous pouvez l’utiliser pour la configuration en un geste, puis connecter les écouteurs à votre Android.)
@@ -39,6 +41,8 @@ Les principales — FlyCC, CloudCC, BullSuper, StarFun, KKX et d’autres — so
 
 1. Elles ne sont pas disponibles sur le Play Store. Activez d’abord **« Installer des applications de sources inconnues »** dans vos paramètres de sécurité.
 2. Choisissez l’application correspondant à votre puce. Vous ne savez pas quelle puce vous avez ? Les applications elles-mêmes vous serviront de test : essayez-les une par une et voyez laquelle se connecte, ou consultez d’abord la page [informations sur les versions](/fr/version-info/general).
+
+<CommunityCta variant="apps" />
 
 ## Acheter des répliques avec un appareil Android
 

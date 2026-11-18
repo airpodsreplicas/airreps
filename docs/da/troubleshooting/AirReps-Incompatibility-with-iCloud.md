@@ -32,3 +32,5 @@ Hold parringsknappen bagpå nede i 15 sekunder, indtil lyset blinker orange (amb
 Åbn AirPods-etui og sørg for, at det hvide lys blinker.
 
 På macOS, gå til **Systemindstillinger > Bluetooth** og vælg Tilslut ved siden af dine AirPods.
+
+<CommunityCta variant="stuck" />

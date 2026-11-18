@@ -23,6 +23,8 @@ Siga estes passos para realizar uma reinicialização forçada nas suas réplica
 - Depois que estiver descarregado, coloque os fones de volta no estojo e carregue o estojo.
 - Agora, faça uma **REINICIALIZAÇÃO SUAVE**. Pode ser necessário realizar 3-4 **REINICIALIZAÇÕES SUAVES** para funcionar.
 
+<CommunityCta variant="stuck" />
+
 ## **Abrindo réplicas de AirPods**
 Você pode receber clones de AirPods mal rotulados ao pedir em sites como AliExpress de vendedores não verificados. Você pode usar o aplicativo do chipset para verificar se recebeu o chipset correto. No entanto, simplesmente mostrar o app frequentemente não é prova suficiente. Pode ser necessário abrir os AirPods e tirar uma foto do chipset como prova. Aqui está como você pode fazer isso, sem danificar os AirPods:
 
@@ -56,3 +58,5 @@ Para solucionar problemas de conexão com AirPods, tente os seguintes passos:
 
 ## **Nada disso resolveu?**
 É possível que seus AirPods tenham chegado com defeito ou agora estejam danificados além do reparo. Você pode tentar realizar reinicializações suaves e forçadas, como deixar o dispositivo sem carga por um período de tempo ou tocar música em vez de esquecer o dispositivo, na tentativa de resolver o problema. Se nenhum desses métodos funcionar, sua melhor opção é contatar o [vendedor](/pt/introduction/sellers) e solicitar um reembolso ou substituição. Verifique também nossa [correção de compatibilidade com iCloud](/pt/troubleshooting/AirReps-Incompatibility-with-iCloud) e [correção do volume do macOS](/pt/troubleshooting/macOS-volume-slider-fixup) se elas se aplicarem ao seu caso.
+
+<CommunityCta variant="unit" />

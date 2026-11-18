@@ -14,6 +14,8 @@ FlyCC es la aplicación complementaria esencial para las réplicas de AirPods qu
 FlyCC está disponible como APK para Android y en la App Store de iOS; puedes encontrar enlaces a ambas versiones en [Aplicaciones útiles](/es/useful-apps#tigerbuilder). También puedes usar la versión comunitaria para macOS. Los ajustes guardados en los auriculares se mantienen incluso al cambiar de teléfono.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Chipsets compatibles
 
 FlyCC funciona exclusivamente con **hardware Airoha**. Si detecta tus auriculares al conectarse, habrás confirmado que llevan un chip Airoha auténtico:
@@ -71,6 +73,8 @@ Si FlyCC no detecta tus auriculares:
 - **Concede permisos para Dispositivos cercanos**: En Android 12 y versiones posteriores, FlyCC no puede detectar dispositivos Bluetooth LE si no está activado el permiso "Dispositivos cercanos".
 - **Identifica el chip**: Si FlyCC no logra conectarse a tus auriculares, prueba a buscarlos con **CloudCC** o **Starfun**. Si ninguna aplicación se conecta, consulta [Cómo identificar AirPods falsos](/es/articles/how-to-spot-fake-airpods) para comprobar si tienes una réplica básica con chip Jieli.
 - **Borra la caché de emparejamiento**: Si se interrumpen las conexiones, restablece el controlador siguiendo nuestra [guía de restablecimiento](/es/articles/how-to-reset-fake-airpods).
+
+<CommunityCta variant="stuck" />
 
 ## Guías relacionadas
 

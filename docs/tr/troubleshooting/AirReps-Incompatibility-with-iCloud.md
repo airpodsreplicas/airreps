@@ -32,3 +32,5 @@ Arka taraftaki eşleştirme düğmesine 15 saniye boyunca basılı tutun; ışı
 AirPods kutusunu açın ve beyaz ışığın yanıp yanmadığını doğrulayın.
 
 **macOS**'ta Sistem Tercihleri > Bluetooth'a gidin ve AirPods'unuzun yanında Bağlan'ı seçin.
+
+<CommunityCta variant="stuck" />

@@ -20,12 +20,15 @@ hero:
     - theme: alt
       text: Посмотреть проверенных продавцов
       link: /ru/links/info
+    - theme: alt
+      text: Спросить сообщество
+      link: https://airreps.link/dghome
 features:
   - icon: "🤝"
     title: Команда помощников
     details: 'Опытные помощники, готовые ответить практически на любой ваш вопрос.'
-    link: 'https://airreps.link/discord'
-    linkText: Присоединиться к Discord
+    link: /ru/community
+    linkText: О сообществе
   - icon: ⏰
     title: Актуальная информация
     details: 'Все ресурсы, руководства и приложения всегда поддерживаются в актуальном состоянии нашей преданной командой.'
