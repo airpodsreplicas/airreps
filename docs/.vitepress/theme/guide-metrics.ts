@@ -227,8 +227,15 @@ export function guideRoute(page: { relativePath?: string; isNotFound?: boolean }
 
 // --- Outbound targets ------------------------------------------------------
 
-// airreps.link aliases that stand for a whole destination.
+// airreps.link aliases that stand for a whole destination. The dg* links are
+// one Discord invite per guide placement (community.ts); they all count as
+// Discord here, and the invites themselves tell the placements apart.
 const SHORTLINK_ALIASES: Record<string, Target> = {
+    dgcomm: 'discord',
+    dghelp: 'discord',
+    dghome: 'discord',
+    dgnav: 'discord',
+    dgquiz: 'discord',
     discord: 'discord',
     earhivew: 'earhive',
     ehali: 'earhive',

@@ -62,7 +62,7 @@ USB-C charging, stem slide volume control, Active Noise Cancelling, Transparency
 
 ## V7 Overview {#v7-overview}
 
-V7 is the newest AirPods Pro 3 replica and comes in two builds: the **TigerBuilder** — the newest and best V7 — and the **Huilian**.
+V7 is the newest AirPods Pro 3 replica and comes in two builds: the **TigerBuilder** — the newest and best V7 — and the **Huilian**. For a side-by-side comparison, see [AirPods Pro 3 V7 Huilian vs V7 TB](/articles/airpods-pro-3-v7-huilian-vs-v7-tb).
 
 ### V7 TigerBuilder {#v7-tb}
 

@@ -158,6 +158,13 @@ jobs:
           bunx vitepress build docs
           python3 scripts/check-guide-links.py
 
+      # New English pages get their eight locale copies here, after merge. Their
+      # routes must join the measurement allowlist in the same commit, or the
+      # deploy's guide-analytics test fails on the translated pages.
+      - name: Refresh guide analytics routes
+        if: steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'
+        run: bun run analytics:routes
+
       - name: Push translations and open PR
         if: success() && steps.changed.outputs.count != '0' && steps.locale_changes.outputs.count != '0'
         env:
@@ -169,7 +176,7 @@ jobs:
 
           BRANCH="auto/translation-sync"
           git checkout -B "$BRANCH"
-          git add docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr
+          git add docs/es docs/pt docs/da docs/fr docs/pl docs/ru docs/de docs/tr scripts/guide-analytics/allowed-routes.json
           git commit -m "chore: sync translated docs"
           git push origin "$BRANCH" --force-with-lease
 
