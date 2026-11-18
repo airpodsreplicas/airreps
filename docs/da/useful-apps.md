@@ -8,6 +8,8 @@ Opdatering af firmwaren på dine replikaer kan ofte tilføje nye funktioner, så
 
 Nedenfor finder du apps, du kan downloade, samt oplysninger om, hvilke versioner og chipsets af replikaer de understøtter. Hvis du har problemer med at installere apps, der ikke findes i Play Butik, skal du sørge for at aktivere »Installer fra ukendte kilder« i dine indstillinger (under Sikkerhed eller Tilgængelighed). Disse apps kan også hjælpe med at justere [lydkvaliteten](/da/introduction/sound-quality) ved hjælp af EQ-indstillinger. Du kan få flere oplysninger om, hvordan du bruger disse apps og undgår problemer, på vores [Discord](https://airreps.link/discord).
 
+<CommunityCta variant="apps" />
+
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Download APK til FlyCC (Android)" target="_blank" rel="noreferrer">Download APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Download FlyCC (iOS) i App Store" target="_blank" rel="noreferrer">App Store</a></span> |

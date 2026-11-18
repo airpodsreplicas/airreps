@@ -12,6 +12,8 @@ Aqui está a versão resumida: uma **redefinição simples** elimina problemas d
 
 > **Resposta rápida:** para redefinir os AirPods falsos de forma simples, esqueça-os no menu Bluetooth do seu celular, desative o Bluetooth, coloque os fones no estojo de carregamento com a tampa aberta, mantenha o botão traseiro pressionado por 5–10 segundos até o LED piscar e feche a tampa por 60 segundos. Para problemas graves de sincronização ou bugs do iCloud, mantenha o botão traseiro pressionado por **15 segundos** até o LED alternar entre âmbar e branco, fazendo uma redefinição completa do controlador de fábrica.
 
+<CommunityCta variant="stuck" />
+
 ## Redefinição simples (comece por aqui)
 
 Uma redefinição simples resolve os problemas do dia a dia: um fone que não conecta, um emparelhamento que cai continuamente ou AirPods que não aparecem quando você abre a tampa. Você está limpando o estado do emparelhamento Bluetooth, não apagando os fones.
@@ -53,6 +55,8 @@ Uma redefinição só ajuda com falhas de emparelhamento e problemas de conexão
 - **Uma réplica de categoria Jieli que nenhum aplicativo detecta.** Se nenhum dos [aplicativos de firmware](/pt/useful-apps) da comunidade conseguir se conectar aos seus fones, redefinir não mudará nada — isso é uma limitação de chipset básico, não uma falha.
 - **Um bug com uma correção específica conhecida.** Problemas de emparelhamento do iCloud no macOS e o controle deslizante de volume travado têm seus próprios procedimentos. Redefinir antes de tentar essas soluções apenas desperdiça tempo; o [guia de problemas comuns](/pt/troubleshooting/other-common-bugs) inclui links para ambos.
 - **Uma falha de hardware.** Se um fone estiver realmente morto, nenhuma quantidade de redefinições vai reanimá-lo. Nesse ponto, é hora de conversar com seu [vendedor](/pt/links/info).
+
+<CommunityCta variant="unit" />
 
 ## Configurações que talvez você precise refazer
 

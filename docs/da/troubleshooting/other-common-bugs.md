@@ -23,6 +23,8 @@ Følg disse trin for at udføre en hård nulstilling af dine AirPods-replikaer:
 - Når det er afladet, sæt propperne tilbage i etuiet og oplad etuiet.
 - Udfør nu en **SOFT RESET**. Det kan tage 3-4 **SOFT RESETS** før det virker.
 
+<CommunityCta variant="stuck" />
+
 ## **Åbning af AirPods-replikaer**
 Når du bestiller på sider som AliExpress fra uverificerede sælgere, kan du modtage forkert markerede AirPods-kloner. Du kan bruge appen til chipsetet for at bekræfte, at du har modtaget det korrekte chipset. Dog er det ofte ikke tilstrækkeligt kun at vise appen som bevis. Du kan blive nødt til at åbne AirPods og tage et billede af chipsetet som bevis. Her er hvordan du kan gøre det uden at beskadige AirPods:
 
@@ -56,3 +58,5 @@ For at fejlfinde forbindelse med AirPods, prøv følgende trin:
 
 ## **Hjalp ingen af disse?**
 Det er muligt, at dine AirPods ankom defekte eller nu er beskadigede ud over reparation. Du kan prøve at udføre bløde og hårde nulstillinger, såsom at lade enheden være uden opladning i en periode eller afspille musik frem for at glemme den, i et forsøg på at rette problemet. Hvis ingen af disse metoder virker, er din bedste mulighed at kontakte [sælger](/da/introduction/sellers) og anmode om refusion eller ombytning. Tjek også vores [iCloud-kompatibilitetsrettelse](/da/troubleshooting/AirReps-Incompatibility-with-iCloud) og [macOS-volumenrettelse](/da/troubleshooting/macOS-volume-slider-fixup), hvis de gælder for din situation.
+
+<CommunityCta variant="unit" />

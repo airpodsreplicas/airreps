@@ -12,6 +12,8 @@ Hier die Kurzfassung: Ein **Soft-Reset** behebt Probleme mit der Kopplung, ohne 
 
 > **Kurze Antwort:** Um gefälschte AirPods per Soft-Reset zurückzusetzen, vergiss sie im Bluetooth-Menü deines Telefons, schalte Bluetooth aus, lege die Ohrhörer bei geöffnetem Deckel in das Ladecase, halte die Taste auf der Rückseite 5–10 Sekunden lang gedrückt, bis die LED blinkt, und schließe den Deckel für 60 Sekunden. Bei starken Synchronisierungsproblemen oder iCloud-Fehlern hältst du die Taste auf der Rückseite **15 Sekunden** lang gedrückt, bis die LED zunächst gelb und dann weiß blinkt, um einen vollständigen Zurücksetzen des Controller auf die Werkseinstellungen durchzuführen.
 
+<CommunityCta variant="stuck" />
+
 ## Soft-Reset (hier beginnen)
 
 Ein Soft-Reset behebt alltägliche Probleme: Ein Ohrhörer verbindet sich nicht, eine Kopplung bricht ständig ab oder die AirPods werden beim Öffnen des Deckels nicht angezeigt. Dabei löschst du den Bluetooth-Kopplungsstatus, setzt die Ohrhörer aber nicht vollständig zurück.
@@ -53,6 +55,8 @@ Ein Reset hilft nur bei Problemen mit der Kopplung und Verbindung. In diesen Fä
 - **Ein Jieli-Klon, den keine App erkennt.** Wenn keine der [Firmware-Apps](/de/useful-apps) der Community eine Verbindung zu deinen Ohrhörern herstellen kann, ändert ein Reset nichts — das ist eine Einschränkung des Low-End-Chipsatzes und kein Fehler.
 - **Ein Fehler mit einer bekannten, speziellen Lösung.** Probleme mit der iCloud-Kopplung unter macOS und der festhängende Lautstärkeregler haben eigene Verfahren. Wenn du vorher zurücksetzt, verschwendest du nur Zeit; der [Leitfaden zu häufigen Problemen](/de/troubleshooting/other-common-bugs) verweist auf beide.
 - **Ein Hardwaredefekt.** Wenn ein Ohrhörer tatsächlich defekt ist, wird ihn keine Anzahl von Resets wiederbeleben. Dann solltest du dich an deinen [Verkäufer](/de/links/info) wenden.
+
+<CommunityCta variant="unit" />
 
 ## Einstellungen, die du möglicherweise erneut vornehmen musst
 

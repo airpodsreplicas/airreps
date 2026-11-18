@@ -14,6 +14,8 @@ Podróbki, które nie chcą się sparować, potrafią irytować, ale zwykle przy
 Podróbki często wymagają jednego lub dwóch resetów zaraz po wyjęciu z pudełka. Nie zakładaj, że wysłano Ci niesprawną parę, dopóki nie wykonasz poniższych czynności.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## 1. Najpierw naładuj etui
 
 To brzmi oczywiście, ale jest to najczęstsza przyczyna problemu „w ogóle nie chce się połączyć”. Włóż słuchawki do etui, podłącz je do ładowania i naładuj — rozładowane etui nie będzie wykrywalne podczas parowania. Następnie otwórz pokrywę i spróbuj ponownie.
@@ -68,6 +70,8 @@ Jeśli słuchawki łączą się z telefonem, ale nie działają prawidłowo na M
 Jeśli ładowanie, miękki reset, twardy reset i rozwiązanie problemu z iCloud nie pomogą, prawdopodobnie otrzymano wadliwe urządzenie. Podróbka z najniższej półki, której nie wykrywa żadna aplikacja społeczności, ma ograniczenia wynikające z chipsetu — żadne ustawienie nie zmieni pary z układem Jieli w parę z układem Huilian.
 
 Zaufani sprzedawcy wymieniają wadliwe urządzenia — dlatego społeczność ich poleca. Skontaktuj się ze sprzedawcą w sprawie zwrotu pieniędzy lub wymiany. Jeśli dopiero wybierasz, kup od [zweryfikowanego sprzedawcy](/pl/links/info) i skorzystaj z [poradnika zamawiania](/pl/ordering/how-to-buy), aby ułatwić sobie ewentualny zwrot.
+
+<CommunityCta variant="unit" />
 
 Powiązane poradniki i rozwiązania:
 - Potrzebujesz całkowicie rozładować słuchawki albo zresetować je przyciskiem etui? Zobacz [Jak zresetować podróbki AirPods](/pl/articles/how-to-reset-fake-airpods).

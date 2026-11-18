@@ -14,6 +14,8 @@ Eşleşmeyen bir replika can sıkıcıdır, ancak genellikle bilinen birkaç ned
 Replikaları kutudan çıkarınca bir veya iki kez sıfırlamak gerekebilir. Aşağıdaki adımları uygulamadan önce size çalışmayan bir çift gönderildiğini varsaymayın.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## 1. Önce kutuyu şarj edin
 
 Kulağa bariz geliyor ama "hiç bağlanmıyor" sorununun en yaygın nedeni budur. Kulaklıkları kutuya koyup kutuyu prize takın ve şarj edin; şarjı olmayan bir kutu eşleşme için sinyal yayınlayamaz. Ardından kapağı açıp tekrar deneyin.
@@ -68,6 +70,8 @@ Kulaklıklar telefonunuza bağlanıyor ama Mac'te sorun çıkarıyorsa:
 Şarj etme, yazılımsal sıfırlama, donanımsal sıfırlama ve iCloud çözümü işe yaramazsa muhtemelen arızalı bir cihaz almışsınızdır. Topluluk uygulamalarının hiçbirinin algılayamadığı düşük kaliteli bir klonun sorunu yonga seti kısıtlamasıdır — hiçbir ayar Jieli yonga setli bir çifti Huilian'a dönüştüremez.
 
 Güvenilir satıcılar arızalı cihazları değiştirir; bu nedenle topluluk kullanıcıları onlara yönlendiriyor. Para iadesi veya değişim için satıcınızla iletişime geçin. Hâlâ seçim yapıyorsanız [onaylı bir satıcıdan](/tr/links/info) alışveriş yapın ve iade işlemlerinin kolay olması için [sipariş kılavuzunu](/tr/ordering/how-to-buy) izleyin.
+
+<CommunityCta variant="unit" />
 
 İlgili kılavuzlar ve çözümler:
 - Derin deşarj veya kutu düğmesiyle sıfırlama mı gerekiyor? [Sahte AirPods nasıl sıfırlanır](/tr/articles/how-to-reset-fake-airpods) sayfasına bakın.

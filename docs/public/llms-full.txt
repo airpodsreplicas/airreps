@@ -2,9 +2,9 @@
 
 > AirReps is the largest community for AirPods replicas — also called fake AirPods or AirPods clones. The AirReps Ultimate Guide covers which replica AirPods to buy, how to buy them, trusted sellers, version comparisons, features, sound quality, troubleshooting, and more. Available in 9 languages (English, Spanish, Portuguese, French, German, Turkish, Russian, Polish, Danish) at airpodsreplicas.com.
 
-AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs a Discord server and subreddit.
+AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs the AirReps Discord (73k+ members as of November 2026) and the r/AirReps subreddit (73k+ members); see https://airpodsreplicas.com/community.
 
-Last updated: 2026-07-07
+Last updated: 2026-11-18
 
 Website: https://airpodsreplicas.com
 Discord: https://airreps.link/discord
@@ -820,7 +820,22 @@ The AirReps guide publishes definitive, community-tested answers to high-intent 
 
 ---
 
-## Community Links
+## Community
+
+Member counts as of November 2026. Full page: https://airpodsreplicas.com/community
+
+- AirReps Discord (https://airreps.link/discord): 73k+ members, about 5.9k online when counted. Free to join.
+  - #help-and-advice: troubleshooting and buying questions. Post the model, seller and what was already tried. Most shared EQ presets are pinned here.
+  - #replica-discussion: versions, new releases and general replica talk.
+  - ⭐clone-reviews: forum of owner reviews, one thread per review.
+  - Language channels: Portuguese (Brazil), French, Polish, Spanish and Russian.
+  - #ai-assistant: AirReps Intelligence, an AI assistant that answers in seconds; each member has a daily question limit.
+  - /quiz command (a recommendation inside Discord) and giveaways.
+- r/AirReps (https://airreps.link/reddit): the community's subreddit, 73k+ members. Owner reviews with photos, comparisons and searchable older threads.
+- Where to ask: pairing, reset, firmware and app problems in Discord #help-and-advice; "which version should I buy?" in the quiz (https://airpodsreplicas.com/quiz) or Discord; reviews of a specific version on r/AirReps.
+- Safety: only buy through the seller links in this guide. AirReps staff never DM first; anyone who messages privately with a deal, a "seller link" or a payment request is not staff.
+
+## Links
 
 - Website: https://airpodsreplicas.com
 - Discord: https://airreps.link/discord

@@ -81,6 +81,8 @@ La app está diseñada para engancharse siempre al dispositivo seleccionado. Tie
 Puedes evitar esto aumentando el tamaño del buffer, o seleccionando `Always` en la opción `Proxy device is active` de la app.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## **Desinstalación**
 
 Si deseas eliminar la app, simplemente ejecuta este comando en el Terminal:

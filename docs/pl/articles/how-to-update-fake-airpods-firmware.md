@@ -16,6 +16,8 @@ Pamiętaj jednak, że wgrywanie oprogramowania zapisuje dane bezpośrednio w wew
 Aktualizacje oprogramowania sprzętowego w podróbkach nie działają tak jak poprawki do gier. Wydaje się je głównie po to, by naprawić poważne problemy spowodowane dużymi aktualizacjami iOS lub rozwiązać poważne błędy sprzętowe. Jeśli słuchawki łączą się bez problemów, świetnie brzmią, a ANC działa bez zarzutu, **nie aktualizuj oprogramowania sprzętowego**. Niepotrzebne wgrywanie oprogramowania tylko zwiększa ryzyko uszkodzenia słuchawek.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Lista kontrolna bezpieczeństwa przed aktualizacją
 
 Zanim naciśniesz przycisk aktualizacji, bezwzględnie sprawdź, czy spełnione są te cztery warunki:
@@ -73,6 +75,8 @@ Jeśli aktualizacja zatrzyma się na określonym procencie (np. utknie na poziom
 2. Sprawdź, czy połączenie Bluetooth zostało przerwane. Jeśli aplikacja na to pozwala, stuknij **Retry** lub uruchom aplikację ponownie, nie wyjmując słuchawek z etui.
 3. Jeśli słuchawki całkowicie przestaną reagować, skorzystaj z naszego [poradnika resetowania podróbek AirPods](/pl/articles/how-to-reset-fake-airpods), aby wykonać 15-sekundowy twardy reset kontrolera.
 4. Otwórz ponownie aplikację do aktualizacji — w większości przypadków tryb odzyskiwania programu rozruchowego pozwoli wgrać pakiet od początku.
+
+<CommunityCta variant="stuck" />
 
 ## Powiązane poradniki dotyczące rozwiązywania problemów
 

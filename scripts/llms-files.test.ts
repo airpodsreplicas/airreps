@@ -1,6 +1,11 @@
 import { describe, expect, test } from 'bun:test';
 import { readdirSync, readFileSync } from 'node:fs';
-import { LLMS_FILES, lastCommitDay, stampLastUpdated } from '../docs/.vitepress/llms-files';
+import {
+    LLMS_FILES,
+    lastCommitDay,
+    newestDay,
+    stampLastUpdated,
+} from '../docs/.vitepress/llms-files';
 
 describe('llms.txt freshness line', () => {
     const text = '# AirReps\n\nLast updated: 2026-07-07\n\nBody\n';
@@ -27,6 +32,22 @@ describe('llms.txt freshness line', () => {
                 /^Last updated: \d{4}-\d{2}-\d{2}$/m
             );
         }
+    });
+
+    test('stamps both files with the newer day of the pair', () => {
+        expect(newestDay(['2026-11-06', '2026-11-18'])).toBe('2026-11-18');
+        expect(newestDay(['2026-11-18', null])).toBe('2026-11-18');
+        expect(newestDay([null, null])).toBeNull();
+    });
+
+    test('both source files carry the same hand-written date', () => {
+        const dates = LLMS_FILES.map(
+            (name) =>
+                readFileSync(`docs/public/${name}`, 'utf8').match(
+                    /^Last updated: (\d{4}-\d{2}-\d{2})$/m
+                )?.[1]
+        );
+        expect(new Set(dates).size).toBe(1);
     });
 
     test('reads a UTC day from git history', () => {

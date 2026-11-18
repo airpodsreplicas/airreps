@@ -15,6 +15,8 @@ A replica that won't pair is annoying, but it's usually one of a few known thing
 Replicas often need a reset or two out of the box. Don't assume you've been sent a dead pair until you've worked through the steps below.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## 1. Charge the case first
 
 Sounds obvious, but it's the most common cause of "it won't connect at all." Put the earbuds in the case, plug it in, and charge it — a case with no charge won't advertise itself for pairing. Then open the lid and try again.
@@ -69,6 +71,8 @@ If the buds connect to your phone but misbehave on a Mac:
 If charging, a soft reset, a hard reset, and the iCloud fix all fail, you've probably received a faulty unit. A low-tier clone that no community app can see is a chip limitation — no setting turns a Jieli pair into a Huilian one.
 
 Trusted sellers replace faulty units, which is why the community points people to them. Contact your seller for a refund or replacement. If you're still choosing, buy from a [verified seller](/links/info) and follow the [ordering guide](/ordering/how-to-buy) so returns are easy.
+
+<CommunityCta variant="unit" />
 
 Related guides and fixes:
 - Need the deep drain or case button reset? See [How to Reset Fake AirPods](/articles/how-to-reset-fake-airpods).

@@ -16,6 +16,8 @@ Geçmişte CrypticStreet gibi erken dönem rehberler bu Mac çözümlerini 2020'
 MacBook veya iMac ana bilgisayarınızsa genel bir pazar yeri klonu satın almayın. Topluluk, yerel ses düzeyi tablosu entegrasyonu ve iCloud geçiş kararlılığı nedeniyle macOS kullanıcılarına özellikle **Huilian yonga setlerini** öneriyor.
 :::
 
+<CommunityCta variant="ask" />
+
 ## Sahte AirPods Mac ile nasıl eşleştirilir
 
 Replika AirPods'u macOS ile eşleştirmek oldukça kolaydır:
@@ -36,6 +38,8 @@ macOS, Bluetooth AAC üzerinden bir donanım ses düzeyi eşitleme protokolü (`
 ### Çözüm
 1. **Yazılım çözümü**: Topluluk, yazılım ses düzeyini donanım kazancı tablolarından ayıran açık kaynaklı bir ses düzeyi kaydırıcısı düzeltmesi sürdürüyor. Terminal yamasını çalıştırmak için adım adım [macOS ses düzeyi kaydırıcısı düzeltme rehberimizi](/tr/troubleshooting/macOS-volume-slider-fixup) izleyin.
 2. **Donanım çözümü**: Henüz satın almadıysanız **AirPods Pro 2 V5.4 Huilian** veya **AirPods 4 V2 Huilian** modellerini seçin. Huilian modelleri, macOS'ta üçüncü taraf araçlar gerektirmeden orijinal Apple AirPods ile aynı şekilde çalışan, tamamen eşlenmiş ses düzeyi adımlarına sahiptir.
+
+<CommunityCta variant="stuck" />
 
 ## Mac'te iCloud çoklu aygıt geçişi
 

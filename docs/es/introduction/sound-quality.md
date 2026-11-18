@@ -26,6 +26,8 @@ El ecualizador puede variar según el vendedor. Usa **FlyCC**, **BullSuper** o *
 
 Si no estás satisfecho con el sonido de tus réplicas de AirPods, únete a nuestro [servidor de Discord](https://airreps.link/discord). Muchos miembros de la comunidad comparten sus propios ajustes de ecualizador, que pueden ayudarte a lograr un sonido que prefieras. Encontrarás la mayoría de estos preajustes fijados en el canal **#help-and-advice**.
 
+<CommunityCta variant="eq" />
+
 ## Retraso
 
 El retraso está alrededor de 50-150 ms dependiendo de la versión, apenas perceptible. Para referencia, los AirPods originales tienen un retraso entre 140-200 ms.

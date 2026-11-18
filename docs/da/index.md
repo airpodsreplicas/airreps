@@ -20,12 +20,15 @@ hero:
     - theme: alt
       text: Se pålidelige sælgere
       link: /da/links/info
+    - theme: alt
+      text: Spørg fællesskabet
+      link: https://airreps.link/dghome
 features:
   - icon: "🤝"
     title: Hjælperteam
     details: 'Dedikerede hjælpere, der er klar til at besvare næsten alle spørgsmål, du måtte have.'
-    link: 'https://airreps.link/discord'
-    linkText: Deltag på Discord
+    link: /da/community
+    linkText: Mød fællesskabet
   - icon: ⏰
     title: Opdateret
     details: 'Alle ressourcer, guides og apps holdes altid opdateret af vores dedikerede team.'

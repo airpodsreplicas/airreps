@@ -32,3 +32,5 @@ Pressione e segure o botão de emparelhamento na parte de trás por 15 segundos 
 Abra o estojo dos AirPods e certifique-se de que a luz branca esteja piscando.
 
 No macOS, vá em **Preferências do Sistema > Bluetooth** e selecione Conectar ao lado dos seus AirPods.
+
+<CommunityCta variant="stuck" />

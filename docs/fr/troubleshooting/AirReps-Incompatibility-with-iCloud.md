@@ -32,3 +32,5 @@ Appuyez et maintenez le bouton d'appairage à l'arrière pendant 15 secondes jus
 Ouvrez le boîtier des AirPods et assurez-vous que le voyant blanc clignote.
 
 Sur macOS, allez dans Préférences Système > Bluetooth et sélectionnez Se connecter à côté de vos AirPods.
+
+<CommunityCta variant="stuck" />

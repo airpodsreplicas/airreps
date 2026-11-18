@@ -32,3 +32,5 @@ Drücken und halten Sie die Kopplungstaste auf der Rückseite 15 Sekunden lang, 
 Öffnen Sie das Ladecase der AirPods und stellen Sie sicher, dass die weiße LED blinkt.
 
 Öffnen Sie auf macOS Systemeinstellungen > Bluetooth und wählen Sie neben Ihren AirPods Verbinden.
+
+<CommunityCta variant="stuck" />

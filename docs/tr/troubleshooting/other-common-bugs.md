@@ -23,6 +23,8 @@ AirPods replikalarınızda sert sıfırlama yapmak için şu adımları izleyin:
 - Boşaldığında, kulaklıkları tekrar kasaya koyun ve kasayı şarj edin.
 - Şimdi bir **YUMUŞAK SIFIRLAMA** yapın. İşe yaraması için 3-4 **YUMUŞAK SIFIRLAMA** gerekebilir.
 
+<CommunityCta variant="stuck" />
+
 ## **AirPods Replikalarını Açma**
 AliExpress gibi sitelerde doğrulanmamış satıcılardan sipariş verirken yanlış işaretlenmiş AirPods klonları alabilirsiniz. Doğru chipseti aldığınızı doğrulamak için chipset uygulamasını kullanabilirsiniz. Ancak, sadece uygulamayı göstermek genellikle yeterli kanıt değildir. Kanıt olarak chipsetin fotoğrafını çekmek için AirPods'u açmanız gerekebilir. İşte bunu AirPods'a zarar vermeden nasıl yapabileceğiniz:
 
@@ -56,3 +58,5 @@ AirPods ile bağlantı sorunlarını gidermek için şu adımları deneyin:
 
 ## **Hiçbiri düzelmedi mi?**
 AirPods'unuz arızalı olarak gelmiş veya artık onarılamayacak şekilde hasar görmüş olabilir. Sorunu çözmek için cihazı şarzsız bırakmak ya da cihazı unutmak yerine müzik çalmak gibi yumuşak ve sert sıfırlamalar denemeyi deneyebilirsiniz. Bu yöntemlerin hiçbiri işe yaramazsa, en iyi seçeneğiniz [satıcı](/tr/introduction/sellers) ile iletişime geçip iade veya değişim talep etmektir. Durumunuz için geçerliyse ayrıca [iCloud uyumluluk düzeltmesi](/tr/troubleshooting/AirReps-Incompatibility-with-iCloud) ve [macOS ses düzeltmesi](/tr/troubleshooting/macOS-volume-slider-fixup) sayfalarımıza bakın.
+
+<CommunityCta variant="unit" />

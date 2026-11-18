@@ -8,6 +8,8 @@ description: 'Скачайте FlyCC, CloudCC, StarFun, BullSuper, HBluetooth и
 
 Ниже перечислены приложения, которые можно скачать, а также поддерживаемые ими версии и чипсеты реплик. Если у вас возникли проблемы с установкой приложений, которых нет в Play Store, включите в настройках параметр «Установка из неизвестных источников» (в разделе «Безопасность» или «Специальные возможности»). Эти приложения также могут помочь настроить [качество звука](/ru/introduction/sound-quality) с помощью параметров эквалайзера. Дополнительную информацию об использовании этих приложений и предотвращении проблем можно найти на нашем [Discord](https://airreps.link/discord).
 
+<CommunityCta variant="apps" />
+
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Download APK for FlyCC (Android)" target="_blank" rel="noreferrer">Скачать APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Download FlyCC (iOS) on the App Store" target="_blank" rel="noreferrer">App Store</a></span> |

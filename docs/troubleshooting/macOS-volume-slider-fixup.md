@@ -82,6 +82,8 @@ The app is only designed to always hook on the picked device. You have to manual
 You can get around this by increasing the buffer size, or picking `Always` in the `Proxy device is active` option of the app.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## **Uninstalling**
 
 If you wish to remove the app, you can simply run this command in the Terminal:

@@ -26,6 +26,8 @@ EQ kan variere fra sælger til sælger. Brug **FlyCC**, **BullSuper**, eller **S
 
 Hvis du ikke er tilfreds med lyden af dine AirPods-replikater, så join vores [Discord server](https://airreps.link/discord). Mange i fællesskabet deler deres egne EQ-indstillinger, som kan hjælpe dig med at opnå en lyd, du foretrækker. Du finder de fleste af disse presets fastgjort i **#help-and-advice**-kanalen.
 
+<CommunityCta variant="eq" />
+
 ## Forsinkelse
 
 Forsinkelsen er omkring 50-150 ms afhængigt af versionen, næsten ikke mærkbar. Til reference har de originale AirPods en forsinkelse på mellem 140-200 ms.

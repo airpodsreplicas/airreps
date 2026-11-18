@@ -452,3 +452,19 @@ iframe[src*="youtube"] {
 body {
   padding-bottom: var(--sale-banner-height, 0px);
 }
+
+/* The top-level Community link (config.ts) only fits once VitePress shows the
+   social icons too (1280 px; Polish labels are longer, 1440 px). Narrower
+   screens reach the page from the sidebar, the home page, the phone menu and
+   the help blocks, and phones get the Discord pill (CommunityNavPill.vue). */
+@media (max-width: 1279px) {
+  .VPNavBarMenu .VPNavBarMenuLink[href$="/community"] {
+    display: none;
+  }
+}
+
+@media (max-width: 1439px) {
+  html:lang(pl) .VPNavBarMenu .VPNavBarMenuLink[href$="/community"] {
+    display: none;
+  }
+}

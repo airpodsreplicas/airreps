@@ -83,6 +83,8 @@ Uygulama seçilen cihaza her zaman bağlı kalacak şekilde tasarlanmıştır. "
 Bunu aşmak için buffer boyutunu artırabilir veya uygulamanın `Proxy device is active` seçeneğinde `Always`i seçebilirsiniz.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## **Kaldırma**
 
 Uygulamayı kaldırmak isterseniz, Terminal'de şu komutu çalıştırın:

@@ -113,6 +113,7 @@ const i18n: Record<string, Record<string, string>> = {
         kakobuySignup: 'Sign up for KakoBuy — coupon package included',
         stillHaveQuestions: 'Still have questions?',
         joinDiscord: 'Join the Discord',
+        askOwners: 'Unsure between two picks? Ask 73k owners on Discord',
         back: 'Back',
         changeLastAnswer: 'Change last answer',
         startOver: 'Start over',
@@ -216,6 +217,7 @@ const i18n: Record<string, Record<string, string>> = {
         kakobuySignup: 'Reg\u00edstrate en KakoBuy — paquete de cupones incluido',
         stillHaveQuestions: '\u00bfA\u00fan tienes preguntas?',
         joinDiscord: '\u00danete al Discord',
+        askOwners: '\u00bfDudas entre dos opciones? Pregunta a 73 mil usuarios en Discord',
         startOver: 'Empezar de nuevo',
         step: 'Paso',
         of: 'de',
@@ -317,6 +319,7 @@ const i18n: Record<string, Record<string, string>> = {
         kakobuySignup: 'Cadastre-se no KakoBuy — pacote de cupons incluso',
         stillHaveQuestions: 'Ainda com d\u00favidas?',
         joinDiscord: 'Entrar no Discord',
+        askOwners: 'Em d\u00favida entre duas op\u00e7\u00f5es? Pergunte a 73 mil donos no Discord',
         startOver: 'Recome\u00e7ar',
         step: 'Passo',
         of: 'de',
@@ -418,6 +421,7 @@ const i18n: Record<string, Record<string, string>> = {
         kakobuySignup: 'Tilmeld dig KakoBuy — kuponpakke inkluderet',
         stillHaveQuestions: 'Stadig sp\u00f8rgsm\u00e5l?',
         joinDiscord: 'Tilmeld dig Discord',
+        askOwners: 'I tvivl mellem to valg? Sp\u00f8rg 73.000 ejere p\u00e5 Discord',
         startOver: 'Start forfra',
         step: 'Trin',
         of: 'af',
@@ -519,6 +523,8 @@ const i18n: Record<string, Record<string, string>> = {
         kakobuySignup: "S'inscrire sur KakoBuy — pack de coupons inclus",
         stillHaveQuestions: 'Encore des questions ?',
         joinDiscord: 'Rejoindre le Discord',
+        askOwners:
+            'Vous h\u00e9sitez entre deux mod\u00e8les\u00a0? Demandez \u00e0 73\u00a0000 propri\u00e9taires sur Discord',
         startOver: 'Recommencer',
         step: '\u00c9tape',
         of: 'sur',
@@ -620,6 +626,8 @@ const i18n: Record<string, Record<string, string>> = {
         kakobuySignup: 'Zarejestruj si\u0119 w KakoBuy — pakiet kupon\u00f3w w zestawie',
         stillHaveQuestions: 'Masz pytania?',
         joinDiscord: 'Do\u0142\u0105cz do Discorda',
+        askOwners:
+            'Wahasz si\u0119 mi\u0119dzy dwiema opcjami? Zapytaj 73 tys. w\u0142a\u015bcicieli na Discordzie',
         startOver: 'Zacznij od nowa',
         step: 'Krok',
         of: 'z',
@@ -785,6 +793,8 @@ const i18n: Record<string, Record<string, string>> = {
             '\u041e\u0441\u0442\u0430\u043b\u0438\u0441\u044c \u0432\u043e\u043f\u0440\u043e\u0441\u044b?',
         joinDiscord:
             '\u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a Discord',
+        askOwners:
+            '\u0421\u043e\u043c\u043d\u0435\u0432\u0430\u0435\u0442\u0435\u0441\u044c \u043c\u0435\u0436\u0434\u0443 \u0434\u0432\u0443\u043c\u044f \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430\u043c\u0438? \u0421\u043f\u0440\u043e\u0441\u0438\u0442\u0435 73 \u0442\u044b\u0441. \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u0432 \u0432 Discord',
         startOver:
             '\u041d\u0430\u0447\u0430\u0442\u044c \u0441\u043d\u0430\u0447\u0430\u043b\u0430',
         step: '\u0428\u0430\u0433',
@@ -887,6 +897,7 @@ const i18n: Record<string, Record<string, string>> = {
         kakobuySignup: 'Bei KakoBuy registrieren \u2014 Gutscheinpaket inklusive',
         stillHaveQuestions: 'Noch Fragen?',
         joinDiscord: 'Discord beitreten',
+        askOwners: 'Unsicher zwischen zwei Modellen? Frag 73.000 Besitzer auf Discord',
         startOver: 'Neu starten',
         step: 'Schritt',
         of: 'von',
@@ -988,6 +999,8 @@ const i18n: Record<string, Record<string, string>> = {
         kakobuySignup: "KakoBuy'a kaydol \u2014 kupon paketi dahil",
         stillHaveQuestions: 'Sorular\u0131n\u0131z var m\u0131?',
         joinDiscord: "Discord'a kat\u0131l",
+        askOwners:
+            "\u0130ki se\u00e7enek aras\u0131nda karars\u0131z m\u0131s\u0131n\u0131z? Discord'da 73 bin kullan\u0131c\u0131ya sorun",
         startOver: 'Ba\u015ftan ba\u015fla',
         step: 'Ad\u0131m',
         of: '/',
@@ -1899,6 +1912,12 @@ function restart() {
         </div>
       </div>
 
+      <p class="quiz-ask-owners">
+        <a href="https://airreps.link/dgquiz" target="_blank" rel="noopener noreferrer">
+          {{ t('askOwners') }} &rarr;
+        </a>
+      </p>
+
       <div class="quiz-result-links">
         <h4>{{ t('learnMore') }}</h4>
         <div class="quiz-link-list">
@@ -2132,6 +2151,23 @@ function restart() {
 
 .quiz-result-discord {
   margin-top: 0.5rem;
+}
+
+/* One line under the buy block for readers torn between two picks. */
+.quiz-ask-owners {
+  margin: -0.5rem 0 1.5rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.quiz-ask-owners a {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.quiz-ask-owners a:hover {
+  text-decoration: underline;
 }
 
 .quiz-result-links h4,

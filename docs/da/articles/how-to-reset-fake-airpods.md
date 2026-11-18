@@ -12,6 +12,8 @@ Her er den korte version: En **blød nulstilling** rydder op i problemer med par
 
 > **Kort svar:** For at blødt nulstille falske AirPods skal du glemme dem i telefonens Bluetooth-menu, slå Bluetooth fra, lægge budsene i opladningsetuiet med låget åbent, holde knappen på bagsiden nede i 5–10 sekunder, indtil LED'en blinker, og lukke låget i 60 sekunder. Ved alvorlige synkroniseringsproblemer eller iCloud-fejl skal du holde knappen på bagsiden nede i **15 sekunder**, indtil LED'en skifter fra ravgul til hvid, for at udføre en fuld nulstilling af controlleren til fabriksindstillingerne.
 
+<CommunityCta variant="stuck" />
+
 ## Blød nulstilling (start her)
 
 En blød nulstilling løser de almindelige problemer: den ene bud opretter ikke forbindelse, en parring der bliver ved med at falde ud, eller AirPods der nægter at dukke op, når du åbner låget. Du rydder Bluetooth-parringstilstanden uden at slette budsene.
@@ -53,6 +55,8 @@ En nulstilling hjælper kun på problemer med parring og forbindelse. Den hjælp
 - **En Jieli-kopi, som ingen app registrerer.** Hvis ingen af fællesskabets [firmware-apps](/da/useful-apps) kan oprette forbindelse til dine buds, ændrer en nulstilling ikke noget — det er en begrænsning ved et chipset i den lave ende og ikke en fejl.
 - **En fejl med en kendt, specifik løsning.** Problemer med iCloud-parring i macOS og en fastlåst lydstyrkeskyder har deres egne procedurer. Hvis du nulstiller, før du prøver dem, spilder du bare tiden; [guiden til almindelige problemer](/da/troubleshooting/other-common-bugs) linker til begge.
 - **En hardwarefejl.** Hvis en bud reelt er død, kan ingen mængde nulstillinger genoplive den. På det tidspunkt er det en sag mellem dig og din [sælger](/da/links/info).
+
+<CommunityCta variant="unit" />
 
 ## Indstillinger, du måske skal konfigurere igen
 

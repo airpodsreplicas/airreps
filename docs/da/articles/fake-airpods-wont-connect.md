@@ -14,6 +14,8 @@ Det er irriterende, når en kopi ikke vil parres, men det skyldes som regel en a
 Kopier skal ofte nulstilles en eller to gange lige fra æsken. Gå ikke ud fra, at du har fået et par, der ikke virker, før du har gennemgået trinnene nedenfor.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## 1. Oplad etuiet først
 
 Det lyder indlysende, men det er den hyppigste årsag til, at de slet ikke vil oprette forbindelse. Læg øretelefonerne i etuiet, sæt det til strøm, og oplad det — et etui uden strøm udsender ikke et parringssignal. Åbn derefter låget, og prøv igen.
@@ -68,6 +70,8 @@ Hvis øretelefonerne opretter forbindelse til din telefon, men opfører sig mær
 Hvis opladning, en blød nulstilling, en hård nulstilling og løsningen på iCloud-problemet ikke hjælper, har du sandsynligvis fået en defekt enhed. Hvis ingen af fællesskabets apps kan finde en kopi af lav kvalitet, skyldes det en begrænsning ved chippen — ingen indstilling kan forvandle et par med Jieli-chip til et par med Huilian-chip.
 
 Pålidelige sælgere erstatter defekte enheder, og derfor anbefaler fællesskabet dem. Kontakt sælgeren for at få pengene tilbage eller få en erstatning. Hvis du stadig er ved at vælge, så køb fra en [verificeret sælger](/da/links/info), og følg [bestillingsvejledningen](/da/ordering/how-to-buy), så det er nemt at returnere varen.
+
+<CommunityCta variant="unit" />
 
 Relaterede vejledninger og løsninger:
 - Skal du bruge en dyb afladning eller nulstille med knappen på etuiet? Se [Sådan nulstiller du falske AirPods](/da/articles/how-to-reset-fake-airpods).

@@ -33,3 +33,5 @@ Press and hold the pairing button on the back for 15 seconds until the light fla
 Open the AirPods case and make sure the white light is flashing.
 
 On macOS, go to **System Preferences > Bluetooth** and select Connect next to your AirPods.
+
+<CommunityCta variant="stuck" />

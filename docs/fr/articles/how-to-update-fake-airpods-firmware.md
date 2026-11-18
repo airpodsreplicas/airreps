@@ -16,6 +16,8 @@ Toutefois, le flashage du micrologiciel écrit directement dans la mémoire flas
 Les mises à jour du micrologiciel des répliques ne fonctionnent pas comme les correctifs de jeux vidéo. Elles sont principalement publiées pour corriger les changements incompatibles provoqués par les grandes mises à jour d’iOS ou résoudre de graves bogues matériels. Si vos écouteurs se connectent actuellement sans problème, offrent un excellent son et que la réduction active du bruit fonctionne parfaitement, **ne mettez pas leur micrologiciel à jour**. Un flashage inutile ne fait qu’ajouter un risque de rendre l’appareil inutilisable.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Liste de contrôle de sécurité avant la mise à jour
 
 Avant d’appuyer sur le bouton de mise à jour, vérifiez impérativement ces quatre conditions :
@@ -73,6 +75,8 @@ Si une mise à jour se fige à un certain pourcentage (par exemple, à 45 % pend
 2. Vérifiez si le Bluetooth s’est déconnecté. Si l’application le permet, appuyez sur **Réessayer** ou redémarrez l’application sans déplacer les écouteurs.
 3. Si les écouteurs ne répondent plus du tout, suivez notre [guide de réinitialisation des faux AirPods](/fr/articles/how-to-reset-fake-airpods) pour effectuer une réinitialisation matérielle de 15 secondes du contrôleur.
 4. Rouvrez l’application de mise à jour — dans la plupart des cas, le chargeur d’amorçage de récupération vous permettra de reflasher le paquet à partir de 0 %.
+
+<CommunityCta variant="stuck" />
 
 ## Guides de dépannage associés
 

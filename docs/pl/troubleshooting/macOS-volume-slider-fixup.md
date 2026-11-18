@@ -83,6 +83,8 @@ Aplikacja jest zaprojektowana tak, aby zawsze podłączać się do wybranego urz
 Możesz obejść to, zwiększając rozmiar bufora lub wybierając `Always` w opcji `Proxy device is active` w aplikacji.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## **Odinstalowywanie**
 
 Jeśli chcesz usunąć aplikację, wystarczy uruchomić to polecenie w Terminalu:

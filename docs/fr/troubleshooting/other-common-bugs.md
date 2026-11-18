@@ -23,6 +23,8 @@ Suivez ces étapes pour effectuer une réinitialisation complète de vos répliq
 - Une fois qu'ils sont déchargés, remettez les écouteurs dans le boîtier et chargez le boîtier.
 - Effectuez ensuite une **RÉINITIALISATION DOUCE**. Cela peut nécessiter 3–4 **RÉINITIALISATIONS DOUCES** pour fonctionner.
 
+<CommunityCta variant="stuck" />
+
 ## **Ouverture des répliques d'AirPods**
 Vous pouvez recevoir des clones d'AirPods mal étiquetés lorsque vous commandez sur des sites comme AliExpress auprès de vendeurs non vérifiés. Vous pouvez utiliser l'application du chipset pour vérifier que vous avez reçu le bon chipset. Cependant, montrer simplement l'application n'est souvent pas une preuve suffisante. Il peut être nécessaire d'ouvrir les AirPods et de prendre une photo du chipset comme preuve. Voici comment procéder sans endommager les AirPods :
 
@@ -56,3 +58,5 @@ Pour dépanner les problèmes de connexion avec les AirPods, essayez les étapes
 
 ## **Rien de tout cela n'a fonctionné ?**
 Il est possible que vos AirPods soient arrivés défectueux ou qu'ils soient maintenant endommagés au-delà de toute réparation. Vous pouvez essayer d'effectuer des réinitialisations douces et complètes, comme laisser l'appareil sans charge pendant un certain temps ou lire de la musique plutôt que d'oublier l'appareil, afin de tenter de résoudre le problème. Si aucune de ces méthodes ne fonctionne, votre meilleure option est de contacter le [vendeur](/fr/introduction/sellers) et de demander un remboursement ou un remplacement. Vérifiez également notre [correctif de compatibilité iCloud](/fr/troubleshooting/AirReps-Incompatibility-with-iCloud) et notre [correctif du volume macOS](/fr/troubleshooting/macOS-volume-slider-fixup) si ceux-ci s'appliquent à votre situation.
+
+<CommunityCta variant="unit" />

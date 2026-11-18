@@ -10,6 +10,8 @@ Sim. As réplicas de AirPods emparelham com Android como quaisquer fones Bluetoo
 
 > **Resposta rápida:** Sim, as réplicas de AirPods funcionam perfeitamente no Android como fones Bluetooth de alto desempenho. Reprodução, chamadas telefônicas, detecção no ouvido e cancelamento ativo de ruído (ANC) funcionam nativamente. Além disso, o Android é o único sistema operacional compatível com apps complementares de chipsets desenvolvidos pela comunidade (como FlyCC e CloudCC), que permitem usar equalização paramétrica personalizada e atualizações OTA de firmware.
 
+<CommunityCta variant="ask" />
+
 ## Emparelhamento: sem janela pop-up, mesmo resultado
 
 A famosa janela pop-up de emparelhamento é um recurso do iPhone — no Android, você emparelha pelo menu Bluetooth, como faria com qualquer outro fone. É uma diferença estética, não de funcionalidade: depois do emparelhamento, todo o resto funciona como em fones comuns. (Se você também tiver um iPhone, pode usá-lo para a configuração com um toque e depois conectar os fones ao Android.)
@@ -39,6 +41,8 @@ Os principais — FlyCC, CloudCC, BullSuper, StarFun, KKX e outros — estão li
 
 1. Eles não estão na Play Store. Primeiro, ative **"Instalar de fontes desconhecidas"** nas configurações de segurança.
 2. Escolha o app compatível com seu chip. Não sabe qual chip tem? Os próprios apps servem para testar — experimente um por um e veja qual se conecta, ou consulte primeiro a página de [informações de versão](/pt/version-info/general).
+
+<CommunityCta variant="apps" />
 
 ## Comprar réplicas sendo usuário de Android
 

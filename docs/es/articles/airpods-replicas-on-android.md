@@ -10,6 +10,8 @@ Sí. Las réplicas de AirPods se emparejan con Android como cualquier otro auric
 
 > **Respuesta rápida:** Sí, las réplicas de AirPods funcionan perfectamente con Android como auriculares Bluetooth de alto rendimiento estándar. La reproducción, las llamadas, la detección en el oído y la cancelación activa de ruido (ANC) funcionan de forma nativa. Además, Android es el único sistema operativo que admite aplicaciones complementarias comunitarias para chipsets (como FlyCC y CloudCC) que permiten usar ecualización paramétrica personalizada y actualizar el firmware por OTA.
 
+<CommunityCta variant="ask" />
+
 ## Emparejamiento: sin ventana emergente, mismo resultado
 
 La famosa ventana emergente de emparejamiento es una función del iPhone; en Android, se emparejan desde el menú de Bluetooth, como cualquier otro auricular. Es una diferencia estética, no de funcionalidad: una vez emparejados, todo lo demás funciona como con unos auriculares normales. (Si también tienes un iPhone, puedes usarlo para configurarlos con un solo toque y después conectar los auriculares a tu Android).
@@ -39,6 +41,8 @@ Las principales —FlyCC, CloudCC, BullSuper, StarFun, KKX y otras— aparecen e
 
 1. No están en Play Store. Primero, activa **«Instalar desde fuentes desconocidas»** en los ajustes de seguridad.
 2. Elige una aplicación compatible con tu chip. ¿No sabes qué chip tienes? Las propias aplicaciones sirven para averiguarlo: prueba una por una y comprueba cuál se conecta, o consulta antes la página de [información sobre las versiones](/es/version-info/general).
+
+<CommunityCta variant="apps" />
 
 ## Comprar réplicas si usas Android
 

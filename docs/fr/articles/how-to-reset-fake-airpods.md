@@ -12,6 +12,8 @@ Voici la version courte : une **réinitialisation logicielle** efface les probl�
 
 > **Réponse rapide :** pour effectuer une réinitialisation logicielle de faux AirPods, oubliez-les dans le menu Bluetooth de votre téléphone, désactivez le Bluetooth, placez les écouteurs dans le boîtier de charge avec le couvercle ouvert, maintenez le bouton arrière enfoncé pendant 5 à 10 secondes jusqu'à ce que la LED clignote, puis fermez le couvercle pendant 60 secondes. En cas de graves problèmes de synchronisation ou de bugs iCloud, maintenez le bouton arrière enfoncé pendant **15 secondes** jusqu'à ce que la LED passe de l'orange au blanc pour effectuer une réinitialisation complète du contrôleur aux paramètres d'usine.
 
+<CommunityCta variant="stuck" />
+
 ## Réinitialisation logicielle (commencez par là)
 
 Une réinitialisation logicielle corrige les problèmes du quotidien : un écouteur qui ne se connecte pas, un appairage qui se coupe sans arrêt ou des AirPods qui refusent d'apparaître lorsque vous ouvrez le couvercle. Vous effacez l'état de l'appairage Bluetooth, mais vous n'effacez pas les données des écouteurs.
@@ -53,6 +55,8 @@ Une réinitialisation ne permet de résoudre que les problèmes d'appairage et d
 - **Un clone de niveau Jieli qu'aucune application ne détecte.** Si aucune des [applications de firmware](/fr/useful-apps) de la communauté ne se connecte à vos écouteurs, la réinitialisation ne changera rien — il s'agit d'une limitation d'un chipset bas de gamme, pas d'un bug.
 - **Un bug qui dispose d'une solution précise connue.** Les problèmes d'appairage iCloud sur macOS et le curseur de volume bloqué ont leurs propres procédures. Les réinitialiser avant d'essayer ces solutions ne fait que vous faire perdre du temps ; le [guide des problèmes courants](/fr/troubleshooting/other-common-bugs) renvoie vers les deux.
 - **Une panne matérielle.** Si un écouteur est réellement hors service, aucune réinitialisation ne le fera fonctionner à nouveau. À ce stade, vous devez contacter votre [vendeur](/fr/links/info).
+
+<CommunityCta variant="unit" />
 
 ## Réglages que vous devrez peut-être refaire
 

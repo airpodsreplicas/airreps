@@ -20,12 +20,15 @@ hero:
     - theme: alt
       text: Güvenilir Satıcıları Görüntüle
       link: /tr/links/info
+    - theme: alt
+      text: Topluluğa sor
+      link: https://airreps.link/dghome
 features:
   - icon: "🤝"
     title: Yardım ekibi
     details: 'Aklınıza gelebilecek hemen her soruyu yanıtlamaya hazır, özverili yardımcılar.'
-    link: 'https://airreps.link/discord'
-    linkText: Discord'a Katıl
+    link: /tr/community
+    linkText: Toplulukla tanışın
   - icon: ⏰
     title: Güncel
     details: 'Tüm kaynaklar, rehberler ve uygulamalar özverili ekip üyelerimiz tarafından her zaman güncel tutulur.'

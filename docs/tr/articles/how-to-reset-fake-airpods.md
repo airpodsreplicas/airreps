@@ -12,6 +12,8 @@ Kısaca: **yumuşak sıfırlama**, kulaklıklarınızda kayıtlı ayarlara dokun
 
 > **Kısa yanıt:** Sahte AirPods'ları yumuşak sıfırlamak için telefonunuzun Bluetooth menüsünden cihazı unutun, Bluetooth'u kapatın, kulaklıkları kapak açık şekilde şarj kutusuna yerleştirin, LED yanıp sönene kadar arka düğmeyi 5–10 saniye basılı tutun ve kapağı 60 saniye kapalı tutun. Ciddi senkronizasyon sorunları veya iCloud hataları için tam fabrika denetleyicisi sıfırlaması yapmak üzere LED turuncu, ardından beyaz renkte yanıp sönene kadar arka düğmeyi **15 saniye** basılı tutun.
 
+<CommunityCta variant="stuck" />
+
 ## Yumuşak sıfırlama (buradan başlayın)
 
 Yumuşak sıfırlama günlük sorunları çözer: kulaklıklardan birinin bağlanmaması, sürekli kopan bir eşleştirme veya kapağı açtığınızda görünmeyi reddeden AirPods'lar. Kulaklıkları silmiyor, Bluetooth eşleştirme durumunu temizliyorsunuz.
@@ -53,6 +55,8 @@ Sıfırlama yalnızca eşleştirme ve bağlantı sorunlarına yardımcı olur. �
 - **Hiçbir uygulamanın algılamadığı Jieli sınıfı bir klon.** Topluluktaki [ürün yazılımı uygulamalarından](/tr/useful-apps) hiçbiri kulaklıklarınıza bağlanamıyorsa sıfırlamak hiçbir şeyi değiştirmez — bu bir sorun değil, düşük seviye yonga setinin sınırlamasıdır.
 - **Bilinen, özel bir çözümü olan bir hata.** macOS iCloud eşleştirme sorunları ve takılı kalan ses düzeyi kaydırıcısının kendi yöntemleri vardır. Bunları denemeden önce sıfırlama yapmak yalnızca zaman kaybettirir; [yaygın sorunlar rehberi](/tr/troubleshooting/other-common-bugs) her ikisine de bağlantı verir.
 - **Bir donanım arızası.** Bir kulaklık gerçekten çalışmıyorsa hiçbir sayıda sıfırlama onu canlandıramaz. Bu noktada [satıcınızla](/tr/links/info) görüşmeniz gerekir.
+
+<CommunityCta variant="unit" />
 
 ## Yeniden yapmanız gerekebilecek ayarlar
 

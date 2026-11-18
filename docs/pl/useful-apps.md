@@ -8,6 +8,8 @@ Aktualizacja oprogramowania sprzętowego replik może często dodać nowe funkcj
 
 Poniżej znajdziesz aplikacje, które można pobrać, oraz informacje o obsługiwanych wersjach i chipsetach replik. Jeśli masz problemy z instalacją aplikacji spoza Sklepu Play, włącz w ustawieniach opcję „Instaluj z nieznanych źródeł” (w sekcji Bezpieczeństwo lub Ułatwienia dostępu). Te aplikacje mogą również pomóc w dostosowaniu [jakości dźwięku](/pl/introduction/sound-quality) za pomocą ustawień korektora. Więcej informacji o korzystaniu z tych aplikacji i unikaniu problemów znajdziesz na naszym [Discordzie](https://airreps.link/discord).
 
+<CommunityCta variant="apps" />
+
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Pobierz plik APK aplikacji FlyCC (Android)" target="_blank" rel="noreferrer">Pobierz plik APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Pobierz FlyCC (iOS) z App Store" target="_blank" rel="noreferrer">App Store</a></span> |

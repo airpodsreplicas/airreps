@@ -10,6 +10,8 @@ Tak. Repliki AirPods łączą się z Androidem jak wszystkie słuchawki Bluetoot
 
 > **Krótka odpowiedź:** Tak, repliki AirPods działają z Androidem jak standardowe, wysokowydajne słuchawki Bluetooth. Odtwarzanie, połączenia telefoniczne, wykrywanie słuchawek w uszach i aktywna redukcja szumów (ANC) działają natywnie. Co więcej, Android to jedyny system operacyjny obsługujący tworzone przez społeczność aplikacje towarzyszące dla chipsetów (takie jak FlyCC i CloudCC), które umożliwiają korzystanie z parametrycznego korektora EQ i aktualizacji oprogramowania sprzętowego OTA.
 
+<CommunityCta variant="ask" />
+
 ## Parowanie: bez wyskakującego okienka, ten sam efekt
 
 Słynne wyskakujące okienko parowania to funkcja iPhone’a — na Androidzie parujesz słuchawki w menu Bluetooth, tak jak każdy inny zestaw słuchawkowy. To różnica kosmetyczna, a nie funkcjonalna: po sparowaniu wszystko inne działa jak w zwykłych słuchawkach. (Jeśli masz też iPhone’a, możesz użyć go do konfiguracji jednym stuknięciem, a potem przełączyć słuchawki na Androida).
@@ -39,6 +41,8 @@ Główne aplikacje — FlyCC, CloudCC, BullSuper, StarFun, KKX i inne — wraz z
 
 1. Nie ma ich w Sklepie Play. Najpierw włącz w ustawieniach zabezpieczeń opcję **„Instalowanie z nieznanych źródeł”**.
 2. Dobierz aplikację do chipsetu. Nie wiesz, jaki masz chipset? Same aplikacje pomogą go rozpoznać — wypróbuj je po kolei i sprawdź, która się połączy, albo najpierw przeczytaj stronę [informacje o wersjach](/pl/version-info/general).
+
+<CommunityCta variant="apps" />
 
 ## Zakup replik jako użytkownik Androida
 

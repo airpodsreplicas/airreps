@@ -23,6 +23,8 @@ Befolgen Sie diese Schritte, um einen Hard Reset an Ihren AirPods-Replikaten dur
 - Sobald es entladen ist, setzen Sie die Pods wieder in das Case und laden Sie das Case auf.
 - Führen Sie nun einen **SOFT RESET** durch. Es kann 3–4 **SOFT RESETS** dauern, bis es funktioniert.
 
+<CommunityCta variant="stuck" />
+
 ## **Öffnen von AirPods-Replikaten**
 Beim Bestellen auf Seiten wie AliExpress von nicht verifizierten Verkäufern können falsch beworbene AirPods-Klone ankommen. Sie können die App für den Chipset verwenden, um zu prüfen, ob Sie den richtigen Chip erhalten haben. Allerdings reicht das Zeigen der App oft nicht als Beweis aus. Möglicherweise müssen Sie die AirPods öffnen und ein Foto des Chipsets als Nachweis machen. So können Sie das tun, ohne die AirPods zu beschädigen:
 
@@ -56,3 +58,5 @@ Um Verbindungsprobleme mit AirPods zu beheben, versuchen Sie folgende Schritte:
 
 ## **Keines davon hat geholfen?**
 Es ist möglich, dass Ihre AirPods defekt angekommen sind oder jetzt irreparabel beschädigt sind. Sie können versuchen, Soft- und Hard-Resets durchzuführen, z. B. das Gerät für eine Weile ungeladen zu lassen oder Musik abzuspielen statt es zu vergessen, um das Problem zu beheben. Wenn keine dieser Methoden funktioniert, ist Ihre beste Option, den [Verkäufer](/de/introduction/sellers) zu kontaktieren und eine Rückerstattung oder einen Ersatz anzufordern. Prüfen Sie auch unseren [iCloud-Kompatibilitätsfix](/de/troubleshooting/AirReps-Incompatibility-with-iCloud) und den [macOS-Lautstärke-Fix](/de/troubleshooting/macOS-volume-slider-fixup), falls diese auf Ihre Situation zutreffen.
+
+<CommunityCta variant="unit" />

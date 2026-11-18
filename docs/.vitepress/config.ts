@@ -8,6 +8,7 @@ import {
     type HeadConfig,
     type PageData,
 } from 'vitepress';
+import { COMMUNITY_LINKS, communityPath } from './community';
 import { stampLlmsFiles } from './llms-files';
 import { createPageDates } from './page-dates';
 import { productFamiliesPlugin } from './plugins/product-families';
@@ -274,6 +275,7 @@ function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
                     link: `${lang === 'en' ? '' : `/${lang}`}/useful-apps`,
                     text: t.sidebar.usefulApps,
                 },
+                { link: communityPath(lang), text: t.nav.community },
             ],
         },
         {
@@ -306,6 +308,7 @@ function getNav(lang: string): DefaultTheme.NavItem[] {
             ],
             text: t.nav.links,
         },
+        { link: communityPath(lang), text: t.nav.community },
     ];
 }
 
@@ -315,6 +318,7 @@ const translations: Record<
     {
         nav: {
             allSellers: string;
+            community: string;
             home: string;
             ultimateGuide: string;
             links: string;
@@ -360,6 +364,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'Alle sælgere',
+            community: 'Fællesskab',
             home: 'Hjem',
             links: 'Links',
             quiz: 'Quiz',
@@ -402,6 +407,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'Alle Verkäufer',
+            community: 'Community',
             home: 'Startseite',
             links: 'Links',
             quiz: 'Quiz',
@@ -444,6 +450,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'All sellers',
+            community: 'Community',
             home: 'Home',
             links: 'Links',
             quiz: 'Quiz',
@@ -486,6 +493,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'Todos los vendedores',
+            community: 'Comunidad',
             home: 'Inicio',
             links: 'Enlaces',
             quiz: 'Quiz',
@@ -528,6 +536,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'Tous les vendeurs',
+            community: 'Communauté',
             home: 'Accueil',
             links: 'Liens',
             quiz: 'Quiz',
@@ -570,6 +579,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'Wszyscy sprzedawcy',
+            community: 'Społeczność',
             home: 'Strona główna',
             links: 'Linki',
             quiz: 'Quiz',
@@ -612,6 +622,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'Todos os vendedores',
+            community: 'Comunidade',
             home: 'Início',
             links: 'Links',
             quiz: 'Quiz',
@@ -654,6 +665,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'Все продавцы',
+            community: 'Сообщество',
             home: 'Главная',
             links: 'Ссылки',
             quiz: 'Тест',
@@ -696,6 +708,7 @@ const translations: Record<
         },
         nav: {
             allSellers: 'Tüm satıcılar',
+            community: 'Topluluk',
             home: 'Ana Sayfa',
             links: 'Bağlantılar',
             quiz: 'Test',
@@ -1136,7 +1149,7 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
             {
                 ariaLabel: 'AirReps Discord server',
                 icon: 'discord',
-                link: 'https://airreps.link/discord',
+                link: COMMUNITY_LINKS.nav,
             },
             {
                 ariaLabel: 'Reddit',
@@ -1440,6 +1453,8 @@ function updatePageMetadata(pageData: PageData): void {
         sameAs: [
             'https://reddit.com/r/airreps',
             'https://airreps.link/discord',
+            // The server's own invite address, alongside the short link above.
+            'https://discord.gg/airreps',
             'https://github.com/AirPodsReplicas/AirReps',
         ],
         url: 'https://airpodsreplicas.com',

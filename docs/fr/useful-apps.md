@@ -8,6 +8,8 @@ La mise à jour du micrologiciel de vos répliques peut souvent ajouter de nouve
 
 Vous trouverez ci-dessous des applications que vous pouvez télécharger, ainsi que les versions et les chipsets de répliques qu’elles prennent en charge. Si vous rencontrez des problèmes lors de l’installation d’applications qui ne proviennent pas du Play Store, veillez à activer l’option « Installer des applications de sources inconnues » dans vos paramètres (dans la section Sécurité ou Accessibilité). Ces applications peuvent également vous aider à régler la [qualité sonore](/fr/introduction/sound-quality) à l’aide des paramètres d’égalisation. Pour en savoir plus sur leur utilisation et éviter les problèmes, rendez-vous sur notre [Discord](https://airreps.link/discord).
 
+<CommunityCta variant="apps" />
+
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Télécharger l’APK de FlyCC (Android)" target="_blank" rel="noreferrer">Télécharger l’APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Télécharger FlyCC (iOS) sur l’App Store" target="_blank" rel="noreferrer">App Store</a></span> |

@@ -33,3 +33,5 @@ La conectividad multidispositivo mediante **iCloud Connect** (sincronización fl
 ## Conectividad inicial con dispositivos iOS
 
 En algunos casos, las réplicas de AirPods pueden no conectarse inicialmente a los dispositivos iOS. Sin embargo, a menudo existe una solución para este problema. Consulta [Problemas comunes](/es/troubleshooting/other-common-bugs) para conocer los procedimientos de restablecimiento, o la [solución de compatibilidad con iCloud](/es/troubleshooting/AirReps-Incompatibility-with-iCloud) si el problema está relacionado con el emparejamiento con macOS.
+
+<CommunityCta variant="stuck" />

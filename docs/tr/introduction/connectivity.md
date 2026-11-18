@@ -33,3 +33,5 @@ Günümüzde çoğu replika aynı anda birden fazla cihaza bağlanmayı destekle
 ## iOS cihazlarıyla ilk bağlantı
 
 Bazı durumlarda AirPods replikaları ilk başta iOS cihazlarına bağlanmayabilir. Ancak bu sorun için çoğu zaman bir çözüm bulunur. Sıfırlama prosedürleri için [Yaygın Sorunlar](/tr/troubleshooting/other-common-bugs) bölümüne veya sorun macOS eşleştirmesiyle ilgiliyse [iCloud uyumluluk düzeltmesine](/tr/troubleshooting/AirReps-Incompatibility-with-iCloud) bakın.
+
+<CommunityCta variant="stuck" />

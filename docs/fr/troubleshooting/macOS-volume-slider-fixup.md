@@ -83,6 +83,8 @@ L'application est conçue pour se connecter en permanence au périphérique choi
 Vous pouvez contourner cela en augmentant la taille du buffer, ou en choisissant `Always` dans l'option `Proxy device is active` de l'application.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## **Désinstallation**
 
 Si vous souhaitez supprimer l'application, vous pouvez simplement exécuter cette commande dans le Terminal :

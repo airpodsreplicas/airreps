@@ -16,6 +16,8 @@ Historycznie wczesne poradniki, takie jak CrypticStreet, opisywały te rozwiąza
 Jeśli MacBook lub iMac jest Twoim głównym komputerem, nie kupuj podróbki z przypadkowej platformy sprzedażowej. Społeczność szczególnie poleca **chipsety Huilian** użytkownikom macOS ze względu na ich natywną integrację z tabelą głośności i stabilność przekazywania połączenia przez iCloud.
 :::
 
+<CommunityCta variant="ask" />
+
 ## Jak sparować podróbki AirPods z Makiem
 
 Parowanie podróbek AirPods z macOS jest proste:
@@ -36,6 +38,8 @@ macOS używa protokołu synchronizacji głośności sprzętowej (`Absolute Volum
 ### Rozwiązanie
 1. **Rozwiązanie programowe:** Społeczność utrzymuje poprawkę suwaka głośności o otwartym kodzie, która oddziela głośność programową od sprzętowych tabel wzmocnienia. Skorzystaj z naszego szczegółowego [przewodnika naprawy suwaka głośności w macOS](/pl/troubleshooting/macOS-volume-slider-fixup), aby uruchomić poprawkę w terminalu.
 2. **Rozwiązanie sprzętowe:** Jeśli jeszcze nie dokonano zakupu, wybierz **AirPods Pro 2 V5.4 Huilian** lub **AirPods 4 V2 Huilian**. Modele Huilian mają w pełni odwzorowane poziomy głośności, które działają na macOS identycznie jak oryginalne AirPods firmy Apple, bez konieczności korzystania z narzędzi innych firm.
+
+<CommunityCta variant="stuck" />
 
 ## Przełączanie między urządzeniami przez iCloud na Macu
 

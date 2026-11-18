@@ -16,6 +16,8 @@ Beim Flashen der Firmware werden jedoch Daten direkt in den internen Flash-Speic
 Firmware-Updates für Nachbauten funktionieren nicht wie Patches für Videospiele. Sie werden hauptsächlich veröffentlicht, um Fehler zu beheben, die durch größere iOS-Updates verursacht wurden, oder schwerwiegende Hardwarefehler zu korrigieren. Wenn sich Ihre Ohrhörer derzeit problemlos verbinden, gut klingen und die ANC einwandfrei funktioniert, **aktualisieren Sie die Firmware nicht**. Unnötiges Flashen birgt nur das Risiko, die Ohrhörer unbrauchbar zu machen.
 :::
 
+<CommunityCta variant="apps" />
+
 ## Sicherheitscheckliste vor dem Update
 
 Bevor Sie die Update-Schaltfläche betätigen, müssen Sie diese vier Bedingungen unbedingt überprüfen:
@@ -73,6 +75,8 @@ Wenn ein Update bei einem bestimmten Prozentsatz hängen bleibt (z. B. über 5 M
 2. Prüfen Sie, ob die Bluetooth-Verbindung getrennt wurde. Wenn die App dies zulässt, tippen Sie auf **Retry** oder starten Sie die App neu, ohne die Ohrhörer zu bewegen.
 3. Wenn die Ohrhörer überhaupt nicht mehr reagieren, befolgen Sie unsere Anleitung [So setzen Sie gefälschte AirPods zurück](/de/articles/how-to-reset-fake-airpods), um einen 15-sekündigen harten Controller-Reset durchzuführen.
 4. Öffnen Sie die Update-App erneut – in den meisten Fällen ermöglicht der Wiederherstellungs-Bootloader, das Paket erneut ab 0 % zu flashen.
+
+<CommunityCta variant="stuck" />
 
 ## Weitere Anleitungen zur Fehlerbehebung
 

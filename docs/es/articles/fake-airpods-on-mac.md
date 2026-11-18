@@ -16,6 +16,8 @@ Históricamente, las primeras guías, como las de CrypticStreet, cubrían estas 
 Si un MacBook o iMac es tu ordenador principal, no compres una copia genérica de un marketplace. La comunidad recomienda específicamente los **chipsets Huilian** para usuarios de macOS debido a su integración nativa con la tabla de volumen y a la estabilidad de la transferencia mediante iCloud.
 :::
 
+<CommunityCta variant="ask" />
+
 ## Cómo enlazar AirPods falsos con un Mac
 
 Enlazar réplicas de AirPods con macOS es sencillo:
@@ -36,6 +38,8 @@ macOS utiliza un protocolo de sincronización del volumen del hardware (`Absolut
 ### La solución
 1. **La solución de software**: La comunidad mantiene una solución de código abierto para el control de volumen que desacopla el volumen del software de las tablas de ganancia del hardware. Sigue nuestra [Guía paso a paso para solucionar el control de volumen de macOS](/es/troubleshooting/macOS-volume-slider-fixup) para ejecutar el parche en el terminal.
 2. **La solución de hardware**: Si aún no has comprado unos, elige los **AirPods Pro 2 V5.4 Huilian** o los **AirPods 4 V2 Huilian**. Los modelos Huilian cuentan con pasos de volumen completamente mapeados que se comportan igual que los AirPods auténticos de Apple en macOS, sin necesidad de herramientas de terceros.
+
+<CommunityCta variant="stuck" />
 
 ## Cambio entre varios dispositivos mediante iCloud en Mac
 

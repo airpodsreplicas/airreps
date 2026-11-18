@@ -9,6 +9,8 @@ Updating the firmware on your reps can often add new features, such as spatial a
 
 Below are apps that can be downloaded to aid you, alongside what versions and chipsets of reps they support. If you have problems in installing the non-Play Store apps, make sure to enable 'Install from unknown sources' in your settings (in the Security or Accessibility section). These apps can also help adjust [sound quality](/introduction/sound-quality) through EQ settings. For more information on how to use these apps and avoid problems, visit our [Discord](https://airreps.link/discord).
 
+<CommunityCta variant="apps" />
+
 ## **TigerBuilder**
 
 |[![FlyCC (Android)](/app_icon/flycc.png)](https://airreps.link/flycc) FlyCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/flycc" aria-label="Download APK for FlyCC (Android)" target="_blank" rel="noreferrer">Download APK</a></span>| [![FlyCC (iOS)](/app_icon/flycc.png)](https://airreps.link/iflycc) FlyCC (iOS)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/iflycc" aria-label="Download FlyCC (iOS) on the App Store" target="_blank" rel="noreferrer">App Store</a></span> |

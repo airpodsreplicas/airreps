@@ -23,6 +23,8 @@ Wykonaj następujące kroki, aby przeprowadzić twardy reset replik AirPods:
 - Gdy bateria zostanie rozładowana, włóż słuchawki z powrotem do etui i naładuj etui.
 - Teraz wykonaj **MIĘKKI RESET**. Może być potrzebne 3–4 **MIĘKKIE RESETY**, aby zadziałało.
 
+<CommunityCta variant="stuck" />
+
 ## **Otwieranie replik AirPods**
 Możesz otrzymać nieprawidłowo opisane klony AirPods zamawiając na stronach takich jak AliExpress od nieweryfikowanych sprzedawców. Możesz użyć aplikacji dla chipsetu, aby zweryfikować, że otrzymałeś właściwy chipset. Jednak samo pokazanie aplikacji często nie jest wystarczającym dowodem. Może być konieczne otwarcie AirPods i zrobienie zdjęcia chipsetu jako dowodu. Oto jak możesz to zrobić, nie uszkadzając słuchawek:
 
@@ -56,3 +58,5 @@ Aby rozwiązać problemy z łącznością AirPods, spróbuj następujących krok
 
 ## **Żadne z powyższych nie pomogło?**
 Możliwe, że Twoje AirPods dotarły wadliwe lub są teraz uszkodzone w stopniu nie nadającym się do naprawy. Możesz spróbować wykonać miękki i twardy reset, na przykład pozostawiając urządzenie bez ładowania przez pewien czas lub odtwarzając muzykę zamiast usuwać je z urządzeń, aby spróbować naprawić problem. Jeśli żadne z tych metod nie zadziała, najlepszym rozwiązaniem jest skontaktować się ze [sprzedawcą](/pl/introduction/sellers) i poprosić o zwrot pieniędzy lub wymianę. Sprawdź także naszą [poprawkę kompatybilności z iCloud](/pl/troubleshooting/AirReps-Incompatibility-with-iCloud) oraz [poprawkę głośności macOS](/pl/troubleshooting/macOS-volume-slider-fixup), jeśli mają zastosowanie do Twojej sytuacji.
+
+<CommunityCta variant="unit" />

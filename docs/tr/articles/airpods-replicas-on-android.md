@@ -10,6 +10,8 @@ Evet. AirPods kopyaları, diğer Bluetooth kulaklıklar gibi Android cihazlarla 
 
 > **Kısa yanıt:** Evet, AirPods kopyaları Android’de standart, yüksek performanslı Bluetooth kulaklıklar olarak tamamen çalışır. Temel ses oynatma, telefon görüşmeleri, kulağa takıldığını algılama ve Aktif Gürültü Engelleme (ANC) yerel olarak çalışır. Ayrıca Android, özel parametrik EQ ve OTA ürün yazılımı güncellemeleri için topluluk tarafından geliştirilen yonga seti yardımcı uygulamalarını (FlyCC ve CloudCC gibi) destekleyen tek işletim sistemidir.
 
+<CommunityCta variant="ask" />
+
 ## Eşleştirme: açılır pencere yok, sonuç aynı
 
 Meşhur eşleştirme açılır penceresi bir iPhone özelliğidir — Android’de diğer kulaklıklarda olduğu gibi Bluetooth menüsünden eşleştirme yaparsınız. Bu, işlevsel değil, görünüşle ilgili bir farktır: eşleştirme sonrasında diğer her şey normal kulaklıklar gibi çalışır. (Bir iPhone’unuz da varsa tek dokunuşla kurulum için onu kullanabilir, ardından kulaklıkları Android cihazınıza bağlayabilirsiniz.)
@@ -39,6 +41,8 @@ Başlıca uygulamalar — FlyCC, CloudCC, BullSuper, StarFun, KKX ve diğerleri 
 
 1. Bunlar Play Store’da bulunmaz. Önce güvenlik ayarlarınızdan **"Bilinmeyen kaynaklardan yükleme"** seçeneğini etkinleştirin.
 2. Uygulamayı yonganızla eşleştirin. Hangi yongaya sahip olduğunuzdan emin değil misiniz? Uygulamaların kendisi bunu anlamanızı sağlar — hangisinin bağlandığını görmek için uygulamaları sırayla deneyin ya da önce [sürüm bilgileri](/tr/version-info/general) sayfasını okuyun.
+
+<CommunityCta variant="apps" />
 
 ## Android kullanıcısı olarak kopya satın almak
 

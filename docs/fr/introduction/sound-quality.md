@@ -26,6 +26,8 @@ L'EQ peut varier selon le vendeur. Utilisez **FlyCC**, **BullSuper** ou **StarFu
 
 Si vous n'êtes pas satisfait du son de vos répliques d'AirPods, rejoignez notre [serveur Discord](https://airreps.link/discord). De nombreux membres de la communauté partagent leurs propres réglages d'EQ, ce qui peut vous aider à obtenir un son qui vous convient. Vous trouverez la plupart de ces préréglages épinglés dans le salon **#help-and-advice**.
 
+<CommunityCta variant="eq" />
+
 ## Délai
 
 Le délai est d'environ 50–150 ms selon la version, à peine perceptible. À titre de comparaison, les AirPods originaux ont un délai compris entre 140–200 ms.

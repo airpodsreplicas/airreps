@@ -23,13 +23,16 @@ hero:
     - theme: alt
       text: View Trusted Sellers
       link: /links/info
+    - theme: alt
+      text: Ask the community
+      link: https://airreps.link/dghome
 
 features:
   - icon: 🤝
     title: Team of helpers
     details: Dedicated helpers ready to answer almost any question you might have.
-    link: https://airreps.link/discord
-    linkText: Join Discord
+    link: /community
+    linkText: Meet the community
   - icon: ⏰
     title: Up to date
     details: All resources, guides, and apps are always kept up to date by our dedicated staff team.

@@ -35,14 +35,29 @@ export function stampLastUpdated(text: string, day: string | null): string {
     return text.replace(LAST_UPDATED_RE, `Last updated: ${day}`);
 }
 
-/** Stamp the copies VitePress placed in the build output. */
+/** The latest of the given days (YYYY-MM-DD sorts as text), or null if none. */
+export function newestDay(days: Array<string | null>): string | null {
+    return days.reduce<string | null>(
+        (newest, day) => (day && (!newest || day > newest) ? day : newest),
+        null
+    );
+}
+
+/**
+ * Stamp the copies VitePress placed in the build output. Both files describe
+ * the same site and llms.txt points to llms-full.txt, so both carry the newest
+ * commit day of the pair: llms.txt said 2026-11-06 while llms-full.txt said
+ * 2026-11-18.
+ */
 export function stampLlmsFiles(outDir: string, repoRoot: string): void {
+    const day = newestDay(
+        LLMS_FILES.map((name) => lastCommitDay(repoRoot, path.join('docs', 'public', name)))
+    );
     for (const name of LLMS_FILES) {
         const built = path.join(outDir, name);
         if (!fs.existsSync(built)) {
             continue;
         }
-        const day = lastCommitDay(repoRoot, path.join('docs', 'public', name));
         const text = fs.readFileSync(built, 'utf-8');
         const stamped = stampLastUpdated(text, day);
         if (stamped !== text) {

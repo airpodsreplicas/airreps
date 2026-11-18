@@ -83,6 +83,8 @@ Die App ist so ausgelegt, dass sie immer auf das gewählte Gerät zugreift. Du m
 Das Problem lässt sich umgehen, indem du die Puffergröße erhöhst oder in der Option `Proxy device is active` der App `Always` wählst.
 :::
 
+<CommunityCta variant="stuck" />
+
 ## **Deinstallation**
 
 Wenn du die App entfernen möchtest, führe einfach folgenden Befehl im Terminal aus:
