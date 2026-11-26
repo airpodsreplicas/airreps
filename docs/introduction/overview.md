@@ -20,7 +20,7 @@ If you are just looking for links to purchase AirPods replicas, go straight to t
 
 </div>
 
-Not sure which model fits your phone, Mac, or budget? Take the [1-minute quiz](/quiz) or compare every generation on the [version info](/version-info/general) page.
+Not sure which model fits your phone, Mac, or budget? Take the [1-minute quiz](/quiz) for a tailored pick, or compare every generation on the [version info](/version-info/general) page. Because copycat scam websites imitate Earhive, HiCity, and Jenny, always open the verified store URLs from the [Purchase Links directory](/links/info).
 
 ## What is AirReps?
 

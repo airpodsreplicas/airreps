@@ -15,6 +15,10 @@ There are many AirPods replica sellers available, but the best experience comes 
 
 While you may find sellers on Chinese e-commerce websites like AliExpress or DHgate, reviews on these platforms may not always be unbiased or legitimate. Purchasing from unverified sellers carries more risk, as product quality and customer service can vary significantly. If you do purchase from an unverified seller and encounter issues, please share your experience with our staff team.
 
+::: warning Watch out for copycat seller websites
+Fake lookalike domains regularly impersonate **Earhive**, **HiCity**, and **Jenny** in search results and ads. Never guess a seller's URL from memory or trust random links — always open the verified store links directly from the [AirReps Purchase Links directory](/links/info), or start with the [1-minute quiz](/quiz).
+:::
+
 ::: tip Verified seller list
 Find a [list of community-verified and reputable sellers here](/links/info). Some seller and shopping-agent links may earn AirReps a commission.
 :::

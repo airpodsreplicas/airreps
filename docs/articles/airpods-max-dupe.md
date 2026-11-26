@@ -9,7 +9,7 @@ order: 12
 
 An AirPods Max dupe is a replica of Apple's over-ear headphone: it copies the aluminium look, the mesh headband, the digital crown, and the iOS behavior. And yes — it triggers the same pairing popup and connects like a genuine pair on iPhone. What it can't do is match retail sound, ANC, and ecosystem polish. This article is the buying decision; for the current versions and specs, read the [AirPods Max version page](/version-info/airpods-max).
 
-> **Quick Answer:** The flagship AirPods Max replica (V3 Metal / Max V3 TB, $126–127) delivers genuine anodized aluminum ear cups, a working digital crown, head tracking, and the iOS pairing animation for less than a quarter of Apple's $549 retail price. What you surrender is Apple's class-leading computational ANC, seamless iCloud Connect handoff, and Find My network tracking.
+> **Quick Answer:** The best AirPods Max dupe in 2026 is the flagship **V3 Metal / Max V3 TB** ($126–127, Airoha 1562AE), which delivers genuine CNC anodized aluminum ear cups (~384g), a working digital crown, four-mic hybrid ANC, head tracking, and the iOS pairing animation for less than a quarter of Apple's $549 retail price (budget pick: **V3P** at $85–94 in plastic-steel). What you surrender is Apple's class-leading computational ANC, seamless iCloud Connect handoff, and Find My network tracking. To avoid fake copycat storefronts, grab verified links on the [AirPods Max links page](/links/airpods-max) or compare against in-ear models in the [1-minute quiz](/quiz).
 
 ::: tip Prices move around
 Replica prices fluctuate with batches and promotions. Treat every figure here as typical, not fixed, and check the [links page](/links/airpods-max) for what's in stock right now.

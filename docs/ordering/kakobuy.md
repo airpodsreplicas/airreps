@@ -40,7 +40,7 @@ If you already have an account with another agent and only want to order AirPods
 
 ### 1. Create an Account
 
-Sign up at [KakoBuy](https://airreps.link/kakobuy). You only need an email address to get started. New accounts receive a welcome pack of shipping coupons — [KakoGuide's discount code page](https://kakoguide.com/guides/kakobuy-discount-codes) keeps track of what's currently active and how to redeem it.
+Sign up at [KakoBuy](https://airreps.link/kakobuy) (or enter signup code **`airreps`** if registering directly at kakobuy.com). You only need an email address to get started. New accounts receive a welcome pack of shipping coupons — [KakoGuide's discount code page](https://kakoguide.com/guides/kakobuy-discount-codes) keeps track of how to redeem it.
 
 ![KakoBuy signup page](/images/kakobuy/signup.webp)
 
