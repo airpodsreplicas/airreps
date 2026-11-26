@@ -131,6 +131,12 @@ const shown = computed(() => {
   text-decoration: underline;
 }
 
+.articles-all:focus-visible,
+.article-card:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
 .articles-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -170,9 +176,14 @@ const shown = computed(() => {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--vp-c-brand-1);
-  background-color: rgba(236, 100, 93, 0.1);
-  border: 1px solid rgba(236, 100, 93, 0.3);
+  background-color: var(--vp-c-brand-soft);
+  border: 1px solid color-mix(in srgb, var(--vp-c-brand-1) 30%, transparent);
   border-radius: 999px;
+}
+
+.dark .article-chip {
+  background-color: rgba(236, 100, 93, 0.1);
+  border-color: rgba(236, 100, 93, 0.3);
 }
 
 .article-title {

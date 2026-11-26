@@ -11,12 +11,14 @@ Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC 
 <table>
   <tr>
     <th>Version</th>
+    <th>Prix</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
    <tr>
-    <td><span class="version-badge">V3 TB</span></td>
+    <td><span class="version-badge">V3 TB</span><br>Meilleur AirPods 4</td>
+    <td style="white-space: nowrap;">$52–53</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Site web</a>
@@ -40,6 +42,7 @@ Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC 
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>
+    <td style="white-space: nowrap;">$29–30</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Site web</a>
@@ -62,7 +65,8 @@ Les répliques d'AirPods 4 proposent une conception à oreilles ouvertes, l'ANC 
     </td>
   </tr>
     <tr>
-    <td><span class="version-badge">V2 Huilian</span></td>
+    <td><span class="version-badge">V2 Huilian</span><br>Choix iCloud</td>
+    <td style="white-space: nowrap;">$39–42</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Site web</a>

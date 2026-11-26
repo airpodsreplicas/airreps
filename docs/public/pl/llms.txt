@@ -8,6 +8,10 @@ Strona: https://airpodsreplicas.com/pl/
 Discord: https://airreps.link/discord
 Reddit: https://airreps.link/reddit (r/AirReps)
 
+Pełne źródło po angielsku dla LLM: https://airpodsreplicas.com/llms-full.txt
+
+Last updated: 2026-11-26
+
 ## Przewodnik
 
 - [Przegląd Kompletnego Przewodnika](https://airpodsreplicas.com/pl/introduction/overview): Zacznij tutaj. Dowiesz się, czym są repliki AirPods, dlaczego ludzie je kupują i czego się spodziewać.
@@ -24,7 +28,7 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 ## Porównania Wersji
 
 - [Ogólne Informacje o Wersjach](https://airpodsreplicas.com/pl/version-info/general): Przegląd wszystkich wersji i chipsetów oraz to, jak rozpoznać własną.
-- [AirPods Pro 3](https://airpodsreplicas.com/pl/version-info/pro#airpods-pro-3): Najnowszy model z Live Translation i iCloud Connect.
+- [AirPods Pro 3](https://airpodsreplicas.com/pl/version-info/pro#airpods-pro-3): V7 Huilian (główny wybór, iCloud Connect, Live Translation, tętno, gesty), V7 TB (Airoha 1571AM, najlepsze ANC, 3 urządzenia, FlyCC), SE (najlepszy stosunek ceny do jakości poniżej 50 USD, mocne ANC ~48 USD), V6 i V5.5.
 - [AirPods Pro 2](https://airpodsreplicas.com/pl/version-info/pro#airpods-pro-2): Porównanie wersji i chipsetów. Po rekomendację rozwiąż [quiz](https://airpodsreplicas.com/pl/quiz).
 - [AirPods Pro](https://airpodsreplicas.com/pl/version-info/pro#airpods-pro): Repliki Pro pierwszej generacji.
 - [AirPods 4](https://airpodsreplicas.com/pl/version-info/airpods#airpods-4): Otwarta konstrukcja (open-ear) z ANC.
@@ -39,6 +43,31 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 - [Linki Zakupowe](https://airpodsreplicas.com/pl/links/info): Bezpośrednie linki do zaufanych sprzedawców dla każdego modelu.
 - [Kontrola Jakości i Weryfikacja](https://airpodsreplicas.com/pl/ordering/qc-lc): Jak zweryfikować produkt po zakupie.
 
+## Artykuły
+
+- [Jak rozpoznać podróbki AirPods: 10 testów, które naprawdę działają](https://airpodsreplicas.com/pl/articles/how-to-spot-fake-airpods): Jak rozpoznać podróbki AirPods: numery seryjne, firmware, opakowanie i testy, które naprawdę wykrywają podróbki.
+- [Najlepsze podróbki AirPods poniżej 50 USD (2026)](https://airpodsreplicas.com/pl/articles/best-airpods-replicas-under-50): Najlepsze podróbki AirPods poniżej 50 USD: budżetowe AirPods 2 i 4, propozycje Pro 3 SE i V5.5, kompromisy oraz klony, których warto unikać.
+- [Podróbki AirPods a oryginalne AirPods: uczciwe porównanie](https://airpodsreplicas.com/pl/articles/airpods-replicas-vs-real): Podróbki a oryginalne AirPods — uczciwe porównanie: które funkcje działają w podróbkach, czego brakuje i które kupić.
+- [Czy repliki AirPods działają z Androidem?](https://airpodsreplicas.com/pl/articles/airpods-replicas-on-android): Tak — oto jak repliki AirPods działają na Androidzie: parowanie, dostępne funkcje, dlaczego większość aplikacji do aktualizacji oprogramowania układowego jest dostępna tylko na Androida oraz co sprawdzić przed zakupem.
+- [Czy repliki AirPods są bezpieczne? Szczera odpowiedź](https://airpodsreplicas.com/pl/articles/are-airpods-replicas-safe): Czy repliki AirPods są bezpieczne w zakupie i użytkowaniu? Oddzielamy ryzyko oszustwa od ryzyka związanego ze sprzętem i wyjaśniamy, co społeczność faktycznie sprawdza przed złożeniem zamówienia.
+- [Czy ludzie poznają, że Twoje AirPods są podróbką?](https://airpodsreplicas.com/pl/articles/can-people-tell-airpods-are-fake): Martwisz się, że ktoś zauważy, że Twoje AirPods to replika? Oto co tak naprawdę zdradza podróbki przy bliższym przyjrzeniu się, czego nikt nie zauważa na co dzień i jak wypadają najlepsze wersje.
+- [Odprawa celna i VAT replik AirPods: Czy Twoja paczka przejdzie?](https://airpodsreplicas.com/pl/articles/airpods-replica-customs-and-vat): Co właściwie dzieje się z replikami AirPods na odprawie celnej — realne ryzyko zajęcia, VAT w UE uregulowany z góry przez zaufanych sprzedawców oraz dlaczego nagle śledzenie przesyłki milknie.
+- [Podrabiane AirPods nie łączą się? Jak je sparować i naprawić](https://airpodsreplicas.com/pl/articles/fake-airpods-wont-connect): Podrabiane AirPods nie parują się lub nie pojawiają się na liście? Naładuj je, zapomnij urządzenie i sparuj ponownie, sprawdź wyskakujące okienko iOS, zidentyfikuj układ i dowiedz się, kiedy problem leży po stronie urządzenia i należy skontaktować się ze sprzedawcą.
+- [Jak zresetować podrabiane AirPods (repliki): miękki reset kontra twardy reset](https://airpodsreplicas.com/pl/articles/how-to-reset-fake-airpods): Bezpieczny przewodnik krok po kroku dotyczący resetowania podrabianych AirPods — miękki reset w przypadku problemów z parowaniem, głębszy twardy reset oraz sytuacje, w których reset w ogóle nie jest właściwym rozwiązaniem.
+- [Podróbki AirPods a niedrogie słuchawki douszne: uczciwe porównanie](https://airpodsreplicas.com/pl/articles/fake-airpods-vs-budget-earbuds): Repliki AirPods a niedrogie marki, takie jak Anker Soundcore, EarFun i JLab — co faktycznie oferuje każda ze stron, kiedy kosztują tyle samo i kto powinien wybrać które.
+- [Czy podróbki AirPods działają z nowymi iPhone’ami?](https://airpodsreplicas.com/pl/articles/do-fake-airpods-work-with-new-iphone): Czy repliki AirPods działają z nowym iPhone’em? Tak — wyskakujące okienko iOS nadal działa, a różnice zależą od wersji, którą kupisz, a nie od telefonu. Oto, na co zwrócić uwagę.
+- [Zamiennik AirPods Max: Co otrzymujesz, a z czego rezygnujesz](https://airpodsreplicas.com/pl/articles/airpods-max-dupe): Uczciwe spojrzenie na zamiennik AirPods Max — co kopiuje nauszna replika, czego nie potrafi, jaki jest jej typowy przedział cenowy i czy warto ją wybrać zamiast replik dousznych.
+- [Przewodnik po APK FlyCC: jak skonfigurować i dostroić podróbki AirPods z układem Airoha](https://airpodsreplicas.com/pl/articles/flycc-app-guide): Jak bezpiecznie pobrać, zainstalować i używać FlyCC — niestandardowe ustawienia korektora EQ, przypisywanie funkcji sterowaniu dotykowemu, aktualizacje oprogramowania układowego i rozwiązywanie problemów z połączeniem.
+- [Podróbki AirPods Pro 2 vs AirPods Pro 3: które wybrać?](https://airpodsreplicas.com/pl/articles/airpods-pro-2-vs-airpods-pro-3): Porównanie podróbek AirPods Pro 2 (V5.3 TB i V5.4 Huilian) z AirPods Pro 3 (V7 i SE) — dopracowane Pro 2 kontra najnowsze funkcje Pro 3, czujniki tętna i rekomendacje.
+- [AirPods Max V3 vs V3P: Czy metalowa konstrukcja jest warta 30 USD więcej?](https://airpodsreplicas.com/pl/articles/airpods-max-v3-vs-v3p): Porównanie replik AirPods Max V3 i V3P — aluminiowe nauszniki wykonane metodą CNC czy plastikowa konstrukcja, skuteczność hybrydowego ANC, czas pracy baterii i to, czy warto dopłacić za ulepszenie.
+- [Jak zaktualizować oprogramowanie układowe podrabianych AirPods: poradnik krok po kroku](https://airpodsreplicas.com/pl/articles/how-to-update-fake-airpods-firmware): Jak bezpiecznie zaktualizować oprogramowanie układowe klonów AirPods za pomocą FlyCC, CloudCC i Starfun — zasady bezpiecznego ładowania, jak uniknąć unieruchomienia urządzeń i kiedy nie ruszać oprogramowania układowego.
+- [Czy podróbki AirPods działają z komputerem Mac? Konfiguracja, suwak głośności i rozwiązania problemów](https://airpodsreplicas.com/pl/articles/fake-airpods-on-mac): Jak połączyć repliki AirPods z macOS — naprawa błędu binarnego suwaka głośności, działanie przełączania w iCloud oraz informacje, który chipset działa najlepiej na MacBookach.
+- [AirPods Pro 3 V7 Huilian vs V7 TB: którą replikę V7 kupić?](https://airpodsreplicas.com/pl/articles/airpods-pro-3-v7-huilian-vs-v7-tb): AirPods Pro 3 V7 Huilian vs V7 TigerBuilder (TB): ta sama cena, redukcja szumów i czujniki, ale iCloud Connect, tłumaczenie na żywo i StarFun w jednej wersji, a w drugiej multipoint z 3 urządzeniami i FlyCC.
+- [Czy podróbki AirPods działają z aplikacją Find My?](https://airpodsreplicas.com/pl/articles/do-fake-airpods-work-with-find-my): Żadna replika AirPods nie działa z siecią Find My firmy Apple, niezależnie od ceny czy wersji, a aktualizacja oprogramowania sprzętowego nie może tego zmienić. Co zamiast tego potrafią repliki, jak Find My ujawnia podróbkę i co sądzić o zapewnieniach sprzedawców.
+- [Przewodnik po APK StarFun: korektor EQ i oprogramowanie układowe do replik Huilian AirPods](https://airpodsreplicas.com/pl/articles/starfun-app-guide): Gdzie pobrać StarFun na Androida i iOS, które repliki Huilian AirPods z niego korzystają, jak bezpiecznie dostosować korektor EQ i zaktualizować oprogramowanie układowe oraz co sprawdzić, gdy aplikacja nie może znaleźć słuchawek.
+- [Best AirPods Replicas (2026) (EN)](https://airpodsreplicas.com/articles/best-airpods-replicas): All-model 2026 buying guide (Pro 3 V7 Huilian, V7 TB, SE, Pro 2 V5.3 TB, AirPods 4 V3 TB, Max V3 TB).
+- [AirPods 4 Replicas: V3 TB vs V2 Huilian vs V2 TB (EN)](https://airpodsreplicas.com/articles/airpods-4-v3-vs-v2): Side-by-side comparison of all stocked AirPods 4 replicas.
+
 ## Rozwiązywanie Problemów
 
 - [Częste Błędy](https://airpodsreplicas.com/pl/troubleshooting/other-common-bugs): Rozwiązania najczęstszych problemów.
@@ -47,7 +76,8 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 
 ## Narzędzia i Społeczność
 
-- [Przydatne Aplikacje](https://airpodsreplicas.com/pl/useful-apps): Niezbędne aplikacje do aktualizacji firmware'u dla chipsetów Airoha, TigerBuilder, BES, HR i Huilian.
+- [Przydatne Aplikacje](https://airpodsreplicas.com/pl/useful-apps): Pobierz FlyCC (Android i iOS, TigerBuilder/Airoha), StarFun (Android i iOS, Huilian), CloudCC, BullSuper, G&Link, HBluetooth i KKX.
 - [Quiz](https://airpodsreplicas.com/pl/quiz): Interaktywny quiz, który pomoże dobrać najlepszą replikę pod Twoje potrzeby i budżet.
+- [Społeczność](https://airpodsreplicas.com/pl/community): Do czego służą Discord (73k+ członków) i r/AirReps (73k+ członków), główne kanały, asystent AI i zasady bezpieczeństwa.
 - [Discord](https://airreps.link/discord): Dołącz do społeczności, aby uzyskać pomoc na żywo.
 - [Reddit](https://airreps.link/reddit): Subreddit r/AirReps.

@@ -245,7 +245,7 @@ describe('canonical routes', () => {
         const pages: string[] = [];
         const walk = (dir: string) => {
             for (const entry of readdirSync(dir, { withFileTypes: true })) {
-                if (['.vitepress', 'public', 'node_modules'].includes(entry.name)) {
+                if (['.vitepress', 'public', 'node_modules', 'bot'].includes(entry.name)) {
                     continue;
                 }
                 const full = path.join(dir, entry.name);
@@ -273,10 +273,13 @@ describe('outbound targets', () => {
             ['https://airreps.link/emaxv25', 'earhive'],
             ['https://airreps.link/e2v3e', 'earhive'],
             ['https://airreps.link/eprov53hr2', 'earhive'],
+            ['https://airreps.link/eprov7tb', 'earhive'],
             ['https://airreps.link/jprov7hl', 'jenny'],
+            ['https://airreps.link/jprov7tb', 'jenny'],
             ['https://airreps.link/jpro3se', 'jenny'],
             ['https://airreps.link/jprov52hr', 'jenny'],
             ['https://airreps.link/jmaxv3p/', 'jenny'],
+            ['https://airreps.link/hcprov7tb', 'hicity'],
             ['https://airreps.link/hcprov6tb', 'hicity'],
             ['https://airreps.link/hcgen2v3e', 'hicity'],
             ['https://airreps.link/hcmaxv3tb', 'hicity'],
@@ -305,10 +308,13 @@ describe('outbound targets', () => {
     test('recognises store, agent and community hosts directly', () => {
         const cases: [string, string][] = [
             ['https://hicitypods.com/product/pro-3-v7-tb/', 'hicity'],
+            ['https://hicitypods.com/product/pro-2-v5-3-lite/', 'hicity'],
+            ['https://hicitypods.com/product/pro2-v5-3-huilian-lite/', 'hicity'],
             ['https://www.hicitypods.com', 'hicity'],
+            ['https://jenny.airreps.info/product/pro-3-v7-tb/', 'jenny'],
             ['https://jenny.airreps.info/product/max-v3-tb/', 'jenny'],
+            ['https://earhive.com/product/pro-3-v7-tb/', 'earhive'],
             ['https://earhive.com', 'earhive'],
-            ['https://replicute.com/', 'replicute'],
             ['https://www.kakobuy.com/item/details', 'kakobuy'],
             ['https://kakoguide.com/guides/is-kakobuy-legit', 'kakoguide'],
             ['https://discord.gg/airreps', 'discord'],
@@ -337,6 +343,7 @@ describe('outbound targets', () => {
             'https://airreps.link/EPROV54HL',
             'https://airreps.link/jennybf',
             'https://airreps.link/replicutebf26',
+            'https://replicute.com/',
             'https://airreps.link/jennyxmas26',
             'https://airreps.link/',
             'https://airreps.info/aboutsection',

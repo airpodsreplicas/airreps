@@ -39,10 +39,10 @@ Fiyatlar modele ve sürüme göre değişir ve zaman içinde dalgalanır; ancak 
 |-------|---------------------|
 | AirPods 2 | ~$26 |
 | AirPods 3 | Şu anda güvenilir satıcılarda listelenmiyor |
-| AirPods 4 | ~$29–52 |
-| AirPods Pro 2 | ~$50–58 |
+| AirPods 4 | ~$29–53 |
+| AirPods Pro 2 | ~$22–58 (V5.2+ $49–58) |
 | AirPods Pro 3 | ~$27–68 |
-| AirPods Max | ~$93–126 |
+| AirPods Max | ~$85–127 |
 
 Her model içinde, daha yüksek sürüm numarası genellikle daha pahalıdır ve ek özellikler sunar. Size uygun seçeneği bulmak için [testi](/tr/quiz) çözün veya sürümlere göre sunulan seçeneklerin tam listesi için yukarıdaki model bağlantı sayfasını açın. Bütçeniz kısıtlı mı? [50 doların altındaki en iyi AirPods kopyalarını](/tr/articles/best-airpods-replicas-under-50) karşılaştırdığımız derlememize göz atın.
 
@@ -65,10 +65,9 @@ Tüm güvenilir satıcılar, size kolaylık sağlamak için birden fazla ödeme 
 | **PayPal** | ⚠️ Bazen | ⚠️ Bazen | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ❌ | ❌ | ❌ |
-| [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
+| [**Cash App (Lightning)**](https://cash.app/bitcoin) | ✅ | ✅ | ✅ |
 | **Bitcoin / kripto** | ✅ | ✅ | ✅ |
-| **Banka havalesi** | ✅ | ❌ | ✅ |
+| **Banka havalesi** | ✅ | ❌ | ⚠️ Yalnızca Birleşik Krallık |
 | **Weidian (aracı üzerinden)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -78,7 +77,7 @@ Tüm güvenilir satıcılar, size kolaylık sağlamak için birden fazla ödeme 
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Her satıcının etkin ödeme altyapıları en son 18 Kasım 2026'da kontrol edildi. Satıcının ödeme sayfasındaki bilgiler esas alınmalıdır; yöntemlerin kullanılabilirliği ülkeye veya siparişe göre değişebilir.
+Her satıcının etkin ödeme altyapıları en son 26 Kasım 2026'da kontrol edildi. Satıcının ödeme sayfasındaki bilgiler esas alınmalıdır; yöntemlerin kullanılabilirliği ülkeye veya siparişe göre değişebilir. Revolut, AB/AEA ve Birleşik Krallık fatura adresleri için gösterilir ve Jenny'nin banka havalesi seçeneği yalnızca Birleşik Krallık için geçerlidir.
 
 HiCity'deki Alipay ödemeleri doğrudan satıcıya gider ve elle onaylanır; bu nedenle satıcı ödemeyi kontrol edene kadar siparişiniz beklemede kalır. Earhive ve Jenny'de Alipay ödemeleri otomatik olarak onaylanır.
 
@@ -97,7 +96,7 @@ Weidian siparişleri için bir aracı kullanmanız gerekir. Kredi kartlarını v
 ## SSS
 
 ::: details Kaliteli bir ürün alacak mıyım?
-Ürün kalitesini garanti etmek mümkün değildir; aynı satıcıdan alınan ürünler arasında bile kalite farklılık gösterebilir. Bununla birlikte, orijinal metinde adı geçen satıcılar genellikle kaliteli ürünler sunmalarıyla bilinir.
+Ürün kalitesini garanti etmek mümkün değildir; aynı satıcıdan alınan ürünler arasında bile kalite farklılık gösterebilir. Bununla birlikte, güvenilir satıcılar genellikle kaliteli ürünler sunmalarıyla bilinir.
 :::
 
 ::: details Satıcılarla nasıl iletişime geçebilirim?

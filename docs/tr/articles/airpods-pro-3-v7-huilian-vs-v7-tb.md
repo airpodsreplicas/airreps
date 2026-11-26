@@ -95,7 +95,7 @@ TB değerleri satıcılardan alınmıştır; Huilian'ın çalışma süresi ise 
 - Apple ürünü olmayanlar da dahil olmak üzere 3 adede kadar cihaz arasında geçiş yapıyorsanız.
 - Güncellemeden sonra açılır pencereyi ve seri numarasını yeniden eklemek de dahil FlyCC kullanmak sizin için sorun değilse.
 
-<span class="pick-buy">V7 TB'yi [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/) üzerinden alın</span>
+<span class="pick-buy">V7 TB'yi [Earhive](https://airreps.link/eprov7tb) [HiCity](https://airreps.link/hcprov7tb) [Jenny](https://airreps.link/jprov7tb) üzerinden alın</span>
 
 ### Ya da V7'yi es geçin: Pro 3 SE
 

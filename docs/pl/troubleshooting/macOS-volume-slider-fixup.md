@@ -6,7 +6,7 @@ description: Napraw problem ze suwakiem głośności w macOS na Intel Macs. Pros
 
 Jest to jeden z najlepiej znanych problemów w wersji **Intel** macOS, gdzie suwak głośności sterujący poziomem dźwięku po prostu nie działa, a jedynie zachowuje się jak przełącznik (dotyczy to większości replik, choć niektóre działają poprawnie). Ponieważ Apple prawdopodobnie nigdy nie zajmie się tym problemem, możemy go obejść za pomocą [narzędzia open sourced](https://github.com/briankendall/proxy-audio-device).
 
-:::warning
+::: warning
 Ten poradnik przeznaczony jest dla osób posiadających Maci z procesorem Intel (i3, i5, i7; nie chipy serii M). Jeśli Twój Mac z Apple Silicon (chip serii M) nie odtwarza dźwięku z aktualnymi AirReps, sprawdź [Częste błędy](/pl/troubleshooting/other-common-bugs).
 :::
 
@@ -28,7 +28,7 @@ Jeśli nie masz zainstalowanego `brew` na swoim systemie, możemy zacząć tutaj
 
 <video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Instalacja za pomocą Terminala"></video>
 
-:::warning
+::: warning
 Możesz zostać poproszony o podanie hasła — wpisz je jak zwykle (może wyglądać, jakby było ukryte, ale w tym przypadku tak nie jest).
 :::
 
@@ -75,11 +75,11 @@ Choć zazwyczaj da się z tego korzystać bez problemu, niektórzy użytkownicy 
 Niestety, musisz przechodzić do Control Center, aby sterować dźwiękiem (lub użyć skrótu klawiaturowego).
 :::
 
-:::details Brak dźwięku po rozłączeniu
+::: details Brak dźwięku po rozłączeniu
 Aplikacja jest zaprojektowana tak, aby zawsze podłączać się do wybranego urządzenia. Musisz ręcznie wybrać z powrotem "Internal Speaker".
 :::
 
-:::details Trzaski/pęknięcia lub dźwięk w jednym kanale
+::: details Trzaski/pęknięcia lub dźwięk w jednym kanale
 Możesz obejść to, zwiększając rozmiar bufora lub wybierając `Always` w opcji `Proxy device is active` w aplikacji.
 :::
 

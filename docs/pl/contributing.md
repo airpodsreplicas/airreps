@@ -33,8 +33,7 @@ Główna gałąź jest chroniona. W związku z tym bezpośrednie edytowanie nie 
 
 Wybierz jedną z dwóch poniższych opcji, aby skonfigurować środowisko deweloperskie:
 
-### Opcja 1 (zalecana)
-
+### Opcja 1 (zalecana) {#option-1-recommended}
 Aby ustawić optymalne środowisko deweloperskie:
 
 1. [Zainstaluj Bun](https://bun.sh/). Ten projekt używa Bun jako menedżera pakietów i środowiska uruchomieniowego.
@@ -71,7 +70,7 @@ Pamiętaj, że VitePress oferuje dodatkowe funkcje niedostępne w standardowym m
 
 Gdy wprowadzisz zmiany, wykonaj poniższe kroki, aby je przesłać do przeglądu:
 
-1. Jeśli wybrałeś Opcję 1 w sekcji [Konfiguracja środowiska deweloperskiego](#opcja-1-zalecana), upewnij się, że strony poprawnie się zbudują, uruchamiając następujące polecenie:
+1. Jeśli wybrałeś Opcję 1 w sekcji [Konfiguracja środowiska deweloperskiego](#option-1-recommended), upewnij się, że strony poprawnie się zbudują, uruchamiając następujące polecenie:
 
 ```shell
 bun run docs:build

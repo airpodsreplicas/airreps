@@ -1,6 +1,6 @@
 ---
-title: "AirPods Max Dupe: What You Get and What You Give Up"
-description: "An honest look at the AirPods Max dupe — what the over-ear replica copies, what it can't, the typical price band, and whether it's worth it over the in-ear replicas."
+title: "AirPods Max Dupe: What You Get & Give Up"
+description: "Honest AirPods Max replica guide: CNC aluminum vs plastic builds, $85–$127 prices, four-mic hybrid ANC, and whether in-ear clones are better value."
 category: "Buying"
 order: 12
 ---
@@ -9,7 +9,7 @@ order: 12
 
 An AirPods Max dupe is a replica of Apple's over-ear headphone: it copies the aluminium look, the mesh headband, the digital crown, and the iOS behavior. And yes — it triggers the same pairing popup and connects like a genuine pair on iPhone. What it can't do is match retail sound, ANC, and ecosystem polish. This article is the buying decision; for the current versions and specs, read the [AirPods Max version page](/version-info/airpods-max).
 
-> **Quick Answer:** The flagship AirPods Max replica (V3 metal, ~$126) delivers genuine anodized aluminum ear cups, a working digital crown, head tracking, the iOS pairing animation for less than a quarter of Apple's $549 retail price. What you surrender is Apple's class-leading computational ANC, seamless multi-device iCloud switching, and Find My network tracking.
+> **Quick Answer:** The flagship AirPods Max replica (V3 Metal / Max V3 TB, $126–127) delivers genuine anodized aluminum ear cups, a working digital crown, head tracking, and the iOS pairing animation for less than a quarter of Apple's $549 retail price. What you surrender is Apple's class-leading computational ANC, seamless iCloud Connect handoff, and Find My network tracking.
 
 ::: tip Prices move around
 Replica prices fluctuate with batches and promotions. Treat every figure here as typical, not fixed, and check the [links page](/links/airpods-max) for what's in stock right now.
@@ -25,7 +25,7 @@ On top of the build, the iOS experience is imitated well. The pairing animation 
 
 The guide is blunt about the gaps, and so are we. Compared to a real AirPods Max, the replica gives up:
 
-- **Multi-device connect** — no automatic switching across your Apple devices the way retail does. Only Huilian-based models do multi-device switching, and the Max is not one of them.
+- **iCloud Connect handoff** — while the V3 Metal supports standard Bluetooth multipoint across 2 devices, it does not do automatic Apple ID iCloud switching the way retail or Huilian-based earbuds do (and the cheaper V3P connects to 1 device at a time).
 - **Retail-level ANC** — noise cancelling works and is hybrid (see the [ANC explainer](/introduction/anc-explained)), but it does not reach Apple's level.
 - **Better transparency mode** — it functions, it just isn't as natural as retail.
 - **The subtler details** — the small finish, fit, and behavioral touches that you only notice when you have both side by side.
@@ -36,7 +36,7 @@ The honest framing: an AirPods Max dupe is a **fashion-forward product more than
 
 ## Price band vs retail
 
-From the guide's [trusted sellers](/links/info), AirPods Max replicas typically land around **$93–126** depending on version and build. For context, that's in the same territory as genuine standard AirPods, while Apple's real Max sits far above it. So the value is real — but only if you value what the replica actually delivers.
+From the guide's [trusted sellers](/links/info), AirPods Max replicas typically land around **$85–127** depending on version and build (V3P at $85–94, V3 Metal / Max V3 TB at $126–127). For context, that's in the same territory as genuine standard AirPods, while Apple's real Max sits far above it. So the value is real — but only if you value what the replica actually delivers.
 
 ## The uncomfortable part: over-ear is a weaker value bet
 
@@ -50,15 +50,16 @@ In plain terms: you get more of the real experience per dollar from a Pro 2 or P
 - Someone who values the iOS pairing popup and crown controls more than reference tuning.
 - Someone who accepts the ANC and transparency gaps as the price of admission.
 
-It does **not** suit someone chasing flagship sound, someone who needs multi-device switching, or anyone who relies on Find My.
+It does **not** suit someone chasing flagship sound, someone who needs iCloud Connect handoff, or anyone who relies on Find My.
 
 ## Where to buy
 
-AirPods Max replicas are sold by the trusted sellers the guide verifies — Jenny and HiCity among them, with Earhive also listing Max versions. The per-version purchase links live on the [AirPods Max links page](/links/airpods-max). The community's standing advice applies here too: buy from a [trusted seller](/links/info), not a random marketplace listing, because the version you actually receive matters more than the price you pay. The same listing from three sellers is the same product — they differ mainly in support, shipping, and payment options.
+AirPods Max replicas are sold by the trusted sellers the guide verifies — Earhive, HiCity, and Jenny all list the V3 Metal (Max V3 TB), while Earhive and Jenny also stock the V3P. The per-version purchase links live on the [AirPods Max links page](/links/airpods-max), or take the [quiz](/quiz) if you're deciding between over-ear and in-ear models. The community's standing advice applies here too: buy from a [trusted seller](/links/info), not a random marketplace listing, because the version you actually receive matters more than the price you pay. The same listing from three sellers is the same product — they differ mainly in support, shipping, and payment options.
 
 <span class="pick-buy">Buy the V3 Metal at [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span> <span class="pick-buy">V3P at [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
 Related reading and comparisons:
+- Choosing between the metal and plastic builds? Read [AirPods Max V3 vs V3P](/articles/airpods-max-v3-vs-v3p).
 - In-ear replicas vs over-ear dupes? Check [Best AirPods Replicas Under $50](/articles/best-airpods-replicas-under-50).
 - Genuine AirPods vs replicas feature-by-feature: Read [Replica AirPods vs Real AirPods](/articles/airpods-replicas-vs-real).
 - Worried about package stops? See [AirPods Replica Customs and VAT](/articles/airpods-replica-customs-and-vat).
@@ -75,9 +76,9 @@ Visually, the metal V3 gets close, which is exactly why second-hand scams work. 
 :::
 
 ::: details Do Max replicas have the iOS popup?
-Yes. The pairing animation, name changing, GPS display, and tap controls work, and the current versions add the digital crown and in-ear detection. What's missing is multi-device connect and retail-grade ANC and transparency.
+Yes. The pairing animation, name changing, GPS display, and controls work, and current versions add the digital crown and on-head detection. V3 Metal supports 2-device Bluetooth multipoint, though it lacks iCloud Connect and retail-grade ANC and transparency.
 :::
 
 ::: details How much should an AirPods Max dupe cost?
-Typically around $93–126 from a trusted seller, varying by version and build. Higher versions cost more and add features — compare them on the [version page](/version-info/airpods-max) before buying.
+Typically around $85–127 from a trusted seller ($85–94 for V3P, $126–127 for V3 Metal), varying by version and build. Compare them on the [version page](/version-info/airpods-max) before buying.
 :::

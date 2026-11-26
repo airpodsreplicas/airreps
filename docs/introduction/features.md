@@ -13,25 +13,26 @@ All current models of AirPods replicas support name changing, GPS, and changing 
 
 Newer models feature additional capabilities:
 - **USB-C charging** (AirPods Pro 2 V5.2+, AirPods Pro 3, AirPods 4, AirPods Max V3)
-- **iCloud Connect** (AirPods Pro 2 V5.3 Huilian & V5.4, AirPods Pro 3 V6 Huilian, Pro 3 V7, AirPods 4 V2 Huilian)
+- **iCloud Connect** (AirPods Pro 2 V5.3 Huilian & V5.4 Huilian, AirPods Pro 3 V6 Huilian & V7 Huilian, AirPods 4 V2 Huilian)
 - **Adaptive Audio** (AirPods Pro 2 V5.2+, AirPods 4 V2 Huilian & V3 TB)
-- **Conversation Awareness** (AirPods Pro 2 V5.2+, AirPods Pro 3 V7 & V6 Huilian, AirPods 4 V2 Huilian & V3 TB)
-- **Live Translation** (AirPods Pro 3 V7, V6 Huilian, Pro 3 SE)
-- **Heart Rate Monitoring** (AirPods Pro 3 V7, Pro 3 SE)
-- **Head Gesture Controls** (AirPods Pro 2 V5.4, AirPods Pro 3 V7)
+- **Conversation Awareness** (AirPods Pro 2 V5.2+, AirPods Pro 3 V7 Huilian, V7 TB & V6 Huilian, AirPods 4 V2 Huilian & V3 TB)
+- **Live Translation** (AirPods Pro 3 V7 Huilian, V6 Huilian, Pro 3 SE)
+- **Heart Rate Monitoring** (AirPods Pro 3 V7 Huilian & V7 TB, Pro 3 SE)
+- **Head Gesture Controls** (AirPods Pro 2 V5.4 Huilian, AirPods Pro 3 V7 Huilian & V7 TB)
 
 ::: details Can the settings be changed using an Android device?
-If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufacturers also have [their own Android apps](/useful-apps) that make it possible to change these settings and more on Android devices. For the full Android picture — pairing, apps, and quirks — see our article on [AirPods replicas on Android](/articles/airpods-replicas-on-android).
+If you use Android, you can make all your touch settings changes on an iPhone at [https://airreps.info/iossettings](https://airreps.info/iossettings). These changes should carry over to your Android, although sometimes this doesn't work. Some manufacturers also have [their own companion apps](/useful-apps) that make it possible to change these settings and more on Android devices. For the full Android picture — pairing, apps, and quirks — see our article on [AirPods replicas on Android](/articles/airpods-replicas-on-android).
 :::
 
 ## In-Ear Sensors {#in-ear-sensors}
 
-The in-ear sensors on the replicas pause the music almost instantly (around 1 second delay*) when removed from the ears. The "beep" sound when inserting the AirPods closely matches the original Apple sound on most current models.
+The in-ear sensors on the replicas pause the music almost instantly (around 1 second delay) when removed from the ears. The "beep" sound when inserting the AirPods closely matches the original Apple sound on most current models.
 
 ## Tap and Force Touch Controls
 
 The tap controls or Force Touch controls on the replicas are functional but might take some getting used to. For 2nd generation replicas, a firm tap is required, not a soft touch like on original AirPods. For Pro models, only a light push or squeeze is needed, not a touch.
-:::info **Fun Fact**
+
+::: info Fun Fact
 AirPods Pro 2 replicas (V5.3TB and newer) feature a force sensor configuration that closely matches the originals, providing the same experience at a much lower cost.
 :::
 ## Microphone Quality

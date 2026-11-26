@@ -75,7 +75,7 @@ def run():
     bookmark_count = 0
     for source, page in pages.items():
         source_route = route(source)
-        if not page.refresh:
+        if not page.refresh and source_route != '/404':
             for suffix in ['title', 'description', 'url', 'image', 'image:alt']:
                 og = page.meta['og:' + suffix]
                 twitter = page.meta['twitter:' + suffix]

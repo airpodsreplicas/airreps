@@ -33,8 +33,7 @@ La branche principale est une branche protégée. En tant que telle, l'édition 
 
 Choisissez l'une des deux options ci-dessous pour configurer votre environnement de développement :
 
-### Option 1 (Recommandée)
-
+### Option 1 (Recommandée) {#option-1-recommended}
 Pour configurer un environnement de développement optimal :
 
 1. [Installez Bun](https://bun.sh/). Ce projet utilise Bun comme gestionnaire de paquets et environnement d'exécution.
@@ -71,7 +70,7 @@ Gardez à l'esprit que VitePress offre des fonctionnalités supplémentaires non
 
 Une fois vos modifications effectuées, suivez les étapes ci-dessous pour les soumettre pour révision :
 
-1. Si vous avez choisi l'Option 1 sous [Configuration de l'Environnement de Développement](#option-1-recommandée), assurez-vous que les pages se compileront correctement en exécutant la commande suivante :
+1. Si vous avez choisi l'Option 1 sous [Configuration de l'Environnement de Développement](#option-1-recommended), assurez-vous que les pages se compileront correctement en exécutant la commande suivante :
 
 ```shell
 bun run docs:build

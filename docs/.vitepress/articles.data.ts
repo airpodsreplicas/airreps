@@ -1,5 +1,5 @@
 import { createContentLoader } from 'vitepress';
-import { transformArticles } from './articles';
+import { transformArticles } from './articles.ts';
 
 // Keep the loader in shared code: translated Markdown lives one directory
 // deeper and cannot reuse an English page's relative module import.

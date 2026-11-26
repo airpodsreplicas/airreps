@@ -46,6 +46,18 @@ describe('related guides map', () => {
         const layout = readFileSync('docs/.vitepress/theme/Layout.vue', 'utf8');
         expect(layout).toContain('<template #doc-footer-before><RelatedGuides /></template>');
     });
+
+    test('registers new pillar guides and key chipset cross-links', () => {
+        expect(RELATED_GUIDES['introduction/overview']).toContain('best-airpods-replicas');
+        expect(RELATED_GUIDES['version-info/general']).toContain('best-airpods-replicas');
+        expect(RELATED_GUIDES['version-info/general']).toContain(
+            'airpods-pro-3-v7-huilian-vs-v7-tb'
+        );
+        expect(RELATED_GUIDES['version-info/airpods']).toContain('airpods-4-v3-vs-v2');
+        expect(RELATED_GUIDES['version-info/airpods']).toContain('starfun-app-guide');
+        expect(RELATED_GUIDES['version-info/pro']).toContain('starfun-app-guide');
+        expect(RELATED_GUIDES['links/airpods']).toContain('airpods-4-v3-vs-v2');
+    });
 });
 
 describe('related guide lookup', () => {

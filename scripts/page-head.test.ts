@@ -58,18 +58,131 @@ describe('metadata available to direct loads and client navigation', () => {
         });
     }
 
-    test('retains existing frontmatter entries and includes Article and FAQ data', async () => {
+    test('retains existing frontmatter entries and merges TechArticle and FAQPage in @graph', async () => {
         const existing: HeadConfig = ['meta', { content: 'keep', name: 'custom-page-meta' }];
         const data = await page('articles/flycc-app-guide.md', {
             frontmatter: { head: [existing] },
+            title: 'FlyCC APK Guide',
         });
         expect(head(data)[0]).toEqual(existing);
-        expect(graph(data).some((node) => node['@type'] === 'Article')).toBe(true);
-        const faq = head(data)
-            .filter(([tag, attrs]) => tag === 'script' && attrs.type === 'application/ld+json')
-            .map(([, , text]) => JSON.parse(text ?? '{}'))
-            .find((schema) => schema['@type'] === 'FAQPage');
+        const ldBlocks = head(data).filter(
+            ([tag, attrs]) => tag === 'script' && attrs.type === 'application/ld+json'
+        );
+        expect(ldBlocks).toHaveLength(1);
+        const article = graph(data).find((node) => node['@type'] === 'TechArticle');
+        expect(article).toBeDefined();
+        expect(article?.headline).toBe('FlyCC APK Guide');
+        const faq = graph(data).find((node) => node['@type'] === 'FAQPage') as
+            | { mainEntity: unknown[]; mainEntityOfPage: { '@id': string } }
+            | undefined;
         expect(faq?.mainEntity.length).toBeGreaterThan(0);
+        expect(faq?.mainEntityOfPage).toEqual({ '@id': article?.['@id'] });
+    });
+
+    test('localizes breadcrumbs and prevents English JSON-LD leakage on non-English locales', async () => {
+        const home = await page('da/index.md', { title: 'AirPods-kopier' });
+        const homeGraph = graph(home);
+        const org = homeGraph.find((node) => node['@type'] === 'Organization');
+        const site = homeGraph.find((node) => node['@type'] === 'WebSite');
+        expect(site?.inLanguage).toBe('da');
+        expect(site?.url).toBe('https://airpodsreplicas.com/da/');
+        expect(site?.alternateName).toBeUndefined();
+        expect(org?.alternateName).toBeUndefined();
+        expect(org?.knowsAbout).toBeUndefined();
+        expect(homeGraph.some((node) => node['@type'] === 'BreadcrumbList')).toBe(false);
+
+        const article = await page('da/articles/starfun-app-guide.md', {
+            title: 'StarFun APK-vejledning',
+        });
+        const crumb = graph(article).find((node) => node['@type'] === 'BreadcrumbList') as
+            | { itemListElement: Array<{ item: string; name: string; position: number }> }
+            | undefined;
+        expect(crumb?.itemListElement).toEqual([
+            {
+                '@type': 'ListItem',
+                item: 'https://airpodsreplicas.com/da/',
+                name: 'Hjem',
+                position: 1,
+            },
+            {
+                '@type': 'ListItem',
+                item: 'https://airpodsreplicas.com/da/articles/',
+                name: 'Artikler',
+                position: 2,
+            },
+            {
+                '@type': 'ListItem',
+                item: 'https://airpodsreplicas.com/da/articles/starfun-app-guide',
+                name: 'StarFun APK-vejledning',
+                position: 3,
+            },
+        ]);
+    });
+
+    test('does not duplicate the hub URL in BreadcrumbList on section start pages', async () => {
+        const hubs = await Promise.all(
+            [
+                'introduction/overview.md',
+                'links/info.md',
+                'version-info/general.md',
+                'ordering/how-to-buy.md',
+                'troubleshooting/other-common-bugs.md',
+                'da/introduction/overview.md',
+            ].map((hub) => page(hub))
+        );
+        for (const data of hubs) {
+            const crumb = graph(data).find((node) => node['@type'] === 'BreadcrumbList') as
+                | { itemListElement: Array<{ item: string }> }
+                | undefined;
+            const urls = crumb?.itemListElement.map((entry) => entry.item) ?? [];
+            expect(urls).toHaveLength(2);
+            expect(new Set(urls).size).toBe(2);
+        }
+    });
+
+    test('emits rich @types for articles index, useful-apps, quiz and utility pages', async () => {
+        const articlesIndex = await page('articles/index.md', { title: 'Articles' });
+        const articlesNode = graph(articlesIndex).find(
+            (node) => node['@type'] === 'CollectionPage'
+        ) as { mainEntity?: { itemListElement?: unknown[] } } | undefined;
+        expect(articlesNode?.mainEntity?.itemListElement?.length).toBeGreaterThanOrEqual(20);
+
+        const apps = await page('useful-apps.md', { title: 'Useful Apps' });
+        const appsNode = graph(apps).find((node) => node['@type'] === 'CollectionPage') as
+            | { mainEntity?: { itemListElement?: Array<{ item?: { '@type': string } }> } }
+            | undefined;
+        expect(
+            appsNode?.mainEntity?.itemListElement?.every(
+                (entry) => entry.item?.['@type'] === 'SoftwareApplication'
+            )
+        ).toBe(true);
+
+        const quiz = await page('quiz.md', { title: 'Quiz' });
+        expect(graph(quiz).some((node) => node['@type'] === 'WebApplication')).toBe(true);
+
+        const utils = await Promise.all(
+            ['privacy.md', 'contributing.md', 'bot/privacy.md', 'bot/terms.md'].map((util) =>
+                page(util)
+            )
+        );
+        for (const data of utils) {
+            expect(graph(data).some((node) => node['@type'] === 'WebPage')).toBe(true);
+            expect(graph(data).some((node) => node['@type'] === 'Article')).toBe(false);
+        }
+    });
+
+    test('filters Discord bot legal pages out of sitemap.xml', () => {
+        const items = [
+            { url: '' },
+            { url: 'privacy' },
+            { url: 'bot/privacy' },
+            { url: 'bot/terms' },
+            { url: 'da/bot/privacy' },
+            { url: 'tr/bot/terms' },
+            { url: 'version-info/pro' },
+        ];
+        const filtered = config.sitemap?.transformItems?.(items) ?? [];
+        expect(filtered.map((item) => item.url)).toEqual(['', 'privacy', 'version-info/pro']);
     });
 
     test('resolves include-aware modification dates before generating schema', async () => {
@@ -87,7 +200,7 @@ describe('metadata available to direct loads and client navigation', () => {
             lastUpdated: +explicit,
         });
         expect(data.lastUpdated).toBe(+explicit);
-        const article = graph(data).find((node) => node['@type'] === 'Article');
+        const article = graph(data).find((node) => node['@type'] === 'TechArticle');
         expect(article?.dateModified).toBe(explicit.toISOString());
     });
 
@@ -101,7 +214,7 @@ describe('metadata available to direct loads and client navigation', () => {
         expect(head(data).filter(([tag]) => tag === 'script')).toHaveLength(1);
     });
 
-    test('preserves the synthetic 404 head without mutating the build context', async () => {
+    test('marks the synthetic 404 noindex without canonical, hreflang, or JSON-LD', async () => {
         // VitePress creates this page after Markdown transforms have finished.
         const data: PageData = {
             description: '',
@@ -116,18 +229,7 @@ describe('metadata available to direct loads and client navigation', () => {
         const generated = await config.transformHead?.({ pageData: data } as never);
         expect(data).toEqual(before);
         expect(generated).toEqual(config.themeConfig?.synthetic404Head);
-        expect(generated).toContainEqual([
-            'link',
-            { href: 'https://airpodsreplicas.com/404', rel: 'canonical' },
-        ]);
-        expect(
-            generated?.some(([tag, attrs]) => tag === 'meta' && attrs.property === 'og:url')
-        ).toBe(true);
-        expect(
-            generated?.some(
-                ([tag, attrs]) => tag === 'script' && attrs.type === 'application/ld+json'
-            )
-        ).toBe(true);
+        expect(generated).toEqual([['meta', { content: 'noindex, nofollow', name: 'robots' }]]);
     });
 
     test('the build fallback does not duplicate a real page’s managed head', async () => {

@@ -164,7 +164,12 @@ const text = computed(() => (sale.value ? saleText(sale.value, lang.value) : nul
 
 .sale-offers a:hover {
   background: rgba(255, 255, 255, 0.08);
-  border-color: var(--vp-c-brand-1);
+  border-color: #ec645d;
+}
+
+.sale-offers a:focus-visible {
+  outline: 2px solid #ec645d;
+  outline-offset: 2px;
 }
 
 .store {
@@ -177,7 +182,7 @@ const text = computed(() => (sale.value ? saleText(sale.value, lang.value) : nul
   padding: 0;
   font-size: 11px;
   line-height: 1.3;
-  color: var(--vp-c-brand-1);
+  color: #ec645d;
   background: none;
 }
 
@@ -187,9 +192,11 @@ const text = computed(() => (sale.value ? saleText(sale.value, lang.value) : nul
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 32px;
-  height: 32px;
-  margin: -6px -6px -6px 0;
+  min-width: 44px;
+  min-height: 44px;
+  width: 44px;
+  height: 44px;
+  margin: -12px -12px -12px 0;
   color: rgba(245, 245, 247, 0.7);
   border-radius: 8px;
 }
@@ -197,6 +204,12 @@ const text = computed(() => (sale.value ? saleText(sale.value, lang.value) : nul
 .sale-close:hover {
   color: #fff;
   background: rgba(255, 255, 255, 0.08);
+}
+
+.sale-close:focus-visible {
+  color: #fff;
+  outline: 2px solid #ec645d;
+  outline-offset: 2px;
 }
 
 .sale-close svg {
@@ -238,7 +251,7 @@ const text = computed(() => (sale.value ? saleText(sale.value, lang.value) : nul
 
   .sale-close {
     grid-column: 3;
-    margin: 0;
+    margin: -6px -6px -6px 0;
   }
 }
 

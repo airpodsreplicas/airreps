@@ -95,7 +95,7 @@ Os dados da TB vêm dos vendedores, e a autonomia da Huilian é uma estimativa. 
 - Você alterna entre até 3 dispositivos, inclusive dispositivos que não são da Apple.
 - Você não se importa em usar o FlyCC e adicionar novamente o pop-up e o número de série após uma atualização.
 
-<span class="pick-buy">Compre a V7 TB na [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
+<span class="pick-buy">Compre a V7 TB na [Earhive](https://airreps.link/eprov7tb) [HiCity](https://airreps.link/hcprov7tb) [Jenny](https://airreps.link/jprov7tb)</span>
 
 ### Ou deixe a V7 de lado: a Pro 3 SE
 

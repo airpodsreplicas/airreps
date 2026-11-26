@@ -6,7 +6,7 @@ description: Intel Mac'lerdeki macOS ses kaydırıcısı sorununu düzeltin. Ses
 
 Bu, macOS'in **Intel** sürümünde en iyi bilinen sorunlardan biridir; ses seviyesini kontrol eden kaydırma çubuğu basitçe çalışmaz, sadece bir anahtar gibi davranır (çoğu AirReps üzerinde etkili olur, ancak bazıları etkilenmez). Apple kendisi asla soruna bakmayacağı için, bunu [open sourced tool](https://github.com/briankendall/proxy-audio-device) ile aşabiliriz.
 
-:::warning
+::: warning
 Bu rehber, Intel tabanlı Mac'leri (i3, i5, i7; M serisi çip değil) kullananlar içindir. Eğer Apple Silicon (M serisi çip) Mac'iniz mevcut AirReps'lerinizle ses çalmıyorsa, [Yaygın Hatalar](/tr/troubleshooting/other-common-bugs) bölümüne bakın.
 :::
 
@@ -28,7 +28,7 @@ Sisteminize `brew` yüklü değilse, buradan başlayabiliriz. Bu [sayfaya](https
 
 <video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation using Terminal"></video>
 
-:::warning
+::: warning
 Parolanız istenebilir; lütfen her zamanki gibi parolanızı girin (parolanız görünmüyor gibi gelebilir, ancak bu durumda gizlenmiyor).
 :::
 
@@ -75,11 +75,11 @@ Bu eğitimden çıkmaya çalışmayın; çoğu kullanıcı aşağıdaki şekilde
 Ne yazık ki sesi kontrol etmek için Kontrol Merkezi'ne gitmeniz gerekir (veya klavye kısayolu kullanın).
 :::
 
-:::details Bağlantı kesildiğinde ses yok
+::: details Bağlantı kesildiğinde ses yok
 Uygulama seçilen cihaza her zaman bağlı kalacak şekilde tasarlanmıştır. "Internal Speaker"ı manuel olarak yeniden seçmeniz gerekir.
 :::
 
-:::details Patlama/tıkırtı veya tek taraflı ses
+::: details Patlama/tıkırtı veya tek taraflı ses
 Bunu aşmak için buffer boyutunu artırabilir veya uygulamanın `Proxy device is active` seçeneğinde `Always`i seçebilirsiniz.
 :::
 

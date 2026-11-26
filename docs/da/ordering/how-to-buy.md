@@ -37,7 +37,7 @@ Mange betroede sælgere accepterer nu Alipay, hvilket gør det nemt at betale me
 
 **Sådan betaler du:** Afgiv din ordre, vælg Alipay, og scan derefter den viste QR-kode med Alipay-appen for at gennemføre betalingen.
 
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/50pn2QewNnw" title="Sådan betaler du med Alipay for AirPods-replikaer" allowfullscreen></iframe>
 
 ## Ofte stillede spørgsmål
 

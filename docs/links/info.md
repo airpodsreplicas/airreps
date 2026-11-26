@@ -1,6 +1,6 @@
 ---
-title: "Where to Buy AirPods Replicas"
-description: Directory of verified sellers and direct purchase links for all AirPods replica models.
+title: "Where to Buy AirPods Replicas: Trusted Sellers"
+description: "Verified AirPods replica sellers (Earhive, HiCity, Jenny), typical prices, payment methods, Weidian/KakoBuy links, and ordering FAQs."
 faq:
   - q: "Will I get a good quality unit?"
     a: "It is not possible to guarantee the quality of a unit, as it can vary even among units from the same seller. However, trusted sellers are generally known for offering good quality products."
@@ -40,10 +40,10 @@ Prices vary by model and version and fluctuate over time, but as a rough guide t
 |-------|---------------------|
 | AirPods 2 | ~$26 |
 | AirPods 3 | Not currently listed by trusted sellers |
-| AirPods 4 | ~$29–52 |
-| AirPods Pro 2 | ~$50–58 |
+| AirPods 4 | ~$29–53 |
+| AirPods Pro 2 | ~$22–58 (V5.2+ $49–58) |
 | AirPods Pro 3 | ~$27–68 |
-| AirPods Max | ~$93–126 |
+| AirPods Max | ~$85–127 |
 
 Within each model, a higher version number usually costs more and adds features. Take the [quiz](/quiz) for a tailored pick, or open a model's links page above for exact per-version options. On a tight budget? Our roundup of the [best AirPods replicas under $50](/articles/best-airpods-replicas-under-50) compares the budget picks.
 
@@ -66,10 +66,9 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **PayPal** | ⚠️ Sometimes | ⚠️ Sometimes | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ❌ | ❌ | ❌ |
-| [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
+| [**Cash App (Lightning)**](https://cash.app/bitcoin) | ✅ | ✅ | ✅ |
 | **Bitcoin / Crypto** | ✅ | ✅ | ✅ |
-| **Bank Transfer** | ✅ | ❌ | ✅ |
+| **Bank Transfer** | ✅ | ❌ | ⚠️ UK only |
 | **Weidian (through agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -79,7 +78,7 @@ All trusted sellers accept multiple payment methods for your convenience:
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Each seller's enabled payment gateways were last checked on 18 November 2026. The seller's checkout is authoritative, and current availability can change by country or order.
+Each seller's enabled payment gateways were last checked on 26 November 2026. The seller's checkout is authoritative, and current availability can change by country or order. Revolut is shown for EU/EEA and UK billing addresses, and Jenny's bank transfer option is UK-only.
 
 HiCity's Alipay payments go straight to the seller and are confirmed by hand, so your order stays on hold until the seller checks the payment. Earhive's and Jenny's Alipay payments are confirmed automatically.
 
@@ -98,7 +97,7 @@ For Weidian orders, you'll need to use an agent. We recommend [KakoBuy](https://
 ## FAQ
 
 ::: details Will I get a good quality unit?
-It is not possible to guarantee the quality of a unit, as it can vary even among units from the same seller. However, the sellers mentioned in the original text are generally known for offering good quality products.
+It is not possible to guarantee the quality of a unit, as it can vary even among units from the same seller. However, trusted sellers are generally known for offering good quality products.
 :::
 
 ::: details How do I contact sellers?

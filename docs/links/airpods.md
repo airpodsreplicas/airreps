@@ -1,6 +1,6 @@
 ---
-title: "Buy AirPods 4 & AirPods 2 Replicas: Seller Links"
-description: "Trusted seller links for AirPods 4 and AirPods 2 replicas by version, with current prices, plus AirPods 3 and AirPods 5 availability."
+title: "Buy AirPods 4 & AirPods 2 Replicas"
+description: "Trusted seller links and live prices for AirPods 4 (V3 TB, V2 Huilian, V2 TB) and AirPods 2 (V3E) replicas across website, Weidian, and Alibaba."
 ---
 
 <!-- product-family -->

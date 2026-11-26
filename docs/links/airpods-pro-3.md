@@ -12,31 +12,36 @@ AirPods Pro 3 replicas are the newest in-ear model, with the latest features at 
 <table>
   <tr>
     <th>Version</th>
+    <th>Price</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V7 (TB)</span></td>
+    <td><span class="version-badge">V7 (TB)</span><br>Best ANC / Newest TB</td>
+    <td style="white-space: nowrap;">$67–68</td>
     <td>
       <div class="link-column">
-        <a href="https://earhive.com/product/pro-3-v7-tb/">Website</a>
+        <a href="https://airreps.link/eprov7tb">Website</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Website</a>
+        <a href="https://airreps.link/hcprov7tb">Website</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://jenny.airreps.info/product/pro-3-v7-tb/">Website</a>
+        <a href="https://airreps.link/jprov7tb">Website</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td><span class="version-badge">V7 (Huilian)</span><br>Top pick</td>
+    <td style="white-space: nowrap;">$67–68</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Website</a>
@@ -59,7 +64,8 @@ AirPods Pro 3 replicas are the newest in-ear model, with the latest features at 
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">SE</span></td>
+    <td><span class="version-badge">SE</span><br>Best value</td>
+    <td style="white-space: nowrap;">$48</td>
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
@@ -72,6 +78,7 @@ AirPods Pro 3 replicas are the newest in-ear model, with the latest features at 
   </tr>
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
+    <td style="white-space: nowrap;">$37–38</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov6tb">Website</a>
@@ -95,6 +102,7 @@ AirPods Pro 3 replicas are the newest in-ear model, with the latest features at 
   </tr>
   <tr>
     <td><span class="version-badge">V6 (Huilian)</span></td>
+    <td style="white-space: nowrap;">$43–45</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov6hl">Website</a>
@@ -118,6 +126,7 @@ AirPods Pro 3 replicas are the newest in-ear model, with the latest features at 
   </tr>
   <tr>
     <td><span class="version-badge">V5.5</span></td>
+    <td style="white-space: nowrap;">$27–28</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov55">Website</a>

@@ -29,13 +29,13 @@ description: A concise dictionary of common terms used in the AirReps community.
 
 "Guinea Pigging" means being the first person to order and review a seller's product, allowing the community to evaluate its quality.
 
-**Example:** "Is anyone willing to GP Troy's V4's?"
+**Example:** "Is anyone willing to GP the new V7 batch?"
 
 ## QC: Quality Control [PICS]
 
 "QC" stands for Quality Control. "QC PICS" refers to pictures used to verify the quality of a purchased product. See our [QC & LC guide](/ordering/qc-lc) for how to inspect your replicas.
 
-**Example:** "Can you send me the QC pics for HiCity v2.5's?"
+**Example:** "Can you send me the QC pics for HiCity's Pro 3 V7?"
 
 ## LC: Legit Check
 
@@ -47,7 +47,7 @@ A "Legit Check" verifies the authenticity of a product, often used when purchasi
 
 An "Agent" is a third party who facilitates safe purchases from sellers (often in China) to buyers. They act as representatives, ensuring products are not faulty and buyers receive what they ordered. We recommend [KakoBuy](https://airreps.link/kakobuy) — see our [KakoBuy guide](/ordering/kakobuy) for how to use it.
 
-**Example:** "You might need to use an agent to get them, as currently HiCity doesn't ship to the Philippines."
+**Example:** "Use an agent like KakoBuy if you want QC photos or want to combine AirPods with other items in one shipment."
 
 ## Markings: Product Labeling
 

@@ -95,7 +95,7 @@ TB поставляется со всплывающим окном iOS и сер
 - Вы переключаетесь между 3 устройствами, в том числе устройствами не от Apple.
 - Вас устраивает использование FlyCC, включая повторное добавление всплывающего окна и серийного номера после обновления.
 
-<span class="pick-buy">Купить V7 TB в [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
+<span class="pick-buy">Купить V7 TB в [Earhive](https://airreps.link/eprov7tb) [HiCity](https://airreps.link/hcprov7tb) [Jenny](https://airreps.link/jprov7tb)</span>
 
 ### Или не выбирайте V7: Pro 3 SE
 

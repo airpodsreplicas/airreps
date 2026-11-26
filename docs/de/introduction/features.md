@@ -25,12 +25,12 @@ Wenn du Android verwendest, kannst du alle Änderungen an deinen Tipp-Einstellun
 
 ## Ohrsensoren {#in-ear-sensors}
 
-Die Ohrsensoren der Klone pausieren die Musik nahezu sofort (mit einer Verzögerung von etwa 1 Sekunde*), wenn sie aus den Ohren genommen werden. Der „Piepton“ beim Einsetzen der AirPods entspricht bei den meisten aktuellen Modellen weitgehend dem Originalton von Apple.
+Die Ohrsensoren der Klone pausieren die Musik nahezu sofort (mit einer Verzögerung von etwa 1 Sekunde), wenn sie aus den Ohren genommen werden. Der „Piepton“ beim Einsetzen der AirPods entspricht bei den meisten aktuellen Modellen weitgehend dem Originalton von Apple.
 
 ## Tipp- und Force-Touch-Steuerung
 
 Die Tipp- oder Force-Touch-Steuerung der Klone funktioniert, erfordert aber möglicherweise etwas Eingewöhnung. Bei Klonen der 2. Generation ist ein fester Tipp erforderlich, keine sanfte Berührung wie bei den Original-AirPods. Bei Pro-Modellen genügt nur ein leichter Druck oder Zusammendrücken, keine Berührung.
-:::info **Wissenswertes**
+::: info **Wissenswertes**
 AirPods-Pro-2-Klone (V5.3TB und neuer) verfügen über eine Kraftsensor-Konfiguration, die den Originalen sehr nahekommt und so dasselbe Erlebnis zu deutlich geringeren Kosten bietet.
 :::
 ## Mikrofonqualität

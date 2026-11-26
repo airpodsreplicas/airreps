@@ -18,7 +18,7 @@ Le boîtier et les écouteurs ont généralement un bon poids. La plupart des mo
 ## Charnière
 
 Certains modèles utilisent une charnière en plastique avec une peinture métallique, tandis que d'autres emploient une vraie charnière métallique. Certaines charnières en plastique peuvent sembler bon marché, grincer, bouger et manquer de solidité. Bien qu'utilisables, elles sont remarquables comparées aux AirPods originaux. Les charnières métalliques donnent une impression nettement supérieure.
-Il est important de savoir que toutes les répliques vendues chez AirReps ont des charnières métalliques. Certaines unités (telles que Huilian et HR<b>+</b>) utilisent une copie quasi‑parfaite de la charnière Apple. À l'heure actuelle, HR+ présente quelques problèmes d'alignement, donc la différence de prix peut ne pas être justifiée. Voir la [AirPods Pro 2 version comparison](/fr/version-info/airpods-pro-2) pour des différences détaillées entre les builds TB, HR et Huilian.
+Il est important de savoir que toutes les répliques vendues chez AirReps ont des charnières métalliques. Certaines unités (telles que Huilian et HR+) utilisent une copie quasi‑parfaite de la charnière Apple. À l'heure actuelle, HR+ présente quelques problèmes d'alignement, donc la différence de prix peut ne pas être justifiée. Voir la [AirPods Pro 2 version comparison](/fr/version-info/airpods-pro-2) pour des différences détaillées entre les builds TB, HR et Huilian.
 
 ## Texte
 
@@ -43,16 +43,16 @@ Les modèles plus récents incluent un diffuseur LED pour atténuer la LED.
 
 Pour les répliques AirPods Pro, évitez d'enlever les embouts de force car cela pourrait endommager les écouteurs. Pour retirer les embouts, tordez-les et tirez-les. Lors de la manipulation des écouteurs, tenez-les par l'embout et non par la tige pour éviter tout dommage. Vous pouvez utiliser la commande /eartip sur le serveur Discord pour en savoir plus.
 
-:::warning
+::: warning
 Pour les répliques AirPods Pro, manipulez les écouteurs avec précaution pour éviter les dommages. Ne retirez pas les embouts de force.
 :::
 
 ## FAQ
 
-:::details Les faux AirPods peuvent-ils être chargés dans un boîtier réel ou l'inverse ?
+::: details Les faux AirPods peuvent-ils être chargés dans un boîtier réel ou l'inverse ?
 Non, les faux AirPods ne doivent pas être chargés dans un boîtier réel. Le faire peut provoquer la casse des faux AirPods peu après. Il n'est également pas recommandé de charger des AirPods réels dans un boîtier faux.
 :::
 
-:::details Les boîtiers AirPods s'adaptent-ils aux clones ?
+::: details Les boîtiers AirPods s'adaptent-ils aux clones ?
 Toutes les housses de protection en silicone souple s'adapteront, mais les coques rigides en plastique peuvent ne pas convenir à la plupart des clones (principalement les modèles plus anciens car ils sont légèrement plus grands que les originaux). Certaines coques rigides peuvent convenir, mais peuvent ne pas s'enlever ou affecter le bouton s'il dépasse légèrement.
 :::

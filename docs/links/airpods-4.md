@@ -12,12 +12,14 @@ AirPods 4 replicas bring an open-ear design, with ANC on the higher versions. Se
 <table>
   <tr>
     <th>Version</th>
+    <th>Price</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
-   <tr>
-    <td><span class="version-badge">V3 TB</span></td>
+  <tr>
+    <td><span class="version-badge">V3 TB</span><br>Best AirPods 4</td>
+    <td style="white-space: nowrap;">$52–53</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Website</a>
@@ -41,6 +43,7 @@ AirPods 4 replicas bring an open-ear design, with ANC on the higher versions. Se
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>
+    <td style="white-space: nowrap;">$29–30</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Website</a>
@@ -62,8 +65,9 @@ AirPods 4 replicas bring an open-ear design, with ANC on the higher versions. Se
       </div>
     </td>
   </tr>
-    <tr>
-    <td><span class="version-badge">V2 Huilian</span></td>
+  <tr>
+    <td><span class="version-badge">V2 Huilian</span><br>iCloud pick</td>
+    <td style="white-space: nowrap;">$39–42</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Website</a>

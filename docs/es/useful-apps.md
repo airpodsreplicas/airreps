@@ -16,9 +16,12 @@ A continuación encontrarás aplicaciones que puedes descargar para ayudarte, ju
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Descargar el APK de CloudCC (Android)" target="_blank" rel="noreferrer">Descargar APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Descarga no disponible |
 
-:::warning **CloudCC** está obsoleta desde que TigerBuilder integró la funcionalidad OTA en FlyCC. Solo debe usarse como solución alternativa si tienes problemas con los permisos de almacenamiento.
+::: warning CloudCC está obsoleta
+**CloudCC** está obsoleta desde que TigerBuilder integró la funcionalidad OTA en FlyCC. Solo debe usarse como solución alternativa si tienes problemas con los permisos de almacenamiento.
 :::
-:::tip Airoha156x solo debe usarse para modificar los ajustes del ecualizador en AirPods Max V2 (Airoha 1561M) y V3 (Airoha 1562AE).
+
+::: tip Airoha156x (EQ para AirPods Max)
+Airoha156x solo debe usarse para modificar los ajustes del ecualizador en AirPods Max V2 (Airoha 1561M) y V3 (Airoha 1562AE).
 :::
 
 ## **BES**

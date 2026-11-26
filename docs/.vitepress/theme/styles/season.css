@@ -9,6 +9,13 @@
   --season-spider: #2c2538;
   --season-eye: #fff;
   --season-hat: url("/season/witch-hat.svg");
+  --season-hat-left: -3px;
+  --season-hat-rise: 13px;
+  --season-hat-ratio: 32 / 28;
+  --season-hat-tilt: -12deg;
+  --season-hat-width: 24px;
+  --season-peek-table: url("/season/ghost-peek.svg");
+  --season-peek-box: url("/season/pumpkin.svg");
 }
 
 :root.dark[data-season="halloween"] {
@@ -22,6 +29,13 @@
   --season-ink: #d0362c;
   --season-snow: #a3bcd3;
   --season-hat: url("/season/santa-hat.svg");
+  --season-hat-left: -4px;
+  --season-hat-rise: 13px;
+  --season-hat-ratio: 32 / 26;
+  --season-hat-tilt: -14deg;
+  --season-hat-width: 24px;
+  --season-peek-table: url("/season/elf-peek.svg");
+  --season-peek-box: url("/season/santa-peek.svg");
 }
 
 :root.dark[data-season="christmas"] {
@@ -33,6 +47,13 @@
   --season-a: #e8b53a;
   --season-ink: #a86d0b;
   --season-hat: url("/season/party-hat.svg");
+  --season-hat-left: 7px;
+  --season-hat-rise: 14px;
+  --season-hat-ratio: 24 / 30;
+  --season-hat-tilt: 16deg;
+  --season-hat-width: 14px;
+  --season-peek-table: url("/season/popper.svg");
+  --season-peek-box: url("/season/popper.svg");
 }
 
 :root.dark[data-season="newyear"] {
@@ -42,6 +63,8 @@
 :root[data-season="lunarnewyear"] {
   --season-a: #e0362f;
   --season-ink: #cf2b24;
+  --season-peek-table: url("/season/hongbao.svg");
+  --season-peek-box: url("/season/hongbao.svg");
 }
 
 :root.dark[data-season="lunarnewyear"] {
@@ -52,6 +75,8 @@
   --season-a: #e5486f;
   --season-ink: #d13362;
   --vp-home-hero-name-background: linear-gradient(120deg, #ff7aa2, #e11d48);
+  --season-peek-table: url("/season/hearts.svg");
+  --season-peek-box: url("/season/hearts.svg");
 }
 
 :root.dark[data-season="valentines"] {
@@ -62,6 +87,14 @@
   --season-a: #a78bfa;
   --season-ink: #7b5bd6;
   --season-hat: url("/season/bunny-ears.svg");
+  --season-hat-left: -4px;
+  --season-hat-rise: 14px;
+  --season-hat-layer: -1;
+  --season-hat-ratio: 32 / 28;
+  --season-hat-tilt: 0deg;
+  --season-hat-width: 32px;
+  --season-peek-table: url("/season/bunny-peek.svg");
+  --season-peek-box: url("/season/eggs.svg");
 }
 
 :root.dark[data-season="easter"] {
@@ -101,72 +134,9 @@
   transform: rotate(var(--season-hat-tilt));
 }
 
-:root[data-season="halloween"] {
-  --season-hat-left: -3px;
-  --season-hat-rise: 13px;
-  --season-hat-ratio: 32 / 28;
-  --season-hat-tilt: -12deg;
-  --season-hat-width: 24px;
-}
-
-:root[data-season="christmas"] {
-  --season-hat-left: -4px;
-  --season-hat-rise: 13px;
-  --season-hat-ratio: 32 / 26;
-  --season-hat-tilt: -14deg;
-  --season-hat-width: 24px;
-}
-
-:root[data-season="newyear"] {
-  --season-hat-left: 7px;
-  --season-hat-rise: 14px;
-  --season-hat-ratio: 24 / 30;
-  --season-hat-tilt: 16deg;
-  --season-hat-width: 14px;
-}
-
-:root[data-season="easter"] {
-  --season-hat-left: -4px;
-  --season-hat-rise: 14px;
-  --season-hat-layer: -1;
-  --season-hat-ratio: 32 / 28;
-  --season-hat-tilt: 0deg;
-  --season-hat-width: 32px;
-}
-
 /* Guide pages: a character peeks over the first table and an object sits on
-   the first tip or info box. Both are drawn standing on the top edge. */
-:root[data-season="halloween"] {
-  --season-peek-table: url("/season/ghost-peek.svg");
-  --season-peek-box: url("/season/pumpkin.svg");
-}
-
-:root[data-season="christmas"] {
-  --season-peek-table: url("/season/elf-peek.svg");
-  --season-peek-box: url("/season/santa-peek.svg");
-}
-
-:root[data-season="newyear"] {
-  --season-peek-table: url("/season/popper.svg");
-  --season-peek-box: url("/season/popper.svg");
-}
-
-:root[data-season="lunarnewyear"] {
-  --season-peek-table: url("/season/hongbao.svg");
-  --season-peek-box: url("/season/hongbao.svg");
-}
-
-:root[data-season="valentines"] {
-  --season-peek-table: url("/season/hearts.svg");
-  --season-peek-box: url("/season/hearts.svg");
-}
-
-:root[data-season="easter"] {
-  --season-peek-table: url("/season/bunny-peek.svg");
-  --season-peek-box: url("/season/eggs.svg");
-}
-
-/* Tables scroll sideways, which clips anything drawn outside them, so the
+   the first tip or info box. Both are drawn standing on the top edge.
+   Tables scroll sideways, which clips anything drawn outside them, so the
    character lives in extra top padding instead. */
 :root[data-season] .vp-doc > div > table:first-of-type {
   padding-top: 33px;
@@ -185,7 +155,9 @@
 :root[data-season]
   .vp-doc
   > div
-  > .custom-block:is(.tip, .info):not(.custom-block:is(.tip, .info) ~ *)::before {
+  > .custom-block:is(.tip, .info):not(
+    .custom-block:is(.tip, .info) ~ *
+  )::before {
   position: absolute;
   right: 16px;
   bottom: calc(100% - 1px);

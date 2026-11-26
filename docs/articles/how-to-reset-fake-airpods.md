@@ -1,6 +1,6 @@
 ---
-title: "How to Reset Fake AirPods (Replicas): Soft Reset vs Hard Reset"
-description: "A safe, step-by-step guide to resetting fake AirPods — the soft reset for pairing glitches, the deeper hard reset, and when a reset is the wrong fix entirely."
+title: "How to Reset Fake AirPods: Soft vs Hard Reset"
+description: "Step-by-step guide to resetting fake AirPods: soft reset for pairing glitches, full-drain hard reset, 15-second case button reset, and when to stop."
 category: "Troubleshooting"
 order: 9
 ---
@@ -55,7 +55,7 @@ A reset only helps with pairing and connection glitches. It won't help in these 
 
 - **A Jieli-tier clone that no app detects.** If none of the community [firmware apps](/useful-apps) will connect to your buds, resetting changes nothing — that's a low-end chipset limitation, not a glitch.
 - **A bug with a known specific fix.** macOS iCloud pairing issues and the stuck volume slider have their own procedures. Resetting before trying those just wastes time; the [common issues guide](/troubleshooting/other-common-bugs) links to both.
-- **A hardware fault.** If a pod is genuinely dead, no number of resets will revive it. At that point it's a conversation with your [seller](/links/info).
+- **A hardware fault.** If a pod is genuinely dead, no number of resets will revive it. At that point it's a conversation with your [seller](/links/info) — or take our [1-minute quiz](/quiz) if you're picking a replacement.
 
 <CommunityCta variant="unit" />
 

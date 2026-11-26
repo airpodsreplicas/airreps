@@ -1,6 +1,6 @@
 ---
 title: "Buy AirPods Max Replicas: Seller Links"
-description: Verified AirPods Max replica versions and trusted seller links.
+description: "Verified AirPods Max replica links and live prices for V3 Metal ($126–127), V3P ($85–94), V2.5, and V2 Metal from Earhive, HiCity, and Jenny."
 ---
 
 # Buy AirPods Max Replicas
@@ -12,12 +12,14 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
 <table>
   <tr>
     <th>Version</th>
+    <th>Price</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V3 (Metal)</span><br>Sold as Max V3 TB</td>
+    <td><span class="version-badge">V3 (Metal)</span><br>Best Max · Sold as Max V3 TB</td>
+    <td style="white-space: nowrap;">$126–127</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Website</a>
@@ -41,6 +43,7 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
   </tr>
   <tr>
     <td><span class="version-badge">V3P</span></td>
+    <td style="white-space: nowrap;">$85–94</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Website</a>
@@ -59,6 +62,7 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
   </tr>
   <tr>
     <td><span class="version-badge">V2.5</span></td>
+    <td style="white-space: nowrap;">$124</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Website</a>
@@ -71,6 +75,7 @@ AirPods Max replicas are the over-ear option, ranging from budget plastic builds
   </tr>
   <tr>
     <td><span class="version-badge">V2 Metal</span></td>
+    <td style="white-space: nowrap;">$110–112</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Website</a>

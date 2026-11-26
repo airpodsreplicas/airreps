@@ -8,6 +8,10 @@ Sitio web: https://airpodsreplicas.com/es/
 Discord: https://airreps.link/discord
 Reddit: https://airreps.link/reddit (r/AirReps)
 
+Referencia completa en inglés para LLMs: https://airpodsreplicas.com/llms-full.txt
+
+Last updated: 2026-11-26
+
 ## Guía
 
 - [Visión General de la Guía Definitiva](https://airpodsreplicas.com/es/introduction/overview): Empieza aquí. Explica qué son las réplicas de AirPods, por qué la gente las compra y qué esperar.
@@ -24,7 +28,7 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 ## Comparaciones de Versiones
 
 - [Información General de Versiones](https://airpodsreplicas.com/es/version-info/general): Resumen de todas las versiones, chipsets y cómo identificar la tuya.
-- [AirPods Pro 3](https://airpodsreplicas.com/es/version-info/pro#airpods-pro-3): Modelo más reciente con Live Translation e iCloud Connect.
+- [AirPods Pro 3](https://airpodsreplicas.com/es/version-info/pro#airpods-pro-3): V7 Huilian (recomendación principal, iCloud Connect, Live Translation, sensor cardíaco, gestos), V7 TB (Airoha 1571AM, mejor ANC, 3 dispositivos, FlyCC), SE (mejor relación calidad-precio por debajo de $50, gran ANC ~$48), V6 y V5.5.
 - [AirPods Pro 2](https://airpodsreplicas.com/es/version-info/pro#airpods-pro-2): Comparativa de versiones y chipsets. Para una recomendación, haz el [quiz](https://airpodsreplicas.com/es/quiz).
 - [AirPods Pro](https://airpodsreplicas.com/es/version-info/pro#airpods-pro): Réplicas Pro de primera generación.
 - [AirPods 4](https://airpodsreplicas.com/es/version-info/airpods#airpods-4): Diseño open-ear con ANC.
@@ -39,6 +43,31 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 - [Enlaces de Compra](https://airpodsreplicas.com/es/links/info): Enlaces directos a vendedores verificados para cada modelo.
 - [Control de Calidad y Verificación](https://airpodsreplicas.com/es/ordering/qc-lc): Cómo verificar tu producto tras la compra.
 
+## Artículos
+
+- [Cómo saber si los AirPods son falsos: 10 comprobaciones que realmente funcionan](https://airpodsreplicas.com/es/articles/how-to-spot-fake-airpods): Cómo saber si los AirPods son falsos: números de serie, firmware, embalaje y las comprobaciones que realmente detectan clones.
+- [Las mejores réplicas de AirPods por menos de $50 (2026)](https://airpodsreplicas.com/es/articles/best-airpods-replicas-under-50): Las mejores réplicas de AirPods por menos de $50: opciones económicas de AirPods 2 y 4, Pro 3 SE y V5.5, desventajas y clones que conviene evitar.
+- [AirPods réplica frente a AirPods originales: una comparación sincera](https://airpodsreplicas.com/es/articles/airpods-replicas-vs-real): AirPods réplica frente a AirPods originales, comparados con sinceridad: qué funciones tienen los clones, qué les falta y cuáles comprar.
+- [¿Funcionan las réplicas de AirPods con Android?](https://airpodsreplicas.com/es/articles/airpods-replicas-on-android): Sí: así se comportan las réplicas de AirPods en Android: emparejamiento, qué funciones funcionan, por qué la mayoría de las apps de firmware son solo para Android y qué debes comprobar antes de comprar.
+- [¿Son seguras las réplicas de AirPods? La respuesta sincera](https://airpodsreplicas.com/es/articles/are-airpods-replicas-safe): ¿Es seguro comprar y usar réplicas de AirPods? Separamos el riesgo de estafa del riesgo del hardware y explicamos qué comprueba realmente la comunidad antes de hacer un pedido.
+- [¿La gente puede notar que tus AirPods son falsos?](https://airpodsreplicas.com/es/articles/can-people-tell-airpods-are-fake): ¿Te preocupa que alguien se dé cuenta de que tus AirPods son una réplica? Esto es lo que realmente delata a las imitaciones al examinarlas de cerca, lo que nadie nota en el día a día y cómo se comparan las mejores versiones.
+- [Aduanas e IVA de las réplicas de AirPods: ¿Pasará tu paquete?](https://airpodsreplicas.com/es/articles/airpods-replica-customs-and-vat): Qué ocurre realmente con las réplicas de AirPods en la aduana: el riesgo real de incautación, el IVA de la UE gestionado por adelantado por vendedores de confianza y por qué el seguimiento se queda de repente sin actualizaciones.
+- [¿Los AirPods falsos no se conectan? Cómo enlazarlos y solucionarlo](https://airpodsreplicas.com/es/articles/fake-airpods-wont-connect): ¿Los AirPods falsos no se enlazan o no aparecen? Cárgalos, olvídalos y vuelve a enlazarlos, comprueba la ventana emergente de iOS, identifica el chip y averigua cuándo el problema está en la unidad y debes ponerte en contacto con el vendedor.
+- [Cómo restablecer unos AirPods falsos (réplicas): restablecimiento parcial frente a restablecimiento completo](https://airpodsreplicas.com/es/articles/how-to-reset-fake-airpods): Una guía segura paso a paso para restablecer unos AirPods falsos: el restablecimiento parcial para problemas de emparejamiento, el restablecimiento completo más profundo y cuándo restablecerlos no es la solución adecuada.
+- [AirPods falsos frente a auriculares económicos: una comparación honesta](https://airpodsreplicas.com/es/articles/fake-airpods-vs-budget-earbuds): Réplicas de AirPods frente a marcas económicas como Anker Soundcore, EarFun y JLab: qué ofrece realmente cada opción, cuándo cuestan lo mismo y quién debería comprar cada una.
+- [¿Funcionan los AirPods falsos con los iPhone nuevos?](https://airpodsreplicas.com/es/articles/do-fake-airpods-work-with-new-iphone): ¿Funcionan los AirPods de imitación con un iPhone nuevo? Sí: la ventana emergente de iOS sigue funcionando, y lo que realmente varía depende de la versión que compres, no del teléfono. Esto es lo que debes comprobar.
+- [Imitación de AirPods Max: qué obtienes y a qué renuncias](https://airpodsreplicas.com/es/articles/airpods-max-dupe): Una mirada honesta a la imitación de AirPods Max: qué copia la réplica circumaural, qué no puede ofrecer, cuál es su rango de precios habitual y si vale la pena frente a las réplicas intraaurales.
+- [Guía de FlyCC APK: Cómo configurar y ajustar réplicas de AirPods con Airoha](https://airpodsreplicas.com/es/articles/flycc-app-guide): Cómo descargar, instalar y usar FlyCC de forma segura: ajuste de ecualización personalizado, asignación de controles táctiles, actualizaciones de firmware y solución de problemas de conexión.
+- [Réplicas de AirPods Pro 2 vs AirPods Pro 3: ¿cuáles deberías comprar?](https://airpodsreplicas.com/es/articles/airpods-pro-2-vs-airpods-pro-3): Réplicas de AirPods Pro 2 (V5.3 TB y V5.4 Huilian) vs AirPods Pro 3 (V7 y SE): una comparación entre los Pro 2, ya consolidados, y las funciones más recientes de los Pro 3, los sensores de frecuencia cardíaca y nuestras recomendaciones.
+- [AirPods Max V3 vs V3P: ¿Vale la pena pagar $30 más por la construcción metálica?](https://airpodsreplicas.com/es/articles/airpods-max-v3-vs-v3p): Comparativa de réplicas de AirPods Max V3 vs V3P: copas de aluminio mecanizadas por CNC frente a construcción de plástico, rendimiento de la cancelación activa de ruido híbrida, duración de la batería y si vale la pena la actualización.
+- [Cómo actualizar el firmware de AirPods falsos: guía paso a paso](https://airpodsreplicas.com/es/articles/how-to-update-fake-airpods-firmware): Cómo actualizar de forma segura el firmware de réplicas de AirPods usando FlyCC, CloudCC y Starfun: reglas de carga segura, cómo evitar que queden inservibles y cuándo dejar el firmware como está.
+- [¿Funcionan los AirPods falsos con Mac? Configuración, control deslizante de volumen y soluciones](https://airpodsreplicas.com/es/articles/fake-airpods-on-mac): Cómo conectar réplicas de AirPods a macOS: solucionar el error del control deslizante de volumen binario, el comportamiento del cambio de iCloud y qué chipset funciona mejor en MacBooks.
+- [AirPods Pro 3 V7 Huilian vs V7 TB: ¿Qué réplica V7 comprar?](https://airpodsreplicas.com/es/articles/airpods-pro-3-v7-huilian-vs-v7-tb): AirPods Pro 3 V7 Huilian vs V7 TigerBuilder (TB): mismo precio, cancelación de ruido y sensores, pero iCloud Connect, traducción en vivo y StarFun en uno, multipunto para 3 dispositivos y FlyCC en el otro.
+- [¿Funcionan los AirPods falsos con Buscar?](https://airpodsreplicas.com/es/articles/do-fake-airpods-work-with-find-my): Ninguna réplica de AirPods funciona con la red Buscar de Apple, sin importar el precio o la versión, y una actualización de firmware no puede añadir esa función. Qué hacen las réplicas en su lugar, cómo Buscar deja al descubierto una falsificación y qué pensar de las afirmaciones de los vendedores.
+- [Guía de StarFun APK: ecualización y firmware para réplicas de AirPods Huilian](https://airpodsreplicas.com/es/articles/starfun-app-guide): Dónde conseguir StarFun para Android e iOS, qué réplicas de AirPods Huilian lo usan, cómo ajustar la ecualización y actualizar el firmware de forma segura, y qué comprobar cuando la aplicación no encuentra tus auriculares.
+- [Best AirPods Replicas (2026) (EN)](https://airpodsreplicas.com/articles/best-airpods-replicas): All-model 2026 buying guide (Pro 3 V7 Huilian, V7 TB, SE, Pro 2 V5.3 TB, AirPods 4 V3 TB, Max V3 TB).
+- [AirPods 4 Replicas: V3 TB vs V2 Huilian vs V2 TB (EN)](https://airpodsreplicas.com/articles/airpods-4-v3-vs-v2): Side-by-side comparison of all stocked AirPods 4 replicas.
+
 ## Solución de Problemas
 
 - [Errores Comunes](https://airpodsreplicas.com/es/troubleshooting/other-common-bugs): Soluciones a los problemas más frecuentes.
@@ -47,7 +76,8 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 
 ## Herramientas y Comunidad
 
-- [Apps Útiles](https://airpodsreplicas.com/es/useful-apps): Apps esenciales de actualización de firmware para chipsets Airoha, TigerBuilder, BES, HR y Huilian.
+- [Apps Útiles](https://airpodsreplicas.com/es/useful-apps): Descarga FlyCC (Android e iOS, TigerBuilder/Airoha), StarFun (Android e iOS, Huilian), CloudCC, BullSuper, G&Link, HBluetooth y KKX.
 - [Quiz](https://airpodsreplicas.com/es/quiz): Quiz interactivo para encontrar la mejor réplica según tus necesidades y presupuesto.
+- [Comunidad](https://airpodsreplicas.com/es/community): Para qué sirven Discord (73k+ miembros) y r/AirReps (73k+ miembros), canales principales, asistente de IA y reglas de seguridad.
 - [Discord](https://airreps.link/discord): Únete a la comunidad para ayuda en vivo.
 - [Reddit](https://airreps.link/reddit): Subreddit r/AirReps.

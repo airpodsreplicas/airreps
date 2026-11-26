@@ -4,10 +4,10 @@ description: 'AirPods QC & LC''de uzmanlaşın. Tasarım kusurlarını tespit ed
 ---
 # QC ve LC
 
-Welcome! If you're here, you're likely looking to quality check your replica AirPods or considering purchasing authentic ones. This section will guide you on discerning between retail and replica AirPods, from simple to advanced methods. If a deal seems too good to be true, it probably is. For more on what to expect from replica build quality, see the [yapı kalitesi](/tr/introduction/build-quality) guide.
+Hoş geldiniz! Buradaysanız muhtemelen replika AirPods'larınızın kalite kontrolünü (QC) yapmak ya da orijinal olduğu söylenen bir ürünü doğrulamak (LC) istiyorsunuz. Bu bölüm, basit yöntemlerden ileri düzey kontrollere kadar orijinal ve replika AirPods'ları nasıl ayırt edebileceğinizi gösterir. Bir fırsat gerçek olamayacak kadar iyi görünüyorsa muhtemelen öyledir. Replika yapı kalitesinden neler bekleyebileceğinizi öğrenmek için [yapı kalitesi](/tr/introduction/build-quality) rehberine göz atın.
 
 ::: tip En iyi orijinallik güvencesi
-This section was once more detailed, but as replicas have become more sophisticated, it's increasingly difficult to distinguish between genuine and fake AirPods. Our best advice for ensuring authenticity is to purchase your AirPods from a reputable seller.
+Bu bölüm eskiden daha ayrıntılıydı, ancak replikalar çok daha gelişmiş hale geldiği için orijinal ve sahte AirPods'ları ayırt etmek giderek zorlaşıyor. Orijinalliği garanti etmenin en iyi yolu, AirPods'larınızı güvenilir bir satıcıdan satın almaktır.
 :::
 
 ## Tasarım Hatalarını Kontrol Etme
@@ -48,4 +48,4 @@ This section was once more detailed, but as replicas have become more sophistica
 |                    | Mexico                 | IFT (Instituto Federal de Telecomunicaciones)               |
 | **Russia and CIS** | Russia, CIS countries  | EAC (Eurasian Conformity)                                   |
 
-For additional help, join the [AirReps Discord](https://airreps.link/discord) to get advice and support from the AirReps community.
+Daha fazla yardım ve topluluk tavsiyesi için [AirReps Discord](https://airreps.link/discord) sunucusuna katılabilirsiniz.

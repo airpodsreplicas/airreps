@@ -33,8 +33,7 @@ Main dalı korumalı bir daldır. Bu nedenle doğrudan düzenleme yapılamaz. De
 
 Geliştirme ortamını kurmak için aşağıdaki iki seçenekten birini seç:
 
-### Seçenek 1 (Önerilen)
-
+### Seçenek 1 (Önerilen) {#option-1-recommended}
 Optimal bir geliştirme ortamı kurmak için:
 
 1. [Bun'ı kur](https://bun.sh/). Bu proje paket yöneticisi ve çalışma ortamı olarak Bun kullanır.
@@ -71,7 +70,7 @@ VitePress'in standart markdown'da bulunmayan ek özellikler sunduğunu unutma. B
 
 Değişikliklerini yaptıktan sonra incelemeye göndermek için aşağıdaki adımları izle:
 
-1. [Geliştirme Ortamını Kurma](#secenek-1-onerilen) bölümünde Seçenek 1'i seçtiysen, sayfaların doğru şekilde derleneceğinden emin olmak için şu komutu çalıştır:
+1. [Geliştirme Ortamını Kurma](#option-1-recommended) bölümünde Seçenek 1'i seçtiysen, sayfaların doğru şekilde derleneceğinden emin olmak için şu komutu çalıştır:
 
 ```shell
 bun run docs:build

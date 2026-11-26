@@ -1,5 +1,6 @@
 ---
-description: KakoBuy guide for AirPods replicas — step-by-step ordering, shipping cost, QC photos, payment without KYC, and how KakoBuy compares to Superbuy and Sugargoo.
+title: "KakoBuy Guide: Buy AirPods Replicas Safely"
+description: "Step-by-step KakoBuy guide for AirPods Pro 3, Pro 2, AirPods 4 & Max replicas: Weidian links, no-KYC cards/PayPal, QC photos, and shipping costs."
 ---
 
 # KakoBuy Guide: How to Buy AirPods Replicas

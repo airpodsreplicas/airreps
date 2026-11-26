@@ -19,7 +19,7 @@ Das Case und die Pods haben im Allgemeinen ein gutes Gewicht. Die meisten Modell
 
 Einige Modelle verwenden ein Kunststoffscharnier mit Metalllack, während andere ein echtes Metallscharnier haben. Manche Kunststoffscharniere können billig wirken, quietschen, sich bewegen und an Solidität missen. Sie sind zwar nutzbar, fallen aber im Vergleich zu den originalen AirPods auf. Metallscharniere fühlen sich deutlich überlegen an.
 
-Es ist wichtig zu wissen, dass alle in AirReps verkauften Replikate Metallscharniere haben. Einige Einheiten (wie Huilian und HR<b>+</b>) verwenden eine nahezu perfekte Kopie des Apple-Scharniers. Stand jetzt hat HR+ jedoch einige Ausrichtungsprobleme, sodass der Preisunterschied möglicherweise nicht gerechtfertigt ist. Siehe den [Vergleich der AirPods Pro 2-Versionen](/de/version-info/airpods-pro-2) für detaillierte Unterschiede zwischen TB-, HR- und Huilian-Ausführungen.
+Es ist wichtig zu wissen, dass alle in AirReps verkauften Replikate Metallscharniere haben. Einige Einheiten (wie Huilian und HR+) verwenden eine nahezu perfekte Kopie des Apple-Scharniers. Stand jetzt hat HR+ jedoch einige Ausrichtungsprobleme, sodass der Preisunterschied möglicherweise nicht gerechtfertigt ist. Siehe den [Vergleich der AirPods Pro 2-Versionen](/de/version-info/airpods-pro-2) für detaillierte Unterschiede zwischen TB-, HR- und Huilian-Ausführungen.
 
 ## Beschriftung
 
@@ -45,16 +45,16 @@ Neuere Modelle enthalten einen LED-Diffusor, um die LED abzudämpfen.
 
 Bei AirPods Pro-Replikaten solltest du die Ohrstöpsel nicht gewaltsam entfernen, da dies die Pods beschädigen kann. Zum Entfernen die Ohrstöpsel drehen und abziehen. Beim Hantieren an den Pods halte sie am Stöpsel und nicht am Stiel, um Schäden zu vermeiden. Du kannst den /eartip-Befehl im Discord-Server verwenden, um mehr zu erfahren.
 
-:::warning
+::: warning
 Bei AirPods Pro-Replikaten behandle die Pods vorsichtig, um Schäden zu vermeiden. Entferne die Ohrstöpsel nicht gewaltsam.
 :::
 
 ## FAQ
 
-:::details Können gefälschte AirPods in einem echten Case geladen werden oder umgekehrt?
+::: details Können gefälschte AirPods in einem echten Case geladen werden oder umgekehrt?
 Nein, gefälschte AirPods sollten nicht in einem echten Case geladen werden. Das kann dazu führen, dass die gefälschten AirPods kurz darauf kaputtgehen. Ebenso wird nicht empfohlen, echte AirPods in einem gefälschten Case zu laden.
 :::
 
-:::details Passen AirPods-Cases auf Klone?
+::: details Passen AirPods-Cases auf Klone?
 Alle weichen Silikon-Schutzhüllen passen, aber harte Kunststoffhüllen passen möglicherweise nicht bei den meisten Klonen (vor allem ältere Modelle, da sie etwas größer als die Originale sind). Manche harten Hüllen können passen, lassen sich dann aber eventuell nicht abnehmen oder beeinträchtigen die Taste, falls diese leicht hervorsteht.
 :::

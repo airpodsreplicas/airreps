@@ -29,7 +29,7 @@ Follow these steps to perform a hard reset on your AirPods replicas:
 ## **Opening AirPods Replicas**
 You may receive mis-marketed AirPods clones when ordering on sites like AliExpress from unverified sellers. You can use the app for the chipset to verify that you received the correct chipset. However, simply showing the app is often not enough proof. You may need to open the AirPods and take a picture of the chipset as proof. Here's how you can do this, without damaging the AirPods:
 
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EfDYkBy4vjQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/EfDYkBy4vjQ" title="How to open AirPods replicas without damaging them" allowfullscreen></iframe>
 
 ## **Audio/Video Pausing Frequently with AirPods Replicas**
 Frequent pausing of audio or video while using AirPods replicas is a common issue, often caused by the [in-ear detection sensors](/introduction/features#in-ear-sensors) (on Pro models). This issue can also occur if the AirPods do not fit securely in your ear. To fix this issue, you can either choose other ear tips (on Pro models) or turn off in-ear detection through settings.
@@ -37,7 +37,7 @@ Frequent pausing of audio or video while using AirPods replicas is a common issu
 ## **AirPods Replicas Remain Connected After Closing the Charging Case**
 Some users of AirPods replicas may experience an issue where the AirPods remain connected to their device even after closing the charging case. This is typically caused by a malfunction with the magnets and hall sensor inside the case, which are responsible for detecting the position of the AirPods. To fix this issue, follow the steps outlined in the following YouTube tutorial:
 
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kv5Ixw_YY2E" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/kv5Ixw_YY2E" title="How to fix AirPods replicas staying connected after closing the case" allowfullscreen></iframe>
 
 ## **Bad Sound Quality or Bass Issues with AirPods Replicas on iOS**
 Some users of AirPods replicas may experience issues with the sound quality or bass on iOS devices. This is typically caused by the "Headphone Accommodations" feature, which is enabled by default on iOS. To fix this issue, go to Settings > Accessibility > Audio / Visual > Headphone Accommodations and turn it off.
@@ -59,5 +59,9 @@ To troubleshoot connectivity issues with AirPods, try the following steps:
 
 ## **None of these fixed it?**
 It is possible that your AirPods arrived faulty or are now damaged beyond repair. You can try performing soft and hard resets, such as leaving the device uncharged for a period of time or playing music rather than forgetting it, in an attempt to fix the issue. If none of these methods work, your best option is to contact the [seller](/introduction/sellers) and request a refund or replacement. Also check our [iCloud compatibility fix](/troubleshooting/AirReps-Incompatibility-with-iCloud) and [macOS volume fix](/troubleshooting/macOS-volume-slider-fixup) if those apply to your situation.
+
+::: tip Replacing an older or unverified pair?
+Browse our [trusted sellers](/links/info) for current versions with active firmware support, or take the [1-minute quiz](/quiz) to pick a replacement.
+:::
 
 <CommunityCta variant="unit" />

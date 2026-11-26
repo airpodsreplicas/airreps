@@ -12,25 +12,49 @@
       "src": "/icon-192.webp?v=glass-20260910",
       "sizes": "192x192",
       "type": "image/webp",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.webp?v=glass-20260910",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "maskable"
     },
     {
       "src": "/icon-512.webp?v=glass-20260910",
       "sizes": "512x512",
       "type": "image/webp",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.webp?v=glass-20260910",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "maskable"
     },
     {
       "src": "/icon-192.png?v=glass-20260910",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png?v=glass-20260910",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
       "src": "/icon-512.png?v=glass-20260910",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png?v=glass-20260910",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
-title: "Fake AirPods Won't Connect? How to Pair and Fix Them"
-description: "Fake AirPods not pairing or not showing up? Charge, forget and re-pair, check the iOS popup, identify the chip, and know when it's the unit and you should contact the seller."
+title: "Fake AirPods Won't Connect? Pair & Fix Guide"
+description: "Fake AirPods not pairing or not showing up? How to pair with the case button, soft & hard reset, identify your chip, and fix iPhone, Android or Mac."
 category: "Troubleshooting"
 order: 8
 ---
@@ -16,6 +16,15 @@ Replicas often need a reset or two out of the box. Don't assume you've been sent
 :::
 
 <CommunityCta variant="stuck" />
+
+## How to Pair Fake AirPods (Case Button, iPhone & Android)
+
+Before troubleshooting deeper issues, make sure you are triggering pairing mode properly:
+
+1. Put both earbuds in the charging case and open the lid.
+2. **With the case button:** Hold the setup button on the back of the case for **3–5 seconds** until the status LED flashes white (on Pro 3 cases without a rear button, double-tap the front of the case firmly until the white light pulses).
+3. **On iPhone / iPad:** Hold the open case near your unlocked phone and tap **Connect** on the iOS popup (or pair manually under **Settings → Bluetooth**).
+4. **On Android:** Open **Settings → Bluetooth → Pair new device** and select the AirPods from the list (no popup appears on Android — that's normal).
 
 ## 1. Charge the case first
 
@@ -47,7 +56,7 @@ Some "not connecting" reports are just platform differences. On **Android**, rep
 
 ## 5. Identify the chip with the community apps
 
-If pairing is inconsistent, it helps to know what you're holding. The community maintains free [firmware apps](/useful-apps) for each chipset — FlyCC, CloudCC, StarFun, BullSuper, KKX and others — and installing them is the standard way to identify your chip. Try them one at a time and see which connects.
+If pairing is inconsistent, it helps to know what you're holding. The community maintains free [companion apps](/useful-apps) for each chipset — **FlyCC** (TigerBuilder/Airoha), **StarFun** (Huilian), **BullSuper** / **G&Link** (HR), and legacy tools like CloudCC (workaround only) and KKX — and installing them is the standard way to identify your chip. Try them one at a time and see which connects.
 
 Important caveat: **very low-tier clones use a Jieli chipset and won't connect to any of these apps.** Genuine AirPods won't connect either, so "no app connects" means a cheap fake or a real pair — it never confirms a real pair on its own. If none of the apps see the buds, you likely have a low-tier clone.
 
@@ -56,7 +65,7 @@ Important caveat: **very low-tier clones use a Jieli chipset and won't connect t
 A few behaviors are chipset- and version-specific rather than general faults:
 
 - **iCloud verification failures.** Some replicas can't fully support iCloud, which can block macOS pairing. The fix is to forget the buds on all iCloud devices, forget them on macOS, hold the back button for 15 seconds until the light flashes amber then white, and re-pair. This bug isn't present on the Huilian chipset — see the [iCloud compatibility fix](/troubleshooting/AirReps-Incompatibility-with-iCloud).
-- **Automatic device switching.** Apple's iCloud Connect switching only works on 5.3 and 5.4 Huilian models. Everything else connects to multiple devices, but you switch manually. Expecting automatic switching from a non-Huilian unit isn't a fault — it's a missing feature.
+- **Automatic device switching.** Apple's iCloud Connect switching works exclusively on the five Huilian models (Pro 3 V7 Huilian & V6 Huilian, Pro 2 V5.4 Huilian & V5.3 Huilian, and AirPods 4 V2 Huilian). Everything else connects via standard Bluetooth multipoint, where you switch manually. Expecting iCloud switching from a non-Huilian unit isn't a fault — it's a missing feature.
 
 ## 7. macOS-specific issues
 
@@ -70,7 +79,7 @@ If the buds connect to your phone but misbehave on a Mac:
 
 If charging, a soft reset, a hard reset, and the iCloud fix all fail, you've probably received a faulty unit. A low-tier clone that no community app can see is a chip limitation — no setting turns a Jieli pair into a Huilian one.
 
-Trusted sellers replace faulty units, which is why the community points people to them. Contact your seller for a refund or replacement. If you're still choosing, buy from a [verified seller](/links/info) and follow the [ordering guide](/ordering/how-to-buy) so returns are easy.
+Trusted sellers replace faulty units, which is why the community points people to them. Contact your seller for a refund or replacement. If you're replacing a dead or low-tier clone, take our [1-minute quiz](/quiz) or buy from a [verified seller](/links/info) and follow the [ordering guide](/ordering/how-to-buy) so returns are easy.
 
 <CommunityCta variant="unit" />
 

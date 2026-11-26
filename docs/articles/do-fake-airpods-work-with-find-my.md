@@ -1,6 +1,6 @@
 ---
 title: "Do Fake AirPods Work With Find My?"
-description: "No AirPods replica works with Apple's Find My network, at any price or version, and a firmware update can't add it. What replicas do instead, how Find My exposes a fake, and what to make of seller claims."
+description: "No AirPods replica works with Apple's Find My network at any price, and firmware updates can't add it. Learn what works instead and how to spot fakes."
 category: "Using your reps"
 order: 19
 ---
@@ -58,7 +58,7 @@ Replicas make sense for people who want the AirPods experience for a fraction of
 - What else gives a replica away up close? Read [Can People Tell Your AirPods Are Fake?](/articles/can-people-tell-airpods-are-fake)
 - Checking a pair you already have? Use [How to Tell if AirPods Are Fake](/articles/how-to-spot-fake-airpods).
 - Wondering what firmware updates can and can't change? See [How to Update Fake AirPods Firmware](/articles/how-to-update-fake-airpods-firmware).
-- Weighing replicas against the real thing? Read [Replica AirPods vs Real AirPods](/articles/airpods-replicas-vs-real).
+- Weighing replicas against the real thing? Read [Replica AirPods vs Real AirPods](/articles/airpods-replicas-vs-real), or take the [1-minute quiz](/quiz) to pick a version.
 
 ## Ask the community
 

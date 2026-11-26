@@ -25,12 +25,12 @@ Si usas Android, puedes cambiar todos los ajustes táctiles en un iPhone desde [
 
 ## Sensores intraauriculares {#in-ear-sensors}
 
-Los sensores intraauriculares de las réplicas pausan la música casi al instante (con un retraso de aproximadamente 1 segundo*) al quitarlas de los oídos. El sonido de «bip» al introducir los AirPods se parece mucho al sonido original de Apple en la mayoría de los modelos actuales.
+Los sensores intraauriculares de las réplicas pausan la música casi al instante (con un retraso de aproximadamente 1 segundo) al quitarlas de los oídos. El sonido de «bip» al introducir los AirPods se parece mucho al sonido original de Apple en la mayoría de los modelos actuales.
 
 ## Controles táctiles y Force Touch
 
 Los controles táctiles o controles de Force Touch de las réplicas funcionan, pero puede que necesites acostumbrarte a ellos. En las réplicas de segunda generación se requiere un toque firme, no un toque suave como en los AirPods originales. En los modelos Pro solo es necesario presionar o apretar ligeramente, no tocar.
-:::info **Dato curioso**
+::: info **Dato curioso**
 Las réplicas de AirPods Pro 2 (V5.3TB y posteriores) cuentan con una configuración del sensor de presión muy similar a la de los originales, lo que ofrece la misma experiencia a un coste mucho menor.
 :::
 ## Calidad del micrófono

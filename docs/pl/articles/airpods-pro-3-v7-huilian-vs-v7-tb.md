@@ -95,7 +95,7 @@ Dane dotyczące TB pochodzą od sprzedawców, a czas pracy Huilian jest wartośc
 - Przełączasz się między maksymalnie 3 urządzeniami, w tym urządzeniami innych producentów niż Apple.
 - Nie przeszkadza Ci korzystanie z FlyCC, w tym ponowne dodawanie okienka i numeru seryjnego po aktualizacji.
 
-<span class="pick-buy">Kup V7 TB w sklepach [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
+<span class="pick-buy">Kup V7 TB w sklepach [Earhive](https://airreps.link/eprov7tb) [HiCity](https://airreps.link/hcprov7tb) [Jenny](https://airreps.link/jprov7tb)</span>
 
 ### Możesz też zrezygnować z V7 i wybrać Pro 3 SE
 

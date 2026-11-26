@@ -33,8 +33,7 @@ O branch principal (main) é protegido. Como tal, a edição direta não é perm
 
 Escolha entre as duas opções abaixo para configurar seu ambiente de desenvolvimento:
 
-### Opção 1 (Recomendada)
-
+### Opção 1 (Recomendada) {#option-1-recommended}
 Para configurar um ambiente de desenvolvimento ideal:
 
 1. [Instale o Bun](https://bun.sh/). Este projeto usa o Bun como gerenciador de pacotes e runtime.
@@ -71,7 +70,7 @@ Tenha em mente que o VitePress oferece recursos adicionais não disponíveis no 
 
 Depois de fazer as alterações, siga as etapas abaixo para enviá-las para revisão:
 
-1. Se você escolheu a Opção 1 em [Configurando o Ambiente de Desenvolvimento](#opção-1-recomendada), certifique-se de que as páginas serão construídas corretamente executando o seguinte comando:
+1. Se você escolheu a Opção 1 em [Configurando o Ambiente de Desenvolvimento](#option-1-recommended), certifique-se de que as páginas serão construídas corretamente executando o seguinte comando:
 
 ```shell
 bun run docs:build

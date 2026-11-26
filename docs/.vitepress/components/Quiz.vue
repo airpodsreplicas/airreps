@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useData } from 'vitepress';
-import { computed, ref } from 'vue';
+import { computed, nextTick, ref } from 'vue';
 import { productDestination } from '../product-routes';
 
 const { lang } = useData();
@@ -102,6 +102,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Order from',
         allSellerLinks: 'All seller links',
         sellerUnavailable: 'No current listing from this seller. Check the other sellers below.',
+        alibabaUnavailable: 'Not currently listed on Alibaba. Order directly from a trusted seller below:',
         onlySeller: 'The only seller with this version right now.',
         comparePayments: 'Compare payment methods',
         bestPrices: 'Best prices',
@@ -204,6 +205,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Pedir en',
         allSellerLinks: 'Todos los enlaces',
         sellerUnavailable: 'Este vendedor no tiene un anuncio disponible. Consulta los demás vendedores abajo.',
+        alibabaUnavailable: 'No está disponible actualmente en Alibaba. Haz tu pedido directamente con un vendedor de confianza abajo:',
         onlySeller: 'El único vendedor que tiene esta versión ahora mismo.',
         comparePayments: 'Comparar m\u00e9todos de pago',
         bestPrices: 'Mejores precios',
@@ -306,6 +308,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Pedir na',
         allSellerLinks: 'Todos os links',
         sellerUnavailable: 'Este vendedor não tem um anúncio disponível. Confira os outros vendedores abaixo.',
+        alibabaUnavailable: 'Não está listado atualmente no Alibaba. Faça o pedido diretamente com um vendedor confiável abaixo:',
         onlySeller: 'O único vendedor com esta versão no momento.',
         comparePayments: 'Comparar m\u00e9todos de pagamento',
         bestPrices: 'Melhores pre\u00e7os',
@@ -408,6 +411,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Bestil fra',
         allSellerLinks: 'Alle s\u00e6lgerlinks',
         sellerUnavailable: 'Denne sælger har ingen aktuel produktside. Se de andre sælgere nedenfor.',
+        alibabaUnavailable: 'Ikke tilgængelig på Alibaba i øjeblikket. Bestil direkte fra en pålidelig sælger nedenfor:',
         onlySeller: 'Den eneste sælger, der har denne version lige nu.',
         comparePayments: 'Sammenlign betalingsmetoder',
         bestPrices: 'Bedste priser',
@@ -510,6 +514,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Commander chez',
         allSellerLinks: 'Tous les liens',
         sellerUnavailable: 'Aucune offre disponible chez ce vendeur. Consultez les autres vendeurs ci-dessous.',
+        alibabaUnavailable: 'Actuellement indisponible sur Alibaba. Commandez directement auprès d’un vendeur de confiance ci-dessous :',
         onlySeller: 'Le seul vendeur qui propose cette version pour le moment.',
         comparePayments: 'Comparer les m\u00e9thodes de paiement',
         bestPrices: 'Meilleurs prix',
@@ -613,6 +618,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Zam\u00f3w w',
         allSellerLinks: 'Wszystkie linki',
         sellerUnavailable: 'Ten sprzedawca nie ma aktualnej oferty. Sprawdź pozostałych sprzedawców poniżej.',
+        alibabaUnavailable: 'Obecnie niedostępne na Alibaba. Zamów bezpośrednio u zaufanego sprzedawcy poniżej:',
         onlySeller: 'Jedyny sprzedawca, który ma obecnie tę wersję.',
         comparePayments: 'Por\u00f3wnaj metody p\u0142atno\u015bci',
         bestPrices: 'Najlepsze ceny',
@@ -771,6 +777,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: '\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0432',
         allSellerLinks: '\u0412\u0441\u0435 \u0441\u0441\u044b\u043b\u043a\u0438',
         sellerUnavailable: 'У этого продавца нет актуального предложения. Посмотрите других продавцов ниже.',
+        alibabaUnavailable: 'Сейчас нет на Alibaba. Закажите напрямую у проверенного продавца ниже:',
         onlySeller: 'Сейчас эта версия есть только у этого продавца.',
         comparePayments:
             '\u0421\u0440\u0430\u0432\u043d\u0438\u0442\u044c \u0441\u043f\u043e\u0441\u043e\u0431\u044b \u043e\u043f\u043b\u0430\u0442\u044b',
@@ -884,6 +891,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Bestellen bei',
         allSellerLinks: 'Alle Verk\u00e4ufer-Links',
         sellerUnavailable: 'Für diesen Verkäufer gibt es kein aktuelles Angebot. Sieh dir unten die anderen Verkäufer an.',
+        alibabaUnavailable: 'Derzeit nicht auf Alibaba gelistet. Bestelle direkt bei einem vertrauenswürdigen Verkäufer unten:',
         onlySeller: 'Derzeit der einzige Verkäufer mit dieser Version.',
         comparePayments: 'Zahlungsmethoden vergleichen',
         bestPrices: 'Beste Preise',
@@ -986,6 +994,7 @@ const i18n: Record<string, Record<string, string>> = {
         orderFrom: 'Sipari\u015f ver:',
         allSellerLinks: 'T\u00fcm sat\u0131c\u0131 linkleri',
         sellerUnavailable: 'Bu satıcıda güncel bir ürün ilanı yok. Aşağıdaki diğer satıcılara bakın.',
+        alibabaUnavailable: 'Şu anda Alibaba’da listelenmiyor. Aşağıdaki güvenilir satıcılardan doğrudan sipariş verin:',
         onlySeller: 'Şu anda bu sürümü satan tek satıcı.',
         comparePayments: '\u00d6deme y\u00f6ntemlerini kar\u015f\u0131la\u015ft\u0131r',
         bestPrices: 'En iyi fiyatlar',
@@ -1031,9 +1040,9 @@ const productLinks: Record<string, { earhive?: string; jenny?: string; hicity?: 
         jenny: 'https://airreps.link/jprov53hl',
     },
     'pro3-v7-tb': {
-        earhive: 'https://earhive.com/product/pro-3-v7-tb/',
-        jenny: 'https://jenny.airreps.info/product/pro-3-v7-tb/',
-        hicity: 'https://hicitypods.com/product/pro-3-v7-tb/',
+        earhive: 'https://airreps.link/eprov7tb',
+        jenny: 'https://airreps.link/jprov7tb',
+        hicity: 'https://airreps.link/hcprov7tb',
     },
     'pro3-v7-huilian': {
         earhive: 'https://airreps.link/eprov7hl',
@@ -1087,7 +1096,7 @@ const prices: Record<string, number> = {
     'pro2-v5.4-huilian': 58,
     'pro2-v5.3-tb': 55,
     'pro2-v5.3-huilian': 56,
-    'pro3-v7-tb': 68,
+    'pro3-v7-tb': 67,
     'pro3-v7-huilian': 67,
     'pro3-v6-tb': 37,
     'pro3-v6-huilian': 43,
@@ -1096,9 +1105,8 @@ const prices: Record<string, number> = {
     'airpods4-v2-huilian': 39,
     'airpods4-v2-tb': 29,
     'max-v3-tb': 126,
-    'max-v3p-tb': 93,
+    'max-v3p-tb': 85,
     'gen2-v3e': 26,
-    'airpods3-v1e': 30,
 };
 
 // --- Seller data ---
@@ -1109,6 +1117,7 @@ const sellers = {
         weidian: 'https://airreps.link/earhivew',
         alibaba: 'https://airreps.link/ehali',
         strength: 'Best prices',
+        strengthKey: 'bestPrices',
         payments: [
             'Credit Card',
             'AliPay',
@@ -1126,6 +1135,7 @@ const sellers = {
         weidian: 'https://airreps.link/jennyw',
         alibaba: 'https://airreps.link/jennyali',
         strength: 'Fastest shipping',
+        strengthKey: 'fastestShipping',
         payments: [
             'Credit Card',
             'AliPay',
@@ -1133,7 +1143,7 @@ const sellers = {
             'Wise',
             'Cash App',
             'Bitcoin/Crypto',
-            'Bank Transfer',
+            'Bank Transfer (UK)',
             'Alibaba',
         ],
     },
@@ -1142,6 +1152,7 @@ const sellers = {
         url: 'https://hicitypods.com',
         weidian: 'https://airreps.link/hicityw',
         strength: 'Best support & most payment options',
+        strengthKey: 'bestSupport',
         payments: [
             'Credit Card',
             'AliPay',
@@ -1172,6 +1183,9 @@ const _regionalPayments = [
 // --- State ---
 const currentStep = ref(0);
 const answers = ref<Record<string, string>>({});
+const quizContainer = ref<HTMLElement | null>(null);
+const questionHeading = ref<HTMLElement | null>(null);
+const resultHeading = ref<HTMLElement | null>(null);
 
 // --- Dynamic questions ---
 interface QuizOption {
@@ -1378,7 +1392,7 @@ const product = computed<ProductRec | null>(() => {
             };
         }
         return {
-            title: 'AirPods Max V3',
+            title: 'AirPods Max V3 TB',
             linksPageKey: 'airpods-max',
             subtitle: 'Airoha 1562AE — Premium over-ear pick',
             priceKey: 'max-v3-tb',
@@ -1432,11 +1446,11 @@ const product = computed<ProductRec | null>(() => {
             priceKey: 'airpods4-v3-tb',
             reasons: [
                 'USB-C, ANC, transparency mode, spatial audio with head tracking',
-                '8h battery without ANC, 6h with ANC',
+                'Conversation awareness, adaptive audio, multipoint for 3 devices',
                 needsMac.value
                     ? `Consider V2 Huilian ($${prices['airpods4-v2-huilian']}) for better Mac/iCloud switching support`
-                    : 'TB variant offers the strongest ANC performance',
-                'Force touch controls, volume swipe',
+                    : 'TB variant offers the strongest open-ear ANC performance',
+                'Force touch stem controls, case speaker, FlyCC app',
             ],
             links: [
                 { text: 'AirPods 4 Version Info', url: '/version-info/airpods-4' },
@@ -1495,7 +1509,7 @@ const product = computed<ProductRec | null>(() => {
                 'Heart rate sensor, head gestures, conversation awareness, adaptive ANC, multipoint for 3 devices',
                 'iOS popup and serial number (they disappear after a FlyCC firmware update and need to be re-added; uses the FlyCC app)',
                 ...v7UseCaseReasons,
-                `Also consider: V7 Huilian ($${prices['pro3-v7-huilian']}) for iCloud Connect & Live Translation, or Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — even better ANC for less`,
+                `Also consider: V7 Huilian ($${prices['pro3-v7-huilian']}) for iCloud Connect & Live Translation, or Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) — strong ANC and best value under $50`,
             ],
             links: [
                 { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
@@ -1519,7 +1533,7 @@ const product = computed<ProductRec | null>(() => {
                     'Heart rate sensor, head gestures, conversation awareness, Live Translation',
                     'AI Hybrid ANC, head-tracking spatial audio, low-latency gaming mode',
                     ...v7UseCaseReasons,
-                    `Also consider: Pro 2 V5.4 Huilian ($${prices['pro2-v5.4-huilian']}) — adds adaptive audio and OTA updates for less`,
+                    `Also consider: Pro 2 V5.4 Huilian ($${prices['pro2-v5.4-huilian']}) — adds adaptive audio for less`,
                 ],
                 links: [
                     { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
@@ -1562,7 +1576,7 @@ const product = computed<ProductRec | null>(() => {
                     'iCloud Connect for seamless Mac/iPhone switching',
                     'Heart rate sensor, head gestures, Live Translation',
                     ...v7UseCaseReasons,
-                    `Prefer the longest-proven Mac pick? Pro 2 V5.3 Huilian ($${prices['pro2-v5.3-huilian']}) — flawless macOS support`,
+                    `Want the strongest pure ANC instead? Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}) is our #1 ANC pick, but lacks iCloud Connect`,
                 ],
                 links: [
                     { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
@@ -1597,25 +1611,42 @@ const product = computed<ProductRec | null>(() => {
     }
 
     // Non-Mac in-ear
-    if (priority === 'anc' || priority === 'stable') {
+    if (priority === 'anc') {
+        return {
+            title: 'AirPods Pro 3 V7 TigerBuilder',
+            linksPageKey: 'airpods-pro-3',
+            subtitle: 'Airoha 1571AM — Best ANC overall with adaptive noise cancelling',
+            priceKey: 'pro3-v7-tb',
+            reasons: [
+                'Strongest overall ANC in the current lineup with adaptive noise cancelling',
+                'Newest AirPods Pro 3 form factor with almost 1:1 hinge, heart rate sensor & head gestures',
+                'Multipoint for 3 devices, conversation awareness, FlyCC app (iOS popup & serial need re-adding after FlyCC firmware updates)',
+                ...v7UseCaseReasons,
+                `Also consider: Pro 3 V7 Huilian ($${prices['pro3-v7-huilian']}) for iCloud Connect & Live Translation, or Pro 3 SE ($${prices['pro3-se']}, Jenny-exclusive) for strong ANC under $50`,
+            ],
+            links: [
+                { text: 'AirPods Pro 3 Version Info', url: '/version-info/airpods-pro-3' },
+                { text: 'ANC Explained', url: '/introduction/anc-explained' },
+                { text: 'Features Overview', url: '/introduction/features' },
+                { text: 'Battery Life', url: '/introduction/battery-life' },
+            ],
+        };
+    }
+
+    if (priority === 'stable') {
         // HR listings are unavailable; recommend the available TB model.
         return {
             title: 'AirPods Pro 2 V5.3 TB',
             linksPageKey: 'airpods-pro-2',
-            subtitle: 'Airoha 1571AM — Community favorite, best ANC',
+            subtitle: 'Airoha 1571AM — Community favorite, proven stability',
             priceKey: 'pro2-v5.3-tb',
             reasons: [
-                'Best ANC of the V5.3 builds: 34.5 dB average, 41 dB peak',
+                'Best ANC of the Pro 2 lineup: 34.5 dB average, 41 dB peak',
                 '8h battery without ANC, 6h with ANC — longest in the Pro 2 lineup',
                 'Sweatproof white case, excellent spatial audio with ST gyroscope',
                 'The most tried-and-tested version — proven stability',
                 ...(useCase === 'gym'
                     ? ['Sweatproof design, durable build — great for workouts']
-                    : []),
-                ...(priority === 'anc'
-                    ? [
-                          `Want the newest instead? Pro 3 V7 TigerBuilder ($${prices['pro3-v7-tb']}) adds adaptive ANC, heart rate sensor & head gestures`,
-                      ]
                     : []),
             ],
             links: [
@@ -1699,11 +1730,8 @@ function sellerLink(seller: (typeof sellers)[keyof typeof sellers] | null) {
 }
 
 // Sellers that sell a pick on their own website but not yet on their Weidian or
-// Alibaba listings (Pro 3 V7 TB at Earhive and Jenny, Nov 2026). The KakoBuy and
-// Alibaba answers must not send readers to a listing without the pick.
-const websiteOnly: Record<string, string[]> = {
-    'pro3-v7-tb': ['earhive', 'jenny'],
-};
+// Alibaba listings. All three sellers stock Pro 3 V7 TB on Weidian as of Nov 2026.
+const websiteOnly: Record<string, string[]> = {};
 
 // Whether the seller has the pick where this reader will order it
 function sellerHasPick(seller: (typeof sellers)[keyof typeof sellers] | null) {
@@ -1748,13 +1776,35 @@ const alibabaSellers = computed(() =>
     [sellers.earhive, sellers.jenny].filter((seller) => sellerHasPick(seller))
 );
 
+// Sellers that stock the recommended pick directly (in today's rotation order).
+// Used for the "Unsure" ordering branch and as an Alibaba fallback when empty.
+const availableDirectSellers = computed(() => {
+    const matching = rotatedSellers.filter((s) => Boolean(sellerLink(s.seller)));
+    return matching.length ? matching : rotatedSellers;
+});
+
 function productToLinksPage(): LinksPageKey {
     return product.value?.linksPageKey ?? 'airpods-pro-2';
+}
+
+function focusCurrentStep() {
+    nextTick(() => {
+        const heading = isDone.value ? resultHeading.value : questionHeading.value;
+        heading?.focus({ preventScroll: true });
+        const container = quizContainer.value;
+        if (container && typeof window !== 'undefined') {
+            const top = container.getBoundingClientRect().top;
+            if (top < 80 || top > window.innerHeight - 120) {
+                container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        }
+    });
 }
 
 function selectOption(questionId: string, value: string) {
     answers.value[questionId] = value;
     currentStep.value++;
+    focusCurrentStep();
 }
 
 function goBack() {
@@ -1772,21 +1822,24 @@ function goBack() {
                 delete answers.value[key];
             }
         }
+        focusCurrentStep();
     }
 }
 
 function restart() {
     currentStep.value = 0;
     answers.value = {};
+    focusCurrentStep();
 }
 </script>
 
 <template>
-  <div class="quiz-container">
+  <div ref="quizContainer" class="quiz-container">
     <!-- Progress bar -->
     <div
       class="quiz-progress"
       role="progressbar"
+      :aria-label="`${t('step')} ${Math.min(currentStep + 1, activeQuestions.length)} ${t('of')} ${activeQuestions.length}`"
       :aria-valuenow="isDone ? activeQuestions.length : currentStep"
       aria-valuemin="0"
       :aria-valuemax="activeQuestions.length"
@@ -1803,7 +1856,7 @@ function restart() {
 
     <!-- Question -->
     <div v-if="!isDone" class="quiz-question">
-      <h3>{{ activeQuestions[currentStep].question }}</h3>
+      <h2 ref="questionHeading" tabindex="-1">{{ activeQuestions[currentStep].question }}</h2>
       <p v-if="activeQuestions[currentStep].hint" class="quiz-hint">
         {{ activeQuestions[currentStep].hint }}
         <a :href="localeUrl('/ordering/how-to-buy')">{{ t('orderLink') }}</a>
@@ -1812,6 +1865,7 @@ function restart() {
         <button
           v-for="option in activeQuestions[currentStep].options"
           :key="option.value"
+          type="button"
           class="quiz-option"
           @click="selectOption(activeQuestions[currentStep].id, option.value)"
         >
@@ -1819,14 +1873,14 @@ function restart() {
           <span class="quiz-option-desc">{{ option.desc }}</span>
         </button>
       </div>
-      <button v-if="currentStep > 0" class="quiz-back" @click="goBack">&larr; {{ t('back') }}</button>
+      <button v-if="currentStep > 0" type="button" class="quiz-back" @click="goBack">&larr; {{ t('back') }}</button>
     </div>
 
     <!-- Result -->
     <div v-else-if="product" class="quiz-result">
       <div class="quiz-result-header">
         <span class="quiz-result-badge">{{ t('ourPick') }}</span>
-        <h3>{{ product.title }}</h3>
+        <h2 ref="resultHeading" tabindex="-1">{{ product.title }}</h2>
         <p class="quiz-result-subtitle">{{ product.subtitle }}</p>
         <div v-if="prices[product.priceKey]" class="quiz-result-price">
           ~${{ prices[product.priceKey] }}
@@ -1838,14 +1892,14 @@ function restart() {
       </ul>
 
       <div class="quiz-result-buy">
-        <h4>{{ t('readyToBuy') }}</h4>
+        <h3>{{ t('readyToBuy') }}</h3>
 
         <!-- Agent ordering with recommended seller -->
         <div v-if="answers.ordering === 'agent' && recommendedSeller" class="quiz-buy-list">
           <a v-if="directProductLink" :href="recommendedSeller.weidian" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ recommendedSeller.name }} {{ t('weidianStore') }}
           </a>
-          <p v-if="directProductLink" class="quiz-seller-note">{{ isOnlySeller ? t('onlySeller') : recommendedSeller.strength }}</p>
+          <p v-if="directProductLink" class="quiz-seller-note">{{ isOnlySeller ? t('onlySeller') : t(recommendedSeller.strengthKey) }}</p>
           <p v-else class="quiz-seller-note">{{ t('sellerUnavailable') }}</p>
           <a href="https://airreps.link/kakobuy" target="_blank" rel="noopener noreferrer" class="quiz-buy-link kakobuy">
             {{ t('kakobuySignup') }}
@@ -1857,17 +1911,31 @@ function restart() {
 
         <!-- Alibaba -->
         <div v-else-if="answers.ordering === 'alibaba'" class="quiz-buy-list">
-          <a
-            v-for="(seller, i) in alibabaSellers"
-            :key="seller.alibaba"
-            :href="seller.alibaba"
-            target="_blank"
-            rel="noopener noreferrer"
-            :class="['quiz-buy-link', i === 0 ? 'primary' : 'secondary']"
-          >
-            {{ t('orderFrom') }} {{ seller.name }} (Alibaba)
-          </a>
-          <p v-if="!alibabaSellers.length" class="quiz-seller-note">{{ t('sellerUnavailable') }}</p>
+          <template v-if="alibabaSellers.length">
+            <a
+              v-for="(seller, i) in alibabaSellers"
+              :key="seller.alibaba"
+              :href="seller.alibaba"
+              target="_blank"
+              rel="noopener noreferrer"
+              :class="['quiz-buy-link', i === 0 ? 'primary' : 'secondary']"
+            >
+              {{ t('orderFrom') }} {{ seller.name }} (Alibaba)
+            </a>
+          </template>
+          <template v-else>
+            <p class="quiz-seller-note">{{ t('alibabaUnavailable') }}</p>
+            <a
+              v-for="(s, i) in availableDirectSellers"
+              :key="s.key"
+              :href="sellerLink(s.seller) ?? s.seller.url"
+              target="_blank"
+              rel="noopener noreferrer"
+              :class="['quiz-buy-link', i === 0 ? 'primary' : 'secondary']"
+            >
+              {{ t('orderFrom') }} {{ s.seller.name }} — {{ t(s.labelKey) }}
+            </a>
+          </template>
           <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allSellerLinks') }} &rarr;
           </a>
@@ -1881,7 +1949,7 @@ function restart() {
           <a v-if="directProductLink" :href="directProductLink" target="_blank" rel="noopener noreferrer" class="quiz-buy-link primary">
             {{ t('orderFrom') }} {{ recommendedSeller.name }}
           </a>
-          <p v-if="directProductLink" class="quiz-seller-note">{{ isOnlySeller ? t('onlySeller') : recommendedSeller.strength }}</p>
+          <p v-if="directProductLink" class="quiz-seller-note">{{ isOnlySeller ? t('onlySeller') : t(recommendedSeller.strengthKey) }}</p>
           <p v-else class="quiz-seller-note">{{ t('sellerUnavailable') }}</p>
           <a :href="localeUrl(`/links/${productToLinksPage()}`)" class="quiz-buy-link secondary">
             {{ t('allSellerLinks') }} &rarr;
@@ -1894,9 +1962,9 @@ function restart() {
         <!-- Unsure / fallback — seller order rotates daily for fairness -->
         <div v-else class="quiz-buy-list">
           <a
-            v-for="s in rotatedSellers"
+            v-for="s in availableDirectSellers"
             :key="s.key"
-            :href="s.seller.url"
+            :href="sellerLink(s.seller) ?? s.seller.url"
             target="_blank"
             rel="noopener noreferrer"
             class="quiz-buy-link primary"
@@ -1919,7 +1987,7 @@ function restart() {
       </p>
 
       <div class="quiz-result-links">
-        <h4>{{ t('learnMore') }}</h4>
+        <h3>{{ t('learnMore') }}</h3>
         <div class="quiz-link-list">
           <a v-for="link in product.links" :key="link.url" :href="localeUrl(link.url)" class="quiz-link">
             {{ link.text }} &rarr;
@@ -1928,7 +1996,7 @@ function restart() {
       </div>
 
       <div class="quiz-result-discord">
-        <h4>{{ t('stillHaveQuestions') }}</h4>
+        <h3>{{ t('stillHaveQuestions') }}</h3>
         <a
           href="https://airreps.link/discord"
           target="_blank"
@@ -1944,8 +2012,8 @@ function restart() {
       </div>
 
       <div class="quiz-actions">
-        <button class="quiz-back" @click="goBack">&larr; {{ t('changeLastAnswer') }}</button>
-        <button class="quiz-restart" @click="restart">{{ t('startOver') }}</button>
+        <button type="button" class="quiz-back" @click="goBack">&larr; {{ t('changeLastAnswer') }}</button>
+        <button type="button" class="quiz-restart" @click="restart">{{ t('startOver') }}</button>
       </div>
     </div>
   </div>
@@ -1955,6 +2023,7 @@ function restart() {
 .quiz-container {
   max-width: 640px;
   margin: 1.5rem 0;
+  scroll-margin-top: calc(var(--vp-nav-height, 64px) + 24px);
 }
 
 .quiz-progress {
@@ -1973,7 +2042,7 @@ function restart() {
 
 .quiz-step-count {
   font-size: 0.8rem;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-text-2);
   margin-bottom: 1.5rem;
 }
 
@@ -1990,9 +2059,23 @@ function restart() {
   border: 0;
 }
 
-.quiz-question h3 {
+.quiz-question h2 {
   font-size: 1.3rem;
-  margin-bottom: 0.5rem;
+  margin: 0 0 0.5rem;
+  padding-top: 0;
+  border-top: 0;
+}
+
+.quiz-question h2:focus,
+.quiz-result-header h2:focus {
+  outline: none;
+}
+
+.quiz-question h2:focus-visible,
+.quiz-result-header h2:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 4px;
+  border-radius: 4px;
 }
 
 .quiz-hint {
@@ -2039,6 +2122,16 @@ function restart() {
   }
 }
 
+.quiz-option:focus-visible,
+.quiz-back:focus-visible,
+.quiz-restart:focus-visible,
+.quiz-buy-link:focus-visible,
+.quiz-link:focus-visible,
+.quiz-ask-owners a:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
 .quiz-option-label {
   font-weight: 600;
   font-size: 0.95rem;
@@ -2047,7 +2140,7 @@ function restart() {
 
 .quiz-option-desc {
   font-size: 0.8rem;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-text-2);
   margin-top: 0.2rem;
 }
 
@@ -2089,15 +2182,21 @@ function restart() {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--vp-c-brand-1);
-  background: rgba(236, 100, 93, 0.1);
+  background: var(--vp-c-brand-soft);
   padding: 0.2rem 0.6rem;
   border-radius: 4px;
   margin-bottom: 0.5rem;
 }
 
-.quiz-result-header h3 {
+.dark .quiz-result-badge {
+  background: rgba(236, 100, 93, 0.1);
+}
+
+.quiz-result-header h2 {
   font-size: 1.5rem;
   margin: 0.4rem 0 0.25rem;
+  padding-top: 0;
+  border-top: 0;
 }
 
 .quiz-result-subtitle {
@@ -2116,7 +2215,7 @@ function restart() {
 .quiz-price-note {
   font-size: 0.8rem;
   font-weight: 400;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-text-2);
   margin-left: 0.25rem;
 }
 
@@ -2170,14 +2269,14 @@ function restart() {
   text-decoration: underline;
 }
 
-.quiz-result-links h4,
-.quiz-result-buy h4,
-.quiz-result-discord h4 {
+.quiz-result-links h3,
+.quiz-result-buy h3,
+.quiz-result-discord h3 {
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--vp-c-text-3);
-  margin-bottom: 0.5rem;
+  color: var(--vp-c-text-2);
+  margin: 0 0 0.5rem;
 }
 
 .quiz-link-list,
@@ -2215,15 +2314,15 @@ function restart() {
 .quiz-buy-link.primary {
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--vp-c-brand-1) 90%, #fff),
-    var(--vp-c-brand-1) 58%,
-    color-mix(in srgb, var(--vp-c-brand-1) 90%, #000)
+    color-mix(in srgb, var(--vp-c-brand-3) 90%, #fff),
+    var(--vp-c-brand-3) 58%,
+    color-mix(in srgb, var(--vp-c-brand-3) 90%, #000)
   );
-  border-color: color-mix(in srgb, var(--vp-c-brand-1) 72%, #000);
+  border-color: color-mix(in srgb, var(--vp-c-brand-3) 72%, #000);
   color: #fff;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.42), inset 0 -2px 2px rgba(0, 0, 0, 0.1),
     0 2px 3px rgba(0, 0, 0, 0.12),
-    0 8px 18px -8px color-mix(in srgb, var(--vp-c-brand-1) 42%, transparent);
+    0 8px 18px -8px color-mix(in srgb, var(--vp-c-brand-3) 42%, transparent);
 }
 
 .quiz-buy-link.kakobuy {
@@ -2256,7 +2355,7 @@ function restart() {
 
 .quiz-seller-note {
   font-size: 0.8rem;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-text-2);
   margin: -0.15rem 0 0.25rem;
   padding: 0;
 }

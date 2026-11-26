@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import type { Plugin } from 'vite';
-import { PRODUCT_FAMILIES, productDestination, productRedirectScript } from '../product-routes';
+import { PRODUCT_FAMILIES, productDestination, productRedirectScript } from '../product-routes.ts';
 
 export function writeProductRedirects(outDir: string): void {
     for (const locale of ['', '/da', '/de', '/es', '/fr', '/pl', '/pt', '/ru', '/tr']) {
@@ -37,9 +37,9 @@ const redirectHTML = (to: string) => `<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
-  <meta name="robots" content="noindex">
+  <meta name="robots" content="noindex, follow">
   <meta http-equiv="refresh" content="0; url=${to}">
-  <link rel="canonical" href="${to}">
+  <link rel="canonical" href="https://airpodsreplicas.com${to}">
   <script>window.location.replace('${to}')</script>
 </head>
 <body>

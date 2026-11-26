@@ -4,14 +4,14 @@ description: 'Bewertungen der Klangqualität, EQ-Einstellungen und realistische 
 ---
 # Klangqualität
 
-Assessing the sound quality of AirPods replicas can help you determine their performance relative to the original AirPods.
+Die Bewertung der Klangqualität von AirPods-Repliken hilft dir einzuschätzen, wie sie im Vergleich zu den originalen AirPods abschneiden.
 
 ## Bewertung der Klangqualität
 
-The best widely available AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, and AirPods Pro 3 replicas score about 8-9/10 in sound quality when compared to the original AirPods.
+Die besten breit verfügbaren AirPods 2-, AirPods 3-, AirPods 4-, AirPods Pro-, AirPods Pro 2- und AirPods Pro 3-Repliken erreichen im Vergleich zu den originalen AirPods etwa 8–9/10 Punkte bei der Klangqualität.
 
 ::: details Klingen AirPods Pro besser als AirPods 4?
-Da sich die AirPods Pro im Ohr abdichten, können sie deutlich besser klingen als AirPods 2/3, die so geformt sind, dass Außengeräusche hereingelassen werden. Es wird empfohlen, die Form und Passform zu wählen, die bevorzugt wird.
+Da sich die AirPods Pro mit Silikonaufsätzen im Ohr abdichten, bieten sie meist kräftigeren Bass und bessere passive Geräuschisolierung als offen sitzende Modelle wie AirPods 4 (und ältere AirPods 2/3), die Umgebungsgeräusche durchlassen. Wähle am besten die Passform, die dir am angenehmsten ist.
 :::
 
 ## Variationen der Klangqualität
@@ -24,7 +24,7 @@ Der EQ kann je nach Verkäufer variieren. Verwende **FlyCC**, **BullSuper** oder
 
 ## Eigene EQ-Einstellungen
 
-If you're not satisfied with the sound of your AirPods replicas, join our [Discord server](https://airreps.link/discord). Many community members share their own EQ settings, which may help you achieve a sound you prefer. You’ll find most of these presets pinned in the **#help-and-advice** channel.
+Wenn du mit dem Klang deiner AirPods-Repliken nicht zufrieden bist, tritt unserem [Discord-Server](https://airreps.link/discord) bei. Viele Community-Mitglieder teilen dort ihre eigenen EQ-Einstellungen, mit denen du den Klang nach deinem Geschmack anpassen kannst. Die meisten dieser Presets sind im Kanal **#help-and-advice** angepinnt.
 
 <CommunityCta variant="eq" />
 

@@ -36,7 +36,7 @@ Innymi słowy, jeśli w Twoich replikach brakuje jakiejś funkcji, zmiana telefo
 
 ## Dopasuj wersję do generacji systemu iOS w telefonie
 
-Rozsądnie jest wybrać wersję, której lista funkcji odpowiada generacji iOS, z której faktycznie korzystasz, a następnie potwierdzić jej możliwości na stronie z informacjami o wersjach, zamiast ufać zapewnieniom sprzedawcy. W ofertach klony są opisywane za pomocą nieprecyzyjnych nazw i niewiarygodnych zdjęć chipsetów; numeracja stosowana przez społeczność powstała właśnie dlatego, że takie zapewnienia często się nie sprawdzają. Porównaj wersje na stronie [informacje o wersjach](/pl/version-info/general), skorzystaj z [quizu](/pl/quiz, aby uzyskać rekomendację, i kup u [zaufanego sprzedawcy](/pl/links/info).
+Rozsądnie jest wybrać wersję, której lista funkcji odpowiada generacji iOS, z której faktycznie korzystasz, a następnie potwierdzić jej możliwości na stronie z informacjami o wersjach, zamiast ufać zapewnieniom sprzedawcy. W ofertach klony są opisywane za pomocą nieprecyzyjnych nazw i niewiarygodnych zdjęć chipsetów; numeracja stosowana przez społeczność powstała właśnie dlatego, że takie zapewnienia często się nie sprawdzają. Porównaj wersje na stronie [informacje o wersjach](/pl/version-info/general), skorzystaj z [quizu](/pl/quiz), aby uzyskać rekomendację, i kup u [zaufanego sprzedawcy](/pl/links/info).
 
 Jeśli korzystasz ze starszej wersji iOS, nie potrzebujesz najnowszej repliki — model poprzedniej generacji zgodny z Twoją wersją iOS często ma więcej sensu niż płacenie za funkcje, których telefon jeszcze nie obsługuje. Dopasuj produkt do generacji oprogramowania w telefonie, a nie do zapewnień marketingowych.
 

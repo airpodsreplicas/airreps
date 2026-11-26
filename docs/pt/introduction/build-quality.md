@@ -18,7 +18,7 @@ O estojo e os fones geralmente têm um bom peso. A maioria dos modelos correspon
 ## Dobradiça
 
 Alguns modelos usam uma dobradiça de plástico com pintura metálica, enquanto outros empregam uma dobradiça de metal real. Algumas dobradiças de plástico podem parecer baratas, chiar, mover-se e faltar solidez. Embora utilizáveis, elas são perceptíveis em comparação com os AirPods originais. Dobradicas de metal parecem significativamente superiores.
-É importante saber que todas as réplicas vendidas na AirReps têm dobradiças de metal. Algumas unidades (como Huilian e HR<b>+</b>) usam uma cópia quase perfeita da dobradiça da Apple. No momento, o HR+ apresenta alguns problemas de alinhamento, então a diferença de preço pode não ser justificada. Veja a [Comparação de versões do AirPods Pro 2](/pt/version-info/airpods-pro-2) para diferenças detalhadas entre as construções TB, HR e Huilian.
+É importante saber que todas as réplicas vendidas na AirReps têm dobradiças de metal. Algumas unidades (como Huilian e HR+) usam uma cópia quase perfeita da dobradiça da Apple. No momento, o HR+ apresenta alguns problemas de alinhamento, então a diferença de preço pode não ser justificada. Veja a [Comparação de versões do AirPods Pro 2](/pt/version-info/airpods-pro-2) para diferenças detalhadas entre as construções TB, HR e Huilian.
 
 ## Texto
 
@@ -43,16 +43,16 @@ Modelos mais novos incluem um difusor de LED para atenuar o LED.
 
 Para réplicas do AirPods Pro, evite remover as pontas com força, pois isso pode danificar os fones. Para remover as pontas, gire e puxe-as. Ao manusear os fones, segure-os pela ponta e não pela haste para evitar danos. Você pode usar o comando /eartip no servidor Discord para saber mais.
 
-:::warning
+::: warning
 Para réplicas do AirPods Pro, manuseie os fones com cuidado para evitar danos. Não remova as pontas com força.
 :::
 
 ## FAQ
 
-:::details Fakes de AirPods podem ser carregados em um estojo real ou vice-versa?
+::: details Fakes de AirPods podem ser carregados em um estojo real ou vice-versa?
 Não, fakes de AirPods não devem ser carregados em um estojo real. Fazer isso pode fazer com que os AirPods falsos quebrem logo em seguida. Também não é recomendado carregar AirPods reais em um estojo falso.
 :::
 
-:::details Os estojos de AirPods servem em clones?
+::: details Os estojos de AirPods servem em clones?
 Todas as capas protetoras de silicone macio servirão, mas capas rígidas de plástico podem não servir na maioria dos clones (principalmente modelos mais antigos, pois são ligeiramente maiores que os originais). Algumas capas rígidas podem servir, mas podem não sair ou afetar o botão se ele sobressair um pouco.
 :::

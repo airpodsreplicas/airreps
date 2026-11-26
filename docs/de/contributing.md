@@ -33,8 +33,7 @@ Der main-Branch ist geschützt. Direkte Bearbeitung ist daher nicht erlaubt. Ers
 
 Wähle eine der beiden folgenden Optionen, um deine Entwicklungsumgebung einzurichten:
 
-### Option 1 (Empfohlen)
-
+### Option 1 (Empfohlen) {#option-1-recommended}
 So richtest du eine optimale Entwicklungsumgebung ein:
 
 1. [Installiere Bun](https://bun.sh/). Dieses Projekt verwendet Bun als Paketmanager und Runtime.
@@ -71,7 +70,7 @@ Beachte, dass VitePress zusätzliche Features bietet, die in Standard-Markdown n
 
 Wenn du deine Änderungen vorgenommen hast, befolge die folgenden Schritte, um sie zur Überprüfung einzureichen:
 
-1. Falls du Option 1 unter [Entwicklungsumgebung einrichten](#option-1-empfohlen) gewählt hast, stelle sicher, dass die Seiten korrekt gebaut werden, indem du folgenden Befehl ausführst:
+1. Falls du Option 1 unter [Entwicklungsumgebung einrichten](#option-1-recommended) gewählt hast, stelle sicher, dass die Seiten korrekt gebaut werden, indem du folgenden Befehl ausführst:
 
 ```shell
 bun run docs:build

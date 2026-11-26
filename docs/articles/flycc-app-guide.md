@@ -1,5 +1,5 @@
 ---
-title: "FlyCC APK Guide: How to Configure & Tune Airoha AirPods Replicas"
+title: "FlyCC App Guide: Tune Airoha AirPods Replicas"
 description: "How to download, install, and use FlyCC safely — custom EQ tuning, touch control mapping, firmware updates, and troubleshooting connection failures."
 category: "Using your reps"
 order: 13
@@ -19,13 +19,16 @@ FlyCC is available as an Android APK and on the iOS App Store; both are linked o
 
 ## Supported chipsets
 
-FlyCC works exclusively with **Airoha hardware**. If your earbuds connect, you have confirmed genuine Airoha silicon inside:
+FlyCC works exclusively with **Airoha / TigerBuilder hardware**. If your earbuds connect, you have confirmed genuine Airoha silicon inside:
 
-- **Airoha 1562AE / 1571AM** — Full feature support: dual-mic ANC calibration, custom EQ, head-tracking spatial audio toggles, and OTA updates.
-- **Airoha 1562E / 1563E** — Standard EQ, touch controls, and firmware tools.
-- **Airoha 1562F** — Legacy ANC and EQ controls.
+| Airoha Chipset | Example Replica Models | FlyCC Support |
+| :--- | :--- | :--- |
+| **Airoha 1571AM** | Pro 3 V7 TB, Pro 2 V5.3 TB, AirPods 4 V3 TB | Full EQ, ANC, touch controls, head-tracking, OTA |
+| **Airoha 1562AE** | Pro 2 V5.2 TB, AirPods Max V3 TB, Pro 1 V4.9 | Full EQ, ANC, touch controls, head-tracking, OTA |
+| **Airoha 1563E / 1562E** | Pro 3 V6 TB, AirPods 4 V2 TB, AirPods 2 V3E | Standard EQ, touch controls, firmware tools |
+| **Airoha 1561M / 1562F** | AirPods Max V3P / V2 Metal, legacy units | EQ & basic firmware tools |
 
-If FlyCC scans indefinitely and never detects your earbuds, your pair uses a different manufacturer's silicon (such as Huilian, which uses [Starfun](/useful-apps)) or an entry-level Jieli chip.
+If FlyCC scans indefinitely and never detects your earbuds, your pair uses a different manufacturer's silicon (such as Huilian, which uses [StarFun](/articles/starfun-app-guide)) or an entry-level Jieli chip.
 
 ## How to download and install FlyCC safely
 
@@ -64,6 +67,10 @@ FlyCC can flash updated firmware binaries to fix iOS handshake bugs or improve c
 4. Tap **Start Update**. **Do not close the case lid, turn off Bluetooth, or switch apps** until the progress bar reaches 100% and displays "Update Succeeded."
 5. Once complete, leave the earbuds in the closed case for 60 seconds before re-pairing.
 
+::: warning Pro 3 V7 TB note
+On the **AirPods Pro 3 V7 TB**, after a firmware update in FlyCC, the iOS popup and serial number disappear and need to be re-added inside the FlyCC app. The V7 Huilian (StarFun) is not affected.
+:::
+
 For a comprehensive guide on flashing all replica chipsets safely, read [How to Update Fake AirPods Firmware](/articles/how-to-update-fake-airpods-firmware).
 
 ## Troubleshooting FlyCC connection issues
@@ -72,17 +79,17 @@ If FlyCC refuses to see your earbuds:
 
 - **Check your phone's active audio connection**: Ensure the earbuds are already paired in Android's native Bluetooth settings before opening FlyCC.
 - **Grant Nearby Devices permissions**: On Android 12 and newer, FlyCC cannot detect Bluetooth LE devices without the "Nearby Devices" permission enabled.
-- **Identify your chip**: If your earbuds refuse to connect to FlyCC, try scanning with **CloudCC** or **Starfun**. If no app connects, see [How to Spot Fake AirPods](/articles/how-to-spot-fake-airpods) to check for a budget Jieli clone.
+- **Identify your chip**: If your earbuds refuse to connect to FlyCC, try scanning with **[StarFun](/articles/starfun-app-guide)** (for Huilian chips) or **CloudCC** (workaround only for older TB storage permission issues). If no app connects, see [How to Spot Fake AirPods](/articles/how-to-spot-fake-airpods) to check for a budget Jieli clone.
 - **Clear pairing cache**: If connections drop, perform a controller reset using our [Reset Guide](/articles/how-to-reset-fake-airpods).
 
 <CommunityCta variant="stuck" />
 
 ## Related guides
 
+- Own a Huilian replica? Read our [StarFun App Guide](/articles/starfun-app-guide).
 - Using reps with Android daily? See [AirPods Replicas on Android](/articles/airpods-replicas-on-android).
 - Need other chip utilities? Check the complete [Useful Apps catalog](/useful-apps).
-- Earbuds refusing to connect? Walk through [Fake AirPods Won't Connect](/articles/fake-airpods-wont-connect).
-- Looking for verified Airoha models? Browse the [Trusted Seller Directory](/links/info).
+- Looking for a verified Airoha model? Take the [1-minute quiz](/quiz) or browse the [Trusted Seller Directory](/links/info).
 
 ## FAQ
 
@@ -95,5 +102,5 @@ Yes. FlyCC is on the iOS App Store as well as an Android APK; both are linked on
 :::
 
 ::: details Why does FlyCC say "Device Not Found"?
-The most common reason is silicon mismatch: FlyCC only works with Airoha chips. If you own a Huilian model, use Starfun. TigerBuilder models use FlyCC; CloudCC is only a workaround if FlyCC hits the storage permission issue. If none connect, you likely have a budget Jieli unit.
+The most common reason is silicon mismatch: FlyCC only works with Airoha chips. If you own a Huilian model, use StarFun. TigerBuilder models use FlyCC; CloudCC is only a workaround if FlyCC hits the storage permission issue. If none connect, you likely have a budget Jieli unit.
 :::

@@ -18,7 +18,7 @@ Etui i słuchawki generalnie mają odpowiednią wagę. Większość modeli odpow
 ## Zawias
 
 Niektóre modele używają plastikowego zawiasu z metaliczną farbą, podczas gdy inne stosują prawdziwy metalowy zawias. Niektóre plastikowe zawiasy mogą sprawiać wrażenie tanich, skrzypieć, poruszać się i brakować solidności. Choć używalne, są zauważalne w porównaniu do oryginalnych AirPods. Metalowe zawiasy wydają się znacznie lepsze.
-Ważne jest, aby wiedzieć, że wszystkie repliki sprzedawane w AirReps mają metalowe zawiasy. Niektóre jednostki (takie jak Huilian i HR<b>+</b>) używają prawie doskonałej kopii zawiasu Apple. Na chwilę obecną HR+ ma jednak pewne problemy z wyrównaniem, więc różnica w cenie może nie być uzasadniona. Zobacz [porównanie wersji AirPods Pro 2](/pl/version-info/airpods-pro-2) po szczegółowe różnice między konstrukcjami TB, HR i Huilian.
+Ważne jest, aby wiedzieć, że wszystkie repliki sprzedawane w AirReps mają metalowe zawiasy. Niektóre jednostki (takie jak Huilian i HR+) używają prawie doskonałej kopii zawiasu Apple. Na chwilę obecną HR+ ma jednak pewne problemy z wyrównaniem, więc różnica w cenie może nie być uzasadniona. Zobacz [porównanie wersji AirPods Pro 2](/pl/version-info/airpods-pro-2) po szczegółowe różnice między konstrukcjami TB, HR i Huilian.
 
 ## Napis
 
@@ -43,16 +43,16 @@ Nowsze modele zawierają dyfuzor LED, aby przyciemnić diodę.
 
 W przypadku replik AirPods Pro unikaj gwałtownego odciągania końcówek dousznych, ponieważ może to uszkodzić słuchawki. Aby zdjąć końcówki, skręć je i pociągnij. Podczas obchodzenia się ze słuchawkami trzymaj je za końcówkę, a nie za trzonek, aby zapobiec uszkodzeniom. Możesz użyć polecenia /eartip na serwerze Discord, aby dowiedzieć się więcej.
 
-:::warning
+::: warning
 W przypadku replik AirPods Pro obchodź się ze słuchawkami ostrożnie, aby uniknąć uszkodzeń. Nie zdejmuj końcówek dousznych na siłę.
 :::
 
 ## FAQ
 
-:::details Czy podróbki AirPods można ładować w oryginalnym etui lub odwrotnie?
+::: details Czy podróbki AirPods można ładować w oryginalnym etui lub odwrotnie?
 Nie — podróbek AirPods nie powinno się ładować w oryginalnym etui. Może to spowodować, że podróbki szybko ulegną uszkodzeniu. Nie zaleca się również ładowania oryginalnych AirPods w podrabianym etui.
 :::
 
-:::details Czy etui do AirPods pasują na klony?
+::: details Czy etui do AirPods pasują na klony?
 Wszystkie miękkie silikonowe ochronne etui będą pasować, ale twarde plastikowe etui mogą nie pasować do większości klonów (głównie starsze modele, ponieważ są nieco większe niż oryginały). Niektóre twarde etui mogą pasować, ale mogą być trudne do zdjęcia lub wpływać na przycisk, jeśli nieznacznie wystaje.
 :::

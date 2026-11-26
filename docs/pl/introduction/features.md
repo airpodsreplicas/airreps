@@ -25,12 +25,12 @@ Jeśli korzystasz z Androida, możesz zmienić wszystkie ustawienia sterowania d
 
 ## Czujniki douszne {#in-ear-sensors}
 
-Czujniki douszne w replikach niemal natychmiast wstrzymują muzykę (opóźnienie wynosi około 1 sekundy*) po wyjęciu słuchawek z uszu. Dźwięk „piknięcia” podczas wkładania słuchawek AirPods jest w większości obecnych modeli bardzo zbliżony do oryginalnego dźwięku Apple.
+Czujniki douszne w replikach niemal natychmiast wstrzymują muzykę (opóźnienie wynosi około 1 sekundy) po wyjęciu słuchawek z uszu. Dźwięk „piknięcia” podczas wkładania słuchawek AirPods jest w większości obecnych modeli bardzo zbliżony do oryginalnego dźwięku Apple.
 
 ## Sterowanie stuknięciami i Force Touch
 
 Sterowanie stuknięciami lub Force Touch w replikach działa, ale może wymagać przyzwyczajenia. W replikach 2. generacji wymagane jest zdecydowane stuknięcie, a nie delikatne dotknięcie, jak w oryginalnych słuchawkach AirPods. W modelach Pro wystarczy jedynie lekkie naciśnięcie lub ściśnięcie, a nie dotknięcie.
-:::info **Ciekawostka**
+::: info **Ciekawostka**
 Repliki AirPods Pro 2 (V5.3TB i nowsze) są wyposażone w konfigurację czujnika nacisku bardzo zbliżoną do oryginału, zapewniając takie same wrażenia za znacznie niższą cenę.
 :::
 ## Jakość mikrofonu

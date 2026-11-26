@@ -37,7 +37,7 @@ Wielu zaufanych sprzedawców akceptuje teraz Alipay, co umożliwia łatwe płatn
 
 **Aby zapłacić:** Złóż zamówienie, wybierz Alipay, a następnie zeskanuj wyświetlony kod QR w aplikacji Alipay, aby dokończyć płatność.
 
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/50pn2QewNnw" title="Jak zapłacić za repliki AirPods za pomocą Alipay" allowfullscreen></iframe>
 
 ## Najczęściej zadawane pytania
 

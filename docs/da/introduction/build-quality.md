@@ -18,7 +18,7 @@ Etui og pods har generelt en god vægt. De fleste modeller matcher den korrekte 
 ## Hængsel
 
 Nogle modeller bruger et plast-hængsel med metallisk maling, mens andre benytter et rigtigt metalhængsel. Nogle plast-hængsler kan føles billige, knirke, bevæge sig og mangle soliditet. Selvom de er brugbare, er de mærkbare sammenlignet med de originale AirPods. Metalhængsler føles betydeligt bedre.
-Det er vigtigt at vide, at alle replikaer solgt i AirReps har metalhængsler. Nogle enheder (såsom Huilian og HR<b>+</b>) bruger en nær‑perfekt kopi af Apple-hængslet. Lige nu har HR+ dog nogle justeringsproblemer, så prisforskellen er måske ikke berettiget. Se [Sammenligning af AirPods Pro 2-versioner](/da/version-info/airpods-pro-2) for detaljerede forskelle mellem TB-, HR- og Huilian‑byggerier.
+Det er vigtigt at vide, at alle replikaer solgt i AirReps har metalhængsler. Nogle enheder (såsom Huilian og HR+) bruger en nær‑perfekt kopi af Apple-hængslet. Lige nu har HR+ dog nogle justeringsproblemer, så prisforskellen er måske ikke berettiget. Se [Sammenligning af AirPods Pro 2-versioner](/da/version-info/airpods-pro-2) for detaljerede forskelle mellem TB-, HR- og Huilian‑byggerier.
 
 ## Tekst
 
@@ -43,16 +43,16 @@ Nyere modeller inkluderer en LED-diffuser for at dæmpe LED'en.
 
 For AirPods Pro-replikaer, undgå at fjerne ørepropperne med magt, da det kan beskadige pods. For at fjerne ørepropperne skal du dreje og trække dem af. Når du håndterer pods, hold dem ved øreproppen og ikke ved skaftet for at undgå skader. Du kan bruge /eartip-kommandoen i Discord-serveren for at lære mere.
 
-:::warning
+::: warning
 For AirPods Pro-replikaer, håndter pods forsigtigt for at undgå skader. Fjern ikke ørepropperne med magt.
 :::
 
 ## FAQ
 
-:::details Kan falske AirPods oplades i et ægte etui eller omvendt?
+::: details Kan falske AirPods oplades i et ægte etui eller omvendt?
 Nej, falske AirPods bør ikke oplades i et ægte etui. Det kan få de falske AirPods til at gå i stykker kort tid efter. Det anbefales heller ikke at oplade ægte AirPods i et falsk etui.
 :::
 
-:::details Passer AirPods-etui på kloner?
+::: details Passer AirPods-etui på kloner?
 Alle bløde silikone-beskyttelsesetui vil passe, men hårde plastik-etui passer muligvis ikke til de fleste kloner (for det meste ældre modeller, da de er en smule større end originalerne). Nogle hårde etui kan passe, men kan måske ikke komme af igen eller påvirke knappen, hvis den stikker lidt ud.
 :::

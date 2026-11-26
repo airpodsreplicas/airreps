@@ -11,12 +11,14 @@ Les répliques d'AirPods 2 sont le moyen le moins cher d'entrer dans l'écosyst�
 <table>
   <tr>
     <th>Version</th>
+    <th>Prix</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
     <td><span class="version-badge">V3E</span></td>
+    <td style="white-space: nowrap;">$26</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e2v3e">Site web</a>
