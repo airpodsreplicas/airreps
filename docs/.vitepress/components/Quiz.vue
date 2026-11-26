@@ -2182,14 +2182,10 @@ function restart() {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--vp-c-brand-1);
-  background: var(--vp-c-brand-soft);
+  background: rgba(236, 100, 93, 0.1);
   padding: 0.2rem 0.6rem;
   border-radius: 4px;
   margin-bottom: 0.5rem;
-}
-
-.dark .quiz-result-badge {
-  background: rgba(236, 100, 93, 0.1);
 }
 
 .quiz-result-header h2 {
@@ -2314,15 +2310,15 @@ function restart() {
 .quiz-buy-link.primary {
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--vp-c-brand-3) 90%, #fff),
-    var(--vp-c-brand-3) 58%,
-    color-mix(in srgb, var(--vp-c-brand-3) 90%, #000)
+    color-mix(in srgb, var(--vp-c-brand-1) 90%, #fff),
+    var(--vp-c-brand-1) 58%,
+    color-mix(in srgb, var(--vp-c-brand-1) 90%, #000)
   );
-  border-color: color-mix(in srgb, var(--vp-c-brand-3) 72%, #000);
+  border-color: color-mix(in srgb, var(--vp-c-brand-1) 72%, #000);
   color: #fff;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.42), inset 0 -2px 2px rgba(0, 0, 0, 0.1),
     0 2px 3px rgba(0, 0, 0, 0.12),
-    0 8px 18px -8px color-mix(in srgb, var(--vp-c-brand-3) 42%, transparent);
+    0 8px 18px -8px color-mix(in srgb, var(--vp-c-brand-1) 42%, transparent);
 }
 
 .quiz-buy-link.kakobuy {

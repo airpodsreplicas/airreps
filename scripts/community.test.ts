@@ -67,7 +67,9 @@ describe('community links', () => {
     test('the home hero links its button and line to the home invite', () => {
         for (const locale of ALL) {
             const home = readFileSync(docPath(locale, 'index.md'), 'utf8');
-            expect(home).toContain(`link: ${COMMUNITY_LINKS.home}`);
+            expect(home).toMatch(
+                new RegExp(`link: ['"]?${COMMUNITY_LINKS.home.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}['"]?\\n`)
+            );
             // The helpers card leads to the locale's community page.
             expect(home).toContain(`link: ${communityPath(locale)}\n`);
         }
