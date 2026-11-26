@@ -176,14 +176,9 @@ const shown = computed(() => {
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--vp-c-brand-1);
-  background-color: var(--vp-c-brand-soft);
-  border: 1px solid color-mix(in srgb, var(--vp-c-brand-1) 30%, transparent);
-  border-radius: 999px;
-}
-
-.dark .article-chip {
   background-color: rgba(236, 100, 93, 0.1);
-  border-color: rgba(236, 100, 93, 0.3);
+  border: 1px solid rgba(236, 100, 93, 0.3);
+  border-radius: 999px;
 }
 
 .article-title {

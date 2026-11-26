@@ -164,11 +164,11 @@ const text = computed(() => (sale.value ? saleText(sale.value, lang.value) : nul
 
 .sale-offers a:hover {
   background: rgba(255, 255, 255, 0.08);
-  border-color: #ec645d;
+  border-color: var(--vp-c-brand-1);
 }
 
 .sale-offers a:focus-visible {
-  outline: 2px solid #ec645d;
+  outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
 }
 
@@ -182,7 +182,7 @@ const text = computed(() => (sale.value ? saleText(sale.value, lang.value) : nul
   padding: 0;
   font-size: 11px;
   line-height: 1.3;
-  color: #ec645d;
+  color: var(--vp-c-brand-1);
   background: none;
 }
 
@@ -208,7 +208,7 @@ const text = computed(() => (sale.value ? saleText(sale.value, lang.value) : nul
 
 .sale-close:focus-visible {
   color: #fff;
-  outline: 2px solid #ec645d;
+  outline: 2px solid var(--vp-c-brand-1);
   outline-offset: 2px;
 }
 
