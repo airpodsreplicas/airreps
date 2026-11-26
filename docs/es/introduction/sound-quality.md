@@ -1,33 +1,33 @@
 ---
-title: Calidad De Sonido De Réplicas De AirPods
-description: 'Valoraciones de la calidad de sonido, ajustes de ecualizador (EQ) y expectativas realistas para réplicas de AirPods.'
+title: Calidad de sonido de réplicas de AirPods
+description: 'Valoraciones de calidad de sonido, ajustes de ecualización y expectativas realistas sobre las réplicas de AirPods.'
 ---
-# Calidad de Sonido
+# Calidad del sonido
 
-Evaluar la calidad de sonido de las réplicas de AirPods puede ayudarte a determinar su rendimiento en comparación con los AirPods originales.
+Evaluar la calidad del sonido de las réplicas de AirPods puede ayudarte a determinar su rendimiento en comparación con los AirPods originales.
 
-## Calificación de la calidad de sonido
+## Valoración de la calidad del sonido
 
-Las mejores réplicas ampliamente disponibles de AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2 y AirPods Pro 3 obtienen alrededor de 8-9/10 en calidad de sonido en comparación con los AirPods originales.
+Las mejores réplicas de AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2 y AirPods Pro 3 disponibles ampliamente obtienen una puntuación de aproximadamente 8-9/10 en calidad de sonido en comparación con los AirPods originales.
 
 ::: details ¿Los AirPods Pro suenan mejor que los AirPods 4?
-Dado que los AirPods Pro se sellan en el oído, pueden sonar significativamente mejor que los AirPods 2/3, que están diseñados para dejar entrar ruido externo. Se recomienda elegir la forma y el ajuste que prefieras.
+Como los AirPods Pro se ajustan al oído con almohadillas de silicona, suelen ofrecer unos graves más profundos y un mejor aislamiento pasivo que los modelos de ajuste abierto, como los AirPods 4 (y los AirPods 2/3 anteriores), cuyo diseño permite que entre el aire del exterior. Elige el ajuste que te resulte más cómodo.
 :::
 
-## Variaciones en la calidad de sonido
+## Variaciones en la calidad del sonido
 
-La calidad de sonido puede variar dependiendo de la [versión, chip](/es/version-info/general) y del lote. Muchos modelos enfatizan los graves sin llegar a ser abrumadores. Los medios están pronunciados, pero los agudos podrían mejorar. Ten en cuenta que el ecualizador puede variar según el vendedor, y puedes ajustarlo usando la configuración de tu reproductor de música o las apps del fabricante — consulta [aplicaciones útiles](/es/useful-apps) para enlaces de descarga.
+La calidad del sonido puede variar según la [versión y el chip](/es/version-info/general), así como el lote. Muchos modelos enfatizan los graves sin que resulten abrumadores. Los medios son pronunciados, pero los agudos podrían mejorar. Ten en cuenta que el ecualizador puede variar según el vendedor y que puedes ajustarlo desde la configuración de tu reproductor de música o con aplicaciones del fabricante. Consulta [aplicaciones útiles](/es/useful-apps) para ver los enlaces de descarga.
 
-::: tip Ajustar el ecualizador
+::: tip Ajuste del ecualizador
 El ecualizador puede variar según el vendedor. Usa **FlyCC**, **BullSuper** o **StarFun** para ajustarlo en dispositivos **TigerBuilder**, **HR** y **Huilian**, respectivamente.
 :::
 
 ## Ajustes personalizados del ecualizador
 
-Si no estás satisfecho con el sonido de tus réplicas de AirPods, únete a nuestro [servidor de Discord](https://airreps.link/discord). Muchos miembros de la comunidad comparten sus propios ajustes de ecualizador, que pueden ayudarte a lograr un sonido que prefieras. Encontrarás la mayoría de estos preajustes fijados en el canal **#help-and-advice**.
+Si no estás satisfecho con el sonido de tus réplicas de AirPods, únete a nuestro [servidor de Discord](https://airreps.link/discord). Muchos miembros de la comunidad comparten sus propios ajustes del ecualizador, que pueden ayudarte a conseguir el sonido que prefieras. Encontrarás la mayoría de estos preajustes fijados en el canal **#help-and-advice**.
 
 <CommunityCta variant="eq" />
 
-## Retraso
+## Latencia
 
-El retraso está alrededor de 50-150 ms dependiendo de la versión, apenas perceptible. Para referencia, los AirPods originales tienen un retraso entre 140-200 ms.
+La latencia es de alrededor de 50-150 ms, según la versión, y apenas se nota. Como referencia, los AirPods originales tienen una latencia de entre 140-200 ms.

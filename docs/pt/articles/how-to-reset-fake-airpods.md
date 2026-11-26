@@ -1,87 +1,87 @@
 ---
-title: 'Como redefinir AirPods falsos (réplicas): redefinição suave vs. redefinição completa'
-description: 'Um guia seguro, passo a passo, para redefinir AirPods falsos — a redefinição suave para falhas de emparelhamento, a redefinição completa mais profunda e quando uma redefinição não é a solução certa.'
+title: 'Como redefinir AirPods falsos: redefinição suave vs. redefinição completa'
+description: 'Guia passo a passo para redefinir AirPods falsos: redefinição suave para falhas de emparelhamento, redefinição completa após descarregar totalmente, redefinição pelo botão do estojo por 15 segundos e quando parar.'
 category: Solução de problemas
 order: 9
 ---
-# Como redefinir AirPods falsos (réplicas): redefinição simples vs. redefinição completa
+# Como redefinir AirPods falsos (réplicas): reinicialização suave vs. reinicialização completa
 
-Redefinir é a primeira coisa que a maioria das pessoas tenta quando suas réplicas começam a apresentar problemas, e muitas vezes é a decisão certa — mas “redefinir” na verdade abrange dois procedimentos diferentes, e eles resolvem problemas diferentes. Confundi-los pode fazer você perder uma tarde sem mudar nada.
+A primeira coisa que a maioria das pessoas tenta quando as réplicas começam a apresentar problemas é redefini-las, e muitas vezes essa é a decisão certa — mas “redefinir” na verdade abrange dois procedimentos diferentes, que resolvem problemas distintos. Se você confundir os dois, pode passar a tarde toda sem mudar nada.
 
-Aqui está a versão resumida: uma **redefinição simples** elimina problemas de emparelhamento sem alterar as configurações salvas dos seus fones. Uma **redefinição completa** é uma limpeza mais profunda para quando a redefinição simples não funciona. Antes de começar, saiba que o comportamento da redefinição pode variar conforme o chipset, o fabricante e a versão do firmware; portanto, considere estas etapas um procedimento padrão da comunidade, não uma combinação universal de botões. Se alguma etapa não corresponder ao que você vê, confirme o método atual no [guia de problemas comuns](/pt/troubleshooting/other-common-bugs) ou pergunte no Discord em vez de tentar adivinhar.
+Resumindo: uma **reinicialização suave** limpa problemas de pareamento sem mexer nas configurações armazenadas nos fones. Uma **reinicialização completa** é uma limpeza mais profunda, para quando a reinicialização suave não funciona. Antes de começar, saiba que o comportamento da redefinição pode variar de acordo com o chipset, o fabricante e a versão do firmware. Portanto, considere estas etapas o procedimento padrão da comunidade, e não uma combinação universal de botões. Se alguma etapa não corresponder ao que você vê, confirme o método atual no [guia de problemas comuns](/pt/troubleshooting/other-common-bugs) ou pergunte no Discord em vez de tentar adivinhar.
 
-> **Resposta rápida:** para redefinir os AirPods falsos de forma simples, esqueça-os no menu Bluetooth do seu celular, desative o Bluetooth, coloque os fones no estojo de carregamento com a tampa aberta, mantenha o botão traseiro pressionado por 5–10 segundos até o LED piscar e feche a tampa por 60 segundos. Para problemas graves de sincronização ou bugs do iCloud, mantenha o botão traseiro pressionado por **15 segundos** até o LED alternar entre âmbar e branco, fazendo uma redefinição completa do controlador de fábrica.
+> **Resposta rápida:** Para fazer uma reinicialização suave nos AirPods falsos, remova-os da lista de dispositivos no menu Bluetooth do celular, desligue o Bluetooth, coloque os fones no estojo de carregamento com a tampa aberta, mantenha pressionado o botão traseiro por 5–10 segundos até o LED piscar e feche a tampa por 60 segundos. Para problemas graves de sincronização ou bugs do iCloud, mantenha o botão traseiro pressionado por **15 segundos**, até o LED piscar em âmbar e depois em branco, para fazer uma reinicialização completa do controlador.
 
 <CommunityCta variant="stuck" />
 
-## Redefinição simples (comece por aqui)
+## Reinicialização suave (comece por aqui)
 
-Uma redefinição simples resolve os problemas do dia a dia: um fone que não conecta, um emparelhamento que cai continuamente ou AirPods que não aparecem quando você abre a tampa. Você está limpando o estado do emparelhamento Bluetooth, não apagando os fones.
+Uma reinicialização suave resolve problemas do dia a dia: um fone que não conecta, uma conexão que cai repetidamente ou AirPods que não aparecem quando você abre a tampa. Você está limpando o estado do pareamento Bluetooth, não apagando os fones.
 
-![Como redefinir seus AirPods de forma simples](/airpodssoftreset.webp)
+![Como fazer uma reinicialização suave nos AirPods](/airpodssoftreset.webp)
 
-1. Esqueça o dispositivo nas configurações de Bluetooth e desative o Bluetooth.
-2. Abra a tampa e mantenha o botão traseiro pressionado por alguns segundos, até a luz piscar; depois, feche a tampa. Não se preocupe se a luz não piscar exatamente como na imagem.
-3. Aguarde um minuto inteiro. Depois, ative o Bluetooth novamente, abra a tampa e tente conectar outra vez.
-4. Se ainda não conectar, retire os fones e coloque-os de volta. Feche a tampa e aguarde a luz apagar; depois, abra-a e tente novamente.
+1. Remova o dispositivo das configurações de Bluetooth e, em seguida, desligue o Bluetooth.
+2. Abra a tampa e mantenha pressionado o botão traseiro por alguns segundos, até a luz piscar; depois, feche a tampa. Não se preocupe se a luz não piscar exatamente como na imagem.
+3. Aguarde um minuto inteiro. Depois, ligue o Bluetooth novamente, abra a tampa e tente reconectar.
+4. Se ainda não conectar, retire os fones e coloque-os de volta no estojo. Feche a tampa e aguarde até a luz apagar; depois, abra a tampa e tente novamente.
 
-Um aviso que costuma confundir as pessoas: podem ser necessárias **3–4 redefinições simples** até funcionar. Isso é normal — não desista depois da primeira tentativa. Se várias redefinições simples consecutivas não fizerem nada, passe para uma redefinição completa.
+Um aviso que costuma confundir as pessoas: podem ser necessárias **3–4 reinicializações suaves** até funcionar. Isso é normal — não desista depois da primeira tentativa. Se várias reinicializações suaves seguidas não resolverem nada, passe para uma reinicialização completa.
 
-## Redefinição completa
+## Reinicialização completa
 
-Quando a redefinição simples não resolve, a redefinição completa do guia funciona drenando qualquer carga residual para que os fones esqueçam completamente seu estado.
+Quando a reinicialização suave não funciona, a reinicialização completa do guia drena qualquer carga residual para que os fones esqueçam completamente seu estado.
 
-1. Esqueça os AirPods nas configurações de Bluetooth.
-2. Retire os fones do estojo e deixe-os fora por várias horas para descarregar completamente a bateria. Deixe o estojo aberto também — você não quer deixar nenhuma carga residual, então aguarde pelo menos um dia inteiro, ou mais, se necessário.
-3. Depois de descarregados, coloque os fones de volta no estojo e carregue o estojo.
-4. Agora faça uma redefinição simples — novamente, espere precisar de **3–4 tentativas**.
+1. Remova os AirPods das configurações de Bluetooth.
+2. Retire os fones do estojo e deixe-os fora por várias horas para descarregar totalmente a bateria. Deixe o estojo aberto também — você quer eliminar toda a carga residual, então deixe-o assim por pelo menos um dia inteiro, ou mais, se necessário.
+3. Depois que descarregarem, coloque os fones de volta no estojo e carregue-o.
+4. Agora, faça uma reinicialização suave — espere precisar de **3–4 tentativas**.
 
-## A redefinição mais profunda pelo botão do estojo
+## A reinicialização mais profunda pelo botão do estojo
 
-Também há uma redefinição mais forte pelo botão do estojo documentada em nossa [correção de compatibilidade com o iCloud](/pt/troubleshooting/AirReps-Incompatibility-with-iCloud). Com os fones no estojo e a tampa aberta, mantenha o botão de emparelhamento na parte traseira pressionado por cerca de **15 segundos**, até a luz piscar em âmbar e depois em branco; em seguida, feche o estojo. Essa é a coisa mais próxima de uma redefinição de fábrica que essas réplicas oferecem.
+Há também uma reinicialização mais forte pelo botão do estojo, documentada na nossa [solução para problemas de compatibilidade com o iCloud](/pt/troubleshooting/AirReps-Incompatibility-with-iCloud). Com os fones no estojo e a tampa aberta, mantenha pressionado o botão de pareamento na parte traseira por cerca de **15 segundos**, até a luz piscar em âmbar e depois em branco; em seguida, feche o estojo. Essa é a opção mais próxima de uma reinicialização de fábrica que esses clones oferecem.
 
-Uma versão mais leve desse mesmo botão aparece para um sintoma específico: se apenas um fone funciona e pisca lentamente sempre que você abre o estojo, manter o botão traseiro pressionado por **2–3 segundos** enquanto os fones estão no estojo redefine o emparelhamento.
+Uma versão mais leve do mesmo procedimento serve para um sintoma específico: se apenas um fone funcionar e a luz piscar lentamente sempre que você abrir o estojo, manter o botão traseiro pressionado por **2–3 segundos** com os fones no estojo redefinirá o pareamento.
 
-Como o tempo exato varia entre chipsets e lotes, confirme o procedimento atual antes de confiar nele. Se o seu modelo se comportar de outra forma, as [notas sobre conectividade](/pt/introduction/connectivity) e a comunidade são suas melhores referências.
+Como o tempo exato varia entre chipsets e lotes, confirme o procedimento atual antes de segui-lo. Se o seu modelo se comportar de outra forma, as [notas sobre conectividade](/pt/introduction/connectivity) e a comunidade são suas melhores referências.
 
-## Uma redefinição nunca substitui o novo emparelhamento
+## Uma redefinição nunca substitui o novo pareamento
 
-Este é o mal-entendido mais comum: uma redefinição não reconecta nada. Ela apenas limpa o estado de emparelhamento salvo, o que significa que **você ainda precisa emparelhar seus AirPods novamente depois** — pelo pop-up do iOS em um iPhone ou pelo menu normal de Bluetooth em outros dispositivos. Se o próprio emparelhamento for o problema depois de uma redefinição, siga o [guia de solução de problemas para falhas de conexão](/pt/articles/fake-airpods-wont-connect) em vez de redefinir novamente.
+Este é o mal-entendido mais comum: uma redefinição não reconecta nada. Ela apenas limpa o estado de pareamento salvo, o que significa que **você ainda precisa parear os AirPods novamente depois** — pelo aviso do iOS em um iPhone ou pelo menu normal de Bluetooth em outros dispositivos. Se o próprio pareamento for o problema após a redefinição, siga as etapas de solução de problemas para [quando não conectam](/pt/articles/fake-airpods-wont-connect), em vez de redefini-los de novo.
 
-## Quando uma redefinição não é a solução certa
+## Quando a redefinição não é a solução certa
 
-Uma redefinição só ajuda com falhas de emparelhamento e problemas de conexão. Ela não ajudará nestes casos:
+Uma redefinição só ajuda com problemas de pareamento e conexão. Ela não ajudará nestes casos:
 
-- **Uma réplica de categoria Jieli que nenhum aplicativo detecta.** Se nenhum dos [aplicativos de firmware](/pt/useful-apps) da comunidade conseguir se conectar aos seus fones, redefinir não mudará nada — isso é uma limitação de chipset básico, não uma falha.
-- **Um bug com uma correção específica conhecida.** Problemas de emparelhamento do iCloud no macOS e o controle deslizante de volume travado têm seus próprios procedimentos. Redefinir antes de tentar essas soluções apenas desperdiça tempo; o [guia de problemas comuns](/pt/troubleshooting/other-common-bugs) inclui links para ambos.
-- **Uma falha de hardware.** Se um fone estiver realmente morto, nenhuma quantidade de redefinições vai reanimá-lo. Nesse ponto, é hora de conversar com seu [vendedor](/pt/links/info).
+- **Um clone de nível Jieli que nenhum aplicativo detecta.** Se nenhum dos [aplicativos de firmware](/pt/useful-apps) da comunidade conseguir se conectar aos seus fones, a redefinição não mudará nada — isso é uma limitação de um chipset básico, não um problema de funcionamento.
+- **Um bug com uma solução específica conhecida.** Os problemas de pareamento do iCloud no macOS e o controle deslizante de volume travado têm procedimentos próprios. Redefinir antes de tentar essas soluções só faz perder tempo; o [guia de problemas comuns](/pt/troubleshooting/other-common-bugs) inclui links para ambos.
+- **Uma falha de hardware.** Se um fone estiver realmente danificado, nenhuma quantidade de redefinições vai recuperá-lo. Nesse caso, é hora de conversar com o [vendedor](/pt/links/info) — ou fazer nosso [questionário de 1 minuto](/pt/quiz) se estiver escolhendo um substituto.
 
 <CommunityCta variant="unit" />
 
 ## Configurações que talvez você precise refazer
 
-Depois de uma redefinição, algumas das suas preferências podem voltar aos valores padrão. Alterações de nome, controles por toque e configurações semelhantes são feitas **pelo iOS** — peça um iPhone emprestado uma vez, configure-as nele, e normalmente elas serão salvas nos fones e permanecerão. O pop-up de emparelhamento do iOS também pode se comportar como uma configuração inicial novamente, então não se surpreenda se ele reaparecer ou mostrar o nome genérico.
+Após uma redefinição, algumas preferências podem voltar aos valores padrão. Alterações de nome, controles de toque e configurações semelhantes são feitas **pelo iOS** — peça um iPhone emprestado uma vez, configure tudo nele e, em geral, as alterações serão salvas nos fones e permanecerão. O aviso de pareamento do iOS também pode se comportar como se fosse uma configuração inicial, então não estranhe se ele aparecer novamente ou mostrar o nome genérico.
 
 Guias relacionados de configuração e solução de problemas:
-- Os fones ainda não conseguem anunciar sua presença? Siga o [AirPods falsos não conectam](/pt/articles/fake-airpods-wont-connect).
-- Está usando um dispositivo Android? Saiba como as configurações são transferidas em [Réplicas de AirPods no Android](/pt/articles/airpods-replicas-on-android).
-- Emparelhou com um iPhone moderno? Confira as particularidades de compatibilidade em [AirPods falsos funcionam com iPhones novos?](/pt/articles/do-fake-airpods-work-with-new-iphone).
-- Quer saber se um par problemático é genuíno ou uma réplica? Use nosso [guia sobre como identificar AirPods falsos](/pt/articles/how-to-spot-fake-airpods).
+- Os fones ainda não são detectados? Siga as etapas de [AirPods falsos não conectam](/pt/articles/fake-airpods-wont-connect).
+- Está usando um dispositivo Android? Saiba como as configurações são transferidas em [réplicas de AirPods no Android](/pt/articles/airpods-replicas-on-android).
+- Pareou com um iPhone moderno? Confira os detalhes de compatibilidade em [AirPods falsos funcionam com iPhones novos?](/pt/articles/do-fake-airpods-work-with-new-iphone).
+- Quer saber se um par que não funciona direito é genuíno ou clonado? Consulte nosso [guia para identificar AirPods falsos](/pt/articles/how-to-spot-fake-airpods).
 
 ## Perguntas frequentes
 
-::: details Qual é a diferença entre uma redefinição simples e uma redefinição completa em AirPods falsos?
-Uma redefinição simples esquece e emparelha novamente os fones para eliminar falhas de conexão. Uma redefinição completa descarrega os fones por completo antes de refazer a redefinição simples, limpando estados mais profundos quando a redefinição simples não é suficiente. O pressionamento longo do botão do estojo é uma redefinição mais forte, semelhante à de fábrica, nos modelos que oferecem suporte a ela.
+::: details Qual é a diferença entre uma reinicialização suave e uma reinicialização completa nos AirPods falsos?
+Uma reinicialização suave remove o pareamento dos fones e os pareia novamente para resolver problemas de conexão. Uma reinicialização completa descarrega os fones por completo antes de repetir a reinicialização suave, limpando estados mais profundos quando a reinicialização suave não resolve. Nos modelos compatíveis, manter o botão do estojo pressionado por mais tempo faz uma reinicialização mais forte, semelhante à de fábrica.
 :::
 
-::: details Quantas vezes devo tentar uma redefinição simples?
-Planeje fazer 3–4 tentativas. Esse é o procedimento normal documentado para réplicas — uma única tentativa que não funciona não significa que o procedimento falhou.
+::: details Quantas vezes devo tentar fazer uma reinicialização suave?
+Conte com 3–4 tentativas. Esse é o número normal documentado para réplicas — se não funcionar na primeira tentativa, isso não significa que o procedimento falhou.
 :::
 
 ::: details Redefinir os AirPods falsos altera minhas configurações?
-Pode alterar. Depois de uma redefinição, seu nome personalizado e os controles por toque podem desaparecer, pois são configurados pelo iOS. Reaplique-os usando um iPhone, e eles deverão ser salvos nos fones.
+Pode alterar. Após uma redefinição, o nome personalizado e os controles de toque podem desaparecer, pois são configurados pelo iOS. Configure-os novamente em um iPhone e eles deverão ser salvos nos fones.
 :::
 
-::: details Uma redefinição resolverá o problema se os aplicativos de firmware não detectarem minha réplica?
-Não. Se nenhum aplicativo da comunidade conseguir se conectar, é provável que você tenha um chipset Jieli básico, e uma redefinição não mudará isso. Use a página de [aplicativos úteis](/pt/useful-apps) para verificar quais aplicativos são compatíveis com cada chipset.
+::: details A redefinição vai resolver o problema se os aplicativos de firmware não detectarem meu clone?
+Não. Se nenhum aplicativo da comunidade conseguir se conectar, provavelmente você tem um chipset Jieli básico, e uma redefinição não mudará isso. Consulte a página de [aplicativos úteis](/pt/useful-apps) para verificar quais aplicativos são compatíveis com cada chipset.
 :::

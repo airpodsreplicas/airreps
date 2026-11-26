@@ -1,20 +1,20 @@
 ---
-title: 'Guia do APK StarFun: EQ e firmware para réplicas de AirPods Huilian'
-description: 'Onde obter o StarFun para Android e iOS, quais réplicas de AirPods Huilian são compatíveis com ele, como ajustar o EQ e atualizar o firmware com segurança e o que verificar quando o aplicativo não encontra seus fones.'
+title: 'Guia do app StarFun: réplicas de AirPods Huilian'
+description: 'Baixe o StarFun para Android e iOS: réplicas de AirPods Huilian compatíveis (V7, V6, V5.4, V5.3, AirPods 4 V2), equalizador personalizado, atualizações seguras de firmware e correções.'
 category: Usando suas réplicas
 order: 20
 ---
-# Guía de StarFun APK: ecualización y firmware para réplicas de AirPods Huilian
+# Guia do APK StarFun: EQ e firmware para réplicas de AirPods Huilian
 
-StarFun es la aplicación complementaria para réplicas de AirPods con chipsets **Huilian** (247, 277, 377 y 377H3). Hace con los modelos Huilian lo que [FlyCC](/pt/articles/flycc-app-guide) hace con los modelos Airoha y TigerBuilder: se usa para ajustar la ecualización y actualizar el firmware. Si tienes una réplica Huilian, como los AirPods Pro 3 V7 Huilian o los Pro 2 V5.4, StarFun es la aplicación que debes instalar.
+StarFun é o app complementar para réplicas de AirPods com chipsets **Huilian** (247, 277, 377 e 377H3). Ele faz para os modelos Huilian o que [FlyCC](/pt/articles/flycc-app-guide) faz para os modelos Airoha e TigerBuilder: você pode usá-lo para ajustar o EQ e atualizar o firmware. Se você tem uma réplica Huilian, como os AirPods Pro 3 V7 Huilian ou os Pro 2 V5.4, o StarFun é o app que deve instalar.
 
-> **Respuesta rápida:** StarFun es la aplicación para las réplicas de AirPods basadas en Huilian: los AirPods Pro 3 V7 Huilian y V6 Huilian, los AirPods Pro 2 V5.4 y V5.3 Huilian, y los AirPods 4 V2 Huilian. Descárgala como APK para Android o desde la App Store de iOS a través de [Useful Apps](/pt/useful-apps#huilian). Úsala para ajustar la ecualización y, solo si algo falla, para actualizar el firmware. Los modelos TigerBuilder usan FlyCC. Si ninguna aplicación se conecta a tus auriculares, probablemente sean una imitación Jieli de gama baja.
+> **Resposta rápida:** StarFun é o app para réplicas de AirPods com Huilian: AirPods Pro 3 V7 Huilian e V6 Huilian, AirPods Pro 2 V5.4 e V5.3 Huilian e AirPods 4 V2 Huilian. Baixe-o como APK para Android ou pela App Store do iOS em [Useful Apps](/pt/useful-apps#huilian). Use-o para ajustar o EQ e, somente se algo estiver com defeito, para atualizar o firmware. Modelos TigerBuilder usam o FlyCC. Se nenhum app conectar aos seus fones, provavelmente são clones de baixa qualidade com chipset Jieli.
 
-## Qué réplicas usan StarFun
+## Quais réplicas usam o StarFun
 
-Estas son las versiones de la guía cuyas tablas de versiones indican que StarFun es la aplicación para la ecualización y los ajustes:
+Estas são as versões do guia cujas tabelas indicam o StarFun como app para EQ e configurações:
 
-| Modelo | Versión | Chipset | Conexión iCloud |
+| Modelo | Versão | Chipset | Conexão iCloud |
 | :--- | :--- | :--- | :--- |
 | AirPods Pro 3 | V7 Huilian | Huilian 377H3 | ✅ |
 | AirPods Pro 3 | V6 Huilian | Huilian 247 | ✅ |
@@ -22,84 +22,85 @@ Estas son las versiones de la guía cuyas tablas de versiones indican que StarFu
 | AirPods Pro 2 | V5.3 Huilian | Huilian 277 Pro Max | ✅ |
 | AirPods 4 | V2 Huilian | Huilian 247 | ✅ |
 
-La tabla de los AirPods 3 también indica StarFun para la versión V1.2 (Huilian A10), pero los vendedores de confianza no ofrecen actualmente ningún AirPods 3.
+A tabela dos AirPods 3 também indica o StarFun para a versão V1.2 (Huilian A10), mas os vendedores confiáveis não oferecem AirPods 3 no momento.
 
-Estos cinco modelos también son los modelos con conexión iCloud de la guía. La conexión iCloud es exclusiva de las réplicas basadas en Huilian, así que, si compraste unos para alternar entre tus dispositivos Apple, StarFun es tu aplicación. Compara las versiones en las páginas de versiones de [Pro](/pt/version-info/pro) y [AirPods](/pt/version-info/airpods).
+Estes cinco modelos também são os modelos com Conexão iCloud do guia. A Conexão iCloud é exclusiva das réplicas com Huilian, então, se você comprou um par para alternar entre seus dispositivos Apple, o StarFun é o app ideal. Compare as versões nas páginas de versões [Pro](/pt/version-info/pro) e [AirPods](/pt/version-info/airpods).
 
-## Descargar StarFun para Android o iOS
+## Baixe o StarFun para Android ou iOS
 
-StarFun tiene dos versiones, ambas enlazadas en [Useful Apps](/pt/useful-apps#huilian):
+O StarFun está disponível em duas versões, ambas indicadas em [Useful Apps](/pt/useful-apps#huilian):
 
-- **Android:** [StarFun APK](https://airreps.link/starfun)
-- **iPhone:** [StarFun en la App Store](https://airreps.link/istarfun)
+- **Android:** [APK do StarFun](https://airreps.link/starfun)
+- **iPhone:** [StarFun na App Store](https://airreps.link/istarfun)
 
-La versión para Android es un APK, no una descarga de Google Play. Si Android bloquea la instalación, activa **Instalar desde fuentes desconocidas** (también llamado **Instalar aplicaciones desconocidas**) para tu navegador o gestor de archivos. Normalmente lo encontrarás en Seguridad o Accesibilidad, dentro de los ajustes. Después, abre el archivo `.apk` descargado y pulsa **Instalar**.
+A versão para Android é um APK, não um download da Google Play. Se o Android bloquear a instalação, ative **Instalar de fontes desconhecidas** (também chamado **Instalar apps desconhecidos**) para o navegador ou gerenciador de arquivos. Geralmente, você encontra essa opção em Segurança ou Acessibilidade nas configurações. Em seguida, abra o arquivo `.apk` baixado e toque em **Instalar**.
 
-Antes de abrir StarFun, conecta los auriculares al teléfono desde los ajustes habituales de Bluetooth.
+Antes de abrir o StarFun, conecte os fones ao celular pelas configurações normais de Bluetooth.
 
-## Ajustar la ecualización
+## Ajuste o EQ
 
-La ecualización puede variar según el vendedor, así que una misma versión puede sonar distinta de un lote a otro. La guía recomienda StarFun para ajustar la ecualización en dispositivos Huilian, del mismo modo que FlyCC es para TigerBuilder y BullSuper para HR. En los AirPods 4 V2 Huilian, los perfiles de ecualización personalizados de StarFun se sincronizan directamente con iOS.
+O EQ pode variar conforme o vendedor, então a mesma versão pode ter um som diferente de um lote para outro. O StarFun é o app recomendado pelo guia para ajustar o EQ em dispositivos Huilian, assim como o FlyCC é para TigerBuilder e o BullSuper é para HR. Nos AirPods 4 V2 Huilian, os perfis personalizados de EQ do StarFun são sincronizados diretamente com o iOS.
 
-¿No quieres empezar desde cero? Los miembros de la comunidad comparten sus propios ajustes de ecualización en Discord (consulta el final de esta guía). Para saber cómo suenan las réplicas de fábrica, lee [Calidad de sonido](/pt/introduction/sound-quality).
+Não quer ajustar tudo do zero? Membros da comunidade compartilham suas configurações de EQ no Discord (veja o fim deste guia). Para saber como as réplicas soam assim que saem da caixa, leia [Qualidade do som](/pt/introduction/sound-quality).
 
-## Actualizar el firmware con StarFun
+## Atualize o firmware com o StarFun
 
-Empieza por la regla de oro de la comunidad: **si funciona, no lo toques.** Las actualizaciones de firmware se publican principalmente para corregir problemas causados por actualizaciones importantes de iOS o errores graves de hardware. Si tus auriculares se conectan sin problemas y suenan bien, actualizarlos solo añade el riesgo de dejarlos inutilizables.
+Comece pela regra de ouro da comunidade: **se está funcionando, não mexa.** As atualizações de firmware são lançadas principalmente para corrigir problemas causados por grandes atualizações do iOS ou bugs graves de hardware. Se seus fones conectam sem problemas e têm um bom som, a atualização só acrescenta o risco de inutilizá-los.
 
-Si necesitas una actualización, primero sigue esta lista de seguridad:
+Se precisar mesmo atualizar, siga primeiro esta lista de segurança:
 
-1. Carga ambos auriculares y el estuche por encima del 80 %.
-2. Mantén el estuche conectado a la corriente durante la actualización.
-3. Deja ambos auriculares colocados en el estuche con la tapa abierta.
-4. Mantén la pantalla del teléfono encendida para evitar que se interrumpa la transferencia.
+1. Carregue os dois fones e o estojo acima de 80%.
+2. Mantenha o estojo conectado à energia durante a atualização.
+3. Deixe os dois fones encaixados no estojo, com a tampa aberta.
+4. Mantenha a tela do celular ativa para que a transferência não seja interrompida.
 
-Después, actualiza desde StarFun:
+Em seguida, faça a atualização no StarFun:
 
-1. Asegúrate de que los auriculares estén conectados al teléfono y de que la tapa esté abierta.
-2. Abre **StarFun** y pulsa el icono de **Ajustes / Firmware**.
-3. Compara la versión actual del firmware con la última versión disponible en la nube.
-4. Pulsa **Actualizar**. La aplicación escribe los bloques de configuración uno tras otro.
-5. Cuando los auriculares se reinicien, olvídalos en el menú Bluetooth del teléfono y haz un reinicio suave.
+1. Verifique se os fones estão conectados ao celular e se a tampa está aberta.
+2. Abra o **StarFun** e toque no ícone **Configurações / Firmware**.
+3. Compare a versão atual do firmware com a versão mais recente disponível na nuvem.
+4. Toque em **Atualizar**. O app grava os blocos de configuração, um após o outro.
+5. Depois que os fones reiniciarem, remova-os da lista de dispositivos no menu Bluetooth do celular e faça uma reinicialização suave.
 
-Usa StarFun únicamente con auriculares Huilian. Instalar firmware destinado a un chipset diferente puede dejar los auriculares inutilizables, y el firmware para un chip Airoha deja inutilizada al instante una placa Huilian.
+Use o StarFun somente com fones Huilian. Instalar um firmware destinado a outro chipset pode inutilizar os fones, e um firmware destinado a um chip Airoha inutiliza instantaneamente uma placa Huilian.
 
-Si la actualización se queda atascada en un porcentaje durante más de 5 minutos, no cierres la tapa ni saques los auriculares. Vuelve a intentarlo o reinicia la aplicación sin sacar los auriculares de su sitio. Si los auriculares dejan de responder por completo, sigue las instrucciones para hacer un reinicio completo en [Cómo reiniciar unos AirPods falsos](/pt/articles/how-to-reset-fake-airpods) y vuelve a abrir StarFun. En la mayoría de los casos, se puede volver a instalar la actualización desde el 0 %. La [guía de actualización del firmware](/pt/articles/how-to-update-fake-airpods-firmware) cubre todos los chipsets.
+Se a atualização ficar parada em uma porcentagem por mais de 5 minutos, não feche a tampa nem retire os fones. Tente novamente ou reinicie o app, mantendo os fones no estojo. Se os fones pararem de responder completamente, siga as instruções de reinicialização forçada em [Como reiniciar AirPods falsos](/pt/articles/how-to-reset-fake-airpods) e abra o StarFun novamente. Na maioria dos casos, é possível instalar a atualização outra vez a partir de 0%. O [guia de atualização de firmware](/pt/articles/how-to-update-fake-airpods-firmware) abrange todos os chipsets.
 
-## ¿StarFun no encuentra tus auriculares?
+## O StarFun não encontra seus fones?
 
-Sigue estos pasos en orden:
+Siga estas etapas nesta ordem:
 
-- **Primero, emparéjalos en los ajustes de Bluetooth.** StarFun necesita que los auriculares ya estén conectados al teléfono.
-- **Comprueba el chip.** StarFun es para modelos Huilian. Los modelos TigerBuilder (Airoha) usan FlyCC, y los modelos HR usan BullSuper. La forma habitual de identificar el chip es probar, una por una, las aplicaciones de [Useful Apps](/pt/useful-apps) y ver cuál se conecta.
-- **¿No se conecta ninguna aplicación?** Entonces probablemente tus auriculares sean una imitación de gama muy baja con un chipset Jieli, que no es compatible con ninguna de las aplicaciones de la comunidad. Los AirPods originales de Apple tampoco responderán a estas aplicaciones.
-- **¿La conexión se interrumpe constantemente?** Borra la caché de emparejamiento reiniciando el controlador mediante la [guía de reinicio](/pt/articles/how-to-reset-fake-airpods). Para problemas generales de emparejamiento, consulta [Los AirPods falsos no se conectan](/pt/articles/fake-airpods-wont-connect).
+- **Emparelhe-os primeiro nas configurações de Bluetooth.** O StarFun precisa que os fones já estejam conectados ao celular.
+- **Verifique o chip.** O StarFun é para modelos Huilian. Os modelos TigerBuilder (Airoha) usam o FlyCC, e os modelos HR usam o BullSuper. A maneira padrão de identificar o chip é testar os apps em [Useful Apps](/pt/useful-apps), um de cada vez, e ver qual deles se conecta.
+- **Nenhum app conecta?** Então provavelmente seu par é um clone de qualidade muito baixa com chipset Jieli, incompatível com todos os apps da comunidade. Os AirPods originais da Apple também não respondem a esses apps.
+- **A conexão cai constantemente?** Limpe o cache de emparelhamento reiniciando o controlador com o guia de [reinicialização](/pt/articles/how-to-reset-fake-airpods). Para problemas gerais de emparelhamento, consulte [AirPods falsos não conectam](/pt/articles/fake-airpods-wont-connect).
 
-## Lecturas relacionadas
+## Leituras relacionadas
 
-- ¿Tienes un modelo TigerBuilder? Lee la [Guía de FlyCC APK](/pt/articles/flycc-app-guide).
-- ¿Estás eligiendo entre las dos versiones V7? Compara [AirPods Pro 3 V7 Huilian frente a V7 TB](/pt/articles/airpods-pro-3-v7-huilian-vs-v7-tb).
-- ¿Usas tus réplicas con un Mac? La guía recomienda los modelos Huilian; consulta [¿Funcionan los AirPods falsos con Mac?](/pt/articles/fake-airpods-on-mac)
-- Todas las descargas de aplicaciones en un solo lugar: [Useful Apps](/pt/useful-apps).
+- Tem um modelo TigerBuilder? Leia o [guia do APK FlyCC](/pt/articles/flycc-app-guide).
+- Está escolhendo entre as duas versões V7? Compare [AirPods Pro 3 V7 Huilian vs. V7 TB](/pt/articles/airpods-pro-3-v7-huilian-vs-v7-tb).
+- Usa suas réplicas com um Mac? O guia recomenda os modelos Huilian; consulte [AirPods falsos funcionam com Mac?](/pt/articles/fake-airpods-on-mac)
+- Todos os downloads de apps em um só lugar: [Useful Apps](/pt/useful-apps).
+- Quer comprar uma réplica Huilian? Faça o [quiz de 1 minuto](/pt/quiz) ou consulte os [links de vendedores de AirPods Pro](/pt/links/pro).
 
-## Pregunta a la comunidad
+## Pergunte à comunidade
 
-¿Quieres un ajuste de ecualización inicial en lugar de empezar desde cero? Los miembros de la comunidad comparten sus propios ajustes en el [Discord de AirReps](https://airreps.link/dghelp), y la mayoría de los preajustes están fijados en **#help-and-advice**. Cuando preguntes, indica qué versión Huilian tienes.
+Quer um EQ inicial em vez de ajustar tudo do zero? Membros da comunidade compartilham suas configurações de EQ no [Discord do AirReps](https://airreps.link/dghelp), e a maioria dos perfis predefinidos está fixada em **#help-and-advice**. Ao perguntar, informe qual versão Huilian você tem.
 
-## Preguntas frecuentes
+## Perguntas frequentes
 
-::: details ¿StarFun está disponible para iPhone?
-Sí. StarFun está disponible en la App Store de iOS y como APK para Android. Ambos enlaces están en [Useful Apps](/pt/useful-apps#huilian).
+::: details O StarFun está disponível para iPhone?
+Sim. O StarFun está na App Store do iOS e também está disponível como APK para Android. Os dois links estão em [Useful Apps](/pt/useful-apps#huilian).
 :::
 
-::: details ¿Qué réplicas de AirPods funcionan con StarFun?
-Las réplicas basadas en Huilian: los AirPods Pro 3 V7 Huilian y V6 Huilian, los AirPods Pro 2 V5.4 y V5.3 Huilian, y los AirPods 4 V2 Huilian. La guía de firmware indica que StarFun funciona con los chipsets Huilian 247, 277, 377 y 377H3.
+::: details Quais réplicas de AirPods funcionam com o StarFun?
+Réplicas com Huilian: AirPods Pro 3 V7 Huilian e V6 Huilian, AirPods Pro 2 V5.4 e V5.3 Huilian e AirPods 4 V2 Huilian. O guia de firmware indica os chipsets Huilian 247, 277, 377 e 377H3 como compatíveis com o StarFun.
 :::
 
-::: details ¿Qué aplicación usan las réplicas TigerBuilder?
-FlyCC. Los modelos TigerBuilder, incluidos los AirPods Pro 3 V7 TB, usan FlyCC, mientras que StarFun es para chipsets Huilian. Instalar firmware destinado a un chipset diferente puede dejar los auriculares inutilizables, así que asegúrate siempre de que la aplicación corresponda a tu chip.
+::: details Qual app as réplicas TigerBuilder usam?
+FlyCC. Os modelos TigerBuilder, incluindo os AirPods Pro 3 V7 TB, usam o FlyCC, enquanto o StarFun é para chipsets Huilian. Instalar um firmware destinado a outro chipset pode inutilizar os fones, então sempre use o app correspondente ao seu chip.
 :::
 
-::: details ¿Dónde puedo descargar el APK de StarFun?
-Desde el [enlace de descarga de StarFun](https://airreps.link/starfun) en nuestra página [Useful Apps](/pt/useful-apps#huilian). Si Android bloquea la instalación, activa «Instalar desde fuentes desconocidas» en los ajustes.
+::: details Onde posso baixar o APK do StarFun?
+No [link de download do StarFun](https://airreps.link/starfun) na nossa página [Useful Apps](/pt/useful-apps#huilian). Se o Android bloquear a instalação, ative "Instalar de fontes desconhecidas" nas configurações.
 :::

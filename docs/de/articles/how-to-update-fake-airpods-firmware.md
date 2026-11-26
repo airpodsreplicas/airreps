@@ -1,100 +1,104 @@
 ---
-title: 'So aktualisieren Sie die Firmware gefälschter AirPods: Schritt-für-Schritt-Anleitung'
-description: 'So aktualisieren Sie die Firmware von AirPods-Klonen sicher mit FlyCC, CloudCC und Starfun — sichere Laderegeln, wie Sie einen Totalausfall vermeiden und wann Sie die Firmware unangetastet lassen sollten.'
+title: So aktualisierst du die Firmware gefälschter AirPods sicher
+description: 'Aktualisiere die Firmware von AirPods-Klonen sicher mit FlyCC (Airoha/TB) und StarFun (Huilian): 80-%-Akkuregel, Schutz vor einem Defekt und wann du nicht aktualisieren solltest.'
 category: Fehlerbehebung
 order: 16
 ---
-# So aktualisieren Sie die Firmware gefälschter AirPods: Schritt-für-Schritt-Anleitung
+# So aktualisierst du die Firmware gefälschter AirPods: Schritt-für-Schritt-Anleitung
 
-Im Gegensatz zu echten Apple AirPods, die sich unbemerkt im Hintergrund über iOS aktualisieren, werden AirPods-Nachbauten über Community-Begleit-Apps unter Android, iOS oder macOS aktualisiert. Firmware-Updates können Fehler beim iOS-Handshake beheben, die Stabilität der aktiven Geräuschunterdrückung (ANC) verbessern oder Verbindungsabbrüche verhindern.
+Im Gegensatz zu echten Apple AirPods, deren Updates unbemerkt im Hintergrund über iOS installiert werden, werden AirPods-Nachbildungen über Community-Begleit-Apps aktualisiert. Sowohl **FlyCC** als auch **StarFun** sind für Android und im iOS App Store verfügbar. Android-APKs sind jedoch weiterhin der zuverlässigste Weg, um ein vollständiges OTA-Flashen über alle Chipsets hinweg durchzuführen. Firmware-Updates können iOS-Handshake-Fehler beheben, die Stabilität der aktiven Geräuschunterdrückung (ANC) verbessern oder Verbindungsabbrüche beheben.
 
-Beim Flashen der Firmware werden jedoch Daten direkt in den internen Flash-Speicher der Ohrhörer geschrieben. Wird ein Update unterbrochen, kann der Controller dauerhaft unbrauchbar werden. Diese Anleitung beschreibt die sicheren, von der Community erprobten Flash-Verfahren für alle gängigen Nachbau-Chipsätze.
+Beim Flashen wird die Firmware jedoch direkt in den internen Flash-Speicher der Ohrhörer geschrieben. Ein unterbrochenes Update kann einen Controller dauerhaft unbrauchbar machen. Diese Anleitung beschreibt sichere, in der Community erprobte Flash-Verfahren für alle wichtigen Nachbildungs-Chipsets.
 
-> **Kurzantwort:** Um die Firmware von AirPods-Nachbauten zu aktualisieren, müssen Sie zuerst den Chipsatz ermitteln und das passende Dienstprogramm auswählen: **FlyCC** (Airoha, einschließlich TigerBuilder) oder **Starfun** (Huilian). Achten Sie darauf, dass beide Ohrhörer und das Ladecase zu mindestens 80 % geladen sind. Lassen Sie den Deckel des Cases geöffnet und beide Ohrhörer darin liegen, starten Sie das OTA-Update in der App und schließen Sie den Deckel nicht, schalten Sie Bluetooth nicht um und beenden Sie die App nicht, bis der Fortschritt 100 % erreicht hat.
+> **Kurzantwort:** Um die Firmware von AirPods-Nachbildungen zu aktualisieren, identifiziere zuerst dein Chipset, um das passende Dienstprogramm auszuwählen: **FlyCC** (Airoha, einschließlich TigerBuilder) oder **StarFun** (Huilian). Stelle sicher, dass beide Ohrhörer und das Ladecase zu mehr als 80 % geladen sind. Lass den Deckel des Cases geöffnet, beide Ohrhörer im Case und starte das OTA-Update in der App. Schließe den Deckel nicht, schalte Bluetooth nicht um und beende die App nicht, bis der Fortschritt 100 % erreicht hat.
 
-::: warning Die wichtigste Regel: Wenn es funktioniert, lassen Sie es in Ruhe
-Firmware-Updates für Nachbauten funktionieren nicht wie Patches für Videospiele. Sie werden hauptsächlich veröffentlicht, um Fehler zu beheben, die durch größere iOS-Updates verursacht wurden, oder schwerwiegende Hardwarefehler zu korrigieren. Wenn sich Ihre Ohrhörer derzeit problemlos verbinden, gut klingen und die ANC einwandfrei funktioniert, **aktualisieren Sie die Firmware nicht**. Unnötiges Flashen birgt nur das Risiko, die Ohrhörer unbrauchbar zu machen.
+::: warning Die wichtigste Regel: Wenn es funktioniert, lass es in Ruhe
+Firmware-Updates bei Nachbildungen funktionieren nicht wie Patches für Videospiele. Sie werden vor allem veröffentlicht, um schwerwiegende Änderungen durch große iOS-Updates zu beheben oder gravierende Hardwarefehler zu korrigieren. Wenn sich deine Ohrhörer derzeit problemlos verbinden, gut klingen und die ANC einwandfrei funktioniert, **aktualisiere die Firmware nicht**. Unnötiges Flashen birgt nur das Risiko, das Gerät unbrauchbar zu machen.
 :::
 
 <CommunityCta variant="apps" />
 
 ## Sicherheitscheckliste vor dem Update
 
-Bevor Sie die Update-Schaltfläche betätigen, müssen Sie diese vier Bedingungen unbedingt überprüfen:
+Überprüfe vor dem Tippen auf die Aktualisierungsschaltfläche unbedingt diese vier Bedingungen:
 
-1. **Akkuladung über 80 %**: Achten Sie darauf, dass sowohl beide Ohrhörer als auch das Ladecase zu mindestens 80 % geladen sind. Geht einem Ohrhörer während des Flashens der Strom aus, wird der Bootloader beschädigt.
-2. **Case während des Updates ans Stromnetz anschließen**: Verbinden Sie das Ladecase während des Updates mit einem 5-V-/1-A-Netzteil oder einer Powerbank.
-3. **Deckel geöffnet lassen**: Die Ohrhörer müssen während der gesamten Übertragung in den Ladekontakten liegen, während der Deckel des Cases geöffnet bleibt.
-4. **Automatische Sperre / Bildschirm-Standby deaktivieren**: Lassen Sie den Bildschirm Ihres Smartphones eingeschaltet. Wenn das Smartphone in den Tiefschlaf wechselt oder Hintergrundprozesse beendet, kann die Bluetooth-Übertragung ins Stocken geraten.
+1. **Akkustand über 80 %**: Stelle sicher, dass beide Ohrhörer und das Ladecase mindestens zu 80 % geladen sind. Wenn einem Ohrhörer mitten im Flash-Vorgang der Strom ausgeht, wird der Bootloader beschädigt.
+2. **Case während des Updates am Strom lassen**: Schließe das Ladecase während des Updates an ein 5-V-/1-A-Netzteil oder eine Powerbank an.
+3. **Deckel geöffnet lassen**: Die Ohrhörer müssen während der gesamten Übertragung in den Ladekontakten sitzen und der Deckel des Cases muss geöffnet bleiben.
+4. **Automatische Sperre / Ruhezustand deaktivieren**: Lass den Bildschirm deines Smartphones eingeschaltet. Wenn dein Smartphone in den Tiefschlaf wechselt oder Hintergrundprozesse schließt, kann die Bluetooth-Übertragung ins Stocken geraten.
 
-## Schritt 1: Chipsatz und App ermitteln
+## Schritt 1: Chipset und App bestimmen
 
-Wird eine Firmware-Datei für einen Airoha-Chip auf ein Huilian-Board geflasht, wird das Gerät sofort unbrauchbar. Wählen Sie in unserem [Katalog nützlicher Apps](/de/useful-apps) das zum Chipsatz passende Dienstprogramm aus:
+Wird eine Firmwaredatei für einen Airoha-Chip auf ein Huilian-Board geflasht, wird das Gerät sofort unbrauchbar. Wähle in unserem [Katalog nützlicher Apps](/de/useful-apps) das Dienstprogramm passend zu deinem Chip aus:
 
-- **Airoha-Chipsätze (1562AE, 1562E, 1571AM)** → Verwenden Sie **FlyCC** (Lesen Sie unsere [FlyCC-App-Anleitung](/de/articles/flycc-app-guide)).
-- **TigerBuilder-Chipsätze (1562AE/TB, 1571AM/TB)** → Verwenden Sie **FlyCC**. CloudCC ist veraltet, seit TigerBuilder die OTA-Funktion in FlyCC integriert hat. Verwenden Sie CloudCC nur als Ausweichlösung, falls das Berechtigungsproblem mit dem Speicher auftritt.
-- **Huilian-Chipsätze (247, 277, 377, 377H3)** → Verwenden Sie **Starfun**.
-- **Jieli-(Jerry-)Chipsätze** → Bei Jieli-Nachbauten der unteren Preisklasse werden OTA-Firmware-Updates nicht unterstützt.
+- **Airoha-Chipsets (1562AE, 1562E, 1571AM)** → Verwende **FlyCC** (Lies unsere [FlyCC-App-Anleitung](/de/articles/flycc-app-guide)).
+- **TigerBuilder-Chipsets (1562AE/TB, 1571AM/TB)** → Verwende **FlyCC**. CloudCC ist veraltet, seit TigerBuilder die OTA-Funktion in FlyCC integriert hat. Verwende CloudCC nur als Ausweichlösung, wenn das Speicherberechtigungsproblem auftritt.
+- **Huilian-Chipsets (247, 277, 377, 377H3)** → Verwende **StarFun** (Lies unsere [StarFun-App-Anleitung](/de/articles/starfun-app-guide)).
+- **Jieli-(Jerry-)Chipsets** → Einfache Jieli-Klone unterstützen keine OTA-Firmware-Updates.
 
 ## Schritt 2: Schritt-für-Schritt-Anleitungen zum Update
 
 ### Methode A: Update mit FlyCC (Airoha)
 
-1. Verbinden Sie Ihre AirPods über die üblichen Bluetooth-Einstellungen mit Ihrem Android-Gerät.
-2. Starten Sie **FlyCC** und prüfen Sie, ob Ihr Modell auf dem Startbildschirm angezeigt wird.
-3. Tippen Sie auf **Firmware Update** (oder **OTA Update**).
-4. Tippen Sie auf **Check for Updates**. Wird eine neue Version gefunden, zeigt die App die Build-Nummer und das Änderungsprotokoll an.
-5. Tippen Sie auf **Start Update**. Das Update erfolgt in zwei Phasen: Zuerst wird die Firmware-Datei auf den linken, anschließend auf den rechten Ohrhörer übertragen.
-6. Wenn der Fortschritt 100 % erreicht hat, warten Sie auf die Meldung: *„Update Successful“*.
-7. Schließen Sie den Deckel des Ladecases und lassen Sie es 60 Sekunden lang unberührt, damit die Mikrocontroller neu starten können.
+1. Verbinde deine AirPods über die standardmäßigen Bluetooth-Einstellungen mit deinem Smartphone.
+2. Starte **FlyCC** und überprüfe, ob dein Modell auf dem Startbildschirm angezeigt wird.
+3. Tippe auf **Firmware-Update** (oder **OTA-Update**).
+4. Tippe auf **Nach Updates suchen**. Wenn eine neue Version erkannt wird, zeigt die App die Buildnummer und das Änderungsprotokoll an.
+5. Tippe auf **Update starten**. Das Update erfolgt in zwei Schritten: Zuerst wird die Firmwaredatei auf den linken Ohrhörer übertragen, dann auf den rechten.
+6. Sobald der Fortschritt 100 % erreicht, warte auf die Meldung: *„Update erfolgreich“*.
+7. Schließe den Deckel des Ladecases und lass es 60 Sekunden unberührt, damit die Mikrocontroller neu starten können.
 
-### Methode B: CloudCC-Ausweichlösung (TigerBuilder)
+::: warning Hinweis zur Pro 3 V7 TB-Firmware
+Nach einem Firmware-Update mit FlyCC auf den **AirPods Pro 3 V7 TB** verschwinden das iOS-Popup und die Seriennummer. Sie müssen in der FlyCC-App erneut hinzugefügt werden. Die V7 Huilian (StarFun) ist davon nicht betroffen.
+:::
 
-TigerBuilder-Geräte werden über FlyCC aktualisiert (Methode A). Verwenden Sie CloudCC nur, wenn in FlyCC das Berechtigungsproblem mit dem Speicher auftritt:
+### Methode B: CloudCC als Ausweichlösung (TigerBuilder)
 
-1. Legen Sie beide Ohrhörer mit geöffnetem Deckel in das Case.
-2. Öffnen Sie **CloudCC** und tippen Sie auf **Search Device**.
-3. Wählen Sie Ihr TigerBuilder-Gerät aus, sobald es erkannt wurde.
-4. Öffnen Sie den Tab **Firmware** und tippen Sie auf **Query Latest Version**.
-5. Wählen Sie das Cloud-Paket aus und tippen Sie auf **Download and Update**.
-6. Legen Sie das Smartphone direkt neben das Ladecase und lassen Sie es dort liegen, bis die Meldung den Abschluss bestätigt.
+TigerBuilder-Geräte werden über FlyCC aktualisiert (Methode A). Verwende CloudCC nur, wenn bei FlyCC das Speicherberechtigungsproblem auftritt:
 
-### Methode C: Update mit Starfun (Huilian)
+1. Lege beide Ohrhörer bei geöffnetem Deckel ins Case.
+2. Öffne **CloudCC** und tippe auf **Gerät suchen**.
+3. Wähle dein TigerBuilder-Gerät aus, sobald es erkannt wurde.
+4. Öffne die Registerkarte **Firmware** und tippe auf **Neueste Version abfragen**.
+5. Wähle das Cloud-Paket aus und tippe auf **Herunterladen und aktualisieren**.
+6. Lass das Smartphone direkt neben dem Ladecase liegen, bis eine Meldung den Abschluss bestätigt.
 
-1. Achten Sie darauf, dass die Ohrhörer mit Ihrem Smartphone verbunden und der Deckel geöffnet ist.
-2. Öffnen Sie **Starfun** und tippen Sie auf das Symbol **Settings / Firmware**.
-3. Vergleichen Sie die aktuelle Firmware-Version mit der neuesten verfügbaren Version aus der Cloud.
-4. Tippen Sie auf **Upgrade**. Die App schreibt die Konfigurationsblöcke nacheinander.
-5. Vergessen Sie nach dem Neustart das Gerät im Bluetooth-Menü Ihres Smartphones und führen Sie einen Soft-Reset durch.
+### Methode C: Update mit StarFun (Huilian)
 
-## Was tun, wenn ein Update hängen bleibt oder fehlschlägt?
+1. Stelle sicher, dass die Ohrhörer mit deinem Smartphone verbunden und der Deckel geöffnet ist.
+2. Öffne **StarFun** und tippe auf das Symbol **Einstellungen / Firmware**.
+3. Vergleiche die aktuelle Firmwareversion mit der neuesten Version in der Cloud.
+4. Tippe auf **Aktualisieren**. Die App schreibt die Konfigurationsblöcke nacheinander.
+5. Vergiss das Gerät nach dem Neustart im Bluetooth-Menü deines Smartphones und führe einen Soft-Reset durch.
 
-Wenn ein Update bei einem bestimmten Prozentsatz hängen bleibt (z. B. über 5 Minuten bei 45 %):
+## Was tun, wenn ein Update einfriert oder fehlschlägt?
 
-1. **Schließen Sie nicht den Deckel und nehmen Sie die Ohrhörer nicht heraus.**
-2. Prüfen Sie, ob die Bluetooth-Verbindung getrennt wurde. Wenn die App dies zulässt, tippen Sie auf **Retry** oder starten Sie die App neu, ohne die Ohrhörer zu bewegen.
-3. Wenn die Ohrhörer überhaupt nicht mehr reagieren, befolgen Sie unsere Anleitung [So setzen Sie gefälschte AirPods zurück](/de/articles/how-to-reset-fake-airpods), um einen 15-sekündigen harten Controller-Reset durchzuführen.
-4. Öffnen Sie die Update-App erneut – in den meisten Fällen ermöglicht der Wiederherstellungs-Bootloader, das Paket erneut ab 0 % zu flashen.
+Wenn ein Update bei einem bestimmten Prozentsatz hängen bleibt (z. B. länger als 5 Minuten bei 45 % eingefroren ist):
+
+1. **Schließe den Deckel nicht und nimm die Ohrhörer nicht heraus.**
+2. Prüfe, ob die Bluetooth-Verbindung getrennt wurde. Falls die App es zulässt, tippe auf **Erneut versuchen** oder starte die App neu, während die Ohrhörer an ihrem Platz bleiben.
+3. Wenn die Ohrhörer überhaupt nicht mehr reagieren, befolge unsere [Anleitung zum Zurücksetzen gefälschter AirPods](/de/articles/how-to-reset-fake-airpods), um einen 15-sekündigen harten Controller-Reset durchzuführen.
+4. Öffne die Update-App erneut – in den meisten Fällen ermöglicht der Wiederherstellungs-Bootloader, das Paket erneut ab 0 % zu flashen.
 
 <CommunityCta variant="stuck" />
 
 ## Weitere Anleitungen zur Fehlerbehebung
 
-- Werden die Ohrhörer in der Firmware-App nicht angezeigt? Siehe [Gefälschte AirPods lassen sich nicht verbinden](/de/articles/fake-airpods-wont-connect).
-- Treten nach einem Update Probleme auf? Folgen Sie der Anleitung [So setzen Sie gefälschte AirPods zurück](/de/articles/how-to-reset-fake-airpods).
-- Verwenden Sie ein Apple-Ökosystem? Lesen Sie [Funktionieren gefälschte AirPods mit neuen iPhones?](/de/articles/do-fake-airpods-work-with-new-iphone).
-- Benötigen Sie Download-Links für Apps? Besuchen Sie [Nützliche Apps](/de/useful-apps).
+- Verwendest du eine Huilian-Nachbildung? Folge der [StarFun-App-Anleitung](/de/articles/starfun-app-guide).
+- Werden die Ohrhörer in der Firmware-App nicht angezeigt? Siehe [Gefälschte AirPods verbinden sich nicht](/de/articles/fake-airpods-wont-connect) oder [So setzt du gefälschte AirPods zurück](/de/articles/how-to-reset-fake-airpods).
+- Du brauchst Links zum Herunterladen der Apps? Besuche [Nützliche Apps](/de/useful-apps).
+- Du möchtest von einem älteren, nicht aktualisierbaren Klon aufrüsten? Mach das [1-Minuten-Quiz](/de/quiz) oder sieh dir [vertrauenswürdige Händler](/de/links/info) an.
 
 ## FAQ
 
-::: details Kann ich die Firmware von AirPods-Nachbauten mit einem iPhone aktualisieren?
-Nein. iOS erlaubt Begleit-Apps nicht, Firmware über Bluetooth auf Zubehör ohne MFi-Zertifizierung zu schreiben. Sie müssen sich ein Android-Smartphone leihen (oder einen kompatiblen Mac verwenden), um Firmware-Updates zu flashen. Einmal aktualisiert, bleibt die Firmware dauerhaft auf den Ohrhörern.
+::: details Kann ich die Firmware von AirPods-Nachbildungen auf einem iPhone aktualisieren?
+Sowohl **FlyCC** als auch **StarFun** sind im iOS App Store verfügbar und bieten Equalizer, Einstellungen und die Anzeige des Firmware-Status (FlyCC für iOS unterstützt außerdem das Prüfen und Aktualisieren aktueller TigerBuilder-Modelle wie V5.3 TB). Bei älteren Modellen oder wenn eine iOS-App kein OTA-Flashen starten kann, ist ein Android-Smartphone mit der APK aus [Nützliche Apps](/de/useful-apps) die zuverlässigste Ausweichlösung. Nach dem Update bleibt die Firmware dauerhaft auf den Ohrhörern.
 :::
 
-::: details Erhalten meine AirPods-Nachbauten durch ein Update Zugriff auf Apples „Wo ist?“-Netzwerk?
-Nein. Das „Wo ist?“-Netzwerk basiert auf proprietären kryptografischen Zertifikaten von Apple, die sich nicht über Firmware-Updates hinzufügen lassen.
+::: details Erhalten meine AirPods-Nachbildungen durch ein Update Apples „Wo ist?“-Netzwerk?
+Nein. Das „Wo ist?“-Netzwerk basiert auf proprietären kryptografischen Apple-Zertifikaten, die sich nicht per Firmware-Update hinzufügen lassen.
 :::
 
 ::: details Kann ein Firmware-Update meine gefälschten AirPods unbrauchbar machen?
-Ja, wenn das Update durch einen leeren Akku oder ein zu frühes Schließen des Deckels unterbrochen wird oder eine Firmware-Datei für einen anderen Chipsatz geflasht wird. Befolgen Sie stets die obige Sicherheitscheckliste vor dem Update.
+Ja, wenn das Update durch einen leeren Akku oder vorzeitiges Schließen des Deckels unterbrochen oder eine Firmwaredatei für ein anderes Chipset geflasht wird. Halte dich immer an die obige Sicherheitscheckliste vor dem Update.
 :::

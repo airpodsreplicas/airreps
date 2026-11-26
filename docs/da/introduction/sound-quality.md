@@ -1,33 +1,33 @@
 ---
-title: AirPods Replika Lydkvalitet
-description: 'Vurderinger af lydkvalitet, EQ-indstillinger og realistiske forventninger til AirPods-replikaer.'
+title: Lydkvalitet for AirPods-kopier
+description: 'Bedømmelser af lydkvalitet, EQ-indstillinger og realistiske forventninger til AirPods-kopier.'
 ---
 # Lydkvalitet
 
-At vurdere lydkvaliteten af AirPods-replikater kan hjælpe dig med at bestemme deres ydeevne i forhold til de originale AirPods.
+Ved at vurdere lydkvaliteten på AirPods-replikaer kan du bedømme deres ydeevne i forhold til de originale AirPods.
 
-## Bedømmelse af lydkvalitet
+## Vurdering af lydkvalitet
 
-De bedste bredt tilgængelige AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2 og AirPods Pro 3 replikater opnår omkring 8-9/10 i lydkvalitet sammenlignet med de originale AirPods.
+De bedste AirPods 2-, AirPods 3-, AirPods 4-, AirPods Pro-, AirPods Pro 2- og AirPods Pro 3-replikaer, der er bredt tilgængelige, scorer omkring 8-9/10 i lydkvalitet sammenlignet med de originale AirPods.
 
 ::: details Lyder AirPods Pro bedre end AirPods 4?
-Da AirPods Pro slutter af i øret, kan de lyde betydeligt bedre end AirPods 2/3, som er formet til at lade omgivende støj komme ind. Det anbefales at vælge den form og pasform, man foretrækker.
+Da AirPods Pro slutter tæt i øret med silikonepropper, leverer de normalt dybere bas og bedre passiv lydisolering end modeller med åbent design som AirPods 4 (og de ældre AirPods 2/3), der er udformet, så luft udefra kan komme ind. Vælg den pasform, du synes er mest behagelig.
 :::
 
 ## Variationer i lydkvalitet
 
-Lydkvaliteten kan variere afhængigt af [version og chip](/da/version-info/general) og batch. Mange modeller lægger vægt på bas uden at være overvældende. Mellemtonerne er tydelige, men diskanten kunne være bedre. Bemærk, at EQ kan variere fra sælger til sælger, og du kan justere den via din musikafspillers indstillinger eller producentapps — se [nyttige apps](/da/useful-apps) for downloadlinks.
+Lydkvaliteten kan variere afhængigt af [versionen og chippen](/da/version-info/general) samt batchen. Mange modeller fremhæver bassen uden at gøre den overvældende. Mellemtonerne er tydelige, men diskanten kunne være bedre. Bemærk, at EQ-indstillingerne kan variere fra sælger til sælger, og at du kan justere dem via musikafspillerens indstillinger eller producentens apps — se [nyttige apps](/da/useful-apps) for downloadlinks.
 
 ::: tip Justering af EQ
-EQ kan variere fra sælger til sælger. Brug **FlyCC**, **BullSuper**, eller **StarFun** til at justere den for **TigerBuilder**, **HR**, og **Huilian** enheder respektivt.
+EQ-indstillingerne kan variere fra sælger til sælger. Brug **FlyCC**, **BullSuper** eller **StarFun** til at justere dem for henholdsvis **TigerBuilder**-, **HR**- og **Huilian**-enheder.
 :::
 
-## Tilpassede EQ-indstillinger
+## Brugerdefinerede EQ-indstillinger
 
-Hvis du ikke er tilfreds med lyden af dine AirPods-replikater, så join vores [Discord server](https://airreps.link/discord). Mange i fællesskabet deler deres egne EQ-indstillinger, som kan hjælpe dig med at opnå en lyd, du foretrækker. Du finder de fleste af disse presets fastgjort i **#help-and-advice**-kanalen.
+Hvis du ikke er tilfreds med lyden fra dine AirPods-replikaer, kan du deltage i vores [Discord-server](https://airreps.link/discord). Mange medlemmer af fællesskabet deler deres egne EQ-indstillinger, som måske kan hjælpe dig med at få den lyd, du foretrækker. Du finder de fleste af disse forudindstillinger fastgjort i kanalen **#help-and-advice**.
 
 <CommunityCta variant="eq" />
 
 ## Forsinkelse
 
-Forsinkelsen er omkring 50-150 ms afhængigt af versionen, næsten ikke mærkbar. Til reference har de originale AirPods en forsinkelse på mellem 140-200 ms.
+Forsinkelsen er omkring 50-150 ms, afhængigt af versionen, og den er næppe mærkbar. Til sammenligning har de originale AirPods en forsinkelse på mellem 140-200 ms.

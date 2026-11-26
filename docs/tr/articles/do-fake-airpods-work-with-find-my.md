@@ -1,82 +1,82 @@
 ---
-title: Sahte AirPods'lar Bul ile Çalışır mı?
-description: 'Hiçbir AirPods replikası, fiyatı veya sürümü ne olursa olsun Apple''ın Bul ağıyla çalışmaz ve bir aygıt yazılımı güncellemesi bu özelliği ekleyemez. Replikaların bunun yerine ne yaptığı, Bul''un sahte bir ürünü nasıl ortaya çıkardığı ve satıcıların iddialarına nasıl yaklaşmanız gerektiği.'
+title: Sahte AirPods'lar Find My ile çalışır mı?
+description: 'Hiçbir AirPods replikası, fiyatı ne olursa olsun Apple''ın Find My ağıyla çalışmaz ve ürün yazılımı güncellemeleri bunu sağlayamaz. Bunun yerine neyin işe yaradığını ve sahteleri nasıl anlayacağınızı öğrenin.'
 category: Replikalarınızı kullanma
 order: 19
 ---
-# Fake AirPods'lar Bul ile Çalışır mı?
+# Sahte AirPods'lar Bul ile Çalışır mı?
 
-Kısa yanıt: hayır. Apple'ın Bul ağı, hiçbir AirPods kopyasında bulunmayan tek özelliktir. Bu, en ucuz AirPods 2 kopyasından metal AirPods Max V3'e kadar her fiyat aralığındaki tüm modeller ve sürümler için geçerlidir. Rehberdeki “hiçbirinde yok” listesinde yer alan tek özellik budur ve topluluğun henüz çözemediği eksiklik de budur.
+Kısa cevap: hayır. Apple'ın Bul ağı, hiçbir AirPods replikasında bulunmayan tek özelliktir. Bu, en ucuz AirPods 2 replikasından metal AirPods Max V3'e kadar, her model ve sürüm için, her fiyat aralığında geçerlidir. Rehberin “hiçbirinde yok” listesinde yer alan tek özellik budur ve topluluğun henüz aşamadığı bir eksikliktir.
 
-> **Kısa yanıt:** Hayır. Model, sürüm veya fiyat ne olursa olsun hiçbir AirPods kopyası Apple'ın Bul ağıyla çalışmaz; aygıt yazılımı güncellemesi de bu özelliği ekleyemez: Bul, Apple'a özel kriptografik sertifikalara dayanır. Birisi bir kopyayı eşleştirip Bul uygulamasını açarsa hassas bulma özelliği görünmez; bu da Bul'u sahte ürünleri tespit etmenin en kesin yollarından biri yapar. Kaybolan kulaklıklarınızı Apple'ın ağı üzerinden takip edebilmek sizin için önemliyse orijinal AirPods alın.
+> **Kısa yanıt:** Hayır. Model, sürüm veya fiyat ne olursa olsun hiçbir AirPods replikası Apple'ın Bul ağıyla çalışmaz; Bul, özel Apple kriptografik sertifikalarına dayandığından bir ürün yazılımı güncellemesi de bu özelliği ekleyemez. Birisi replikayı eşleştirip Bul uygulamasını açarsa hassas konum bulma özelliğini göremez. Bu da Bul'u sahte ürünü tespit etmenin en kesin yollarından biri hâline getirir. Kaybolan kulaklıklarınızı Apple ağı üzerinden takip etmek sizin için önemliyse orijinal AirPods alın.
 
-## Neden hiçbir kopyada Bul yok?
+## Neden hiçbir replikada Bul yok?
 
-Rehberin [genel sürüm tablosunda](/tr/version-info/general) Bul'un AirPods Pro 3 V7 ve SE modellerinden AirPods 2'ye kadar tüm modellerde bulunmadığı belirtiliyor; bu özellik tüm kopyalar için “hiçbirinde yok” listesinde yer alıyor. AirPods Pro 3, Pro 2, AirPods 4 ve AirPods Max sürüm sayfalarında da aynı not var: hiçbir kopya Apple'ın şifrelenmiş Bul ağını desteklemiyor.
+Rehberin [genel sürüm tablosu](/tr/version-info/general), AirPods Pro 3 V7 ve SE'den AirPods 2'ye kadar olan modellerde Bul'un bulunmadığını belirtir ve her replikayı “hiçbirinde yok” listesine alır. AirPods Pro 3, Pro 2, AirPods 4 ve AirPods Max sürüm sayfalarında da aynı not yer alır: hiçbir replika Apple'ın şifrelenmiş Bul ağını desteklemez.
 
-Bu, sonraki bir güncellemeyle giderilebilecek bir aygıt yazılımı eksiği değil. Bul ağı, Apple'a özel kriptografik sertifikalara dayanır ve bunlar aygıt yazılımı güncellemesiyle eklenemez. [FlyCC](/tr/articles/flycc-app-guide) ve [StarFun](/tr/articles/starfun-app-guide) gibi aygıt yazılımı uygulamaları EQ'yu, denetimleri ve kararlılığı değiştirebilir; ancak Bul'u ekleyemez.
+Bu, sonraki bir güncellemeyle giderilebilecek bir ürün yazılımı eksikliği değildir. Bul ağı özel Apple kriptografik sertifikalarına dayanır ve bunlar bir ürün yazılımı güncellemesiyle eklenemez. [FlyCC](/tr/articles/flycc-app-guide) ve [StarFun](/tr/articles/starfun-app-guide) gibi ürün yazılımı uygulamaları EQ'yu, denetimleri ve kararlılığı değiştirebilir; ancak Bul'u ekleyemez.
 
-## Bul uygulamasında görecekleriniz
+## Bul uygulamasında ne görürsünüz?
 
-Hassas bulma, farkı ortaya koyar:
+Hassas konum bulma, farkın ortaya çıktığı noktadır:
 
-- Orijinal AirPods'ları telefonunuzla eşleştirip **Bul** uygulamasını açtığınızda hassas bulma özelliğini kullanabilirsiniz.
-- Bir kopyada bu seçenek ya görünmez ya da çalışmaz. Rehberin [kalite kontrolü kontrol listesinde](/tr/ordering/qc-lc) bu durum, AirPods'ların orijinal olmadığının güçlü bir işareti sayılıyor.
-- Bul, kulaklıkları Apple'ın ağında gösteriyorsa gerçektir.
+- Orijinal AirPods'ları telefonunuzla eşleştirip **Bul** uygulamasını açtığınızda hassas konum bulma özelliği çalışır.
+- Replikada bu seçenek ya yoktur ya da çalışmaz. Rehberin [kalite kontrolü kontrol listesi](/tr/ordering/qc-lc), bunu AirPods'ların orijinal olmadığının güçlü bir işareti olarak değerlendirir.
+- Bul, kulaklıkları Apple'ın ağında gösteriyorsa orijinaldir.
 
-## Kopyalar iPhone'da hangi özellikleri destekler?
+## Replikalar iPhone'da neleri destekliyor?
 
-Bul'un olmaması, iPhone'un kopyaları sıradan Bluetooth kulaklıklar gibi gördüğü anlamına gelmez. [Sürüm bilgileri](/tr/version-info/general), her kopyada ortak olan özellikleri listeliyor; iOS tarafında şunlar bulunuyor:
+Bul'un olmaması, iPhone'un replikaları sıradan Bluetooth kulaklıklar olarak gördüğü anlamına gelmez. [Sürüm bilgileri](/tr/version-info/general), her replikada bulunan özellikleri listeler; iOS tarafında şunlar yer alır:
 
 - Eşleştirme açılır penceresi animasyonu ve Hakkında sayfası
-- Adı değiştirme ve dokunma denetimlerini değiştirme
-- iOS Ayarları üzerinden GPS takibi; bu özellik yalnızca iOS ve macOS'ta kullanılabilir, Android'de yoktur
+- Ad değiştirme ve dokunma denetimlerini değiştirme
+- iOS Ayarları üzerinden GPS ile takip; bu özellik yalnızca iOS ve macOS'ta kullanılabilir, Android'de yoktur
 
-Rehber bu ayrımı şöyle yapıyor: iOS Ayarları üzerinden GPS takibi, her kopyada bulunan bir özellikken aygıtlarınızdan uzaktayken Bul'un sunduğu hassas konum takibi, hiçbir kopyada bulunmuyor.
+Rehber burada ayrım yapar: iOS Ayarları üzerinden GPS ile takip her replikada bulunan bir özelliktir; cihazlarınızdan uzaktayken Bul'un hassas konum takibi ise hiçbir replikada yoktur.
 
-## Bir satıcı AirPods'larının Bul ile çalıştığını söylüyor
+## Bir satıcı, AirPods'larının Bul ile çalıştığını söylüyor
 
-Piyasadaki tüm AirPods kopyalarında Bul ağı yoktur. Aksini iddia eden bir satıcı ya yanılıyordur ya da yalan söylüyordur; bu yüzden iddiayı ilandaki bir uyarı işareti olarak değerlendirin. İlanlardaki yonga numaraları ve ürün fotoğrafları da bir kopyanın sürümünü güvenilir biçimde göstermez.
+Piyasadaki her AirPods replikasında Bul ağı yoktur. Aksini iddia eden bir satıcı ya yanılıyordur ya da yalan söylüyordur; bu nedenle iddiayı ilandaki bir uyarı işareti olarak değerlendirin. İlanlardaki çip numaraları ve ürün fotoğrafları da bir kopyanın sürümünü güvenilir şekilde göstermez.
 
-Kopya alırken hangi sürümü aldığınızı bilmek için rehberin [güvenilir satıcılarından](/tr/links/info) alışveriş yapın ve ürünün neleri içerdiğini görmek için sürüm sayfalarını okuyun. İlanlardaki iddialara güvenmeyin.
+Replika alacaksanız, hangi sürümü aldığınızı bilmek için rehberin [güvenilir satıcılarından](/tr/links/info) alın ve neleri içerdiğini görmek için sürüm sayfalarını okuyun. İlanlardaki iddialara güvenmeyin.
 
-## “Orijinal” AirPods'ları ikinci el alırken
+## İkinci el “orijinal” AirPods satın almak
 
-Aynı eksiklik, sözde orijinal bir ürün alırken de sizi korur. Daha üst sürüm kopyaları görünüşünden veya hissinden ayırt etmek zordur; ikinci el dolandırıcılıkları bu yüzden işe yarar. Kopyaları ele veren Bul özelliği de dahil olmak üzere ipuçlarını görebilmek için AirPods'ları elinize almanız gerekir.
+Aynı eksiklik, gerçekten orijinal olduğu iddia edilen bir ürün alırken de sizi korur. Üst sürüm replikaları görünüş veya dokunuş hissi bakımından ayırt etmek zordur; ikinci el dolandırıcılıkları da bu yüzden işe yarar. Bul dahil, kopyaları ele veren işaretleri kontrol etmek için AirPods'ları elinize almanız gerekir.
 
-Ödeme yapmadan önce kulaklıkları telefonunuzla eşleştirip Bul'u açın. Hassas bulma seçeneği görünmüyorsa ya da çalışmıyorsa orijinal olmadıklarının güçlü bir işaretidir. [AirPods'ların sahte olup olmadığı nasıl anlaşılır?](/tr/articles/how-to-spot-fake-airpods) rehberimizde bu kontrolün yanı sıra seri numarası ve yonga tespit uygulamaları da ele alınıyor.
+Ödeme yapmadan önce AirPods'ları telefonunuzla eşleştirip Bul'u açın. Hassas konum bulma yoksa veya çalışmıyorsa bu, ürünlerin orijinal olmadığının güçlü bir işaretidir. [AirPods'ların sahte olduğu nasıl anlaşılır?](/tr/articles/how-to-spot-fake-airpods) rehberimizde bu kontrolün yanı sıra seri numarası ve çip algılama uygulamaları da ele alınıyor.
 
-## Satın alacağınız ürüne Bul özelliği yön vermeli mi?
+## Ne alacağınıza Bul özelliği karar vermeli mi?
 
-Bu özelliğe güveniyorsanız yön vermeli. Kaybolan kulaklıklarınızı Apple'ın ağı üzerinden takip edebilmek sizin için önemliyse bu, tek başına kopyaları elemek için yeterlidir ve orijinal AirPods almanız için bir nedendir. Ayrıca bir kulaklığı kaybettiğinizde ilk fark edeceğiniz eksikliklerden biri de budur.
+Bu özelliğe güveniyorsanız evet. Kaybolan kulaklıkları Apple ağı üzerinden takip etmek sizin için önemliyse bu, tek başına replikaları elemek için yeterlidir ve orijinal AirPods almak için bir nedendir. Ayrıca bir kulaklığı kaybettiğinizde fark etme olasılığınız en yüksek olan eksiklik de budur.
 
-Kopyalar, AirPods deneyimini çok daha ucuza isteyen ve ödünleri kabul eden kişiler için mantıklıdır: Bul ağı yoktur, Apple desteği yoktur ve satın alma işlemi alışılmış bir perakende alışverişi değildir. [Kopya ve orijinal karşılaştırması](/tr/articles/airpods-replicas-vs-real), diğer tüm özellikleri tek tek ele alıyor.
+AirPods deneyimini fiyatın çok küçük bir kısmına yaşamak isteyen ve ödünleri kabul eden kişiler için replikalar mantıklıdır: Bul ağı yoktur, Apple desteği yoktur ve satın alma işlemi standart bir perakende alışverişi değildir. [Replika ve orijinal karşılaştırması](/tr/articles/airpods-replicas-vs-real), diğer tüm özellikleri tek tek ele alır.
 
 ## İlgili okumalar
 
-- Bir kopyayı yakından inceleyince başka hangi özellik ele verir? [İnsanlar AirPods'larınızın sahte olduğunu anlayabilir mi?](/tr/articles/can-people-tell-airpods-are-fake) yazısını okuyun.
-- Elinizdeki bir çifti mi kontrol ediyorsunuz? [AirPods'ların sahte olup olmadığı nasıl anlaşılır?](/tr/articles/how-to-spot-fake-airpods) rehberinden yararlanın.
-- Aygıt yazılımı güncellemelerinin neleri değiştirip neleri değiştiremeyeceğini mi merak ediyorsunuz? [Sahte AirPods aygıt yazılımı nasıl güncellenir?](/tr/articles/how-to-update-fake-airpods-firmware) yazısına bakın.
-- Kopyalarla orijinalleri karşılaştırıyor musunuz? [AirPods kopyaları ve orijinal AirPods](/tr/articles/airpods-replicas-vs-real) yazısını okuyun.
+- Yakından bakınca replikanın orijinal olmadığı başka nasıl anlaşılır? [İnsanlar AirPods'larınızın sahte olduğunu anlayabilir mi?](/tr/articles/can-people-tell-airpods-are-fake) yazısını okuyun.
+- Sahip olduğunuz bir çifti mi kontrol ediyorsunuz? [AirPods'ların sahte olduğu nasıl anlaşılır?](/tr/articles/how-to-spot-fake-airpods) rehberine bakın.
+- Ürün yazılımı güncellemelerinin neleri değiştirip neleri değiştiremeyeceğini mi merak ediyorsunuz? [Sahte AirPods ürün yazılımı nasıl güncellenir?](/tr/articles/how-to-update-fake-airpods-firmware) yazısına göz atın.
+- Replikalarla orijinalleri mi karşılaştırıyorsunuz? [Replika AirPods ve orijinal AirPods](/tr/articles/airpods-replicas-vs-real) yazısını okuyun ya da bir sürüm seçmek için [1 dakikalık testi](/tr/quiz) çözün.
 
 ## Topluluğa danışın
 
-Bul özelliği olduğunu vaat eden bir ilana mı rastladınız? Ödeme yapmadan önce iddianın ekran görüntüsünü [AirReps Discord](https://airreps.link/dghelp) sunucusundaki **#help-and-advice** kanalına gönderin ve satıcıyı ve iddiayı birlikte incelemelerini isteyin.
+Bul özelliğini vaat eden bir ilana mı rastladınız? Ödeme yapmadan önce iddianın ekran görüntüsünü [AirReps Discord](https://airreps.link/dghelp) sunucusundaki **#help-and-advice** kanalında paylaşın ve başkalarından satıcıyı ve iddiayı sizinle birlikte kontrol etmelerini isteyin.
 
 ## SSS
 
-::: details Herhangi bir AirPods kopyası Bul ile çalışır mı?
-Hayır. Model, sürüm veya fiyat ne olursa olsun tüm AirPods kopyalarında Apple'ın Bul ağı yoktur. Topluluğun henüz çözemediği tek özellik budur.
+::: details Herhangi bir AirPods replikası Bul ile çalışıyor mu?
+Hayır. Model, sürüm veya fiyat ne olursa olsun hiçbir AirPods replikasında Apple'ın Bul ağı yoktur. Topluluğun henüz aşamadığı tek özellik budur.
 :::
 
-::: details Aygıt yazılımı güncellemesi sahte AirPods'lara Bul özelliği ekleyebilir mi?
-Hayır. Bul ağı, aygıt yazılımı güncellemesiyle eklenemeyen Apple'a özel kriptografik sertifikalara dayanır.
+::: details Bir ürün yazılımı güncellemesi sahte AirPods'lara Bul'u ekleyebilir mi?
+Hayır. Bul ağı, ürün yazılımı güncellemesiyle eklenemeyen özel Apple kriptografik sertifikalarına dayanır.
 :::
 
-::: details AirPods Max kopyaları Bul ile çalışır mı?
-Hayır. Rehberdeki diğer tüm kopyalar gibi, metal V3 dahil AirPods Max kopyaları da Apple'ın şifrelenmiş Bul ağını desteklemez.
+::: details AirPods Max replikaları Bul ile çalışıyor mu?
+Hayır. Rehberdeki diğer tüm replikalar gibi AirPods Max replikaları da, metal V3 dahil, Apple'ın şifrelenmiş Bul ağını desteklemez.
 :::
 
-::: details Bul, AirPods'ların sahte olup olmadığını gösterebilir mi?
-Evet. AirPods'ları telefonunuzla eşleştirip Bul uygulamasını açın. Orijinal AirPods'lar hassas bulmayı destekler. Bu seçenek görünmüyorsa ya da çalışmıyorsa orijinal olmadıklarının güçlü bir işaretidir; çünkü tüm kopyalarda Bul ağı yoktur.
+::: details Bul, AirPods'ların sahte olup olmadığını anlayabilir mi?
+Evet. AirPods'ları telefonunuzla eşleştirip Bul uygulamasını açın. Orijinal AirPods'lar hassas konum bulma özelliğini destekler. Seçenek yoksa veya çalışmıyorsa ürünlerin orijinal olmadığının güçlü bir işaretidir; çünkü hiçbir replikada Bul ağı yoktur.
 :::

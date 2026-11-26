@@ -1,100 +1,103 @@
 ---
-title: 'AirPods Max V3 ve V3P: Metal yapı için 30 dolar daha fazla ödemeye değer mi?'
-description: 'AirPods Max V3 ve V3P replika karşılaştırması — CNC alüminyum kulaklık kapaklarına karşı plastik yapı, hibrit ANC performansı, pil ömrü ve yükseltmenin buna değip değmediği.'
+title: 'AirPods Max V3 TB ile V3P: Metal İçin 30 Dolar Fazla Ödemeye Değer mi?'
+description: 'AirPods Max V3 TB ($126–127) ile V3P ($85–94) karşılaştırması: CNC alüminyum ve plastik kulaklık kapları, Airoha 1562AE ile 1561M, dört mikrofonlu ANC, kafa takibi ve değerlendirme.'
 category: Satın Alma
 order: 15
 ---
-# AirPods Max V3 vs V3P: Metal gövde için 30 dolar daha ödemeye değer mi?
+# AirPods Max V3 vs V3P: Metal gövde için 30 $ daha fazla ödemeye değer mi?
 
-Güvenilir topluluk satıcılarından kulak üstü AirPods Max replikaları ararken hemen iki farklı sınıfla karşılaşırsınız: amiral gemisi **AirPods Max V3** (genellikle ~$126) ve bütçe dostu **AirPods Max V3P** (genellikle ~$93).
+Güvenilir topluluk satıcılarından kulak üstü AirPods Max replikaları alırken hemen iki farklı sınıfla karşılaşırsınız: amiral gemisi **AirPods Max V3 Metal (Max V3 TB)** (126–127 $) ve uygun fiyatlı **AirPods Max V3P** (renge ve satıcıya bağlı olarak 85–94 $).
 
-Her iki modelin de kozmetik ölçüleri aynıdır, ikisinde de çalışan dijital taç bulunur ve her ikisi de animasyonlu iOS eşleştirme penceresini tetikler. Ancak tamamen farklı malzemelerle üretilmişlerdir. Aradaki 33 dolarlık fiyat farkının size gerçekte ne kazandırdığını ve amiral gemisi modele yükseltmenin mantıklı olup olmadığını inceleyelim.
+Her iki modelin kozmetik boyutları aynıdır, ikisinde de çalışan dijital taç bulunur ve her ikisi de animasyonlu iOS eşleştirme penceresini tetikler. Ancak tamamen farklı malzemeler ve yonga setleriyle üretilmişlerdir. İşte aradaki fiyat farkının size gerçekte ne kazandırdığı ve amiral gemisi modele geçmenin haklı olup olmadığı.
 
-> **Kısa yanıt:** Özgün görünüm ve üst düzey his arayanlar için **AirPods Max V3 (~$126)**, fazladan 33 dolara değer. Soğuk dokunuşlu anodize kaplamaya sahip, CNC ile işlenmiş gerçek alüminyum kulaklık kapakları, ağırlıklı metal kafa bandı düzeneği ve geliştirilmiş hibrit ANC sunar. **V3P (~$93)** ise metal görünümlü boyanmış kalıplı ABS plastik kullanır; başta daha hafif olsa da dokunduğunuz anda bir klon olduğu anlaşılır.
+> **Kısa yanıt:** Evet, otantik görünüm, kafa takibi ve premium his için kulaklık alan herkes **AirPods Max V3 TB'nin (126–127 $)** yükseltme fiyatına değer olduğunu görecektir. Soğuk dokunuşlu anodizasyona sahip gerçek CNC işlenmiş alüminyum kulak kapakları, ağırlıklı metal kafa bandı tertibatı, daha yeni Airoha 1562AE yonga seti ve dört mikrofonlu hibrit ANC sunar. **V3P (85–94 $)** plastik-çelik gövde ve daha eski Airoha 1561M yonga seti kullanır; kafada daha hafif olsa da kafa takibi özelliği yoktur ve elinize aldığınız anda klon olduğu hissedilir.
 
-::: tip Kulak üstü kulaklıklarda malzeme daha da önemlidir
-Kulak içi kulaklıklar, plastiğin standart olduğu kulak kanalınızın içinde gizlenir. Kulak üstü kulaklıklar ise dışarıdan görünen birer moda ürünü olarak takılır ve sürekli elle tutulur. Max'in fiziksel malzemeleri, ürünün özgün görünüp hissettirmesini belirler.
+::: tip Kulak üstü kulaklıklarda malzeme her şeyden önemlidir
+Kulak içi kulaklıklar, plastiğin standart olduğu kulak kanalınızın içine gizlenir. Kulak üstü kulaklıklar ise dışarıdan görünen bir moda aksesuarı olarak takılır ve sürekli elde tutulur. Max'in fiziksel malzemeleri, ürünün otantik görünüp hissettirmesini belirler.
 :::
 
-## Doğrudan özellik karşılaştırması
+## Doğrudan teknik özellik karşılaştırması
 
-| Özellik | AirPods Max V3 (Amiral gemisi) | AirPods Max V3P (Bütçe dostu) |
+| Özellik | AirPods Max V3 TB (Amiral gemisi) | AirPods Max V3P (Uygun fiyatlı) |
 | :--- | :--- | :--- |
-| **Tipik fiyat** | ~$126 | ~$93 |
-| **Kulaklık kapağı malzemesi** | CNC ile işlenmiş gerçek anodize alüminyum | Boyalı ABS plastik |
-| **Kafa bandı düzeneği** | Örme fileli paslanmaz çelik çekirdek | Kompozit plastik ve alaşım |
-| **Ağırlık** | ~384g (Apple'ın satıştaki 384,8g modeline yakın) | ~320g (fark edilir derecede daha hafif) |
-| **Aktif Gürültü Engelleme** | Dört mikrofonlu hibrit ANC (ilan edilen değer 45dB'ye kadar) | Hibrit ANC (satıcı tarafından belirtilmiş) |
-| **Dijital taç hareketi** | Ağırlıklı, yumuşak dönüş direnci | Daha hafif tıklama hareketi |
-| **Pil ömrü** | 20 saat (satıcı tarafından belirtilmiş) | 20 saat (satıcı tarafından belirtilmiş) |
-| **Eşleştirme penceresi** | Destekleniyor (iOS 17/18/27) | Destekleniyor (iOS 17/18/27) |
+| **Tipik fiyat** | 126–127 $ | 85–94 $ |
+| **Yonga seti** | Airoha 1562AE | Airoha 1561M |
+| **Kulak kapağı malzemesi** | Gerçek CNC anodize alüminyum | Plastik-çelik / Boyalı ABS |
+| **Kafa bandı tertibatı** | Örgü fileli paslanmaz çelik çekirdek | Kompozit plastik ve alaşım |
+| **Ağırlık** | ~384 g (Apple'ın satıştaki 384,8 g modeliyle yakın) | ~320 g (belirgin ölçüde daha hafif) |
+| **Aktif gürültü engelleme** | Dört mikrofonlu hibrit ANC (ilan edilen değer 45 dB'ye kadar) | Hibrit ANC (satıcı tarafından belirtilen) |
+| **Kafa takibi özellikli uzamsal ses** | ✅ | ❌ |
+| **Birden fazla cihaz arasında geçiş** | 2 cihaz (Bluetooth çoklu nokta) | 1 cihaz |
+| **Dijital taç hareketi** | Ağırlıklı, akıcı dönüş direnci | Daha hafif tıklama hissi |
+| **Pil ömrü** | 20 sa. (satıcı tarafından belirtilen) | 20 sa. (satıcı tarafından belirtilen) |
+| **Eşleştirme penceresi** | Desteklenir (iOS 26/27) | Desteklenir (iOS 26/27) |
 
-Pil değerleri ve V3 için belirtilen ANC derecesi, 22 Eylül 2026'da kontrol edilen [Jenny'nin V3 ilanından](https://jenny.airreps.info/product/max-v3-tb/) ve [V3P ilanından](https://jenny.airreps.info/product/max-v3p-tb/) alınmıştır. Bunlar, aynı koşullarda yapılmış ölçüm sonuçları değil, satıcı tarafından belirtilen özelliklerdir. Bu değerlerden eşit pil ömrü veya ses kalitesi sonucu çıkarmayın.
+Pil değerleri ve ilan edilen V3 ANC derecesi, 22 Eylül 2026'da kontrol edilen [Jenny'nin V3 ilanından](https://jenny.airreps.info/product/max-v3-tb/) ve [V3P ilanından](https://jenny.airreps.info/product/max-v3p-tb/) alınmıştır. Bunlar, aynı koşullarda yapılan ölçümlerin sonuçları değil, satıcı teknik özellikleridir. Bu değerlerden çalışma süresinin veya ses kalitesinin eşit olduğu sonucunu çıkarmayın.
 
 ## 1. Malzemeler ve dokunsal his: alüminyum ve plastik
 
-V3 ile V3P arasındaki temel fark, dokunma hissinin ne kadar gerçekçi olduğudur:
+V3 ile V3P arasındaki temel fark, dokunsal gerçekçiliktir:
 
-- **V3 deneyimi**: Kulaklık kapakları gerçek alüminyum bloklardan işlenmiştir. Klimalı bir odada bir süre durduktan sonra elinize aldığınızda soğuk hissedilir. Tırnağınızla kasaya vurduğunuzda, gerçek Apple donanımına özgü metalik bir tınlama duyulur. Yaklaşık 384 gram ağırlığıyla, gerçek AirPods Max ile arasındaki fark bir gramın çok altındadır.
-- **V3P deneyimi**: Kulaklık kapakları, metalik lake kaplamalı enjeksiyon kalıplı plastikten üretilmiştir. Üç adım uzaktan bakıldığında kaplaması ikna edici görünür. Ancak kulaklığı elinize aldığınız anda, yaklaşık 60 gramlık ağırlık farkı hemen hissedilir. Kulaklık kapakları dokununca sıcaktır ve kasaya vurduğunuzda hafif plastik rezonansı duyulur.
+- **V3 deneyimi**: Kulak kapakları gerçek alüminyum bloklardan işlenmiştir. Klimalı bir odada bekledikten sonra elinize aldığınızda dokunuşta soğuk gelir. Tırnağınızı gövdeye vurduğunuzda gerçek Apple donanımının belirgin metalik tınısını duyarsınız. Yaklaşık 384 gram ağırlığıyla gerçek AirPods Max'in ağırlığına bir gramın kesirleri kadar yaklaşır.
+- **V3P deneyimi**: Kulak kapakları, metalik cilayla kaplanmış enjeksiyon kalıplı plastikten üretilmiştir. Üç adım öteden bakıldığında kaplaması inandırıcı görünür. Ancak kulaklığı elinize alır almaz yaklaşık 60 gramlık ağırlık farkı hissedilir. Kulak kapakları dokunuşta sıcak gelir ve gövdeye vurulduğunda hafif bir plastik rezonansı duyulur.
 
-Amacınız, toplum içinde veya sosyal medyada gerçek Apple donanımından görünüş ve his bakımından tamamen ayırt edilemeyen bir kulaklık takmaksa, bunu başarabilen tek sürüm V3'tür.
+Amacınız, halka açık yerlerde veya sosyal medyada otantik Apple donanımından görünüş ve his bakımından tamamen ayırt edilemeyen kulaklıklar takmaksa, bunu başarabilen tek sürüm V3'tür.
 
 ## 2. Akustik ayar ve Aktif Gürültü Engelleme
 
-Alüminyum plastikten çok daha yoğun olduğundan akustik odacıklar farklı davranır:
+Alüminyum plastikten önemli ölçüde daha yoğun olduğu için akustik hazneler farklı davranır:
 
-- **Akustik rezonans**: V3'ün alüminyum kasası, iç harmonik bozulmayı azaltarak daha sıkı ve kontrollü bir sub-bas uzanımı sağlar. V3P'nin plastik muhafazasında daha fazla iç yankılanma olduğundan, baslar daha sıcak ve biraz daha bulanık duyulur.
-- **Gürültü engelleme**: V3, geliştirilmiş dört mikrofonlu hibrit ANC sistemi kullanır. V3P ise eski Airoha 1561M platformunu korur. Satıcı açıklamalarında ikisi de hibrit ANC olarak belirtilmiştir; önceki 28–32dB ve 20–24dB değerlerini destekleyen karşılaştırılabilir bir testimiz yoktur.
+- **Akustik rezonans**: V3'ün alüminyum şasisi iç harmonik bozulmayı azaltarak daha sıkı ve kontrollü bir sub-bas uzanımı sağlar. V3P'nin plastik gövdesinde iç yankılanma daha fazladır; bu da daha sıcak ve hafif bulanık bir alt frekans üretir.
+- **Gürültü engelleme**: V3, yükseltilmiş dört mikrofonlu hibrit ANC sistemi kullanır. V3P ise daha eski Airoha 1561M platformunu korur. Satıcı açıklamalarında her ikisi de hibrit ANC olarak belirtilmiştir; önceki 28–32 dB ve 20–24 dB değerlerini destekleyen karşılaştırılabilir bir test elimizde yok.
 
 ## 3. Dijital taç, düğmeler ve kafa bandı filesi
 
 Mekanik kontroller de aynı sınıf farkını yansıtır:
 
-- **Dijital taç**: V3'te taç, Apple'ın döner kodlayıcısına benzer şekilde akıcı ve viskoz bir mekanik dirençle döner. V3P'de dönüş daha gevşek hissettirir ve tıklama sesi daha yüksektir.
-- **Kafa bandı filesi**: Her iki modelde de nefes alabilen örme file bulunur. V3, sıkıştırmadan sağlamca kavrayan güçlendirilmiş yay çeliği bir çerçeve kullanırken V3P'nin kafa bandı biraz daha esnektir.
+- **Dijital taç**: V3'te taç, Apple'ın döner kodlayıcısına benzer biçimde akıcı ve viskoz bir mekanik dirençle döner. V3P'de dönüş daha gevşek hissedilir ve daha yüksek sesle tıklar.
+- **Kafa bandı kanopisi**: Her iki modelde de nefes alabilen örgü fileli kanopi bulunur. V3'te sıkmadan sağlamca kavrayan güçlendirilmiş yaylı çelik bir çerçeve vardır; V3P'nin kafa bandı ise biraz daha esner.
 
-## 4. Her iki modelin de Apple'ın 549 dolarlık modeline kıyasla eksikleri
+## 4. Her iki modelin de Apple'a (549 $) kıyasla vazgeçtikleri
 
-V3'ü veya V3P'yi seçmeniz fark etmeksizin, yine de bir replika satın alıyorsunuz ve her ikisi için de geçerli olan şu tavizleri kabul etmeniz gerekiyor:
+V3'ü de V3P'yi de seçseniz, yine de bir replika satın alıyorsunuz ve şu genel ödünleri kabul etmeniz gerekiyor:
 
-- **Apple Bul ağı yok**: Her iki sürüm de Apple'ın ortak kullanımlı Bul ağı üzerinden takip edilemez.
-- **Otomatik iCloud devri yok**: Birden fazla aygıta bağlanabilirsiniz ancak Mac'te video izlerken iPhone'a gelen bir aramayı yanıtladığınızda cihazlar arasında sorunsuz ve otomatik geçiş yapılamaz.
-- **Satıştaki modele kıyasla şeffaflık modu**: Şeffaflık modu sokaktaki sesleri fark etmek için yeterince iyi çalışsa da Apple'ın hesaplamalı, “kulakta hiçbir şey yokmuş” gibi hissettiren şeffaflık düzeyine ulaşmaz.
+- **Apple Bul ağı yok**: İki sürüm de Apple'ın kitle kaynaklı Bul ağı kullanılarak takip edilemez.
+- **Otomatik iCloud aktarımı yok**: Birden fazla cihaza bağlanabilirsiniz ancak Mac'te video izlerken iPhone'da bir aramayı yanıtladığınızda sorunsuz ve otomatik geçiş yapılamaz.
+- **Satıştaki Şeffaflık Modu**: Çevrenizin farkında olmanızı sağlayacak kadar iyi çalışsa da Apple'ın hesaplamalı, “kulaklarınız çıplakmış gibi” şeffaflık doğruluğunu sunmaz.
 
-## Sonuç: hangisini sipariş etmelisiniz?
+## Son karar: hangisini sipariş etmelisiniz?
 
 ### Şu durumlarda AirPods Max V3'ü seçin:
-- Dokunsal lüks sizin için önemliyse: soğuk dokunuşlu gerçek alüminyum kulaklık kapakları ve uygun bir ağırlık istiyorsanız.
-- Kulak üstü bir klonda sunulabilecek en iyi gürültü engelleme ve ses kalitesini istiyorsanız.
+- Dokunsal lüks sizin için önemliyse: dokunuşta soğuk gelen gerçek alüminyum kulak kapakları ve uygun ağırlık istiyorsanız.
+- Kulak üstü klonlar arasında bulunan en iyi gürültü engelleme ve ses kalitesini istiyorsanız.
 - Arkadaşlarınızın ve iş arkadaşlarınızın yakından incelemesine dayanabilecek bir kulaklık istiyorsanız.
 
-<span class="pick-buy">V3'ü satın alın: [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
+<span class="pick-buy">V3'ü [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb) üzerinden satın alın</span>
 
 ### Şu durumlarda AirPods Max V3P'yi seçin:
-- 100 doların altındaki katı bir bütçeniz varsa.
-- Uzun çalışma seanslarında başınızda daha hafif bir kulaklık tercih ediyorsanız.
+- 100 doların altında kalmanız gerekiyorsa.
+- Uzun çalışma seanslarında başınızda daha hafif kulaklıkları tercih ediyorsanız.
 - Kulaklığı zaten silikon koruyucu kılıflarda kullanmayı planlıyorsanız (bu kılıflar metal kaplamayı gizler).
 
-<span class="pick-buy">V3P'yi satın alın: [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
+<span class="pick-buy">V3P'yi [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p) üzerinden satın alın</span>
 
 ## İlgili okumalar
 
-- Kulak üstü klonlara genel bir bakış mı arıyorsunuz? [AirPods Max muadili rehberimizi](/tr/articles/airpods-max-dupe) okuyun.
-- Kulak içi taşınabilirliği mi tercih ediyorsunuz? [50 doların altındaki en iyi AirPods replikalarıyla](/tr/articles/best-airpods-replicas-under-50) karşılaştırın.
+- Kulak üstü klonlar hakkında genel bir bakış mı arıyorsunuz? [AirPods Max Dupe Rehberimizi](/tr/articles/airpods-max-dupe) okuyun.
+- Kulak içi taşınabilirliği mi tercih ediyorsunuz? [50 doların altındaki en iyi AirPods replikaları](/tr/articles/best-airpods-replicas-under-50) ile karşılaştırın veya [1 dakikalık testi](/tr/quiz) çözün.
 - Gümrük veya AB KDV'siyle ilgili endişeleriniz mi var? [AirPods replikalarında gümrük ve KDV](/tr/articles/airpods-replica-customs-and-vat) yazısını okuyun.
-- Güncel satıcı fiyatlarını [AirPods Max satın alma bağlantıları dizininde](/tr/links/airpods-max) kontrol edin.
+- Satıcıların güncel fiyatlarını [AirPods Max satın alma bağlantıları dizininde](/tr/links/airpods-max) kontrol edin.
 
 ## SSS
 
-::: details AirPods Max V3'ün kulaklık kapakları gerçekten metal mi?
-Evet. AirPods Max V3, gerçek Apple AirPods Max'in ağırlığına, ısı iletkenliğine ve soğuk dokunuş hissine sahip CNC ile işlenmiş anodize alüminyum alaşımlı kulaklık kapakları kullanır.
+::: details AirPods Max V3'ün kulak kapakları gerçekten metal mi?
+Evet. AirPods Max V3, otantik Apple AirPods Max'in ağırlığına, ısı iletkenliğine ve dokunuşta soğuk olma hissine sahip CNC işlenmiş anodize alüminyum alaşımlı kulak kapakları kullanır.
 :::
 
 ::: details AirPods Max V3, V3P'den daha mı ağır?
-Evet. Alüminyum V3 yaklaşık 384g ağırlığındadır (Apple'ın satıştaki 384,8g modeline neredeyse eşdeğer); plastik V3P ise yaklaşık 320g'dır.
+Evet. Alüminyum V3 yaklaşık 384 g ağırlığındadır (satıştaki Apple modelinin 384,8 g ağırlığıyla neredeyse aynıdır); plastik V3P ise yaklaşık 320 g ağırlığındadır.
 :::
 
-::: details AirPods Max replikaları Smart Case ile geliyor mu?
-Evet, hem V3 hem de V3P, kulaklıklar içine yerleştirildiğinde ultra düşük güçte uyku moduna geçiren manyetik Smart Case ile birlikte gelir.
+::: details AirPods Max replikaları Smart Case ile birlikte mi gelir?
+Evet, hem V3 hem de V3P, kulaklıklar içine yerleştirildiğinde ultra düşük güçte uyku moduna geçmelerini sağlayan manyetik Smart Case ile birlikte gelir.
 :::

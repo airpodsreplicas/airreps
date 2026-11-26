@@ -1,53 +1,53 @@
 ---
-title: AirPods-Replik-Wörterbuch
-description: 'Ein kompaktes Wörterbuch gebräuchlicher Begriffe, die in der AirReps-Community verwendet werden.'
+title: AirPods-Replica-Wörterbuch
+description: Ein kompaktes Wörterbuch gängiger Begriffe aus der AirReps-Community.
 ---
 # Wörterbuch
 
-## W2C: Wo kaufen / Woher beziehen
+## W2C: Wo kann man es kaufen?
 
-"W2C" bedeutet "Wo kann ich diesen Artikel kaufen?" Wird verwendet, um die Quelle oder den Verkäufer eines Produkts zu erfragen.
+„W2C“ bedeutet „Wo kann ich diesen Artikel kaufen?“ Der Begriff wird verwendet, wenn man nach der Quelle oder dem Verkäufer eines Produkts sucht.
 
-**Beispiel:** "Kannst du den W2C für die V5.3's im Subreddit posten?"
+**Beispiel:** „Kannst du die W2C-Quelle für die V5.3 im Subreddit posten?“
 
-## Reps/Clones: Replikate
+## Reps/Clones: Repliken
 
-"Reps" oder "Clones" bezeichnen Produktnachahmungen, die darauf ausgelegt sind, ein bestimmtes Produkt (in diesem Fall AirPods) so genau wie möglich zu kopieren. Dies unterscheidet sich von einem 'Knockoff'.
+„Reps“ oder „Clones“ bezeichnen Produktimitationen, die ein bestimmtes Produkt (in diesem Fall AirPods) so genau wie möglich nachahmen sollen. Das unterscheidet sie von „Knockoffs“.
 
-**Beispiel:** "Wo kann ich die besten AirPods reps/clones bekommen?"
+**Beispiel:** „Wo bekomme ich die besten AirPods-Reps/Clones?“
 
 ## Gefälschte AirPods
 
-"Gefälschte AirPods" ist ein informeller Begriff für AirPods-Nachahmungen oder -Clones. In diesem Leitfaden verwenden wir "Replikate" oder "Clones", um hochwertigere Drittanbieterprodukte zu beschreiben, die versuchen, Apple-Funktionen zu einem niedrigeren Preis nachzubilden.
+„Gefälschte AirPods“ ist eine informelle Bezeichnung für AirPods-Repliken oder -Clones. In diesem Leitfaden verwenden wir „Repliken“ oder „Clones“, um hochwertige Produkte von Drittanbietern zu beschreiben, die Apple-Funktionen zu einem niedrigeren Preis nachbilden sollen.
 
 ## Knockoffs
 
-"Knockoffs" bezeichnen Produkte, die so gestaltet sind, dass sie beliebten Marken ähneln, dabei aber Urheberrechtsverletzungen vermeiden (z. B. "Gucce" statt "Gucci").
+„Knockoffs“ bezeichnet Produkte, die beliebten Marken ähneln sollen, dabei aber eine Verletzung geistiger Eigentumsrechte vermeiden (z. B. „Gucce“ statt „Gucci“).
 
 ## GP: Versuchskaninchen
 
-"Guinea Pigging" bedeutet, die erste Person zu sein, die bei einem Verkäufer ein Produkt bestellt und bewertet, damit die Community dessen Qualität einschätzen kann.
+„Guinea Pigging“ bedeutet, als Erste:r ein Produkt eines Verkäufers zu bestellen und zu bewerten, damit die Community dessen Qualität beurteilen kann.
 
-**Beispiel:** "Ist jemand bereit, Troy's V4's zu GP'en?"
+**Beispiel:** „Wäre jemand bereit, die neue V7-Charge als GP zu testen?“
 
 ## QC: Qualitätskontrolle [BILDER]
 
-"QC" steht für Qualitätskontrolle. "QC PICS" bezieht sich auf Bilder, die verwendet werden, um die Qualität eines gekauften Produkts zu überprüfen. Siehe unseren [QC- & LC-Leitfaden](/de/ordering/qc-lc) für Hinweise, wie du deine Replikate inspizierst.
+„QC“ steht für Qualitätskontrolle. „QC PICS“ bezeichnet Bilder, mit denen die Qualität eines gekauften Produkts überprüft wird. In unserem [QC- und LC-Leitfaden](/de/ordering/qc-lc) erfährst du, wie du deine Repliken überprüfst.
 
-**Beispiel:** "Kannst du mir die QC-Bilder für HiCity v2.5's schicken?"
+**Beispiel:** „Kannst du mir die QC-Bilder für HiCitys Pro 3 V7 schicken?“
 
 ## LC: Echtheitsprüfung
 
-Eine "Legit Check" bzw. Echtheitsprüfung überprüft die Authentizität eines Produkts und wird oft beim Kauf von nicht-autorisierten Quellen wie eBay oder Facebook Marketplace verwendet.
+Eine „Legit Check“ überprüft, ob ein Produkt echt ist. Der Begriff wird häufig verwendet, wenn man über nicht autorisierte Vertriebskanäle wie eBay oder Facebook Marketplace einkauft.
 
-**Beispiel:** "Kann jemand diese AirPods Pros für mich LC'en?"
+**Beispiel:** „Kann jemand diese AirPods Pro für mich auf Echtheit prüfen?“
 
-## Agent: Frachtagent/Versandweiterleiter
+## Agent: Frachtagent/Versanddienstleister
 
-Ein "Agent" ist eine dritte Partei, die sichere Käufe von Verkäufern (oft in China) an Käufer ermöglicht. Sie fungieren als Vertreter, stellen sicher, dass Produkte nicht defekt sind und Käufer das erhalten, was sie bestellt haben. Wir empfehlen [KakoBuy](https://airreps.link/kakobuy) — siehe unsere [KakoBuy-Anleitung](/de/ordering/kakobuy), um zu erfahren, wie man ihn benutzt.
+Ein „Agent“ ist ein Drittanbieter, der sichere Einkäufe bei Verkäufern (oft in China) für Käufer ermöglicht. Er vertritt die Käufer und stellt sicher, dass die Produkte keine Mängel haben und die Käufer erhalten, was sie bestellt haben. Wir empfehlen [KakoBuy](https://airreps.link/kakobuy) — in unserem [KakoBuy-Leitfaden](/de/ordering/kakobuy) erfährst du, wie du den Dienst nutzt.
 
-**Beispiel:** "Du musst vielleicht einen Agenten nutzen, um sie zu bekommen, da HiCity derzeit nicht in die Philippinen verschickt."
+**Beispiel:** „Nutze einen Agenten wie KakoBuy, wenn du QC-Fotos möchtest oder AirPods zusammen mit anderen Artikeln in einer Sendung verschicken willst.“
 
-## Markings: Produktbeschriftung
+## Markierungen: Produktbeschriftung
 
-"Markings" beziehen sich auf den Text auf dem Case und den AirPods, der Informationen über das Produkt liefert, einschließlich des Textes "Designed by Apple in California", Modellnummern und Seriennummern. Weitere Informationen dazu, wie sich Markings zwischen Replikaten und Originalen unterscheiden, findest du unter [Verarbeitungsqualität](/de/introduction/build-quality).
+„Markierungen“ bezeichnet den Text auf dem Case und den AirPods, der Informationen zum Produkt enthält, darunter den Text „Designed by Apple in California“, Modellnummern und Seriennummern. Weitere Informationen dazu, wie sich die Markierungen von Repliken und Originalen unterscheiden, findest du unter [Verarbeitungsqualität](/de/introduction/build-quality).

@@ -1,14 +1,14 @@
 ---
-title: 'AirPods 4 & AirPods 2 Replikate kaufen: Verkäuferlinks'
-description: Vertrauenswürdige Verkäuferlinks für AirPods 4- und AirPods 2-Replikate nach Version mit aktuellen Preisen sowie Verfügbarkeit von AirPods 3 und AirPods 5.
+title: AirPods 4 & AirPods 2 Replikate kaufen
+description: 'Links zu vertrauenswürdigen Verkäufern und aktuelle Preise für Replikate von AirPods 4 (V3 TB, V2 Huilian, V2 TB) und AirPods 2 (V3E) auf Websites, Weidian und Alibaba.'
 ---
 <!-- product-family -->
 
 # AirPods-Nachbildungen kaufen
 
-Vertrauenswürdige Händlerlinks für jede Generation der Standard-AirPods-Repliken: AirPods 4, AirPods 3 und AirPods 2, AirPods 5 folgen noch. Wähle eine Generation aus, um zu ihren Versionen, Preisen und Händlern zu springen.
+Vertrauenswürdige Verkäuferlinks für jede Generation der Standard-AirPods-Nachbildungen: AirPods 4, AirPods 3 und AirPods 2, AirPods 5 folgen. Wähle eine Generation aus, um direkt zu ihren Versionen, Preisen und Verkäufern zu springen.
 
-[AirPods 5 (Demnächst verfügbar)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
+[AirPods 5 (demnächst verfügbar)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
 
 <!-- @include: ./airpods-5.md -->
 

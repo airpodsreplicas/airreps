@@ -1,53 +1,53 @@
 ---
-title: Dictionnaire Des Répliques AirPods
-description: Un dictionnaire concis des termes courants utilisés dans la communauté AirReps.
+title: Dictionnaire des répliques d’AirPods
+description: Un dictionnaire concis des termes couramment utilisés dans la communauté AirReps.
 ---
 # Dictionnaire
 
-## W2C : Où acheter / Où se procurer
+## W2C : où trouver/acheter
 
-"W2C" signifie "Où puis-je acheter cet article ?" Utilisé quand on cherche la source ou le vendeur d'un produit.
+« W2C » signifie « Où puis-je acheter cet article ? » On l’utilise lorsqu’on cherche la source ou le vendeur d’un produit.
 
-**Exemple :** "Peux-tu mettre le W2C pour les V5.3's dans le subreddit ?"
+**Exemple :** « Peux-tu publier le W2C des V5.3 sur le subreddit ? »
 
-## Reps/Clones : Répliques
+## Reps/Clones : répliques
 
-"Reps" ou "Clones" désignent des imitations de produits conçues pour copier un produit particulier (dans ce cas, les AirPods) aussi précisément que possible. C'est distinct d'un « knockoff ».
+« Reps » ou « Clones » désignent des imitations conçues pour reproduire un produit donné (dans ce cas, des AirPods) aussi fidèlement que possible. Cela les distingue des « contrefaçons ».
 
-**Exemple :** "Où puis-je obtenir les meilleures reps/clones d'AirPods ?"
+**Exemple :** « Où trouver les meilleures répliques/clones d’AirPods ? »
 
-## AirPods contrefaits
+## Faux AirPods
 
-"AirPods contrefaits" est un terme informel pour désigner des répliques ou clones d'AirPods. Dans ce guide, nous utilisons "répliques" ou "clones" pour décrire des produits tiers de meilleure qualité visant à reproduire les fonctionnalités d'Apple à un prix inférieur.
+« Faux AirPods » est un terme familier pour désigner des répliques ou des clones d’AirPods. Dans ce guide, nous employons « répliques » ou « clones » pour décrire des produits tiers de meilleure qualité qui cherchent à reproduire les fonctionnalités Apple à moindre prix.
 
-## Knockoffs
+## Contrefaçons
 
-"Knockoffs" désigne des produits conçus pour ressembler à des marques populaires tout en évitant les infractions à la propriété intellectuelle (par exemple, "Gucce" au lieu de "Gucci").
+Les « contrefaçons » désignent des produits conçus pour ressembler à des marques populaires tout en évitant de porter atteinte à la propriété intellectuelle (par exemple, « Gucce » au lieu de « Gucci »).
 
-## GP : Cobaye
+## GP : cobaye
 
-"Guinea Pigging" signifie être la première personne à commander et à évaluer le produit d'un vendeur, permettant à la communauté d'évaluer sa qualité.
+« Être le cobaye » signifie être la première personne à commander et à évaluer le produit d’un vendeur, afin que la communauté puisse en juger la qualité.
 
-**Exemple :** "Quelqu'un est prêt à GP les V4 de Troy ?"
+**Exemple :** « Quelqu’un veut-il être le cobaye du nouveau lot V7 ? »
 
-## QC : Contrôle qualité [PICS]
+## QC : contrôle qualité [PHOTOS]
 
-"QC" signifie Contrôle Qualité. "QC PICS" fait référence aux photos utilisées pour vérifier la qualité d'un produit acheté. Voir notre [guide QC & LC](/fr/ordering/qc-lc) pour savoir comment inspecter vos répliques.
+« QC » signifie « contrôle qualité ». « QC PICS » désigne les photos servant à vérifier la qualité d’un produit acheté. Consultez notre [guide QC et LC](/fr/ordering/qc-lc) pour savoir comment inspecter vos répliques.
 
-**Exemple :** "Peux-tu m'envoyer les photos QC des HiCity v2.5's ?"
+**Exemple :** « Peux-tu m’envoyer les photos QC des Pro 3 V7 de HiCity ? »
 
-## LC : Vérification d'authenticité
+## LC : vérification d’authenticité
 
-Une "Legit Check" vérifie l'authenticité d'un produit, souvent utilisée lors d'achats sur des sources non officielles comme eBay ou Facebook Marketplace.
+Une « vérification d’authenticité » permet de vérifier si un produit est authentique. On l’utilise souvent lors d’achats auprès de sources non officielles, comme eBay ou Facebook Marketplace.
 
-**Exemple :** "Quelqu'un peut LC ces AirPods Pro pour moi ?"
+**Exemple :** « Quelqu’un peut-il vérifier l’authenticité de ces AirPods Pro pour moi ? »
 
-## Agent : Agent de fret / Transitaire
+## Agent : agent de fret/transitaire
 
-Un "Agent" est un tiers qui facilite les achats sécurisés auprès de vendeurs (souvent en Chine) pour les acheteurs. Ils servent de représentants, s'assurant que les produits ne sont pas défectueux et que les acheteurs reçoivent ce qu'ils ont commandé. Nous recommandons [KakoBuy](https://airreps.link/kakobuy) — voir notre [guide KakoBuy](/fr/ordering/kakobuy) pour savoir comment l'utiliser.
+Un « agent » est un tiers qui facilite les achats auprès de vendeurs (souvent en Chine) et leur acheminement en toute sécurité jusqu’aux acheteurs. Il sert d’intermédiaire, vérifie que les produits ne sont pas défectueux et que les acheteurs reçoivent bien ce qu’ils ont commandé. Nous recommandons [KakoBuy](https://airreps.link/kakobuy) — consultez notre [guide KakoBuy](/fr/ordering/kakobuy) pour savoir comment l’utiliser.
 
-**Exemple :** "Tu pourrais avoir besoin d'utiliser un agent pour les obtenir, car actuellement HiCity n'expédie pas aux Philippines."
+**Exemple :** « Utilise un agent comme KakoBuy si tu veux des photos QC ou si tu veux regrouper des AirPods avec d’autres articles dans un seul envoi. »
 
-## Marquages : Étiquetage du produit
+## Marquages : étiquetage du produit
 
-"Marquages" fait référence au texte sur le boîtier et les AirPods qui fournit des informations sur le produit, y compris le texte "Designed by Apple in California", les numéros de modèle et les numéros de série. Pour en savoir plus sur la façon dont les marquages varient entre répliques et originaux, voir la [qualité de fabrication](/fr/introduction/build-quality).
+Les « marquages » désignent les inscriptions sur le boîtier et les AirPods qui fournissent des informations sur le produit, notamment la mention « Designed by Apple in California », les numéros de modèle et les numéros de série. Pour en savoir plus sur les différences de marquage entre les répliques et les originaux, consultez la page sur la [qualité de fabrication](/fr/introduction/build-quality).

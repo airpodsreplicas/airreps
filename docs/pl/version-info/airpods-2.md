@@ -4,19 +4,19 @@ description: 'Porównaj wersje replik AirPods 2 pod względem układu, funkcji i
 ---
 # AirPods 2
 
-::: tip Rozwój został zakończony
-Producenci nie aktualizują już aktywnie tej linii produktów, ponieważ rozwój skupił się na nowszych modelach. Repliki AirPods 2 to wciąż znakomite produkty i nadal cieszą się popularnością. Jeśli szukasz najnowszych funkcji i ulepszeń, sprawdź [AirPods 3](/pl/version-info/airpods-3) lub [AirPods 4](/pl/version-info/airpods-4).
+::: tip Rozwój produktu dobiegł końca
+Producenci nie rozwijają już aktywnie tej linii produktów, ponieważ skupili się na nowszych modelach. Repliki AirPods 2 nadal są świetnymi produktami i cieszą się popularnością. Jeśli szukasz najnowszych funkcji i ulepszeń, sprawdź [AirPods 3](/pl/version-info/airpods-3) lub [AirPods 4](/pl/version-info/airpods-4).
 :::
 
-**Werdykt w skrócie:** **V3E (Airoha 1562E)** to jedyna nadal produkowana replika AirPods Gen 2 — oferuje łączność z dwoma urządzeniami, możliwość dostosowania korektora dźwięku w aplikacji FlyCC, niezawodny czas pracy na baterii wynoszący 5–6 godzin oraz solidną obsługę iOS 27 w bezkonkurencyjnej cenie. Zobacz [linki do zakupu AirPods 2](/pl/links/airpods-2).
+**Szybki werdykt:** **V3E (Airoha 1562E)** to jedyna nadal produkowana replika AirPods Gen 2 — oferuje łączność z dwoma urządzeniami, możliwość dostosowania korektora w aplikacji FlyCC, niezawodny czas pracy na baterii wynoszący 5–6 godzin i solidną obsługę iOS 27 w bezkonkurencyjnej cenie. Zobacz [linki do zakupu AirPods 2](/pl/links/airpods-2).
 
-<span class="pick-buy">Kup V3E w sklepach [Earhive](https://airreps.link/e2v3e) [HiCity](https://airreps.link/hcgen2v3e) [Jenny](https://airreps.link/j2v3e)</span>
+<span class="pick-buy">Kup V3E w [Earhive](https://airreps.link/e2v3e) [HiCity](https://airreps.link/hcgen2v3e) [Jenny](https://airreps.link/j2v3e)</span>
 
 ::: tip Wspólne cechy AirPods 2
-Wszystkie modele Gen 2 oferują: klasyczne słuchawki z oryginalnymi, długimi nóżkami, sterowanie dotykowe (dwukrotne stuknięcie, aby odtwarzać/wstrzymać lub pominąć utwór), optyczne wykrywanie umieszczenia w uchu, ładowanie przez Lightning oraz obsługę iOS 27 z wyskakującym okienkiem na stronie „Informacje”. Pamiętaj, że słuchawki Gen 2 nie mają ANC ani dźwięku przestrzennego.
+Wszystkie modele Gen 2 mają: klasyczne słuchawki douszne z długim trzonkiem, sterowanie stuknięciami (dwukrotne stuknięcie, aby odtworzyć/wstrzymać odtwarzanie lub pominąć utwór), optyczne wykrywanie umieszczenia w uchu, ładowanie przez Lightning oraz obsługę iOS 27 z wyskakującym oknem na stronie „To urządzenie”. Pamiętaj, że słuchawki Gen 2 nie obsługują ANC ani dźwięku przestrzennego.
 :::
 
-Ceny u sprzedawców z 3 listopada 2026 r.; aktualne ceny znajdziesz w [linkach do zakupu](/pl/links/airpods-2). Kliknij nazwę wersji, aby przeczytać opinie społeczności.
+Ceny u sprzedawców z 26 listopada 2026 r.; aktualne ceny znajdziesz na [stronie z linkami do zakupu](/pl/links/airpods-2). Kliknij nazwę wersji, aby przeczytać opinie społeczności.
 
 <div class="compare-table">
 
@@ -24,12 +24,12 @@ Ceny u sprzedawców z 3 listopada 2026 r.; aktualne ceny znajdziesz w [linkach d
 |:---|:---:|:---:|:---:|:---:|
 | **Status** | **W sprzedaży** | Wycofany | Wycofany | Wycofany |
 | **Cena** | $26 | — | — | — |
-| **Sprzedawca** | Wszyscy 3 | — | — | — |
+| **Sprzedawcy** | Wszyscy trzej | — | — | — |
 | **Przełączanie między urządzeniami** | 2 urządzenia | 1 urządzenie | 1 urządzenie | 1 urządzenie |
-| **Bateria** | ~5–6 h | ~5–6 h | ~3–4 h | ~3–4 h |
+| **Bateria** | ~5–6 godz. | ~5–6 godz. | ~3–4 godz. | ~3–4 godz. |
 | **Dźwięk** | Dopracowany i zrównoważony | Zrównoważony | Standardowy | Podstawowy |
 | **Ładowanie bezprzewodowe** | ✅ | ✅ | Podstawowe | ❌ Tylko przewodowe |
-| **Wykonanie i zawias** | Metal pokryty powłoką galwaniczną | Metalowy zawias | Metalowy zawias | Podstawowe / plastikowe |
+| **Wykonanie i zawias** | Metal z powłoką galwaniczną | Metalowy zawias | Metalowy zawias | Podstawowe / plastikowe |
 | **Aplikacja do korektora i ustawień** | FlyCC / CloudCC | FlyCC | — | — |
 | **Obsługa iOS** | iOS 27 | iOS 27 | iOS 27 | Podstawowa |
 
@@ -54,4 +54,4 @@ Producenci wycofali następujące starsze modele Gen 2:
 - **V2** i **V1.5** (Airoha 1536 / JL)
 :::
 
-Gotowy do zakupu? Sprawdź [linki do zakupu AirPods 2](/pl/links/airpods-2) i [przewodnik zamawiania](/pl/ordering/how-to-buy).
+Gotowy na zakup? Sprawdź [linki do zakupu AirPods 2](/pl/links/airpods-2) oraz [przewodnik zakupowy](/pl/ordering/how-to-buy).

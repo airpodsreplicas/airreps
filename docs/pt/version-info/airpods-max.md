@@ -1,109 +1,127 @@
 ---
-title: Versões réplica dos AirPods Max V3 TB e V3P comparadas
-description: 'Versões réplica dos AirPods Max comparadas: o V3 Metal, vendido como Max V3 TB, versus o V3P mais barato e os modelos V2 e V2.5 mais antigos, em relação ao chip, cancelamento de ruído, rastreamento da cabeça e preço.'
+title: AirPods Max V3 TB e V3P Replicas Comparadas (2026)
+description: 'AirPods Max V3 TB (Metal, $126–127) vs V3P ($85–94): comparação das réplicas por chip, construção em alumínio CNC vs plástico, ANC de quatro microfones, rastreamento da cabeça e preço.'
 ---
 # AirPods Max
 
-Todas las versiones réplica (rep) de AirPods Max en una sola página: la V3 Metal, que los vendedores comercializan como **Max V3 TB**, la más económica **V3P** y las antiguas V2 y V2.5. Consulta la [guía general de V3 TB y V3P](#v3-overview) para ver qué diferencia a las dos versiones actuales.
+Todas as versões de réplicas (reps) dos AirPods Max em uma página: a V3 Metal, que os vendedores anunciam como **Max V3 TB**, a mais barata **V3P** e as antigas V2 e V2.5. Veja a [visão geral da V3 TB e da V3P](#v3-overview) para saber o que diferencia as duas versões atuais.
 
 <div class="pick-cards">
 
-- <span class="pick-label">La mejor en general</span> **V3 Metal** (se vende como Max V3 TB) · $126–127<br>Copas metálicas, cancelación de ruido híbrida mejorada y audio espacial con seguimiento de la cabeza. [Descripción general de V3](#v3-overview)<span class="pick-buy">Comprar en [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
-- <span class="pick-label">Menor precio</span> **V3P** · $85–93<br>Carcasa de plástico y acero y un chipset más antiguo, así que no es simplemente una V3 con carcasa de plástico. Sin seguimiento de la cabeza. [Descripción general de V3](#v3-overview)<span class="pick-buy">Comprar en [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
+- <span class="pick-label">Melhor no geral</span> **V3 Metal** (vendida como Max V3 TB) · $126–127<br>Conchas metálicas, cancelamento de ruído híbrido aprimorado e áudio espacial com rastreamento da cabeça. [Visão geral da V3](#v3-overview)<span class="pick-buy">Compre na [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
+- <span class="pick-label">Preço mais baixo</span> **V3P** · $85–94<br>Estrutura de plástico e aço e chipset mais antigo, então não é simplesmente a V3 com uma carcaça de plástico. Sem rastreamento da cabeça. [Visão geral da V3](#v3-overview)<span class="pick-buy">Compre na [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
 </div>
 
-Estos son los precios que cobraban los vendedores el 3 de noviembre de 2026; consulta los [enlaces de compra](/pt/links/airpods-max) para ver los precios actuales. Haz clic en el nombre de una versión en la tabla para leer las reseñas de la comunidad.
+Os preços são os cobrados pelos vendedores em 26 de novembro de 2026; veja os [links de compra](/pt/links/airpods-max) para consultar os preços atuais. Clique no nome de uma versão na tabela para ler as avaliações da comunidade.
 
 <div class="compare-table">
 
 | | [<span class="version-badge">V3 Metal</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v3) | [<span class="version-badge">V3P</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v3p) | [<span class="version-badge">V2.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v2.5) | [<span class="version-badge">V2 Metal</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v2) |
 |:---|:---:|:---:|:---:|:---:|
-| **Precio** | $126–127 | $85–93 | $124 | $110–112 |
-| **Vendido por** | Los 3 | Earhive, Jenny | Earhive | Earhive, Jenny |
-| **Copas** | Metal | Plástico y acero | Aleación de aluminio | Aleación de aluminio |
-| **Cancelación de ruido** | Híbrida de cuatro micrófonos¹ | Híbrida | Híbrida | Híbrida |
-| **Modo de transparencia** | Natural | Aceptable | Aceptable | Básico |
-| **Audio espacial con seguimiento de la cabeza** | ✅ | ❌ | ✅² | ❌ |
-| **Batería** | 20 h¹ | 20 h¹ | No verificado | No verificado |
-| **Cambio entre dispositivos** | 2 dispositivos | 1 dispositivo | 2 dispositivos² | 1 dispositivo |
-| **Aplicación para ecualización y actualizaciones** | FlyCC (Android) | FlyCC (Android) | Depende del chip | FlyCC (Android) |
-| **Puerto de carga** | USB-C | USB-C | USB-C o Lightning | Lightning o USB-C |
+| **Preço** | $126–127 | $85–94 | $124 | $110–112 |
+| **Vendido por** | Os 3 | Earhive, Jenny | Earhive | Earhive, Jenny |
+| **Conchas** | Metal | Plástico e aço | Liga de alumínio | Liga de alumínio |
+| **Cancelamento de ruído** | Híbrido com quatro microfones¹ | Híbrido | Híbrido | Híbrido |
+| **Modo de transparência** | Natural | Decente | Decente | Básico |
+| **Áudio espacial com rastreamento da cabeça** | ✅ | ❌ | ✅² | ❌ |
+| **Bateria** | 20 h¹ | 20 h¹ | Não verificado | Não verificado |
+| **Alternância entre dispositivos** | 2 dispositivos | 1 dispositivo | 2 dispositivos² | 1 dispositivo |
+| **App para equalização e atualizações** | FlyCC | FlyCC | Depende do chip | FlyCC |
+| **Porta de carregamento** | USB-C | USB-C | USB-C ou Lightning | Lightning ou USB-C |
 
 </div>
 
 <div class="compare-notes">
 
-¹ Especificaciones de los vendedores consultadas el 22 de septiembre de 2026: [V3 de Jenny](https://jenny.airreps.info/product/max-v3-tb/), [V3P de Jenny](https://jenny.airreps.info/product/max-v3p-tb/) y [V3P de Earhive](https://earhive.com/product/max-v3p-tb/). La cifra de 45 dB de ANC y las 20 horas de batería son afirmaciones de los vendedores, no mediciones comparables de la comunidad. La autonomía depende del volumen, la ANC, el firmware y el lote; las estimaciones anteriores de 35–50 horas de la guía no estaban respaldadas por una prueba documentada.
+¹ Especificações dos vendedores verificadas em 22 de setembro de 2026: [Jenny V3](https://jenny.airreps.info/product/max-v3-tb/), [Jenny V3P](https://jenny.airreps.info/product/max-v3p-tb/) e [Earhive V3P](https://earhive.com/product/max-v3p-tb/). Os valores de 45 dB de ANC e 20 horas de bateria são alegações dos vendedores, não medições comparáveis da comunidade. A autonomia depende do volume, do ANC, do firmware e do lote; as estimativas anteriores de 35–50 horas no guia não eram respaldadas por um teste documentado.
 
-² En la versión V2.5 con Realtek. [Detalles de V2 y V2.5](#v2-v2-5-version-differences)
+² Na versão com Realtek da V2.5. [Detalhes da V2 e V2.5](#v2-v2-5-version-differences)
 
 </div>
 
-::: tip Todas las versiones de AirPods Max incluyen
-Todos los modelos Max incluyen: diseño circumaural con diadema de malla, rueda Digital Crown para el volumen y la reproducción, botón específico para el control de ruido, detección de uso en el oído o sobre la cabeza, compartir audio y compatibilidad con iOS 27, incluida la ventana emergente de la página «Acerca de».
-*(Nota: ninguna réplica iguala la profundidad de ANC de los Max originales vendidos en tiendas ni es compatible con la red cifrada Buscar de Apple.)*
+::: tip Todas as versões dos AirPods Max incluem
+Todos os modelos Max incluem: design circum-auricular com arco de malha, coroa digital para volume e reprodução, botão dedicado de controle de ruído, detecção no ouvido / na cabeça, compartilhamento de áudio e suporte ao iOS 27 com janela pop-up na página Sobre.
+*(Observação: nenhuma réplica iguala a profundidade do ANC dos Max originais vendidos no varejo ou é compatível com a rede criptografada Buscar da Apple.)*
 :::
 
-::: details Detalles técnicos: chipsets y cancelación de ruido
+::: details Detalhes técnicos: chipsets e cancelamento de ruído
 
 <div class="compare-table">
 
 | | V3 Metal | V3P | V2.5 | V2 Metal |
 |:---|:---:|:---:|:---:|:---:|
 | **Chipset** | Airoha 1562AE | Airoha 1561M | Realtek 8763ESE / Bluetrum | Airoha 1561M |
-| **Cancelación de ruido** | Híbrida de cuatro micrófonos, hasta 45 dB según el anuncio | Híbrida (según el vendedor) | Híbrida | Híbrida |
+| **Cancelamento de ruído** | Híbrido com quatro microfones, até 45 dB anunciados | Híbrido (conforme anunciado pelo vendedor) | Híbrido | Híbrido |
 
 </div>
 
 :::
 
-::: info Modelos Max descatalogados
-Los siguientes modelos antiguos han sido descatalogados por los fabricantes y ya no se recomiendan:
+::: info Modelos Max descontinuados
+Os seguintes modelos antigos foram descontinuados pelos fabricantes e não são mais recomendados:
 - **V2 BES** (BES 2600IHC)
 - **V2 Plastic**
-- **V1.6** y **V1.5** (Bluetrum 8892E)
-- **V1 P9 Max** (carcasa genérica barata)
+- **V1.6** e **V1.5** (Bluetrum 8892E)
+- **V1 P9 Max** (carcaça genérica barata)
 :::
 
-## Descripción general de Max V3 TB y V3P {#v3-overview}
+## Visão geral da Max V3 TB e da V3P {#v3-overview}
 
-La V3 supone una mejora considerable respecto a la V2.5: incorpora un chipset distinto (Airoha 1562AE) y características mejoradas, como ANC híbrida mejorada, audio espacial con seguimiento de la cabeza y opciones de construcción metálica. Está disponible en dos versiones. La V3 Metal, que se vende como Max V3 TB, tiene copas y diadema metálicas y acolchadas, mientras que la V3P tiene una construcción de plástico. Ambas usan USB-C, pero la V3P conserva la antigua plataforma Airoha 1561M y no incluye el seguimiento de la cabeza de la V3. No des por hecho que tienen el mismo rendimiento de audio o autonomía solo porque comparten diseño.
+A V3 é uma atualização significativa em relação à V2.5, com um chipset diferente (Airoha 1562AE) e recursos aprimorados, incluindo ANC híbrido aprimorado, áudio espacial com rastreamento da cabeça e opções de construção metálica. Ela está disponível em duas versões. A V3 Metal, vendida como Max V3 TB, tem conchas e arco metálicos acolchoados, enquanto a V3P usa uma estrutura de plástico. Ambas usam USB-C, mas a V3P mantém a plataforma mais antiga Airoha 1561M e não tem o rastreamento da cabeça da V3. Não presuma que o estilo semelhante signifique desempenho de áudio ou duração da bateria idênticos.
 
 ### V3 Metal (Max V3 TB) {#v3-metal}
 
-Los vendedores comercializan la V3 Metal como **Max V3 TB**. Es la réplica insignia de AirPods Max y la venden los tres vendedores de confianza:
+Os vendedores anunciam a V3 Metal como **Max V3 TB**. É a réplica topo de linha dos AirPods Max e é vendida por todos os três vendedores de confiança:
 
-- **Construcción:** copas y diadema metálicas
+- **Construção:** conchas e arco metálicos
 - **Chipset:** Airoha 1562AE
-- **Cancelación de ruido:** ANC híbrida de cuatro micrófonos; el vendedor anuncia hasta 45 dB
-- **Audio espacial con seguimiento de la cabeza:** sí
-- **Modo de transparencia:** natural
-- **Conexión:** entre 2 dispositivos
-- **Aplicación para ecualización y actualizaciones:** FlyCC (Android); consulta la [guía de FlyCC](/pt/articles/flycc-app-guide)
-- **Batería:** 20 horas, según el vendedor
+- **Cancelamento de ruído:** ANC híbrido com quatro microfones, anunciado pelo vendedor em até 45 dB
+- **Áudio espacial com rastreamento da cabeça:** sim
+- **Modo de transparência:** natural
+- **Alternância:** entre 2 dispositivos
+- **App para equalização e atualizações:** FlyCC (Android e iOS); consulte o [guia do FlyCC](/pt/articles/flycc-app-guide)
+- **Bateria:** 20 horas, conforme anunciado pelo vendedor
 
-<span class="pick-buy">Comprar Max V3 TB en [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
+<span class="pick-buy">Compre a Max V3 TB na [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
 
 ### V3P {#v3p}
 
-La V3P es la versión más económica, que venden Earhive y Jenny. Tiene una carcasa de plástico y acero y un chipset más antiguo, así que no es simplemente una V3 con carcasa de plástico:
+A V3P é a versão mais barata, vendida pela Earhive e pela Jenny. Ela tem uma carcaça de plástico e aço e um chipset mais antigo, então não é simplesmente a V3 com uma carcaça de plástico:
 
-- **Construcción:** carcasa de plástico y acero
+- **Construção:** carcaça de plástico e aço
 - **Chipset:** Airoha 1561M
-- **Cancelación de ruido:** ANC híbrida (según el vendedor)
-- **Audio espacial con seguimiento de la cabeza:** no
-- **Modo de transparencia:** aceptable
-- **Conexión:** 1 dispositivo
-- **Aplicación para ecualización y actualizaciones:** FlyCC (Android)
-- **Batería:** 20 horas, según el vendedor
+- **Cancelamento de ruído:** ANC híbrido (conforme anunciado pelo vendedor)
+- **Áudio espacial com rastreamento da cabeça:** não
+- **Modo de transparência:** decente
+- **Alternância:** 1 dispositivo
+- **App para equalização e atualizações:** FlyCC (Android e iOS)
+- **Bateria:** 20 horas, conforme anunciado pelo vendedor
 
-<span class="pick-buy">Comprar V3P en [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
+<span class="pick-buy">Compre a V3P na [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
-¿No sabes cuál elegir? [AirPods Max V3 frente a V3P](/pt/articles/airpods-max-v3-vs-v3p) compara los materiales, el peso, la cancelación de ruido y los controles. Como todas las réplicas de AirPods, ninguna de las dos versiones funciona con la red Buscar de Apple; consulta [¿Funcionan los AirPods falsos con Buscar?](/pt/articles/do-fake-airpods-work-with-find-my)
+Está em dúvida entre as duas? [AirPods Max V3 vs V3P](/pt/articles/airpods-max-v3-vs-v3p) compara os materiais, o peso, o cancelamento de ruído e os controles. Como todas as réplicas de AirPods, nenhuma das versões funciona com a rede Buscar da Apple; consulte [Réplicas de AirPods funcionam com o Buscar?](/pt/articles/do-fake-airpods-work-with-find-my)
 
-## Diferencias entre las versiones V2 y V2.5: {#v2-v2-5-version-differences}
+## Diferenças entre as versões V2 e V2.5: {#v2-v2-5-version-differences}
 
-**V2 TB**: el modelo V2 ofrece una calidad de sonido satisfactoria y permite ajustar la ecualización mediante FlyCC. Tiene una carcasa más firme y permite actualizar el firmware, lo que ayuda a prolongar su utilidad.
+**V2 TB**: o modelo V2 oferece qualidade de som satisfatória e permite ajustes de equalização pelo FlyCC. Ele tem uma carcaça mais rígida e oferece maior durabilidade futura graças à possibilidade de atualização do firmware.
 
-**V2.5**: esta versión mejorada ofrece una cancelación activa de ruido (ANC) más eficaz y un modo de transparencia mejorado. También tiene un diseño de diadema superior al de la V2. La versión Realtek 8763ESE admite actualizaciones de firmware OTA y conexión a dos dispositivos. ¿Listo para comprar? Consulta nuestros [enlaces de compra de AirPods Max](/pt/links/airpods-max).
+**V2.5**: esta versão atualizada oferece cancelamento ativo de ruído (ANC) aprimorado e modo de transparência melhorado. Também tem um design de arco superior ao da V2. A versão Realtek 8763ESE é compatível com atualizações de firmware OTA e conexão a dois dispositivos. Pronto para comprar? Consulte nossos [links de compra dos AirPods Max](/pt/links/airpods-max).
+
+## Perguntas frequentes
+
+::: details Qual é a diferença entre os AirPods Max V3 TB e V3P?
+A **Max V3 TB** ($126–127) usa conchas metálicas, o chipset mais recente Airoha 1562AE, ANC híbrido com quatro microfones, áudio espacial com rastreamento da cabeça e conexão multiponto para 2 dispositivos. A **V3P** ($85–94) usa uma carcaça de plástico e aço e o chipset mais antigo Airoha 1561M, sem rastreamento da cabeça nem alternância entre 2 dispositivos.
+:::
+
+::: details As réplicas dos AirPods Max têm conchas metálicas?
+Sim, na **V3 Metal (Max V3 TB)**, na V2.5 e na V2 Metal. A mais barata **V3P** usa uma carcaça de plástico e aço para manter o preço abaixo de $95.
+:::
+
+::: details As réplicas dos AirPods Max são compatíveis com o iCloud Connect ou o Buscar?
+Não. A Max V3 TB é compatível com multiponto Bluetooth padrão entre 2 dispositivos, não com o iCloud Connect da Apple, e nenhuma réplica de AirPods é compatível com a rede criptografada Buscar da Apple.
+:::
+
+::: details Qual app funciona com os AirPods Max V3 TB?
+Use o **FlyCC** (disponível para Android e na App Store do iOS) para equalização e atualizações; consulte [Apps úteis](/pt/useful-apps) e o [guia do FlyCC](/pt/articles/flycc-app-guide).
+:::

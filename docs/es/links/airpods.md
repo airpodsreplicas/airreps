@@ -1,12 +1,12 @@
 ---
-title: 'Compra réplicas de AirPods 4 y AirPods 2: enlaces de vendedores'
-description: 'Enlaces de vendedores de confianza para réplicas de AirPods 4 y AirPods 2 por versión, con precios actuales y disponibilidad de AirPods 3 y AirPods 5.'
+title: Compra réplicas de AirPods 4 y AirPods 2
+description: 'Enlaces de vendedores de confianza y precios actualizados de réplicas de AirPods 4 (V3 TB, V2 Huilian, V2 TB) y AirPods 2 (V3E) en sitios web, Weidian y Alibaba.'
 ---
 <!-- product-family -->
 
-# Comprar réplicas de AirPods
+# Compra réplicas de AirPods
 
-Enlaces a vendedores de confianza para todas las generaciones estándar de réplicas de AirPods: AirPods 4, AirPods 3 y AirPods 2, y próximamente AirPods 5. Elige una generación para acceder a sus versiones, precios y vendedores.
+Enlaces a vendedores de confianza para cada generación estándar de réplicas de AirPods: AirPods 4, AirPods 3 y AirPods 2; AirPods 5 próximamente. Elige una generación para ir a sus versiones, precios y vendedores.
 
 [AirPods 5 (próximamente)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
 
