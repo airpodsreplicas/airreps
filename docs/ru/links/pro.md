@@ -1,10 +1,10 @@
 ---
-title: 'Купить копии AirPods Pro 3 и Pro 2: ссылки на продавцов'
-description: 'Проверенные ссылки на продавцов для всех версий копий AirPods Pro 3 (V7, SE, V6, V5.5) и AirPods Pro 2 (V5.4, V5.3, V5.2), с актуальными ценами.'
+title: Купить реплики AirPods Pro 3 и Pro 2
+description: 'Надёжные ссылки на продавцов и актуальные цены на реплики AirPods Pro 3 (V7, SE, V6, V5.5) и Pro 2 (V5.4, V5.3, V5.2) на сайте, Weidian и Alibaba.'
 ---
 <!-- product-family -->
 
-# Где купить реплики AirPods Pro
+# Купить реплики AirPods Pro
 
 Проверенные ссылки на продавцов реплик каждого поколения AirPods Pro: AirPods Pro 3 (V7, SE, V6, V5.5), AirPods Pro 2 (V5.4, V5.3, V5.2) и AirPods Pro первого поколения. Выберите поколение, чтобы перейти к его версиям, ценам и продавцам.
 

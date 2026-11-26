@@ -1,12 +1,12 @@
 ---
-title: 'Kup repliki AirPods 4 i AirPods 2: linki do sprzedawców'
-description: 'Zaufane linki do sprzedawców replik AirPods 4 i AirPods 2 według wersji, z aktualnymi cenami oraz informacjami o dostępności AirPods 3 i AirPods 5.'
+title: Kup repliki AirPods 4 i AirPods 2
+description: 'Zaufane linki do sprzedawców i aktualne ceny replik AirPods 4 (V3 TB, V2 Huilian, V2 TB) oraz AirPods 2 (V3E) na stronie internetowej, Weidian i Alibaba.'
 ---
 <!-- product-family -->
 
-# Zakup replik AirPods
+# Kup repliki AirPods
 
-Sprawdzone linki do sprzedawców dla każdej generacji standardowych replik AirPods: AirPods 4, AirPods 3 i AirPods 2, a wkrótce także AirPods 5. Wybierz generację, aby przejść do jej wersji, cen i sprzedawców.
+Zaufane linki do sprzedawców replik wszystkich standardowych generacji AirPods: AirPods 4, AirPods 3 i AirPods 2, a wkrótce także AirPods 5. Wybierz generację, aby przejść do jej wersji, cen i sprzedawców.
 
 [AirPods 5 (wkrótce)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
 

@@ -1,84 +1,86 @@
 ---
 title: Funktionieren gefälschte AirPods mit neuen iPhones?
-description: 'Funktionieren AirPods-Nachbildungen mit einem neuen iPhone? Ja – das iOS-Popup funktioniert weiterhin, und was sich tatsächlich unterscheidet, hängt von der Version ab, die du kaufst, nicht vom Telefon. Das solltest du überprüfen.'
-category: Deine Reps verwenden
+description: 'Ja — AirPods-Replikate funktionieren mit neuen iPhones und iOS 27. Erfahre, was je nach Version variiert: iCloud Connect oder Multipoint, Firmware-Apps und die besten Modelle.'
+category: Deine Replikate verwenden
 order: 11
 ---
 # Funktionieren gefälschte AirPods mit neuen iPhones?
 
-Kurze Antwort: Ja. Ob eine Nachbildung mit einem neuen iPhone kompatibel ist, hängt viel stärker von der gekauften Version ab als vom Handy in deiner Tasche. Apples Handys verwenden alle dasselbe Bluetooth und dieselbe Popup-Sprache. Deshalb funktioniert ein Paar, das bereits funktioniert, auch nach einem Upgrade weiter. Die Unterschiede, auf die Nutzer tatsächlich stoßen, liegen zwischen den Versionen — beim Chipsatz, der Firmware und der Ausstattung — und nicht zwischen den Handys.
+Kurze Antwort: Ja. Die Kompatibilität eines Nachbaus mit einem neuen iPhone hängt viel stärker von der gekauften Version ab als vom Telefon in deiner Tasche. Apples iPhones verwenden alle dasselbe Bluetooth und dieselbe Popup-Anzeige, daher funktioniert ein intaktes Paar auch nach einem Upgrade weiter. Die Unterschiede, auf die Nutzer tatsächlich stoßen, liegen bei den Versionen — Chipsatz, Firmware und Funktionsumfang — und nicht beim iPhone.
 
-> **Kurze Antwort:** Ja, AirPods-Nachbildungen funktionieren nahtlos mit neuen iPhones und modernen iOS-Versionen. Das Kopplungs-Popup, das Widget für den Batteriestand, die Trageerkennung und die Wischgesten funktionieren normal. iOS wird Nachbau-Hardware niemals unbrauchbar machen oder deaktivieren. Allenfalls kann bei der ersten Kopplung die Meldung „Nicht verifizierte AirPods“ erscheinen, die sich mit einem Tippen umgehen lässt.
+> **Kurze Antwort:** Ja, AirPods-Nachbauten funktionieren nahtlos mit neuen iPhones und modernen iOS-Versionen. Das Kopplungs-Popup, das Batterieprozent-Widget, die Trageerkennung und die Wischgesten funktionieren normal. iOS wird Nachbau-Hardware niemals unbrauchbar machen oder deaktivieren; höchstens kann bei der ersten Kopplung die Meldung „Nicht verifizierte AirPods“ erscheinen, die sich mit einem Tippen umgehen lässt.
 
-Hier kommt die einfache Erklärung dazu, was sich ändert und was nicht, wenn das Handy neu und die Ohrhörer gefälscht sind.
+Hier ist die einfache Erklärung dazu, was sich ändert und was nicht, wenn das iPhone neu und die Ohrhörer gefälscht sind.
 
 ## Das iOS-Popup funktioniert weiterhin
 
-Das Kopplungs-Popup ist das Erste, worüber sich viele Sorgen machen, dabei ist es dein geringstes Problem. Bei Nachbildungen erscheint es fast sofort. Wie schnell es auftaucht, hängt vom Verkäufer und der Charge ab, nicht vom Handy — in manchen Fällen sogar *schneller* als bei echten AirPods. In unseren [Hinweisen zur Konnektivität](/de/introduction/connectivity) erfährst du, wie sich das verhält. Dort wird auch der seltene Fall behandelt, in dem sich ein neues Paar beim ersten Versuch nicht verbinden lässt und zurückgesetzt werden muss.
+Das Kopplungs-Popup ist das Erste, worüber sich viele Gedanken machen, und zugleich das geringste deiner Probleme. Nachbauten zeigen es fast sofort an, und die Geschwindigkeit hängt eher vom Verkäufer und der Charge als vom iPhone ab — in manchen Fällen erscheint es sogar *schneller* als bei echten AirPods. Unsere [Hinweise zur Konnektivität](/de/introduction/connectivity) erklären das genauer, einschließlich des seltenen Falls, in dem sich ein neues Paar beim ersten Versuch nicht verbinden lässt und zurückgesetzt werden muss.
 
-Wenn das Popup erscheint, behandelt iOS die Ohrhörer als Headset. Dafür ist das Handy zuständig, und dabei gibt es keinen Unterschied zwischen dem neuesten und einem älteren Modell.
+Wenn das Popup erscheint, behandelt iOS die Ohrhörer als Headset. Das ist der Teil, um den sich das iPhone kümmert, und er funktioniert beim neuesten Modell genauso wie bei einem älteren.
 
-## Namen und Tippsteuerung lassen sich über iOS einrichten
+## Namensänderung und Tippsteuerung werden über iOS eingerichtet
 
-Das Ändern des Namens, die Anzeige des GPS-Standorts und konfigurierbare Tippsteuerungen sind allesamt Apple-Softwarefunktionen, die auf dem iPhone funktionieren. Alle aktuellen Modelle unterstützen das Ändern des Namens und der Tippsteuerung sowie GPS über iOS. Das gilt für die gesamte Produktreihe — die [allgemeinen Versionsinfos](/de/version-info/general) enthalten die gemeinsame Liste.
+Die Namensänderung, die GPS-Standortanzeige und konfigurierbare Tippsteuerung sind allesamt Apple-Softwarefunktionen und funktionieren alle auf dem iPhone. Jedes aktuelle Modell unterstützt die Namensänderung, GPS und die Anpassung der Tippsteuerung über iOS. Das gilt für die gesamte Produktreihe — die [allgemeinen Versionsinfos](/de/version-info/general) enthalten die gemeinsame Übersicht.
 
-Wichtig für die Praxis: Diese Einstellungen werden nach dem Ändern auf den Ohrhörern gespeichert. Sie bleiben also erhalten, wenn du das Paar später mit einem anderen Gerät verwendest. Auf dem iPhone musst du nichts Besonderes tun: Verbinde die Ohrhörer, öffne die Einstellungen und ändere, was du möchtest.
+Wichtig ist dabei: Diese Einstellungen werden nach ihrer Änderung auf den Ohrhörern gespeichert und bleiben daher erhalten, wenn du das Paar später mit einem anderen Gerät verwendest. Auf dem iPhone musst du nichts Besonderes tun: Verbinden, „Einstellungen“ öffnen und die gewünschten Änderungen vornehmen.
 
-## Was sich tatsächlich unterscheidet: die Version, nicht das Handy
+## Was sich tatsächlich unterscheidet: die Version, nicht das iPhone
 
-Hier liegen die echten Kompatibilitätsfragen. Zwischen den Versionen gibt es drei wirkliche Unterschiede, und keiner davon hängt davon ab, wie neu dein iPhone ist.
+Hier geht es um die tatsächlichen Kompatibilitätsfragen. Zwischen den Versionen gibt es drei echte Unterschiede, und keiner davon hängt davon ab, wie neu dein iPhone ist.
 
-- **iCloud Connect gibt es nur bei Huilian.** Automatisches Wechseln zwischen Apple-Geräten funktioniert nur bei Modellen mit Huilian-Chipsatz — zum Beispiel bei den AirPods Pro 2 V5.4, den AirPods Pro 3 V6/V7 Huilian und den AirPods 4 V2 Huilian. Andere Chipsätze können sich über Bluetooth Multipoint gleichzeitig mit mehreren Geräten verbinden, aber du musst manuell wechseln. Auf unserer [Seite zur Konnektivität](/de/introduction/connectivity) wird das genauer erklärt.
-- **Live-Übersetzung und die neueren Funktionen gibt es bei den aktuellen Pro 3-Versionen.** Auf der [Seite zu den AirPods Pro 3](/de/version-info/airpods-pro-3) sind Live-Übersetzung bei den V6 (nur Huilian-Variante), der V7 und der SE sowie Funktionen wie iOS 27-Unterstützung, die „Info“-Seite, optische Herzfrequenzmessung und Kopfgestensteuerung bei den höherwertigen Versionen aufgeführt. Ältere Modelle bieten diese Funktionen unabhängig vom Handy nicht.
-- **Ältere Nachbauten der unteren Preisklasse mit Jieli-Chipsätzen können möglicherweise gar keine Verbindung zu den Community-Apps herstellen.** Sowohl die [allgemeinen FAQs](/de/version-info/general) als auch die Seite zu den [nützlichen Apps](/de/useful-apps) weisen ausdrücklich darauf hin: Wenn keine der Firmware-Apps dein Paar erkennt, handelt es sich um einen Nachbau der unteren Preisklasse. Das liegt am Chipsatz, nicht am iPhone.
+- **iCloud Connect gibt es nur bei Huilian.** Automatisches Wechseln zwischen Apple-Geräten funktioniert nur bei fünf Modellen mit Huilian-Chipsatz — AirPods Pro 3 V7 Huilian und V6 Huilian, AirPods Pro 2 V5.4 Huilian und V5.3 Huilian sowie AirPods 4 V2 Huilian. Andere Chipsätze können sich gleichzeitig per Bluetooth Multipoint mit mehreren Geräten verbinden, aber du musst manuell wechseln. Auf unserer [Konnektivitätsseite](/de/introduction/connectivity) wird das genauer erklärt.
+- **Live-Übersetzung und die neueren Funktionen gibt es bei den aktuellen Pro-3-Versionen.** Auf der [AirPods-Pro-3-Seite](/de/version-info/airpods-pro-3) ist Live-Übersetzung für **V7 Huilian, V6 Huilian und SE** aufgeführt (nicht für V7 TB), zusammen mit iOS-27-Unterstützung, der Seite „Info“, optischer Herzfrequenzmessung und Kopfgestensteuerung bei beiden V7-Versionen. Ältere Modelle haben diese Funktionen schlicht nicht, unabhängig vom iPhone.
+- **Ältere günstige Nachbauten mit Jieli-Chipsätzen lassen sich möglicherweise gar nicht mit den Community-Apps verbinden.** Sowohl die [allgemeinen häufig gestellten Fragen](/de/version-info/general) als auch die Seite zu [nützlichen Apps](/de/useful-apps) sagen das ganz offen: Wenn keine der Firmware-Apps dein Paar erkennt, handelt es sich um einen günstigen Nachbau. Das ist eine Einschränkung des Chipsatzes, nicht des iPhones.
 
-Anders gesagt: Wenn deinen Nachbildungen eine Funktion fehlt, wird sie durch ein Upgrade des Handys nicht wiederhergestellt. Die gekaufte Version setzt die Grenzen.
+Anders gesagt: Wenn deinen Nachbauten eine Funktion fehlt, bringt das iPhone-Upgrade sie nicht zurück. Die gekaufte Version setzt die Grenze.
 
-## Stimme die Version auf die iOS-Generation deines Handys ab
+## Stimme die Version auf die iOS-Generation deines iPhones ab
 
-Am sinnvollsten ist es, eine Version zu wählen, deren Funktionsumfang zur iOS-Generation passt, die du tatsächlich verwendest. Überprüfe das anschließend auf der Seite mit den Versionsinfos, statt dich auf die Angaben eines Verkäufers zu verlassen. In Angeboten werden Nachbauten oft mit vagen Namen und unzuverlässigen Fotos der Chips beworben. Die Nummerierung der Community gibt es genau deshalb, weil diese Angaben nicht verlässlich sind. Vergleiche die Versionen auf der Seite mit den [Versionsinfos](/de/version-info/general), lass dich vom [Quiz](/de/quiz) beraten und kaufe bei einem [vertrauenswürdigen Verkäufer](/de/links/info).
+Die sinnvolle Kaufregel lautet: Wähle eine Version, deren Funktionsumfang zur tatsächlich verwendeten iOS-Generation passt, und prüfe das anschließend auf der Versionsinfoseite, statt dich auf die Angaben eines Verkäufers zu verlassen. In Angeboten werden Nachbauten mit vagen Namen und unzuverlässigen Chipsatzfotos beschrieben; die Nummerierung der Community gibt es genau deshalb, weil diese Angaben oft nicht stimmen. Vergleiche die Versionen auf der Seite mit den [Versionsinfos](/de/version-info/general), lass dir vom [Quiz](/de/quiz) eine Empfehlung geben und kaufe bei einem [vertrauenswürdigen Verkäufer](/de/links/info).
 
-Wenn du eine ältere iOS-Version verwendest, brauchst du keine neueste Nachbildung, um sie darauf abzustimmen. Ein Modell der vorherigen Generation, das zu deiner iOS-Version passt, ist oft sinnvoller, als für Funktionen zu bezahlen, die dein Handy noch nicht nutzen kann. Stimme das Produkt auf die Softwaregeneration deines Handys ab, nicht auf die Werbung.
+Wenn du eine ältere iOS-Version verwendest, brauchst du keinen neuesten Nachbau, um ihn darauf abzustimmen — ein Modell der vorherigen Generation, das zu deiner iOS-Version passt, ist oft sinnvoller, als für Funktionen zu bezahlen, die dein iPhone noch nicht nutzen kann. Stimme das Produkt auf die Softwaregeneration deines iPhones ab, nicht auf die Werbung.
 
-## Können iOS-Updates Nachbildungen unbrauchbar machen?
+## Machen iOS-Updates Nachbauten unbrauchbar?
 
-Meistens nicht — aber das kann vorkommen, und es lohnt sich, das typische Muster zu kennen. Die große Mehrheit der Versionen, die vor einem iOS-Update funktioniert haben, funktioniert auch danach weiter. Wenn doch einmal etwas nicht mehr funktioniert, liegt es fast immer an einer **großen** iOS-Version und nicht an einem kleinen Update. Betroffen sind meist **ältere** Versionen, deren Firmware vor der Änderung entwickelt wurde. Die Einführung von iOS 27 ist das jüngste Beispiel, auf das die Community gestoßen ist.
+In der Regel nicht — aber es kommt vor, und es ist gut, das Muster zu kennen. Die große Mehrheit der Versionen, die vor einem iOS-Update funktioniert haben, funktioniert auch danach weiter. Wenn etwas doch nicht mehr funktioniert, liegt es fast immer an einem **großen** iOS-Release statt an einem Punktupdate, und betroffen sind **ältere** Versionen, deren Firmware vor der Änderung entwickelt wurde. Die Einführung von iOS 27 ist das jüngste Beispiel, auf das die Community gestoßen ist.
 
-Die gute Nachricht: Das Problem wird meist schnell behoben. Wenn eine große iOS-Version bei einer Version zu Problemen führt, veröffentlicht der Hersteller in der Regel relativ bald ein Firmware-Update. Mit diesem Update wird die Funktionalität wiederhergestellt — die Inkompatibilität ist also vorübergehend und das Produkt nicht dauerhaft unbrauchbar. Die Aktualisierung erfolgt über die Community-[Firmware-Apps](/de/useful-apps), die größtenteils nur für Android verfügbar sind. Das solltest du vor dem Kauf wissen, wenn du kein Android-Gerät besitzt. Im schlimmsten Fall erhält eine Version, die nie aktualisiert wird, meist keine Fehlerbehebung mehr, weil es sich um ein älteres oder einfacheres Modell handelt.
+Die gute Nachricht: Das Problem wird meist schnell behoben. Wenn ein großes iOS-Release eine Version beeinträchtigt, veröffentlicht der Hersteller normalerweise recht bald ein Firmware-Update. Mit dem Update des Nachbaus werden die Funktionen wiederhergestellt — es handelt sich um eine vorübergehende Inkompatibilität, nicht um ein unbrauchbares Produkt. Das Update läuft über die Community-[Firmware-Apps](/de/useful-apps): Sowohl **FlyCC** (TigerBuilder/Airoha) als auch **StarFun** (Huilian) gibt es im iOS App Store und für Android. Für vollständige OTA-Flashvorgänge und ältere Tools ist ein Android-Gerät allerdings weiterhin praktisch. Im schlimmsten Fall erhält eine Version, für die nie eine Fehlerbehebung erscheint, meist keine Updates mehr, weil sie älter oder ein günstigeres Modell ist.
 
-Zwei praktische Hinweise, bevor du bei einem größeren Update auf „Aktualisieren“ tippst:
+Zwei praktische Hinweise, bevor du bei einem großen Release auf „Aktualisieren“ tippst:
 
-- Sieh zuerst im [AirReps Discord](https://airreps.link/discord) nach. Dort melden Nutzer Probleme gleich am ersten Tag, wenn sie neue Firmware und ein neues iOS gemeinsam verwenden.
-- Solche Fälle sind selten. Es ist aber ein guter Grund, eine aktuelle Version einem zwei Jahre alten Modell vorzuziehen, das möglicherweise keine Firmware-Updates mehr erhält.
+- Sieh zuerst im [AirReps Discord](https://airreps.link/discord) nach — dort melden Nutzer schon am ersten Tag Probleme, während sie neue Firmware und neues iOS gemeinsam testen.
+- Solche Fälle sind selten. Sie sind aber ein gutes Argument dafür, eine aktuelle Version statt eines zwei Jahre alten Modells zu wählen, für das möglicherweise keine Firmware-Updates mehr erscheinen.
 
-Das ist keine Garantie für die Unterstützung durch zukünftige iOS-Versionen — informiere dich über aktuelle Meldungen zu deiner konkreten Version.
+Nichts davon ist eine Garantie für Unterstützung bei zukünftigen iOS-Releases — prüfe aktuelle Meldungen zu deiner konkreten Version. Suchst du ein Modell mit Unterstützung für iOS 27? Hier sind unsere aktuellen Top-Empfehlungen:
+
+<span class="pick-buy">Pro 3 V7 Huilian (67–68 $) bei [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">Pro 3 SE (48 $) bei [Jenny](https://airreps.link/jpro3se)</span> <span class="pick-buy">Pro 2 V5.3 TB (55–57 $) bei [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span>
 
 Verwandte Anleitungen und Kompatibilitätsprüfungen:
-- Probleme beim Koppeln mit dem iPhone? Folge der Anleitung [Gefälschte AirPods verbinden sich nicht](/de/articles/fake-airpods-wont-connect).
-- Musst du die Ohrhörer zurücksetzen oder erneut synchronisieren? Folge der Anleitung [Gefälschte AirPods zurücksetzen](/de/articles/how-to-reset-fake-airpods).
-- Verwendest du auch ein Android-Gerät? Lies [AirPods-Nachbildungen unter Android](/de/articles/airpods-replicas-on-android).
-- Fragst du dich, ob jemand in deiner Nähe erkennen kann, dass deine AirPods Nachbildungen sind? Lies [Können andere erkennen, dass deine AirPods gefälscht sind?](/de/articles/can-people-tell-airpods-are-fake).
+- Probleme beim Koppeln mit deinem iPhone? Folge der Anleitung [Gefälschte AirPods lassen sich nicht verbinden](/de/articles/fake-airpods-wont-connect).
+- Musst du sie zurücksetzen oder erneut synchronisieren? Folge der Anleitung [So setzt du gefälschte AirPods zurück](/de/articles/how-to-reset-fake-airpods).
+- Verwendest du auch ein Android-Gerät? Lies [AirPods-Nachbauten mit Android](/de/articles/airpods-replicas-on-android).
+- Fragst du dich, ob jemand in deiner Nähe erkennen kann, dass deine AirPods Nachbauten sind? Siehe [Können andere erkennen, dass deine AirPods gefälscht sind?](/de/articles/can-people-tell-airpods-are-fake).
 
-::: details Funktionieren gefälschte AirPods mit einem iPhone 16?
+::: details Funktionieren gefälschte AirPods mit dem neuesten iPhone (iPhone 17 / 18)?
 
-Ja. Das Handy-Modell verhindert nicht, dass eine funktionierende Nachbildung genutzt werden kann. Das Kopplungs-Popup erscheint weiterhin, und Namen sowie Tippsteuerung lassen sich über iOS ändern. Wenn dein Paar mit einem neuen iPhone Probleme macht, liegt die Ursache fast immer an der Version oder Firmware, nicht am Handy.
-
-:::
-
-::: details Funktionieren AirPods-Nachbildungen mit iOS 27?
-
-Alle aktuellen Versionen, die in dieser Anleitung empfohlen werden, geben iOS 27-Unterstützung an — darunter die Pro 3-Reihe (V5.5, V6, SE, V7) und die Pro 2-Reihe V5.x. Ältere und einfachere Nachbauten mit nicht aktualisierbarer Firmware haben bei der Einführung großer iOS-Versionen eher Probleme. Überprüfe die [Versionsinfos](/de/version-info/general) für deine genaue Version, statt einfach davon auszugehen.
+Ja. Nichts am iPhone-Modell verhindert die Verwendung eines funktionierenden Nachbaus. Das Kopplungs-Popup erscheint weiterhin, und Namensänderung sowie Tippsteuerung funktionieren weiterhin über iOS. Wenn dein Paar auf einem neuen iPhone Probleme macht, liegt die Ursache fast immer an der Version oder Firmware, nicht am iPhone.
 
 :::
 
-::: details Warum verbindet sich meine Nachbildung nicht mit den Firmware-Apps?
+::: details Funktionieren AirPods-Nachbauten mit iOS 27?
 
-Entweder passt die App nicht zu deinem Chipsatz oder dein Paar verwendet einen Jieli-Chipsatz der unteren Preisklasse, den keine Community-App unterstützt. Probiere die Apps auf der Seite zu den [nützlichen Apps](/de/useful-apps) nacheinander aus. Wenn keine Verbindung hergestellt werden kann, handelt es sich um einen Nachbau der unteren Preisklasse. Das hat nichts mit deinem iPhone zu tun.
+Alle aktuellen Versionen, die in dieser Anleitung empfohlen werden, führen iOS-27-Unterstützung auf — darunter die Pro-3-Reihe (V5.5, V6, SE, V7) und die Pro-2-Reihe V5.x. Ältere und günstigere Nachbauten mit nicht aktualisierbarer Firmware haben bei großen iOS-Releases am ehesten Probleme. Prüfe auf der Seite mit den [Versionsinfos](/de/version-info/general) deine genaue Version, statt einfach davon auszugehen.
 
 :::
 
-::: details Wird ein neues iOS-Update meine Nachbildungen unbrauchbar machen?
+::: details Warum verbindet sich mein Nachbau nicht mit den Firmware-Apps?
 
-Gelegentlich — aber das kommt selten vor und ist meist nur von kurzer Dauer. Probleme treten eher bei großen iOS-Versionen auf und betreffen ältere Versionen, deren Firmware vor der Änderung entwickelt wurde. Die Einführung von iOS 27 war der jüngste Fall. Hersteller veröffentlichen meist bald darauf ein Firmware-Update. Durch die Aktualisierung der Nachbildung über die [Firmware-Apps](/de/useful-apps) wird die vorherige Funktionalität wiederhergestellt. Sieh vor einem großen Update im [Discord](https://airreps.link/discord) nach, wenn du wissen möchtest, ob deine Version betroffen ist.
+Entweder passt die App nicht zu deinem Chipsatz oder dein Paar verwendet einen günstigen Jieli-Chipsatz, der von keiner Community-App unterstützt wird. Probiere die Apps auf der Seite zu [nützlichen Apps](/de/useful-apps) einzeln aus — wenn keine davon eine Verbindung herstellt, handelt es sich um einen günstigen Nachbau. Das hat nichts mit deinem iPhone zu tun.
+
+:::
+
+::: details Wird ein neues iOS-Update meine Nachbauten unbrauchbar machen?
+
+Gelegentlich — aber das ist selten und meist nur vorübergehend. Probleme treten eher bei großen iOS-Releases auf und betreffen ältere Versionen, deren Firmware vor der Änderung entwickelt wurde; die Einführung von iOS 27 war der jüngste Fall. Hersteller veröffentlichen normalerweise bald darauf ein Firmware-Update. Wenn du den Nachbau über die [Firmware-Apps](/de/useful-apps) aktualisierst, werden die vorherigen Funktionen wiederhergestellt. Prüfe vor einem großen Update im [Discord](https://airreps.link/discord), ob deine Version betroffen ist.
 
 :::

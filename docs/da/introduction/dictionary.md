@@ -1,53 +1,53 @@
 ---
-title: AirPods Replika Ordbog
-description: En kortfattet ordbog over almindelige termer brugt i AirReps-fællesskabet.
+title: AirPods-replikaordbog
+description: 'En kortfattet ordbog over almindelige termer, der bruges i AirReps-fællesskabet.'
 ---
 # Ordliste
 
-## W2C: Hvor kan jeg købe/Hvor køber man
+## W2C: Hvor kan man købe/hvor køber man
 
-"W2C" betyder "Hvor kan jeg købe denne vare?" Bruges, når man søger kilden eller sælgeren af et produkt.
+"W2C" betyder "Hvor kan jeg købe denne vare?" Bruges, når man leder efter kilden til eller sælgeren af et produkt.
 
-**Eksempel:** "Kan du putte W2C for V5.3's i subredditten?"
+**Eksempel:** "Kan du lægge W2C til V5.3’erne op i subreddit’en?"
 
-## Reps/Clones: Replikaer
+## Reps/kloner: Replikaer
 
-"Reps" eller "Clones" refererer til produktefterligninger designet til at kopiere et bestemt produkt (i dette tilfælde AirPods) så præcist som muligt. Dette adskiller sig fra en 'knockoff'.
+"Reps" eller "kloner" henviser til produktimitationer, der er designet til at kopiere et bestemt produkt (i dette tilfælde AirPods) så præcist som muligt. Det er noget andet end en "kopivare".
 
-**Eksempel:** "Hvor kan jeg få de bedste AirPods reps/clones?"
+**Eksempel:** "Hvor kan jeg få de bedste AirPods-reps/kloner?"
 
-## Fake AirPods
+## Falske AirPods
 
-"Fake AirPods" er et uformelt udtryk for AirPods-replikaer eller kloner. I denne guide bruger vi "replikaer" eller "kloner" til at beskrive højere-kvalitets tredjepartsprodukter, der forsøger at matche Apples funktioner til en lavere pris.
+"Falske AirPods" er en uformel betegnelse for AirPods-replikaer eller -kloner. I denne guide bruger vi "replikaer" eller "kloner" om tredjepartsprodukter af højere kvalitet, der sigter mod at matche Apples funktioner til en lavere pris.
 
-## Knockoffs
+## Kopivarer
 
-"Knockoffs" refererer til produkter designet til at ligne populære mærker, mens de undgår krænkelse af intellektuel ejendomsret (f.eks. "Gucce" i stedet for "Gucci").
+"Kopivarer" henviser til produkter, der er designet til at ligne populære mærker uden at krænke immaterielle rettigheder (f.eks. "Gucce" i stedet for "Gucci").
 
-## GP: Prøvekanin
+## GP: Forsøgskanin
 
-"Guinea Pigging" betyder at være den første person til at bestille og anmelde en sælgers produkt, så fællesskabet kan vurdere kvaliteten.
+At være "guinea pig" betyder at være den første person, der bestiller og anmelder en sælgers produkt, så fællesskabet kan vurdere kvaliteten.
 
-**Eksempel:** "Er der nogen, der vil GP Troy's V4's?"
+**Eksempel:** "Er der nogen, der vil GP’e det nye V7-batch?"
 
-## QC: Quality Control [BILLEDER]
+## QC: Kvalitetskontrol [BILLEDER]
 
-"QC" står for Quality Control. "QC PICS" refererer til billeder brugt til at verificere kvaliteten af et købt produkt. Se vores [QC & LC guide](/da/ordering/qc-lc) for hvordan du inspicerer dine replikaer.
+"QC" står for kvalitetskontrol. "QC-billeder" henviser til billeder, der bruges til at kontrollere kvaliteten af et købt produkt. Se vores [guide til QC og LC](/da/ordering/qc-lc) for at få at vide, hvordan du undersøger dine replikaer.
 
-**Eksempel:** "Kan du sende mig QC pics for HiCity v2.5's?"
+**Eksempel:** "Kan du sende mig QC-billederne af HiCitys Pro 3 V7?"
 
-## LC: Ægthedskontrol
+## LC: Ægthedstjek
 
-En "Legit Check" verificerer ægtheden af et produkt, ofte brugt ved køb fra ikke-retail kilder som eBay eller Facebook Marketplace.
+Et "ægthedstjek" verificerer, om et produkt er ægte. Det bruges ofte ved køb fra kilder uden for detailhandlen, såsom eBay eller Facebook Marketplace.
 
-**Eksempel:** "Kan nogen LC disse AirPods Pros for mig?"
+**Eksempel:** "Kan nogen LC-tjekke disse AirPods Pro for mig?"
 
-## Agent: Fragtagent/Transportformidler
+## Agent: Fragtagent/speditør
 
-En "Agent" er en tredjepart, der faciliterer sikre køb fra sælgere (ofte i Kina) til købere. De fungerer som repræsentanter og sikrer, at produkter ikke er fejlbehæftede, og at købere modtager det, de bestilte. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy) — se vores [KakoBuy guide](/da/ordering/kakobuy) for hvordan man bruger det.
+En "agent" er en tredjepart, der hjælper med sikre køb fra sælgere (ofte i Kina) til købere. De fungerer som repræsentanter og sikrer, at produkterne ikke er defekte, og at køberne modtager det, de har bestilt. Vi anbefaler [KakoBuy](https://airreps.link/kakobuy) — se vores [KakoBuy-guide](/da/ordering/kakobuy) for at få at vide, hvordan du bruger tjenesten.
 
-**Eksempel:** "Du bliver måske nødt til at bruge en agent for at få dem, da HiCity i øjeblikket ikke sender til Filippinerne."
+**Eksempel:** "Brug en agent som KakoBuy, hvis du vil have QC-billeder eller vil samle AirPods med andre varer i én forsendelse."
 
-## Markings: Produktmærkning
+## Mærkninger: Produktmærkning
 
-"Markings" refererer til teksten på etuiet og AirPods, som giver information om produktet, inklusive "Designed by Apple in California"-teksten, modelnumre og serienumre. For mere om hvordan mærkninger varierer mellem replikaer og originaler, se [build quality](/da/introduction/build-quality).
+"Mærkninger" henviser til teksten på etuiet og AirPods, som giver oplysninger om produktet, herunder teksten "Designed by Apple in California", modelnumre og serienumre. Du kan læse mere om, hvordan mærkninger varierer mellem replikaer og originaler, under [byggekvalitet](/da/introduction/build-quality).

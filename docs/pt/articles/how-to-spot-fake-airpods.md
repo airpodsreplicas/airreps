@@ -1,108 +1,110 @@
 ---
-title: 'Como saber se os AirPods são falsos: 10 verificações que realmente funcionam'
-description: 'Como saber se os AirPods são falsos: números de série, firmware, embalagem e as verificações que realmente identificam clones.'
+title: 'Como saber se os AirPods são falsos: 10 verificações reais'
+description: 'Como saber se os AirPods são falsos em 2026: rede Buscar, paridade do número de série, firmware, embalagem e apps de detecção de chip (FlyCC e StarFun).'
 category: Falso vs. verdadeiro
 order: 1
 ---
-# Como saber se os AirPods são falsos
+# Cómo saber si unos AirPods son falsos
 
-Os AirPods falsificados (réplicas) melhoraram bastante — as melhores cópias têm ANC funcional, Áudio Espacial e o pop-up do iOS. Isso também significa que os conselhos antigos, como «os falsos parecem baratos» ou «o pop-up denuncia», já não servem. Veja o que realmente funciona, do método mais rápido ao mais conclusivo.
+Los AirPods falsos (réplicas) han mejorado mucho: las mejores imitaciones tienen ANC funcional, audio espacial y la ventana emergente de iOS. Eso también significa que los consejos de siempre, como «los falsos se sienten baratos» o «la ventana emergente los delata», ya no sirven. Esto es lo que realmente funciona, ordenado de lo más rápido a lo más concluyente.
 
-> **Resposta rápida:** A forma mais rápida e conclusiva de identificar AirPods falsos é verificar a **rede Buscar** da Apple (nenhuma réplica, seja qual for o preço, se conecta ao rastreamento nativo do Buscar), confirmar se o número de série em **Ajustes → Geral → Sobre** corresponde ao texto microscópico no interior da tampa do estojo ou conectar-se a apps comunitários de deteção de chips, como **FlyCC** ou **CloudCC** (que os AirPods genuínos ignoram completamente).
+> **Respuesta rápida:** La forma más rápida y concluyente de detectar AirPods falsos es comprobar la **red Buscar** de Apple (ninguna imitación, a ningún precio, se conecta al seguimiento nativo de Buscar), verificar que el número de serie en **Ajustes → General → Información** coincida con el texto microscópico del interior de la tapa, o conectarlos a aplicaciones comunitarias de detección de chips como **FlyCC** (Airoha/TigerBuilder) o **StarFun** (Huilian), que los AirPods originales ignoran por completo.
 
-::: tip Comprou em segunda mão?
-É aqui que a maioria das pessoas cai numa cilada: o anúncio parecia genuíno, a caixa parecia genuína e o preço era «bom demais para deixar passar». Faça as verificações abaixo **antes** de trocar dinheiro — ou compre de um [vendedor verificado](/pt/links/info) e evite ter de adivinhar.
+::: tip ¿Los compraste de segunda mano?
+Aquí es donde más gente cae en la trampa: el anuncio parecía auténtico, la caja parecía auténtica y el precio era «demasiado bueno para dejarlo pasar». Haz las comprobaciones de abajo **antes** de pagar, o cómpralos a un [vendedor verificado](/pt/links/info) y olvídate de las dudas.
 :::
 
-## As 10 verificações
+## Las 10 comprobaciones
 
-### 1. Verifique a página «Sobre» dos Ajustes
+### 1. Comprueba la página «Información» de Ajustes
 
-Conecte os AirPods a um iPhone e acesse **Ajustes → Geral → Sobre**. Se um par genuíno estiver conectado, aparece uma **secção AirPods** ao percorrer a página para baixo. Não aparece nenhuma secção AirPods? É quase certo que tem falsificações nas mãos.
+Conecta los AirPods a un iPhone y ve a **Ajustes → General → Información**. Si hay unos AirPods originales conectados, aparecerá una **sección AirPods** al desplazarte hacia abajo. ¿No aparece la sección AirPods? Casi seguro que tienes unos falsos.
 
-### 2. Compare os números de série
+### 2. Compara los números de serie
 
-Na mesma página «Sobre», compare o número de série exibido com o número de série impresso no interior da tampa do estojo de carregamento ([onde procurar](https://airreps.info/aboutsection)). Nos AirPods genuínos, eles correspondem. Uma divergência é um dos indícios mais claros de falsificação.
+En esa misma página de Información, compara el número de serie que aparece allí con el impreso en el interior de la tapa del estuche de carga ([dónde buscar](https://airreps.info/aboutsection)). En los AirPods originales, coinciden. Que no coincidan es una de las señales más claras de que son falsos.
 
-### 3. Verifique a versão do firmware
+### 3. Comprueba la versión del firmware
 
-Ainda na página «Sobre», confira a versão do firmware e compare-a com a versão mais recente lançada pela Apple para esse modelo. As réplicas não recebem firmware da Apple — um firmware desatualizado ou com uma numeração estranha é um sinal de alerta. (Uma réplica pode ser *atualizada*, mas apenas com [apps de firmware](/pt/useful-apps) da comunidade, nunca através da Apple.)
+En la página de Información, comprueba la versión del firmware y compárala con la última versión que Apple haya publicado para ese modelo. Las réplicas no reciben el firmware de Apple: un firmware desactualizado o con una numeración extraña es una señal de alerta. (Una réplica se puede *actualizar*, pero solo con [aplicaciones de firmware](/pt/useful-apps) de la comunidad, nunca a través de Apple).
 
-### 4. Teste o Áudio Espacial e o rastreamento da cabeça
+### 4. Prueba el audio espacial y el seguimiento de cabeza
 
-Algumas réplicas mais recentes têm uma página «Sobre» funcional, o que invalida as verificações 1–3. É aí que entram os testes de funcionalidades: reproduza algo com Áudio Espacial e vire a cabeça. O rastreamento da cabeça genuíno reage naturalmente; muitas cópias não o implementam corretamente. Esta também é a forma mais rápida de identificar uma cópia de alta qualidade — algo importante se estiver a comprar em segunda mão e quiser saber *o que* está a comprar, não apenas *se* é falso.
+Algunas réplicas más recientes tienen una página «Información» funcional, lo que invalida las comprobaciones 1–3. Ahí es donde entra en juego probar las funciones: reproduce algo con audio espacial y gira la cabeza. El seguimiento de cabeza real responde de forma natural; muchas imitaciones no lo implementan correctamente. También es la forma más rápida de detectar una imitación de alta calidad, algo importante si compras de segunda mano y quieres saber *qué* estás comprando, no solo *si* es falsa.
 
-### 5. Experimente o Buscar
+### 5. Prueba Buscar
 
-Todas as réplicas de AirPods no mercado não têm a **rede Buscar** da Apple — é a única funcionalidade que a comunidade ainda não conseguiu replicar. Se o «Buscar» mostrar os auriculares na rede da Apple, são genuínos. Se o vendedor disser o contrário, está enganado ou a mentir.
+A todas las réplicas de AirPods del mercado les falta la **red Buscar** de Apple: es la única función que la comunidad no ha logrado copiar. Si «Buscar» muestra los auriculares en la red de Apple, son originales. Si el vendedor afirma lo contrario, está equivocado o miente. Lee [¿Los AirPods falsos funcionan con Buscar?](/pt/articles/do-fake-airpods-work-with-find-my) para conocer todos los detalles.
 
-### 6. Compare o preço com a realidade
+### 6. Compara el precio con la realidad
 
-Os AirPods Pro genuínos custam mais de 150 $ (muitas vezes 249 $ no lançamento). As réplicas de vendedores de confiança custam cerca de 26 $ por um par básico e até 126 $ por uma [réplica dos AirPods Max](/pt/version-info/airpods-max) supra-auriculares. Uns «AirPods Pro novos, ainda selados» por 60 $, vendidos por um desconhecido na Internet, não são uma pechincha — são uma cópia ou uma burla. A verificação 10 explica por que até uma caixa com aspeto perfeito não prova nada.
+Los AirPods Pro originales cuestan más de 150 $ (a menudo 249 $ en su lanzamiento). Las réplicas de vendedores de confianza cuestan aproximadamente 26 $ por un par básico y hasta 127 $ por una [réplica de AirPods Max](/pt/version-info/airpods-max) de diadema. Unos «AirPods Pro nuevos y precintados» por 60 $ de un desconocido en internet no son una ganga: son una imitación o una estafa. La comprobación 10 explica por qué ni siquiera una caja de aspecto perfecto demuestra nada.
 
-### 7. Examine a caixa — mas conheça os seus limites
+### 7. Inspecciona la caja, pero ten en cuenta sus límites
 
-As embalagens genuínas são bem feitas: texto com relevo correto, etiquetas alinhadas e números de série no manual. Impressão malfeita, números de série em falta ou cabos genéricos são indícios de falsificação. Mas tenha cuidado para não confiar demasiado numa caixa *perfeita*: as réplicas também vêm em caixas com o logótipo da Apple e os vendedores escondem-nas frequentemente dentro de uma caixa genérica para passarem pela alfândega.
+Los envases originales están bien hechos: texto correctamente grabado en relieve, etiquetas alineadas y números de serie en el manual. Una impresión descuidada, la falta de números de serie o cables genéricos son señales de que son falsos. Pero no te fíes demasiado de una caja *perfecta*: las réplicas también se envían en cajas con el logotipo de Apple, y los vendedores suelen esconderlas dentro de una caja genérica de señuelo para pasar la aduana.
 
 <div class="box-gallery">
   <figure>
-    <img src="/nologobox.webp" alt="Caixa de réplica de AirPods sem logótipo" width="300" height="400"/>
-    <figcaption>Caixa sem logótipo</figcaption>
+    <img src="/nologobox.webp" alt="Caja de réplica de AirPods sin logotipo" width="300" height="400"/>
+    <figcaption>Caja sin logotipo</figcaption>
   </figure>
   <figure>
-    <img src="/applebox.webp" alt="Caixa de réplica de AirPods com o logótipo da Apple" width="300" height="400"/>
-    <figcaption>Caixa com o logótipo da Apple</figcaption>
+    <img src="/applebox.webp" alt="Caja de réplica de AirPods con el logotipo de Apple" width="300" height="400"/>
+    <figcaption>Caja con el logotipo de Apple</figcaption>
   </figure>
   <figure>
-    <img src="/doublebox.webp" alt="Caixa dupla ou dissimulada, com uma caixa com o logótipo da Apple escondida no interior" width="300" height="400"/>
-    <figcaption>Caixa dupla / dissimulada</figcaption>
+    <img src="/doublebox.webp" alt="Caja doble o de señuelo con una caja con el logotipo de Apple escondida dentro" width="300" height="400"/>
+    <figcaption>Caja doble / de señuelo</figcaption>
   </figure>
 </div>
 
-As três são embalagens de réplicas — a caixa mostra o que o vendedor queria que visse, não se os AirPods são genuínos. O nosso [guia de embalagens](/pt/introduction/packaging) aborda todos os tipos de caixa em detalhe.
+Las tres son cajas de réplicas: la caja te dice lo que el vendedor quería que vieras, no si los AirPods son originales. Nuestra [guía de envases](/pt/introduction/packaging) explica en detalle todos los tipos de caja.
 
-### 8. Experimente os apps comunitários de deteção de chips
+### 8. Prueba las aplicaciones comunitarias de detección de chips
 
-A comunidade mantém [apps utilitários gratuitos](/pt/useful-apps) que identificam o chip usado pelos AirPods: **FlyCC** (deteta chipsets Airoha 1562AE/E), **CloudCC** (TigerBuilder/Airoha) e **Starfun** (Huilian 247). Instale-os num telemóvel Android ou Mac e veja qual deles se conecta. Os AirPods genuínos da Apple não respondem a nenhum destes utilitários de terceiros. Uma ressalva: as cópias de gama mais baixa usam um chipset Jieli (Jerry) barato, que também ignora estes apps; portanto, «nenhum app se conecta» significa que podem ser falsificações baratas *ou* AirPods genuínos, mas nunca confirma que sejam genuínos.
+La comunidad mantiene [aplicaciones de utilidad gratuitas](/pt/useful-apps) que identifican el chip que usan tus AirPods: **[FlyCC](/pt/articles/flycc-app-guide)** (detecta los chipsets Airoha 1562AE/E, 1563E y 1571AM; Android e iOS) y **[StarFun](/pt/articles/starfun-app-guide)** (detecta Huilian 247, 277, 377 y 377H3; Android e iOS), además de BullSuper/G&Link para los modelos HR (CloudCC está obsoleta). Instálalas y comprueba cuál se conecta. Los AirPods originales de Apple no responden a ninguna de estas aplicaciones de terceros. Una salvedad: las imitaciones de gama más baja usan un chipset Jieli (Jerry) barato que también ignora estas aplicaciones, así que «ninguna aplicación se conecta» significa que son falsos baratos *o* originales, pero nunca confirma que sean auténticos.
 
-### 9. Ignore as palavras da moda
+### 9. No hagas caso de las palabras de moda
 
-«i9999», «Superpods», «AirPods Pro 3 Super Copy» — estes nomes costumavam indicar melhorias, mas agora os vendedores usam-nos nos mesmos produtos de sempre para parecerem mais recentes. Os nomes não significam nada. Avalie as funcionalidades reais ou, melhor ainda, compre uma versão verificada por pessoas que testam estes produtos diariamente.
+«i9999», «Superpods», «AirPods Pro 3 Super Copy»: estos nombres antes señalaban mejoras, pero ahora los vendedores los ponen a los mismos productos de siempre para que parezcan más nuevos. Los nombres no significan nada. Valora las funciones reales o, mejor aún, compra una versión que haya sido verificada por personas que la prueban a diario.
 
-### 10. Pergunte à comunidade
+### 10. Pregunta a la comunidad
 
-Ainda tem dúvidas? Publique em [r/AirReps](https://www.reddit.com/r/AirReps/) ou entre no [Discord](https://airreps.link/discord) — todos os dias, as pessoas identificam cópias a partir de uma única foto de controlo de qualidade. É gratuito e mais rápido do que qualquer site de verificação de números de série.
+¿Sigues teniendo dudas? Publica en [r/AirReps](https://www.reddit.com/r/AirReps/) o únete a [Discord](https://airreps.link/discord): la gente identifica imitaciones a partir de una sola foto de control de calidad todos los días. Es gratis y más rápido que cualquier sitio web para comprobar números de serie.
 
 ::: warning
-Nenhuma verificação isolada é conclusiva — as melhores cópias passam em várias delas. Se verificou um par usado, agora sabe exatamente o que ele é: não uma burla, apenas uma réplica. Se isso é um problema depende do preço que pagou.
+Ninguna comprobación es concluyente por sí sola: las mejores imitaciones superan varias de estas pruebas. Si has verificado un par de segunda mano, ahora sabes exactamente lo que es: no una estafa, sino una réplica. Que eso sea un problema depende de lo que hayas pagado.
 :::
 
-## Se só quer réplicas genuínas (de propósito)
+## Si solo quieres réplicas auténticas (a propósito)
 
-Muitas pessoas fazem estas verificações ao contrário — *querem* uma cópia e só não querem ser enganadas por um revendedor qualquer. O caminho seguro é comprar a um vendedor verificado pela comunidade, para saber exatamente que [versão](/pt/version-info/general) está a adquirir:
+Mucha gente hace estas comprobaciones al revés: *quiere* una imitación y solo quiere evitar que le estafe un revendedor cualquiera. La opción segura es comprar a un vendedor verificado por la comunidad, donde sabes exactamente qué [versión](/pt/version-info/general) estás comprando:
 
-- Consulte o [diretório de vendedores de confiança](/pt/links/info), com os preços atuais por modelo
-- Faça o [questionário](/pt/quiz) para receber uma recomendação adequada ao seu orçamento
-- Leia [como comprar](/pt/ordering/how-to-buy) para saber mais sobre métodos de pagamento e envio
-- Compare [AirPods de réplica vs. AirPods genuínos](/pt/articles/airpods-replicas-vs-real) para uma comparação honesta das funcionalidades
-- Veja [Melhores réplicas de AirPods por menos de 50 $](/pt/articles/best-airpods-replicas-under-50) para recomendações económicas
-- Leia [As pessoas percebem que os seus AirPods são falsos?](/pt/articles/can-people-tell-airpods-are-fake) para saber o que se nota no dia a dia
-- Se estiver a testar um par com falhas, siga [Como reiniciar AirPods falsos](/pt/articles/how-to-reset-fake-airpods) para limpar o estado guardado
+<span class="pick-buy">Pro 3 V7 Huilian (67–68 $) en [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">Pro 3 SE (48 $) en [Jenny](https://airreps.link/jpro3se)</span> <span class="pick-buy">Pro 2 V5.3 TB (55–57 $) en [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span>
 
-## Perguntas frequentes
+- Explora el [directorio de vendedores de confianza](/pt/links/info) con los precios actuales por modelo
+- Responde el [cuestionario](/pt/quiz) para obtener una recomendación según tu presupuesto
+- Lee [cómo comprar](/pt/ordering/how-to-buy) para conocer los métodos de pago y el envío
+- Compara [AirPods de réplica y AirPods originales](/pt/articles/airpods-replicas-vs-real) para ver un desglose sincero de sus funciones
+- Echa un vistazo a [Las mejores réplicas de AirPods por menos de 50 $](/pt/articles/best-airpods-replicas-under-50) para descubrir opciones económicas
+- Lee [¿Se nota que tus AirPods son falsos?](/pt/articles/can-people-tell-airpods-are-fake) para saber qué se percibe en el uso diario
+- Si estás probando un par con fallos, sigue [Cómo restablecer unos AirPods falsos](/pt/articles/how-to-reset-fake-airpods) para borrar el estado guardado
 
-::: details Os AirPods falsos podem ter um número de série funcional?
-Sim — as boas réplicas mostram um número de série na página «Sobre» do iOS. Por isso, a verificação 2 é importante: nos AirPods genuínos, o número de série da página «Sobre» corresponde ao que está no interior da tampa, enquanto os das cópias normalmente não correspondem. E algumas cópias já imitam isso também, por isso combine várias verificações em vez de confiar numa só.
+## Preguntas frecuentes
+
+::: details ¿Pueden los AirPods falsos tener un número de serie funcional?
+Sí: las buenas réplicas muestran un número de serie en la página Información de iOS. Por eso importa la comprobación 2: en los AirPods originales, el número de serie de la página Información coincide con el del interior de la tapa, mientras que en las imitaciones normalmente no coincide. Además, algunas imitaciones ya copian también ese dato, así que combina varias comprobaciones en lugar de confiar en una sola.
 :::
 
-::: details Os AirPods falsos mostram o pop-up do iOS?
-As réplicas mais avançadas mostram o pop-up do iOS, por vezes até mais depressa do que os AirPods genuínos. O pop-up, por si só, não prova nada, nem num sentido nem no outro.
+::: details ¿Los AirPods falsos muestran la ventana emergente de iOS?
+Las réplicas de versiones superiores sí muestran la ventana emergente de iOS, a veces incluso antes que los AirPods originales. La ventana emergente por sí sola no demuestra nada en ningún sentido.
 :::
 
-::: details Os AirPods falsos são perigosos?
-A burla é um risco maior do que o hardware: pagar o preço de uns genuínos por uma cópia ou ter uma encomenda retida na alfândega por causa de uma caixa com o logótipo da Apple. Quanto ao hardware, os chipsets de réplicas de vendedores de confiança não são mais arriscados do que os de quaisquer outros auriculares sem marca. Compre a [vendedores verificados](/pt/links/info) para evitar a maioria de ambos os problemas.
+::: details ¿Son peligrosos los AirPods falsos?
+La estafa es un riesgo mayor que el hardware: pagar el precio de unos originales por una imitación o que la aduana incaute un paquete por llevar una caja con el logotipo de Apple. En cuanto al hardware, los chipsets de imitación de buena reputación no son más arriesgados que los de cualquier otro auricular de marca desconocida. Compra a [vendedores verificados](/pt/links/info) y evitarás la mayoría de ambos problemas.
 :::
 
-::: details Como posso verificar se os meus AirPods são falsos sem um iPhone?
-É mais difícil sem iOS — as verificações da página «Sobre» e do firmware exigem um iPhone. No Android, pode experimentar os [apps comunitários de deteção de chips](/pt/useful-apps): os AirPods genuínos não se conectam a nenhum deles, nem as cópias mais baratas. A inspeção física e a análise do preço (verificação 6) continuam a funcionar em qualquer dispositivo.
+::: details ¿Cómo puedo comprobar si mis AirPods son falsos sin un iPhone?
+Es más difícil sin iOS: las comprobaciones de la página Información y del firmware requieren un iPhone. En Android puedes probar las [aplicaciones comunitarias de detección de chips](/pt/useful-apps): los AirPods originales no se conectan a ninguna, y las imitaciones más baratas tampoco. La inspección física y comprobar si el precio es razonable (comprobación 6) siguen funcionando en cualquier caso.
 :::

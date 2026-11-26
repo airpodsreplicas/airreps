@@ -1,83 +1,83 @@
 ---
-title: 'Sahte AirPods ve Uygun Fiyatlı Kulaklıklar: Dürüst Bir Karşılaştırma'
-description: 'AirPods replikaları ile Anker Soundcore, EarFun ve JLab gibi uygun fiyatlı markalar — her iki seçeneğin gerçekte neler sunduğu, hangi noktalarda aynı fiyata mal oldukları ve kimin hangisini satın alması gerektiği.'
+title: 'Sahte AirPods ve Uygun Fiyatlı Kulaklıklar: Dürüst Rehber'
+description: 'AirPods replikaları ve uygun fiyatlı markalar (Anker Soundcore, EarFun, JLab): ANC, iOS açılır penceresi, garanti, gümrük riski ve 2026 fiyatlarını karşılaştırın ($26–$127).'
 category: Karşılaştırma
 order: 10
 ---
-# Sahte AirPods ve uygun fiyatlı kulaklıklar: dürüst bir karşılaştırma
+# Sahte AirPods ve Uygun Fiyatlı Kulaklıklar: Dürüst Bir Karşılaştırma
 
-“Sahte AirPods almalı mıyım?” soruları genellikle orijinal AirPods'larla kıyaslanarak soruluyor, ancak insanların gerçekte verdiği karar bu değil. Uygun fiyatlı seçeneklere bakıyorsanız, asıl seçiminiz bir replika ile yasal bir uygun fiyatlı marka — Anker Soundcore, EarFun, JLab ve bu segmentteki birçok özel marka — arasında. İkisinin fiyatı benzer ve toplulukta diğer tüm karşılaştırmalardan daha sık yapılan karşılaştırma da bu.
+“Çakma AirPods almalı mıyım?” soruları genellikle orijinal AirPods’la karşılaştırılarak soruluyor; ancak insanların gerçekte verdiği karar bu değil. Uygun fiyatlı seçeneklere bakıyorsanız asıl tercihiniz bir replika ile Anker Soundcore, EarFun, JLab ve bu fiyat aralığındaki pek çok mağaza markası gibi güvenilir bir bütçe markası arasında. İkisinin fiyatı benzer ve topluluğun en sık yanıtladığı karşılaştırma da bu.
 
-> **Kısa cevap:** Resmî 18 aylık garantiye, üretici yazılım güncellemeleri sunan yerel yardımcı uygulamalara ve sıfır gümrük riskine önem veriyorsanız yasal uygun fiyatlı kulaklıkları (Anker Soundcore veya EarFun gibi) seçin. Önceliğiniz iOS ekosistemiyle entegrasyonsa — anında eşleştirme pencereleri, Apple sap ergonomisi, kaydırarak ses kontrolü ve şaşırtıcı derecede yakın ~38 dB ANC — üst düzey AirPods replikalarını (V5.4 Huilian veya V5.3TB gibi) seçin.
+> **Kısa yanıt:** Resmî garantiye, üreticinin kendi uygulamalarına ve gümrük riskinin hiç olmamasına öncelik veriyorsanız güvenilir bütçe kulaklıklarını (Anker Soundcore veya EarFun gibi) tercih edin. Önceliğiniz iOS deneyimiyse — anında eşleşme pencereleri, Apple sap tasarımı, kaydırarak ses kontrolü ve güçlü ~35–42 dB ANC — üst düzey AirPods replikalarını (Pro 3 V7 Huilian $67–68, Pro 3 SE $48 veya Pro 2 V5.3 TB $55–57 gibi) tercih edin.
 
-İşte dürüst bilanço.
+İşte dürüst bir değerlendirme.
 
-## Bir replika size gerçekten ne sunar
+## Bir replika gerçekte ne sunar?
 
-Bir replikayı var eden temel şey, yalnızca ses çalan bir çift kulaklık değil, AirPods deneyimini yeniden üretmesidir. Güncel sürümlerde somut olarak şunları sunar:
+Bir replikayı var eden şey, yalnızca ses çalan bir çift kulaklık olmak değil, AirPods deneyimini taklit etmektir. Mevcut sürümlerde bu, somut olarak şunları içerir:
 
-- **iOS eşleştirme penceresi.** Neredeyse anında görünür — bazen orijinal AirPods'lardan bile hızlıdır — ayrıca ad değiştirme, GPS gösterimi ve yapılandırılabilir dokunma kontrolleri sunar.
-- **Takma algılama.** Kulak içi sensörler, çıkardığınızda müziğinizi yaklaşık bir saniyelik gecikmeyle duraklatır ve takma sesi Apple'ınkine oldukça yakındır.
-- **ANC ve şeffaflık.** Pro, Pro 2, Pro 3, AirPods 4 ve Max replikalarında bunlar çalışır ve orijinaline yakın oldukları belirtilir, ancak 1:1 değildir. [ANC açıklamamız](/tr/introduction/anc-explained) temel teknolojiyi ele alıyor.
-- Birçok modelde **Spatial Audio**, daha yeni Pro 2 sürümlerinde ise Adaptive Audio ve Conversation Awareness bulunur. Mevcut Pro 2 amiral gemisi modelinde özellikle *kusursuz* Spatial Audio'nun bulunmadığını unutmayın.
-- Topluluğun en iyi sürümlerde orijinaline kıyasla yaklaşık 8–9/10 olarak değerlendirdiği **ses**; burada chipset ve üretim partisi, marka adından daha önemlidir.
+- **iOS eşleşme penceresi.** Neredeyse anında açılır — bazen orijinal AirPods’tan bile daha hızlı — ayrıca ad değiştirme, GPS gösterimi ve yapılandırılabilir dokunma kontrolleri sunar.
+- **Kulaklık takılma algılama.** Kulak içi sensörler, kulaklığı çıkardığınızda müziğinizi yaklaşık bir saniyelik gecikmeyle duraklatır; takma sesi de Apple’ınkine oldukça yakındır.
+- **ANC ve şeffaflık modu.** Pro, Pro 2, Pro 3, AirPods 4 ve Max replikalarında bunlar çalışır ve 1:1 olmasa da orijinale yakın olarak tanımlanır. Temel teknolojiyi [ANC açıklamamız](/tr/introduction/anc-explained) ele alıyor.
+- **Birçok modelde Uzamsal Ses**, daha yeni Pro 2 sürümlerinde ise Uyarlanabilir Ses ve Konuşma Farkındalığı. Mevcut Pro 2 amiral gemisi sürümünde özellikle *kusursuz* Uzamsal Ses bulunmadığını unutmayın.
+- Topluluğun en iyi sürümlerde orijinaline kıyasla 8–9/10 civarında değerlendirdiği **ses kalitesi**; burada yonga seti ve üretim partisi, model adından daha önemli.
 
-Tipik [güvenilir satıcı](/tr/links/info) fiyatları ürün gamı genelinde yaklaşık 26 ila 126 dolar arasında değişir; amiral gemisi Pro sürümleri ise yaklaşık 50–67 dolar civarındadır. Her sürümün neleri içerdiğine dair daha fazla bilgi [sürüm bilgileri](/tr/version-info/general) sayfasında, ses tarafına dair daha ayrıntılı bilgiler ise [ses kalitesi](/tr/introduction/sound-quality) sayfasında yer alıyor.
+[tavsiye edilen satıcılardaki](/tr/links/info) fiyatlar ürün gamında genellikle $26 ile $127 arasında değişirken, amiral gemisi Pro sürümleri yaklaşık $48–68 arasındadır. Her sürümün neler içerdiği hakkında daha fazla bilgi [sürüm bilgisi](/tr/version-info/general) sayfasında; ses tarafıyla ilgili ayrıntılar ise [ses kalitesi](/tr/introduction/sound-quality) sayfasında.
 
-## Bunun yerine bir uygun fiyatlı marka size ne sunar
+## Bütçe markası bunun yerine ne sunar?
 
-Uygun fiyatlı markalar AirPods olmaya çalışmaz ve mesele de budur. Yaklaşık aynı başlangıç fiyatıyla yasal bir marka, yapısal olarak bir replikada bulunamayacak şeyleri sunar:
+Bütçe markaları AirPods olmaya çalışmaz; önemli olan da budur. Benzer başlangıç fiyatları karşılığında güvenilir bir marka, yapısal olarak bir replikada bulunamayacak şeyler sunar:
 
-- **Garanti ve gerçek müşteri desteği.** Bir cihaz bozulduğunda bir satıcıyla sohbet etmek yerine bir şirket ve iade süreciyle muhatap olursunuz.
-- Resmî kontroller ve ayarların yanı sıra **üreticiden aygıt yazılımı güncellemeleri** sunan **düzgün bir yardımcı uygulama**.
-- **Yasal veya gümrük riski yoktur.** Normal perakende kanallarından lisanslı bir ürün satın alırsınız. Ürüne el konulmaz ve düşünmeniz gereken bir gri alan olmaz.
-- **Satıcı ilişkisine bağımlılık yoktur.** Desteğiniz ve bir sonraki alışverişiniz, belirli bir satıcının ulaşılabilir kalmasına ve topluluğun beklentilerini karşılamasına bağlı değildir.
+- **Garanti ve gerçek müşteri desteği.** Bir ürün bozulursa bir şirketle ve iade süreciyle muhatap olursunuz; bir satıcıyla sohbet etmek zorunda kalmazsınız.
+- **Resmî kontrollere ve ayarlara sahip düzgün bir yardımcı uygulama** ve **üreticiden gelen donanım yazılımı güncellemeleri** — topluluk araçlarından değil.
+- **Hukuki veya gümrükle ilgili risk yok.** Normal perakende kanallarından lisanslı bir ürün alırsınız. Ürüne el konulma riski yoktur ve gri alanı düşünmeniz gerekmez.
+- **Satıcıyla ilişkiye bağlı olmama.** Desteğiniz ve bir sonraki alışverişiniz, belirli bir satıcının ulaşılabilir kalmasına ve topluluğun beklentilerini karşılamasına bağlı değildir.
 
-Bunların hiçbiri gösterişli değil, ancak bir şey bozulduğunda insanların altı ay sonra eksikliğini tam olarak hissettiği şeyler bunlardır.
+Bunların hiçbiri gösterişli değil; ancak bir şeyler bozulduğunda altı ay sonra insanların özlediği şeyler tam da bunlar.
 
 ## İkisinin gerçekten aynı olduğu noktalar
 
-Giriş seviyesinde fiyatları aynıdır. Topluluğun adını güvenle andığı en ucuz replika olan, yaklaşık 26 dolar fiyatındaki [AirPods 2 V3E](/tr/version-info/airpods-2), uygun fiyatlı marka kulaklıkların başladığı aralıkla aynı yerde durur. İkisi de benzer gerçekçi kullanım ömürlerine sahip, seri üretilen küçük elektronik cihazlardır ve pilleri eskidiğinde ikisinin de eninde sonunda değiştirilmesi gerekir.
+Giriş seviyesinde fiyatları aynıdır. Topluluğun adını arkasına koyduğu en ucuz replika olan ve yaklaşık $26 fiyatlı [AirPods 2 V3E](/tr/version-info/airpods-2), bütçe markalı kulaklıkların başladığı fiyat aralığındadır. İkisi de benzer gerçekçi kullanım ömürlerine sahip, seri üretim küçük elektronik cihazlardır; piller eskidiğinde ikisinin de eninde sonunda değiştirilmesi gerekir.
 
-Fark fiyat değildir. Fark, o parayla *ne satın aldığınızdır*: AirPods deneyimi mi, yoksa güvence mi?
+Fark fiyat değil. Ödediğiniz karşılığında *ne aldığınız*: AirPods deneyimi mi, yoksa güvence mi?
 
-## Replikaların asla sahip olamayacağı şeyler
+## Replikalarda asla bulunmayacak özellikler
 
-Her fiyat seviyesinde kalıcı olan iki eksik vardır:
+Fiyatı ne olursa olsun iki eksiklik kalıcıdır:
 
-- **Apple'ın Find My ağı.** Hiçbir model veya sürümde hiçbir replikada bulunmaz. Kayıp kulaklıkları Apple'ın ağı üzerinden takip etmek sizin için önemliyse, bu tek başına replikaları elemek için yeterlidir. Bu durum [sürüm karşılaştırmamızda](/tr/version-info/general) da belirtiliyor.
-- **Apple aygıt yazılımı, servisi ve garantisi.** Replikalar Apple güncellemelerini veya onarımlarını almaz. Güncellemeler topluluk uygulamalarından, destek ise satıcıdan ve topluluktan gelir.
+- **Apple’ın Bul ağı.** Hiçbir model veya sürümde replika ürünlerde bu özellik yoktur. Kaybolan kulaklıkları Apple ağı üzerinden takip etmek sizin için önemliyse, bu tek başına replikaları elemek için yeterlidir. Bu eksiklik [sürüm karşılaştırmamızda](/tr/version-info/general) belirtiliyor.
+- **Apple donanım yazılımı, servisi ve garantisi.** Replikalar Apple güncellemelerini veya onarımlarını almaz. Güncellemeler topluluk uygulamalarından, destek ise satıcıdan ve topluluktan gelir.
 
-Açıkça ifade edilmesi gereken pratik bir katman da var: ticari markalı benzer ürünleri ithal etmek ülkeye göre değişen yasal bir gri alandır ve markalı ambalajlar gümrükte el konulması ihtimalini artırır. Güvenilir satıcılar bu riski azaltır — birçoğu AB KDV'sini peşin alır ve Apple kutularını dışarıdan farklı görünen ambalajların içine koyarak gönderir — ancak risk hiçbir zaman tamamen ortadan kalkmaz. Uygun fiyatlı markalarda ise bu tür bir sorun kategorisi basitçe yoktur. Ayrıntılar için [nasıl satın alınır](/tr/ordering/how-to-buy) ve [ambalaj rehberine](/tr/introduction/packaging) bakın.
+Açıkça belirtilmesi gereken pratik bir konu da var: tescilli markalara ait görünümleri taklit eden ürünleri ithal etmek, ülkeye göre değişen hukuki bir gri alandır; markalı ambalajlarda gümrükte el konulma olasılığı daha yüksektir. Güvenilir satıcılar bu riski azaltır — çoğu AB KDV’sini önceden halleder ve Apple kutularını aldatıcı ambalajların içine koyarak gönderir — ancak risk hiçbir zaman tamamen ortadan kalkmaz. Bütçe markalarında ise bu tür sorunlar yoktur. Ayrıntılar için [nasıl satın alınır](/tr/ordering/how-to-buy) ve [ambalaj rehberi](/tr/introduction/packaging) sayfalarına bakın.
 
-## Hangisini kim almalı
+## Kim hangisini almalı?
 
-**Şu durumlarda uygun fiyatlı bir marka alın:** garanti ve destek sizin için önemliyse, üretici uygulaması ve resmî aygıt yazılımı istiyorsanız, herhangi bir gümrük veya yasal risk istemiyorsanız ya da bir satıcı ilişkisiyle uğraşmak yerine normal bir perakendeciyle muhatap olmayı tercih ediyorsanız. Bunlardan herhangi biri en önemli önceliğinizse, uygun fiyatlı marka daha iyi bir seçimdir — bu bir taviz değil, doğru araçtır.
+**Şu durumlarda bütçe markası tercih edin:** garanti ve destek sizin için önemliyse, üretici uygulaması ve resmî donanım yazılımı istiyorsanız, gümrük veya hukuki riskle hiç uğraşmak istemiyorsanız ya da bir satıcıyla ilişki kurmak yerine sıradan bir perakendeciyle muhatap olmayı tercih ediyorsanız. Bunlardan herhangi biri en büyük önceliğinizse bütçe markası daha doğru seçimdir — taviz değil, ihtiyacınıza uygun araç.
 
-**Şu durumlarda replika alın:** özellikle istediğiniz şey AirPods deneyimiyse — pencere, takma algılama, çalışan ANC ve şeffaflık, üst sürümlerde Spatial Audio — ve bunu perakende fiyatının çok altında almak istiyorsanız ve yukarıdaki eksikleri kabul ediyorsanız. Gerçekte neyin çalıştığına dair en net tablo [özellikler sayfasında](/tr/introduction/features) yer alıyor.
+**Şu durumlarda replika tercih edin:** özellikle istediğiniz şey AirPods deneyimiyse — açılır pencere, kulaklık takılma algılama, çalışan ANC ve şeffaflık modu, üst sürümlerde Uzamsal Ses — ve yukarıdaki eksiklikleri kabul ediyorsanız. Gerçekte nelerin çalıştığını en açık şekilde [özellikler sayfası](/tr/introduction/features) gösteriyor.
 
-Replikaya yöneliyorsanız kişiselleştirilmiş bir seçim için [teste](/tr/quiz) katılın, ardından her sürümün gerçekten neleri içerdiğini görmek için [sürüm bilgileri](/tr/version-info/general) sayfasına bakın. Bunları gerçek AirPods'larla da karşılaştırıyorsanız, [replika ve orijinal karşılaştırmamız](/tr/articles/airpods-replicas-vs-real) bu konuyu ayrıca ele alıyor.
+Replika almaya yatkınsanız size özel bir öneri için [anketi](/tr/quiz) doldurun, ardından her sürümün gerçekte neler içerdiğini görmek için [sürüm bilgisi](/tr/version-info/general) sayfasına bakın. Bunları orijinal AirPods’larla da karşılaştırıyorsanız [replika ve orijinal karşılaştırmamız](/tr/articles/airpods-replicas-vs-real) bu konuyu ayrıca ele alıyor.
 
 İlgili satın alma rehberleri:
-- 50 doların altındaki replika seçeneklerini mi arıyorsunuz? [50 doların altındaki en iyi AirPods replikalarına](/tr/articles/best-airpods-replicas-under-50) bakın.
-- Gümrük risklerini ve AB KDV'sini mi merak ediyorsunuz? [AirPods replikalarında gümrük ve KDV](/tr/articles/airpods-replica-customs-and-vat) yazısını okuyun.
-- Güvenlik ve pil ömrü konusunda endişeli misiniz? [AirPods replikaları güvenli mi?](/tr/articles/are-airpods-replicas-safe) yazısına bakın.
-- Birinin kulaklıklarınızın sahte olduğunu fark etmesinden mi endişeleniyorsunuz? [İnsanlar AirPods'larınızın sahte olduğunu anlayabilir mi?](/tr/articles/can-people-tell-airpods-are-fake) yazısına bakın.
+- $50 altı replika seçeneklerini mi arıyorsunuz? [50 Dolar Altındaki En İyi AirPods Replikaları](/tr/articles/best-airpods-replicas-under-50) sayfasına bakın.
+- Gümrük risklerini ve AB KDV’sini mi merak ediyorsunuz? [AirPods Replikalarında Gümrük ve KDV](/tr/articles/airpods-replica-customs-and-vat) yazısını okuyun.
+- Güvenlik ve pil ömrü konusunda mı endişelisiniz? [AirPods Replikaları Güvenli mi?](/tr/articles/are-airpods-replicas-safe) yazısına bakın.
+- Birilerinin kulaklıklarınızın sahte olduğunu anlayacağından mı endişelisiniz? [İnsanlar AirPods’larınızın Sahte Olduğunu Anlayabilir mi?](/tr/articles/can-people-tell-airpods-are-fake) yazısına bakın.
 
 ## SSS
 
-::: details Sahte AirPods'lar uygun fiyatlı kulaklıklar kadar iyi mi?
-Bunlar farklı ürünlerdir. Replikalar AirPods deneyiminin — eşleştirme penceresi, takma algılama, ANC, Spatial Audio — peşinden gider ve güncel sürümlerde buna yaklaşır. Uygun fiyatlı markalar ise bunun yerine garanti, yardımcı uygulama ve resmî aygıt yazılımı sunar. Hiçbiri mutlak olarak daha iyi değildir; hangisini değerli bulduğunuza bağlıdır.
+::: details Sahte AirPods’lar bütçe kulaklıkları kadar iyi mi?
+Bunlar farklı ürünler. Replikalar AirPods deneyimini — eşleşme penceresi, kulaklık takılma algılama, ANC ve Uzamsal Ses — sunmayı hedefler ve mevcut sürümleri bu deneyime yaklaşır. Bütçe markaları ise bunun yerine garanti, yardımcı uygulama ve resmî donanım yazılımı sunar. İkisi de kesin olarak daha iyi değildir; tercih, hangilerine değer verdiğinize bağlıdır.
 :::
 
-::: details Replikalar garantiyle mi gelir?
-Hayır. Destek, üretici garantisinden değil, satıcıdan ve topluluktan gelir. Güncellemeler Apple'dan değil, topluluk uygulamalarından gelir. Garanti ve iade süreci sizin için önemliyse uygun fiyatlı marka daha güvenli bir satın almadır.
+::: details Replikalar garantili mi?
+Hayır. Destek, üretici garantisinden değil satıcıdan ve topluluktan gelir. Güncellemeler Apple’dan değil topluluk uygulamalarından gelir. Garanti ve iade süreci sizin için önemliyse bütçe markası daha güvenli bir seçimdir.
 :::
 
-::: details Replikalarda gümrük ve yasal riskten kaçınabilir miyim?
-Tamamen değil. Replika ithal etmek ülkeye göre değişen bir gri alandır ve markalı kutular el konulma ihtimalini artırır. Güvenilir satıcılar nötr veya farklı görünen ambalaj ve KDV'nin peşin alınmasıyla riski azaltır, ancak lisanslı bir uygun fiyatlı marka bu tür bir risk taşımaz.
+::: details Replikalarda gümrük ve hukuki risklerden kaçınabilir miyim?
+Tamamen kaçınamazsınız. Replika ithal etmek, ülkeye göre değişen gri bir alandır ve markalı kutular el konulma olasılığını artırır. Güvenilir satıcılar sade veya aldatıcı ambalaj ve KDV’nin önceden halledilmesiyle riski azaltır; ancak lisanslı bir bütçe markası bu tür riskleri hiç taşımaz.
 :::
 
-::: details Bu yolu seçersem hangi replikayı tercih etmeliyim?
-Size özel bir öneri için [teste](/tr/quiz) katılın, ardından bir [güvenilir satıcıdan](/tr/links/info) sipariş vermeden önce nelerin dahil olduğunu [sürüm bilgileri](/tr/version-info/general) sayfasından doğrulayın.
+::: details Bu seçeneği tercih edersem hangi replikayı seçmeliyim?
+Size uygun bir öneri almak için [anketi](/tr/quiz) doldurun; ardından [güvenilir bir satıcıdan](/tr/links/info) sipariş vermeden önce [sürüm bilgisi](/tr/version-info/general) sayfasından ürünün neleri içerdiğini doğrulayın.
 :::

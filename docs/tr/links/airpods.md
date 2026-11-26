@@ -1,12 +1,12 @@
 ---
-title: 'AirPods 4 ve AirPods 2 Replikalarını Satın Al: Satıcı Bağlantıları'
-description: Sürüme göre AirPods 4 ve AirPods 2 replikaları için güncel fiyatları içeren güvenilir satıcı bağlantıları ve ayrıca AirPods 3 ve AirPods 5 stok durumu.
+title: AirPods 4 ve AirPods 2 Taklitlerini Satın Al
+description: 'Web sitesi, Weidian ve Alibaba''da AirPods 4 (V3 TB, V2 Huilian, V2 TB) ve AirPods 2 (V3E) taklitleri için güvenilir satıcı bağlantıları ve güncel fiyatlar.'
 ---
 <!-- product-family -->
 
-# AirPods kopyaları satın alın
+# AirPods Kopyaları Satın Alın
 
-AirPods replikalarının tüm standart nesilleri için güvenilir satıcı bağlantıları: AirPods 4, AirPods 3 ve AirPods 2; yakında AirPods 5 de eklenecek. Sürümlerine, fiyatlarına ve satıcılarına gitmek için bir nesil seçin.
+Tüm standart AirPods kopyası nesilleri için güvenilir satıcı bağlantıları: AirPods 4, AirPods 3 ve AirPods 2; AirPods 5 daha sonra eklenecek. Sürümlerine, fiyatlarına ve satıcılarına gitmek için bir nesil seçin.
 
 [AirPods 5 (Yakında)](#airpods-5) · [AirPods 4](#airpods-4) · [AirPods 3](#airpods-3) · [AirPods 2](#airpods-2)
 

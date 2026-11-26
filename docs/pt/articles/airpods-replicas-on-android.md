@@ -1,75 +1,77 @@
 ---
-title: As réplicas de AirPods funcionam com Android?
-description: 'Sim — veja como as réplicas de AirPods funcionam no Android: emparelhamento, quais recursos funcionam, por que a maioria dos apps de firmware é exclusiva para Android e o que verificar antes de comprar.'
+title: As réplicas de AirPods funcionam com Android? (2026)
+description: 'Sim — as réplicas de AirPods funcionam no Android com áudio completo, chamadas e ANC. Veja o que precisa de um iPhone, como FlyCC e StarFun funcionam e as melhores opções.'
 category: Usando suas réplicas
 order: 4
 ---
-# As réplicas de AirPods funcionam com Android?
+# Os clones de AirPods funcionam com Android?
 
-Sim. As réplicas de AirPods emparelham com Android como quaisquer fones Bluetooth — conecte, reproduza música, atenda chamadas e ajuste o volume. As partes da experiência exclusivas do iOS são as que dependem do software da Apple, e algumas delas têm alternativas. Há até uma área em que os usuários de Android levam vantagem: os apps de firmware. Veja todos os detalhes.
+Sim. Os clones de AirPods emparelham com Android como qualquer fone Bluetooth — conectam, reproduzem música, fazem chamadas e permitem ajustar o volume. Os recursos da experiência exclusivos do iOS são aqueles vinculados ao software da Apple, e alguns deles têm soluções alternativas. O Android também é compatível com todos os APKs complementares da comunidade — do FlyCC e StarFun a ferramentas antigas como CloudCC e BullSuper. Veja o panorama completo.
 
-> **Resposta rápida:** Sim, as réplicas de AirPods funcionam perfeitamente no Android como fones Bluetooth de alto desempenho. Reprodução, chamadas telefônicas, detecção no ouvido e cancelamento ativo de ruído (ANC) funcionam nativamente. Além disso, o Android é o único sistema operacional compatível com apps complementares de chipsets desenvolvidos pela comunidade (como FlyCC e CloudCC), que permitem usar equalização paramétrica personalizada e atualizações OTA de firmware.
+> **Resposta rápida:** Sim, os clones de AirPods funcionam perfeitamente no Android como fones Bluetooth padrão. Reprodução, chamadas telefônicas, detecção no ouvido e Cancelamento Ativo de Ruído (ANC) funcionam nativamente. O Android também é compatível com todos os APKs complementares da comunidade para chipsets (incluindo FlyCC para TigerBuilder/Airoha, StarFun para Huilian e ferramentas antigas como CloudCC e BullSuper), que permitem ajustar o EQ e atualizar o firmware via OTA.
 
 <CommunityCta variant="ask" />
 
-## Emparelhamento: sem janela pop-up, mesmo resultado
+## Emparelhamento: sem pop-up, mesmo resultado
 
-A famosa janela pop-up de emparelhamento é um recurso do iPhone — no Android, você emparelha pelo menu Bluetooth, como faria com qualquer outro fone. É uma diferença estética, não de funcionalidade: depois do emparelhamento, todo o resto funciona como em fones comuns. (Se você também tiver um iPhone, pode usá-lo para a configuração com um toque e depois conectar os fones ao Android.)
+O famoso pop-up de emparelhamento é um recurso do iPhone — no Android, você emparelha pelo menu Bluetooth, como faria com qualquer outro fone. Essa diferença é cosmética, não de capacidade: após o emparelhamento, todo o resto funciona como em fones comuns. (Se você também tem um iPhone, pode usá-lo para fazer a configuração com um toque e depois conectar os fones ao Android.)
 
 ## O que funciona no Android
 
-- **Reprodução básica** — música, chamadas, volume e controles de faixa funcionam normalmente.
-- **ANC e modo transparência** — são recursos do chip, não da Apple, então funcionam da mesma forma no Android.
-- **Alcance e latência** — o mesmo alcance de ~10 metros dos AirPods genuínos, com latência muitas vezes igual ou melhor.
-- **Conexões multiponto** — a maioria das réplicas se conecta a vários dispositivos ao mesmo tempo, o que é útil se você alterna entre o celular e um laptop.
+- **Reprodução básica** — música, chamadas, volume e controles de faixa funcionam.
+- **ANC e modo de transparência** — são recursos do chip, não da Apple, então funcionam da mesma forma no Android.
+- **Alcance e latência** — o mesmo alcance de cerca de 10 metros dos AirPods originais, com latência geralmente igual ou melhor.
+- **Conexões multiponto** — a maioria dos clones se conecta a vários dispositivos ao mesmo tempo, o que é prático se você alterna entre o celular e um laptop.
 
-## O que requer um iPhone
+## O que exige um iPhone
 
-Alguns recursos práticos dependem do software da Apple e funcionam de outra forma fora do iOS:
+Alguns recursos convenientes dependem do software da Apple e funcionam de outra forma fora do iOS:
 
-- **Alteração do nome e configuração dos controles por toque** são feitas pelo iOS. A solução indicada no nosso [guia de recursos](/pt/introduction/features): pegue um iPhone emprestado uma vez, altere as configurações nele e elas serão transferidas para os próprios fones — na maioria das vezes, ficam salvas.
-- **Exibição da localização por GPS** nos serviços da Apple está disponível somente no iOS.
-- **Alternância entre dispositivos pelo iCloud Connect** (alternância automática entre dispositivos Apple) só funciona com hardware da Apple e apenas em modelos Huilian — no Android, você troca de dispositivo manualmente, como faria com quaisquer outros fones.
+- **Alterar o nome e configurar os controles por toque** são ações feitas pelo iOS. O truque do nosso [guia de recursos](/pt/introduction/features): pegue um iPhone emprestado uma vez, altere as configurações por lá e elas serão salvas nos próprios fones — na maioria das vezes, permanecem.
+- **Exibição da localização por GPS** nos serviços da Apple está disponível apenas no iOS.
+- **Alternância entre dispositivos via iCloud Connect** (alternância automática entre dispositivos Apple) só funciona com hardware da Apple e apenas nos modelos Huilian — no Android, você troca de dispositivo manualmente, como faria com qualquer fone.
 
-Nada disso afeta o uso diário no Android; são apenas facilidades de configuração e extras do ecossistema Apple.
+Nada disso afeta o uso diário no Android; são conveniências de configuração e extras do ecossistema Apple.
 
-## A vantagem do Android: apps de firmware
+## A vantagem do Android: acesso completo aos APKs complementares
 
-Eis a reviravolta — **a maioria dos apps de firmware da comunidade é exclusiva para Android**. Esses apps atualizam o firmware das suas réplicas (o que pode adicionar recursos como áudio espacial ou melhorar a estabilidade) e ajustam a equalização. Além disso, são a forma de descobrir qual chip seu par usa.
+Embora os dois principais aplicativos complementares (**FlyCC** e **StarFun**) já estejam disponíveis tanto no Android quanto na App Store do iOS, **o Android é compatível com todos os utilitários APK da comunidade** — incluindo ferramentas mais antigas como BullSuper e KKX, além da solução alternativa do CloudCC — e permite fazer atualizações completas de firmware via OTA e ajustar o EQ sem as restrições do iOS.
 
-Os principais — FlyCC, CloudCC, BullSuper, StarFun, KKX e outros — estão listados, com links para download e tabelas de compatibilidade de chipsets, na nossa página de [apps úteis](/pt/useful-apps). Duas coisas que você deve saber antes de instalar:
+Os principais — [FlyCC](/pt/articles/flycc-app-guide), [StarFun](/pt/articles/starfun-app-guide), BullSuper, KKX e CloudCC (apenas com solução alternativa) — estão catalogados com links para download e tabelas de compatibilidade com chipsets na página de [aplicativos úteis](/pt/useful-apps). Antes de instalar, fique atento a dois pontos:
 
-1. Eles não estão na Play Store. Primeiro, ative **"Instalar de fontes desconhecidas"** nas configurações de segurança.
-2. Escolha o app compatível com seu chip. Não sabe qual chip tem? Os próprios apps servem para testar — experimente um por um e veja qual se conecta, ou consulte primeiro a página de [informações de versão](/pt/version-info/general).
+1. Eles não estão na Play Store. Ative **"Instalar apps de fontes desconhecidas"** nas configurações de segurança primeiro.
+2. Use o aplicativo compatível com o seu chip. Não sabe qual chip você tem? Os próprios aplicativos podem ajudar a descobrir — experimente um por um para ver qual se conecta ou consulte primeiro a página de [informações sobre versões](/pt/version-info/general).
 
 <CommunityCta variant="apps" />
 
-## Comprar réplicas sendo usuário de Android
+## Comprando clones como usuário de Android
 
-Tudo nos guias de compra se aplica sem alterações: escolha uma versão na página de [comparação de versões](/pt/version-info/general) (ou faça o [teste](/pt/quiz)), compre de um [vendedor confiável](/pt/links/info) e siga o [guia de pedidos](/pt/ordering/how-to-buy) para pagamentos e envio. Uma observação específica para Android: a compatibilidade com os apps de firmware varia conforme o chip. Portanto, se as atualizações de firmware forem importantes para você, prefira as versões atuais da Huilian e da TigerBuilder listadas no guia — são as que os apps oferecem suporte ativo.
+Tudo nos guias de compra continua valendo: escolha uma versão na página de [comparação de versões](/pt/version-info/general) (ou faça o [questionário](/pt/quiz)), compre de um [vendedor confiável](/pt/links/info) e siga o [guia de pedidos](/pt/ordering/how-to-buy) para pagamentos e envio. Uma observação específica para Android: como o iCloud Connect é exclusivo da Apple, os modelos TigerBuilder com **multiponto Bluetooth para 3 dispositivos** (como o **Pro 3 V7 TB** ou o **Pro 2 V5.3 TB**) são especialmente práticos para usuários de Android + Windows, enquanto o **Pro 3 V7 Huilian** continua sendo uma excelente opção geral com suporte ao StarFun.
 
-E, se você usa dispositivos de ecossistemas diferentes (celular Android, Mac ou iPad), consulte nossas [observações sobre conectividade](/pt/introduction/connectivity): os modelos Huilian são a recomendação sempre que houver um MacBook.
+<span class="pick-buy">Pro 3 V7 TB ($67–68) em [Earhive](https://airreps.link/eprov7tb) [HiCity](https://airreps.link/hcprov7tb) [Jenny](https://airreps.link/jprov7tb)</span> <span class="pick-buy">Pro 2 V5.3 TB ($55–57) em [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span> <span class="pick-buy">Pro 3 V7 Huilian ($67–68) em [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span>
+
+E, se você usa um ecossistema misto (celular Android, Mac ou iPad), confira nossas [observações sobre conectividade](/pt/introduction/connectivity): os modelos Huilian são a recomendação sempre que houver um MacBook envolvido.
 
 Guias relacionados para usuários de Android:
-- Problemas de emparelhamento ou quedas de conexão? Siga o guia [AirPods falsos não conectam](/pt/articles/fake-airpods-wont-connect).
-- Precisa apagar os dados de emparelhamento salvos ou reiniciar um fone que não responde? Consulte [Como redefinir AirPods falsos](/pt/articles/how-to-reset-fake-airpods).
-- Comparando réplicas com fones Android vendidos no varejo? Leia [AirPods falsos vs. fones econômicos](/pt/articles/fake-airpods-vs-budget-earbuds).
-- Procurando opções econômicas verificadas? Veja [Melhores réplicas de AirPods por menos de $50](/pt/articles/best-airpods-replicas-under-50).
+- Problemas de emparelhamento ou quedas de conexão? Siga o guia [Clones de AirPods não conectam](/pt/articles/fake-airpods-wont-connect).
+- Precisa apagar os dados de emparelhamento salvos ou reiniciar um fone que não responde? Consulte [Como redefinir clones de AirPods](/pt/articles/how-to-reset-fake-airpods).
+- Comparando clones com fones Android econômicos vendidos no varejo? Leia [Clones de AirPods vs. fones econômicos](/pt/articles/fake-airpods-vs-budget-earbuds).
+- Procurando opções econômicas verificadas? Veja [Melhores clones de AirPods por menos de $50](/pt/articles/best-airpods-replicas-under-50).
 
 ## Perguntas frequentes
 
-::: details AirPods falsos se conectam ao Android?
-Sim — as réplicas emparelham com Android como quaisquer fones Bluetooth. A única coisa que falta é a janela pop-up de emparelhamento da Apple, um recurso do iPhone que os AirPods genuínos também não oferecem no Android.
+::: details Clones de AirPods conectam ao Android?
+Sim — os clones emparelham com Android como qualquer fone Bluetooth. O único recurso ausente é o pop-up de emparelhamento do iOS da Apple, que é um recurso do iPhone e também não aparece no Android com AirPods originais.
 :::
 
-::: details É possível mudar o nome de AirPods falsos no Android?
-Não diretamente — a alteração do nome e as configurações dos controles por toque são feitas pelo iOS. A solução é fazer as alterações uma vez em qualquer iPhone; elas ficam salvas nos fones e também se aplicam ao Android. Alguns chipsets também têm apps próprios para Android que oferecem mais recursos.
+::: details É possível alterar o nome dos clones de AirPods no Android?
+Não diretamente — a alteração do nome e as configurações dos controles por toque são feitas pelo iOS. A solução alternativa é fazer as alterações uma vez em qualquer iPhone; elas ficam salvas nos fones e são mantidas ao conectá-los ao Android. Alguns chipsets também têm seus próprios aplicativos para Android, que oferecem mais recursos.
 :::
 
-::: details Por que minhas réplicas não se conectam aos apps de firmware?
-Ou o app não é compatível com seu chip, ou suas réplicas usam um chipset Jieli básico que nenhum app da comunidade suporta. Experimente, um por um, os apps da página de [apps úteis](/pt/useful-apps) — se nenhum se conectar, você tem uma réplica de categoria inferior.
+::: details Por que meu clone não se conecta aos aplicativos de firmware?
+Ou o aplicativo não é compatível com o seu chip, ou os clones usam um chipset Jieli básico que não é compatível com nenhum aplicativo da comunidade. Experimente, um por um, os aplicativos da página de [aplicativos úteis](/pt/useful-apps) — se nenhum se conectar, você tem um clone de categoria básica.
 :::
 
-::: details As réplicas de AirPods têm som pior no Android?
-Não. A qualidade do som depende do driver e do chip nos fones, não do celular. Na verdade, os usuários de Android podem ajustar ainda mais o som, já que os apps de firmware com equalização são, em sua maioria, exclusivos para Android.
+::: details Clones de AirPods têm som pior no Android?
+Não. A qualidade do som depende dos drivers e do chip dos fones, não do celular. Com aplicativos complementares como FlyCC e StarFun no Android, você também pode ajustar perfis de EQ personalizados, que ficam salvos diretamente nos fones.
 :::

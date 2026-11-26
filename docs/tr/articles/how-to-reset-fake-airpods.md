@@ -1,87 +1,87 @@
 ---
-title: 'Sahte AirPods (Replikalar) Nasıl Sıfırlanır: Yazılımsal Sıfırlama ve Donanımsal Sıfırlama'
-description: 'Sahte AirPods''ları sıfırlamak için güvenli, adım adım bir rehber — eşleştirme sorunları için yazılımsal sıfırlama, daha kapsamlı donanımsal sıfırlama ve sıfırlamanın tamamen yanlış çözüm olduğu durumlar.'
-category: Sorun Giderme
+title: 'Sahte AirPods Nasıl Sıfırlanır: Yazılımsal Sıfırlama mı, Donanımsal Sıfırlama mı?'
+description: 'Sahte AirPods''u sıfırlamak için adım adım kılavuz: eşleştirme sorunları için yazılımsal sıfırlama, pili tamamen boşaltarak donanımsal sıfırlama, kutu düğmesine 15 saniye basarak sıfırlama ve ne zaman durmanız gerektiği.'
+category: Sorun giderme
 order: 9
 ---
-# Sahte AirPods'ları (replikaları) sıfırlama: yumuşak sıfırlama ve sert sıfırlama
+# Sahte AirPods’ları (replikaları) sıfırlama: yazılımsal sıfırlama ve donanımdan sıfırlama
 
-Replikalarınız sorun çıkarmaya başladığında çoğu kişinin denediği ilk şey sıfırlamadır ve bu genellikle doğru hamledir — ancak "sıfırlama" aslında iki farklı işlemi kapsar ve bunlar farklı sorunları çözer. İkisini karıştırırsanız hiçbir şeyi değiştirmeden bütün bir öğleden sonranızı harcayabilirsiniz.
+Replikalarınız sorun çıkarmaya başladığında çoğu kişinin ilk denediği şey sıfırlamaktır ve çoğu zaman doğru çözüm budur. Ancak “sıfırlama” aslında iki farklı işlemi kapsar ve her biri farklı sorunları giderir. Bunları karıştırırsanız hiçbir şeyi değiştirmeden bütün bir öğleden sonrayı harcayabilirsiniz.
 
-Kısaca: **yumuşak sıfırlama**, kulaklıklarınızda kayıtlı ayarlara dokunmadan eşleştirme sorunlarını temizler. **Sert sıfırlama** ise yumuşak sıfırlama işe yaramadığında başvurulan daha kapsamlı bir temizlemedir. Başlamadan önce sıfırlama davranışının yonga setine, üreticiye ve ürün yazılımı sürümüne göre değişebileceğini unutmayın; bu adımları evrensel bir tuş kombinasyonundan ziyade topluluk tarafından standart kabul edilen prosedür olarak değerlendirin. Bir adım sizde gördüğünüzle uyuşmuyorsa tahmin yürütmek yerine güncel yöntemi [yaygın sorunlar rehberinden](/tr/troubleshooting/other-common-bugs) doğrulayın veya Discord'da sorun.
+Kısaca: **yazılımsal sıfırlama**, kulaklıklarınızın kayıtlı ayarlarına dokunmadan eşleştirme sorunlarını giderir. **Donanımdan sıfırlama** ise yazılımsal sıfırlamanın işe yaramadığı durumlarda uygulanan daha kapsamlı bir temizlemedir. Başlamadan önce, sıfırlama davranışının yonga setine, üreticiye ve aygıt yazılımı sürümüne göre değişebileceğini unutmayın; bu nedenle bu adımları evrensel bir düğme kombinasyonu olarak değil, toplulukta standart kabul edilen yöntem olarak değerlendirin. Bir adım gördüklerinizle uyuşmuyorsa tahminde bulunmak yerine [yaygın sorunlar kılavuzundaki](/tr/troubleshooting/other-common-bugs) güncel yöntemi doğrulayın veya Discord’da sorun.
 
-> **Kısa yanıt:** Sahte AirPods'ları yumuşak sıfırlamak için telefonunuzun Bluetooth menüsünden cihazı unutun, Bluetooth'u kapatın, kulaklıkları kapak açık şekilde şarj kutusuna yerleştirin, LED yanıp sönene kadar arka düğmeyi 5–10 saniye basılı tutun ve kapağı 60 saniye kapalı tutun. Ciddi senkronizasyon sorunları veya iCloud hataları için tam fabrika denetleyicisi sıfırlaması yapmak üzere LED turuncu, ardından beyaz renkte yanıp sönene kadar arka düğmeyi **15 saniye** basılı tutun.
+> **Kısa yanıt:** Sahte AirPods’ları yazılımsal olarak sıfırlamak için telefonunuzun Bluetooth menüsünden aygıtı unutun, Bluetooth’u kapatın, kulaklıkları kapağı açık şarj kutusuna koyun, LED yanıp sönene kadar arkadaki düğmeyi 5–10 saniye basılı tutun ve kapağı 60 saniye kapatın. Ciddi eşitleme sorunları veya iCloud hataları için, denetleyiciyi tamamen fabrika ayarlarına sıfırlamak üzere LED önce kehribar, ardından beyaz yanıp sönene kadar arkadaki düğmeyi **15 saniye** basılı tutun.
 
 <CommunityCta variant="stuck" />
 
-## Yumuşak sıfırlama (buradan başlayın)
+## Yazılımsal sıfırlama (buradan başlayın)
 
-Yumuşak sıfırlama günlük sorunları çözer: kulaklıklardan birinin bağlanmaması, sürekli kopan bir eşleştirme veya kapağı açtığınızda görünmeyi reddeden AirPods'lar. Kulaklıkları silmiyor, Bluetooth eşleştirme durumunu temizliyorsunuz.
+Yazılımsal sıfırlama günlük sorunları giderir: kulaklıklardan birinin bağlanmaması, bağlantının sürekli kopması veya kapağı açtığınızda AirPods’ların görünmemesi. Yaptığınız şey Bluetooth eşleştirme durumunu temizlemektir; kulaklıkları sıfırlamazsınız.
 
-![AirPods'larınızı yumuşak sıfırlama](/airpodssoftreset.webp)
+![AirPods’ları yazılımsal olarak sıfırlama](/airpodssoftreset.webp)
 
-1. Cihazı Bluetooth ayarlarınızdan unutturun, ardından Bluetooth'u kapatın.
-2. Kapağı açın ve ışık yanıp sönene kadar arka düğmeyi birkaç saniye basılı tutun, ardından kapağı kapatın. Işığınız görseldekiyle tam olarak aynı şekilde yanıp sönmezse endişelenmeyin.
-3. Tam bir dakika bekleyin. Ardından Bluetooth'u yeniden açın, kapağı açın ve tekrar bağlanmayı deneyin.
-4. Hâlâ bağlanmıyorsa kulaklıkları çıkarıp tekrar yerleştirin. Kapağı kapatın ve ışığın sönmesini bekleyin, ardından kapağı açıp yeniden deneyin.
+1. Bluetooth ayarlarınızdan aygıtı unutun, ardından Bluetooth’u kapatın.
+2. Kapağı açın ve ışık yanıp sönene kadar arkadaki düğmeyi birkaç saniye basılı tutun, ardından kapağı kapatın. Işığınız görseldeki gibi yanıp sönmezse endişelenmeyin.
+3. Tam bir dakika bekleyin. Ardından Bluetooth’u tekrar açın, kapağı açın ve yeniden bağlanmayı deneyin.
+4. Hâlâ bağlanmıyorsa kulaklıkları çıkarıp tekrar yerleştirin. Kapağı kapatın ve ışık sönene kadar bekleyin, ardından kapağı açıp tekrar deneyin.
 
-İnsanların sıkça gözden kaçırdığı bir nokta: işe yaraması **3–4 yumuşak sıfırlama** gerektirebilir. Bu normaldir — ilk denemeden sonra vazgeçmeyin. Arka arkaya birkaç yumuşak sıfırlama hiçbir şeyi değiştirmiyorsa sert sıfırlamaya geçin.
+İnsanların gözden kaçırdığı bir nokta: işlemin işe yaraması **3–4 yazılımsal sıfırlama** gerektirebilir. Bu normaldir; ilk denemeden sonra pes etmeyin. Art arda birkaç yazılımsal sıfırlama hiçbir işe yaramazsa donanımdan sıfırlamaya geçin.
 
-## Sert sıfırlama
+## Donanımdan sıfırlama
 
-Yumuşak sıfırlama işe yaramadığında rehberdeki sert sıfırlama, kulaklıkların durumlarını tamamen unutması için kalan şarjı tüketerek çalışır.
+Yazılımsal sıfırlama işe yaramadığında kılavuzdaki donanımdan sıfırlama, kulaklıkların durumlarını tamamen unutmasını sağlamak için kalan şarjı tüketir.
 
-1. AirPods'ları Bluetooth ayarlarınızdan unutturun.
-2. Kulaklıkları kutudan çıkarın ve pilin tamamen bitmesi için birkaç saat dışarıda bırakın. Kutuyu da açık bırakın — hiç artık şarj kalmamasını istiyorsunuz; bu nedenle en az bir tam gün, gerekirse daha uzun süre bekleyin.
+1. Bluetooth ayarlarınızdan AirPods’ları unutun.
+2. Kulaklıkları kutudan çıkarın ve pilin tamamen bitmesi için birkaç saat dışarıda bırakın. Kutuyu da açık bırakın; geride hiç şarj kalmamasını istiyorsunuz, bu yüzden gerekirse en az bir tam gün bekleyin.
 3. Şarjları bittikten sonra kulaklıkları kutuya geri koyun ve kutuyu şarj edin.
-4. Şimdi bir yumuşak sıfırlama yapın — yine **3–4 deneme** sürmesini bekleyin.
+4. Şimdi yazılımsal sıfırlama yapın; bunun **3–4 deneme** gerektirebileceğini unutmayın.
 
-## Daha kapsamlı kutu düğmesi sıfırlaması
+## Kutu düğmesiyle daha kapsamlı sıfırlama
 
-[ iCloud uyumluluk düzeltmemizde](/tr/troubleshooting/AirReps-Incompatibility-with-iCloud) belgelenen daha güçlü bir kutu düğmesi sıfırlaması da vardır. Kulaklıklar kutudayken ve kapak açıkken, ışık turuncu ve ardından beyaz renkte yanıp sönene kadar arkadaki eşleştirme düğmesini yaklaşık **15 saniye** basılı tutun, ardından kutuyu kapatın. Bu, bu klonların sahip olduğu fabrika ayarlarına sıfırlamaya en yakın işlemdir.
+[iCloud uyumluluk düzeltmemizde](/tr/troubleshooting/AirReps-Incompatibility-with-iCloud) açıklanan, kutu düğmesiyle yapılan daha güçlü bir sıfırlama yöntemi de var. Kulaklıklar kutudayken kapağı açık tutun ve ışık önce kehribar, ardından beyaz yanıp sönene kadar arkadaki eşleştirme düğmesini yaklaşık **15 saniye** basılı tutun, sonra kutuyu kapatın. Bu, bu kopya ürünlerde fabrika ayarlarına sıfırlamaya en yakın işlemdir.
 
-Aynı düğmenin daha kısa süreli kullanımı belirli bir belirti için geçerlidir: yalnızca bir kulaklık çalışıyor ve kutuyu her açtığınızda yavaşça yanıp sönüyorsa, kulaklıklar kutudayken arka düğmeyi **2–3 saniye** basılı tutmak eşleştirmeyi sıfırlar.
+Aynı düğmeyle yapılan daha kısa bir işlem, belirli bir belirti için kullanılır: yalnızca bir kulaklık çalışıyorsa ve kutuyu her açtığınızda yavaşça yanıp sönüyorsa, kulaklıklar kutudayken arkadaki düğmeyi **2–3 saniye** basılı tutarak eşleştirmeyi sıfırlayabilirsiniz.
 
-Buradaki tam zamanlama yonga setleri ve üretim partileri arasında değiştiğinden, bu yönteme güvenmeden önce güncel prosedürü doğrulayın. Modeliniz farklı davranıyorsa [bağlantı notları](/tr/introduction/connectivity) ve topluluk en iyi başvuru kaynaklarınızdır.
+Burada tam basılı tutma süresi yonga setlerine ve üretim partilerine göre değiştiğinden, yöntemi uygulamadan önce güncel adımları doğrulayın. Modeliniz farklı davranıyorsa en iyi başvuru kaynaklarınız [bağlantı notları](/tr/introduction/connectivity) ve topluluktur.
 
-## Sıfırlama, yeniden eşleştirmenin yerini asla tutmaz
+## Sıfırlama, yeniden eşleştirmenin yerini tutmaz
 
-En yaygın yanlış anlama şudur: sıfırlama hiçbir şeyi yeniden bağlamaz. Yalnızca kayıtlı eşleştirme durumunu temizler; bu da **AirPods'larınızı daha sonra yeniden eşleştirmeniz gerektiği** anlamına gelir — iPhone'da iOS açılır penceresi üzerinden, diğer cihazlarda ise normal Bluetooth menüsünden. Sıfırlamadan sonra sorun eşleştirmenin kendisiyse tekrar sıfırlamak yerine [bağlanamama sorun giderme adımlarını](/tr/articles/fake-airpods-wont-connect) uygulayın.
+En yaygın yanlış anlaşılma şudur: sıfırlama hiçbir şeyi yeniden bağlamaz. Yalnızca kayıtlı eşleştirme durumunu temizler; yani sonrasında **AirPods’larınızı yeniden eşleştirmeniz gerekir**. Bunu iPhone’da iOS açılır penceresi üzerinden, diğer cihazlarda ise standart Bluetooth menüsünden yapabilirsiniz. Sıfırlama sonrasında sorun eşleştirmeyse tekrar sıfırlamak yerine [bağlanmıyor sorun giderme adımlarını](/tr/articles/fake-airpods-wont-connect) uygulayın.
 
-## Sıfırlamanın yanlış çözüm olduğu durumlar
+## Sıfırlamanın çözüm olmadığı durumlar
 
-Sıfırlama yalnızca eşleştirme ve bağlantı sorunlarına yardımcı olur. Şu durumlarda işe yaramaz:
+Sıfırlama yalnızca eşleştirme ve bağlantı sorunlarında işe yarar. Şu durumlarda yardımcı olmaz:
 
-- **Hiçbir uygulamanın algılamadığı Jieli sınıfı bir klon.** Topluluktaki [ürün yazılımı uygulamalarından](/tr/useful-apps) hiçbiri kulaklıklarınıza bağlanamıyorsa sıfırlamak hiçbir şeyi değiştirmez — bu bir sorun değil, düşük seviye yonga setinin sınırlamasıdır.
-- **Bilinen, özel bir çözümü olan bir hata.** macOS iCloud eşleştirme sorunları ve takılı kalan ses düzeyi kaydırıcısının kendi yöntemleri vardır. Bunları denemeden önce sıfırlama yapmak yalnızca zaman kaybettirir; [yaygın sorunlar rehberi](/tr/troubleshooting/other-common-bugs) her ikisine de bağlantı verir.
-- **Bir donanım arızası.** Bir kulaklık gerçekten çalışmıyorsa hiçbir sayıda sıfırlama onu canlandıramaz. Bu noktada [satıcınızla](/tr/links/info) görüşmeniz gerekir.
+- **Hiçbir uygulamanın algılamadığı Jieli sınıfı bir kopya ürün.** Topluluk tarafından önerilen [aygıt yazılımı uygulamalarından](/tr/useful-apps) hiçbiri kulaklıklarınıza bağlanamıyorsa sıfırlama hiçbir şeyi değiştirmez; bu bir arıza değil, düşük seviye yonga setinin sınırlamasıdır.
+- **Belirli bir çözümü bilinen bir hata.** macOS iCloud eşleştirme sorunlarının ve takılı kalan ses düzeyi kaydırıcısının kendilerine özgü çözüm adımları vardır. Bunları denemeden önce sıfırlama yapmak yalnızca zaman kaybettirir; [yaygın sorunlar kılavuzunda](/tr/troubleshooting/other-common-bugs) her ikisine de bağlantı verilmiştir.
+- **Donanım arızası.** Bir kulaklık gerçekten bozulduysa hiçbir sayıda sıfırlama onu çalışır hâle getiremez. Bu noktada [satıcınızla](/tr/links/info) görüşmeniz gerekir. Yeni bir ürün seçiyorsanız [1 dakikalık testimizi](/tr/quiz) de çözebilirsiniz.
 
 <CommunityCta variant="unit" />
 
-## Yeniden yapmanız gerekebilecek ayarlar
+## Yeniden ayarlamanız gerekebilecek ayarlar
 
-Sıfırlamadan sonra bazı tercihleriniz varsayılan değerlere dönebilir. İsim değişiklikleri, dokunma kontrolleri ve benzer ayarlar **iOS üzerinden** yapılır — bir kez olsun bir iPhone ödünç alıp bunları oradan ayarlayın; genellikle kulaklıklara kaydolur ve kalıcı olur. iOS eşleştirme açılır penceresi de yeniden ilk kurulum gibi davranabilir; bu nedenle tekrar görünmesine veya genel adı göstermesine şaşırmayın.
+Sıfırlama sonrasında bazı tercihleriniz varsayılan ayarlara dönebilir. İsim değişiklikleri, dokunmatik kontroller ve benzeri ayarlar **iOS üzerinden** yapılır. Bir kez iPhone ödünç alıp ayarları oradan yapın; genellikle kulaklıklara kaydedilir ve kalıcı olur. iOS eşleştirme açılır penceresi de ilk kurulumdaki gibi davranabilir; bu nedenle yeniden görünürse veya genel bir ad gösterirse şaşırmayın.
 
-İlgili sorun giderme ve kurulum rehberleri:
-- Kulaklıklar hâlâ görünür olmuyor mu? [Sahte AirPods bağlanmıyor](/tr/articles/fake-airpods-wont-connect) rehberini izleyin.
-- Android cihaz mı kullanıyorsunuz? Ayarların [Android'de AirPods replikaları](/tr/articles/airpods-replicas-on-android) rehberinde nasıl aktarıldığını öğrenin.
-- Modern bir iPhone ile mi eşleştirdiniz? [Sahte AirPods'lar yeni iPhone'larla çalışır mı?](/tr/articles/do-fake-airpods-work-with-new-iphone) rehberinde uyumluluk ayrıntılarına göz atın.
-- Sorun çıkaran bir çiftin orijinal mi yoksa klon mu olduğunu mu merak ediyorsunuz? [Sahte AirPods'ları tespit etme rehberimizi](/tr/articles/how-to-spot-fake-airpods) kullanın.
+İlgili sorun giderme ve kurulum kılavuzları:
+- Kulaklıklar hâlâ görünmüyor mu? [Sahte AirPods bağlanmıyor](/tr/articles/fake-airpods-wont-connect) kılavuzundaki adımları izleyin.
+- Android cihaz mı kullanıyorsunuz? [Android’de AirPods replikaları](/tr/articles/airpods-replicas-on-android) kılavuzunda ayarların nasıl korunduğunu öğrenin.
+- Yeni bir iPhone’a mı eşleştirdiniz? [Sahte AirPods yeni iPhone’larla çalışır mı?](/tr/articles/do-fake-airpods-work-with-new-iphone) başlığında uyumluluk ayrıntılarına göz atın.
+- Sorun çıkaran bir çiftin orijinal mi yoksa kopya mı olduğunu mu merak ediyorsunuz? [Sahte AirPods’ları tanıma kılavuzumuzu](/tr/articles/how-to-spot-fake-airpods) kullanın.
 
 ## SSS
 
-::: details Sahte AirPods'larda yumuşak sıfırlama ile sert sıfırlama arasındaki fark nedir?
-Yumuşak sıfırlama, bağlantı sorunlarını gidermek için kulaklıkları unutturup yeniden eşleştirir. Sert sıfırlama ise yumuşak sıfırlamayı yeniden yapmadan önce kulaklıkların şarjını tamamen tüketir; bu da yumuşak sıfırlamanın kalıcı olmadığı durumlarda daha derin durum bilgilerini temizler. Uzun süreli kutu düğmesi basışı, destekleyen modellerde daha güçlü, fabrika tarzı bir sıfırlamadır.
+::: details Sahte AirPods’larda yazılımsal sıfırlama ile donanımdan sıfırlama arasındaki fark nedir?
+Yazılımsal sıfırlama, bağlantı sorunlarını gidermek için kulaklıkların eşleştirmesini silip yeniden eşleştirir. Donanımdan sıfırlama, yazılımsal sıfırlamayı tekrarlamadan önce kulaklıkların pilini tamamen bitirir; böylece yazılımsal sıfırlamanın kalıcı olmadığı durumlarda daha derin bir durum temizlenir. Düğmeye uzun basarak yapılan sıfırlama ise bunu destekleyen modellerde fabrika ayarlarına daha yakın, güçlü bir sıfırlamadır.
 :::
 
-::: details Yumuşak sıfırlamayı kaç kez denemeliyim?
-3–4 deneme yapmayı planlayın. Bu, replikalar için belgelenmiş normal sayıdır — tek bir denemenin kalıcı olmaması, prosedürün başarısız olduğu anlamına gelmez.
+::: details Yazılımsal sıfırlamayı kaç kez denemeliyim?
+3–4 deneme yapmayı planlayın. Replikalar için belgelenmiş normal sayı budur; ilk denemenin işe yaramaması işlemin başarısız olduğu anlamına gelmez.
 :::
 
-::: details Sahte AirPods'ları sıfırlamak ayarlarımı değiştirir mi?
-Değiştirebilir. Sıfırlamadan sonra özel adınız ve dokunma kontrolleriniz kaybolabilir; çünkü bunlar iOS üzerinden ayarlanır. Bunları bir iPhone'dan yeniden uygulayın; kulaklıklara kaydolmaları gerekir.
+::: details Sahte AirPods’ları sıfırlamak ayarlarımı değiştirir mi?
+Değiştirebilir. Sıfırlama sonrasında özel adınız ve dokunmatik kontrolleriniz silinmiş olabilir; çünkü bunlar iOS üzerinden ayarlanır. Bunları bir iPhone’dan yeniden ayarlayın; ayarlar kulaklıklara kaydedilmelidir.
 :::
 
-::: details Ürün yazılımı uygulamaları klonumu algılamıyorsa sıfırlama sorunu çözer mi?
-Hayır. Hiçbir topluluk uygulaması bağlanamıyorsa muhtemelen düşük seviye bir Jieli yonga setine sahipsinizdir ve sıfırlama bunu değiştirmez. Hangi uygulamaların hangi yonga setleriyle eşleştiğini kontrol etmek için [kullanışlı uygulamalar](/tr/useful-apps) sayfasını kullanın.
+::: details Aygıt yazılımı uygulamaları kopya ürünümü algılamıyorsa sıfırlama işe yarar mı?
+Hayır. Topluluk uygulamalarından hiçbiri bağlanamıyorsa büyük olasılıkla düşük seviye Jieli yonga setine sahipsinizdir ve sıfırlama bunu değiştirmez. Hangi uygulamaların hangi yonga setleriyle uyumlu olduğunu kontrol etmek için [kullanışlı uygulamalar](/tr/useful-apps) sayfasına bakın.
 :::

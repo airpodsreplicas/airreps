@@ -1,100 +1,103 @@
 ---
-title: 'AirPods Max V3 vs V3P: A construção em metal vale US$ 30 a mais?'
-description: 'Comparação entre as réplicas AirPods Max V3 e V3P — conchas de ouvido de alumínio usinadas em CNC versus construção em plástico, desempenho do ANC híbrido, duração da bateria e se vale a pena fazer o upgrade.'
+title: 'AirPods Max V3 TB vs V3P: Metal vale $30 a mais?'
+description: 'AirPods Max V3 TB ($126–127) vs V3P ($85–94) em comparação: conchas de alumínio CNC vs plástico, Airoha 1562AE vs 1561M, ANC com quatro microfones, rastreamento da cabeça e veredicto.'
 category: Comprando
 order: 15
 ---
-# AirPods Max V3 vs V3P: vale a pena pagar US$ 30 a mais pela estrutura metálica?
+# AirPods Max V3 vs V3P: ¿Vale la pena pagar $30 más por la construcción metálica?
 
-Ao procurar réplicas circum-aurais dos AirPods Max de vendedores confiáveis da comunidade, você encontrará imediatamente duas categorias distintas: o modelo topo de linha **AirPods Max V3** (geralmente por ~US$ 126) e o modelo econômico **AirPods Max V3P** (geralmente por ~US$ 93).
+Al buscar réplicas supraaurales de AirPods Max en vendedores de confianza de la comunidad, encontrarás enseguida dos categorías distintas: el modelo insignia **AirPods Max V3 Metal (Max V3 TB)** ($126–127) y el económico **AirPods Max V3P** ($85–94, según el color y el vendedor).
 
-Os dois modelos têm dimensões cosméticas idênticas, ambos contam com coroas digitais funcionais e ambos exibem a janela animada de emparelhamento do iOS. No entanto, são feitos com materiais completamente diferentes. Veja o que essa diferença de US$ 33 realmente oferece e se vale a pena optar pelo modelo topo de linha.
+Ambos modelos comparten dimensiones estéticas idénticas, cuentan con coronas digitales funcionales y activan la ventana emergente animada de emparejamiento de iOS. Sin embargo, están fabricados con materiales y chipsets completamente distintos. Esto es lo que realmente obtienes por esa diferencia de precio y si la mejora al modelo insignia está justificada.
 
-> **Resposta rápida:** Sim, o **AirPods Max V3 (~US$ 126)** vale os US$ 33 a mais para quem busca aparência autêntica e sensação premium. Ele tem conchas auriculares de alumínio genuíno usinadas por CNC, com anodização que transmite uma sensação fria ao toque, um conjunto da haste com estrutura metálica mais pesada e ANC híbrido aprimorado. O **V3P (~US$ 93)** usa plástico ABS moldado e pintado para parecer metálico; embora seja mais leve na cabeça, ao toque fica imediatamente evidente que é uma réplica.
+> **Respuesta rápida:** Sí, los **AirPods Max V3 TB ($126–127)** merecen la inversión para quien busque una estética auténtica, seguimiento de cabeza y una sensación prémium. Cuentan con copas de aluminio auténtico mecanizadas por CNC y anodizadas, con un tacto frío; un conjunto de diadema metálico y pesado; el chipset Airoha 1562AE, más reciente; y ANC híbrida con cuatro micrófonos. Los **V3P ($85–94)** usan una carcasa de plástico y acero y el chipset Airoha 1561M, más antiguo. Aunque son más ligeros en la cabeza, carecen de seguimiento de cabeza y al tocarlos se nota enseguida que son una réplica.
 
-::: tip Os materiais são ainda mais importantes nos fones circum-aurais
-Fones intra-auriculares ficam escondidos dentro do canal auditivo, onde o plástico é um material comum. Fones circum-aurais são usados à mostra como itens de moda e manuseados constantemente. Os materiais físicos dos Max determinam se o produto parece autêntico e tem sensação de autenticidade.
+::: tip En los auriculares supraaurales, los materiales son lo más importante
+Los auriculares intraaurales quedan ocultos dentro del canal auditivo, donde el plástico es lo habitual. Los supraaurales se llevan por fuera como accesorios de moda y se manipulan constantemente. Los materiales físicos de los Max determinan si el producto parece y se siente auténtico.
 :::
 
-## Comparação direta de especificações
+## Comparación directa de especificaciones
 
-| Recurso | AirPods Max V3 (topo de linha) | AirPods Max V3P (econômico) |
+| Característica | AirPods Max V3 TB (modelo insignia) | AirPods Max V3P (económico) |
 | :--- | :--- | :--- |
-| **Preço típico** | ~US$ 126 | ~US$ 93 |
-| **Material das conchas auriculares** | Alumínio anodizado genuíno usinado por CNC | Plástico ABS pintado |
-| **Conjunto da haste** | Núcleo de aço inoxidável com malha tricotada | Plástico composto e liga metálica |
-| **Peso** | ~384 g (próximo aos 384,8 g dos AirPods Max originais da Apple) | ~320 g (notavelmente mais leve) |
-| **Cancelamento ativo de ruído** | ANC híbrido com quatro microfones (até 45 dB anunciados) | ANC híbrido (segundo o vendedor) |
-| **Acionamento da coroa digital** | Rotação suave com resistência ponderada | Giro mais leve e com cliques |
-| **Autonomia da bateria** | 20 h (segundo o vendedor) | 20 h (segundo o vendedor) |
-| **Janela de emparelhamento** | Compatível (iOS 17/18/27) | Compatível (iOS 17/18/27) |
+| **Precio habitual** | $126–127 | $85–94 |
+| **Chipset** | Airoha 1562AE | Airoha 1561M |
+| **Material de las copas** | Aluminio anodizado auténtico mecanizado por CNC | Plástico y acero / ABS pintado |
+| **Conjunto de diadema** | Núcleo de acero inoxidable con malla tejida | Plástico compuesto y aleación |
+| **Peso** | ~384 g (cercano a los 384,8 g de los Apple originales) | ~320 g (notablemente más ligeros) |
+| **Cancelación activa de ruido** | ANC híbrida con cuatro micrófonos (hasta 45 dB anunciados) | ANC híbrida (según el vendedor) |
+| **Audio espacial con seguimiento de cabeza** | ✅ | ❌ |
+| **Cambio entre varios dispositivos** | 2 dispositivos (multipunto Bluetooth) | 1 dispositivo |
+| **Funcionamiento de la corona digital** | Resistencia rotatoria pesada y suave | Giro con clic más ligero |
+| **Autonomía** | 20 h (según el vendedor) | 20 h (según el vendedor) |
+| **Ventana emergente de emparejamiento** | Compatible (iOS 26/27) | Compatible (iOS 26/27) |
 
-Os dados de autonomia e a classificação de ANC anunciada para o V3 vêm do [anúncio do V3 da Jenny](https://jenny.airreps.info/product/max-v3-tb/) e do [anúncio do V3P](https://jenny.airreps.info/product/max-v3p-tb/), consultados em 22 de setembro de 2026. São especificações fornecidas pelos vendedores, não resultados de medições em condições equivalentes. Não conclua que a autonomia ou a qualidade sonora são iguais com base nesses dados.
+Las cifras de autonomía y la clasificación de ANC anunciada para los V3 proceden del [anuncio de los V3 de Jenny](https://jenny.airreps.info/product/max-v3-tb/) y del [anuncio de los V3P](https://jenny.airreps.info/product/max-v3p-tb/), consultados el 22 de septiembre de 2026. Son especificaciones del vendedor, no resultados medidos en condiciones equivalentes. No deduzcas que ofrecen la misma autonomía o calidad de sonido a partir de esas cifras.
 
-## 1. Materiais e sensação ao toque: alumínio versus plástico
+## 1. Materiales y tacto: aluminio frente a plástico
 
-A principal diferença entre o V3 e o V3P está na sensação de autenticidade ao toque:
+La principal diferencia entre los V3 y los V3P es el realismo táctil:
 
-- **A experiência com o V3**: As conchas auriculares são esculpidas em blocos de alumínio genuíno. Ao pegá-las depois de deixá-las em um ambiente com ar-condicionado, elas ficam frias ao toque. Um toque com a unha na estrutura produz o som metálico característico do hardware original da Apple. Com aproximadamente 384 gramas, o peso corresponde ao dos AirPods Max genuínos, com uma diferença de menos de um grama.
-- **A experiência com o V3P**: As conchas auriculares são feitas de plástico moldado por injeção, revestido com laca metálica. A uma distância de cerca de um metro, o acabamento parece convincente. No entanto, assim que você pega os fones, percebe imediatamente a diferença de ~60 gramas. As conchas auriculares ficam quentes ao toque, e a estrutura apresenta uma ressonância sutil de plástico quando tocada.
+- **La experiencia con los V3**: Las copas están talladas a partir de bloques de aluminio auténtico. Al cogerlos después de haber estado en una habitación con aire acondicionado, se sienten fríos al tacto. Al golpear la carcasa con una uña, producen el tintineo metálico característico del hardware auténtico de Apple. Con aproximadamente 384 gramos, su peso coincide con el de los AirPods Max auténticos con una diferencia de apenas una fracción de gramo.
+- **La experiencia con los V3P**: Las copas son de plástico moldeado por inyección, recubierto con laca metálica. A un metro de distancia, el acabado parece convincente. Sin embargo, en cuanto levantas los auriculares, se nota de inmediato la diferencia de unos ~60 gramos menos. Las copas se sienten cálidas al tacto y la carcasa presenta una sutil resonancia plástica al golpearla.
 
-Se o seu objetivo é usar fones que pareçam e tenham uma sensação completamente indistinguível dos originais da Apple em público ou nas redes sociais, o V3 é a única versão que consegue isso.
+Si tu objetivo es llevar unos auriculares que parezcan y se sientan completamente indistinguibles del hardware auténtico de Apple en público o en redes sociales, los V3 son la única versión que lo consigue.
 
-## 2. Ajuste acústico e cancelamento ativo de ruído
+## 2. Ajuste acústico y cancelación activa de ruido
 
-Como o alumínio é significativamente mais denso que o plástico, as câmaras acústicas se comportam de forma diferente:
+Como el aluminio es mucho más denso que el plástico, las cámaras acústicas se comportan de manera distinta:
 
-- **Ressonância acústica**: O chassi de alumínio do V3 reduz a distorção harmônica interna, resultando em graves profundos mais controlados e precisos. A estrutura plástica do V3P tem mais reverberação interna, produzindo graves mais quentes e ligeiramente mais embolados.
-- **Cancelamento de ruído**: O V3 usa um sistema ANC híbrido aprimorado com quatro microfones. O V3P mantém a antiga plataforma Airoha 1561M. As descrições dos vendedores classificam ambos como ANC híbrido; não temos um teste comparável que confirme os valores anteriormente citados de 28–32 dB versus 20–24 dB.
+- **Resonancia acústica**: El chasis de aluminio de los V3 reduce la distorsión armónica interna, lo que ofrece unos graves profundos más firmes y controlados. La carcasa de plástico de los V3P presenta más reverberación interna y produce unos graves más cálidos y ligeramente turbios.
+- **Cancelación de ruido**: Los V3 utilizan un sistema ANC híbrido mejorado con cuatro micrófonos. Los V3P conservan la plataforma Airoha 1561M, más antigua. Las descripciones de los vendedores indican que ambos ofrecen ANC híbrida; no tenemos pruebas comparables que respalden las cifras anteriores de 28–32 dB frente a 20–24 dB.
 
-## 3. Coroa digital, botões e malha da haste
+## 3. Corona digital, botones y malla de la diadema
 
-Os controles mecânicos refletem a mesma diferença entre as categorias:
+Los controles mecánicos reflejan la misma diferencia entre categorías:
 
-- **A coroa digital**: No V3, a coroa gira com uma resistência mecânica suave e viscosa, semelhante à do codificador rotativo da Apple. No V3P, o giro parece mais frouxo e os cliques são mais altos.
-- **Cobertura da haste**: Ambos os modelos têm uma cobertura de malha tricotada respirável. O V3 usa uma estrutura reforçada de aço-mola que prende os fones com firmeza sem apertar, enquanto a haste do V3P apresenta um pouco mais de flexibilidade.
+- **La corona digital**: En los V3, la corona gira con una resistencia mecánica suave y viscosa, similar a la del codificador rotatorio de Apple. En los V3P, el giro se siente más suelto y los clics suenan más fuerte.
+- **Malla de la diadema**: Ambos modelos cuentan con una malla tejida transpirable en la parte superior de la diadema. Los V3 usan un armazón reforzado de acero para muelles que sujeta con firmeza sin apretar, mientras que la diadema de los V3P cede un poco más.
 
-## 4. O que ambos os modelos deixam de oferecer em relação à Apple (US$ 549)
+## 4. A qué renuncias con ambos modelos frente a los Apple originales ($549)
 
-Independentemente de escolher o V3 ou o V3P, você ainda está comprando uma réplica e terá de aceitar estas limitações comuns:
+Tanto si eliges los V3 como los V3P, sigues comprando una réplica y debes aceptar estas limitaciones comunes:
 
-- **Sem a rede Buscar da Apple**: Nenhuma das versões pode ser rastreada usando a rede Buscar colaborativa da Apple.
-- **Sem alternância automática do iCloud**: É possível conectar os fones a vários dispositivos, mas não há alternância automática e contínua ao atender uma ligação no iPhone enquanto assiste a um vídeo no Mac.
-- **Modo Transparência inferior ao original**: Embora o modo Transparência funcione bem o suficiente para perceber o que acontece na rua, ele não alcança a fidelidade computacional do modo da Apple, que dá a sensação de não estar usando fones.
+- **Sin la red Buscar de Apple**: Ninguna versión se puede localizar mediante la red Buscar colaborativa de Apple.
+- **Sin transferencia automática de iCloud**: Puedes conectarlos a varios dispositivos, pero no disponen de la transferencia automática y fluida que permite responder una llamada en un iPhone mientras ves un vídeo en un Mac.
+- **Modo de sonido ambiente menos fiel que el original**: Aunque el modo de sonido ambiente funciona lo bastante bien como para estar atento a lo que ocurre en la calle, no alcanza la fidelidad computacional de Apple, que ofrece la sensación de no llevar nada en los oídos.
 
-## Veredito: qual você deve comprar?
+## Veredicto: ¿cuál deberías pedir?
 
-### Escolha o AirPods Max V3 se:
-- Você valoriza o luxo ao toque: quer conchas auriculares de alumínio genuíno, frias ao toque, e o peso adequado.
-- Você quer o melhor cancelamento de ruído e a melhor qualidade sonora disponíveis em uma réplica circum-aural.
-- Você quer fones que resistam a uma inspeção minuciosa de amigos e colegas.
+### Elige los AirPods Max V3 si:
+- Te importa el lujo táctil: quieres copas de aluminio auténtico, frías al tacto, y el peso adecuado.
+- Quieres la mejor cancelación de ruido y calidad de sonido disponibles en una réplica supraaural.
+- Quieres unos auriculares que resistan una inspección de cerca por parte de amigos y compañeros de trabajo.
 
-<span class="pick-buy">Compre o V3 na [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
+<span class="pick-buy">Compra los V3 en [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
 
-### Escolha o AirPods Max V3P se:
-- Seu orçamento é inferior a US$ 100.
-- Você prefere fones mais leves para usar por longas sessões de trabalho.
-- Você pretende manter os fones dentro de capas protetoras de silicone (que escondem o acabamento metálico).
+### Elige los AirPods Max V3P si:
+- Tienes un presupuesto estricto de menos de $100.
+- Prefieres llevar auriculares más ligeros durante largas jornadas de trabajo.
+- Piensas guardar los auriculares en fundas protectoras de silicona de todos modos (que ocultan el acabado metálico).
 
-<span class="pick-buy">Compre o V3P na [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
+<span class="pick-buy">Compra los V3P en [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
-## Leituras relacionadas
+## Lecturas relacionadas
 
-- Quer uma visão geral das réplicas circum-aurais? Leia nosso [Guia de réplicas dos AirPods Max](/pt/articles/airpods-max-dupe).
-- Prefere a portabilidade dos fones intra-auriculares? Compare com [As melhores réplicas dos AirPods por menos de US$ 50](/pt/articles/best-airpods-replicas-under-50).
-- Tem dúvidas sobre alfândega ou IVA na UE? Leia [Alfândega e IVA para réplicas dos AirPods](/pt/articles/airpods-replica-customs-and-vat).
-- Consulte os preços atuais dos vendedores no [Diretório de links de compra dos AirPods Max](/pt/links/airpods-max).
+- ¿Buscas una visión general de las réplicas supraaurales? Lee nuestra [guía de réplicas de AirPods Max](/pt/articles/airpods-max-dupe).
+- ¿Prefieres la portabilidad de los auriculares intraaurales? Compáralos con las [mejores réplicas de AirPods por menos de $50](/pt/articles/best-airpods-replicas-under-50) o responde el [cuestionario de 1 minuto](/pt/quiz).
+- ¿Te preocupan las aduanas o el IVA de la UE? Lee [Aduanas e IVA para réplicas de AirPods](/pt/articles/airpods-replica-customs-and-vat).
+- Consulta los precios actuales de los vendedores en el [directorio de enlaces de compra de AirPods Max](/pt/links/airpods-max).
 
-## Perguntas frequentes
+## Preguntas frecuentes
 
-::: details As conchas auriculares dos AirPods Max V3 são realmente de metal?
-Sim. Os AirPods Max V3 usam conchas auriculares de liga de alumínio anodizado usinadas por CNC, que correspondem ao peso, à condutividade térmica e à sensação fria ao toque dos AirPods Max originais da Apple.
+::: details ¿Las copas de los AirPods Max V3 son realmente de metal?
+Sí. Los AirPods Max V3 tienen copas de aleación de aluminio anodizado mecanizadas por CNC, con un peso, una conductividad térmica y una sensación fría al tacto similares a los de los AirPods Max auténticos de Apple.
 :::
 
-::: details Os AirPods Max V3 são mais pesados que os V3P?
-Sim. O V3 de alumínio pesa aproximadamente 384 g (praticamente o mesmo que os 384,8 g dos AirPods Max originais da Apple), enquanto o V3P de plástico pesa cerca de 320 g.
+::: details ¿Los AirPods Max V3 pesan más que los V3P?
+Sí. Los V3 de aluminio pesan aproximadamente 384 g (prácticamente lo mismo que los 384,8 g de los Apple originales), mientras que los V3P de plástico pesan alrededor de 320 g.
 :::
 
-::: details As réplicas dos AirPods Max vêm com o Smart Case?
-Sim, tanto o V3 quanto o V3P incluem o Smart Case magnético, que coloca os fones em modo de repouso de consumo ultrabaixo quando eles são guardados nele.
+::: details ¿Las réplicas de AirPods Max incluyen el Smart Case?
+Sí, tanto los V3 como los V3P incluyen el Smart Case magnético, que pone los auriculares en modo de reposo de consumo ultrabajo al guardarlos.
 :::

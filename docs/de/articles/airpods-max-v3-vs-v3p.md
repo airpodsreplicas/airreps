@@ -1,100 +1,103 @@
 ---
-title: 'AirPods Max V3 vs. V3P: Ist die Metallkonstruktion 30 $ mehr wert?'
-description: 'AirPods Max V3 vs. V3P Replica-Vergleich – CNC-Aluminium-Ohrmuscheln vs. Kunststoffkonstruktion, Hybrid-ANC-Leistung, Akkulaufzeit und ob sich das Upgrade lohnt.'
+title: 'AirPods Max V3 TB vs. V3P: Ist Metall 30 $ mehr wert?'
+description: 'AirPods Max V3 TB (126–127 $) vs. V3P (85–94 $) im Vergleich: CNC-Aluminium vs. Kunststoffmuscheln, Airoha 1562AE vs. 1561M, ANC mit vier Mikrofonen, Head-Tracking und Fazit.'
 category: Kaufen
 order: 15
 ---
-# AirPods Max V3 vs. V3P: Ist die Metallverarbeitung 30 $ mehr wert?
+# AirPods Max V3 vs. V3P: Ist die Metallausführung 30 $ mehr wert?
 
-Beim Kauf von Over-Ear-AirPods-Max-Repliken bei vertrauenswürdigen Händlern aus der Community stößt man sofort auf zwei verschiedene Preisklassen: das Flaggschiff **AirPods Max V3** (typischerweise ca. 126 $) und das Budgetmodell **AirPods Max V3P** (typischerweise ca. 93 $).
+Wenn du bei vertrauenswürdigen Anbietern aus der Community nach Over-Ear-Nachbildungen der AirPods Max suchst, stößt du sofort auf zwei unterschiedliche Preisklassen: die Flaggschiffversion **AirPods Max V3 Metal (Max V3 TB)** (126–127 $) und die günstigere **AirPods Max V3P** (85–94 $, je nach Farbe und Anbieter).
 
-Beide Modelle haben identische Außenmaße, verfügen über funktionierende Digital Crowns und lösen das animierte iOS-Kopplungsfenster aus. Sie bestehen jedoch aus völlig unterschiedlichen Materialien. Hier erfährst du, was dir der Preisunterschied von 33 $ tatsächlich bietet und ob sich das Upgrade auf das Flaggschiff lohnt.
+Beide Modelle haben identische kosmetische Abmessungen, verfügen über funktionierende Digital Crowns und lösen das animierte iOS-Kopplungsfenster aus. Sie bestehen jedoch aus völlig unterschiedlichen Materialien und verwenden unterschiedliche Chipsätze. Hier erfährst du, wofür du den Preisunterschied tatsächlich bezahlst und ob sich das Upgrade auf das Flaggschiff lohnt.
 
-> **Kurzantwort:** Ja, die **AirPods Max V3 (ca. 126 $)** sind die zusätzlichen 33 $ wert, wenn dir authentische Optik und ein hochwertiges Tragegefühl wichtig sind. Sie verfügen über echte CNC-gefräste Aluminium-Ohrmuscheln mit kalt anfühlender Eloxierung, eine beschwerte Metall-Kopfbügeleinheit und ein verbessertes hybrides ANC. Die **V3P (ca. 93 $)** besteht aus geformtem ABS-Kunststoff, der metallisch lackiert ist. Sie ist zwar leichter auf dem Kopf, fühlt sich bei Berührung aber sofort wie ein Klon an.
+> **Kurzantwort:** Ja, die **AirPods Max V3 TB (126–127 $)** sind das Upgrade wert, wenn dir authentische Optik, Head-Tracking und ein hochwertiges Tragegefühl wichtig sind. Sie verfügen über echte, CNC-gefräste Aluminium-Ohrmuscheln mit kalt wirkender Eloxierung, eine beschwerte Metall-Kopfbügeleinheit, den neueren Airoha-1562AE-Chipsatz und ein hybrides ANC-System mit vier Mikrofonen. Die **V3P (85–94 $)** hat ein Gehäuse aus Kunststoff und Stahl sowie den älteren Airoha-1561M-Chipsatz. Sie ist zwar leichter auf dem Kopf, bietet aber kein Head-Tracking und fühlt sich bei direktem Kontakt sofort wie ein Nachbau an.
 
 ::: tip Bei Over-Ear-Kopfhörern ist das Material besonders wichtig
-In-Ear-Ohrhörer sitzen im Gehörgang, wo Kunststoff üblich ist. Over-Ear-Kopfhörer werden außen als modische Accessoires getragen und ständig in die Hand genommen. Die Materialien der Max entscheiden darüber, ob das Produkt authentisch aussieht und sich auch so anfühlt.
+In-Ear-Ohrhörer verschwinden im Gehörgang, wo Kunststoff üblich ist. Over-Ear-Kopfhörer werden außen als Modeaccessoires getragen und ständig angefasst. Die verwendeten Materialien der Max entscheiden darüber, ob das Produkt authentisch aussieht und sich auch so anfühlt.
 :::
 
-## Direkter Vergleich der technischen Daten
+## Direkter Spezifikationsvergleich
 
-| Merkmal | AirPods Max V3 (Flaggschiff) | AirPods Max V3P (Budgetmodell) |
+| Merkmal | AirPods Max V3 TB (Flaggschiff) | AirPods Max V3P (Budget) |
 | :--- | :--- | :--- |
-| **Typischer Preis** | ca. 126 $ | ca. 93 $ |
-| **Material der Ohrmuscheln** | Echtes CNC-eloxiertes Aluminium | Lackierter ABS-Kunststoff |
-| **Kopfbügeleinheit** | Edelstahlkern mit Netzgewebe | Kunststoffverbundstoff und Legierung |
-| **Gewicht** | ca. 384 g (nahe an Apples Original mit 384,8 g) | ca. 320 g (spürbar leichter) |
-| **Aktive Geräuschunterdrückung** | Hybrides ANC mit vier Mikrofonen (angegeben mit bis zu 45 dB) | Hybrides ANC (laut Händlerangabe) |
-| **Drehverhalten der Digital Crown** | Beschwert, gleichmäßiger Drehwiderstand | Leichteres Klickgefühl |
-| **Akkulaufzeit** | 20 Std. (laut Händlerangabe) | 20 Std. (laut Händlerangabe) |
-| **Kopplungsfenster** | Unterstützt (iOS 17/18/27) | Unterstützt (iOS 17/18/27) |
+| **Typischer Preis** | 126–127 $ | 85–94 $ |
+| **Chipsatz** | Airoha 1562AE | Airoha 1561M |
+| **Material der Ohrmuscheln** | Echtes, CNC-gefrästes und eloxiertes Aluminium | Kunststoff und Stahl / lackiertes ABS |
+| **Kopfbügeleinheit** | Edelstahlkern mit Stricknetz | Verbundkunststoff und Legierung |
+| **Gewicht** | ~384 g (nahe an Apples Original mit 384,8 g) | ~320 g (spürbar leichter) |
+| **Aktive Geräuschunterdrückung** | Hybrides ANC mit vier Mikrofonen (beworben mit bis zu 45 dB) | Hybrides ANC (laut Anbieter) |
+| **Räumliches Audio mit Head-Tracking** | ✅ | ❌ |
+| **Wechsel zwischen mehreren Geräten** | 2 Geräte (Bluetooth-Multipoint) | 1 Gerät |
+| **Bediengefühl der Digital Crown** | Beschwert, gleichmäßiger Drehwiderstand | Leichteres Klickgefühl |
+| **Akkulaufzeit** | 20 h (laut Anbieter) | 20 h (laut Anbieter) |
+| **Kopplungsfenster** | Unterstützt (iOS 26/27) | Unterstützt (iOS 26/27) |
 
-Die Angaben zur Akkulaufzeit und zum beworbenen ANC-Wert der V3 stammen aus [Jennys V3-Angebot](https://jenny.airreps.info/product/max-v3-tb/) und dem [V3P-Angebot](https://jenny.airreps.info/product/max-v3p-tb/), geprüft am 22. September 2026. Dabei handelt es sich um Händlerangaben, nicht um unter gleichen Bedingungen gemessene Ergebnisse. Aus diesen Angaben lässt sich keine gleichwertige Laufzeit oder Klangqualität ableiten.
+Die Angaben zur Akkulaufzeit und die beworbene ANC-Bewertung der V3 stammen aus [Jennys V3-Angebot](https://jenny.airreps.info/product/max-v3-tb/) und [V3P-Angebot](https://jenny.airreps.info/product/max-v3p-tb/), geprüft am 22. September 2026. Es handelt sich um Anbieterangaben, nicht um unter gleichen Bedingungen gemessene Ergebnisse. Aus diesen Angaben lässt sich weder auf eine gleiche Laufzeit noch auf eine gleiche Klangqualität schließen.
 
 ## 1. Materialien und Haptik: Aluminium vs. Kunststoff
 
-Der wichtigste Unterschied zwischen V3 und V3P ist die haptische Authentizität:
+Der entscheidende Unterschied zwischen V3 und V3P liegt in der authentischen Haptik:
 
-- **Das Erlebnis mit der V3**: Die Ohrmuscheln werden aus massiven Aluminiumblöcken gefräst. Wenn du sie nach dem Aufenthalt in einem klimatisierten Raum in die Hand nimmst, fühlen sie sich kalt an. Beim Klopfen mit dem Fingernagel auf das Gehäuse entsteht der unverkennbare metallische Klang echter Apple-Hardware. Mit etwa 384 Gramm entspricht das Gewicht bis auf einen Bruchteil eines Gramms dem der echten AirPods Max.
-- **Das Erlebnis mit der V3P**: Die Ohrmuscheln bestehen aus spritzgegossenem Kunststoff mit Metallic-Lackierung. Aus einem Meter Entfernung wirkt die Oberfläche überzeugend. Sobald du den Kopfhörer jedoch anhebst, ist der Gewichtsunterschied von etwa 60 Gramm sofort spürbar. Die Ohrmuscheln fühlen sich warm an, und das Gehäuse weist beim Anklopfen eine leichte Kunststoffresonanz auf.
+- **Das Erlebnis mit der V3**: Die Ohrmuscheln werden aus echten Aluminiumblöcken gefräst. Wenn du sie nach einem Aufenthalt in einem klimatisierten Raum in die Hand nimmst, fühlen sie sich kalt an. Klopfst du mit dem Fingernagel gegen das Gehäuse, hörst du den charakteristischen metallischen Klang echter Apple-Hardware. Mit ungefähr 384 Gramm entspricht das Gewicht bis auf einen Bruchteil eines Gramms dem der echten AirPods Max.
+- **Das Erlebnis mit der V3P**: Die Ohrmuscheln bestehen aus spritzgegossenem Kunststoff mit metallisch glänzendem Lack. Aus einem Meter Entfernung wirkt die Oberfläche überzeugend. Sobald du die Kopfhörer jedoch anhebst, fällt das um etwa 60 Gramm geringere Gewicht sofort auf. Die Ohrmuscheln fühlen sich warm an, und beim Klopfen schwingt das Gehäuse leicht nach Kunststoff.
 
-Wenn du einen Kopfhörer tragen möchtest, der in der Öffentlichkeit oder in sozialen Medien optisch und haptisch völlig ununterscheidbar von echter Apple-Hardware ist, ist nur die V3 dafür geeignet.
+Wenn du Kopfhörer tragen möchtest, die in der Öffentlichkeit oder in sozialen Medien optisch und haptisch nicht von echter Apple-Hardware zu unterscheiden sind, ist die V3 die einzige Version, die das schafft.
 
 ## 2. Klangabstimmung und aktive Geräuschunterdrückung
 
-Da Aluminium deutlich dichter ist als Kunststoff, verhalten sich die Akustikkammern unterschiedlich:
+Da Aluminium deutlich dichter ist als Kunststoff, verhalten sich die akustischen Kammern unterschiedlich:
 
-- **Akustische Resonanz**: Das Aluminiumgehäuse der V3 reduziert interne harmonische Verzerrungen, was zu einer strafferen und kontrollierteren Subbasswiedergabe führt. Das Kunststoffgehäuse der V3P weist mehr interne Nachhallungen auf und erzeugt dadurch wärmere, leicht verwaschene Bässe.
-- **Geräuschunterdrückung**: Die V3 verwendet ein verbessertes hybrides ANC-System mit vier Mikrofonen. Die V3P basiert weiterhin auf der älteren Airoha-1561M-Plattform. Händlerbeschreibungen bezeichnen beide als hybrides ANC; vergleichbare Tests, die die bisherigen Angaben von 28–32 dB gegenüber 20–24 dB belegen, liegen uns nicht vor.
+- **Akustische Resonanz**: Das Aluminiumgehäuse der V3 verringert interne harmonische Verzerrungen und sorgt für eine straffere, kontrolliertere Wiedergabe im Subbass. Das Kunststoffgehäuse der V3P hat mehr interne Nachhallneigung und erzeugt dadurch tiefere Frequenzen, die wärmer und etwas weniger klar klingen.
+- **Geräuschunterdrückung**: Die V3 verwendet ein verbessertes hybrides ANC-System mit vier Mikrofonen. Die V3P setzt weiterhin auf die ältere Airoha-1561M-Plattform. Anbieter beschreiben beide Modelle als mit hybridem ANC ausgestattet; uns liegen keine vergleichbaren Tests vor, die die zuvor genannten Werte von 28–32 dB gegenüber 20–24 dB belegen.
 
 ## 3. Digital Crown, Tasten und Kopfbügelnetz
 
-Auch die mechanischen Bedienelemente spiegeln den Unterschied zwischen den Preisklassen wider:
+Auch die mechanischen Bedienelemente spiegeln den Unterschied zwischen den beiden Preisklassen wider:
 
-- **Die Digital Crown**: Bei der V3 lässt sich die Crown mit einem gleichmäßigen, gedämpften mechanischen Widerstand drehen, der Apples Drehgeber entspricht. Bei der V3P fühlt sich die Drehung lockerer an und klickt lauter.
-- **Kopfbügelbespannung**: Beide Modelle verfügen über eine atmungsaktive Bespannung aus gestricktem Netzgewebe. Die V3 hat einen verstärkten Federstahlrahmen, der fest sitzt, ohne zu drücken, während sich der Kopfbügel der V3P etwas stärker durchbiegt.
+- **Die Digital Crown**: Bei der V3 dreht sich die Krone mit einem gleichmäßigen, gedämpften mechanischen Widerstand, der Apples Drehgeber entspricht. Bei der V3P fühlt sich die Drehung lockerer an und klickt lauter.
+- **Kopfbügelnetz**: Beide Modelle haben ein atmungsaktives Stricknetz am Kopfbügel. Die V3 verfügt über einen verstärkten Federstahlrahmen, der fest sitzt, ohne zu drücken. Der Kopfbügel der V3P ist dagegen etwas flexibler.
 
-## 4. Worauf man bei beiden Modellen im Vergleich zu Apple (549 $) verzichtet
+## 4. Worauf du bei beiden Modellen im Vergleich zu Apple (549 $) verzichten musst
 
-Unabhängig davon, ob du dich für die V3 oder die V3P entscheidest, kaufst du weiterhin eine Replik und musst diese allgemeinen Kompromisse in Kauf nehmen:
+Unabhängig davon, ob du dich für die V3 oder die V3P entscheidest, kaufst du weiterhin einen Nachbau und musst bei beiden Modellen dieselben Kompromisse eingehen:
 
-- **Kein Apple „Wo ist?“-Netzwerk**: Keine der beiden Versionen kann über Apples gemeinschaftsbasiertes „Wo ist?“-Netzwerk geortet werden.
-- **Keine automatische iCloud-Übergabe**: Du kannst eine Verbindung zu mehreren Geräten herstellen, aber die nahtlose automatische Übergabe – etwa beim Annehmen eines Anrufs auf dem iPhone, während du auf einem Mac ein Video ansiehst – ist nicht verfügbar.
-- **Transparenzmodus nicht auf Originalniveau**: Der Transparenzmodus funktioniert gut genug, um den Straßenverkehr wahrzunehmen, erreicht aber nicht die rechnergestützte Transparenz von Apple, bei der es sich anfühlt, als trüge man keine Ohrhörer.
+- **Kein Apple-„Wo ist?“-Netzwerk**: Keine der beiden Versionen lässt sich über Apples gemeinschaftsbasiertes „Wo ist?“-Netzwerk orten.
+- **Keine automatische iCloud-Übergabe**: Du kannst eine Verbindung mit mehreren Geräten herstellen. Eine nahtlose automatische Übergabe, wenn du auf dem iPhone einen Anruf annimmst, während du auf einem Mac ein Video ansiehst, gibt es jedoch nicht.
+- **Transparenzmodus wie beim Original**: Der Transparenzmodus funktioniert gut genug, um die Umgebung im Straßenverkehr wahrzunehmen, erreicht aber nicht die rechnergestützte Transparenz von Apple, die den Eindruck vermittelt, keine Ohrhörer zu tragen.
 
-## Fazit: Welches Modell solltest du bestellen?
+## Fazit: Welche solltest du bestellen?
 
-### Wähle die AirPods Max V3, wenn:
-- Dir haptischer Luxus wichtig ist: Du möchtest echte, kalt anfühlende Aluminium-Ohrmuscheln und das entsprechende Gewicht.
-- Du die beste Geräuschunterdrückung und Klangqualität möchtest, die ein Over-Ear-Klon bietet.
-- Du einen Kopfhörer möchtest, der einer genauen Prüfung durch Freunde und Kollegen standhält.
+### Entscheide dich für die AirPods Max V3, wenn:
+- Dir hochwertige Haptik wichtig ist: Du möchtest echte, kalt wirkende Aluminium-Ohrmuscheln und das entsprechende Gewicht.
+- Du die beste Geräuschunterdrückung und Klangqualität möchtest, die ein Over-Ear-Nachbau zu bieten hat.
+- Du Kopfhörer möchtest, die einer genauen Prüfung durch Freunde und Kollegen standhalten.
 
-<span class="pick-buy">Kaufe die V3 bei [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
+<span class="pick-buy">V3 kaufen bei [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
 
-### Wähle die AirPods Max V3P, wenn:
+### Entscheide dich für die AirPods Max V3P, wenn:
 - Dein Budget strikt unter 100 $ liegt.
-- Du für lange Arbeitssitzungen leichtere Kopfhörer bevorzugst.
-- Du den Kopfhörer ohnehin in einer Schutzhülle aus Silikon aufbewahren möchtest (die das Metallfinish verdeckt).
+- Du bei langen Arbeitssitzungen lieber leichtere Kopfhörer trägst.
+- Du die Kopfhörer ohnehin in einer Silikonschutzhülle aufbewahren möchtest (die das Metallfinish verdeckt).
 
-<span class="pick-buy">Kaufe die V3P bei [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
+<span class="pick-buy">V3P kaufen bei [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
-## Weiterführende Artikel
+## Weiterlesen
 
-- Du suchst einen allgemeinen Überblick über Over-Ear-Klone? Lies unseren [AirPods-Max-Dupe-Guide](/de/articles/airpods-max-dupe).
-- Bevorzugst du die Mobilität von In-Ear-Kopfhörern? Vergleiche sie mit den [besten AirPods-Repliken unter 50 $](/de/articles/best-airpods-replicas-under-50).
-- Fragen zu Zoll oder EU-Mehrwertsteuer? Lies [Zoll und Mehrwertsteuer bei AirPods-Repliken](/de/articles/airpods-replica-customs-and-vat).
-- Aktuelle Händlerpreise findest du im [Verzeichnis der Kauf-Links für AirPods Max](/de/links/airpods-max).
+- Du suchst einen allgemeinen Überblick über Over-Ear-Nachbauten? Lies unseren [Ratgeber zu AirPods-Max-Nachbauten](/de/articles/airpods-max-dupe).
+- Du bevorzugst In-Ear-Portabilität? Vergleiche sie mit den [besten AirPods-Nachbildungen unter 50 $](/de/articles/best-airpods-replicas-under-50) oder mach das [einminütige Quiz](/de/quiz).
+- Fragen zu Zoll oder EU-Mehrwertsteuer? Lies [Zoll und Mehrwertsteuer bei AirPods-Nachbildungen](/de/articles/airpods-replica-customs-and-vat).
+- Aktuelle Preise der Anbieter findest du im [Verzeichnis der Kauf-Links für AirPods Max](/de/links/airpods-max).
 
-## FAQ
+## Häufig gestellte Fragen
 
-::: details Bestehen die Ohrmuscheln der AirPods Max V3 wirklich aus Metall?
-Ja. Die AirPods Max V3 verwenden CNC-gefräste Ohrmuscheln aus eloxierter Aluminiumlegierung. Gewicht, Wärmeleitfähigkeit und das kalt anfühlende Material entsprechen denen der echten Apple AirPods Max.
+::: details Sind die Ohrmuscheln der AirPods Max V3 wirklich aus Metall?
+Ja. Die AirPods Max V3 haben CNC-gefräste Ohrmuscheln aus eloxierter Aluminiumlegierung, deren Gewicht, Wärmeleitfähigkeit und Kältegefühl dem der echten Apple AirPods Max entsprechen.
 :::
 
 ::: details Sind die AirPods Max V3 schwerer als die V3P?
-Ja. Die V3 aus Aluminium wiegt etwa 384 g (praktisch genauso viel wie Apples Original mit 384,8 g), während die V3P aus Kunststoff etwa 320 g wiegt.
+Ja. Die Aluminium-V3 wiegt ungefähr 384 g (praktisch identisch mit Apples Original mit 384,8 g), während die Kunststoff-V3P etwa 320 g wiegt.
 :::
 
-::: details Werden AirPods-Max-Repliken mit dem Smart Case geliefert?
-Ja, sowohl die V3 als auch die V3P enthalten das magnetische Smart Case, das den Kopfhörer beim Einlegen in den Energiesparmodus mit extrem niedrigem Stromverbrauch versetzt.
+::: details Werden AirPods-Max-Nachbildungen mit dem Smart Case geliefert?
+Ja, sowohl die V3 als auch die V3P werden mit dem magnetischen Smart Case geliefert, das die Kopfhörer beim Einsetzen in den extremen Energiesparmodus versetzt.
 :::
