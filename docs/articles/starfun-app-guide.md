@@ -1,6 +1,6 @@
 ---
-title: "StarFun APK Guide: EQ & Firmware for Huilian AirPods Replicas"
-description: "Where to get StarFun for Android and iOS, which Huilian AirPods replicas use it, how to adjust EQ and update firmware safely, and what to check when the app won't find your earbuds."
+title: "StarFun App Guide: Huilian AirPods Replicas"
+description: "Download StarFun for Android and iOS: supported Huilian AirPods replicas (V7, V6, V5.4, V5.3, AirPods 4 V2), custom EQ, safe firmware updates & fixes."
 category: "Using your reps"
 order: 20
 ---
@@ -82,6 +82,7 @@ Work through these in order:
 - Choosing between the two V7 builds? Compare [AirPods Pro 3 V7 Huilian vs V7 TB](/articles/airpods-pro-3-v7-huilian-vs-v7-tb).
 - Using your replicas on a Mac? Huilian models are the guide's pick; see [Do Fake AirPods Work With Mac?](/articles/fake-airpods-on-mac)
 - All app downloads in one place: [Useful Apps](/useful-apps).
+- Looking to buy a Huilian replica? Take the [1-minute quiz](/quiz) or check the [AirPods Pro seller links](/links/pro).
 
 ## Ask the community
 

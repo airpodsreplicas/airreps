@@ -1,3 +1,5 @@
+/* biome-ignore-all lint/suspicious/noBitwiseOperators: PNG CRC32 and 6-bit RGB bucket packing require bitwise math */
+import { deflateSync } from 'node:zlib';
 import { Resvg } from '@resvg/resvg-js';
 import fs from 'fs-extra';
 import matter from 'gray-matter';
@@ -11,6 +13,238 @@ const height = 630;
 const docsDir = path.resolve('docs');
 const outDir = path.resolve('docs/public/og');
 const logoPath = path.resolve('docs/public/logo.png');
+
+// Redirect-only product generation pages folded into /version-info/{airpods,pro}
+// and /links/{airpods,pro} (mirrors docs/.vitepress/product-routes.ts). These
+// pages return `noindex, follow` + meta refresh without emitting og:image, so
+// generating 108 unused PNGs for them only bloats the GitHub Pages artifact.
+const REDIRECT_GENERATION_MODELS = new Set([
+    'airpods-2',
+    'airpods-3',
+    'airpods-4',
+    'airpods-5',
+    'airpods-pro',
+    'airpods-pro-2',
+    'airpods-pro-3',
+]);
+const REDIRECT_GENERATION_RE = /^(?:[a-z]{2}\/)?(?:version-info|links)\/(?<model>[^/]+)$/u;
+
+function isRedirectGenerationPage(relPath) {
+    const normalized = relPath.split(path.sep).join('/');
+    const match = normalized.match(REDIRECT_GENERATION_RE);
+    return Boolean(match?.groups && REDIRECT_GENERATION_MODELS.has(match.groups.model));
+}
+
+// --- Zero-dependency 8-bit indexed PNG encoder -----------------------------
+// Resvg.asPng() writes uncompressed-ish 32-bit RGBA (~188 KB per OG card due
+// to the smooth radial gradient). Quantizing opaque 1200x630 cards to a
+// 256-color median-cut palette (6-bit RGB histogram + luminance-sorted PLTE +
+// deflate level 9) cuts each PNG to ~40-55 KB (~75% smaller) with sharp text
+// and smooth gradients, while keeping identical .png URLs and zero extra deps.
+const CRC_TABLE = new Uint32Array(256);
+for (let i = 0; i < 256; i += 1) {
+    let c = i;
+    for (let k = 0; k < 8; k += 1) {
+        c = c & 1 ? 0xed_b8_83_20 ^ (c >>> 1) : c >>> 1;
+    }
+    CRC_TABLE[i] = c >>> 0;
+}
+
+function crc32(buf) {
+    let c = 0xff_ff_ff_ff;
+    for (const byte of buf) {
+        c = CRC_TABLE[(c ^ byte) & 0xff] ^ (c >>> 8);
+    }
+    return (c ^ 0xff_ff_ff_ff) >>> 0;
+}
+
+function pngChunk(type, data) {
+    const typeBuf = Buffer.from(type, 'ascii');
+    const lenBuf = Buffer.alloc(4);
+    lenBuf.writeUInt32BE(data.length, 0);
+    const crcInput = Buffer.concat([typeBuf, data]);
+    const crcBuf = Buffer.alloc(4);
+    crcBuf.writeUInt32BE(crc32(crcInput), 0);
+    return Buffer.concat([lenBuf, crcInput, crcBuf]);
+}
+
+// Ordered 4x4 Bayer matrix normalized to [-0.5, +0.5] to break up subtle
+// 6-bit gradient bands without introducing noisy speckle.
+const BAYER_4X4 = [
+    [0, 8, 2, 10],
+    [12, 4, 14, 6],
+    [3, 11, 1, 9],
+    [15, 7, 13, 5],
+].map((row) => row.map((v) => (v + 0.5) / 16 - 0.5));
+
+function encodeIndexedPng(rgba, imgWidth, imgHeight) {
+    const pixelCount = imgWidth * imgHeight;
+    // 6-bit per channel histogram: 64 * 64 * 64 = 262,144 buckets.
+    const BUCKETS = 1 << 18;
+    const counts = new Uint32Array(BUCKETS);
+    const sumR = new Float64Array(BUCKETS);
+    const sumG = new Float64Array(BUCKETS);
+    const sumB = new Float64Array(BUCKETS);
+
+    // Pre-pass: fill histogram and record per-pixel 6-bit bucket key.
+    const pixelKeys = new Uint32Array(pixelCount);
+    for (let y = 0; y < imgHeight; y += 1) {
+        const bayerRow = BAYER_4X4[y & 3];
+        const rowOff = y * imgWidth;
+        for (let x = 0; x < imgWidth; x += 1) {
+            const p = rowOff + x;
+            const i = p * 4;
+            const d = bayerRow[x & 3] * 4;
+            const r = Math.min(255, Math.max(0, Math.round(rgba[i] + d)));
+            const g = Math.min(255, Math.max(0, Math.round(rgba[i + 1] + d)));
+            const b = Math.min(255, Math.max(0, Math.round(rgba[i + 2] + d)));
+            const key = ((r >> 2) << 12) | ((g >> 2) << 6) | (b >> 2);
+            pixelKeys[p] = key;
+            counts[key] += 1;
+            sumR[key] += rgba[i];
+            sumG[key] += rgba[i + 1];
+            sumB[key] += rgba[i + 2];
+        }
+    }
+
+    const entries = [];
+    for (let key = 0; key < BUCKETS; key += 1) {
+        const count = counts[key];
+        if (count > 0) {
+            entries.push({
+                b: sumB[key] / count,
+                count,
+                g: sumG[key] / count,
+                key,
+                r: sumR[key] / count,
+            });
+        }
+    }
+
+    const makeBox = (items) => {
+        let minR = 255;
+        let maxR = 0;
+        let minG = 255;
+        let maxG = 0;
+        let minB = 255;
+        let maxB = 0;
+        for (const item of items) {
+            if (item.r < minR) {
+                minR = item.r;
+            }
+            if (item.r > maxR) {
+                maxR = item.r;
+            }
+            if (item.g < minG) {
+                minG = item.g;
+            }
+            if (item.g > maxG) {
+                maxG = item.g;
+            }
+            if (item.b < minB) {
+                minB = item.b;
+            }
+            if (item.b > maxB) {
+                maxB = item.b;
+            }
+        }
+        const rangeR = maxR - minR;
+        const rangeG = maxG - minG;
+        const rangeB = maxB - minB;
+        const maxRange = Math.max(rangeR, rangeG, rangeB);
+        const channel = maxRange === rangeR ? 'r' : maxRange === rangeG ? 'g' : 'b';
+        return { channel, items, priority: maxRange };
+    };
+
+    const boxes = [makeBox(entries)];
+    while (boxes.length < 256) {
+        let bestIdx = -1;
+        let bestPriority = 0;
+        for (let i = 0; i < boxes.length; i += 1) {
+            if (boxes[i].items.length > 1 && boxes[i].priority > bestPriority) {
+                bestPriority = boxes[i].priority;
+                bestIdx = i;
+            }
+        }
+        if (bestIdx === -1) {
+            break;
+        }
+        const [box] = boxes.splice(bestIdx, 1);
+        const ch = box.channel;
+        box.items.sort((a, b) => a[ch] - b[ch]);
+        const split = Math.floor(box.items.length / 2);
+        boxes.push(makeBox(box.items.slice(0, split)), makeBox(box.items.slice(split)));
+    }
+
+    // Compute exact weighted average RGB per box and sort by luminance.
+    const palette = boxes.map((box) => {
+        let r = 0;
+        let g = 0;
+        let b = 0;
+        let total = 0;
+        for (const item of box.items) {
+            r += item.r * item.count;
+            g += item.g * item.count;
+            b += item.b * item.count;
+            total += item.count;
+        }
+        const avgR = Math.round(r / total);
+        const avgG = Math.round(g / total);
+        const avgB = Math.round(b / total);
+        return {
+            b: avgB,
+            g: avgG,
+            items: box.items,
+            luma: 0.2126 * avgR + 0.7152 * avgG + 0.0722 * avgB,
+            r: avgR,
+        };
+    });
+    palette.sort((a, b) => a.luma - b.luma);
+
+    // Direct O(1) LUT from every populated 6-bit RGB bucket to its palette index.
+    const lut = new Uint8Array(BUCKETS);
+    const plte = Buffer.alloc(palette.length * 3);
+    for (let idx = 0; idx < palette.length; idx += 1) {
+        const entry = palette[idx];
+        plte[idx * 3] = entry.r;
+        plte[idx * 3 + 1] = entry.g;
+        plte[idx * 3 + 2] = entry.b;
+        for (const item of entry.items) {
+            lut[item.key] = idx;
+        }
+    }
+
+    // Build raw scanlines with filter byte 0 (None) — optimal for indexed PNG8.
+    const stride = imgWidth + 1;
+    const raw = Buffer.allocUnsafe(stride * imgHeight);
+    for (let y = 0; y < imgHeight; y += 1) {
+        const dstRow = y * stride;
+        const srcRow = y * imgWidth;
+        raw[dstRow] = 0;
+        for (let x = 0; x < imgWidth; x += 1) {
+            raw[dstRow + 1 + x] = lut[pixelKeys[srcRow + x]];
+        }
+    }
+
+    const ihdr = Buffer.alloc(13);
+    ihdr.writeUInt32BE(imgWidth, 0);
+    ihdr.writeUInt32BE(imgHeight, 4);
+    ihdr[8] = 8; // bit depth
+    ihdr[9] = 3; // indexed color (PLTE)
+    ihdr[10] = 0; // compression
+    ihdr[11] = 0; // filter
+    ihdr[12] = 0; // interlace
+
+    const idat = deflateSync(raw, { level: 9 });
+    const signature = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
+    return Buffer.concat([
+        signature,
+        pngChunk('IHDR', ihdr),
+        pngChunk('PLTE', plte),
+        pngChunk('IDAT', idat),
+        pngChunk('IEND', Buffer.alloc(0)),
+    ]);
+}
 
 // Ensure output directory exists
 fs.ensureDirSync(outDir);
@@ -79,11 +313,11 @@ try {
 function unescapeTextNodes(node) {
     if (typeof node === 'string') {
         return node
-            .replace(/&lt;/g, '<')
-            .replace(/&gt;/g, '>')
-            .replace(/&quot;/g, '"')
-            .replace(/&#0?39;/g, "'")
-            .replace(/&amp;/g, '&');
+            .replace(/&lt;/gu, '<')
+            .replace(/&gt;/gu, '>')
+            .replace(/&quot;/gu, '"')
+            .replace(/&#0?39;/gu, "'")
+            .replace(/&amp;/gu, '&');
     }
     if (Array.isArray(node)) {
         return node.map(unescapeTextNodes);
@@ -208,11 +442,10 @@ async function generateOgImage(title, description, outFile, label = 'GUIDE') {
     });
 
     const resvg = new Resvg(svg);
-    const pngData = resvg.render();
-    const pngBuffer = pngData.asPng();
+    const rendered = resvg.render();
+    const pngBuffer = encodeIndexedPng(rendered.pixels, rendered.width, rendered.height);
 
     fs.writeFileSync(outFile, pngBuffer);
-    console.log(`Generated: ${path.basename(outFile)} `);
 }
 
 async function main() {
@@ -238,9 +471,22 @@ async function main() {
     };
 
     const files = getAllFiles(docsDir);
+    const CONCURRENCY = 8;
+    let cursor = 0;
+    let generated = 0;
+    let skippedRedirects = 0;
 
-    await Promise.all(
-        files.map(async (file) => {
+    const worker = async () => {
+        while (cursor < files.length) {
+            const file = files[cursor];
+            cursor += 1;
+
+            const relPath = path.relative(docsDir, file).replace(/\.md$/u, '');
+            if (isRedirectGenerationPage(relPath)) {
+                skippedRedirects += 1;
+                continue;
+            }
+
             const content = fs.readFileSync(file, 'utf-8');
             const { data, content: markdownBody } = matter(content);
 
@@ -248,46 +494,42 @@ async function main() {
 
             // If title is missing in frontmatter, try to find the first H1
             if (!title) {
-                const h1Match = markdownBody.match(/^#\s+(.*$)/m);
-                if (h1Match) {
-                    const [, h1Title] = h1Match;
-                    title = h1Title;
+                const h1Match = markdownBody.match(/^#\s+(?<heading>.*$)/mu);
+                if (h1Match?.groups) {
+                    title = h1Match.groups.heading;
                 }
             }
 
             if (!title) {
-                return; // Skip files without title
+                continue; // Skip files without title
             }
 
             // Clean title (remove markdown like ** **)
             title = title
-                .replace(/\*\*/g, '')
-                .replace(/__/g, '')
-                .replace(/\*/g, '')
-                .replace(/_/g, '');
+                .replace(/\*\*/gu, '')
+                .replace(/__/gu, '')
+                .replace(/\*/gu, '')
+                .replace(/_/gu, '');
 
             // Decode simple HTML entities in title
             title = title
-                .replace(/&amp;/g, '&')
-                .replace(/&lt;/g, '<')
-                .replace(/&gt;/g, '>')
-                .replace(/&quot;/g, '"')
-                .replace(/&#39;/g, "'");
-
-            // Calculate relative path for filename
-            // e.g. docs/introduction/overview.md -> introduction/overview
-            // e.g. docs/es/introduction/overview.md -> es/introduction/overview
-            const relPath = path.relative(docsDir, file).replace(/\.md$/, '');
+                .replace(/&amp;/gu, '&')
+                .replace(/&lt;/gu, '<')
+                .replace(/&gt;/gu, '>')
+                .replace(/&quot;/gu, '"')
+                .replace(/&#39;/gu, "'");
 
             const outFilePath = path.join(outDir, `${relPath}.png`);
             fs.ensureDirSync(path.dirname(outFilePath));
 
             // Description is now manually shortened in frontmatter
             const description = data.description || '';
-
             const label = data.ogLabel || 'GUIDE';
+
             try {
+                // biome-ignore lint/performance/noAwaitInLoops: bounded concurrency worker pool
                 await generateOgImage(title, description, outFilePath, label);
+                generated += 1;
             } catch (err) {
                 // Keep going so one bad page doesn't hide errors in the rest,
                 // but fail the build — a silent partial run would deploy pages
@@ -295,7 +537,12 @@ async function main() {
                 console.error(`[generate-og] Failed for ${relPath}: ${err.message}`);
                 process.exitCode = 1;
             }
-        })
+        }
+    };
+
+    await Promise.all(Array.from({ length: CONCURRENCY }, () => worker()));
+    console.log(
+        `[generate-og] Generated ${generated} PNG8 OG images (skipped ${skippedRedirects} redirect-only pages).`
     );
 }
 

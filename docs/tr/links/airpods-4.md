@@ -11,12 +11,14 @@ AirPods 4 replikalar açık kulak tasarımı sunar, daha üst versiyonlarda ANC 
 <table>
   <tr>
     <th>Versiyon</th>
+    <th>Fiyat</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
    <tr>
-    <td><span class="version-badge">V3 TB</span></td>
+    <td><span class="version-badge">V3 TB</span><br>En iyi AirPods 4</td>
+    <td style="white-space: nowrap;">$52–53</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Web sitesi</a>
@@ -40,6 +42,7 @@ AirPods 4 replikalar açık kulak tasarımı sunar, daha üst versiyonlarda ANC 
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>
+    <td style="white-space: nowrap;">$29–30</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Web sitesi</a>
@@ -62,7 +65,8 @@ AirPods 4 replikalar açık kulak tasarımı sunar, daha üst versiyonlarda ANC 
     </td>
   </tr>
     <tr>
-    <td><span class="version-badge">V2 Huilian</span></td>
+    <td><span class="version-badge">V2 Huilian</span><br>iCloud seçimi</td>
+    <td style="white-space: nowrap;">$39–42</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Web sitesi</a>

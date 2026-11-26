@@ -20,8 +20,16 @@ const ORIGIN = 'https://airpodsreplicas.com';
 
 // docs/public files that are submitted by URL when they change.
 export const PUBLIC_FILE_URLS: Record<string, string> = {
+    'docs/public/da/llms.txt': `${ORIGIN}/da/llms.txt`,
+    'docs/public/de/llms.txt': `${ORIGIN}/de/llms.txt`,
+    'docs/public/es/llms.txt': `${ORIGIN}/es/llms.txt`,
+    'docs/public/fr/llms.txt': `${ORIGIN}/fr/llms.txt`,
     'docs/public/llms-full.txt': `${ORIGIN}/llms-full.txt`,
     'docs/public/llms.txt': `${ORIGIN}/llms.txt`,
+    'docs/public/pl/llms.txt': `${ORIGIN}/pl/llms.txt`,
+    'docs/public/pt/llms.txt': `${ORIGIN}/pt/llms.txt`,
+    'docs/public/ru/llms.txt': `${ORIGIN}/ru/llms.txt`,
+    'docs/public/tr/llms.txt': `${ORIGIN}/tr/llms.txt`,
 };
 
 // Markdown files VitePress builds into pages (repo-relative paths).

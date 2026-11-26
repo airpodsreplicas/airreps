@@ -6,7 +6,7 @@ description: 'Beheben Sie das macOS-Problem mit dem Lautstärkeregler auf Intel-
 
 Dies ist eines der bekanntesten Probleme der **Intel**-Version von macOS: Der Lautstärkeregler-Slider, der die Audiolautstärke steuert, funktioniert einfach nicht und verhält sich nur wie ein Schalter (es betrifft die meisten Replikate, einige bleiben jedoch unberührt). Da Apple dem Problem selbst nie nachgehen würde, können wir es mit einem [Open-Source-Tool](https://github.com/briankendall/proxy-audio-device) umgehen.
 
-:::warning
+::: warning
 Diese Anleitung ist für diejenigen gedacht, die Intel-basierte Macs haben (i3, i5, i7; nicht M‑Serie). Wenn dein Apple Silicon (M‑Series) Mac mit deinen aktuellen AirReps keinen Ton wiedergibt, sieh dir den Abschnitt [Häufige Fehler](/de/troubleshooting/other-common-bugs) an.
 :::
 
@@ -28,7 +28,7 @@ Wenn du `brew` noch nicht installiert hast, fangen wir hier an. Öffne diese Sei
 
 <video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation using Terminal"></video>
 
-:::warning
+::: warning
 Du wirst möglicherweise aufgefordert, dein Passwort einzugeben. Gib dein Passwort wie gewohnt ein (es sieht so aus, als wäre es verborgen, ist es in diesem Fall aber nicht).
 :::
 
@@ -71,15 +71,15 @@ Bitte nicht das Tutorial wegklicken — die meisten Anwender können es so einri
 ## **Nebenwirkungen**
 
 Obwohl die Lösung meist unproblematisch ist, können einige Nutzer auf folgende Probleme stoßen:
-:::details Kein "Sounds"-Symbol in der oberen Leiste
+::: details Kein "Sounds"-Symbol in der oberen Leiste
 Leider musst du das Control Center öffnen, um die Lautstärke zu regeln (oder eine Tastenkombination verwenden).
 :::
 
-:::details Kein Ton nach Trennung
+::: details Kein Ton nach Trennung
 Die App ist so ausgelegt, dass sie immer auf das gewählte Gerät zugreift. Du musst manuell wieder "Internal Speaker" auswählen.
 :::
 
-:::details Knistern/Pop-Geräusche oder einseitiger Ton
+::: details Knistern/Pop-Geräusche oder einseitiger Ton
 Das Problem lässt sich umgehen, indem du die Puffergröße erhöhst oder in der Option `Proxy device is active` der App `Always` wählst.
 :::
 

@@ -11,12 +11,14 @@ Las réplicas de AirPods Max son la opción circumaural, con modelos que van des
 <table>
   <tr>
     <th>Versión</th>
+    <th>Precio</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V3 (Metal)</span><br>Se vende como Max V3 TB</td>
+    <td><span class="version-badge">V3 (Metal)</span><br>Mejor Max · Se vende como Max V3 TB</td>
+    <td style="white-space: nowrap;">$126–127</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Sitio web</a>
@@ -40,6 +42,7 @@ Las réplicas de AirPods Max son la opción circumaural, con modelos que van des
   </tr>
   <tr>
     <td><span class="version-badge">V3P</span></td>
+    <td style="white-space: nowrap;">$85–94</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Sitio web</a>
@@ -58,6 +61,7 @@ Las réplicas de AirPods Max son la opción circumaural, con modelos que van des
   </tr>
   <tr>
     <td><span class="version-badge">V2.5</span></td>
+    <td style="white-space: nowrap;">$124</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Sitio web</a>
@@ -70,6 +74,7 @@ Las réplicas de AirPods Max son la opción circumaural, con modelos que van des
   </tr>
   <tr>
     <td><span class="version-badge">V2 Metal</span></td>
+    <td style="white-space: nowrap;">$110–112</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Sitio web</a>

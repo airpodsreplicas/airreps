@@ -95,7 +95,7 @@ Die Angaben zur TB stammen von den Verkäufern, und die Laufzeit der Huilian ist
 - du zwischen bis zu 3 Geräten wechselst, darunter auch Geräte, die nicht von Apple sind.
 - du dich mit FlyCC wohlfühlst und kein Problem damit hast, Popup und Seriennummer nach einem Update erneut hinzuzufügen.
 
-<span class="pick-buy">Kaufe die V7 TB bei [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
+<span class="pick-buy">Kaufe die V7 TB bei [Earhive](https://airreps.link/eprov7tb) [HiCity](https://airreps.link/hcprov7tb) [Jenny](https://airreps.link/jprov7tb)</span>
 
 ### Oder verzichte auf die V7: die Pro 3 SE
 

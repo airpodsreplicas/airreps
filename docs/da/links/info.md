@@ -39,10 +39,10 @@ Priserne varierer efter model og version og ændrer sig over tid, men som en vej
 |-------|---------------------|
 | AirPods 2 | ~$26 |
 | AirPods 3 | Føres i øjeblikket ikke af pålidelige sælgere |
-| AirPods 4 | ~$29–52 |
-| AirPods Pro 2 | ~$50–58 |
+| AirPods 4 | ~$29–53 |
+| AirPods Pro 2 | ~$22–58 (V5.2+ $49–58) |
 | AirPods Pro 3 | ~$27–68 |
-| AirPods Max | ~$93–126 |
+| AirPods Max | ~$85–127 |
 
 Inden for hver model koster en højere versionsbetegnelse som regel mere og giver flere funktioner. Tag [quizzen](/da/quiz) for at få et personligt forslag, eller åbn en models linkside ovenfor for at se de præcise muligheder for hver version. Stramt budget? Vores oversigt over de [bedste AirPods-kopier til under $50](/da/articles/best-airpods-replicas-under-50) sammenligner de billige muligheder.
 
@@ -65,10 +65,9 @@ Alle pålidelige sælgere accepterer flere betalingsmetoder for at gøre det nem
 | **PayPal** | ⚠️ Nogle gange | ⚠️ Nogle gange | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ❌ | ❌ | ❌ |
-| [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
+| [**Cash App (Lightning)**](https://cash.app/bitcoin) | ✅ | ✅ | ✅ |
 | **Bitcoin / krypto** | ✅ | ✅ | ✅ |
-| **Bankoverførsel** | ✅ | ❌ | ✅ |
+| **Bankoverførsel** | ✅ | ❌ | ⚠️ Kun UK |
 | **Weidian (via agent)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -78,7 +77,7 @@ Alle pålidelige sælgere accepterer flere betalingsmetoder for at gøre det nem
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Hver sælgers aktiverede betalingsløsninger blev senest kontrolleret den 18. november 2026. Sælgerens betalingsside er den autoritative kilde, og den aktuelle tilgængelighed kan variere efter land eller ordre.
+Hver sælgers aktiverede betalingsløsninger blev senest kontrolleret den 26. november 2026. Sælgerens betalingsside er den autoritative kilde, og den aktuelle tilgængelighed kan variere efter land eller ordre. Revolut vises til faktureringsadresser i EU/EØS og Storbritannien, og Jennys bankoverførsel gælder kun i Storbritannien.
 
 HiCitys Alipay-betalinger går direkte til sælgeren og bekræftes manuelt, så din ordre afventer, indtil sælgeren har tjekket betalingen. Hos Earhive og Jenny bekræftes Alipay-betalinger automatisk.
 
@@ -97,7 +96,7 @@ Ved bestilling fra Weidian skal du bruge en agent. Vi anbefaler [KakoBuy](https:
 ## Ofte stillede spørgsmål
 
 ::: details Får jeg en enhed af god kvalitet?
-Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere, selv mellem enheder fra samme sælger. Sælgerne, der nævnes i den oprindelige tekst, er dog generelt kendt for at tilbyde produkter af god kvalitet.
+Det er ikke muligt at garantere kvaliteten af en enhed, da den kan variere, selv mellem enheder fra samme sælger. Pålidelige sælgere er dog generelt kendt for at tilbyde produkter af god kvalitet.
 :::
 
 ::: details Hvordan kontakter jeg sælgerne?

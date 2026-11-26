@@ -4,82 +4,89 @@
 
 AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs the AirReps Discord (73k+ members as of November 2026) and the r/AirReps subreddit (73k+ members); see https://airpodsreplicas.com/community.
 
-Last updated: 2026-11-18
+Full single-file reference for LLMs: https://airpodsreplicas.com/llms-full.txt
+
+Last updated: 2026-11-26
 
 ## Guide
 
-- [Ultimate Guide Overview](https://airpodsreplicas.com/introduction/overview): Start here. Covers what replica AirPods are, why people buy them, and what to expect.
-- [Features](https://airpodsreplicas.com/introduction/features): ANC, Spatial Audio, in-ear detection, tap controls, iCloud Connect, and microphone quality.
-- [Sound Quality](https://airpodsreplicas.com/introduction/sound-quality): How replica AirPods sound compared to originals.
-- [Build Quality](https://airpodsreplicas.com/introduction/build-quality): Materials, weight, hinge quality, and case compatibility.
-- [Battery Life](https://airpodsreplicas.com/introduction/battery-life): Expected battery life across models.
-- [Connectivity](https://airpodsreplicas.com/introduction/connectivity): iOS popup, macOS issues, range, latency, multi-device support.
-- [ANC Explained](https://airpodsreplicas.com/introduction/anc-explained): How Active Noise Cancelling works on replicas.
-- [Packaging](https://airpodsreplicas.com/introduction/packaging): What to expect with packaging and box options.
-- [Sellers](https://airpodsreplicas.com/introduction/sellers): Verified vs. unverified sellers and how to avoid scams.
-- [Dictionary](https://airpodsreplicas.com/introduction/dictionary): Glossary of terms used in the replica AirPods community.
+- [Ultimate Guide Overview](https://airpodsreplicas.com/introduction/overview): Start here. Covers what replica AirPods are, why people buy them, current top picks, and what to expect.
+- [Features](https://airpodsreplicas.com/introduction/features): ANC, Spatial Audio, in-ear detection, tap controls, iCloud Connect (5 Huilian models), Live Translation, and microphone quality.
+- [Sound Quality](https://airpodsreplicas.com/introduction/sound-quality): How replica AirPods sound compared to originals and how to tune EQ in FlyCC, StarFun, and BullSuper.
+- [Build Quality](https://airpodsreplicas.com/introduction/build-quality): Materials, weight, hinge quality, laser engraving, and case compatibility.
+- [Battery Life](https://airpodsreplicas.com/introduction/battery-life): Expected battery life (5–8 hours per charge on current models) and charging safety.
+- [Connectivity](https://airpodsreplicas.com/introduction/connectivity): iOS popup, macOS compatibility (Huilian recommended), range, latency, multipoint, and iCloud Connect.
+- [ANC Explained](https://airpodsreplicas.com/introduction/anc-explained): How feedback, feedforward, and hybrid Active Noise Cancelling work on replicas.
+- [Packaging](https://airpodsreplicas.com/introduction/packaging): No-Logo box, Apple Logo box, and Double/Decoy box options for lower customs risk.
+- [Sellers](https://airpodsreplicas.com/introduction/sellers): Verified sellers (Earhive, HiCity, Jenny) vs. unverified marketplaces and how to avoid scams.
+- [Dictionary](https://airpodsreplicas.com/introduction/dictionary): Glossary of terms used in the replica AirPods community (W2C, QC, LC, GP, Agent, Markings).
 
 ## Version Comparisons
 
-- [General Version Info](https://airpodsreplicas.com/version-info/general): Overview of all versions, chipsets, and how to identify what you have.
-- [AirPods Pro 3](https://airpodsreplicas.com/version-info/pro#airpods-pro-3): Latest model with Live Translation and iCloud Connect.
-- [AirPods Pro 2](https://airpodsreplicas.com/version-info/pro#airpods-pro-2): Versions and chipsets compared. For a recommendation, take the [quiz](https://airpodsreplicas.com/quiz) or read [AirPods Pro 2 vs AirPods Pro 3](https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3).
-- [AirPods Pro](https://airpodsreplicas.com/version-info/pro#airpods-pro): First-gen Pro replicas.
-- [AirPods 4](https://airpodsreplicas.com/version-info/airpods#airpods-4): Open-ear design with ANC.
-- [AirPods 3](https://airpodsreplicas.com/version-info/airpods#airpods-3): Third-gen standard model.
-- [AirPods 2](https://airpodsreplicas.com/version-info/airpods#airpods-2): Budget entry-level replicas.
-- [AirPods Max](https://airpodsreplicas.com/version-info/airpods-max): Over-ear headphone replicas.
+- [General Version Info](https://airpodsreplicas.com/version-info/general): Overview of all versions, chipsets, missing features, and how to identify what you have.
+- [AirPods Pro 3](https://airpodsreplicas.com/version-info/pro#airpods-pro-3): V7 Huilian (main all-round pick, iCloud Connect, Live Translation, heart rate, head gestures), V7 TB (Airoha 1571AM, best ANC, 3-device multipoint, FlyCC), SE ($48 Jenny-exclusive, best value under $50 with strong ANC for the price), V6, and V5.5.
+- [AirPods Pro 2](https://airpodsreplicas.com/version-info/pro#airpods-pro-2): V5.3 TB (best Pro 2, 34.5 dB avg / 41 dB peak ANC), V5.4 Huilian (iCloud Connect), V5.3 Huilian, V5.3 Lite, and V5.2 TB. For a tailored pick, take the [quiz](https://airpodsreplicas.com/quiz) or read [AirPods Pro 2 vs AirPods Pro 3](https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3).
+- [AirPods Pro](https://airpodsreplicas.com/version-info/pro#airpods-pro): First-gen Pro replicas (discontinued by trusted sellers).
+- [AirPods 4](https://airpodsreplicas.com/version-info/airpods#airpods-4): Open-ear design with ANC — V3 TB ($52–53, Airoha 1571AM), V2 Huilian ($39–42, iCloud Connect), and V2 TB ($29–30).
+- [AirPods 3](https://airpodsreplicas.com/version-info/airpods#airpods-3): Third-gen standard model (not currently stocked; buy AirPods 4 instead).
+- [AirPods 2](https://airpodsreplicas.com/version-info/airpods#airpods-2): Budget entry-level replicas (V3E ~$26).
+- [AirPods Max](https://airpodsreplicas.com/version-info/airpods-max): Over-ear replicas — V3 Metal / Max V3 TB ($126–127, Airoha 1562AE, aluminum cups, 2-device multipoint) and V3P ($85–94, plastic-steel, Airoha 1561M).
 
 ## Buying
 
-- [How to Buy](https://airpodsreplicas.com/ordering/how-to-buy): Step-by-step ordering guide, payment methods, and tips.
-- [KakoBuy Guide](https://airpodsreplicas.com/ordering/kakobuy): How to order through the KakoBuy agent — accepted payment methods, QC photos, and consolidated shipping.
-- [Purchase Links](https://airpodsreplicas.com/links/info): Directory of trusted sellers, typical prices, and the full payment-method comparison.
-- [AirPods Pro 2 Links](https://airpodsreplicas.com/links/pro#airpods-pro-2): Per-version purchase links for AirPods Pro 2 replicas from all trusted sellers.
-- [AirPods Pro 3 Links](https://airpodsreplicas.com/links/pro#airpods-pro-3): Per-version purchase links for AirPods Pro 3 replicas.
-- [AirPods Pro Links](https://airpodsreplicas.com/links/pro#airpods-pro): First-gen AirPods Pro replicas are no longer stocked by trusted sellers — buy AirPods Pro 2 or Pro 3 instead.
-- [AirPods 4 Links](https://airpodsreplicas.com/links/airpods#airpods-4): Per-version purchase links for AirPods 4 replicas.
-- [AirPods 3 Links](https://airpodsreplicas.com/links/airpods#airpods-3): AirPods 3 replicas are not currently listed by trusted sellers; the page points to AirPods 4 instead.
-- [AirPods 2 Links](https://airpodsreplicas.com/links/airpods#airpods-2): Per-version purchase links for AirPods 2 replicas.
-- [AirPods Max Links](https://airpodsreplicas.com/links/airpods-max): Per-version purchase links for AirPods Max replicas.
-- [Quality Control & Legit Check](https://airpodsreplicas.com/ordering/qc-lc): How to verify your product after purchase.
+- [How to Buy](https://airpodsreplicas.com/ordering/how-to-buy): Step-by-step ordering guide, payment methods, box choice, and tips.
+- [KakoBuy Guide](https://airpodsreplicas.com/ordering/kakobuy): How to order through the KakoBuy agent — credit/debit card & PayPal without KYC, QC photos, and consolidated shipping.
+- [Purchase Links](https://airpodsreplicas.com/links/info): Directory of trusted sellers (Earhive, HiCity, Jenny), typical prices, and full payment-method comparison.
+- [AirPods Pro 3 Links](https://airpodsreplicas.com/links/pro#airpods-pro-3): Per-version website, Weidian/KakoBuy, and Alibaba links for AirPods Pro 3 replicas (including V7 TB on all 3 Weidian stores).
+- [AirPods Pro 2 Links](https://airpodsreplicas.com/links/pro#airpods-pro-2): Per-version purchase links for AirPods Pro 2 replicas (V5.4 Huilian, V5.3 TB, V5.3 Huilian, V5.3 Lite, V5.2 TB, V4.2).
+- [AirPods Pro Links](https://airpodsreplicas.com/links/pro#airpods-pro): First-gen AirPods Pro replicas are no longer stocked — buy AirPods Pro 2 or Pro 3 instead.
+- [AirPods 4 Links](https://airpodsreplicas.com/links/airpods#airpods-4): Per-version purchase links for AirPods 4 replicas (V3 TB, V2 Huilian, V2 TB).
+- [AirPods 3 Links](https://airpodsreplicas.com/links/airpods#airpods-3): AirPods 3 replicas are not currently listed by trusted sellers — points to AirPods 4 instead.
+- [AirPods 2 Links](https://airpodsreplicas.com/links/airpods#airpods-2): Per-version purchase links for AirPods 2 replicas (V3E).
+- [AirPods Max Links](https://airpodsreplicas.com/links/airpods-max): Per-version purchase links for AirPods Max replicas (V3 TB Metal, V3P, V2.5, V2 Metal).
+- [Quality Control & Legit Check](https://airpodsreplicas.com/ordering/qc-lc): How to inspect replica quality or verify authentic AirPods after purchase.
 
 ## Articles
 
-- [How to Tell if AirPods Are Fake](https://airpodsreplicas.com/articles/how-to-spot-fake-airpods): 10 checks that catch fake AirPods — serial numbers, firmware, packaging, chip-detection apps, and price sanity.
-- [Best AirPods Replicas Under $50](https://airpodsreplicas.com/articles/best-airpods-replicas-under-50): The budget picks worth buying at each price point, with typical trusted-seller prices and what you give up.
+- [Best AirPods Replicas (2026)](https://airpodsreplicas.com/articles/best-airpods-replicas): Top community-verified picks across every model and budget — Pro 3 V7 Huilian, V7 TB, SE, Pro 2 V5.3 TB, AirPods 4 V3 TB, and Max V3 TB.
+- [AirPods 4 Replicas: V3 TB vs V2 Huilian vs V2 TB](https://airpodsreplicas.com/articles/airpods-4-v3-vs-v2): Side-by-side comparison of every stocked AirPods 4 replica by open-ear ANC, iCloud Connect, spatial audio, and price.
+- [AirPods Pro 3 V7 Huilian vs V7 TB](https://airpodsreplicas.com/articles/airpods-pro-3-v7-huilian-vs-v7-tb): Same price ($67–68), ANC and sensors, but iCloud Connect, Live Translation and StarFun on Huilian vs 3-device multipoint and FlyCC (with firmware popup caveat) on TB.
+- [Do Fake AirPods Work With Find My?](https://airpodsreplicas.com/articles/do-fake-airpods-work-with-find-my): No replica at any price works with Apple's encrypted Find My network, and firmware updates can't add it — what works instead and how Find My spots fakes.
+- [StarFun APK Guide](https://airpodsreplicas.com/articles/starfun-app-guide): Android APK and iOS App Store companion app for Huilian replicas (Pro 3 V7/V6 Huilian, Pro 2 V5.4/V5.3 Huilian, AirPods 4 V2 Huilian) — EQ tuning and safe firmware updates.
+- [How to Tell if AirPods Are Fake](https://airpodsreplicas.com/articles/how-to-spot-fake-airpods): 10 checks that catch fake AirPods — Find My, serial numbers, firmware, packaging, chip-detection apps, and price sanity.
+- [Best AirPods Replicas Under $50](https://airpodsreplicas.com/articles/best-airpods-replicas-under-50): The budget picks worth buying at each price point ($26–$48, plus the $56 V5.3 TB stretch pick) and what you give up.
 - [Replica AirPods vs Real AirPods](https://airpodsreplicas.com/articles/airpods-replicas-vs-real): Honest feature-by-feature comparison — what works on replicas, what's permanently missing, and who should buy which.
-- [AirPods Replicas on Android](https://airpodsreplicas.com/articles/airpods-replicas-on-android): How replicas behave on Android — pairing, what needs an iPhone, and why most firmware apps are Android-only.
-- [Are AirPods Replicas Safe?](https://airpodsreplicas.com/articles/are-airpods-replicas-safe): Separates the scam risk from the hardware risk. No medical claims — what the community actually checks before ordering.
+- [AirPods Replicas on Android](https://airpodsreplicas.com/articles/airpods-replicas-on-android): How replicas behave on Android — pairing, what needs an iPhone, and companion app support on Android and iOS.
+- [Are AirPods Replicas Safe?](https://airpodsreplicas.com/articles/are-airpods-replicas-safe): Separates scam risk from hardware risk — what the community checks before ordering.
 - [Can People Tell Your AirPods Are Fake?](https://airpodsreplicas.com/articles/can-people-tell-airpods-are-fake): What gives clones away under close inspection versus what nobody notices in daily use.
 - [Customs and VAT](https://airpodsreplicas.com/articles/airpods-replica-customs-and-vat): Real seizure risk, why box choice matters, EU VAT handled upfront by trusted sellers, and how tracking behaves.
-- [Fake AirPods Won't Connect](https://airpodsreplicas.com/articles/fake-airpods-wont-connect): Ordered diagnostic walkthrough — pairing, chip identification, macOS quirks, and when it's the unit.
+- [Fake AirPods Won't Connect](https://airpodsreplicas.com/articles/fake-airpods-wont-connect): Ordered diagnostic walkthrough — pairing, soft/hard resets, chip identification, macOS quirks, and when it's the unit.
 - [How to Reset Fake AirPods](https://airpodsreplicas.com/articles/how-to-reset-fake-airpods): Soft reset vs hard reset vs the case-button reset, and when a reset is the wrong fix.
-- [Fake AirPods vs Budget Earbuds](https://airpodsreplicas.com/articles/fake-airpods-vs-budget-earbuds): Replicas against Anker/Soundcore/EarFun/JLab — warranty, apps and legal exposure versus the AirPods experience.
-- [Do Fake AirPods Work With New iPhones?](https://airpodsreplicas.com/articles/do-fake-airpods-work-with-new-iphone): The popup still works; what varies is the version you buy, not the phone. iCloud Connect and Jieli caveats.
-- [AirPods Max Dupe](https://airpodsreplicas.com/articles/airpods-max-dupe): What the over-ear replica copies, what it gives up against retail, and whether it's worth it over the in-ear replicas.
-- [FlyCC APK Guide](https://airpodsreplicas.com/articles/flycc-app-guide): How to configure and tune Airoha-based AirPods replicas with FlyCC — custom EQ, force sensor sensitivity, and OTA updates.
-- [AirPods Pro 2 vs AirPods Pro 3 Replicas](https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3): Mature Pro 2 V5.3 TB & V5.4 Huilian vs newly released Pro 3 V7 & SE — noise cancelling stability, heart rate sensors, and purchasing verdict.
-- [AirPods Max V3 vs V3P](https://airpodsreplicas.com/articles/airpods-max-v3-vs-v3p): Genuine CNC aluminum ear cups vs plastic build — is the $33 upgrade justified for over-ear replica buyers.
-- [How to Update Fake AirPods Firmware](https://airpodsreplicas.com/articles/how-to-update-fake-airpods-firmware): Safe flashing walkthrough for FlyCC, CloudCC, and Starfun — pre-update safety checklist and brick prevention.
-- [Fake AirPods on Mac](https://airpodsreplicas.com/articles/fake-airpods-on-mac): How to use replicas on macOS — fixing the binary volume slider bug, iCloud switching behavior, and choosing Huilian silicon.
+- [Fake AirPods vs Budget Earbuds](https://airpodsreplicas.com/articles/fake-airpods-vs-budget-earbuds): Replicas against Anker/Soundcore/EarFun/JLab — warranty, apps, and legal exposure versus the AirPods experience.
+- [Do Fake AirPods Work With New iPhones?](https://airpodsreplicas.com/articles/do-fake-airpods-work-with-new-iphone): The popup still works across iOS 27; what varies is the version you buy, not the phone.
+- [AirPods Max Dupe](https://airpodsreplicas.com/articles/airpods-max-dupe): What the over-ear replica copies, what it gives up against retail, and whether it's worth it over in-ear replicas.
+- [FlyCC APK Guide](https://airpodsreplicas.com/articles/flycc-app-guide): How to configure and tune Airoha/TigerBuilder AirPods replicas with FlyCC (Android & iOS) — custom 10-band EQ, force sensor sensitivity, and OTA updates.
+- [AirPods Pro 2 vs AirPods Pro 3 Replicas](https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3): Mature Pro 2 V5.3 TB & V5.4 Huilian vs Pro 3 V7 Huilian, V7 TB & SE — noise cancelling, heart rate sensors, iCloud Connect, and purchasing verdict.
+- [AirPods Max V3 vs V3P](https://airpodsreplicas.com/articles/airpods-max-v3-vs-v3p): Genuine CNC aluminum ear cups (Airoha 1562AE) vs plastic-steel build (Airoha 1561M) — is the upgrade justified.
+- [How to Update Fake AirPods Firmware](https://airpodsreplicas.com/articles/how-to-update-fake-airpods-firmware): Safe flashing walkthrough for FlyCC (Airoha/TB) and StarFun (Huilian), with CloudCC as deprecated workaround — pre-update safety checklist and brick prevention.
+- [Fake AirPods on Mac](https://airpodsreplicas.com/articles/fake-airpods-on-mac): How to use replicas on macOS — fixing the Intel binary volume slider bug, iCloud switching behavior, and why Huilian silicon is recommended.
 
 ## Troubleshooting
 
-- [Common Bugs](https://airpodsreplicas.com/troubleshooting/other-common-bugs): Fixes for the most common issues.
-- [macOS Volume Slider Fix](https://airpodsreplicas.com/troubleshooting/macOS-volume-slider-fixup): Fix for Intel Mac volume control issue.
-- [iCloud Incompatibility](https://airpodsreplicas.com/troubleshooting/AirReps-Incompatibility-with-iCloud): Resolving iCloud-related issues.
+- [Common Bugs](https://airpodsreplicas.com/troubleshooting/other-common-bugs): Fixes for the most common pairing, sensor, and audio issues.
+- [macOS Volume Slider Fix](https://airpodsreplicas.com/troubleshooting/macOS-volume-slider-fixup): Fix for Intel Mac volume control issue (proxy-audio-device).
+- [iCloud Incompatibility](https://airpodsreplicas.com/troubleshooting/AirReps-Incompatibility-with-iCloud): Resolving macOS iCloud verification issues on non-Huilian replicas.
 
 ## Tools
 
-- [Useful Apps](https://airpodsreplicas.com/useful-apps): Essential firmware update apps for Airoha, TigerBuilder, BES, HR, and Huilian chipsets.
-- [Quiz](https://airpodsreplicas.com/quiz): Interactive quiz to find the best replica for your needs and budget.
+- [Useful Apps](https://airpodsreplicas.com/useful-apps): Download FlyCC (Android & iOS, TigerBuilder/Airoha), StarFun (Android & iOS, Huilian), CloudCC (deprecated workaround), BullSuper & G&Link (HR), HBluetooth (BES), and KKX.
+- [Quiz](https://airpodsreplicas.com/quiz): Interactive quiz to find the best replica for your needs, devices, and budget.
 
 ## Community
 
 Member counts as of November 2026.
 
-- [Community](https://airpodsreplicas.com/community): What the Discord and r/AirReps are each for, the main channels, the AI assistant and the safety rules.
+- [Community](https://airpodsreplicas.com/community): What the Discord and r/AirReps are each for, the main channels, the AI assistant, and the safety rules.
 - [Discord](https://airreps.link/discord): The AirReps Discord, 73k+ members. Ask troubleshooting and buying questions in #help-and-advice (post the model, seller and what was tried). The AI assistant, AirReps Intelligence, answers in #ai-assistant in seconds, with a daily question limit. Language channels for Portuguese (Brazil), French, Polish, Spanish and Russian.
 - [Reddit](https://airreps.link/reddit): r/AirReps, 73k+ members. Owner reviews with photos, comparisons and searchable older threads.
 - Where to ask: a pairing, reset or firmware problem goes to Discord #help-and-advice; "which version should I buy?" goes to the [quiz](https://airpodsreplicas.com/quiz) or Discord; reviews of a specific version are on r/AirReps.

@@ -25,13 +25,13 @@ Hvis du bruger Android, kan du ændre alle dine indstillinger for trykstyring p�
 
 ## Sensorer i øret {#in-ear-sensors}
 
-Sensorerne i øret på kopierne sætter næsten øjeblikkeligt musikken på pause (omkring 1 sekunds forsinkelse*) når de tages ud af ørerne. "Biplyden", når AirPods sættes i, minder på de fleste aktuelle modeller meget om den originale Apple-lyd.
+Sensorerne i øret på kopierne sætter næsten øjeblikkeligt musikken på pause (omkring 1 sekunds forsinkelse) når de tages ud af ørerne. "Biplyden", når AirPods sættes i, minder på de fleste aktuelle modeller meget om den originale Apple-lyd.
 
 ## Tryk- og Force Touch-styring
 
 Trykstyringen eller Force Touch-styringen på kopierne fungerer, men det kan kræve lidt tilvænning. På 2. generations kopier kræves et fast tryk og ikke et let tryk som på originale AirPods. På Pro-modeller er et let tryk eller klem nok – ikke et tryk.
 
-:::info **Sjovt faktum**
+::: info **Sjovt faktum**
 AirPods Pro 2-kopier (V5.3TB og nyere) har en kraftsensoropsætning, der ligger meget tæt på originalernes, hvilket giver den samme oplevelse til en langt lavere pris.
 :::
 ## Mikrofonkvalitet

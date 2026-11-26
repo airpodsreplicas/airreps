@@ -25,12 +25,12 @@ Android kullanıyorsanız, tüm dokunma ayarı değişikliklerinizi [https://air
 
 ## Kulak içi sensörler {#in-ear-sensors}
 
-Replikalardaki kulak içi sensörler, kulaklardan çıkarıldıklarında müziği neredeyse anında duraklatır (yaklaşık 1 saniyelik gecikme*). AirPods takılırken çıkan "bip" sesi, mevcut modellerin çoğunda orijinal Apple sesine oldukça yakındır.
+Replikalardaki kulak içi sensörler, kulaklardan çıkarıldıklarında müziği neredeyse anında duraklatır (yaklaşık 1 saniyelik gecikme). AirPods takılırken çıkan "bip" sesi, mevcut modellerin çoğunda orijinal Apple sesine oldukça yakındır.
 
 ## Dokunma ve Force Touch kontrolleri
 
 Replikalardaki dokunma kontrolleri veya Force Touch kontrolleri çalışır, ancak alışmak biraz zaman alabilir. 2. nesil replikalarda, orijinal AirPods'lardaki gibi hafif bir dokunuş değil, sertçe dokunmak gerekir. Pro modellerde ise dokunmak değil, yalnızca hafifçe bastırmak veya sıkmak gerekir.
-:::info **Eğlenceli bilgi**
+::: info **Eğlenceli bilgi**
 AirPods Pro 2 replikaları (V5.3TB ve daha yenileri), orijinallerle oldukça benzer bir kuvvet sensörü yapılandırmasına sahiptir ve çok daha düşük bir maliyetle aynı deneyimi sunar.
 :::
 ## Mikrofon kalitesi

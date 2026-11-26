@@ -33,8 +33,7 @@ La rama principal es una rama protegida. Como tal, no se permite la edición dir
 
 Elige entre las dos opciones a continuación para configurar tu entorno de desarrollo:
 
-### Opción 1 (Recomendada)
-
+### Opción 1 (Recomendada) {#option-1-recommended}
 Para configurar un entorno de desarrollo óptimo:
 
 1. [Instala Bun](https://bun.sh/). Este proyecto usa Bun como gestor de paquetes y runtime.
@@ -71,7 +70,7 @@ Ten en cuenta que VitePress ofrece características adicionales no disponibles e
 
 Una vez que hayas realizado cambios, sigue los pasos a continuación para enviarlos para revisión:
 
-1. Si elegiste la Opción 1 en [Configurar el Entorno de Desarrollo](#opcion-1-recomendada), asegúrate de que las páginas se construirán correctamente ejecutando el siguiente comando:
+1. Si elegiste la Opción 1 en [Configurar el Entorno de Desarrollo](#option-1-recommended), asegúrate de que las páginas se construirán correctamente ejecutando el siguiente comando:
 
 ```shell
 bun run docs:build

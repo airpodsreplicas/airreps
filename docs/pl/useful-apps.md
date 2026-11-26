@@ -16,9 +16,12 @@ Poniżej znajdziesz aplikacje, które można pobrać, oraz informacje o obsługi
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Pobierz plik APK aplikacji CloudCC (Android)" target="_blank" rel="noreferrer">Pobierz plik APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Pobieranie niedostępne |
 
-:::warning **CloudCC** nie jest już rozwijana, odkąd TigerBuilder zintegrował funkcję OTA z FlyCC. Powinna być używana wyłącznie jako obejście problemu z uprawnieniami do pamięci.
+::: warning CloudCC nie jest już rozwijana
+**CloudCC** nie jest już rozwijana, odkąd TigerBuilder zintegrował funkcję OTA z FlyCC. Powinna być używana wyłącznie jako obejście problemu z uprawnieniami do pamięci.
 :::
-:::tip Airoha156x należy używać wyłącznie do modyfikowania ustawień korektora w AirPods Max V2 (Airoha 1561M) i V3 (Airoha 1562AE).
+
+::: tip Airoha156x (korektor dla AirPods Max)
+Airoha156x należy używać wyłącznie do modyfikowania ustawień korektora w AirPods Max V2 (Airoha 1561M) i V3 (Airoha 1562AE).
 :::
 
 ## **BES**

@@ -2,51 +2,51 @@
 title: AirPods Contrôle Qualité & Vérification d'Authenticité
 description: 'Maîtrisez le contrôle qualité & la vérification d''authenticité des AirPods. Repérez les défauts de conception, vérifiez les fonctionnalités logicielles, et distinguez les unités authentiques des répliques.'
 ---
+
 # QC & LC
 
-Welcome! If you're here, you're likely looking to quality check your replica AirPods or considering purchasing authentic ones. This section will guide you on discerning between retail and replica AirPods, from simple to advanced methods. If a deal seems too good to be true, it probably is. For more on what to expect from replica build quality, see the [qualité de fabrication](/fr/introduction/build-quality) guide.
+Bienvenue ! Si vous êtes ici, vous cherchez probablement à effectuer un contrôle qualité (QC) de vos répliques d'AirPods ou à vérifier l'authenticité (LC) d'une paire supposée originale. Cette section vous guide pour distinguer les AirPods authentiques des répliques, des méthodes simples aux vérifications avancées. Si une offre semble trop belle pour être vraie, c'est probablement le cas. Pour en savoir plus sur ce à quoi vous attendre en termes de finition, consultez le guide sur la [qualité de fabrication](/fr/introduction/build-quality).
 
 ::: tip La meilleure garantie d’authenticité
 Cette section était autrefois plus détaillée, mais à mesure que les répliques sont devenues plus sophistiquées, il est de plus en plus difficile de distinguer les AirPods authentiques des faux. Notre meilleur conseil pour garantir l'authenticité est d'acheter vos AirPods auprès d'un vendeur réputé.
 :::
 
-## Checking Design Flaws
+## Vérifier les défauts de conception
 
-1. **Hinge Color**: Compare the color of the hinge on the case to reference pictures. You can use this image for first and second generation AirPods and this image for AirPods Pro, Pro 2, Pro 3, and AirPods 4.
+1. **Couleur de la charnière** : Comparez la couleur de la charnière du boîtier aux photos de référence. Utilisez la première image pour les AirPods de 1re et 2e génération et la seconde pour les AirPods Pro, Pro 2, Pro 3 et AirPods 4.
 
-![Hinge Color - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
+![Couleur de la charnière - AirPods 1 & 2](/qc-lc/hinge-color-airpods-1-2.jpeg)
 
-![Hinge Color - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
+![Couleur de la charnière - AirPods Pro](/qc-lc/hinge-color-airpods-pro.jpg)
 
-2. **Button Alignment**: Check if the button on the case is flush with the rest of the case. If it's not, your AirPods may be replicas. In authentic AirPods, the button should be flush with the case.
+2. **Alignement du bouton** : Vérifiez que le bouton à l'arrière du boîtier est parfaitement affleurant. S'il ressort ou n'est pas aligné, il s'agit probablement de répliques. Sur des AirPods authentiques, le bouton affleure parfaitement la coque.
 
-3. **Cable Alignment**: Ensure that the cable fits snugly and fully into the case, as shown in the picture below. If the cable protrudes even slightly, it's likely a replica.
+3. **Alignement du câble** : Assurez-vous que le câble de charge s'insère complètement et sans jeu dans le boîtier, comme sur l'image ci-dessous. Si le connecteur dépasse, même légèrement, il s'agit probablement d'une réplique.
 
-![Cable Alignment](/qc-lc/cable-alignment.webp)
+![Alignement du câble](/qc-lc/cable-alignment.webp)
 
-4. **Software - Find My Network**: A key indicator of a replica is the absence of "Find My Network" (Precision Finding). When you pair the AirPods with your phone and access the "Find My" app, genuine AirPods should support precision finding. If the option is missing or doesn't function properly, it's a strong sign that the AirPods are not authentic. **Note:** All current replica models are missing Find My Network functionality.
+4. **Logiciel - Réseau Localiser (Find My)** : L'un des indicateurs les plus fiables d'une réplique est l'absence du réseau **Localiser** (Localisation précise). Lorsque vous jumelez des AirPods authentiques avec votre iPhone et ouvrez l'app Localiser, la localisation précise doit fonctionner. Si l'option est absente ou ne fonctionne pas, c'est un signe fort qu'il ne s'agit pas d'AirPods originaux. **Remarque :** Aucun modèle de réplique actuel ne prend en charge le réseau Localiser d'Apple.
 
-5. **Software - About Page**: Connect your AirPods to an iPhone and go to Settings > General > About. If there is an "AirPods" section when you scroll down, check that the serial number shown there matches the serial number on the inside of the AirPods lid. If there is no AirPods section, then your AirPods are likely replicas. **Important:** Some newer replica AirPods may have a functioning "About" page, which makes this check less reliable. In such cases, you can check for the presence of Spatial Audio with head tracking, or verify the firmware version matches the latest version released by Apple.
+5. **Logiciel - Page Informations** : Connectez vos AirPods à un iPhone et ouvrez **Réglages > Général > Informations**. Si une section « AirPods » apparaît en bas, vérifiez que le numéro de série correspond à celui imprimé à l'intérieur du couvercle du boîtier. L'absence de section AirPods indique presque certainement une réplique. **Important :** Certaines répliques récentes affichent une page « Informations » fonctionnelle, ce qui rend ce test moins concluant à lui seul. Dans ce cas, vérifiez l'Audio spatial avec suivi de la tête ou si la version du firmware correspond à la dernière version publiée par Apple.
 
-6. **Software - Spatial Audio**: Genuine AirPods support Spatial Audio with head tracking. While many current replicas also support Spatial Audio, the quality and accuracy of head tracking can vary. If Spatial Audio is completely missing or the head tracking doesn't work properly, it may indicate a lower-quality replica or a fake. However, this check alone is not definitive, as some replicas have good Spatial Audio implementation.
+6. **Logiciel - Audio spatial** : Les AirPods authentiques prennent en charge l'Audio spatial avec suivi dynamique de la tête. Bien que de nombreuses répliques récentes le proposent aussi, la qualité et la précision varient. Si l'Audio spatial est absent ou ne réagit pas correctement, il s'agit probablement d'une réplique bas de gamme. Ce test seul ne suffit toutefois pas, car certaines répliques l'implémentent bien.
 
-7. **Markings**: To verify the authenticity of your AirPods, one of the most reliable methods is to inspect the regulatory markings located on the inner upper part of the AirPods case. These markings vary by region and can help determine whether the AirPods are genuine. Here's a detailed breakdown:
+7. **Marquages réglementaires** : L'une des méthodes les plus fiables consiste à inspecter les marquages réglementaires imprimés à l'intérieur de la partie supérieure du couvercle. Ils varient selon les régions :
 
-| **Region**         | **Country/Area**       | **Regulatory Mark**                                         |
+| **Région**         | **Pays / Zone**        | **Marquage réglementaire**                                  |
 |--------------------|------------------------|-------------------------------------------------------------|
-| **USA**            | United States          | FCC ID, "Designed by Apple in California"                   |
-| **Europe**         | EU Countries           | CE (Conformité Européenne), WEEE                            |
-| **Asia**           | China                  | CCC (China Compulsory Certificate)                          |
-|                    | South Korea            | KC (Korea Certification)                                    |
-|                    | Japan                  | MIC (Ministry of Internal Affairs and Communications)       |
-|                    | India                  | BIS (Bureau of Indian Standards)                            |
-| **Oceania**        | Australia, New Zealand | RCM (Regulatory Compliance Mark)                            |
+| **États-Unis**     | États-Unis             | FCC ID, "Designed by Apple in California"                   |
+| **Europe**         | Pays de l'UE           | CE (Conformité Européenne), WEEE                            |
+| **Asie**           | Chine                  | CCC (China Compulsory Certificate)                          |
+|                    | Corée du Sud           | KC (Korea Certification)                                    |
+|                    | Japon                  | MIC (Ministry of Internal Affairs and Communications)       |
+|                    | Inde                   | BIS (Bureau of Indian Standards)                            |
+| **Océanie**        | Australie, N.-Zélande  | RCM (Regulatory Compliance Mark)                            |
 | **Canada**         | Canada                 | IC (Industry Canada)                                        |
-| **Middle East**    | Saudi Arabia           | SASO (Saudi Standards, Metrology and Quality Organization)  |
-|                    | UAE                    | ESMA (Emirates Authority for Standardization and Metrology) |
-| **Latin America**  | Brazil                 | Anatel (National Telecommunications Agency)                 |
-|                    | Mexico                 | IFT (Instituto Federal de Telecomunicaciones)               |
-| **Russia and CIS** | Russia, CIS countries  | EAC (Eurasian Conformity)                                   |
+| **Moyen-Orient**   | Arabie saoudite        | SASO (Saudi Standards, Metrology and Quality Organization)  |
+|                    | ÉAU                    | ESMA (Emirates Authority for Standardization and Metrology) |
+| **Amérique latine**| Brésil                 | Anatel (National Telecommunications Agency)                 |
+|                    | Mexique                | IFT (Instituto Federal de Telecomunicaciones)               |
+| **Russie et CEI**  | Russie, pays de la CEI | EAC (Eurasian Conformity)                                   |
 
-
-For additional help, join the [AirReps Discord](https://airreps.link/discord) to get advice and support from the AirReps community.
+Pour obtenir de l'aide supplémentaire, rejoignez le [Discord AirReps](https://airreps.link/discord) afin de demander conseil à la communauté.

@@ -36,7 +36,6 @@ export type Target =
     | 'hicity'
     | 'jenny'
     | 'earhive'
-    | 'replicute'
     | 'kakobuy'
     | 'kakoguide'
     | 'discord'
@@ -258,7 +257,6 @@ const SALE_SHORTLINK = /^(jenny|hicity|earhive)(?:bf|easter|summer)\d{2}$/;
 const DESTINATION_DOMAINS: [string, Target][] = [
     ['hicitypods.com', 'hicity'],
     ['earhive.com', 'earhive'],
-    ['replicute.com', 'replicute'],
     ['kakobuy.com', 'kakobuy'],
     ['kakoguide.com', 'kakoguide'],
     ['discord.gg', 'discord'],

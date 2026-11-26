@@ -95,7 +95,7 @@ TB-tallene stammer fra sælgerne, mens Huilians driftstid er en vurdering, så d
 - Du skifter mellem op til 3 enheder, herunder enheder, der ikke er fra Apple.
 - Du er tryg ved at bruge FlyCC, herunder at tilføje pop op-vinduet og serienummeret igen efter en opdatering.
 
-<span class="pick-buy">Køb V7 TB hos [Earhive](https://earhive.com/product/pro-3-v7-tb/) [HiCity](https://hicitypods.com/product/pro-3-v7-tb/) [Jenny](https://jenny.airreps.info/product/pro-3-v7-tb/)</span>
+<span class="pick-buy">Køb V7 TB hos [Earhive](https://airreps.link/eprov7tb) [HiCity](https://airreps.link/hcprov7tb) [Jenny](https://airreps.link/jprov7tb)</span>
 
 ### Eller spring V7 over: Pro 3 SE
 

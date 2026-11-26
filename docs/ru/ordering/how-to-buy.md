@@ -37,7 +37,7 @@ faq:
 
 **Как платить:** Оформите заказ, выберите Alipay, затем отсканируйте отображаемый QR-код в приложении Alipay для завершения оплаты.
 
-<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/50pn2QewNnw" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/50pn2QewNnw" title="Как оплатить реплики AirPods через Alipay" allowfullscreen></iframe>
 
 ## Часто задаваемые вопросы
 

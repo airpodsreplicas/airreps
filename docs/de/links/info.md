@@ -39,10 +39,10 @@ Die Preise variieren je nach Modell und Version und schwanken im Laufe der Zeit.
 |-------|---------------------|
 | AirPods 2 | ~$26 |
 | AirPods 3 | Derzeit bei vertrauenswürdigen Verkäufern nicht gelistet |
-| AirPods 4 | ~$29–52 |
-| AirPods Pro 2 | ~$50–58 |
+| AirPods 4 | ~$29–53 |
+| AirPods Pro 2 | ~$22–58 (V5.2+ $49–58) |
 | AirPods Pro 3 | ~$27–68 |
-| AirPods Max | ~$93–126 |
+| AirPods Max | ~$85–127 |
 
 Innerhalb eines Modells kostet eine höhere Versionsnummer normalerweise mehr und bietet zusätzliche Funktionen. Mach das [Quiz](/de/quiz), um eine passende Empfehlung zu erhalten, oder öffne oben die Linkseite eines Modells, um die genauen Optionen der einzelnen Versionen zu sehen. Ist dein Budget knapp? In unserer Übersicht der [besten AirPods-Repliken unter 50 $](/de/articles/best-airpods-replicas-under-50) vergleichen wir die preisgünstigsten Modelle.
 
@@ -65,10 +65,9 @@ Alle vertrauenswürdigen Verkäufer akzeptieren zu deiner Bequemlichkeit mehrere
 | **PayPal** | ⚠️ Manchmal | ⚠️ Manchmal | ❌ |
 | **Revolut** | ✅ | ✅ | ✅ |
 | [**Wise**](https://airreps.link/wise) | ✅ | ✅ | ✅ |
-| **Xoom** | ❌ | ❌ | ❌ |
-| [**Cash App (Lightning)**](https://cash.app/bitcoin/lightning) | ✅ | ✅ | ✅ |
+| [**Cash App (Lightning)**](https://cash.app/bitcoin) | ✅ | ✅ | ✅ |
 | **Bitcoin / Kryptowährungen** | ✅ | ✅ | ✅ |
-| **Banküberweisung** | ✅ | ❌ | ✅ |
+| **Banküberweisung** | ✅ | ❌ | ⚠️ Nur UK |
 | **Weidian (über einen Agenten)** | ✅ | ✅ | ✅ |
 | **Trustly** | ❌ | ✅ | ❌ |
 | **Swish** | ❌ | ✅ | ❌ |
@@ -78,7 +77,7 @@ Alle vertrauenswürdigen Verkäufer akzeptieren zu deiner Bequemlichkeit mehrere
 | **Bancontact** | ❌ | ✅ | ❌ |
 | **EPS** | ❌ | ✅ | ❌ |
 
-Die verfügbaren Zahlungsgateways der einzelnen Verkäufer wurden zuletzt am 18. November 2026 überprüft. Maßgeblich ist der Bezahlvorgang des Verkäufers; die aktuelle Verfügbarkeit kann je nach Land oder Bestellung variieren.
+Die verfügbaren Zahlungsgateways der einzelnen Verkäufer wurden zuletzt am 26. November 2026 überprüft. Maßgeblich ist der Bezahlvorgang des Verkäufers; die aktuelle Verfügbarkeit kann je nach Land oder Bestellung variieren. Revolut wird für Rechnungsadressen in der EU/im EWR und im Vereinigten Königreich angezeigt, und Jennys Banküberweisung ist nur im Vereinigten Königreich verfügbar.
 
 Alipay-Zahlungen bei HiCity gehen direkt an den Verkäufer und werden von Hand bestätigt. Deine Bestellung bleibt daher in Wartestellung, bis der Verkäufer die Zahlung geprüft hat. Bei Earhive und Jenny werden Alipay-Zahlungen automatisch bestätigt.
 
@@ -97,7 +96,7 @@ Für Bestellungen über Weidian benötigst du einen Agenten. Wir empfehlen [Kako
 ## Häufig gestellte Fragen
 
 ::: details Erhalte ich ein Gerät guter Qualität?
-Die Qualität eines Geräts lässt sich nicht garantieren, da sie selbst bei Geräten desselben Verkäufers variieren kann. Die im Originaltext genannten Verkäufer sind jedoch allgemein dafür bekannt, Produkte guter Qualität anzubieten.
+Die Qualität eines Geräts lässt sich nicht garantieren, da sie selbst bei Geräten desselben Verkäufers variieren kann. Vertrauenswürdige Verkäufer sind jedoch allgemein dafür bekannt, Produkte guter Qualität anzubieten.
 :::
 
 ::: details Wie kann ich Verkäufer kontaktieren?

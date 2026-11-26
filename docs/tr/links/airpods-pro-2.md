@@ -11,12 +11,14 @@ AirPods Pro 2 replikaları, kulak içi modeller arasında en popüler ve en geli
 <table>
   <tr>
     <th>Sürüm</th>
+    <th>Fiyat</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V5.4 (Huilian)</span></td>
+    <td><span class="version-badge">V5.4 (Huilian)</span><br>iCloud seçimi</td>
+    <td style="white-space: nowrap;">$58</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov54hl">Web sitesi</a>
@@ -39,7 +41,8 @@ AirPods Pro 2 replikaları, kulak içi modeller arasında en popüler ve en geli
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">V5.3 (TB)</span></td>
+    <td><span class="version-badge">V5.3 (TB)</span><br>En iyi Pro 2</td>
+    <td style="white-space: nowrap;">$55–57</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov53tb">Web sitesi</a>
@@ -63,6 +66,7 @@ AirPods Pro 2 replikaları, kulak içi modeller arasında en popüler ve en geli
   </tr>
   <tr>
   <td><span class="version-badge">V5.3 (Huilian)</span></td>
+    <td style="white-space: nowrap;">$56</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov53hl">Web sitesi</a>
@@ -80,7 +84,32 @@ AirPods Pro 2 replikaları, kulak içi modeller arasında en popüler ve en geli
     </td>
   </tr>
   <tr>
+    <td><span class="version-badge">V5.3 Huilian Lite</span></td>
+    <td style="white-space: nowrap;">$43</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://hicitypods.com/product/pro2-v5-3-huilian-lite/">Web sitesi</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
+  </tr>
+  <tr>
+    <td><span class="version-badge">V5.3 TB Lite</span></td>
+    <td style="white-space: nowrap;">$31</td>
+    <td style="text-align: center;">-</td>
+    <td>
+      <div class="link-column">
+        <a href="https://hicitypods.com/product/pro-2-v5-3-lite/">Web sitesi</a>
+        <a href="https://airreps.link/hicityw">Weidian</a>
+      </div>
+    </td>
+    <td style="text-align: center;">-</td>
+  </tr>
+  <tr>
     <td><span class="version-badge">V5.2 (TB)</span></td>
+    <td style="white-space: nowrap;">$49–52</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov52tb">Web sitesi</a>
@@ -104,6 +133,7 @@ AirPods Pro 2 replikaları, kulak içi modeller arasında en popüler ve en geli
   </tr>
   <tr>
     <td><span class="version-badge">V5.2 (Huilian)</span></td>
+    <td style="white-space: nowrap;">$49–52</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov52hl">Web sitesi</a>
@@ -122,6 +152,7 @@ AirPods Pro 2 replikaları, kulak içi modeller arasında en popüler ve en geli
   </tr>
   <tr>
     <td><span class="version-badge">V4.2</span></td>
+    <td style="white-space: nowrap;">$22–23</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov42">Web sitesi</a>

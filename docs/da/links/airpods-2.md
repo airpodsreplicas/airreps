@@ -11,12 +11,14 @@ AirPods 2-kopier er den billigste måde at komme ind i økosystemet på. Vælg e
 <table>
   <tr>
     <th>Version</th>
+    <th>Pris</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
     <td><span class="version-badge">V3E</span></td>
+    <td style="white-space: nowrap;">$26</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e2v3e">Hjemmeside</a>

@@ -33,7 +33,7 @@ The main branch is a protected branch. As such, direct editing is not allowed. A
 
 Choose from the two options below to set up your development environment:
 
-### Option 1 (Recommended)
+### Option 1 (Recommended) {#option-1-recommended}
 
 To set up an optimal development environment:
 

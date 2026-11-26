@@ -30,6 +30,7 @@
   content: "";
   background-color: currentColor;
   -webkit-mask: var(--airpods-sidebar-icon) center / contain no-repeat;
+  /* biome-ignore lint/suspicious/useBaseline: paired with -webkit-mask fallback above */
   mask: var(--airpods-sidebar-icon) center / contain no-repeat;
 }
 
@@ -43,23 +44,23 @@
   font-weight: 600;
   line-height: 1;
   vertical-align: middle;
-  color: #ec645d;
+  color: var(--vp-c-brand-1);
   white-space: nowrap;
-  background-color: rgba(236, 100, 93, 0.1);
-  border: 1px solid rgba(236, 100, 93, 0.3);
+  background-color: var(--vp-c-brand-soft);
+  border: 1px solid color-mix(in srgb, var(--vp-c-brand-1) 30%, transparent);
   border-radius: 4px;
-}
-
-.dark .version-badge {
-  color: #ec645d;
-  background-color: rgba(236, 100, 93, 0.15);
-  border-color: rgba(236, 100, 93, 0.4);
 }
 
 /* Make badges in tables slightly smaller */
 table .version-badge {
   padding: 0.15em 0.5em;
   font-size: 0.8em;
+}
+
+.dark .version-badge {
+  color: #ec645d;
+  background-color: rgba(236, 100, 93, 0.15);
+  border-color: rgba(236, 100, 93, 0.4);
 }
 
 /* Align version tables to the top so badges and chip names line up with feature lists */
@@ -121,8 +122,8 @@ iframe[src*="youtube"] {
   padding: 4px 6px;
   font-size: 13px;
   line-height: 1.2;
-  text-align: center;
   color: var(--vp-c-text-2);
+  text-align: center;
   background: var(--vp-c-default-soft);
   border: 1px solid var(--vp-c-divider);
   border-radius: 6px;
@@ -193,7 +194,7 @@ iframe[src*="youtube"] {
   margin-top: 8px;
   font-size: 13px;
   line-height: 1.4;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-text-2);
   text-align: center;
 }
 
@@ -226,16 +227,16 @@ iframe[src*="youtube"] {
 .VPButton.VPButton.brand {
   background: linear-gradient(
     180deg,
-    color-mix(in srgb, var(--vp-c-brand-1) 90%, #fff),
-    var(--vp-c-brand-1) 58%,
-    color-mix(in srgb, var(--vp-c-brand-1) 90%, #000)
+    color-mix(in srgb, var(--vp-c-brand-3) 90%, #fff),
+    var(--vp-c-brand-3) 58%,
+    color-mix(in srgb, var(--vp-c-brand-3) 90%, #000)
   );
-  border-color: color-mix(in srgb, var(--vp-c-brand-1) 72%, #000);
+  border-color: color-mix(in srgb, var(--vp-c-brand-3) 72%, #000);
   box-shadow:
     inset 0 1px 0 rgba(255, 255, 255, 0.42),
     inset 0 -2px 2px rgba(0, 0, 0, 0.1),
     0 2px 3px rgba(0, 0, 0, 0.12),
-    0 8px 18px -8px color-mix(in srgb, var(--vp-c-brand-1) 42%, transparent);
+    0 8px 18px -8px color-mix(in srgb, var(--vp-c-brand-3) 42%, transparent);
 }
 
 .VPButton.VPButton.brand:hover {
@@ -303,17 +304,17 @@ iframe[src*="youtube"] {
   margin-bottom: 2px;
   font-size: 11px;
   font-weight: 700;
-  letter-spacing: 0.06em;
   color: var(--vp-c-brand-1);
   text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
 /* Direct seller buttons on pick cards and in buying articles. */
 .vp-doc .pick-buy {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   gap: 6px;
+  align-items: center;
   margin-top: 10px;
   font-size: 12px;
   font-weight: 600;
@@ -328,17 +329,19 @@ iframe[src*="youtube"] {
 .vp-doc .pick-buy a {
   display: inline-block;
   padding: 3px 11px;
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
   border: 1px solid var(--vp-c-brand-1);
   border-radius: 999px;
-  color: var(--vp-c-brand-1);
-  font-weight: 600;
-  text-decoration: none;
-  transition: background-color 0.2s, color 0.2s;
+  transition:
+    background-color 0.2s,
+    color 0.2s;
 }
 
 .vp-doc .pick-buy a:hover {
-  background: var(--vp-c-brand-soft);
   color: var(--vp-c-brand-2);
+  background: var(--vp-c-brand-soft);
 }
 
 /* Three picks sit in one row instead of leaving one card alone. */
@@ -374,8 +377,12 @@ iframe[src*="youtube"] {
   border: 0;
 }
 
-.vp-doc .compare-table th,
-.vp-doc .compare-table td {
+.vp-doc .compare-table table th,
+.vp-doc .compare-table table td {
+  padding: 8px 6px;
+  line-height: 1.4;
+  vertical-align: middle;
+  text-align: center;
   border: 0;
   border-right: 1px solid var(--vp-c-divider);
   border-bottom: 1px solid var(--vp-c-divider);
@@ -387,14 +394,6 @@ iframe[src*="youtube"] {
 
 .vp-doc .compare-table tbody tr:last-child > * {
   border-bottom: 0;
-}
-
-.vp-doc .compare-table th,
-.vp-doc .compare-table td {
-  padding: 8px 6px;
-  line-height: 1.4;
-  text-align: center;
-  vertical-align: middle;
 }
 
 .vp-doc .compare-table tr > :first-child {
@@ -424,6 +423,7 @@ iframe[src*="youtube"] {
 }
 
 .vp-doc .compare-table td:not(:first-child) {
+  /* biome-ignore lint/suspicious/useBaseline: progressive enhancement for balanced table cell wrapping */
   text-wrap: balance;
 }
 

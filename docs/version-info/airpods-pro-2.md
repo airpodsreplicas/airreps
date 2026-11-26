@@ -17,21 +17,21 @@ Manufacturers are slowly transitioning development focus to newer models. AirPod
 
 </div>
 
-Prices are what the sellers charged on 3 November 2026; see the [purchase links](/links/airpods-pro-2) for current prices. Click a version name in the table to read community reviews.
+Prices are what the sellers charged on 26 November 2026; see the [purchase links](/links/airpods-pro-2) for current prices. Click a version name in the table to read community reviews.
 
 <div class="compare-table">
 
 | | [<span class="version-badge">V5.4 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v5.4) | [<span class="version-badge">V5.3 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v5.3%20tb) | [<span class="version-badge">V5.3 Huilian</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v5.3%20huilian) | [<span class="version-badge">V5.2 TB</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v5.2) | [<span class="version-badge">V5.3 Lite</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=v5.3%20lite) |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| **Price** | $58 | $55–57 | $56 | $49–52 | Not listed |
-| **Sold by** | All 3 | All 3 | Earhive, Jenny | All 3 | — |
+| **Price** | $58 | $55–57 | $56 | $49–52 | $31 (TB) / $43 (Huilian) |
+| **Sold by** | All 3 | All 3 | Earhive, Jenny | All 3 | HiCity |
 | **Noise cancelling** | Strong | Strongest | Decent | Strong | Basic |
 | **Head-tracking spatial audio** | ✅ | ✅ | ✅ | ✅ | Huilian build² |
 | **Adaptive audio** | ✅ | ✅ | ✅ | ✅ | ❌ |
 | **Conversation awareness** | ✅ | ✅ | ✅ | ✅ | Huilian build² |
 | **Head gestures (nod / shake)** | ✅ | ❌ | Listed¹ | ❌ | ❌ |
 | **Switch between devices** | iCloud Connect | 3 devices | iCloud Connect | 1 device | 1 device |
-| **App for EQ & settings** | Starfun | FlyCC / CloudCC | Starfun | FlyCC / CloudCC | Depends on chip |
+| **App for EQ & settings** | StarFun | FlyCC / CloudCC | StarFun | FlyCC / CloudCC | Depends on chip |
 
 </div>
 
@@ -76,8 +76,9 @@ Legacy models like **V5.1** (Lightning port), **V5.0**, and **V4.2** (Bluetrum) 
 
 ## V5.4 Version Differences: {#v5-4-version-differences}
 
-This version is only an upgrade for Huilian models; it has a few improvements. [ANC](/introduction/anc-explained) performance has been improved, and stability seems to be better. Hardware‑wise, nothing has really changed, apart from the chipset. These upgrades appear to be more of some firmware updates that will be restricted to this new unit. Ready to buy? Check our [purchase links](/links/airpods-pro-2) and [ordering guide](/ordering/how-to-buy).  
+This version is only an upgrade for Huilian models; it has a few improvements. [ANC](/introduction/anc-explained) performance has been improved, and stability seems to be better. Hardware‑wise, nothing has really changed, apart from the chipset. These upgrades appear to be more of some firmware updates that will be restricted to this new unit. Ready to buy? Check our [purchase links](/links/airpods-pro-2) and [ordering guide](/ordering/how-to-buy).
 
+<span class="pick-buy">Buy the V5.4 Huilian at [Earhive](https://airreps.link/eprov54hl) [HiCity](https://airreps.link/hcprov54hl) [Jenny](https://airreps.link/jprov54hl)</span>
 
 ## V5.3 Version Differences: {#v5-3-version-differences}
 
@@ -89,6 +90,7 @@ This version is only an upgrade for Huilian models; it has a few improvements. [
 
 Ready to buy a V5.3? See the [AirPods Pro 2 purchase links](/links/airpods-pro-2).
 
+<span class="pick-buy">Buy the V5.3 TB at [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span> <span class="pick-buy">V5.3 Huilian at [Earhive](https://airreps.link/eprov53hl) [Jenny](https://airreps.link/jprov53hl)</span>
 
 ## V5.2 Version Differences: {#v5-2-version-differences}
 
@@ -99,6 +101,8 @@ Ready to buy a V5.3? See the [AirPods Pro 2 purchase links](/links/airpods-pro-2
 **Huilian** - The Huilian earbuds use a middle‑of‑the‑pack case, firmer than HR but softer than TB, and are equipped with a 1:1 hinge. However, due to the Huilian chipset, ANC is significantly worse than the other two models — 5.2TB and 5.2HR (average 30–32 dB, peak 38 dB). The battery life of the Huilian model is 6 hours without ANC and 4.5 hours with ANC turned on.
 
 Ready to buy a V5.2? See the [AirPods Pro 2 purchase links](/links/airpods-pro-2).
+
+<span class="pick-buy">Buy the V5.2 TB at [Earhive](https://airreps.link/eprov52tb) [HiCity](https://airreps.link/hcprov52tb) [Jenny](https://airreps.link/jprov52tb)</span>
 
 
 ## Version 5.3TB vs Version 5.2TB: Is the Upgrade Justified?

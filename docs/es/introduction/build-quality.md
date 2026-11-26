@@ -18,7 +18,7 @@ La caja y los auriculares generalmente tienen un buen peso. La mayoría de los m
 ## Bisagra
 
 Algunos modelos usan una bisagra de plástico con pintura metálica, mientras que otros emplean una bisagra de metal real. Algunas bisagras de plástico pueden sentirse baratas, chillar, moverse y carecer de solidez. Aunque son utilizables, se notan en comparación con los AirPods originales. Las bisagras metálicas se sienten significativamente superiores.
-Es importante saber que todas las réplicas vendidas en AirReps tienen bisagras metálicas. Algunas unidades (como Huilian and HR<b>+</b>) usan una copia casi perfecta de la bisagra de Apple. Por ahora, HR+ sí tiene algunos problemas de alineación, por lo que la diferencia de precio podría no estar justificada. Consulta la [Comparación de versiones de AirPods Pro 2](/es/version-info/airpods-pro-2) para ver las diferencias detalladas entre las construcciones TB, HR y Huilian.
+Es importante saber que todas las réplicas vendidas en AirReps tienen bisagras metálicas. Algunas unidades (como Huilian and HR+) usan una copia casi perfecta de la bisagra de Apple. Por ahora, HR+ sí tiene algunos problemas de alineación, por lo que la diferencia de precio podría no estar justificada. Consulta la [Comparación de versiones de AirPods Pro 2](/es/version-info/airpods-pro-2) para ver las diferencias detalladas entre las construcciones TB, HR y Huilian.
 
 ## Texto
 
@@ -43,16 +43,16 @@ Los modelos más nuevos incluyen un difusor LED para atenuar el LED.
 
 Para las réplicas de AirPods Pro, evita quitar las almohadillas a la fuerza ya que podría dañar los auriculares. Para retirar las almohadillas, gíralas y tira de ellas. Al manipular los auriculares, sujétalos por la punta y no por la varilla para evitar daños. Puedes usar el comando /eartip en el servidor de Discord para obtener más información.
 
-:::warning
+::: warning
 Para las réplicas de AirPods Pro, maneja los auriculares con cuidado para evitar daños. No quites las almohadillas a la fuerza.
 :::
 
 ## Preguntas frecuentes
 
-:::details ¿Se pueden cargar AirPods falsos en una caja real o viceversa?
+::: details ¿Se pueden cargar AirPods falsos en una caja real o viceversa?
 No, los AirPods falsos no deben cargarse en una caja real. Hacerlo puede provocar que los AirPods falsos se estropeen poco después. Tampoco se recomienda cargar AirPods reales en una caja falsa.
 :::
 
-:::details ¿Las fundas de AirPods encajan en clones?
+::: details ¿Las fundas de AirPods encajan en clones?
 Todas las fundas protectoras de silicona blanda encajarán, pero las fundas de plástico duro pueden no encajar en la mayoría de los clones (principalmente modelos antiguos, ya que son ligeramente más grandes que los originales). Algunas fundas duras pueden encajar, pero pueden no salir o afectar al botón si sobresale ligeramente.
 :::

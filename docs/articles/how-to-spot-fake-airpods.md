@@ -1,6 +1,6 @@
 ---
-title: "How to Tell if AirPods Are Fake: 10 Checks That Actually Work"
-description: 'How to tell if AirPods are fake: serial numbers, firmware, packaging and the checks that actually catch clones.'
+title: "How to Tell if AirPods Are Fake: 10 Real Checks"
+description: "How to tell if AirPods are fake in 2026: Find My network, serial number parity, firmware, packaging, and chip-detection apps (FlyCC & StarFun)."
 category: "Fake vs real"
 order: 1
 ---
@@ -9,7 +9,7 @@ order: 1
 
 Fake AirPods (replicas) have gotten good — the best clones have working ANC, Spatial Audio, and the iOS popup. That also means the old advice like "fakes feel cheap" or "the popup gives them away" doesn't cut it anymore. Here's what actually works, ordered from quickest to most conclusive.
 
-> **Quick Answer:** The fastest, most conclusive way to spot fake AirPods is checking Apple's **Find My network** (no clone at any price connects to native Find My tracking), verifying that the serial number in **Settings → General → About** matches the microscopic text inside the lid, or connecting to community chip-detection apps like **FlyCC** or **CloudCC** (which genuine AirPods ignore completely).
+> **Quick Answer:** The fastest, most conclusive way to spot fake AirPods is checking Apple's **Find My network** (no clone at any price connects to native Find My tracking), verifying that the serial number in **Settings → General → About** matches the microscopic text inside the lid, or connecting to community chip-detection apps like **FlyCC** (Airoha/TigerBuilder) or **StarFun** (Huilian), which genuine AirPods ignore completely.
 
 ::: tip Bought second-hand?
 This is where most people get burned: the listing looked genuine, the box looked genuine, and the price was "too good to refuse". Run the checks below **before** money changes hands — or buy from a [verified seller](/links/info) instead and skip the guessing game.
@@ -35,11 +35,11 @@ Some newer replicas have a working "About" page, which defeats checks 1–3. Tha
 
 ### 5. Try Find My
 
-Every AirPods replica on the market is missing Apple's **Find My network** — it's the one feature the community hasn't cracked. If "Find My" shows the earbuds in Apple's network, they're real. If the seller claims otherwise, they're wrong or lying.
+Every AirPods replica on the market is missing Apple's **Find My network** — it's the one feature the community hasn't cracked. If "Find My" shows the earbuds in Apple's network, they're real. If the seller claims otherwise, they're wrong or lying. Read [Do Fake AirPods Work With Find My?](/articles/do-fake-airpods-work-with-find-my) for the full breakdown.
 
 ### 6. Weigh the price against reality
 
-Genuine AirPods Pro cost $150+ (often $249 at launch). Replicas from trusted sellers run roughly $26 for a basic pair to $126 for an over-ear [AirPods Max replica](/version-info/airpods-max). A "brand new sealed AirPods Pro" for $60 from a stranger online isn't a deal — it's a clone or a scam. Check 10 below explains why even a perfect-looking box proves nothing.
+Genuine AirPods Pro cost $150+ (often $249 at launch). Replicas from trusted sellers run roughly $26 for a basic pair to $127 for an over-ear [AirPods Max replica](/version-info/airpods-max). A "brand new sealed AirPods Pro" for $60 from a stranger online isn't a deal — it's a clone or a scam. Check 10 below explains why even a perfect-looking box proves nothing.
 
 ### 7. Inspect the box — but know its limits
 
@@ -64,7 +64,7 @@ All three of these are replica packaging — the box tells you what the seller w
 
 ### 8. Try the community chip-detection apps
 
-The community maintains [free utility apps](/useful-apps) that identify which chip your AirPods use: **FlyCC** (detects Airoha 1562AE/E chipsets), **CloudCC** (TigerBuilder/Airoha), and **Starfun** (Huilian 247). Install them on an Android phone or Mac and see which one connects. Genuine Apple AirPods will not respond to any of these third-party utilities. One caveat: bottom-tier clones use a cheap Jieli (Jerry) chipset that also ignores these apps, so "no app connects" means either cheap fake *or* genuine, never authentic for sure.
+The community maintains [free utility apps](/useful-apps) that identify which chip your AirPods use: **[FlyCC](/articles/flycc-app-guide)** (detects Airoha 1562AE/E, 1563E, and 1571AM chipsets — Android & iOS) and **[StarFun](/articles/starfun-app-guide)** (detects Huilian 247, 277, 377, and 377H3 — Android & iOS), plus BullSuper/G&Link for HR models (CloudCC is deprecated). Install them and see which one connects. Genuine Apple AirPods will not respond to any of these third-party utilities. One caveat: bottom-tier clones use a cheap Jieli (Jerry) chipset that also ignores these apps, so "no app connects" means either cheap fake *or* genuine, never authentic for sure.
 
 ### 9. Ignore the buzzwords
 
@@ -81,6 +81,8 @@ No single check is conclusive — the best clones pass several of these. If you'
 ## If you just want real replicas (on purpose)
 
 Lots of people run these checks in reverse — they *want* the clone and just don't want to get scammed by a random reseller. The safe path is buying from a seller the community has verified, where you know exactly which [version](/version-info/general) you're getting:
+
+<span class="pick-buy">Pro 3 V7 Huilian ($67–68) at [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">Pro 3 SE ($48) at [Jenny](https://airreps.link/jpro3se)</span> <span class="pick-buy">Pro 2 V5.3 TB ($55–57) at [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span>
 
 - Browse the [trusted seller directory](/links/info) with current prices per model
 - Take the [quiz](/quiz) to get a pick for your budget

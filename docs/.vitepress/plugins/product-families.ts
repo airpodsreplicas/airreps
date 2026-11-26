@@ -1,5 +1,5 @@
 import type { MarkdownRenderer } from 'vitepress';
-import { productDestination } from '../product-routes';
+import { productDestination } from '../product-routes.ts';
 
 // Includes remain the source of truth. Preserve each original subsection as a
 // generation-prefixed alias so bookmarks survive combining duplicate headings.

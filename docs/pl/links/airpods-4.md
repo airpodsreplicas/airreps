@@ -11,12 +11,14 @@ Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach w
 <table>
   <tr>
     <th>Wersja</th>
+    <th>Cena</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
    <tr>
-    <td><span class="version-badge">V3 TB</span></td>
+    <td><span class="version-badge">V3 TB</span><br>Najlepsze AirPods 4</td>
+    <td style="white-space: nowrap;">$52–53</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Strona</a>
@@ -40,6 +42,7 @@ Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach w
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>
+    <td style="white-space: nowrap;">$29–30</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Strona</a>
@@ -62,7 +65,8 @@ Repliki AirPods 4 mają otwartą konstrukcję douszną, a w wyższych wersjach w
     </td>
   </tr>
     <tr>
-    <td><span class="version-badge">V2 Huilian</span></td>
+    <td><span class="version-badge">V2 Huilian</span><br>Wybór iCloud</td>
+    <td style="white-space: nowrap;">$39–42</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Strona</a>

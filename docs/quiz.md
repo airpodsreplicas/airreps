@@ -1,6 +1,6 @@
 ---
 title: "Which AirPods Replica Should I Get?"
-description: "Take our quick quiz to find the best AirPods replica for your needs, device, and budget."
+description: "Answer a few quick questions to find the best AirPods replica for your iPhone, Mac, or Android — Pro 3 V7, SE, Pro 2 V5.3 TB, AirPods 4, or Max V3 TB."
 ogLabel: "QUIZ"
 ---
 

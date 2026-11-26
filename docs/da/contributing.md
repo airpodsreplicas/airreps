@@ -33,8 +33,7 @@ Main-branchen er en beskyttet branch. Direkte redigering er derfor ikke tilladt.
 
 Vælg mellem de to muligheder nedenfor for at opsætte dit udviklingsmiljø:
 
-### Mulighed 1 (Anbefalet)
-
+### Mulighed 1 (Anbefalet) {#option-1-recommended}
 For at opsætte et optimalt udviklingsmiljø:
 
 1. [Installer Bun](https://bun.sh/). Dette projekt bruger Bun som pakkehåndtering og runtime.
@@ -71,7 +70,7 @@ Husk at VitePress tilbyder ekstra funktioner, der ikke er tilgængelige i standa
 
 Når du har foretaget ændringer, følg nedenstående trin for at indsende dem til gennemgang:
 
-1. Hvis du valgte Mulighed 1 under [Opsætning af Udviklingsmiljøet](#mulighed-1-anbefalet), sørg for at siderne bygger korrekt ved at køre følgende kommando:
+1. Hvis du valgte Mulighed 1 under [Opsætning af Udviklingsmiljøet](#option-1-recommended), sørg for at siderne bygger korrekt ved at køre følgende kommando:
 
 ```shell
 bun run docs:build

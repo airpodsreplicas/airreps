@@ -1,6 +1,6 @@
 ---
 title: "Do Fake AirPods Work With New iPhones?"
-description: "Do replica AirPods work with a new iPhone? Yes — the iOS popup still works, and what actually varies comes from the version you buy, not the phone. Here's what to check."
+description: "Yes — replica AirPods work with new iPhones and iOS 27. Learn what varies by version, iCloud Connect vs multipoint, firmware apps, and top picks."
 category: "Using your reps"
 order: 11
 ---
@@ -29,8 +29,8 @@ The practical note here is that these settings live on the buds once you make th
 
 Here's where the real compatibility questions live. Three things genuinely differ between versions, and none of them are about how new your iPhone is.
 
-- **iCloud Connect is Huilian-only.** Automatic switching between Apple devices only works on Huilian-based models — for example the AirPods Pro 2 V5.4, AirPods Pro 3 V6/V7 Huilian, and AirPods 4 V2 Huilian. Other chipsets connect to multiple devices at once via Bluetooth Multipoint, but you switch manually. Our [connectivity page](/introduction/connectivity) spells this out.
-- **Live Translation and the newer feature set are on the current Pro 3 versions.** The [AirPods Pro 3 page](/version-info/airpods-pro-3) lists Live Translation on the V6 (Huilian variant only), the V7, and the SE, alongside features like iOS 27 support, the About page, optical heart rate sensing, and head gesture controls on the top versions. Older models simply don't have these, regardless of the phone.
+- **iCloud Connect is Huilian-only.** Automatic switching between Apple devices only works on five Huilian-based models — AirPods Pro 3 V7 Huilian and V6 Huilian, AirPods Pro 2 V5.4 Huilian and V5.3 Huilian, and AirPods 4 V2 Huilian. Other chipsets connect to multiple devices at once via Bluetooth Multipoint, but you switch manually. Our [connectivity page](/introduction/connectivity) spells this out.
+- **Live Translation and the newer feature set are on the current Pro 3 versions.** The [AirPods Pro 3 page](/version-info/airpods-pro-3) lists Live Translation on the **V7 Huilian, V6 Huilian, and SE** (not V7 TB), alongside iOS 27 support, the About page, optical heart rate sensing, and head gesture controls on both V7 builds. Older models simply don't have these, regardless of the phone.
 - **Older low-tier clones with Jieli chipsets may not connect to the community apps at all.** The [general FAQ](/version-info/general) and [useful apps](/useful-apps) page are both direct about this: if none of the firmware apps detect your pair, it's a low-tier clone. That's a chipset limitation, not an iPhone one.
 
 In other words, if a feature is missing on your reps, the phone upgrade won't add it back. The version you bought is the ceiling.
@@ -45,14 +45,16 @@ If you're on an older version of iOS, you don't need the newest replica to match
 
 Usually not — but it does happen, and it's worth knowing the pattern. The great majority of versions that worked before an iOS update keep working after it. When something does break, it's almost always a **major** iOS release rather than a point update, and it hits **older** versions whose firmware predates the change. The iOS 27 rollout is the most recent example the community ran into.
 
-The good news is how quickly it resolves. When a major iOS release breaks a version, the manufacturer typically follows with a firmware update fairly quickly, and updating the replica restores the functionality — it's a temporary incompatibility, not a dead product. Updating goes through the community [firmware apps](/useful-apps), which are mostly Android-only, so it's worth knowing that before you buy if you don't keep an Android device around. In the worst case, a version that never gets a fix is usually an older or lower-tier model.
+The good news is how quickly it resolves. When a major iOS release breaks a version, the manufacturer typically follows with a firmware update fairly quickly, and updating the replica restores the functionality — it's a temporary incompatibility, not a dead product. Updating goes through the community [firmware apps](/useful-apps): both **FlyCC** (TigerBuilder/Airoha) and **StarFun** (Huilian) have iOS App Store and Android versions, though an Android device is still handy for full OTA flashing and legacy tools. In the worst case, a version that never gets a fix is usually an older or lower-tier model.
 
 Two practical notes before you hit "Update" on a major release:
 
 - Check the [AirReps Discord](https://airreps.link/discord) first — that's where breakage gets reported, on day one, by people running new firmware and new iOS together.
 - This is a rare occurrence, and it's a decent argument for staying on a current version rather than a two-year-old one that may no longer receive firmware updates.
 
-Nothing here is a guarantee of support on any future iOS release — check current reports for your specific version.
+Nothing here is a guarantee of support on any future iOS release — check current reports for your specific version. Looking for an iOS 27-ready model? Start with our top current picks:
+
+<span class="pick-buy">Pro 3 V7 Huilian ($67–68) at [Earhive](https://airreps.link/eprov7hl) [HiCity](https://airreps.link/hcprov7hl) [Jenny](https://airreps.link/jprov7hl)</span> <span class="pick-buy">Pro 3 SE ($48) at [Jenny](https://airreps.link/jpro3se)</span> <span class="pick-buy">Pro 2 V5.3 TB ($55–57) at [Earhive](https://airreps.link/eprov53tb) [HiCity](https://airreps.link/hcprov53tb) [Jenny](https://airreps.link/jprov53tb)</span>
 
 Related guides and compatibility checks:
 - Having trouble pairing to your iPhone? Walk through [Fake AirPods Won't Connect](/articles/fake-airpods-wont-connect).
@@ -60,7 +62,7 @@ Related guides and compatibility checks:
 - Also using an Android device? Read [AirPods Replicas on Android](/articles/airpods-replicas-on-android).
 - Wondering if someone nearby can tell your AirPods are reps? See [Can People Tell Your AirPods Are Fake?](/articles/can-people-tell-airpods-are-fake).
 
-::: details Will fake AirPods work with an iPhone 16?
+::: details Will fake AirPods work with the latest iPhone (iPhone 17 / 18)?
 
 Yes. Nothing about the phone model blocks a working replica. The pairing popup still appears, and naming and tap controls still work through iOS. If your pair has an issue on a new iPhone, the cause is almost always the version or firmware, not the phone.
 

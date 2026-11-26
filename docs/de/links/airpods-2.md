@@ -11,12 +11,14 @@ AirPods 2-Replikate sind der günstigste Einstieg in das Ökosystem. Wähle unte
 <table>
   <tr>
     <th>Version</th>
+    <th>Preis</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
     <td><span class="version-badge">V3E</span></td>
+    <td style="white-space: nowrap;">$26</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e2v3e">Website</a>

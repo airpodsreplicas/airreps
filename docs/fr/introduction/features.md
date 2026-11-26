@@ -25,12 +25,12 @@ Si vous utilisez Android, vous pouvez modifier tous vos réglages tactiles sur u
 
 ## Capteurs intra-auriculaires {#in-ear-sensors}
 
-Les capteurs intra-auriculaires des répliques mettent la musique en pause presque instantanément (avec un délai d’environ 1 seconde*) lorsqu’elles sont retirées des oreilles. Le son de « bip » lors de l’insertion des AirPods correspond étroitement au son original d’Apple sur la plupart des modèles actuels.
+Les capteurs intra-auriculaires des répliques mettent la musique en pause presque instantanément (avec un délai d’environ 1 seconde) lorsqu’elles sont retirées des oreilles. Le son de « bip » lors de l’insertion des AirPods correspond étroitement au son original d’Apple sur la plupart des modèles actuels.
 
 ## Commandes tactiles et Force Touch
 
 Les commandes tactiles ou Force Touch des répliques sont fonctionnelles, mais peuvent nécessiter un temps d’adaptation. Pour les répliques de 2e génération, il faut exercer une pression ferme, et non effectuer un toucher léger comme sur les AirPods originaux. Pour les modèles Pro, une légère pression ou une simple pincée suffit, plutôt qu’un toucher.
-:::info **Anecdote**
+::: info **Anecdote**
 Les répliques d’AirPods Pro 2 (V5.3TB et versions ultérieures) disposent d’une configuration de capteur de pression qui correspond étroitement à celle des modèles originaux, offrant la même expérience à un coût bien inférieur.
 :::
 ## Qualité du microphone

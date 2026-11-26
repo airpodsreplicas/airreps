@@ -11,12 +11,14 @@ description: Надёжные ссылки продавцов и вариант�
 <table>
   <tr>
     <th>Версия</th>
+    <th>Цена</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
    <tr>
-    <td><span class="version-badge">V3 TB</span></td>
+    <td><span class="version-badge">V3 TB</span><br>Лучшие AirPods 4</td>
+    <td style="white-space: nowrap;">$52–53</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Сайт</a>
@@ -40,6 +42,7 @@ description: Надёжные ссылки продавцов и вариант�
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>
+    <td style="white-space: nowrap;">$29–30</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Сайт</a>
@@ -62,7 +65,8 @@ description: Надёжные ссылки продавцов и вариант�
     </td>
   </tr>
     <tr>
-    <td><span class="version-badge">V2 Huilian</span></td>
+    <td><span class="version-badge">V2 Huilian</span><br>Выбор для iCloud</td>
+    <td style="white-space: nowrap;">$39–42</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Сайт</a>

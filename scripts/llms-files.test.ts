@@ -1,7 +1,8 @@
 import { describe, expect, test } from 'bun:test';
 import { readdirSync, readFileSync } from 'node:fs';
 import {
-    LLMS_FILES,
+    ALL_LLMS_FILES,
+    LOCALE_LLMS_FILES,
     lastCommitDay,
     newestDay,
     stampLastUpdated,
@@ -26,8 +27,9 @@ describe('llms.txt freshness line', () => {
         expect(stampLastUpdated('# AirReps\n', '2026-11-06')).toBe('# AirReps\n');
     });
 
-    test('both source files carry the line the build rewrites', () => {
-        for (const name of LLMS_FILES) {
+    test('all source llms files (English and 8 locales) carry the line the build rewrites', () => {
+        expect(LOCALE_LLMS_FILES).toHaveLength(8);
+        for (const name of ALL_LLMS_FILES) {
             expect(readFileSync(`docs/public/${name}`, 'utf8')).toMatch(
                 /^Last updated: \d{4}-\d{2}-\d{2}$/m
             );
@@ -40,8 +42,8 @@ describe('llms.txt freshness line', () => {
         expect(newestDay([null, null])).toBeNull();
     });
 
-    test('both source files carry the same hand-written date', () => {
-        const dates = LLMS_FILES.map(
+    test('all llms source files carry the same hand-written date', () => {
+        const dates = ALL_LLMS_FILES.map(
             (name) =>
                 readFileSync(`docs/public/${name}`, 'utf8').match(
                     /^Last updated: (\d{4}-\d{2}-\d{2})$/m
@@ -57,15 +59,38 @@ describe('llms.txt freshness line', () => {
     });
 });
 
-// llms-full.txt is hand-maintained and had drifted from the pages it
-// summarises (no Pro 3 SE, "iOS 26", a June price date). These checks catch the
-// mechanical part of that drift; wording is still reviewed by hand.
-describe('llms-full.txt matches the guide pages', () => {
+// llms.txt and llms-full.txt are hand-maintained and can drift from the pages
+// they summarise. These checks catch mechanical drift automatically.
+describe('llms.txt and llms-full.txt match the guide pages', () => {
+    const index = readFileSync('docs/public/llms.txt', 'utf8');
     const full = readFileSync('docs/public/llms-full.txt', 'utf8');
     const read = (dir: string) =>
         readdirSync(dir)
             .filter((file) => file.endsWith('.md'))
             .map((file) => ({ file, text: readFileSync(`${dir}/${file}`, 'utf8') }));
+
+    test('llms.txt links to llms-full.txt and covers every English article', () => {
+        expect(index).toContain('https://airpodsreplicas.com/llms-full.txt');
+        const slugs = readdirSync('docs/articles')
+            .filter((file) => file.endsWith('.md') && file !== 'index.md')
+            .map((file) => file.slice(0, -'.md'.length));
+        expect(slugs.length).toBeGreaterThanOrEqual(22);
+        for (const slug of slugs) {
+            const url = `https://airpodsreplicas.com/articles/${slug}`;
+            expect(index).toContain(url);
+            expect(full).toContain(url);
+        }
+    });
+
+    test('llms-full.txt uses canonical family links rather than noindex redirect stubs', () => {
+        for (const stub of [
+            'https://airpodsreplicas.com/links/airpods-pro-2',
+            'https://airpodsreplicas.com/links/airpods-pro-3',
+            'https://airpodsreplicas.com/links/airpods-4',
+        ]) {
+            expect(full).not.toContain(stub);
+        }
+    });
 
     test('lists every seller website link from the links pages', () => {
         const missing: string[] = [];

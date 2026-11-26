@@ -58,6 +58,6 @@ const links = COMMUNITY_LINKS;
 .home-community-date {
   font-size: 13px;
   font-weight: 400;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-text-2);
 }
 </style>

@@ -11,12 +11,14 @@ AirPods 2 replikaları ekosisteme girmenin en ucuz yoludur. Aşağıdan bir sür
 <table>
   <tr>
     <th>Sürüm</th>
+    <th>Fiyat</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
     <td><span class="version-badge">V3E</span></td>
+    <td style="white-space: nowrap;">$26</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e2v3e">web sitesi</a>

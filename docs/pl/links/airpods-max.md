@@ -11,12 +11,14 @@ Repliki AirPods Max to opcja nauszna — od budżetowych modeli z plastikową ko
 <table>
   <tr>
     <th>Wersja</th>
+    <th>Cena</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V3 (Metal)</span><br>Sprzedawana jako Max V3 TB</td>
+    <td><span class="version-badge">V3 (Metal)</span><br>Najlepsze Max · Sprzedawana jako Max V3 TB</td>
+    <td style="white-space: nowrap;">$126–127</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Strona internetowa</a>
@@ -40,6 +42,7 @@ Repliki AirPods Max to opcja nauszna — od budżetowych modeli z plastikową ko
   </tr>
   <tr>
     <td><span class="version-badge">V3P</span></td>
+    <td style="white-space: nowrap;">$85–94</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Strona internetowa</a>
@@ -58,6 +61,7 @@ Repliki AirPods Max to opcja nauszna — od budżetowych modeli z plastikową ko
   </tr>
   <tr>
     <td><span class="version-badge">V2.5</span></td>
+    <td style="white-space: nowrap;">$124</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Strona internetowa</a>
@@ -70,6 +74,7 @@ Repliki AirPods Max to opcja nauszna — od budżetowych modeli z plastikową ko
   </tr>
   <tr>
     <td><span class="version-badge">V2 Metal</span></td>
+    <td style="white-space: nowrap;">$110–112</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Strona internetowa</a>

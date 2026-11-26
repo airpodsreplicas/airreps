@@ -16,9 +16,12 @@ description: 'Скачайте FlyCC, CloudCC, StarFun, BullSuper, HBluetooth и
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Download APK for CloudCC (Android)" target="_blank" rel="noreferrer">Скачать APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — скачивание недоступно |
 
-:::warning **CloudCC** не поддерживается с тех пор, как TigerBuilder добавила функцию OTA в FlyCC. Используйте его только в качестве обходного решения, если столкнётесь с проблемой разрешения на доступ к хранилищу.
+::: warning CloudCC устарело
+**CloudCC** не поддерживается с тех пор, как TigerBuilder добавила функцию OTA в FlyCC. Используйте его только в качестве обходного решения, если столкнётесь с проблемой разрешения на доступ к хранилищу.
 :::
-:::tip Используйте Airoha156x только для изменения настроек эквалайзера на AirPods Max V2 (Airoha 1561M) и V3 (Airoha 1562AE).
+
+::: tip Airoha156x (эквалайзер AirPods Max)
+Используйте Airoha156x только для изменения настроек эквалайзера на AirPods Max V2 (Airoha 1561M) и V3 (Airoha 1562AE).
 :::
 
 ## **BES**

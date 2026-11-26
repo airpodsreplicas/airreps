@@ -11,12 +11,14 @@ Repliki AirPods 2 to najtańszy sposób wejścia do ekosystemu. Wybierz wersję 
 <table>
   <tr>
     <th>Wersja</th>
+    <th>Cena</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
     <td><span class="version-badge">V3E</span></td>
+    <td style="white-space: nowrap;">$26</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e2v3e">Strona</a>

@@ -17,7 +17,7 @@ This product line is no longer being actively updated by manufacturers, as devel
 All Gen 2 models feature: original long-stem classic earbud fit, tap controls (double-tap to play/pause/skip), in-ear optical detection, Lightning charging, and iOS 27 support with About page popup. Note that Gen 2 earbuds do not feature ANC or Spatial Audio.
 :::
 
-Price from the sellers on 3 November 2026; see the [purchase links](/links/airpods-2) for current prices. Click a version name to read community reviews.
+Price from the sellers on 26 November 2026; see the [purchase links](/links/airpods-2) for current prices. Click a version name to read community reviews.
 
 <div class="compare-table">
 

@@ -11,12 +11,14 @@ description: Проверенные версии реплик AirPods Max и с�
 <table>
   <tr>
     <th>Версия</th>
+    <th>Цена</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V3 (металлическая)</span><br>Продаётся как Max V3 TB</td>
+    <td><span class="version-badge">V3 (металлическая)</span><br>Лучшие Max · Продаётся как Max V3 TB</td>
+    <td style="white-space: nowrap;">$126–127</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Сайт</a>
@@ -40,6 +42,7 @@ description: Проверенные версии реплик AirPods Max и с�
   </tr>
   <tr>
     <td><span class="version-badge">V3P</span></td>
+    <td style="white-space: nowrap;">$85–94</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Сайт</a>
@@ -58,6 +61,7 @@ description: Проверенные версии реплик AirPods Max и с�
   </tr>
   <tr>
     <td><span class="version-badge">V2.5</span></td>
+    <td style="white-space: nowrap;">$124</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Сайт</a>
@@ -70,6 +74,7 @@ description: Проверенные версии реплик AirPods Max и с�
   </tr>
   <tr>
     <td><span class="version-badge">V2 Metal</span></td>
+    <td style="white-space: nowrap;">$110–112</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Сайт</a>

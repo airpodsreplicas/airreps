@@ -193,7 +193,7 @@ const redditLink = COMMUNITY_LINKS.reddit;
   margin: 10px 0 0;
   font-size: 13px;
   line-height: 1.5;
-  color: var(--vp-c-text-3);
+  color: var(--vp-c-text-2);
 }
 
 .community-cta-meta a {

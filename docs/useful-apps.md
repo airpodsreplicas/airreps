@@ -5,11 +5,22 @@ description: "Download FlyCC, CloudCC, StarFun, BullSuper, HBluetooth and KKX fo
 
 # Useful Apps
 
-Updating the firmware on your reps can often add new features, such as spatial audio, or improve their stability. In order to do this, you can use a variety of apps that are available for download. However, please note that **most of these apps are only available for Android devices**. To identify which chipset your replicas use, see the [version comparison tables](/version-info/general).
+Updating the firmware or adjusting EQ on your AirPods replicas can improve stability, tune the sound, or fix compatibility after major iOS updates. The two main companion apps — **FlyCC** (TigerBuilder / Airoha) and **StarFun** (Huilian) — are available on **both Android and the iOS App Store**, while older or secondary utilities (CloudCC, BullSuper, KKX) are Android-only.
 
-Below are apps that can be downloaded to aid you, alongside what versions and chipsets of reps they support. If you have problems in installing the non-Play Store apps, make sure to enable 'Install from unknown sources' in your settings (in the Security or Accessibility section). These apps can also help adjust [sound quality](/introduction/sound-quality) through EQ settings. For more information on how to use these apps and avoid problems, visit our [Discord](https://airreps.link/discord).
+Match your app to your chipset using the table below. On Android, non-Play Store APKs require enabling **"Install from unknown sources"** (under Security or Accessibility settings). These apps also let you tune [sound quality](/introduction/sound-quality) with custom EQ presets — see our [FlyCC guide](/articles/flycc-app-guide), [StarFun guide](/articles/starfun-app-guide), or [firmware update guide](/articles/how-to-update-fake-airpods-firmware), or ask for help on [Discord](https://airreps.link/discord).
 
 <CommunityCta variant="apps" />
+
+## Which App Matches My Chipset?
+
+| Chipset / Manufacturer | Models | Android App | iOS App | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **TigerBuilder / Airoha** (1562AE, 1562E, 1563E, 1571AM) | Pro 3 V7 TB, V6 TB, Pro 2 V5.3 TB, V5.2 TB, AirPods 4 V3 TB / V2 TB, AirPods 2 V3E, Max V3 TB / V3P | [FlyCC APK](https://airreps.link/flycc) | [FlyCC (App Store)](https://airreps.link/iflycc) | Active (primary) |
+| **Huilian** (247, 277, 377, 377H3) | Pro 3 V7 Huilian, V6 Huilian, Pro 2 V5.4 / V5.3 Huilian, AirPods 4 V2 Huilian | [StarFun APK](https://airreps.link/starfun) | [StarFun (App Store)](https://airreps.link/istarfun) | Active (primary) |
+| **HR** (Airoha 1562AE/E HR builds) | Older Pro 2 V5.3 HR / V5.2 HR | [BullSuper APK](https://airreps.link/bullsuperhr) | [G&Link (App Store)](https://airreps.link/gnlink) | Active (legacy models) |
+| **TigerBuilder (workaround)** | Older TB units hitting FlyCC storage permission bug | [CloudCC APK](https://airreps.link/cloudcc) | — | Deprecated (workaround only) |
+| **BES** | Discontinued BES models (e.g. V4.8 / V1.3 / Max V2 BES) | — | [HBluetooth (App Store)](https://airreps.link/hbluetooth) | Legacy |
+| **V2.5 / KKX** (Realtek 8763ESE) | AirPods Max V2.5 | [KKX APK](https://airreps.link/kkx) | — | Active (Max V2.5 only) |
 
 ## **TigerBuilder**
 
@@ -17,9 +28,12 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="Download APK for CloudCC (Android)" target="_blank" rel="noreferrer">Download APK</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — Download unavailable |
 
-:::warning **CloudCC** has been deprecated since TigerBuilder integrated OTA functionality into FlyCC. It should only be used as a workaround if you encounter the storage permission issue.
+::: warning CloudCC is deprecated
+**CloudCC** has been deprecated since TigerBuilder integrated OTA functionality into FlyCC. Only use it as a workaround if FlyCC runs into a storage permission issue.
 :::
-:::tip Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE).
+
+::: tip Airoha156x (AirPods Max EQ)
+Airoha156x should only be used to modify the equalizer settings on AirPods Max V2 (Airoha 1561M) and V3 (Airoha 1562AE).
 :::
 
 ## **BES**
@@ -41,3 +55,25 @@ Below are apps that can be downloaded to aid you, alongside what versions and ch
 
 | [![KKX (Android)](/app_icon/kkx.png)](https://airreps.link/kkx) KKX (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/kkx" aria-label="Download APK for KKX (Android)" target="_blank" rel="noreferrer">Download APK</a></span> |
 |---|
+
+::: tip App won't connect or looking to upgrade?
+If none of these apps detect your earbuds, you likely have a low-tier Jieli clone (or genuine Apple AirPods). Looking to upgrade to a verified Airoha or Huilian model? Browse our [AirPods Pro seller links](/links/pro) or take the [1-minute quiz](/quiz) to find the right pick.
+:::
+
+## FAQ
+
+::: details Which app should I use for my AirPods replicas?
+Match the app to your chipset: **FlyCC** for TigerBuilder / Airoha models (Pro 3 V7 TB, Pro 2 V5.3 TB, AirPods 4 V3 TB, Max V3 TB), **StarFun** for Huilian models (Pro 3 V7/V6 Huilian, Pro 2 V5.4/V5.3 Huilian, AirPods 4 V2 Huilian), and **BullSuper / G&Link** for HR models. If you aren't sure which chip you have, test FlyCC and StarFun one at a time.
+:::
+
+::: details Are FlyCC and StarFun available on iPhone (iOS)?
+Yes. Both **FlyCC** and **StarFun** are on the iOS App Store (linked above), as well as available as Android APKs. Settings such as custom EQ save to the earbuds and carry over across devices.
+:::
+
+::: details Why won't any app detect my AirPods replicas?
+First make sure the earbuds are already paired in your phone's Bluetooth settings and that Android "Nearby Devices" permission is enabled. If none of the apps connect, your pair either uses a low-tier Jieli chipset (which no community app supports) or is a genuine Apple pair.
+:::
+
+::: details Should I update my replica AirPods firmware?
+Only if something is broken — for example, after a major iOS update causes compatibility issues. If your earbuds already connect cleanly and work well, leave the firmware alone to avoid unnecessary bricking risk. Note that on the Pro 3 V7 TB, a FlyCC firmware update clears the iOS popup and serial number until you re-add them in FlyCC.
+:::

@@ -11,12 +11,14 @@ AirPods Max-replikaer er modellen med over-ear-design og fås i alt fra budgetve
 <table>
   <tr>
     <th>Version</th>
+    <th>Pris</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V3 (Metal)</span><br>Sælges som Max V3 TB</td>
+    <td><span class="version-badge">V3 (Metal)</span><br>Bedste Max · Sælges som Max V3 TB</td>
+    <td style="white-space: nowrap;">$126–127</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Hjemmeside</a>
@@ -40,6 +42,7 @@ AirPods Max-replikaer er modellen med over-ear-design og fås i alt fra budgetve
   </tr>
   <tr>
     <td><span class="version-badge">V3P</span></td>
+    <td style="white-space: nowrap;">$85–94</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Hjemmeside</a>
@@ -58,6 +61,7 @@ AirPods Max-replikaer er modellen med over-ear-design og fås i alt fra budgetve
   </tr>
   <tr>
     <td><span class="version-badge">V2.5</span></td>
+    <td style="white-space: nowrap;">$124</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Hjemmeside</a>
@@ -70,6 +74,7 @@ AirPods Max-replikaer er modellen med over-ear-design og fås i alt fra budgetve
   </tr>
   <tr>
     <td><span class="version-badge">V2 Metal</span></td>
+    <td style="white-space: nowrap;">$110–112</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Hjemmeside</a>

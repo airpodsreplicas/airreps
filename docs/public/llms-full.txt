@@ -4,11 +4,25 @@
 
 AirReps helps people make informed purchasing decisions about AirPods replicas. The guide is community-maintained, constantly updated, and covers every model from AirPods 2 through AirPods Pro 3 and AirPods Max. The community also runs the AirReps Discord (73k+ members as of November 2026) and the r/AirReps subreddit (73k+ members); see https://airpodsreplicas.com/community.
 
-Last updated: 2026-11-18
+Last updated: 2026-11-26
 
 Website: https://airpodsreplicas.com
+Summary Index: https://airpodsreplicas.com/llms.txt
 Discord: https://airreps.link/discord
 Reddit: https://airreps.link/reddit (r/AirReps)
+
+---
+
+## Entity & Chipset Glossary
+
+- **AirReps**: Community-maintained guide and resource hub for AirPods replicas at airpodsreplicas.com.
+- **Trusted Sellers**: The three community-verified sellers — **Earhive** (https://earhive.com), **HiCity** (https://hicitypods.com), and **Jenny** (https://jenny.airreps.info). Manufacturers (TigerBuilder, Huilian, HR) do not sell directly to consumers; sellers source units from manufacturers.
+- **Huilian (377H3, 377, 277, 247)**: Manufacturer/chipset line offering **iCloud Connect** (exclusive to 5 models: Pro 3 V7 Huilian, Pro 3 V6 Huilian, Pro 2 V5.4 Huilian, Pro 2 V5.3 Huilian, AirPods 4 V2 Huilian) and smooth macOS compatibility. Uses the **StarFun** companion app (Android & iOS).
+- **TigerBuilder / TB (Airoha 1571AM, 1562AE, 1563E, 1561M)**: Manufacturer using Airoha Bluetooth audio silicon, known for strong ANC, durable sweat-resistant cases, and 2- or 3-device Bluetooth multipoint. Uses the **FlyCC** companion app (Android & iOS); **CloudCC** is deprecated and only a storage-permission workaround.
+- **HR (Airoha 1562AE / 1563E)**: Manufacturer using Airoha silicon known for balanced tuning and strong transparency. Uses **BullSuper** (Android) and **G&Link** (iOS).
+- **XiaoBai**: Chipset powering the Jenny-exclusive AirPods Pro 3 SE (~$48), offering strong value-tier ANC under $50.
+- **Bluetrum (8922 / BT893X)**: Budget chipset used in entry-level models such as AirPods Pro 3 V5.5 (~$27–28).
+- **Jieli (JL)**: Ultra-low-tier clone silicon sold by unverified marketplaces. Cannot connect to any community companion app (FlyCC, StarFun, BullSuper, CloudCC) and has poor sound/ANC.
 
 ---
 
@@ -24,7 +38,15 @@ What You'll Learn:
 - We help you distinguish between cheap imitations and quality AirPods replicas worth your investment.
 - The guide also helps you distinguish replicas from authentic AirPods when buying second-hand, preventing potential scams.
 
-Which AirPods replica is the best? Right now the main recommendation is the AirPods Pro 3 V7 Huilian (~$67–68, sold by Earhive, HiCity and Jenny). The AirPods Pro 3 SE (~$48, Jenny only) is still a solid, cheaper option with the strongest noise cancelling tested on any replica. Honestly, the best one depends on what you need: the AirPods Pro 2 V5.3 TB is the best Pro 2, and the AirPods Pro 3 V7 TigerBuilder has the most features. On a budget, the Pro 3 V5.5 or AirPods 2 V3E are the cheapest entry points. The quiz (https://airpodsreplicas.com/quiz) gives a personalised pick.
+Which AirPods replica is the best?
+- **Main all-round recommendation**: **AirPods Pro 3 V7 Huilian** ($67–68, Huilian 377H3, sold by Earhive, HiCity and Jenny) — combines Pro 3 features (AI Hybrid ANC ~38–42 dB, optical heart rate sensor, head gestures, Live Translation) with iCloud Connect, smooth macOS support, StarFun app, and no firmware popup caveat.
+- **Best ANC & 3-device multipoint**: **AirPods Pro 3 V7 TB** ($67–68, Airoha 1571AM, sold by Earhive, HiCity and Jenny on website and Weidian/KakoBuy) — best ANC across the replica lineup plus 3-device multipoint, sensors, and FlyCC; no Live Translation or iCloud Connect, and after a FlyCC firmware update the iOS popup and serial number disappear and must be re-added in FlyCC.
+- **Best value under $50**: **AirPods Pro 3 SE** ($48, XiaoBai, Jenny only) — strong ANC for the price, working head tracking, Live Translation; connects to one device at a time.
+- **Best AirPods Pro 2**: **AirPods Pro 2 V5.3 TB** ($55–57, Airoha 1571AM) — most mature Pro 2 with strongest Pro 2 ANC (34.5 dB average, 41 dB peak) and 3-device multipoint; pick **V5.4 Huilian** ($58) for iCloud Connect.
+- **Best open-ear (no tips)**: **AirPods 4 V3 TB** ($52–53, Airoha 1571AM) for best open-ear ANC and 3-device multipoint, or **AirPods 4 V2 Huilian** ($39–42) for iCloud Connect.
+- **Best over-ear**: **AirPods Max V3 TB** ($126–127, Airoha 1562AE) for real CNC metal ear cups, 4-mic hybrid ANC, head tracking, and 2-device multipoint.
+- **Lowest budget entry**: **AirPods 2 V3E** ($26) or **AirPods Pro 3 V5.5** ($27–28).
+- The interactive quiz (https://airpodsreplicas.com/quiz) gives a personalized pick.
 
 Disclaimer: The information in this guide is intended for informational and educational purposes only. We are not responsible for how this information is used. This guide is not intended to infringe upon any copyrights or to endorse any form of copyright violation.
 
@@ -35,42 +57,43 @@ Disclaimer: The information in this guide is intended for informational and educ
 AirPods replicas offer a variety of features that mimic those of the original AirPods.
 
 Supported Features:
-- All current models support name changing, GPS, and changing tap controls (iOS and macOS only).
+- All current models support name changing, GPS (via iOS Settings), and changing tap controls (iOS and macOS only).
 - Many models support Spatial Audio, Audio Share, and Live Listen (all iOS and macOS only).
 - Transparency mode and Active Noise Cancelling (ANC) are available on AirPods Pro, AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max models.
 - The ANC on replicas is really close to the original AirPods as shown in many reviews, but is not 1:1.
 
 Newer model capabilities:
-- USB-C charging: AirPods Pro 2 V5.1+, AirPods Pro 3, AirPods 4, AirPods Max V3
-- iCloud Connect: AirPods Pro 2 V5.4, AirPods Pro 3 V6, AirPods 4 V3
-- Adaptive Audio: AirPods Pro 2 V5.3+
-- Conversation Awareness: AirPods Pro 2 V5.3+
-- Live Translation: AirPods Pro 3 V6
+- USB-C charging: AirPods Pro 2 V5.2+, AirPods Pro 3, AirPods 4, AirPods Max V3 & V3P (Pro 2 V5.0 and V5.1 use Lightning)
+- iCloud Connect (EXACT list — 5 Huilian models only): AirPods Pro 3 V7 Huilian, AirPods Pro 3 V6 Huilian, AirPods Pro 2 V5.4 Huilian, AirPods Pro 2 V5.3 Huilian, and AirPods 4 V2 Huilian
+- Live Translation: AirPods Pro 3 V7 Huilian, AirPods Pro 3 V6 Huilian, and AirPods Pro 3 SE (NOT AirPods Pro 3 V7 TB)
+- Adaptive Audio: AirPods Pro 2 V5.2+ (V5.2 TB, V5.3 TB/Huilian, V5.4 Huilian), AirPods 4 V3 TB & V2 Huilian
+- Conversation Awareness: AirPods Pro 2 V5.2+, AirPods Pro 3 V7 (Huilian & TB) & V6 Huilian, AirPods 4 V3 TB & V2 Huilian
+- Heart Rate Sensor & Head Gestures: AirPods Pro 3 V7 (Huilian & TB); casual-accuracy heart rate only on Pro 3 SE (no head gestures)
 
-Android users can make touch settings changes on an iPhone at https://airreps.info/iossettings -- these changes should carry over to Android. Some manufacturers also have their own Android apps (see Useful Apps section).
+Android users can make touch settings changes on an iPhone at https://airreps.info/iossettings -- these changes should carry over to Android. Both FlyCC (Airoha/TB) and StarFun (Huilian) are available on Android (APK) and the iOS App Store (see Useful Apps section).
 
 In-Ear Sensors: The in-ear sensors pause music almost instantly (around 1 second delay) when removed from ears. The beep sound when inserting matches the original Apple sound on most current models.
 
-Tap and Force Touch Controls: Functional but might take some getting used to. For 2nd gen replicas, a firm tap is required. For Pro models, only a light push or squeeze is needed. AirPods Pro 2 replicas (V5.3TB and newer) feature a force sensor configuration that closely matches the originals.
+Tap and Force Touch Controls: Functional but might take some getting used to. For 2nd gen replicas, a firm tap is required. For Pro and AirPods 4 models, a light pinch/squeeze (Force Touch) is needed. Stem slide volume control is available on AirPods Pro 2 and Pro 3 replicas (not AirPods 4).
 
-Microphone Quality: Usable and very comparable to original AirPods. Good enough for calls. The latest AirPods Pro 2 replicas (V5.4 and V5.3 Huilian, HR & TB) have microphone quality comparable to the original AirPods.
+Microphone Quality: Usable and very comparable to original AirPods. Good enough for calls. Current AirPods Pro 2 and Pro 3 replicas have microphone quality comparable to original AirPods.
 
 ---
 
 ## Sound Quality
 
-The best widely available AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, and AirPods Pro 3 replicas score about 8-9/10 in sound quality when compared to the original AirPods.
+The best widely available AirPods 2, AirPods 4, AirPods Pro 2, and AirPods Pro 3 replicas score about 8-9/10 in sound quality when compared to original AirPods.
 
-AirPods Pro seal into the ear, so they may sound significantly better than AirPods 2/3, which are shaped to let outside noise in. Choose the shape and fit that you prefer.
+AirPods Pro seal into the ear with silicone tips, so they deliver stronger bass and passive isolation than open-ear AirPods 2/4. Choose the shape and fit you prefer.
 
-Sound Quality Variations: Sound quality can vary depending on the version, chip, and batch. Many models emphasize bass without being overpowering. Mids are pronounced, but highs could be improved. The EQ can vary by seller.
+Sound Quality Variations: Sound quality varies by version, chip, and batch. Many TigerBuilder models emphasize bass without overpowering; mids are clear. EQ can vary by seller and can be tuned via companion apps.
 
 EQ Apps by Chipset:
-- TigerBuilder: Use FlyCC or BullSuper to adjust EQ
-- HR: Use BullSuper
-- Huilian: Use Starfun
+- TigerBuilder / Airoha: FlyCC (Android & iOS)
+- HR: BullSuper (Android) / G&Link (iOS)
+- Huilian: StarFun (Android & iOS)
 
-Custom EQ Settings: Join the Discord server (https://airreps.link/discord) -- community members share EQ settings in the #help-and-advice channel.
+Custom EQ Settings: Join the Discord server (https://airreps.link/discord) -- community members share EQ presets pinned in the #help-and-advice channel.
 
 Audio Delay: Around 50-150 ms depending on the version, barely noticeable. For reference, original AirPods have a delay of 140-200 ms.
 
@@ -80,439 +103,305 @@ Audio Delay: Around 50-150 ms depending on the version, barely noticeable. For r
 
 Weight: The case and pods generally match the accurate weight of original AirPods.
 
-Hinge: All replicas sold through AirReps trusted sellers have metal hinges. Some units (such as Huilian and HR+) use a near-perfect copy of the Apple hinge. HR+ currently has some alignment issues, so the price difference might not be justified.
+Hinge: All replicas sold through AirReps trusted sellers have metal hinges. Huilian and HR+ units use a near-perfect copy of the Apple hinge.
 
 Text: The "Designed by Apple" text on the back uses a similar font to the original. Text alignment and color can vary. Some batches have real serial numbers, others do not. You can request custom laser engraving by sending your preferred seller a WhatsApp message with the text you want along with your order number. For logos or detailed designs, send artwork in .svg or .png format to Jenny or Earhive.
 
-Back Button: Flush with the case, but on some models clicks louder than the original.
+Back Button: Flush with the case, though on some models it clicks slightly louder than original.
 
-Lid and Magnets: All latest models have reverse magnets, ensuring the lid stays open when needed.
+Lid and Magnets: All current models have reverse magnets so the lid stays open when needed.
 
-LED Diffuser: Newer models include an LED diffuser to dim the LED.
+LED Diffuser: Newer models include an LED diffuser to dim the status LED.
 
-Ear Tips (AirPods Pro): Avoid forcibly removing ear tips as it could damage the pods. Twist and pull them off. Hold pods by the tip, not by the stem.
+Ear Tips (AirPods Pro): Avoid forcibly pulling ear tips off as it could damage the pods. Twist and pull them off. Hold pods by the tip, not the stem.
 
 FAQ:
-- Can fake AirPods be charged in a real case or vice versa? No. Doing so may cause them to break. Not recommended in either direction.
-- Will AirPods cases fit on clones? All soft silicone protective cases will fit. Hard plastic cases may not fit most clones (mostly older models as they are slightly bigger).
+- Can fake AirPods be charged in a real case or vice versa? No. Doing so may break them. Not recommended in either direction.
+- Will AirPods cases fit on clones? All soft silicone protective cases fit. Hard plastic cases may not fit older models that are slightly larger.
 
 ---
 
 ## Battery Life
 
-Average Battery Life: Around 8-10 hours per charge at 75% volume. The case provides 2-3 full charges, giving 24-30 hours total. Older models: 5-7 hours. High-end models like Pro 2 V5.3 TB: 7-8 hours.
+Average Battery Life: Around 5-8 hours per charge on current models depending on volume and whether ANC is enabled. The charging case provides 2-4 full charges. High-end Airoha models like Pro 2 V5.3 TB reach ~8 hours without ANC and ~6 hours with ANC; Huilian Pro 2 models reach ~6 hours without ANC and ~4.5 hours with ANC; Pro 3 V7 Huilian is rated around 7 hours per charge. AirPods Max V3 TB and V3P are seller-listed at 20 hours.
 
-Battery Life Variations: Actual battery life varies depending on model version, chip generation, manufacturing batch, and usage patterns (volume level, features used, age of the replica).
+Battery Life Variations: Actual battery life depends on model version, chipset, manufacturing batch, volume level, ANC usage, and battery age.
 
-Battery Level Accuracy: Battery levels on iOS may not always be accurate, though this has been largely resolved in newer replicas. Replicas beep at 20% battery like originals. Android users can check battery in Bluetooth settings or use apps like TWTools, Materialpods, or Andropods.
+Battery Level Accuracy: Battery levels on iOS are largely accurate on current replicas. Replicas beep at 20% battery like originals. Android users can check battery in Bluetooth settings or via companion apps.
 
-Wireless/Fast Charging: AirReps support both wireless and wired fast charging. Older models can overheat if left on the charger too long, especially with wireless charging. Avoid charging more than 2-3 hours at a time on older models. Newer models (5.3TB, 5.3HR+, 5.4Huilian) handle fast charging safely.
+Wireless/Fast Charging: Current AirReps support both wireless and wired charging. Avoid leaving older models on wireless chargers for more than 2-3 hours. Newer models (Pro 2 V5.3 TB, V5.4 Huilian, Pro 3 V7/SE, AirPods 4 V3 TB) handle charging safely.
 
 ---
 
 ## Connectivity
 
-iOS Popup: Appears almost instantly on AirPods replicas. May appear faster than on original AirPods in some cases.
+iOS Popup: Appears almost instantly on AirPods replicas — sometimes faster than on original AirPods.
 
-macOS Connectivity: Only a few newer clones work flawlessly with macOS. The "Huilian" model is recommended for MacBook or iMac use, as it supports iCloud switching for seamless integration. Other clones may have their volume stuck at 100% on macOS (TB models). A third-party open-source app can partially fix this, though volume gestures on the AirPods will not work on TB models with this method. See troubleshooting section for details.
+macOS Connectivity: Only Huilian models support iCloud Connect and smooth macOS volume control out of the box. The guide recommends Huilian models (such as Pro 3 V7 Huilian, Pro 2 V5.4 Huilian, or AirPods 4 V2 Huilian) for MacBook or iMac users. Other clones (including TB models) can have their volume stuck at 100% on Intel Macs; the open-source proxy-audio-device tool partially fixes this, though volume gestures on TB earbuds won't work with that workaround.
 
-Range: Matches original AirPods at around 10 meters. Obstructions like thick walls can affect range.
+Range: Matches original AirPods at around 10 meters, subject to walls and obstructions.
 
-Latency: Some replicas may have better latency than originals. Websites like YouTube automatically adjust for latency.
+Latency: Comparable to or lower than originals (~50-150 ms). Video platforms like YouTube automatically compensate for Bluetooth latency.
 
-Multi-Device Connectivity: Most replicas support connecting to multiple devices at once. Only Huilian models can connect to several Apple devices using iCloud Connect.
-
-Note: iCloud Connect is only supported on 5.3 and 5.4 Huilian models. All others lack this feature.
+Multi-Device Connectivity:
+- **iCloud Connect (Apple ID switching)** is supported ONLY on these 5 Huilian models: AirPods Pro 3 V7 Huilian, AirPods Pro 3 V6 Huilian, AirPods Pro 2 V5.4 Huilian, AirPods Pro 2 V5.3 Huilian, and AirPods 4 V2 Huilian.
+- **Standard Bluetooth Multipoint** is available on Airoha/TigerBuilder models (3 devices on Pro 3 V7 TB, Pro 2 V5.3 TB, AirPods 4 V3 TB; 2 devices on Pro 3 V6 TB, AirPods 4 V2 TB, AirPods Max V3 TB).
+- **Single device only**: Pro 3 SE, Pro 3 V5.5, Pro 2 V5.2 TB, AirPods Max V3P.
 
 ---
 
 ## Active Noise Cancellation (ANC) Explained
 
-ANC reduces unwanted background noise by generating sound waves that cancel out ambient noise. It creates "anti-noise" that counteracts incoming sound waves. While ANC significantly reduces external noise, it rarely eliminates it completely.
+ANC reduces unwanted background noise by generating inverted sound waves ("anti-noise") that cancel out ambient noise. While ANC significantly reduces external noise, it rarely eliminates it completely.
 
 Three implementations:
-
-Feedback ANC: Uses a microphone inside the ear cup to pick up sounds the listener hears. Adapts to sudden changes and works well across wide frequency range. Struggles with high-frequency sounds (1000-2000 Hz range).
-
-Feedforward ANC: Uses an external microphone to process noise before it reaches the listener. Handles high-frequency noises better. Lacks self-correction and works within a narrower frequency range. More sensitive to wind.
-
-Hybrid ANC: Combines both methods using internal and external microphones. Suppresses noise over a broader range, adapts to sudden changes, and is not sensitive to headset placement. More expensive to manufacture. Original AirPods Pro use hybrid ANC. Many current AirPods replicas now also implement hybrid ANC. The V5.3 TB (Airoha 1571AM chipset) replicates the hybrid ANC effect for a full noise-canceling experience.
+- **Feedback ANC**: Uses an internal microphone inside the ear cup/bud to adapt to sudden changes across a wide frequency range; struggles with high frequencies (1000-2000 Hz).
+- **Feedforward ANC**: Uses an external microphone to process noise before it reaches the ear; handles higher frequencies better but is more sensitive to wind.
+- **Hybrid ANC**: Combines internal and external microphones for broad-spectrum cancellation and placement tolerance. Original AirPods Pro use hybrid ANC, and flagship replicas (Pro 3 V7 Huilian/TB ~38-42 dB, Pro 3 SE ~42 dB, Pro 2 V5.3 TB 34.5 dB avg / 41 dB peak, AirPods 4 V3 TB, Max V3 TB) implement hybrid ANC.
 
 ---
 
 ## Packaging
 
-No-Logo Box: White box, similar shape to original, with an image of AirPods but no "AirPods" text, Apple logos, or trademarks. Generic manual and cable. If you order using an Alibaba link, replicas will always be shipped in a No-Logo box.
+No-Logo Box: White box with an image of AirPods but no "AirPods" text, Apple logos, or trademarks. Generic manual and cable. Orders placed via Alibaba always ship in a No-Logo box.
 
-Apple Logo Box: Mirrors legitimate AirPods packaging with "AirPods" text and Apple logos. Requesting this increases risk of customs seizure and potential fines. Many sellers use a double box technique.
+Apple Logo Box: Mirrors legitimate AirPods packaging with "AirPods" text and Apple logos. Shipping this bare increases customs seizure risk.
 
-Double/Decoy Box: Best option for most buyers. Generic outer box with the Apple Logo Box hidden inside. Significantly reduces customs seizure risk. When you select Apple Logo Box at checkout, the double box is automatically included. Pre-selected on most payment methods. Not available through Alibaba.
+Double/Decoy Box: Best option for most buyers. Generic outer box with the Apple Logo Box hidden inside, significantly reducing customs risk. Automatically included when selecting Apple Logo Box at trusted seller checkouts (not available on Alibaba).
 
-Box Quality: Can range from well-made to lower quality. Ask the seller for photos if box quality matters to you.
+Box Quality & Shipping: Box may arrive slightly dented from courier handling. Ask the seller for QC photos if box condition matters.
 
-Handling and Shipping: Box may arrive slightly dented due to courier handling.
-
-Charging Cable: Included cable may not support data transfer -- sellers often use cables with dummy pins.
+Charging Cable: Included cable may use dummy data pins and only support charging, not data transfer.
 
 ---
 
 ## Sellers
 
-Trusted Sellers: Community-verified sellers provide reliable products, responsive customer service, and quality control. They have been thoroughly tested by the community.
+Trusted Sellers: Community-verified sellers provide reliable version accuracy, responsive support, and quality control.
 
-Verified vs. Unverified: While sellers exist on AliExpress or DHgate, reviews on those platforms may not be unbiased or legitimate. Purchasing from unverified sellers carries more risk.
+Verified vs. Unverified: Marketplace listings on AliExpress or DHgate often use unreliable reviews and vague version labels. Stick to verified sellers.
 
 Trusted Seller Websites:
 - Earhive: https://earhive.com (Best prices)
-- HiCity: https://hicitypods.com (Best support & most payment options)
-- Jenny: https://jenny.airreps.info (Fastest shipping)
+- HiCity: https://hicitypods.com (Best support & most regional payment options)
+- Jenny: https://jenny.airreps.info (Fastest shipping; exclusive seller of Pro 3 SE)
 
-All sellers also have Weidian storefronts accessible through agents like KakoBuy (https://airreps.link/kakobuy).
+All three sellers also operate Weidian storefronts accessible via agents such as KakoBuy (https://airreps.link/kakobuy).
 
-Earhive and Jenny also have Alibaba stores:
+Alibaba stores:
 - Earhive Alibaba: https://airreps.link/ehali
 - Jenny Alibaba: https://airreps.link/jennyali
 
-Resellers: Some offer replicas at higher prices with additional services like warranties or expedited shipping. However, a higher price does not guarantee a better product.
+Resellers: Some resellers charge higher prices for local shipping or warranties, but a higher price does not guarantee a newer or better replica version.
 
 ---
 
 ## Dictionary
 
-W2C (Where To Cop/Where To Buy): "Where can I buy this item?" Used when seeking the source or seller of a product.
-
-Reps/Clones (Replicas): Product imitations designed to copy AirPods as precisely as possible. Distinct from a "knockoff."
-
-Fake AirPods: Informal term for AirPods replicas or clones.
-
-Knockoffs: Products designed to resemble popular brands while avoiding intellectual property infringement.
-
-GP (Guinea Pig): Being the first person to order and review a seller's product, allowing the community to evaluate quality.
-
-QC (Quality Control): QC PICS are pictures used to verify the quality of a purchased product.
-
-LC (Legit Check): Verifies the authenticity of a product, often used when purchasing from non-retail sources.
-
-Agent (Freight Agent/Shipping Forwarder): A third party who facilitates safe purchases from sellers (often in China). They ensure products are not faulty. Recommended agent: KakoBuy (https://airreps.link/kakobuy).
-
-Markings (Product Labeling): Text on the case and AirPods including "Designed by Apple in California," model numbers, and serial numbers.
+- W2C (Where To Cop/Where To Buy): Asking where to buy a specific item or version.
+- Reps/Clones (Replicas): Product imitations designed to copy AirPods as closely as possible. Distinct from a "knockoff."
+- Fake AirPods: Informal term for AirPods replicas or clones.
+- Knockoffs: Earbuds loosely resembling AirPods while avoiding trademarked branding.
+- GP (Guinea Pig): First community member to order and review an untested batch or version.
+- QC (Quality Control): Photos used to verify product build and markings before shipping (standard with agents like KakoBuy).
+- LC (Legit Check): Verifying whether a pair of AirPods is authentic Apple or a replica.
+- Agent (Shopping Agent / Freight Forwarder): Third party in China that buys from Weidian/Taobao, provides QC photos, and ships internationally. Recommended agent: KakoBuy (https://airreps.link/kakobuy).
+- Markings: Laser-printed text on the case and pods including "Designed by Apple in California", model numbers, and serial numbers.
 
 ---
 
 ## General Version Info
 
-About Version Numbers: This version numbering system was designed by the AirReps community to simplify product identification across different manufacturers. When new AirPods models are released, the version numbering continues from previous numbers rather than starting from scratch. Manufacturers like TigerBuilder and Huilian use their own product names (such as "377super"), which can make it difficult to compare. The community naming scheme provides standardized version numbers.
+About Version Numbers: This version numbering system was designed by the AirReps community to standardize product identification across manufacturers (TigerBuilder, Huilian, HR, etc.), whose own internal names (such as "377super") are hard to compare. Version numbers continue forward across generations rather than resetting.
 
-Important: Manufacturers are not the same as sellers. You cannot buy directly from manufacturers -- you purchase from sellers who source products from these manufacturers.
+Important: Manufacturers are not sellers. You cannot buy directly from manufacturers — buy from trusted sellers who source those specific builds.
 
-Summary of Missing Features by Model (Latest Versions):
+Summary of Missing Features by Model (Current Versions):
 
-AirPods Pro 3 (V6): Missing heartrate sensor, higher-end build quality, nodding gestures, Find My Network
-AirPods 4 (V3): Missing Find My Network, accurate case SFX, and more noticeable details
-AirPods Pro 2 (V5.4): Missing perfect Spatial Audio, Find My Network
-AirPods 3 (V1E): Missing iCloud Connect, Find My Network
-AirPods Max (V3): Missing multi-device connect, retail AirPods Max ANC, better transparency mode, more subtle details
-AirPods Pro (V4.9): Missing 1:1 noise cancelling, Find My Network
-AirPods 2 (V3E): Missing iCloud Connect, Find My Network
+- AirPods Pro 3 (V7 Huilian / V7 TB): Missing Find My Network; on V7 TB, iOS popup and serial number disappear after a FlyCC firmware update and must be re-added (V7 TB also lacks Live Translation and iCloud Connect)
+- AirPods Pro 3 (SE): Missing Find My Network, multi-device / iCloud Connect, Conversation Awareness, head gestures; heart rate sensor is casual-accuracy only
+- AirPods 4 (V3 TB): Missing Find My Network, iCloud Connect (use V2 Huilian for iCloud Connect), subtle retail finishing details
+- AirPods Pro 2 (V5.4 Huilian / V5.3 TB): Missing Find My Network, perfect retail Spatial Audio DSP (V5.3 TB uses 3-device multipoint rather than iCloud Connect)
+- AirPods 3 (V1E — not currently stocked): Missing iCloud Connect, Find My Network
+- AirPods Max (V3 TB Metal): Missing Find My Network, iCloud Connect, retail-grade AirPods Max ANC and transparency
+- AirPods Pro 1 (V4.9 — discontinued): Missing Find My Network, 1:1 noise cancelling
+- AirPods 2 (V3E): Missing iCloud Connect, Find My Network
 
-All Models Have: Name Changing, GPS (iOS only), Changing Tap Controls (iOS only)
-All Models Missing: "Find My Network" Availability
+All Current Models Have: Name Changing, GPS via iOS Settings (iOS only), Changing Tap/Pinch Controls (iOS only), iOS Pairing Popup, About Page
+All Models Missing: Apple's encrypted "Find My Network" (Precision Finding)
 
 FAQ:
-- Are AirPods Max reps available? Yes. Jenny and HiCity sell them using the Airoha 1561M/1562AE. Prices have stabilized.
-- Are AirPods Pro 3 reps available? Yes. The flagship V7 comes in two builds, TigerBuilder (Airoha 1571AM, the newest and best build) and Huilian (377H3); the TigerBuilder V7 has the iOS popup and a serial number (after a firmware update in the FlyCC app, the popup and serial number disappear and need to be re-added); it uses the FlyCC app. The SE, V6, and V5.5 are also available.
-- Why might similar communities have newer products? Other communities may have lower standards or use different naming schemes.
-- Which model is the best? The top-listed model is the latest. Consider your budget, shipping availability, and desired features.
-- How can I determine the version of a clone I found? Not possible without using it. Chip numbers and seller pictures are unreliable. Purchase from verified sellers to know exactly what you are getting.
-- How can I determine the chip in my AirPods? Use the apps listed in Useful Apps. Test each app to see which one connects. If none connect, the AirPods likely use the Jieli chipset.
-- How can I determine if my AirPods are real? Connect to iPhone, go to Settings > General > About. Check for "AirPods" section. Verify serial number matches the one on the case lid. Some newer replicas may have a functioning About page -- in that case check for Spatial Audio with head tracking, or verify firmware version matches Apple's latest.
-- Are i9999, Superpods, etc. better? No. Chinese sellers use these names to appear to offer newer products. They no longer carry meaning. Focus on actual features and quality.
+- Are AirPods Max reps available? Yes. Earhive, HiCity, and Jenny sell the flagship V3 Metal (Max V3 TB, Airoha 1562AE, $126–127); Earhive and Jenny also sell the plastic-steel V3P (Airoha 1561M, $85–94).
+- Are AirPods Pro 3 reps available? Yes. The flagship V7 comes in two builds at $67–68: V7 Huilian (Huilian 377H3 — main all-round pick with iCloud Connect, Live Translation, StarFun, smooth Mac use) and V7 TigerBuilder (Airoha 1571AM — best ANC pick with 3-device multipoint and FlyCC; note after a FlyCC firmware update the iOS popup and serial number disappear and must be re-added). Also available: SE ($48, Jenny only, best value under $50 with strong ANC for the price), V6 (Huilian $43–45 / TB $37–38), and V5.5 ($27–28).
+- Are AirPods 5 reps available? Not yet.
+- Why might similar communities have newer products? Other communities may use different naming schemes or lower quality standards.
+- How can I determine the version of a clone I found? Not possible from listing photos or claimed chip numbers alone. Buy from verified sellers to know what version you receive.
+- How can I determine the chip in my AirPods? Test the companion apps on Useful Apps (FlyCC for Airoha/TB, StarFun for Huilian, BullSuper for HR, etc.). If no app connects, the pair is either a low-tier Jieli clone or genuine Apple AirPods.
+- How can I determine if my AirPods are real? Check Apple's Find My network (Precision Finding — no replica supports it), verify Settings > General > About serial matches inside the lid, check firmware version against Apple's latest, and test companion apps.
+- Are i9999, Superpods, etc. better? No. Those marketing names carry no standardized meaning and should be ignored.
 
 ---
 
 ## AirPods Pro 3 Version Comparison
 
-V7 | Chip: Airoha 1571AM (TigerBuilder) / Huilian 377H3
-Has: USB-C, AI Hybrid ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup, iOS 27 Support, Live Translation (Huilian only), iCloud Connect (Huilian only), Heart Rate Sensor, Head Gesture Controls, Low-Latency Gaming Mode
+V7 Huilian | Chip: Huilian 377H3 | $67–68 | Sold by Earhive, HiCity, Jenny (Main all-round pick)
+Has: USB-C, AI Hybrid ANC (~38–42 dB), Transparency Mode, Stem Slide Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup, iOS 27 Support, Live Translation, iCloud Connect, Optical Heart Rate Sensor, Head Gesture Controls, Conversation Awareness, Low-Latency Gaming Mode, StarFun app (Android & iOS), ~7h rated earbud battery
 Missing: Find My Network
-Note: Pro 3 V7 (TigerBuilder version only): comes with the iOS popup and a serial number. Note: after a firmware update in the FlyCC app, the iOS popup and serial number disappear and need to be re-added. The Huilian V7 is not affected. The TigerBuilder is the newest and best V7 build; it uses the FlyCC app and multipoint for 3 devices. The Huilian build is the runner-up; it uses the Starfun app and iCloud Connect.
-Reviews: https://www.reddit.com/r/AirReps/search?q=v7&restrict_sr=1
+Reviews: https://www.reddit.com/r/AirReps/search?q=v7+huilian&restrict_sr=1
 
-SE | Chip: XiaoBai | Sold by Jenny only (~$48)
-Has: USB-C, Strongest ANC we've tested on any replica (~42 dB), Transparency Mode, Volume Control, Real Spatial Audio (with head-tracking), Live Translation, Heart Rate Sensor (casual accuracy: 15-20 bpm off a medical-grade sensor in testing), In-Ear Detection, Wireless Charging, Pro 3 Popup, iOS 27 Support
+V7 TigerBuilder (TB) | Chip: Airoha 1571AM | $67–68 | Sold by Earhive, HiCity, Jenny (Best ANC & 3-device pick; Website + Weidian/KakoBuy)
+Has: USB-C, Best replica Adaptive Hybrid ANC (~38–42 dB), Transparency Mode, Stem Slide Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup & serial number, iOS 27 Support, Optical Heart Rate Sensor, Head Gesture Controls, Conversation Awareness, 3-Device Bluetooth Multipoint, FlyCC app (Android & iOS)
+Missing: Find My Network, iCloud Connect, Live Translation
+Caveat: After a firmware update in FlyCC, the iOS popup and serial number disappear and must be re-added in FlyCC. The Huilian V7 is not affected.
+Reviews: https://www.reddit.com/r/AirReps/search?q=v7+tb&restrict_sr=1
+
+SE | Chip: XiaoBai | $48 | Sold by Jenny only (Best value under $50)
+Has: USB-C, Strong ANC for the price (~42 dB), Transparency Mode, Stem Slide Volume Control, Real Spatial Audio (with head-tracking), Live Translation, Heart Rate Sensor (casual accuracy: 15-20 bpm off medical-grade sensors), In-Ear Detection, Wireless Charging, Pro 3 Popup, iOS 27 Support
 Missing: Multi-Device Connect (one device at a time, no iCloud Connect), Conversation Awareness, Head Gesture Controls, Find My Network
 Reviews: https://www.reddit.com/r/AirReps/search?q=%22pro+3+se%22&restrict_sr=1
 
-V6 | Chip: Airoha 1563E / Huilian 247
-Has: USB-C, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio, Case Speaker, Hey Siri, Almost 1:1 hinge design, Good ANC, Pro 3 Popup, iOS 27 Support, Live Translation (Huilian only), iCloud Connect (Huilian only)
-Missing: Heartrate sensor, Higher-end build quality, Nodding gestures, Find My Network
+V6 | Chip: Huilian 247 ($43–45) / Airoha 1563E TB ($37–38) | Sold by Earhive, HiCity, Jenny
+Has: USB-C, Good ANC (~36–38 dB), Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Pro 3 Popup, iOS 27 Support; Huilian adds Live Translation, iCloud Connect, Conversation Awareness & StarFun; TB adds 2-device multipoint & FlyCC
+Missing: Heart rate sensor, Head gestures, Find My Network
 Reviews: https://www.reddit.com/r/AirReps/search?q=v6&restrict_sr=1
 
-V5.5 | Chip: Bluetrum 8922
-Has: Decent ANC, Transparency mode, Pro 3 Popup, iOS 27 Support
-Missing: Heartrate sensor, Higher-end build quality, Nodding gestures
+V5.5 | Chip: Bluetrum 8922 | $27–28 | Sold by Earhive, HiCity, Jenny
+Has: USB-C, Decent ANC (~32 dB), Transparency mode, Pro 3 Popup, iOS 27 Support
+Missing: Head tracking, Heart rate sensor, Head gestures, Multi-device connect, Find My Network
 Reviews: https://www.reddit.com/r/AirReps/search?q=v5.5&restrict_sr=1
 
 ---
 
 ## AirPods Pro 2 Version Comparison
 
-Note: Manufacturers are slowly transitioning development focus to newer models. AirPods Pro 2 replicas remain the most mature and feature-complete option in the Pro lineup.
+Note: AirPods Pro 2 replicas remain the most mature, thoroughly refined option in the Pro lineup.
 
-V5.4 | Chip: Huilian 377
-Has: USB-C, Adaptive Audio, Conversation Awareness, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Close to retail ANC, iCloud Connect, OTA, EQ option
-Missing: Perfect Spatial Audio, Find My Network
+V5.4 Huilian | Chip: Huilian 377 | $58 | Sold by Earhive, HiCity, Jenny (Best Pro 2 for Mac / iCloud Connect)
+Has: USB-C, Adaptive Audio, Conversation Awareness, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (head-tracking), Head Gestures, Case Speaker, Hey Siri, Almost 1:1 hinge design, Strong ANC (~35–38 dB), iCloud Connect, StarFun OTA & EQ (Android & iOS)
+Missing: Perfect retail Spatial Audio DSP, Find My Network
 Reviews: https://www.reddit.com/r/AirReps/search?q=v5.4&restrict_sr=1
 
-V5.3 | Chip: Airoha 1571AM (TB) / Airoha 1562AE (HR) / Huilian 277 (Pro Max)
-Has: USB-C, Adaptive Audio, Conversation Awareness, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Close to retail ANC
-Missing: Perfect Spatial Audio, Find My Network
-Reviews: https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1
+V5.3 TB | Chip: Airoha 1571AM | $55–57 | Sold by Earhive, HiCity, Jenny (Best Pro 2 overall)
+Has: USB-C, Adaptive Audio, Conversation Awareness, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (ST gyroscope head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Strongest Pro 2 ANC (34.5 dB average, 41 dB peak), 3-device multipoint, 6h ANC / 8h no-ANC battery, FlyCC app (Android & iOS), iOS 27 support on latest firmware
+Missing: iCloud Connect, Head Gestures, Perfect retail Spatial Audio DSP, Find My Network
+Reviews: https://www.reddit.com/r/AirReps/search?q=v5.3%20tb&restrict_sr=1
 
-V5.3 Lite | Chip: Airoha 1563E (TB) / Huilian 227
-Has: USB-C, Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio & Conversation Awareness (Huilian exclusive), Case Speaker, Hey Siri, Almost 1:1 hinge design, Active Noise Cancellation (weaker than non-lite versions)
-Missing: Perfect Spatial Audio, Find My Network, Retail ANC, Retail Transparency Mode, Adaptive Transparency, and other small details
-Reviews: https://www.reddit.com/r/AirReps/search?q=v5.3&restrict_sr=1
+V5.3 Huilian | Chip: Huilian 277 Pro Max | $56 | Sold by Earhive, Jenny
+Has: USB-C, Adaptive Audio, Conversation Awareness, Real Spatial Audio (head-tracking), iCloud Connect, 1:1 hinge, StarFun app, ~4.5h ANC / 6h no-ANC battery, ANC ~30–32 dB (38 dB peak)
+Missing: Find My Network, TB-level ANC & battery
+Reviews: https://www.reddit.com/r/AirReps/search?q=v5.3%20huilian&restrict_sr=1
 
-V5.2 | Chip: Airoha 1562AE / Huilian 277
-Has: USB-C, Adaptive Audio, Conversation Awareness, Active Noise Cancelling, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, Almost 1:1 hinge design, Close to retail ANC
-Missing: Perfect Spatial Audio, iCloud Connect, Find My Network
+V5.3 Lite | Chip: Airoha 1563E (TB, $31) / Huilian 227 (HL, $43) | Sold by HiCity (website + Weidian)
+Has: USB-C, Basic ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Case Speaker, Hey Siri; Huilian build adds head-tracking Spatial Audio & Conversation Awareness
+Missing: Strong ANC, Adaptive Audio, Find My Network
+Reviews: https://www.reddit.com/r/AirReps/search?q=v5.3%20lite&restrict_sr=1
+
+V5.2 TB | Chip: Airoha 1562AE | $49–52 | Sold by Earhive, HiCity, Jenny
+Has: USB-C, Adaptive Audio, Conversation Awareness, Strong ANC (33.6 dB avg, 39 dB peak), Real Spatial Audio (head-tracking), 6h ANC / 8h no-ANC battery, FlyCC app
+Missing: Multi-device connect (1 device), iCloud Connect, Find My Network
 Reviews: https://www.reddit.com/r/AirReps/search?q=v5.2&restrict_sr=1
 
-V5.1 | Chip: Huilian 277 / BES2600IHC
-Has: Active Noise Cancelling, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri, 1:1 hinge design, Close to retail ANC
-Missing: USB-C, Perfect Spatial Audio, iCloud Connect, Find My Network and many small details
-Reviews: https://www.reddit.com/r/AirReps/search?q=v5.1&restrict_sr=1
-
-V5.0 | Chip: Huilian 247B
-Has: Active Noise Cancelling, Better Transparency Mode, Volume Control, Force Touch Controls, About Page, Improved SFX, Real Spatial Audio (with head-tracking), Case Speaker, Hey Siri
-Missing: USB-C, Proper ANC, Perfect Spatial Audio, iCloud Connect, Find My Network and many small details
-Reviews: https://www.reddit.com/r/AirReps/search?q=v5.0&restrict_sr=1
-
-V4.2 | Chip: Bluetrum
-Has: USB-C, Active Noise Cancelling, Transparency Mode, Volume Control, Force Touch Controls, About Page, Spatial Audio (no head-tracking - HiCity V4.2 only), Case Speaker
-Missing: Stable sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, iCloud Connect, Spatial Audio, Accurate Case SFX, Find My Network and more noticeable details
-Reviews: https://www.reddit.com/r/AirReps/search?q=v4.2&restrict_sr=1
-
-V5.4 Version Differences:
-This version is only an upgrade for Huilian models. ANC performance improved, stability seems better. Hardware is largely unchanged apart from the chipset. Upgrades appear to be firmware updates restricted to this new unit.
+V4.2 | Chip: Bluetrum | Budget Pro 2 entry | Sold by Earhive, HiCity, Jenny
+Has: USB-C, Basic ANC, Transparency Mode, Volume Control, Force Touch Controls, About Page, Case Speaker
+Missing: Strong ANC, Multi-device connect, iCloud Connect, Head tracking, Find My Network
 
 V5.3 Version Differences:
+- TB (Airoha 1571AM): White, tougher, more sweatproof case; ST gyroscope; 8h without ANC / 6h with ANC; bass-heavy tuning; strongest Pro 2 ANC (34.5 dB avg, 41 dB peak).
+- HR (Airoha 1562AE): Softer case; 7.5h / 5.5h battery; balanced tuning; best transparency; 34.4 dB avg / 39 dB peak ANC.
+- HR+: Upgraded case with 1:1 hinge, sealed construction, strong mic isolation; 34.5 dB avg / 40 dB peak ANC.
+- Huilian (277 Pro Max): 1:1 hinge, iCloud Connect; weaker ANC (30-32 dB avg, 38 dB peak); 6h / 4.5h battery.
 
-TB: White, tougher case that is more sweatproof. ST gyroscope (similar to V4.7 and retail) for excellent spatial audio. Battery: 8 hours without ANC, 6 hours with ANC. Bass-heavy tuning. Best ANC among V5.3 (average 34.5 dB, peak 41 dB).
-
-HR: Yellowish, softer case, less sweatproof. Battery: 7.5 hours without ANC, 5.5 hours with ANC. Balanced tuning with slight bass emphasis. Best transparency mode. ANC second to TB due to older 1562AE chipset (34.4 dB, peak 39 dB).
-
-HR+: Built on top of HR with upgraded case, 1:1 hinge and sealed/glued construction (best workmanship). One of the better mic qualities (isolated mic design). ANC second to TB (34.5 dB, peak 40 dB).
-
-Huilian: Middle-of-the-pack case, firmer than HR but softer than TB, with 1:1 hinge. ANC is significantly worse than TB and HR (average 30-32 dB, peak 38 dB). Battery: 6 hours without ANC, 4.5 hours with ANC.
-
-V5.2 Version Differences:
-
-TB: White, tougher case, more sweatproof. ST gyroscope for excellent spatial audio. Battery: 8 hours without ANC, 6 hours with ANC. Bass-heavy tuning. Significantly better ANC than Huilian (average 33.6 dB, peak 39 dB).
-
-HR: Yellowish, softer case, less sweatproof. Battery: 7 hours without ANC, 5 hours with ANC. Bass-heavy tuning. Best transparency and ANC performance (average 34.2 dB, peak 39 dB).
-
-Huilian: Middle-of-the-pack case with 1:1 hinge. ANC significantly worse (average 30-32 dB, peak 38 dB). Battery: 6 hours without ANC, 4.5 hours with ANC.
-
-V5.3TB vs V5.2TB Upgrade Notes:
-- Speaker upgraded from F10.2 to F11 (minor change)
-- Battery updated (no capacity increase)
-- Supports connection to up to 3 devices simultaneously
-- Adaptive ANC improved by approximately 5%
-
-Discontinued models: V5.2 Huilian, V5.1 Huilian, V5 Huilian
+Discontinued Pro 2 models: V5.2 Huilian, V5.1 (Lightning), V5.0 (Lightning)
 
 ---
 
-## AirPods Pro Version Comparison
+## AirPods Pro (1st Gen) Version Comparison
 
-Note: This product line is no longer being actively updated by manufacturers. AirPods Pro replicas are still excellent products. For the latest features, consider AirPods Pro 2 or AirPods Pro 3.
-
-V4.9 | Chip: Airoha 1562AE
-Has: Hybrid ANC, Transparency Mode, Metal Vents, Force Touch Controls, Improved Mic, Spatial Audio, Head Tracking, Improved ANC and Transparency Mode, Almost 1:1 Hinge Design, Retail/Perfect ANC
-Missing: Perfect Spatial Audio, Better SFX, iCloud Connect and more subtle details
-Reviews: https://www.reddit.com/r/AirReps/search?q=v4.9&restrict_sr=1
-
-V4.8 | Chip: BES 2300ZP
-Has: Hybrid ANC, Transparency Mode, Metal Vents, Force Touch Controls, Spatial Audio, Head Tracking, Improved ANC and Transparency, 1:1 Hinge Design
-Missing: Retail/Perfect ANC, Perfect Spatial Audio, iCloud Connect
-Reviews: https://www.reddit.com/r/AirReps/search?q=v4.8&restrict_sr=1
-
-V4.7 | Chip: HUILIAN A6 PRO / BES 2300ZP
-Has: Hybrid ANC, Transparency Mode, Metal Vents, Force Touch Controls, Spatial Audio, Head Tracking, Close to retail ANC, 1:1 Hinge Design
-Missing: Multi-Device Connect, Retail/Perfect ANC, Perfect Spatial Audio, iCloud Connect
-Reviews: https://www.reddit.com/r/AirReps/search?q=v4.7&restrict_sr=1
-
-V4.5 | Chip: Airoha 1562A
-Has: Hybrid ANC, Transparency Mode, Metal Vents, Force Touch Controls, Spatial Audio, iCloud Connect
-Missing: Improved SFX, Multi-Device Connect, Retail/Perfect ANC, 1:1 Hinge Design, Perfect Spatial Audio
-Reviews: https://www.reddit.com/r/AirReps/search?q=v4.5&restrict_sr=1
-
-V4 | Chip: Bluetrum
-Has: ANC, Transparency Mode, Metal Vents, Force Touch Controls, About Page, Spatial Audio (no head-tracking - HiCity V4 only)
-Missing: Stable sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, Spatial Audio, iCloud Connect
-Reviews: https://www.reddit.com/r/AirReps/search?q=v4&restrict_sr=1
-
-V3.9 | Chip: Airoha 1536 + ANC1425
-Has: Single Mic ANC, Transparency Mode, Metal Vents, Improved Build Quality, Force Touch Controls, About Page
-Missing: Better sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, Spatial Audio, iCloud Connect
-
-V3.8 | Chip: Airoha 1536
-Has: Transparency Mode, Metal Hinge, Metal Vents, Improved Build Quality, Force Touch Controls, Audio Share, About Page
-Missing: ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, Spatial Audio, iCloud Connect
-
-V4.9 Version Differences:
-TB: White, tougher, more sweatproof case. ST gyroscope for excellent spatial audio. Battery: 6 hours with ANC.
-HR: Yellowish, softer case. Slightly better ANC (similar in most situations, up to 1dB difference). Battery: 6 hours without ANC, 4 hours with ANC.
-
-Discontinued: V4.8, V4.7, V4.5, V3.9, V3.8
+Note: First-gen AirPods Pro replicas (V4.9, V4.8, V4.7, V4.5, V4, V3.9, V3.8) are discontinued and no longer stocked by trusted sellers. Buy AirPods Pro 2 or AirPods Pro 3 replicas instead.
 
 ---
 
 ## AirPods 4 Version Comparison
 
-V3 | Chip: Airoha 1571AM
-Has: USB-C, ANC, Transparency Mode, Metal Vents, Volume Control, Touch Control, About Page, Spatial Audio, Case Speaker, Stable sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, Spatial Audio (head tracking), Force Touch Sensor
-Missing: iCloud Connect, Find My Network, Accurate Case SFX
+V3 TB | Chip: Airoha 1571AM | $52–53 | Sold by Earhive, HiCity, Jenny (Best open-ear replica)
+Has: USB-C, Dual-mic Hybrid Open-Ear ANC, Transparency Mode, Force Touch Controls (no stem volume swipe), About Page, Head-Tracking Spatial Audio (dual ST gyroscopes), Conversation Awareness, Adaptive Audio, Case Speaker, Hey Siri, 3-Device Multipoint, FlyCC app (Android & iOS), iOS 27 Support
+Missing: iCloud Connect, Find My Network, Stem Volume Swipe
 Reviews: https://www.reddit.com/r/AirReps/search?q=AirPods4V3&restrict_sr=1
 
-V2 | Chip: Huilian 247 / Airoha 1563E
-Has: USB-C, ANC, Transparency Mode, Metal Vents, Volume Control, Touch Control, About Page, Spatial Audio, Case Speaker, Stable sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, Spatial Audio (head tracking), Force Touch Sensor
-Missing: iCloud Connect, Find My Network, Accurate Case SFX
+V2 Huilian | Chip: Huilian 247 | $39–42 | Sold by Earhive, HiCity, Jenny (Best open-ear for Mac / iCloud Connect)
+Has: USB-C, Hybrid Open-Ear ANC (~35 dB), Transparency Mode, Force Touch Controls, About Page, Head-Tracking Spatial Audio, Conversation Awareness, Adaptive Audio, Case Speaker, Hey Siri, **iCloud Connect**, StarFun app (Android & iOS, custom EQ syncs to iOS), iOS 27 Support
+Missing: Find My Network, Stem Volume Swipe
 Reviews: https://www.reddit.com/r/AirReps/search?q=AirPods4V2&restrict_sr=1
 
-V1 | Chip: Bluetrum
-Has: USB-C, ANC, Transparency Mode, Metal Vents, Volume Control, Touch Control, About Page, Spatial Audio (no head-tracking), Case Speaker
-Missing: Stable sound quality, Proper ANC, Improved SFX, Better Transparency Mode, Multi-Device Connect, iCloud Connect, Spatial Audio (head tracking), Force Touch Sensor, Accurate Case SFX
-Reviews: https://www.reddit.com/r/AirReps/search?q=AirPods4V1&restrict_sr=1
+V2 TB | Chip: Airoha 1563E | $29–30 | Sold by Earhive, HiCity, Jenny (Best budget open-ear)
+Has: USB-C, Single-Mic Basic ANC, Transparency Mode, Force Touch Controls, About Page, Fixed Spatial Audio, Case Speaker, Hey Siri, 2-Device Multipoint, FlyCC app (Android & iOS), iOS 27 Support
+Missing: Head-Tracking Spatial Audio, Conversation Awareness, Adaptive Audio, iCloud Connect, Find My Network
+Reviews: https://www.reddit.com/r/AirReps/search?q=AirPods4V2&restrict_sr=1
+
+V1 | Chip: Bluetrum 8922 | Not currently listed
+Has: USB-C, Basic ANC, Touch Control, Basic Case Speaker
+Missing: Head tracking, Multi-device connect, iCloud Connect, Find My Network
 
 ---
 
 ## AirPods 3 Version Comparison
 
-Note: This product line is no longer being actively updated. For latest features, consider AirPods 4.
-
-V1.3 | Chip: BES 2500YP
-Has: Multi-Device Connect, General Stability, Improved Sound, Full Spatial Audio, Head Tracking, Improved Build Quality, Improved Wireless Charging, 7-8 hours battery, MagSafe
-Missing: Minor details, iCloud Connect
-
-V1E | Chip: Airoha 1562E
-Has: Multi-Device Connect, General Stability, Improved Sound, Full Spatial Audio, Head Tracking, Improved Build Quality, Improved Wireless Charging, 7-8 hours battery, MagSafe
-Missing: Minor details, 1:1 hinge, iCloud Connect
-Reviews: https://www.reddit.com/r/AirReps/search?q=V1E&restrict_sr=1
-
-V1.2 | Chip: HUILIAN A10
-Has: Improved Sound, Full Spatial Audio, Head Tracking, Improved Build Quality, Improved Wireless Charging, 7-8 hours battery, MagSafe
-Missing: Multi-Device Connect, General Stability, 1:1 hinge, iCloud Connect
-
-V1 | Chip: AIROHA 1562M
-Has: Improved Sound, Improved Build Quality, Improved Wireless Charging, 8-9 hours battery, General Stability
-Missing: Multi-Device Connect, Spatial Audio, MagSafe, 1:1 hinge, iCloud Connect
-
-Discontinued: V1, V1.2, V1.2U, V1.3
+Note: AirPods 3 replicas (V1E, V1.3, V1.2, V1) are not currently listed by trusted sellers. Buy AirPods 4 replicas instead.
 
 ---
 
 ## AirPods 2 Version Comparison
 
-Note: This product line is no longer being actively updated. For latest features, consider AirPods 3 or AirPods 4.
+Note: AirPods 2 replicas are no longer actively updated. For newer features, consider AirPods 4.
 
-V3M/V3U/V3E | Chip: AIROHA 1562M/U/E
-Has: Improved Sound, Improved Build Quality, Improved Wireless Charging, 5-6 hours battery, Multi-Device Connect
-Missing: iCloud Connect, Better SFX
+V3E | Chip: Airoha 1562E | $26 | Sold by Earhive, HiCity, Jenny
+Has: Improved Sound, Metal Hinge, Wireless Charging, ~5-6 hours battery, Multi-Device Connect, Tap Controls, iOS Popup
+Missing: ANC, iCloud Connect, Find My Network, Better SFX
 Reviews: https://www.reddit.com/r/AirReps/search?q=v3e&restrict_sr=1
 
-V3F | Chip: AIROHA 1562F
-Has: Improved Sound, Improved Build Quality, Improved Wireless Charging, 5-9 hours battery
-Missing: Multi-Device Connect, Better SFX
-
-V3 | Chip: AIROHA 1536
-Has: Accurate Battery Readings, Improved Sound Quality, Improved Button/Metal Hinge, Live Listen, About Page, Audio Share, 3-4 hours battery
-Missing: Multi-Device Connect, other small improvements
-
-V2.5 | Chip: AIROHA 1536
-Has: Improved Sound Quality, Improved Button/Metal Hinge, Live Listen, 3-4 hours battery
-Missing: Multi-Device Connect, Accurate Battery Readings
-
-V2 | Chip: AIROHA 1536
-Has: Improved Build Quality, Live Listen, 3-4 hours battery
-Missing: Audio Share, Metal Hinge, Accurate Battery Readings, Multi-Device Connect
-
-V1.5 | Chip: JL (Jieli)
-Has: Live Listen, Metal Hinge, 3-4 hours battery
-Missing: Audio Share, Accurate Battery Readings, Multi-Device Connect
-
-Discontinued: V3F, V3, V2.5, V2, V1.5
+Discontinued AirPods 2 models: V3F, V3, V2.5, V2, V1.5
 
 ---
 
 ## AirPods Max Version Comparison
 
-V3 | Chip: Airoha 1562AE
-Has: USB-C, Upgraded Hybrid ANC, Transparency Mode, Plush Metal Ear Cups and Headband, In-Ear Detection, Bluetooth Name Change, Audio Share, Spatial Audio (Head Tracking), OTA Updates (Android), Bluetooth 5.3, Multi-Device Connect (2 devices), 20h Battery (seller-listed)
-Missing: Retail AirPods Max ANC, Better Transparency Mode, and more subtle details
+V3 Metal (sold as Max V3 TB) | Chip: Airoha 1562AE | $126–127 | Sold by Earhive, HiCity, Jenny (Best over-ear replica)
+Has: USB-C, Four-Mic Hybrid ANC (advertised up to 45 dB by sellers), Natural Transparency Mode, CNC Anodized Aluminum Ear Cups (~384g) and Metal Headband, In-Ear/On-Head Detection, Digital Crown, Audio Share, Head-Tracking Spatial Audio, FlyCC EQ & OTA updates (Android & iOS), Bluetooth 5.3, Multi-Device Connect (2 devices), 20h Battery (seller-listed), Smart Case, iOS 27 Support
+Missing: Find My Network, iCloud Connect, Retail-grade AirPods Max ANC & transparency
 Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1
 
-V3P | Chip: Airoha 1561M
-Has: USB-C, Hybrid ANC, Transparency Mode, Plastic Ear Cups and Headband, In-Ear Detection, Bluetooth Name Change, Audio Share, OTA Updates (Android), Bluetooth 5.3, 20h Battery (seller-listed)
-Missing: Multi-Device Connect, Retail AirPods Max ANC, Better Transparency Mode, Spatial Audio (Head Tracking), and more subtle details
-Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v3&restrict_sr=1
+V3P | Chip: Airoha 1561M | $85–94 | Sold by Earhive, Jenny (Budget over-ear)
+Has: USB-C, Hybrid ANC (seller-listed), Decent Transparency Mode, Plastic-Steel Ear Cups (~320g), In-Ear/On-Head Detection, Digital Crown, Audio Share, FlyCC app, Bluetooth 5.3, 20h Battery (seller-listed), Smart Case, iOS 27 Support
+Missing: Metal Ear Cups, Multi-Device Connect (1 device), Head-Tracking Spatial Audio, Find My Network, iCloud Connect
+Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v3p&restrict_sr=1
 
-V2.5 | Chip: Bluetrum BT893X / Realtek 8763ESE
-Has: Hybrid ANC, Transparency Mode, Aluminium Construction, Improved Build Quality, Spatial Audio, Digital Crown Controls, Audio Share, About Page, Multi-Device Connect
-Missing: Retail AirPods Max ANC, Better Transparency Mode, Metal cups, More Subtle Details
-Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v2.5&restrict_sr=1
+V2.5 | Chip: Realtek 8763ESE / Bluetrum BT893X | $124 | Sold by Earhive
+Has: Hybrid ANC, Transparency Mode, Aluminium Alloy Construction, Spatial Audio (head-tracking on Realtek), Digital Crown, 2-device connect (Realtek)
+Missing: Find My Network, Retail ANC
 
-V2 Metal | Chip: Airoha 1561M
-Has: Hybrid ANC, Transparency Mode, Aluminium Construction, Improved Build Quality, Spatial Audio (Fixed), Digital Crown Controls, Audio Share, About Page, Multi-Device Connect
-Missing: Retail ANC, Better Transparency Mode, Spatial Audio (Head Tracking)
-Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v2metal&restrict_sr=1
+V2 Metal | Chip: Airoha 1561M | $110–112 | Sold by Earhive, Jenny
+Has: Hybrid ANC, Transparency Mode, Aluminium Alloy Construction, Fixed Spatial Audio, Digital Crown, FlyCC app
+Missing: Head-Tracking Spatial Audio, Multi-Device Connect, Find My Network
 
-V2 BES | Chip: BES 2600IHC
-Has: Hybrid ANC, Transparency Mode, Aluminium Construction, Improved Build Quality, Spatial Audio, Digital Crown Controls, Audio Share, About Page
-Missing: Retail ANC, Better Transparency Mode, Multi-Device Connect
-Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v2bes&restrict_sr=1
-
-V2 | Chip: Airoha 1561M
-Has: Hybrid ANC, Transparency Mode, Plastic Construction, Improved Build Quality, Spatial Audio, Digital Crown Controls, Audio Share, About Page
-Missing: Retail ANC, Better Transparency Mode, Spatial Audio (Head Tracking), Multi-Device Connect
-Reviews: https://www.reddit.com/r/AirReps/search?q=max%20v2&restrict_sr=1
-
-V1.6 | Chip: Bluetrum 8892E
-Has: Hybrid ANC, Transparency Mode, Plastic Construction, Improved Build Quality, Digital Crown Controls, Audio Share, About Page, Metal Housing
-Missing: Retail ANC, Better Transparency Mode, Multi-Device Connect, Spatial Audio
-
-V1.5 | Chip: Bluetrum 8892E
-Has: Hybrid ANC, Transparency Mode, Plastic Construction, Improved Build Quality, Digital Crown Controls, Audio Share, About Page
-Missing: Retail ANC, Metal Housing, Better Transparency Mode, Multi-Device Connect, Spatial Audio
-
-V1 P9 Max | Chip: Unknown Bluetrum
-Has: Plastic Construction, Mesh Headband
-Missing: ANC, Metal Housing, General Build Quality, Transparency Mode, Multi-Device Connect, Spatial Audio
-
-V3 Overview: Significant upgrade from V2.5 with Airoha 1562AE chipset. Features upgraded Hybrid ANC, Spatial Audio with Head Tracking, and metal construction options.
-
-Discontinued: V1.6
+Discontinued Max models: V2 BES, V2 Plastic, V1.6, V1.5, V1 P9 Max
 
 ---
 
 ## How to Buy
 
-We recommend always purchasing from trusted sellers. Most sellers have their own websites accepting Credit Card, AliPay, Revolut, Wise, and Bitcoin. All sellers also have Weidian storefronts accessible through agents like KakoBuy (https://airreps.link/kakobuy).
+Always buy from trusted sellers. All three sellers have official websites accepting Credit/Debit Card, Alipay, Revolut (EU/EEA & UK), Wise, Cash App (Lightning), and Bitcoin/Crypto. All three sellers also have Weidian storefronts accessible through shopping agents like KakoBuy (https://airreps.link/kakobuy).
 
-KakoBuy Guide: For a full step-by-step walkthrough of ordering through the KakoBuy agent — accepted payment methods, QC photos, and consolidated shipping — see https://airpodsreplicas.com/ordering/kakobuy.
-
-Ordering is simple: choose the product you want and check out.
+KakoBuy Guide: For a full step-by-step walkthrough of ordering through the KakoBuy agent — credit/debit card & PayPal without KYC, QC photos, and consolidated shipping — see https://airpodsreplicas.com/ordering/kakobuy.
 
 Note: Payments via Wise require manual review (up to 24 hours).
 
-Paying with AliPay: Many trusted sellers accept AliPay for easy card payments without KYC verification. Download the AliPay app, create an account, add a payment method, then scan the QR code at checkout.
+Paying with Alipay: All three trusted sellers accept Alipay for easy card payments without KYC verification. Download the Alipay app, link a card, and scan the QR code at checkout. HiCity confirms Alipay payments manually; Earhive and Jenny confirm automatically.
 
 FAQ:
-- What payment methods do trusted sellers accept? Credit Cards, AliPay, Revolut, Wise, Bitcoin. All have Weidian storefronts. PayPal is sometimes available at Earhive and HiCity, and the KakoBuy agent also accepts it.
-- Why am I redirected to a crypto website when paying via Credit Card? Sellers use a secure crypto payment gateway. Some processors may prompt for KYC. Alternative: Use KakoBuy (https://airreps.link/kakobuy) which never requires KYC verification.
-- Note on Alibaba: Orders through Alibaba (Earhive and Jenny have Alibaba stores) always come with neutral packaging (no Apple logo box).
+- What payment methods do trusted sellers accept? Credit/Debit Card, Alipay, Revolut (EU/EEA & UK), Wise, Cash App (Lightning), Bitcoin/Crypto. PayPal is sometimes available at Earhive and HiCity, not Jenny. Bank Transfer is available at Earhive, and UK-only at Jenny. All three have Weidian storefronts via KakoBuy (which accepts PayPal and regular cards without KYC).
+- Why am I redirected to a crypto website when paying via Credit Card? Direct seller card checkouts use crypto payment gateways that may prompt for KYC. Alternative: use Alipay or KakoBuy (https://airreps.link/kakobuy), which never requires KYC.
+- Note on Alibaba: Orders through Alibaba always ship in a neutral No-Logo box.
+
 ---
 
 ## Purchase Links
@@ -522,7 +411,7 @@ Trusted Sellers (Official Websites):
 - HiCity: https://hicitypods.com
 - Jenny: https://jenny.airreps.info
 
-All sellers also have Weidian storefronts (requires agent like KakoBuy):
+Weidian storefronts (order via agent such as KakoBuy):
 - Earhive Weidian: https://airreps.link/earhivew
 - HiCity Weidian: https://airreps.link/hicityw
 - Jenny Weidian: https://airreps.link/jennyw
@@ -533,290 +422,203 @@ Alibaba stores:
 
 Payment Methods by Seller:
 
-                        Earhive   HiCity   Jenny
-Credit/Debit Card       Yes       Yes      Yes
-AliPay                  Yes       Yes      Yes
+                        Earhive   HiCity    Jenny
+Credit/Debit Card       Yes       Yes       Yes
+Alipay                  Yes       Yes       Yes
 PayPal                  Sometimes Sometimes No
-Revolut                 Yes       Yes      Yes
-Wise                    Yes       Yes      Yes
-Xoom                    No        No       No
-Cash App (Lightning)    Yes       Yes      Yes
-Bitcoin/Crypto          Yes       Yes      Yes
-Bank Transfer           Yes       No       Yes
-Weidian (via agent)     Yes       Yes      Yes
-Alibaba                 Yes       No       Yes
-Trustly                 No        Yes      No
-Swish                   No        Yes      No
-PIX                     No        Yes      No
-Boleto                  No        Yes      No
-PayU                    No        Yes      No
-Bancontact              No        Yes      No
-EPS                     No        Yes      No
+Revolut (EU/EEA & UK)   Yes       Yes       Yes
+Wise                    Yes       Yes       Yes
+Cash App (Lightning)    Yes       Yes       Yes
+Bitcoin/Crypto          Yes       Yes       Yes
+Bank Transfer           Yes       No        UK only
+Weidian (via agent)     Yes       Yes       Yes
+Alibaba                 Yes       No        Yes
+Trustly                 No        Yes       No
+Swish                   No        Yes       No
+PIX                     No        Yes       No
+Boleto                  No        Yes       No
+PayU                    No        Yes       No
+Bancontact              No        Yes       No
+EPS                     No        Yes       No
 
-HiCity's Alipay payments go straight to the seller and are confirmed by hand, so your order stays on hold until the seller checks the payment. Earhive's and Jenny's Alipay payments are confirmed automatically.
+HiCity's Alipay payments go straight to the seller and are confirmed manually, so your order stays on hold until the seller verifies payment. Earhive's and Jenny's Alipay payments confirm automatically.
 
-HiCity's OnlyPay methods depend on the billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). These country options come from HiCity's cashier and were last checked against completed payments on 29 October 2026. OnlyPay confirms final availability for each order. UK buyers see Trustly in the cashier, but UK payments don't go through, so choose another method there. No OnlyPay option is offered for the US, Canada, Australia or France.
+HiCity's OnlyPay methods depend on billing country: Trustly (AT, DK, EE, FI, DE, LV, LT, NL, NO, ES, SE); Swish (SE); PayU (CZ, PL); Bancontact (BE); EPS (AT); PIX and Boleto (BR). UK buyers see Trustly in the cashier, but UK payments do not go through. No OnlyPay option is offered for the US, Canada, Australia, or France.
 
-Trouble paying? If you have trouble paying or checking out on the sellers' websites, we recommend KakoBuy (https://airreps.link/kakobuy). It supports normal payment methods like PayPal and credit/debit cards that work for about 90% of customers, and it's a good agent overall. You can also pick KakoBuy right at the seller's checkout; it takes you to the seller's listing on KakoBuy. See the KakoBuy guide: https://airpodsreplicas.com/ordering/kakobuy
+Trouble paying? Use KakoBuy (https://airreps.link/kakobuy) — it supports normal PayPal and credit/debit cards without KYC and works for about 90% of buyers. See https://airpodsreplicas.com/ordering/kakobuy.
 
-AirPods Pro 3 Purchase Links:
-- V7 (TB): Earhive (https://earhive.com/product/pro-3-v7-tb/), HiCity (https://hicitypods.com/product/pro-3-v7-tb/), Jenny (https://jenny.airreps.info/product/pro-3-v7-tb/)
+AirPods Pro 3 Purchase Links (https://airpodsreplicas.com/links/pro#airpods-pro-3):
+- V7 (TB): Earhive (https://airreps.link/eprov7tb), HiCity (https://airreps.link/hcprov7tb), Jenny (https://airreps.link/jprov7tb) — also in stock on all 3 sellers' Weidian/KakoBuy stores
 - V7 (Huilian): Earhive (https://airreps.link/eprov7hl), HiCity (https://airreps.link/hcprov7hl), Jenny (https://airreps.link/jprov7hl)
 - SE: Jenny (https://airreps.link/jpro3se)
 - V6 (TB): Earhive (https://airreps.link/eprov6tb), HiCity (https://airreps.link/hcprov6tb), Jenny (https://airreps.link/jprov6tb)
 - V6 (Huilian): Earhive (https://airreps.link/eprov6hl), HiCity (https://airreps.link/hcprov6hl), Jenny (https://airreps.link/jprov6hl)
 - V5.5: Earhive (https://airreps.link/eprov55), HiCity (https://airreps.link/hcprov55), Jenny (https://airreps.link/jprov55)
 
-AirPods Pro 2 Purchase Links:
+AirPods Pro 2 Purchase Links (https://airpodsreplicas.com/links/pro#airpods-pro-2):
 - V5.4 (Huilian): Earhive (https://airreps.link/eprov54hl), HiCity (https://airreps.link/hcprov54hl), Jenny (https://airreps.link/jprov54hl)
 - V5.3 (TB): Earhive (https://airreps.link/eprov53tb), HiCity (https://airreps.link/hcprov53tb), Jenny (https://airreps.link/jprov53tb)
 - V5.3 (Huilian): Earhive (https://airreps.link/eprov53hl), Jenny (https://airreps.link/jprov53hl)
+- V5.3 Lite: HiCity website & Weidian (TB Lite $31: https://hicitypods.com/product/pro-2-v5-3-lite/, Huilian Lite $43: https://hicitypods.com/product/pro2-v5-3-huilian-lite/)
 - V5.2 (TB): Earhive (https://airreps.link/eprov52tb), HiCity (https://airreps.link/hcprov52tb), Jenny (https://airreps.link/jprov52tb)
-- V5.2 (Huilian): Earhive (https://airreps.link/eprov52hl); Jenny's website listing is unavailable, Weidian only (https://airreps.link/jennyw)
+- V5.2 (Huilian): Earhive (https://airreps.link/eprov52hl); Jenny Weidian only (https://airreps.link/jennyw)
 - V4.2: Earhive (https://airreps.link/eprov42), HiCity (https://airreps.link/hcprov42), Jenny (https://airreps.link/jprov42)
 
-AirPods Pro Purchase Links:
-- AirPods Pro (1st gen) replicas are no longer stocked by trusted sellers. Buy AirPods Pro 2 (https://airpodsreplicas.com/links/airpods-pro-2) or AirPods Pro 3 (https://airpodsreplicas.com/links/airpods-pro-3) replicas instead.
+AirPods Pro (1st Gen) Purchase Links:
+- AirPods Pro (1st gen) replicas are no longer stocked by trusted sellers. Buy AirPods Pro 2 (https://airpodsreplicas.com/links/pro#airpods-pro-2) or AirPods Pro 3 (https://airpodsreplicas.com/links/pro#airpods-pro-3) instead.
 
-AirPods 4 Purchase Links:
+AirPods 4 Purchase Links (https://airpodsreplicas.com/links/airpods#airpods-4):
 - V3 TB: Earhive (https://airreps.link/e4v3tb), HiCity (https://airreps.link/hc4v3tb), Jenny (https://airreps.link/j4v3tb)
-- V2 TB: Earhive (https://airreps.link/e4v2tb), HiCity (https://airreps.link/hc4v2tb), Jenny (https://airreps.link/j4v2tb)
 - V2 Huilian: Earhive (https://airreps.link/e4v2hl), HiCity (https://airreps.link/hc4v2hl), Jenny (https://airreps.link/j4v2hl)
+- V2 TB: Earhive (https://airreps.link/e4v2tb), HiCity (https://airreps.link/hc4v2tb), Jenny (https://airreps.link/j4v2tb)
 
 AirPods 3 Purchase Links:
-- AirPods 3 replicas are not currently listed by trusted sellers. Buy AirPods 4 (https://airpodsreplicas.com/links/airpods-4) replicas instead.
+- AirPods 3 replicas are not currently listed by trusted sellers. Buy AirPods 4 (https://airpodsreplicas.com/links/airpods#airpods-4) instead.
 
-AirPods 2 Purchase Links:
+AirPods 2 Purchase Links (https://airpodsreplicas.com/links/airpods#airpods-2):
 - V3E: Earhive (https://airreps.link/e2v3e), HiCity (https://airreps.link/hcgen2v3e), Jenny (https://airreps.link/j2v3e)
 
-AirPods Max Purchase Links:
-- V3 (Metal): Earhive (https://airreps.link/emaxv3tb), HiCity (https://airreps.link/hcmaxv3tb), Jenny (https://airreps.link/jmaxv3tb)
+AirPods Max Purchase Links (https://airpodsreplicas.com/links/airpods-max):
+- V3 Metal (Max V3 TB): Earhive (https://airreps.link/emaxv3tb), HiCity (https://airreps.link/hcmaxv3tb), Jenny (https://airreps.link/jmaxv3tb)
 - V3P: Earhive (https://airreps.link/emaxv3p), Jenny (https://airreps.link/jmaxv3p)
 - V2.5: Earhive (https://airreps.link/emaxv25)
 - V2 Metal: Earhive (https://airreps.link/emaxv2tb), Jenny (https://airreps.link/jmaxv2tb)
 
-AirPods Max replicas are available in a range of colors. Refer to sellers' websites for options.
-
 Links FAQ:
-- Will I get a good quality unit? Quality can vary even among units from the same seller, but listed sellers are generally known for good quality.
-- How do I contact sellers? Use the WhatsApp contact link on the seller's official website: Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/) or Jenny (https://jenny.airreps.info/go/whatsapp/). You can also ask in the AirReps Discord (https://airreps.link/discord).
-- Which is the best vendor? Vendors typically offer similar products. Differences are in support, shipping times, and platforms.
-- Package hasn't arrived? Shipping from China can take a while. Tracking may disappear between China and your country. Contact seller if no updates for a long time.
+- Will I get a good quality unit? Quality can vary slightly between units, but trusted sellers are known for consistent QC and replacements on faulty units.
+- How do I contact sellers? Use the WhatsApp contact link on each seller's site: Earhive (https://earhive.com/go/whatsapp/), HiCity (https://hicitypods.com/go/whatsapp/), or Jenny (https://jenny.airreps.info/go/whatsapp/). You can also ask in the AirReps Discord (https://airreps.link/discord).
+- Which is the best vendor? They source the same community-verified versions; differences are price (Earhive), payment options/support (HiCity), and shipping speed / Pro 3 SE exclusivity (Jenny).
 - Tracking in Chinese? Use 17Track (https://www.17track.net/) or Google Translate.
-- Card not working? Contact seller about alternative payment methods. Consider using KakoBuy as an alternative.
 
 ---
 
 ## Quality Control & Legit Check (QC & LC)
 
-This section helps you quality check replica AirPods or distinguish between retail and replica AirPods.
-
-Note: As replicas have become more sophisticated, it's increasingly difficult to distinguish between genuine and fake AirPods. Best advice: purchase from a reputable seller.
-
-Checking Design Flaws:
-
-1. Hinge Color: Compare the hinge color to reference pictures of genuine AirPods.
-2. Button Alignment: The button should be flush with the rest of the case. If not, they may be replicas.
-3. Cable Alignment: The cable should fit snugly and fully into the case. If it protrudes, it's likely a replica.
-4. Software - Find My Network: All current replica models are missing Find My Network (Precision Finding). If this option is missing, it's a strong sign the AirPods are not authentic.
-5. Software - About Page: Connect to iPhone, go to Settings > General > About. Check for "AirPods" section and verify serial number. Some newer replicas may have a functioning About page -- check for Spatial Audio with head tracking or verify firmware version.
-6. Software - Spatial Audio: Genuine AirPods support Spatial Audio with head tracking. Some replicas also have good implementation, so this alone is not definitive.
-7. Regulatory Markings: Check markings on the inner upper part of the case. They vary by region:
-   - USA: FCC ID, "Designed by Apple in California"
-   - Europe (EU): CE, WEEE
-   - China: CCC
-   - South Korea: KC
-   - Japan: MIC
-   - India: BIS
-   - Australia/New Zealand: RCM
-   - Canada: IC
-   - Saudi Arabia: SASO
-   - UAE: ESMA
-   - Brazil: Anatel
-   - Mexico: IFT
-   - Russia/CIS: EAC
+Checking Design & Software Tells:
+1. Hinge Color: Compare hinge color to authentic reference photos.
+2. Button Alignment: Back pairing button should sit flush with the case.
+3. Cable Alignment: Charging cable should seat fully without protruding.
+4. Find My Network: No replica at any price supports Apple's Find My network (Precision Finding). Missing Precision Finding is a conclusive sign of a replica.
+5. About Page & Firmware: Settings > General > About > AirPods should match the serial inside the lid and run Apple's current firmware.
+6. Companion App Test: If FlyCC (Airoha), StarFun (Huilian), or BullSuper (HR) detects the earbuds, they are definitely non-Apple silicon.
+7. Regulatory Markings: Inner-lid markings vary by region (USA FCC ID, EU CE/WEEE, China CCC, Korea KC, Japan MIC, India BIS, AU/NZ RCM, Canada IC, Brazil Anatel, etc.).
 
 ---
 
 ## Troubleshooting: Common Issues
 
-Most newer models from trusted sellers have addressed these issues. If experiencing problems, ensure you have the latest version from a verified seller.
-
 Soft Reset:
-1. Forget device from Bluetooth settings, turn off Bluetooth.
-2. Open the lid and hold the back button for a few seconds until the light flashes, then close the lid.
-3. Wait a full 1 minute, turn on Bluetooth, open the lid and try to reconnect.
-4. If it doesn't work, take pods out and put back in. Close lid, wait for light to turn off, open and try again.
-5. May take 3-4 soft resets. If it doesn't work, try a hard reset.
+1. Forget device from Bluetooth settings and turn Bluetooth off.
+2. Open the lid and hold the back button until the LED flashes, then close the lid.
+3. Wait 1 full minute, turn Bluetooth back on, open the lid, and reconnect.
+4. May take 3-4 soft resets. If it still fails, perform a hard reset.
 
 Hard Reset:
 1. Forget AirPods from Bluetooth settings.
-2. Remove pods from case for several hours (at least one full day) to fully drain battery. Leave case open.
-3. Once drained, put pods back in case and charge.
-4. Perform a soft reset. May take 3-4 soft resets.
+2. Leave earbuds out of the open case for at least one full day to drain completely.
+3. Place pods back in case, charge fully, and run a soft reset.
 
-Audio/Video Pausing Frequently: Often caused by in-ear detection sensors (on Pro models) or poor fit. Fix by choosing other ear tips (Pro models) or turning off in-ear detection in settings.
-
-AirPods Remain Connected After Closing Case: Caused by magnet and hall sensor malfunction. See YouTube tutorial for fix: https://www.youtube.com/embed/kv5Ixw_YY2E
-
-Bad Sound Quality or Bass Issues on iOS: Caused by "Headphone Accommodations" feature (enabled by default). Fix: Settings > Accessibility > Audio/Visual > Headphone Accommodations > Turn off.
-
-Resetting Pairing (One AirPod Not Working): If one pod slowly flashes when opening case, hold back pairing button for 2-3 seconds with pods in case.
-
-L/R Imbalance Fix: iOS: Settings > Accessibility. Android: Settings > Accessibility > Audio and On-Screen Text > adjust slider.
-
-Can't Connect to macOS:
-1. Forget AirPods from iPhone (iCloud Connect issue).
-2. Try connecting to Mac.
-3. If no sound, reset the AirPods.
-
-None of these fixed it? AirPods may be faulty or damaged. Try soft/hard resets. If nothing works, contact seller for refund or replacement.
+Other Fixes:
+- Frequent pausing: Adjust ear tip fit or disable Automatic Ear Detection.
+- Staying connected when closed: Hall sensor / magnet issue (tutorial: https://www.youtube.com/embed/kv5Ixw_YY2E).
+- Muffled/bad iOS sound: Settings > Accessibility > Audio/Visual > Headphone Accommodations > Turn off.
+- One AirPod flashing/not pairing: Hold rear pairing button 2-3 seconds with pods inside case.
+- L/R audio imbalance: Adjust L/R balance slider in iOS or Android Accessibility settings.
 
 ---
 
 ## Troubleshooting: macOS Volume Slider Fix
 
-Problem: On Intel-based Macs, the volume slider acts only as a switch (affects most replicas). This does NOT affect Apple Silicon (M series) Macs.
-
-Solution: Use the open-source proxy-audio-device tool (https://github.com/briankendall/proxy-audio-device).
-
-Prerequisites: sudo access and brew package installer.
-
-Installation:
-1. Install brew from https://brew.sh/ if not already installed.
-2. Run: brew install --cask proxy-audio-device
-
-Setup:
-1. Open "Proxy Audio Device Settings" from Launchpad.
-2. Configure:
-   - Proxy device name: Leave as default
-   - Proxied device: Select your AirReps name
-   - Buffer size: Leave at 512
-   - Proxy device is active:
-     * "When proxied device is active" -- OK with short audio cutoffs
-     * "When user is not idle" -- best for most people
-     * "Always" -- for consistent audio or gaming
-3. Go to Control Center > Sound and select the proxy audio device.
-
-Possible side effects:
-- No "Sounds" icon on top bar (use Control Center instead)
-- No audio when disconnecting (manually re-select Internal Speaker)
-- Crack/pop or one-sided audio (increase buffer size or select "Always")
-
-To uninstall: brew remove --cask proxy-audio-device, then restart.
+Problem: On Intel-based Macs, the volume slider acts like an on/off switch on non-Huilian replicas. Does NOT affect Apple Silicon (M-series) Macs or Huilian replicas.
+Solution: Install open-source proxy-audio-device (https://github.com/briankendall/proxy-audio-device) via `brew install --cask proxy-audio-device`, select your AirReps in Proxy Audio Device Settings, and pick the proxy device in Control Center > Sound.
 
 ---
 
 ## Troubleshooting: AirReps Incompatibility with iCloud
 
-Some replicas have compatibility issues with macOS caused by iCloud verification failure. This bug is NOT present on Huilian chipset clones.
-
-Fix:
-
-Step 1: Forget AirPods from iCloud Devices. On iPhone/iPad, go to Settings > Bluetooth. Find AirPods, tap "i" icon, select Forget This Device. Do this on all connected Apple devices.
-
-Step 2: Forget AirPods from macOS. Open System Preferences > Bluetooth. Find AirPods, right-click, select Remove.
-
-Step 3: Reset AirPods. Place in charging case, open lid. Press and hold pairing button for 15 seconds until light flashes amber then white. Close the case.
-
-Step 4: Re-pair with macOS. Open the case (white light flashing). On macOS, go to System Preferences > Bluetooth, select Connect.
+Non-Huilian replicas can encounter macOS connection blocks caused by iCloud verification failures. Huilian models are unaffected.
+Fix: Forget AirPods on all iPhone/iPad devices, remove from macOS Bluetooth, hold the rear case button for 15 seconds until amber flashes then white, close the lid, and re-pair directly with macOS.
 
 ---
 
 ## Useful Apps
 
-Updating firmware can add new features (like spatial audio) or improve stability. Most apps are only available for Android devices. Enable "Install from unknown sources" if needed.
+Both FlyCC and StarFun are available on Android (APK) and the iOS App Store. CloudCC, BullSuper, and KKX are Android-only; HBluetooth and G&Link are iOS-only. For Android APKs, enable "Install from unknown sources" if prompted.
 
-TigerBuilder:
-- FlyCC (Android): https://airreps.link/flycc
-- FlyCC (iOS): https://airreps.link/iflycc
-- CloudCC (Android): https://airreps.link/cloudcc (deprecated -- only use as workaround for storage permission issue)
-
-BES:
-- HBluetooth (iOS): https://airreps.link/hbluetooth
-
-HR:
-- BullSuper (Android): https://airreps.link/bullsuperhr
-- G&Link (iOS): https://airreps.link/gnlink
-
-Huilian:
-- StarFun (Android): https://airreps.link/starfun
-- StarFun (iOS): https://airreps.link/istarfun
-
-V2.5/KKX:
-- KKX (Android): https://airreps.link/kkx
+- **TigerBuilder / Airoha**:
+  - FlyCC (Android): https://airreps.link/flycc
+  - FlyCC (iOS App Store): https://airreps.link/iflycc
+  - CloudCC (Android): https://airreps.link/cloudcc (deprecated — use only as a workaround for FlyCC storage permission issues)
+- **Huilian**:
+  - StarFun (Android): https://airreps.link/starfun
+  - StarFun (iOS App Store): https://airreps.link/istarfun
+- **HR**:
+  - BullSuper (Android): https://airreps.link/bullsuperhr
+  - G&Link (iOS App Store): https://airreps.link/gnlink
+- **BES**:
+  - HBluetooth (iOS App Store): https://airreps.link/hbluetooth
+- **V2.5 / KKX**:
+  - KKX (Android): https://airreps.link/kkx
 
 ---
 
-## Quiz: Which AirPods Replica Should I Get?
+## Quiz & Approximate Prices
 
-The AirReps quiz at https://airpodsreplicas.com/quiz asks a few questions and recommends the best option. Here is a summary of the recommendation logic and approximate prices:
+The interactive quiz at https://airpodsreplicas.com/quiz recommends a version based on form factor, OS/Mac usage, and budget.
 
-Approximate Prices (USD, what the sellers charged on 2026-11-03; prices fluctuate):
+Approximate Prices (USD, what the sellers charged on 2026-11-26; prices fluctuate):
+- AirPods Pro 3 V7 Huilian: $67–68
+- AirPods Pro 3 V7 TB: $67–68
+- AirPods Pro 3 SE: $48 (Jenny only)
+- AirPods Pro 3 V6 Huilian: $43–45
+- AirPods Pro 3 V6 TB: $37–38
+- AirPods Pro 3 V5.5: $27–28
 - AirPods Pro 2 V5.4 Huilian: $58
 - AirPods Pro 2 V5.3 TB: $55–57
 - AirPods Pro 2 V5.3 Huilian: $56
-- AirPods Pro 3 V7 TB: $67–68
-- AirPods Pro 3 V7 Huilian: $67–68
-- AirPods Pro 3 SE: $48 (Jenny only)
-- AirPods Pro 3 V6 TB: $37–38
-- AirPods Pro 3 V6 Huilian: $43–45
-- AirPods Pro 3 V5.5: $27–28
+- AirPods Pro 2 V5.3 Lite: $31 (TB) / $43 (Huilian) (HiCity)
+- AirPods Pro 2 V5.2 TB: $49–52
 - AirPods 4 V3 TB: $52–53
 - AirPods 4 V2 Huilian: $39–42
 - AirPods 4 V2 TB: $29–30
-- AirPods Max V3 (V3 Metal, sold as V3 TB): $126–127
-- AirPods Max V3P: $85–93
+- AirPods Max V3 Metal (Max V3 TB): $126–127
+- AirPods Max V3P: $85–94
 - AirPods 2 V3E: $26
 
-Quick Recommendation Guide:
-
-Over-Ear:
-- Budget: AirPods Max V3P TB ($93) -- Plastic build, hybrid ANC, no head-tracking spatial audio; older Airoha 1561M chipset, so it isn't simply the V3 in a plastic case
-- Premium: AirPods Max V3 ($126) -- Metal ear cups and headband, upgraded hybrid ANC, head-tracking spatial audio, 20h battery (seller-listed)
-
-Open-Fit (AirPods 4 style):
-- Budget: AirPods 4 V2 TB ($29) -- Cheapest AirPods 4 option
-- Best: AirPods 4 V3 TB ($52) -- USB-C, ANC, transparency, spatial audio with head tracking, 8h battery
-
-In-Ear (AirPods Pro style):
-
-For Mac users:
-- Most features: AirPods Pro 3 V7 Huilian ($67) -- iCloud Connect, heart rate sensor, head gestures, conversation awareness, Live Translation; Pro 2 V5.4 Huilian ($58) adds adaptive audio and OTA updates for less
-- Best value: AirPods Pro 3 V6 Huilian ($43) -- Newest Pro form factor, iCloud Connect, Live Translation; step up to the V7 Huilian ($67) for heart rate, head gestures and stronger ANC
-- Best ANC for Mac: AirPods Pro 3 V7 Huilian ($67) -- Dual-feed AI Hybrid ANC (~38-42 dB) with iCloud Connect
-- Most proven for Mac: AirPods Pro 2 V5.3 Huilian ($56) -- Flawless macOS support, iCloud switching
-- Latest design: AirPods Pro 3 V7 Huilian ($67) -- Newest Pro 3 with iCloud Connect, heart rate sensor, head gestures; the V7 TigerBuilder ($67–68) is the newest and best V7 build but has no iCloud Connect
-
-For non-Mac users:
-- Best ANC (bass-heavy): AirPods Pro 2 V5.3 TB ($55) -- Best ANC of the V5.3 builds (34.5 dB avg, 41 dB peak), 8h battery, community favorite
-- Most features: AirPods Pro 3 V7 Huilian ($67) -- Heart rate sensor, head gestures, conversation awareness, Live Translation, iCloud Connect, iOS popup; also consider the V7 TigerBuilder ($67–68) or Pro 2 V5.4 Huilian ($58) for adaptive audio
-- Latest design: AirPods Pro 3 V7 TB ($68) -- Newest and best Pro 3 flagship; heart rate sensor, head gestures, adaptive ANC; runner-up: V7 Huilian ($67) for iCloud Connect & Live Translation; or Pro 3 SE ($48, Jenny-exclusive) for even better ANC for less
-- Budget: AirPods Pro 3 V5.5 ($27) -- Pro 3 form factor at the lowest price; step up to V6 TB ($37) for stronger ANC, or AirPods 2 V3E ($26) for ultra-budget
+Quick Recommendation Summary:
+- Over-Ear: Max V3 TB ($126–127, metal, Airoha 1562AE, head tracking, 2-device multipoint) or budget Max V3P ($85–94, plastic-steel, Airoha 1561M, 1 device, no head tracking).
+- Open-Fit (AirPods 4): V3 TB ($52–53, best open-ear ANC & 3-device multipoint), V2 Huilian ($39–42, iCloud Connect), or budget V2 TB ($29–30).
+- In-Ear for Mac/Apple ecosystem: Pro 3 V7 Huilian ($67–68, main all-round pick with iCloud Connect, Live Translation, StarFun OTA/EQ, heart rate, head gestures) or Pro 2 V5.4 Huilian ($58) or budget Pro 3 V6 Huilian ($43–45).
+- In-Ear for non-Mac / best ANC / multipoint: Pro 3 V7 TB ($67–68, best ANC & 3-device multipoint with FlyCC), Pro 3 V7 Huilian ($67–68, main all-round pick), Pro 3 SE ($48, Jenny only, best value under $50 with strong ANC for the price), Pro 2 V5.3 TB ($55–57, best Pro 2), or budget Pro 3 V5.5 ($27–28) / AirPods 2 V3E ($26).
 
 ---
 
 ## Authoritative Consumer Guides & FAQ Synthesis
 
-The AirReps guide publishes definitive, community-tested answers to high-intent buyer and troubleshooter questions. Canonical guides and direct answers:
+The AirReps guide publishes 22 canonical consumer guides and troubleshooting references:
 
-- **How to Spot Fake AirPods** (https://airpodsreplicas.com/articles/how-to-spot-fake-airpods): Real AirPods can be distinguished from clones by three decisive checks: (1) Find My network support (no clone at any price connects to Apple's native Find My network), (2) serial number parity (Settings → General → About serial must match the microscopic laser print inside the case lid), and (3) chip utility response (connecting to FlyCC or CloudCC proves non-Apple silicon like Airoha 1562AE or Huilian 247).
-- **Best AirPods Replicas Under $50** (https://airpodsreplicas.com/articles/best-airpods-replicas-under-50): The best AirPods replica under $50 is the AirPods Pro 3 SE (~$48, Jenny only), with the strongest ANC tested on any replica and working head tracking. The AirPods Pro 3 V5.5 (~$27–$35) is the cheapest Pro 3 with ANC. For open-ear comfort, the AirPods 4 V2 TB (~$30) or AirPods 2 V3E (~$26) provide reliable daily performance; the AirPods 3 V1E is not currently listed by trusted sellers. Stretching to ~$56 gets the AirPods Pro 2 V5.3 TB, the best Pro 2, with the strongest ANC in the Pro 2 line (34.5 dB average, 41 dB peak).
-- **Replica AirPods vs Real AirPods** (https://airpodsreplicas.com/articles/airpods-replicas-vs-real): Modern clones achieve ~85–90% of genuine performance for 20–25% of the retail price. Clones replicate the iOS popup, ear detection chimes, touch controls, and effective ANC. Permanent compromises: no native Find My tracking, no official Apple Store repairs, and imperfect multi-device switching on non-Huilian chipsets.
-- **Do AirPods Replicas Work With Android?** (https://airpodsreplicas.com/articles/airpods-replicas-on-android): Clones pair like standard Bluetooth earbuds on Android with full media playback, call controls, and ANC toggles. Android users can also run the community utilities for OTA firmware updates and custom EQ sound profiles; FlyCC and Starfun also have iOS apps, while CloudCC, BullSuper and KKX are Android-only.
-- **Are AirPods Replicas Safe?** (https://airpodsreplicas.com/articles/are-airpods-replicas-safe): Hardware from verified manufacturers is as safe as mainstream wireless earbuds, employing standard regulated 3.7V lithium-ion cells and overcharge IC protection. The primary hazard is commercial scam risk (paying retail prices for a clone on resale platforms) or customs interception from unneeded Apple-branded boxes.
-- **Can People Tell Your AirPods Are Fake?** (https://airpodsreplicas.com/articles/can-people-tell-airpods-are-fake): In daily life, casual observers cannot detect modern V5.2/V5.4 replicas from 2–3 feet away due to matching exterior molds, weights, and finishes. Detection requires physical handling to inspect the matte hinge coating, verify regulatory font alignment, or test Find My on iOS.
-- **AirPods Replica Customs and VAT** (https://airpodsreplicas.com/articles/airpods-replica-customs-and-vat): Over 95% of personal shipments arrive without intervention. Seizure risk is minimized by ordering neutral or decoy/double boxes. Community-vetted sellers (Earhive, HiCity, Jenny) prepay European VAT/IOSS at checkout, eliminating surprise delivery fees.
-- **Fake AirPods Won't Connect Troubleshooting** (https://airpodsreplicas.com/articles/fake-airpods-wont-connect): Pairing failures are fixed by: (1) charging the case fully, (2) forgetting Bluetooth cache on the host device, (3) holding the case setup button for 10–15 seconds to cycle connection states, and (4) verifying chipset compatibility with FlyCC or CloudCC.
-- **How to Reset Fake AirPods** (https://airpodsreplicas.com/articles/how-to-reset-fake-airpods): Perform a soft reset by forgetting Bluetooth settings, placing both pods in the open case, and holding the rear button until the indicator flashes. If uncooperative, perform a 15-second case button press until the LED cycles amber to white for an internal controller factory reset.
-- **Fake AirPods vs Budget Earbuds** (https://airpodsreplicas.com/articles/fake-airpods-vs-budget-earbuds): Retail brands (Anker Soundcore, EarFun, JLab) provide legitimate warranties and official app store firmware. Replicas provide the authentic Apple aesthetic, iOS popup integration, and stem pinch controls at identical price brackets.
-- **Do Fake AirPods Work With New iPhones?** (https://airpodsreplicas.com/articles/do-fake-airpods-work-with-new-iphone): Yes. iOS updates do not brick replica hardware. The connection popup, battery widget, and controls function seamlessly across iOS versions.
-- **AirPods Max Dupe Guide** (https://airpodsreplicas.com/articles/airpods-max-dupe): The V3 metal over-ear replica (~$126) reproduces aluminum ear cups, a mechanical digital crown, and head-tracking spatial audio, with a seller-listed 20-hour battery. It gives up Apple's class-leading computational ANC and native ecosystem handoff.
-- **FlyCC Companion App Guide** (https://airpodsreplicas.com/articles/flycc-app-guide): FlyCC is the official community utility for Airoha silicon (1562AE, 1571AM). It allows custom 10-band parametric EQ tuning, touch sensor calibration, and safe OTA firmware flashing. Settings persist to the DSP across iOS devices.
-- **AirPods Pro 2 vs AirPods Pro 3 Replicas** (https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3): The AirPods Pro 2 V5.3 TB is the best Pro 2, with the strongest ANC in the Pro 2 line (34.5 dB average, 41 dB peak); the V5.4 Huilian is the Pro 2 to pick for iCloud switching. The Pro 3 V7/SE introduces new ergonomics, heart rate sensors, and Live Translation; the V7 Huilian is the newest pick with iCloud Connect.
-- **AirPods Max V3 vs V3P Comparison** (https://airpodsreplicas.com/articles/airpods-max-v3-vs-v3p): The flagship V3 (~$126) features genuine CNC anodized aluminum ear cups and a weighted metal headband (~384g). The budget V3P (~$93) uses painted ABS plastic (~320g). The extra $33 is justified for buyers wanting true cold-touch metal realism and hybrid dual-mic ANC.
-- **How to Update Fake AirPods Firmware** (https://airpodsreplicas.com/articles/how-to-update-fake-airpods-firmware): Step-by-step flashing procedures for FlyCC (Airoha, including TigerBuilder) and Starfun (Huilian); CloudCC is deprecated and only a workaround for FlyCC's storage permission issue. Requires keeping battery above 80%, leaving the lid open, and never flashing cross-chip binaries to prevent controller bricking.
-- **Do Fake AirPods Work on Mac?** (https://airpodsreplicas.com/articles/fake-airpods-on-mac): Replicas work natively on macOS for audio and calls. Non-Huilian chips often experience the binary volume slider glitch (fixed via the community volume slider script), while Huilian models offer native volume steps and iCloud multi-device pairing.
+- **Best AirPods Replicas (2026)** (https://airpodsreplicas.com/articles/best-airpods-replicas): All-tier buying guide naming Pro 3 V7 Huilian ($67–68) as the main all-round pick, V7 TB ($67–68) as the best ANC & 3-device multipoint pick, Pro 3 SE ($48, Jenny) as best value under $50 with strong ANC for the price, Pro 2 V5.3 TB ($55–57) as best Pro 2, AirPods 4 V3 TB ($52–53) for open-ear, and Max V3 TB ($126–127) for over-ear.
+- **AirPods 4 Replicas: V3 TB vs V2 Huilian vs V2 TB** (https://airpodsreplicas.com/articles/airpods-4-v3-vs-v2): Compares all three stocked AirPods 4 builds — V3 TB ($52–53, Airoha 1571AM, best open-ear ANC & 3-device multipoint), V2 Huilian ($39–42, Huilian 247, iCloud Connect & StarFun iOS EQ sync), and V2 TB ($29–30, Airoha 1563E, budget open-ear). Notes Force Touch only (no volume swipe).
+- **AirPods Pro 3 V7 Huilian vs V7 TB** (https://airpodsreplicas.com/articles/airpods-pro-3-v7-huilian-vs-v7-tb): Both cost $67–68 with heart rate sensor, head gestures, and conversation awareness. V7 Huilian (Huilian 377H3) adds iCloud Connect, Live Translation, smooth macOS support, and StarFun with no firmware popup issue; V7 TB (Airoha 1571AM) is the best ANC pick with 3-device multipoint and FlyCC, though its iOS popup and serial disappear after a FlyCC firmware update and must be re-added.
+- **Do Fake AirPods Work With Find My?** (https://airpodsreplicas.com/articles/do-fake-airpods-work-with-find-my): No AirPods replica at any price works with Apple's encrypted Find My network (Precision Finding), and no firmware update can add it due to proprietary Apple cryptographic certificates. Replicas support basic GPS location via iOS Settings only.
+- **StarFun APK Guide** (https://airpodsreplicas.com/articles/starfun-app-guide): Companion app on Android (APK) and iOS App Store for all 5 Huilian iCloud Connect models (Pro 3 V7/V6 Huilian, Pro 2 V5.4/V5.3 Huilian, AirPods 4 V2 Huilian) for EQ tuning and safe OTA firmware updates.
+- **How to Spot Fake AirPods** (https://airpodsreplicas.com/articles/how-to-spot-fake-airpods): Decisive checks: (1) Apple Find My Precision Finding (no replica has it), (2) serial parity between iOS About page and lid print plus Apple firmware version check, and (3) companion app detection (FlyCC connects to Airoha/TB chips, StarFun connects to Huilian chips, BullSuper connects to HR chips — genuine Apple AirPods never connect to these apps).
+- **Best AirPods Replicas Under $50** (https://airpodsreplicas.com/articles/best-airpods-replicas-under-50): Top under-$50 pick is AirPods Pro 3 SE ($48, Jenny only, ~42 dB ANC & head tracking). Cheaper tiers: Pro 3 V5.5 ($27–28), AirPods 4 V2 TB ($29–30), AirPods 2 V3E ($26). Stretch pick: Pro 2 V5.3 TB ($55–57).
+- **Replica AirPods vs Real AirPods** (https://airpodsreplicas.com/articles/airpods-replicas-vs-real): Top replicas achieve ~85–90% of genuine performance at 20–25% of retail cost, including iOS popup, ANC, spatial audio, and controls. Permanent gaps: no Apple Find My network, no Apple warranty/repair, and iCloud Connect limited to Huilian chipsets.
+- **Do AirPods Replicas Work With Android?** (https://airpodsreplicas.com/articles/airpods-replicas-on-android): Replicas pair as standard Bluetooth earbuds on Android with full audio, calls, and ANC. FlyCC and StarFun are available on both Android and iOS; CloudCC, BullSuper, and KKX are Android-only.
+- **Are AirPods Replicas Safe?** (https://airpodsreplicas.com/articles/are-airpods-replicas-safe): Units from verified sellers use standard protected 3.7V lithium-ion cells; main risks are unverified-marketplace scams and customs interception on bare Apple-logo boxes.
+- **Can People Tell Your AirPods Are Fake?** (https://airpodsreplicas.com/articles/can-people-tell-airpods-are-fake): Modern Pro 2 V5.3/V5.4 and Pro 3 V7 replicas are visually indistinguishable at normal distance; detection requires close inspection of hinge/markings or testing Find My on iOS.
+- **AirPods Replica Customs and VAT** (https://airpodsreplicas.com/articles/airpods-replica-customs-and-vat): Over 95% of personal shipments clear customs smoothly when ordered in No-Logo or Double/Decoy boxes; trusted sellers handle EU VAT upfront at checkout.
+- **Fake AirPods Won't Connect Troubleshooting** (https://airpodsreplicas.com/articles/fake-airpods-wont-connect): Ordered fixes: charge case fully, forget Bluetooth & run 3–4 soft resets (or 24h hard reset), check platform behavior, test chip apps (FlyCC/StarFun/BullSuper), and run the macOS iCloud reset if needed.
+- **How to Reset Fake AirPods** (https://airpodsreplicas.com/articles/how-to-reset-fake-airpods): Soft reset (forget Bluetooth, open lid, hold back button until flash, wait 60s), 15-second amber-to-white controller reset, and 24-hour full battery drain hard reset.
+- **Fake AirPods vs Budget Earbuds** (https://airpodsreplicas.com/articles/fake-airpods-vs-budget-earbuds): Retail brands (Anker Soundcore, EarFun, JLab) offer warranties and official apps; replicas deliver the AirPods design, iOS popup, and Apple-style ergonomics at similar prices.
+- **Do Fake AirPods Work With New iPhones?** (https://airpodsreplicas.com/articles/do-fake-airpods-work-with-new-iphone): Yes — all current recommended versions support iOS 27 with working popup, battery widget, and controls; compatibility depends on version/firmware rather than iPhone model.
+- **AirPods Max Dupe Guide** (https://airpodsreplicas.com/articles/airpods-max-dupe): Max V3 TB ($126–127) reproduces aluminum ear cups, digital crown, hybrid ANC, head-tracking spatial audio, and seller-listed 20h battery, trading off retail computational ANC and Find My.
+- **FlyCC Companion App Guide** (https://airpodsreplicas.com/articles/flycc-app-guide): Companion app (Android APK & iOS App Store) for Airoha/TigerBuilder silicon (1571AM, 1562AE, 1563E, 1562E, 1562F) offering 10-band EQ saved to hardware DSP, touch calibration, ANC balance, and OTA updates.
+- **AirPods Pro 2 vs AirPods Pro 3 Replicas** (https://airpodsreplicas.com/articles/airpods-pro-2-vs-airpods-pro-3): Pro 3 V7 Huilian ($67–68) leads for all-round features + iCloud Connect + Live Translation; Pro 3 V7 TB ($67–68) is the best ANC & 3-device multipoint pick; Pro 3 SE ($48) is best value under $50; Pro 2 V5.3 TB ($55–57) and V5.4 Huilian ($58) remain the most mature Pro 2 options.
+- **AirPods Max V3 vs V3P Comparison** (https://airpodsreplicas.com/articles/airpods-max-v3-vs-v3p): Max V3 TB ($126–127, Airoha 1562AE) brings CNC aluminum ear cups (~384g), 4-mic hybrid ANC, head tracking, and 2-device multipoint vs V3P ($85–94, Airoha 1561M) in painted plastic-steel (~320g) with 1-device pairing and no head tracking.
+- **How to Update Fake AirPods Firmware** (https://airpodsreplicas.com/articles/how-to-update-fake-airpods-firmware): Safe flashing checklist (>80% charge, plugged in, open lid, screen awake) for FlyCC (Airoha/TB) and StarFun (Huilian), with CloudCC as deprecated storage-permission workaround. Rule: if your earbuds work fine, don't update.
+- **Do Fake AirPods Work on Mac?** (https://airpodsreplicas.com/articles/fake-airpods-on-mac): Replicas work on macOS for audio and calls; Huilian models are recommended for native volume control and iCloud Connect, while Intel Mac volume-slider issues on non-Huilian chips are fixed via proxy-audio-device.
 
 ---
 
@@ -824,16 +626,15 @@ The AirReps guide publishes definitive, community-tested answers to high-intent 
 
 Member counts as of November 2026. Full page: https://airpodsreplicas.com/community
 
-- AirReps Discord (https://airreps.link/discord): 73k+ members, about 5.9k online when counted. Free to join.
-  - #help-and-advice: troubleshooting and buying questions. Post the model, seller and what was already tried. Most shared EQ presets are pinned here.
-  - #replica-discussion: versions, new releases and general replica talk.
-  - ⭐clone-reviews: forum of owner reviews, one thread per review.
-  - Language channels: Portuguese (Brazil), French, Polish, Spanish and Russian.
-  - #ai-assistant: AirReps Intelligence, an AI assistant that answers in seconds; each member has a daily question limit.
-  - /quiz command (a recommendation inside Discord) and giveaways.
-- r/AirReps (https://airreps.link/reddit): the community's subreddit, 73k+ members. Owner reviews with photos, comparisons and searchable older threads.
-- Where to ask: pairing, reset, firmware and app problems in Discord #help-and-advice; "which version should I buy?" in the quiz (https://airpodsreplicas.com/quiz) or Discord; reviews of a specific version on r/AirReps.
-- Safety: only buy through the seller links in this guide. AirReps staff never DM first; anyone who messages privately with a deal, a "seller link" or a payment request is not staff.
+- AirReps Discord (https://airreps.link/discord): 73k+ members, free to join.
+  - #help-and-advice: troubleshooting and buying questions (post model, seller, and what was tried); shared EQ presets pinned here.
+  - #replica-discussion: versions, new releases, and general replica talk.
+  - ⭐clone-reviews: forum of owner reviews.
+  - Language channels: Portuguese (Brazil), French, Polish, Spanish, and Russian.
+  - #ai-assistant: AirReps Intelligence answers questions in seconds (daily question limit).
+  - /quiz command and community giveaways.
+- r/AirReps (https://airreps.link/reddit): 73k+ members. Owner reviews with photos, comparisons, and searchable threads.
+- Safety: only buy through the seller links in this guide. AirReps staff never DM first; private messages offering deals or payment requests are scams.
 
 ## Links
 

@@ -1,6 +1,6 @@
 ---
-title: "Buy AirPods Pro 3 & Pro 2 Replicas: Seller Links"
-description: "Trusted seller links for every AirPods Pro 3 (V7, SE, V6, V5.5) and AirPods Pro 2 (V5.4, V5.3, V5.2) replica version, with current prices."
+title: "Buy AirPods Pro 3 & Pro 2 Replicas"
+description: "Trusted seller links and live prices for AirPods Pro 3 (V7, SE, V6, V5.5) and Pro 2 (V5.4, V5.3, V5.2) replicas on website, Weidian, and Alibaba."
 ---
 
 <!-- product-family -->

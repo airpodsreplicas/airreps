@@ -11,31 +11,36 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
 <table>
   <tr>
     <th>Версия</th>
+    <th>Цена</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V7 (TB)</span></td>
+    <td><span class="version-badge">V7 (TB)</span><br>Лучшее ANC / Новейшая TB</td>
+    <td style="white-space: nowrap;">$67–68</td>
     <td>
       <div class="link-column">
-        <a href="https://earhive.com/product/pro-3-v7-tb/">Сайт</a>
+        <a href="https://airreps.link/eprov7tb">Сайт</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Сайт</a>
+        <a href="https://airreps.link/hcprov7tb">Сайт</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://jenny.airreps.info/product/pro-3-v7-tb/">Сайт</a>
+        <a href="https://airreps.link/jprov7tb">Сайт</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td><span class="version-badge">V7 (Huilian)</span><br>Лучший выбор</td>
+    <td style="white-space: nowrap;">$67–68</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Сайт</a>
@@ -58,7 +63,8 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">SE</span></td>
+    <td><span class="version-badge">SE</span><br>Лучшая цена</td>
+    <td style="white-space: nowrap;">$48</td>
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
@@ -71,6 +77,7 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
   </tr>
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
+    <td style="white-space: nowrap;">$37–38</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov6tb">Сайт</a>
@@ -94,6 +101,7 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
   </tr>
   <tr>
     <td><span class="version-badge">V6 (Huilian)</span></td>
+    <td style="white-space: nowrap;">$43–45</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov6hl">Сайт</a>
@@ -117,6 +125,7 @@ description: 'Найдите версии реплик AirPods Pro 3 (V7, SE, V6
   </tr>
   <tr>
     <td><span class="version-badge">V5.5</span></td>
+    <td style="white-space: nowrap;">$27–28</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov55">Сайт</a>

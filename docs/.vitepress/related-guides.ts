@@ -22,6 +22,7 @@ export const RELATED_GUIDES: Record<string, string[]> = {
         'do-fake-airpods-work-with-find-my',
     ],
     'introduction/overview': [
+        'best-airpods-replicas',
         'best-airpods-replicas-under-50',
         'are-airpods-replicas-safe',
         'how-to-spot-fake-airpods',
@@ -36,9 +37,14 @@ export const RELATED_GUIDES: Record<string, string[]> = {
         'starfun-app-guide',
         'airpods-replicas-vs-real',
     ],
-    'links/airpods': ['best-airpods-replicas-under-50', 'airpods-replicas-on-android'],
+    'links/airpods': [
+        'airpods-4-v3-vs-v2',
+        'best-airpods-replicas-under-50',
+        'airpods-replicas-on-android',
+    ],
     'links/airpods-max': ['airpods-max-v3-vs-v3p', 'airpods-max-dupe'],
     'links/info': [
+        'best-airpods-replicas',
         'airpods-pro-2-vs-airpods-pro-3',
         'are-airpods-replicas-safe',
         'airpods-replica-customs-and-vat',
@@ -55,7 +61,11 @@ export const RELATED_GUIDES: Record<string, string[]> = {
         'do-fake-airpods-work-with-find-my',
         'can-people-tell-airpods-are-fake',
     ],
-    quiz: ['airpods-pro-2-vs-airpods-pro-3', 'best-airpods-replicas-under-50'],
+    quiz: [
+        'best-airpods-replicas',
+        'airpods-pro-2-vs-airpods-pro-3',
+        'best-airpods-replicas-under-50',
+    ],
     'troubleshooting/AirReps-Incompatibility-with-iCloud': [
         'fake-airpods-on-mac',
         'do-fake-airpods-work-with-new-iphone',
@@ -73,21 +83,22 @@ export const RELATED_GUIDES: Record<string, string[]> = {
         'airpods-replicas-on-android',
     ],
     'version-info/airpods': [
+        'airpods-4-v3-vs-v2',
         'best-airpods-replicas-under-50',
+        'starfun-app-guide',
         'airpods-replicas-on-android',
-        'do-fake-airpods-work-with-new-iphone',
     ],
     'version-info/airpods-max': ['airpods-max-v3-vs-v3p', 'airpods-max-dupe'],
     'version-info/general': [
+        'best-airpods-replicas',
+        'airpods-pro-3-v7-huilian-vs-v7-tb',
         'airpods-pro-2-vs-airpods-pro-3',
-        'best-airpods-replicas-under-50',
-        'airpods-replicas-vs-real',
         'do-fake-airpods-work-with-find-my',
     ],
     'version-info/pro': [
         'airpods-pro-3-v7-huilian-vs-v7-tb',
         'airpods-pro-2-vs-airpods-pro-3',
-        'fake-airpods-on-mac',
+        'starfun-app-guide',
         'how-to-update-fake-airpods-firmware',
     ],
 };

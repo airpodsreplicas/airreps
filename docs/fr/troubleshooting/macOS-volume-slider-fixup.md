@@ -6,7 +6,7 @@ description: Corrigez le problème du curseur de volume sur macOS pour les Intel
 
 Ceci est l'un des problèmes les plus connus sur la version **Intel** de macOS, où la barre de réglage du volume qui contrôle le volume audio ne fonctionne tout simplement pas, et ne fait qu'agir comme un interrupteur (cela affecte la plupart des replicas, bien que certains ne soient pas concernés). Comme Apple ne s'occupera jamais du problème, nous pouvons contourner ceci avec un [outil open source](https://github.com/briankendall/proxy-audio-device).
 
-:::warning
+::: warning
 Ce guide est destiné à ceux qui possèdent des Mac basés sur Intel (i3, i5, i7 ; pas de puce M series). Si votre Mac Apple Silicon (puce M series) ne joue pas de son avec vos AirReps actuels, consultez la section [translated Common Bugs](/fr/troubleshooting/other-common-bugs).
 :::
 
@@ -28,7 +28,7 @@ Si vous n'avez pas `brew` installé sur votre système, nous pouvons commencer i
 
 <video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Installation using Terminal"></video>
 
-:::warning
+::: warning
 Il se peut qu'on vous demande d'entrer votre mot de passe, allez-y et entrez-le comme d'habitude (votre mot de passe peut sembler caché, mais ce n'est pas le cas ici).
 :::
 
@@ -75,11 +75,11 @@ Bien que cela convienne la plupart du temps, certains utilisateurs peuvent renco
 Malheureusement, vous devez aller dans le Control Center pour contrôler l'audio (ou utiliser un raccourci clavier).
 :::
 
-:::details Pas de son lorsque déconnecté
+::: details Pas de son lorsque déconnecté
 L'application est conçue pour se connecter en permanence au périphérique choisi. Vous devez re-sélectionner manuellement "Internal Speaker".
 :::
 
-:::details Crépitements/pop ou audio d'un seul côté
+::: details Crépitements/pop ou audio d'un seul côté
 Vous pouvez contourner cela en augmentant la taille du buffer, ou en choisissant `Always` dans l'option `Proxy device is active` de l'application.
 :::
 

@@ -1,6 +1,6 @@
 ---
-title: "AirPods Max V3 TB & V3P Replica Versions Compared"
-description: "AirPods Max rep versions compared: the V3 Metal, sold as Max V3 TB, vs the cheaper V3P and the older V2 and V2.5, by chip, noise cancelling, head tracking and price."
+title: "AirPods Max V3 TB & V3P Replicas Compared (2026)"
+description: "AirPods Max V3 TB (Metal, $126–127) vs V3P ($85–94) replicas compared by chip, CNC aluminum vs plastic build, four-mic ANC, head tracking and price."
 ---
 
 # AirPods Max
@@ -10,17 +10,17 @@ Every AirPods Max replica (rep) version on one page: the V3 Metal, which the sel
 <div class="pick-cards">
 
 - <span class="pick-label">Best overall</span> **V3 Metal** (sold as Max V3 TB) · $126–127<br>Metal ear cups, upgraded hybrid noise cancelling and head-tracking spatial audio. [V3 overview](#v3-overview)<span class="pick-buy">Buy at [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
-- <span class="pick-label">Lower price</span> **V3P** · $85–93<br>A plastic-steel shell and an older chipset, so it isn't simply the V3 in a plastic case. No head tracking. [V3 overview](#v3-overview)<span class="pick-buy">Buy at [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
+- <span class="pick-label">Lower price</span> **V3P** · $85–94<br>A plastic-steel shell and an older chipset, so it isn't simply the V3 in a plastic case. No head tracking. [V3 overview](#v3-overview)<span class="pick-buy">Buy at [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
 </div>
 
-Prices are what the sellers charged on 3 November 2026; see the [purchase links](/links/airpods-max) for current prices. Click a version name in the table to read community reviews.
+Prices are what the sellers charged on 26 November 2026; see the [purchase links](/links/airpods-max) for current prices. Click a version name in the table to read community reviews.
 
 <div class="compare-table">
 
 | | [<span class="version-badge">V3 Metal</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v3) | [<span class="version-badge">V3P</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v3p) | [<span class="version-badge">V2.5</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v2.5) | [<span class="version-badge">V2 Metal</span>](https://www.reddit.com/r/AirReps/search?restrict_sr=1&q=max%20v2) |
 |:---|:---:|:---:|:---:|:---:|
-| **Price** | $126–127 | $85–93 | $124 | $110–112 |
+| **Price** | $126–127 | $85–94 | $124 | $110–112 |
 | **Sold by** | All 3 | Earhive, Jenny | Earhive | Earhive, Jenny |
 | **Ear cups** | Metal | Plastic-steel | Aluminium alloy | Aluminium alloy |
 | **Noise cancelling** | Four-mic hybrid¹ | Hybrid | Hybrid | Hybrid |
@@ -28,7 +28,7 @@ Prices are what the sellers charged on 3 November 2026; see the [purchase links]
 | **Head-tracking spatial audio** | ✅ | ❌ | ✅² | ❌ |
 | **Battery** | 20 h¹ | 20 h¹ | Not verified | Not verified |
 | **Switch between devices** | 2 devices | 1 device | 2 devices² | 1 device |
-| **App for EQ & updates** | FlyCC (Android) | FlyCC (Android) | Depends on chip | FlyCC (Android) |
+| **App for EQ & updates** | FlyCC | FlyCC | Depends on chip | FlyCC |
 | **Charging port** | USB-C | USB-C | USB-C or Lightning | Lightning or USB-C |
 
 </div>
@@ -81,7 +81,7 @@ The sellers list the V3 Metal as **Max V3 TB**. It is the flagship AirPods Max r
 - **Head-tracking spatial audio:** yes
 - **Transparency mode:** natural
 - **Switching:** between 2 devices
-- **App for EQ and updates:** FlyCC (Android); see the [FlyCC guide](/articles/flycc-app-guide)
+- **App for EQ and updates:** FlyCC (Android & iOS); see the [FlyCC guide](/articles/flycc-app-guide)
 - **Battery:** 20 hours, seller-listed
 
 <span class="pick-buy">Buy the Max V3 TB at [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span>
@@ -96,7 +96,7 @@ The V3P is the lower-priced version, sold by Earhive and Jenny. It has a plastic
 - **Head-tracking spatial audio:** no
 - **Transparency mode:** decent
 - **Switching:** 1 device
-- **App for EQ and updates:** FlyCC (Android)
+- **App for EQ and updates:** FlyCC (Android & iOS)
 - **Battery:** 20 hours, seller-listed
 
 <span class="pick-buy">Buy the V3P at [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
@@ -108,3 +108,21 @@ Choosing between them? [AirPods Max V3 vs V3P](/articles/airpods-max-v3-vs-v3p) 
 **V2 TB**: The V2 model delivers satisfactory sound quality with support for EQ adjustments via FlyCC. It features a firmer shell and offers future-proofing through firmware update capability.
 
 **V2.5**: This upgraded version provides enhanced Active Noise Cancellation (ANC) and improved transparency mode. It also features a superior headband design compared to the V2. The Realtek 8763ESE version supports OTA firmware updates and dual-device connection. Ready to buy? Check our [AirPods Max purchase links](/links/airpods-max).
+
+## Frequently Asked Questions
+
+::: details What is the difference between AirPods Max V3 TB and V3P?
+The **Max V3 TB** ($126–127) uses metal ear cups, the newer Airoha 1562AE chipset, four-mic hybrid ANC, head-tracking spatial audio, and 2-device multipoint. The **V3P** ($85–94) uses a plastic-steel shell and older Airoha 1561M chipset without head tracking or 2-device switching.
+:::
+
+::: details Do AirPods Max replicas have metal ear cups?
+Yes on the **V3 Metal (Max V3 TB)**, V2.5, and V2 Metal. The cheaper **V3P** uses a plastic-steel shell to keep the price under $95.
+:::
+
+::: details Do AirPods Max replicas support iCloud Connect or Find My?
+No. Max V3 TB supports standard Bluetooth multipoint across 2 devices, not Apple iCloud Connect, and no AirPods replica supports Apple's encrypted Find My network.
+:::
+
+::: details Which app works with AirPods Max V3 TB?
+Use **FlyCC** (available on Android and the iOS App Store) for EQ and updates; see [Useful Apps](/useful-apps) and the [FlyCC guide](/articles/flycc-app-guide).
+:::

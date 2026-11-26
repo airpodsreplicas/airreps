@@ -2,97 +2,98 @@
 title: Controle Deslizante é Ineficaz no macOS
 description: Corrija o problema do controle deslizante de volume do macOS em Macs com Intel. Uma solução alternativa simples para recuperar o controle da sua saída de áudio.
 ---
-# The Problem: Volume Slider Bar won't work.
 
-This is one of the most well-known problems on the **Intel** version of macOS, where the volume slider bar that controls audio volume simply won't work, but only acts as a switch (it affects most replicas, though some are unaffected). While Apple themselves would never look into the problem, we can circumvent this with an [open sourced tool](https://github.com/briankendall/proxy-audio-device).
+# O Problema: A barra deslizante de volume não funciona
 
-:::warning
-This guide is meant for those that have Intel-based Macs (i3, i5, i7; not M series chip). If your Apple Silicon (M series chip) Mac won't play audio with your current AirReps, check out the [Problemas Comuns](/pt/troubleshooting/other-common-bugs) section.
+Este é um dos problemas mais conhecidos na versão **Intel** do macOS, em que a barra deslizante de volume não controla o volume de forma gradual, funcionando apenas como um botão de ligar/desligar (isso afeta a maioria das réplicas, embora algumas não sejam afetadas). Como a Apple não vai corrigir isso, podemos contornar o problema usando uma [ferramenta de código aberto](https://github.com/briankendall/proxy-audio-device).
+
+::: warning
+Este guia é destinado a quem usa Macs com processador Intel (i3, i5, i7; não chips da série M). Se o seu Mac Apple Silicon (série M) não reproduz áudio com seus AirReps atuais, confira a seção [Outros Bugs Comuns](/pt/troubleshooting/other-common-bugs).
 :::
 
-## **Prerequisite**
+## **Pré-requisitos**
 
-Before the tutorial, please make sure that you:
-- Have `sudo` access (your macOS account must have administrative access)
-- Have the `brew` package installer (if not, follow this [section](#brew-installation))
+Antes de começar o tutorial, verifique se você:
+- Tem acesso `sudo` (sua conta do macOS precisa ter permissões de administrador)
+- Tem o gerenciador de pacotes `brew` instalado (caso contrário, siga esta [seção](#brew-installation))
 
 ::: tip brew ou instalação manual
-PS: using `brew` is much easier than manual installation, but if you want to skip using `brew`, you can read this and follow the steps [here](https://github.com/briankendall/proxy-audio-device#manual-installation).
+PS: usar o `brew` é muito mais fácil do que a instalação manual, mas se quiser pular o `brew`, siga as instruções [aqui](https://github.com/briankendall/proxy-audio-device#manual-installation).
 :::
 
-## **`brew` Installation**
+## **Instalação do `brew`** {#brew-installation}
 
-If you haven't got `brew` installed on your system, we can start here. Enter [this](https://brew.sh/) page, copy the command and run it in Terminal.
+Se você ainda não tem o `brew` instalado no seu sistema, comece por aqui. Acesse [esta página](https://brew.sh/), copie o comando e execute-o no Terminal.
 
 <video src="/volume_fix/brew-installation.webm" poster="/volume_fix/brew-installation-poster.webp" width="500" height="443" autoplay loop muted playsinline aria-label="Instalação usando o Terminal"></video>
 
-:::warning
-You might be prompted to enter your password, go ahead and enter your password as usual (your password might look like it's hidden, but it's not in this case).
+::: warning
+Pode ser solicitado que você digite sua senha — digite-a normalmente (ela não aparece na tela enquanto você digita, mas está sendo registrada).
 :::
 
-## **Installation**
+## **Instalação**
 
 ### **Download**
-Once everything is ready, you can start by opening Terminal, then run the following command:
+Com tudo pronto, abra o Terminal e execute o seguinte comando:
 `brew install --cask proxy-audio-device`
 
 <video src="/volume_fix/app-installation.webm" poster="/volume_fix/app-installation-poster.webp" width="500" height="346" autoplay loop muted playsinline aria-label="instalar proxy-audio-device"></video>
 
 ::: tip Pause o áudio durante a instalação
-While installing, it's normal for the system audio to glitch a little. So do this while no audio is playing or being edited (no audio-manipulation software running).
+Durante a instalação, é normal que o áudio do sistema dê pequenas falhas. Faça isso enquanto nenhum áudio estiver tocando ou sendo editado.
 :::
 
-### **Setting Up**
-1. Navigate to Launchpad, run the newly installed `Proxy Audio Device Settings` to begin the setup process, it will look something like this:
+### **Configuração**
+1. Abra o Launchpad e execute o aplicativo recém-instalado `Proxy Audio Device Settings` para iniciar a configuração. Ele terá esta aparência:
 
 ![ícone do aplicativo](/volume_fix/app_icon.png)
 
-2. Once open, a window will show up like so.
+2. Ao abrir, uma janela como esta aparecerá:
 
 ![interface do aplicativo](/volume_fix/app_window.png)
 
-Don't be tempted to click off this tutorial, most people like you can set them up like so:
+Não feche o tutorial ainda — a maioria das pessoas pode configurá-lo assim:
 
-- `Proxy device name`: Name of the output; you can leave it as is.
-- `Proxied device`: Audio source (select your AirRep's name)
-- `Buffer size`: Permitted time for macOS to process audio (oversimplified) (please **leave it as is**, as 512 is sufficient for most users)
-- `Proxy device is active`: How the software works in the background. This is where it gets tricky, but it boils down to these options:
-    + If you don't mind the audio cutting off (short-duration sounds), pick `When proxied device is active`
-    + For most people, pick `When user is not idle`
-    + For people who want consistent audio, or gaming, pick `Always`.
+- `Proxy device name`: Nome da saída; você pode deixar como padrão.
+- `Proxied device`: Fonte de áudio (selecione o nome do seu AirRep)
+- `Buffer size`: Tempo permitido para o macOS processar o áudio (de forma simplificada) (**deixe como está**, pois 512 é suficiente para a maioria dos usuários)
+- `Proxy device is active`: Como o programa funciona em segundo plano. Escolha entre estas opções:
+    + Se não se importar com pequenos cortes em sons curtos, escolha `When proxied device is active`
+    + Para a maioria das pessoas, escolha `When user is not idle`
+    + Para áudio constante ou jogos, escolha `Always`.
 
-3. Finally, navigate to Control Center > Sound > the ">" icon, and pick the newly created audio device (`Proxy Audio Device` by default).
+3. Por fim, vá em Central de Controle > Som > ícone `>` e escolha o novo dispositivo de áudio (`Proxy Audio Device` por padrão).
 
 <video src="/volume_fix/change-audio-device.webm" poster="/volume_fix/change-audio-device-poster.webp" width="500" height="558" autoplay loop muted playsinline aria-label="selecionar dispositivo de áudio"></video>
 
+## **Efeitos colaterais**
 
-## **Side-effects**
+Embora funcione bem na maior parte do tempo, alguns usuários podem notar estes detalhes:
 
-While it is fine to use most of the time, some users might face these issues:
-::: details No "Sounds" icon on the top bar
-Unfortunately, you have to navigate to Control Center to control the audio (or use a keyboard shortcut).
+::: details Sem ícone de "Som" na barra superior
+Infelizmente, você precisará usar a Central de Controle para ajustar o áudio (ou usar um atalho de teclado).
 :::
 
-:::details No audio when disconnected
-The app is only designed to always hook on the picked device. You have to manually re-select "Internal Speaker".
+::: details Sem áudio ao desconectar
+O aplicativo foi projetado para ficar sempre vinculado ao dispositivo escolhido. Você precisará selecionar novamente "Alto-falantes Internos" manualmente ao desconectar.
 :::
 
-:::details Crack/pop or one-sided audio
-You can get around this by increasing the buffer size, or picking `Always` in the `Proxy device is active` option of the app.
+::: details Estalos/chiados ou áudio em apenas um lado
+Você pode resolver isso aumentando o tamanho do buffer ou escolhendo `Always` na opção `Proxy device is active` do aplicativo.
 :::
 
 <CommunityCta variant="stuck" />
 
-## **Uninstalling**
+## **Desinstalação**
 
-If you wish to remove the app, you can simply run this command in the Terminal:
+Se quiser remover o aplicativo, execute este comando no Terminal:
 
 `brew remove --cask proxy-audio-device`
 
-...then restart your system.
+...e reinicie o sistema.
 
-## **Optional: Survey**
+## **Opcional: Enquete**
 
-I've made a poll [here](https://poll-maker.com/poll5643879x05fb4568-166) to figure out if this workaround is actually working. It's incredibly simple to do, and it helps a lot to get a full picture of this workaround. I'd really appreciate it if you shared your thoughts!
+Criei uma enquete [aqui](https://poll-maker.com/poll5643879x05fb4568-166) para saber se essa solução está funcionando bem. É bem rápido de responder e ajuda muito a avaliar o método. Agradecemos se puder compartilhar sua experiência!
 
 [![enquete](/volume_fix/poll.png)](https://poll-maker.com/poll5643879x05fb4568-166)

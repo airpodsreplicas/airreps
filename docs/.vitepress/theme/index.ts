@@ -106,6 +106,7 @@ export default {
                 if (!id) {
                     return;
                 }
+                // biome-ignore lint/style/useDomQuerySelector: getElementById safely handles arbitrary decoded fragment IDs
                 const el = document.getElementById(id);
                 if (!el) {
                     return;
@@ -141,7 +142,20 @@ export default {
                         return;
                     }
                     const href = link.getAttribute('href') ?? '';
-                    const id = href.slice(href.indexOf('#') + 1);
+                    let resolved: URL;
+                    try {
+                        resolved = new URL(href, window.location.href);
+                    } catch {
+                        return;
+                    }
+                    const normalizePath = (p: string) => p.replace(/\/+$/u, '') || '/';
+                    if (
+                        resolved.origin !== window.location.origin ||
+                        normalizePath(resolved.pathname) !== normalizePath(window.location.pathname)
+                    ) {
+                        return;
+                    }
+                    const id = resolved.hash.slice(1);
                     if (!id) {
                         return;
                     }

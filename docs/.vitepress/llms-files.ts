@@ -2,11 +2,15 @@ import { execFileSync } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 
-// llms.txt and llms-full.txt are hand-edited, and their "Last updated:" line
-// was not: llms-full.txt said 2026-07-07 while its tables were edited in
-// November. Assistants read that line as the freshness of every fact in the
-// file, so the build writes the date of the file's newest commit instead.
+// llms.txt, llms-full.txt and the localized llms.txt files are hand-edited,
+// and their "Last updated:" line was not always bumped on every edit.
+// Assistants read that line as the freshness of every fact in the file, so the
+// build writes the date of the newest commit touching the llms set instead.
 export const LLMS_FILES = ['llms.txt', 'llms-full.txt'];
+export const LOCALE_LLMS_FILES = ['da', 'de', 'es', 'fr', 'pl', 'pt', 'ru', 'tr'].map(
+    (locale) => `${locale}/llms.txt`
+);
+export const ALL_LLMS_FILES = [...LLMS_FILES, ...LOCALE_LLMS_FILES];
 
 const LAST_UPDATED_RE = /^Last updated: (\d{4}-\d{2}-\d{2})$/m;
 
@@ -51,9 +55,9 @@ export function newestDay(days: Array<string | null>): string | null {
  */
 export function stampLlmsFiles(outDir: string, repoRoot: string): void {
     const day = newestDay(
-        LLMS_FILES.map((name) => lastCommitDay(repoRoot, path.join('docs', 'public', name)))
+        ALL_LLMS_FILES.map((name) => lastCommitDay(repoRoot, path.join('docs', 'public', name)))
     );
-    for (const name of LLMS_FILES) {
+    for (const name of ALL_LLMS_FILES) {
         const built = path.join(outDir, name);
         if (!fs.existsSync(built)) {
             continue;

@@ -8,19 +8,19 @@ import {
     type HeadConfig,
     type PageData,
 } from 'vitepress';
-import { COMMUNITY_LINKS, communityPath } from './community';
-import { stampLlmsFiles } from './llms-files';
-import { createPageDates } from './page-dates';
-import { productFamiliesPlugin } from './plugins/product-families';
-import { redirectPlugin, writeProductRedirects } from './plugins/redirect';
-import { privacyLink } from './privacy-link';
-import { productDestination, productRedirectScript } from './product-routes';
-import { seasonScript } from './theme/season';
+import { COMMUNITY_LINKS, communityPath } from './community.ts';
+import { stampLlmsFiles } from './llms-files.ts';
+import { createPageDates } from './page-dates.ts';
+import { productFamiliesPlugin } from './plugins/product-families.ts';
+import { redirectPlugin, writeProductRedirects } from './plugins/redirect.ts';
+import { privacyLink } from './privacy-link.ts';
+import { productDestination, productRedirectScript } from './product-routes.ts';
+import { seasonScript } from './theme/season.ts';
 import {
     injectNotFoundFix,
     writeSectionRootRedirects,
     writeTrailingSlashRedirects,
-} from './url-fallbacks';
+} from './url-fallbacks.ts';
 
 const configDir = path.dirname(fileURLToPath(import.meta.url));
 const docsDir = path.resolve(configDir, '..');
@@ -146,6 +146,60 @@ function getSellersOnLinksPage(absPath: string): Array<{ name: string; url: stri
         url,
     }));
 }
+
+// Ordered article summaries per locale, cached once per build for the
+// CollectionPage ItemList schema on /articles/ (and /<locale>/articles/).
+const localeArticlesCache = new Map<string, Array<{ name: string; url: string }>>();
+function getArticlesForSchema(locale: string): Array<{ name: string; url: string }> {
+    const cached = localeArticlesCache.get(locale);
+    if (cached) {
+        return cached;
+    }
+    const prefix = locale === 'en' ? '' : `/${locale}`;
+    const dir = path.join(docsDir, locale === 'en' ? 'articles' : path.join(locale, 'articles'));
+    const entries: Array<{ name: string; order: number; url: string }> = [];
+    try {
+        for (const file of fs.readdirSync(dir)) {
+            if (!file.endsWith('.md') || file === 'index.md') {
+                continue;
+            }
+            const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
+            const fm = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1];
+            if (!fm) {
+                continue;
+            }
+            const orderMatch = fm.match(/^order:\s*(\d+)/m);
+            const titleMatch = fm.match(/^title:\s*(.+)$/m);
+            if (!(orderMatch && titleMatch)) {
+                continue;
+            }
+            const name = titleMatch[1].trim().replace(/^['"]|['"]$/g, '');
+            const slug = file.slice(0, -'.md'.length);
+            entries.push({
+                name,
+                order: Number(orderMatch[1]),
+                url: `https://airpodsreplicas.com${prefix}/articles/${slug}`,
+            });
+        }
+    } catch {
+        // Directory missing in test or partial locale tree.
+    }
+    const sorted = entries
+        .sort((a, b) => a.order - b.order)
+        .map(({ name, url }) => ({ name, url }));
+    localeArticlesCache.set(locale, sorted);
+    return sorted;
+}
+
+const USEFUL_APPS_SCHEMA: Array<{ name: string; operatingSystem: string; url: string }> = [
+    { name: 'FlyCC', operatingSystem: 'Android, iOS', url: 'https://airreps.link/flycc' },
+    { name: 'StarFun', operatingSystem: 'Android, iOS', url: 'https://airreps.link/starfun' },
+    { name: 'CloudCC', operatingSystem: 'Android', url: 'https://airreps.link/cloudcc' },
+    { name: 'BullSuper', operatingSystem: 'Android', url: 'https://airreps.link/bullsuperhr' },
+    { name: 'G&Link', operatingSystem: 'iOS', url: 'https://airreps.link/gnlink' },
+    { name: 'HBluetooth', operatingSystem: 'iOS', url: 'https://airreps.link/hbluetooth' },
+    { name: 'KKX', operatingSystem: 'Android', url: 'https://airreps.link/kkx' },
+];
 
 // Shared sidebar structure - used to generate locale-specific sidebars
 function getSidebar(lang: string): DefaultTheme.SidebarItem[] {
@@ -806,7 +860,6 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
     description: 'A community for the discussion and exploration of AirPods clones.',
 
     head: [
-        ['link', { crossorigin: '', href: 'https://cdn.jsdelivr.net', rel: 'preconnect' }],
         // Navbar logo is the LCP element on most pages — preload it.
         [
             'link',
@@ -1055,7 +1108,13 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
             const host = 'https://airpodsreplicas.com';
 
             return items
-                .filter((item) => !productDestination(`/${item.url}`))
+                .filter(
+                    (item) =>
+                        !(
+                            productDestination(`/${item.url}`) ||
+                            /(?:^|\/)bot\/(?:privacy|terms)$/.test(item.url)
+                        )
+                )
                 .map((item) => {
                     // VitePress provides item.url without a leading slash (e.g. "contributing" or "da/contributing")
                     // Strip locale prefix to get the base path
@@ -1224,6 +1283,14 @@ export default defineConfigWithTheme<DefaultTheme.Config & { synthetic404Head: H
 
 // Generate the same head entries for real page data and the synthetic 404.
 function updatePageMetadata(pageData: PageData): void {
+    const { relativePath, frontmatter } = pageData;
+    if (pageData.isNotFound) {
+        frontmatter.head = [
+            ...(frontmatter.head ?? []),
+            metaTag('robots', 'noindex, nofollow', 'name'),
+        ];
+        return;
+    }
     // Resolve included content dates before computing Article.dateModified.
     // Explicit frontmatter dates still win, and undated pages still get metadata.
     if (pageData.lastUpdated !== undefined && !(pageData.frontmatter.lastUpdated instanceof Date)) {
@@ -1232,7 +1299,6 @@ function updatePageMetadata(pageData: PageData): void {
             pageData.lastUpdated
         );
     }
-    const { relativePath, frontmatter } = pageData;
     const oldPath = `/${relativePath.replace(/\.md$/, '')}`;
     const destination = productDestination(oldPath);
     if (destination) {
@@ -1362,14 +1428,15 @@ function updatePageMetadata(pageData: PageData): void {
     const ogImageOnDisk = fs.existsSync(path.join(ogImagesDir, `${ogImageSlug}.png`));
     const ogImageUrl = `https://airpodsreplicas.com/og/${ogImageOnDisk ? ogImageSlug : 'index'}.png?v=${BRANDING_VERSION}`;
 
-    // Section detection — drives breadcrumbs and per-section schema @type
+    // Section detection — drives localized breadcrumbs and per-section schema @type
+    const t = translations[currentLocale] || translations.en;
     const sectionMap: Record<string, string> = {
-        articles: 'Articles',
-        introduction: 'Ultimate Guide',
-        links: 'Purchase Links',
-        ordering: 'Ordering',
-        troubleshooting: 'Troubleshooting',
-        'version-info': 'Version Info',
+        articles: t.sidebar.articles,
+        introduction: t.sidebar.ultimateGuide,
+        links: t.sidebar.links,
+        ordering: t.sidebar.ordering,
+        troubleshooting: t.sidebar.troubleshooting,
+        'version-info': t.sidebar.versionInfo,
     };
     const pathSegments = basePath.split('/').filter(Boolean);
     const sectionSlug = pathSegments.length > 1 ? pathSegments[0] : null;
@@ -1390,16 +1457,26 @@ function updatePageMetadata(pageData: PageData): void {
             ? `https://airpodsreplicas.com${localePrefix}/${sectionHubs[sectionSlug]}`
             : null;
 
+    const isEnglish = currentLocale === 'en';
     const isHome = basePath === '';
-    const isTroubleshooting =
+    const isArticlesIndex = basePath === 'articles/';
+    const isUsefulApps = basePath === 'useful-apps';
+    const isQuiz = basePath === 'quiz';
+    const isUtilityPage =
+        basePath === 'privacy' || basePath === 'contributing' || basePath.startsWith('bot/');
+    const isTechArticle =
         sectionSlug === 'troubleshooting' ||
         (sectionSlug === 'articles' &&
             (basePath.includes('wont-connect') ||
                 basePath.includes('reset') ||
-                basePath.includes('how-to-spot')));
+                basePath.includes('how-to-spot') ||
+                basePath.includes('how-to-update-fake-airpods-firmware') ||
+                basePath.includes('flycc-app-guide') ||
+                basePath.includes('starfun-app-guide')));
     const isLinksPage = sectionSlug === 'links';
 
-    // Multi-level breadcrumb (Home > Section > Page)
+    // Multi-level localized breadcrumb (Home > Section > Page).
+    // Section hub pages stop at position 2 so the hub URL is never duplicated.
     const breadcrumbItems: Array<{
         '@type': 'ListItem';
         position: number;
@@ -1409,7 +1486,7 @@ function updatePageMetadata(pageData: PageData): void {
         {
             '@type': 'ListItem',
             item: `https://airpodsreplicas.com${localePrefix}/`,
-            name: 'Home',
+            name: t.nav.home,
             position: 1,
         },
     ];
@@ -1421,11 +1498,11 @@ function updatePageMetadata(pageData: PageData): void {
             position: 2,
         });
     }
-    if (!isHome) {
+    if (!isHome && pageUrl !== sectionUrl) {
         breadcrumbItems.push({
             '@type': 'ListItem',
             item: pageUrl,
-            name: title || 'Page',
+            name: title || defaults.title,
             position: breadcrumbItems.length + 1,
         });
     }
@@ -1433,18 +1510,27 @@ function updatePageMetadata(pageData: PageData): void {
     const organizationNode = {
         '@id': 'https://airpodsreplicas.com/#organization',
         '@type': 'Organization',
-        alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
-        description:
-            'AirReps is the largest community for AirPods replicas, covering which models to buy, trusted sellers, version comparisons, features, sound quality, and troubleshooting.',
-        knowsAbout: [
-            'AirPods replicas',
-            'AirPods Pro 2 replicas',
-            'AirPods Pro 3 replicas',
-            'AirPods 4 replicas',
-            'AirPods Max replicas',
-            'replica earbuds',
-            'AirPods clones',
-        ],
+        ...(isEnglish
+            ? {
+                  alternateName: [
+                      'AirPods Replicas',
+                      'Fake AirPods',
+                      'AirPods Clones',
+                      'AirPods Dupes',
+                  ],
+                  description:
+                      'AirReps is the largest community for AirPods replicas, covering which models to buy, trusted sellers, version comparisons, features, sound quality, and troubleshooting.',
+                  knowsAbout: [
+                      'AirPods replicas',
+                      'AirPods Pro 2 replicas',
+                      'AirPods Pro 3 replicas',
+                      'AirPods 4 replicas',
+                      'AirPods Max replicas',
+                      'replica earbuds',
+                      'AirPods clones',
+                  ],
+              }
+            : { description: defaults.description }),
         logo: {
             '@type': 'ImageObject',
             url: `https://airpodsreplicas.com/logo.webp?v=${BRANDING_VERSION}`,
@@ -1465,16 +1551,33 @@ function updatePageMetadata(pageData: PageData): void {
         : new Date().toISOString();
     const datePublished = pageDates.published(path.join(docsDir, relativePath)) ?? dateModified;
 
-    // JSON-LD graph nodes
+    // JSON-LD graph nodes — keep locale WebSite strictly in its own language so
+    // non-English pages don't leak English keywords or entity labels.
+    const websiteId = isEnglish
+        ? 'https://airpodsreplicas.com/#website'
+        : `https://airpodsreplicas.com/${currentLocale}/#website`;
+    const websiteUrl = isEnglish
+        ? 'https://airpodsreplicas.com'
+        : `https://airpodsreplicas.com/${currentLocale}/`;
+
     const websiteNode = {
-        '@id': 'https://airpodsreplicas.com/#website',
+        '@id': websiteId,
         '@type': 'WebSite',
-        alternateName: ['AirPods Replicas', 'Fake AirPods', 'AirPods Clones', 'AirPods Dupes'],
+        ...(isEnglish
+            ? {
+                  alternateName: [
+                      'AirPods Replicas',
+                      'Fake AirPods',
+                      'AirPods Clones',
+                      'AirPods Dupes',
+                  ],
+              }
+            : {}),
         description: defaults.description,
-        inLanguage: ['en', ...SUPPORTED_LOCALES],
+        inLanguage: currentLocale,
         name: 'AirReps',
         publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
-        url: 'https://airpodsreplicas.com',
+        url: websiteUrl,
     };
 
     const breadcrumbNode = {
@@ -1483,34 +1586,112 @@ function updatePageMetadata(pageData: PageData): void {
         itemListElement: breadcrumbItems,
     };
 
-    const homeNode = {
+    const cleanHeadline = title && title !== 'AirReps' ? title : defaults.title;
+
+    const webPageNode = {
         '@id': `${pageUrl}#webpage`,
         '@type': 'WebPage',
+        ...(!isHome ? { breadcrumb: { '@id': `${pageUrl}#breadcrumb` } } : {}),
         dateModified,
         description: pageDescription,
         inLanguage: currentLocale,
-        isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+        isPartOf: { '@id': websiteId },
         name: pageTitleClean,
         url: pageUrl,
     };
 
+    const quizNode = {
+        '@id': `${pageUrl}#webapp`,
+        '@type': 'WebApplication',
+        applicationCategory: 'UtilitiesApplication',
+        breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+        browserRequirements: 'Requires JavaScript',
+        dateModified,
+        description: pageDescription,
+        inLanguage: currentLocale,
+        isAccessibleForFree: true,
+        isPartOf: { '@id': websiteId },
+        name: cleanHeadline,
+        operatingSystem: 'Any',
+        url: pageUrl,
+    };
+
+    const usefulAppsNode = {
+        '@id': `${pageUrl}#webpage`,
+        '@type': 'CollectionPage',
+        breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+        dateModified,
+        description: pageDescription,
+        inLanguage: currentLocale,
+        isPartOf: { '@id': websiteId },
+        mainEntity: {
+            '@type': 'ItemList',
+            itemListElement: USEFUL_APPS_SCHEMA.map((app, i) => ({
+                '@type': 'ListItem',
+                item: {
+                    '@type': 'SoftwareApplication',
+                    applicationCategory: 'UtilitiesApplication',
+                    name: app.name,
+                    offers: {
+                        '@type': 'Offer',
+                        price: '0',
+                        priceCurrency: 'USD',
+                    },
+                    operatingSystem: app.operatingSystem,
+                    url: app.url,
+                },
+                position: i + 1,
+            })),
+        },
+        name: cleanHeadline,
+        url: pageUrl,
+    };
+
+    const articlesIndexItems = isArticlesIndex ? getArticlesForSchema(currentLocale) : [];
+    const articlesIndexNode = isArticlesIndex
+        ? {
+              '@id': `${pageUrl}#webpage`,
+              '@type': 'CollectionPage',
+              breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+              dateModified,
+              description: pageDescription,
+              inLanguage: currentLocale,
+              isPartOf: { '@id': websiteId },
+              ...(articlesIndexItems.length
+                  ? {
+                        mainEntity: {
+                            '@type': 'ItemList',
+                            itemListElement: articlesIndexItems.map((article, i) => ({
+                                '@type': 'ListItem',
+                                name: article.name,
+                                position: i + 1,
+                                url: article.url,
+                            })),
+                        },
+                    }
+                  : {}),
+              name: cleanHeadline,
+              url: pageUrl,
+          }
+        : null;
+
     const articleNode = {
         '@id': `${pageUrl}#article`,
-        '@type': isTroubleshooting ? 'TechArticle' : 'Article',
+        '@type': isTechArticle ? 'TechArticle' : 'Article',
+        author: { '@id': 'https://airpodsreplicas.com/#organization' },
         breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+        dateModified,
+        datePublished,
         description: pageDescription,
-        headline: pageTitleClean,
+        headline: cleanHeadline,
         image: ogImageUrl,
         inLanguage: currentLocale,
-        isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+        isPartOf: { '@id': websiteId },
         mainEntityOfPage: pageUrl,
+        publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
         thumbnailUrl: ogImageUrl,
         url: pageUrl,
         ...(sectionName ? { articleSection: sectionName } : {}),
-        author: { '@id': 'https://airpodsreplicas.com/#organization' },
-        dateModified,
-        datePublished,
-        publisher: { '@id': 'https://airpodsreplicas.com/#organization' },
     };
 
     // /links/* pages are seller directories. CollectionPage + ItemList of
@@ -1528,7 +1709,7 @@ function updatePageMetadata(pageData: PageData): void {
                   dateModified,
                   description: pageDescription,
                   inLanguage: currentLocale,
-                  isPartOf: { '@id': 'https://airpodsreplicas.com/#website' },
+                  isPartOf: { '@id': websiteId },
                   mainEntity: {
                       '@type': 'ItemList',
                       itemListElement: linksPageSellers.map((seller, i) => ({
@@ -1541,20 +1722,65 @@ function updatePageMetadata(pageData: PageData): void {
                           position: i + 1,
                       })),
                   },
-                  name: pageTitleClean,
+                  name: cleanHeadline,
                   url: pageUrl,
               }
             : null;
 
-    const mainPageNode = isHome
-        ? homeNode
-        : linksCollectionNode
-          ? linksCollectionNode
-          : articleNode;
+    const mainPageNode =
+        isHome || isUtilityPage
+            ? webPageNode
+            : isQuiz
+              ? quizNode
+              : isUsefulApps
+                ? usefulAppsNode
+                : articlesIndexNode
+                  ? articlesIndexNode
+                  : linksCollectionNode
+                    ? linksCollectionNode
+                    : articleNode;
+
+    // FAQ JSON-LD — manual `faq:` frontmatter wins; auto-extracted
+    // `::: details Question?` blocks fill in the rest (deduped case-insensitively),
+    // merged directly into the page `@graph` and linked via `mainEntityOfPage`.
+    const manualFaqs = (frontmatter.faq as Array<{ q: string; a: string }> | undefined) ?? [];
+    const seenQuestions = new Set(manualFaqs.map((f) => f.q.trim().toLowerCase()));
+    const faqs = [
+        ...manualFaqs,
+        ...extractFaqsFromMarkdown(path.join(docsDir, relativePath)).filter(
+            (f) => !seenQuestions.has(f.q.trim().toLowerCase())
+        ),
+    ];
+    const faqNode = faqs.length
+        ? {
+              '@id': `${pageUrl}#faq`,
+              '@type': 'FAQPage',
+              inLanguage: currentLocale,
+              isPartOf: { '@id': websiteId },
+              mainEntity: faqs.map((item) => ({
+                  '@type': 'Question',
+                  acceptedAnswer: {
+                      '@type': 'Answer',
+                      text: item.a,
+                  },
+                  name: item.q,
+              })),
+              mainEntityOfPage: { '@id': mainPageNode['@id'] },
+          }
+        : null;
+
+    const graphNodes: Record<string, unknown>[] = [organizationNode, websiteNode];
+    if (!isHome) {
+        graphNodes.push(breadcrumbNode);
+    }
+    graphNodes.push(mainPageNode);
+    if (faqNode) {
+        graphNodes.push(faqNode);
+    }
 
     const schema = {
         '@context': 'https://schema.org',
-        '@graph': [organizationNode, websiteNode, breadcrumbNode, mainPageNode],
+        '@graph': graphNodes,
     };
 
     frontmatter.head = [
@@ -1640,45 +1866,7 @@ function updatePageMetadata(pageData: PageData): void {
         metaTag('twitter:description', pageDescription, 'name'),
         metaTag('twitter:image', ogImageUrl, 'name'),
         metaTag('twitter:image:alt', pageTitleSocial, 'name'),
-        // JSON-LD
+        // JSON-LD (includes @graph-linked FAQPage when FAQs are present)
         ['script', { type: 'application/ld+json' }, JSON.stringify(schema)],
-        // FAQ JSON-LD — manual `faq:` frontmatter wins; otherwise auto-extracted
-        // from `::: details Question?` blocks in the source markdown
-        ...(() => {
-            const manualFaqs =
-                (frontmatter.faq as Array<{ q: string; a: string }> | undefined) ?? [];
-            // Merge instead of either/or: manual `faq:` frontmatter entries
-            // win, then append any auto-extracted `::: details Question?`
-            // blocks not already covered (deduped case-insensitively on the
-            // question) so hand-authored and inline FAQs both reach schema.
-            const seenQuestions = new Set(manualFaqs.map((f) => f.q.trim().toLowerCase()));
-            const faqs = [
-                ...manualFaqs,
-                ...extractFaqsFromMarkdown(path.join(docsDir, relativePath)).filter(
-                    (f) => !seenQuestions.has(f.q.trim().toLowerCase())
-                ),
-            ];
-            if (!faqs.length) {
-                return [];
-            }
-            return [
-                [
-                    'script',
-                    { type: 'application/ld+json' },
-                    JSON.stringify({
-                        '@context': 'https://schema.org',
-                        '@type': 'FAQPage',
-                        mainEntity: faqs.map((item) => ({
-                            '@type': 'Question',
-                            acceptedAnswer: {
-                                '@type': 'Answer',
-                                text: item.a,
-                            },
-                            name: item.q,
-                        })),
-                    }),
-                ],
-            ] as [string, Record<string, string>, string][];
-        })(),
     ];
 }

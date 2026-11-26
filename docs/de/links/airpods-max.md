@@ -11,12 +11,14 @@ AirPods Max-Nachbildungen sind die Over-Ear-Option und reichen von günstigen Ku
 <table>
   <tr>
     <th>Version</th>
+    <th>Preis</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V3 (Metall)</span><br>Wird als Max V3 TB verkauft</td>
+    <td><span class="version-badge">V3 (Metall)</span><br>Beste Max · Wird als Max V3 TB verkauft</td>
+    <td style="white-space: nowrap;">$126–127</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3tb">Website</a>
@@ -40,6 +42,7 @@ AirPods Max-Nachbildungen sind die Over-Ear-Option und reichen von günstigen Ku
   </tr>
   <tr>
     <td><span class="version-badge">V3P</span></td>
+    <td style="white-space: nowrap;">$85–94</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv3p">Website</a>
@@ -58,6 +61,7 @@ AirPods Max-Nachbildungen sind die Over-Ear-Option und reichen von günstigen Ku
   </tr>
   <tr>
     <td><span class="version-badge">V2.5</span></td>
+    <td style="white-space: nowrap;">$124</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv25">Website</a>
@@ -70,6 +74,7 @@ AirPods Max-Nachbildungen sind die Over-Ear-Option und reichen von günstigen Ku
   </tr>
   <tr>
     <td><span class="version-badge">V2 Metal</span></td>
+    <td style="white-space: nowrap;">$110–112</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/emaxv2tb">Website</a>

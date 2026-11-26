@@ -8,6 +8,10 @@ Hjemmeside: https://airpodsreplicas.com/da/
 Discord: https://airreps.link/discord
 Reddit: https://airreps.link/reddit (r/AirReps)
 
+Fuld reference på engelsk til LLM'er: https://airpodsreplicas.com/llms-full.txt
+
+Last updated: 2026-11-26
+
 ## Guide
 
 - [Oversigt over Den Ultimative Guide](https://airpodsreplicas.com/da/introduction/overview): Start her. Beskriver hvad AirPods-replikaer er, hvorfor folk køber dem, og hvad man kan forvente.
@@ -24,7 +28,7 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 ## Versionssammenligninger
 
 - [Generel Versionsinfo](https://airpodsreplicas.com/da/version-info/general): Oversigt over alle versioner, chipsæt og hvordan man identificerer sin egen.
-- [AirPods Pro 3](https://airpodsreplicas.com/da/version-info/pro#airpods-pro-3): Nyeste model med Live Translation og iCloud Connect.
+- [AirPods Pro 3](https://airpodsreplicas.com/da/version-info/pro#airpods-pro-3): V7 Huilian (hovedanbefaling, iCloud Connect, Live Translation, pulsmåler, hovedbevægelser), V7 TB (Airoha 1571AM, bedste ANC, 3 enheder, FlyCC), SE (bedste værdi under $50, stærk ANC til prisen ~$48), V6 og V5.5.
 - [AirPods Pro 2](https://airpodsreplicas.com/da/version-info/pro#airpods-pro-2): Versioner og chipsæt sammenlignet. Tag [quizzen](https://airpodsreplicas.com/da/quiz) for en anbefaling.
 - [AirPods Pro](https://airpodsreplicas.com/da/version-info/pro#airpods-pro): Første generation af Pro-replikaer.
 - [AirPods 4](https://airpodsreplicas.com/da/version-info/airpods#airpods-4): Open-ear design med ANC.
@@ -39,6 +43,31 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 - [Købslinks](https://airpodsreplicas.com/da/links/info): Direkte links til betroede sælgere for hver model.
 - [Kvalitetskontrol og ægthedstjek](https://airpodsreplicas.com/da/ordering/qc-lc): Hvordan du verificerer dit produkt efter køb.
 
+## Artikler
+
+- [Sådan finder du ud af, om AirPods er falske: 10 kontroller, der faktisk virker](https://airpodsreplicas.com/da/articles/how-to-spot-fake-airpods): Sådan finder du ud af, om AirPods er falske: serienumre, firmware, emballage og de kontroller, der faktisk afslører kopier.
+- [Bedste AirPods-kopier under $50 (2026)](https://airpodsreplicas.com/da/articles/best-airpods-replicas-under-50): De bedste AirPods-kopier under $50: budgetvenlige AirPods 2 og 4, Pro 3 SE- og V5.5-valg, kompromiser og kopier, du bør undgå.
+- [Kopi-AirPods vs. ægte AirPods: En ærlig sammenligning](https://airpodsreplicas.com/da/articles/airpods-replicas-vs-real): Kopi-AirPods vs. ægte AirPods, ærligt sammenlignet: hvilke funktioner virker på kopier, hvad mangler, og hvilke skal man købe?
+- [Virker AirPods-kopier med Android?](https://airpodsreplicas.com/da/articles/airpods-replicas-on-android): Ja — sådan fungerer AirPods-kopier med Android: parring, hvilke funktioner der virker, hvorfor de fleste firmwareapps kun findes til Android, og hvad du skal tjekke, før du køber.
+- [Er AirPods-kopier sikre? Det ærlige svar](https://airpodsreplicas.com/da/articles/are-airpods-replicas-safe): Er AirPods-kopier sikre at købe og bruge? Vi adskiller risikoen for svindel fra hardwarerisikoen og forklarer, hvad fællesskabet faktisk tjekker, før de bestiller.
+- [Kan folk se, at dine AirPods er falske?](https://airpodsreplicas.com/da/articles/can-people-tell-airpods-are-fake): Er du bekymret for, at nogen opdager dine replika-AirPods? Her er, hvad der faktisk afslører kopier ved nærmere eftersyn, hvad ingen bemærker i hverdagen, og hvor godt de bedste versioner klarer sig.
+- [AirPods-kopier, told og moms: Kommer din pakke igennem?](https://airpodsreplicas.com/da/articles/airpods-replica-customs-and-vat): Hvad der faktisk sker med AirPods-kopier i tolden — reel risiko for beslaglæggelse, EU-moms håndteret på forhånd af pålidelige sælgere, og hvorfor din sporing pludselig stopper med at opdatere.
+- [Falske AirPods vil ikke oprette forbindelse? Sådan parrer og reparerer du dem](https://airpodsreplicas.com/da/articles/fake-airpods-wont-connect): Falske AirPods kan ikke parres eller vises ikke? Oplad dem, glem dem, og par dem igen, tjek pop op-vinduet i iOS, identificer chippen, og find ud af, hvornår det skyldes enheden, så du bør kontakte sælgeren.
+- [Sådan nulstiller du falske AirPods (kopier): Blød nulstilling vs. hård nulstilling](https://airpodsreplicas.com/da/articles/how-to-reset-fake-airpods): En sikker trin-for-trin-guide til nulstilling af falske AirPods – den bløde nulstilling ved problemer med parring, den mere grundige hårde nulstilling, og hvornår en nulstilling slet ikke er den rigtige løsning.
+- [Falske AirPods vs. budgetørepropper: En ærlig sammenligning](https://airpodsreplicas.com/da/articles/fake-airpods-vs-budget-earbuds): AirPods-kopier vs. budgetmærker som Anker Soundcore, EarFun og JLab — hvad hver side faktisk giver dig, hvor de koster det samme, og hvem der bør købe hvad.
+- [Virker falske AirPods med nye iPhones?](https://airpodsreplicas.com/da/articles/do-fake-airpods-work-with-new-iphone): Virker replika-AirPods med en ny iPhone? Ja — iOS-popup-vinduet fungerer stadig, og det, der faktisk varierer, afhænger af den version, du køber, ikke telefonen. Her er, hvad du skal tjekke.
+- [AirPods Max-kopi: Hvad du får, og hvad du må give afkald på](https://airpodsreplicas.com/da/articles/airpods-max-dupe): Et ærligt kig på AirPods Max-kopien — hvad den over-ear-replika kopierer, hvad den ikke kan, det typiske prisleje, og om den er pengene værd sammenlignet med in-ear-replikaerne.
+- [FlyCC APK-guide: Sådan konfigurerer og finjusterer du Airoha AirPods-kopier](https://airpodsreplicas.com/da/articles/flycc-app-guide): Sådan downloader, installerer og bruger du FlyCC sikkert — tilpasset EQ-justering, tilknytning af touchbetjening, firmwareopdateringer og fejlfinding af forbindelsesproblemer.
+- [AirPods Pro 2 vs AirPods Pro 3-kopier: Hvilke bør du købe?](https://airpodsreplicas.com/da/articles/airpods-pro-2-vs-airpods-pro-3): AirPods Pro 2 (V5.3 TB & V5.4 Huilian) vs AirPods Pro 3 (V7 & SE)-kopier sammenlignet — den gennemprøvede Pro 2 vs de nyeste funktioner i Pro 3, pulsmålere og anbefalinger.
+- [AirPods Max V3 vs V3P: Er metalbygningen 30 $ ekstra værd?](https://airpodsreplicas.com/da/articles/airpods-max-v3-vs-v3p): Sammenligning af AirPods Max V3- og V3P-kopier — ørekopper i CNC-fræset aluminium vs. plast, hybrid ANC-ydeevne, batteritid og om opgraderingen er det værd.
+- [Sådan opdaterer du firmwaren på falske AirPods: trinvis vejledning](https://airpodsreplicas.com/da/articles/how-to-update-fake-airpods-firmware): Sådan opdaterer du sikkert firmwaren på AirPods-kopier med FlyCC, CloudCC og Starfun — regler for sikker opladning, sådan undgår du at gøre dem ubrugelige, og hvornår du bør lade firmwaren være.
+- [Virker falske AirPods med Mac? Opsætning, lydstyrkeskyder og løsninger](https://airpodsreplicas.com/da/articles/fake-airpods-on-mac): Sådan forbinder du AirPods-kopier til macOS — løsning af fejlen med den binære lydstyrkeskyder, iCloud-skifteadfærd og hvilket chipset der fungerer bedst på MacBooks.
+- [AirPods Pro 3 V7 Huilian vs V7 TB: Hvilken V7-replika skal du købe?](https://airpodsreplicas.com/da/articles/airpods-pro-3-v7-huilian-vs-v7-tb): AirPods Pro 3 V7 Huilian vs V7 TigerBuilder (TB): samme pris, støjreduktion og sensorer, men iCloud Connect, liveoversættelse og StarFun på den ene, multipoint til 3 enheder og FlyCC på den anden.
+- [Virker falske AirPods med Find My?](https://airpodsreplicas.com/da/articles/do-fake-airpods-work-with-find-my): Ingen AirPods-kopi fungerer med Apples Find My-netværk, uanset pris eller version, og en firmwareopdatering kan ikke tilføje det. Hvad kopierne gør i stedet, hvordan Find My afslører en kopi, og hvad man skal mene om sælgernes påstande.
+- [StarFun APK-vejledning: EQ og firmware til Huilian AirPods-replikaer](https://airpodsreplicas.com/da/articles/starfun-app-guide): Hvor du kan hente StarFun til Android og iOS, hvilke Huilian AirPods-replikaer der bruger appen, hvordan du justerer EQ og opdaterer firmware sikkert, og hvad du skal tjekke, når appen ikke kan finde dine øretelefoner.
+- [Best AirPods Replicas (2026) (EN)](https://airpodsreplicas.com/articles/best-airpods-replicas): All-model 2026 buying guide (Pro 3 V7 Huilian, V7 TB, SE, Pro 2 V5.3 TB, AirPods 4 V3 TB, Max V3 TB).
+- [AirPods 4 Replicas: V3 TB vs V2 Huilian vs V2 TB (EN)](https://airpodsreplicas.com/articles/airpods-4-v3-vs-v2): Side-by-side comparison of all stocked AirPods 4 replicas.
+
 ## Fejlfinding
 
 - [Almindelige Fejl](https://airpodsreplicas.com/da/troubleshooting/other-common-bugs): Løsninger på de mest almindelige problemer.
@@ -47,7 +76,8 @@ Reddit: https://airreps.link/reddit (r/AirReps)
 
 ## Værktøjer og Fællesskab
 
-- [Nyttige Apps](https://airpodsreplicas.com/da/useful-apps): Essentielle firmware-update-apps til Airoha-, TigerBuilder-, BES-, HR- og Huilian-chipsæt.
+- [Nyttige Apps](https://airpodsreplicas.com/da/useful-apps): Download FlyCC (Android og iOS, TigerBuilder/Airoha), StarFun (Android og iOS, Huilian), CloudCC, BullSuper, G&Link, HBluetooth og KKX.
 - [Quiz](https://airpodsreplicas.com/da/quiz): Interaktiv quiz til at finde den bedste replika til dine behov og budget.
+- [Fællesskab](https://airpodsreplicas.com/da/community): Hvad Discord (73k+ medlemmer) og r/AirReps (73k+ medlemmer) bruges til, kanaler, AI-assistenten og sikkerhedsregler.
 - [Discord](https://airreps.link/discord): Bliv en del af fællesskabet for hjælp i realtid.
 - [Reddit](https://airreps.link/reddit): Subreddit r/AirReps.

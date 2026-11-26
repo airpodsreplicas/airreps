@@ -12,7 +12,7 @@ Assessing the sound quality of AirPods replicas can help you determine their per
 The best widely available AirPods 2, AirPods 3, AirPods 4, AirPods Pro, AirPods Pro 2, and AirPods Pro 3 replicas score about 8-9/10 in sound quality when compared to the original AirPods.
 
 ::: details Do AirPods Pro sound better than AirPods 4?
-Since AirPods Pro seal into the ear, they may sound significantly better than AirPods 2/3, which are shaped to let outside noise in. It is recommended to choose the shape and fit that is preferred.
+Since AirPods Pro seal into the ear with silicone tips, they usually deliver deeper bass and better passive isolation than open-fit models like AirPods 4 (and older AirPods 2/3), which are shaped to let outside air in. Choose the fit you find more comfortable.
 :::
 
 ## Sound Quality Variations

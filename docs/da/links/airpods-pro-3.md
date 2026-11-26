@@ -11,31 +11,36 @@ Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i
 <table>
   <tr>
     <th>Version</th>
+    <th>Pris</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
   <tr>
-    <td><span class="version-badge">V7 (TB)</span></td>
+    <td><span class="version-badge">V7 (TB)</span><br>Bedste ANC / Nyeste TB</td>
+    <td style="white-space: nowrap;">$67–68</td>
     <td>
       <div class="link-column">
-        <a href="https://earhive.com/product/pro-3-v7-tb/">Websted</a>
+        <a href="https://airreps.link/eprov7tb">Websted</a>
+        <a href="https://airreps.link/earhivew">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://hicitypods.com/product/pro-3-v7-tb/">Websted</a>
+        <a href="https://airreps.link/hcprov7tb">Websted</a>
         <a href="https://airreps.link/hicityw">Weidian</a>
       </div>
     </td>
     <td>
       <div class="link-column">
-        <a href="https://jenny.airreps.info/product/pro-3-v7-tb/">Websted</a>
+        <a href="https://airreps.link/jprov7tb">Websted</a>
+        <a href="https://airreps.link/jennyw">Weidian</a>
       </div>
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">V7 (Huilian)</span></td>
+    <td><span class="version-badge">V7 (Huilian)</span><br>Bedste valg</td>
+    <td style="white-space: nowrap;">$67–68</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov7hl">Websted</a>
@@ -58,7 +63,8 @@ Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i
     </td>
   </tr>
   <tr>
-    <td><span class="version-badge">SE</span></td>
+    <td><span class="version-badge">SE</span><br>Bedste værdi</td>
+    <td style="white-space: nowrap;">$48</td>
     <td style="text-align: center;">-</td>
     <td style="text-align: center;">-</td>
     <td>
@@ -71,6 +77,7 @@ Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i
   </tr>
   <tr>
     <td><span class="version-badge">V6 (TB)</span></td>
+    <td style="white-space: nowrap;">$37–38</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov6tb">Websted</a>
@@ -94,6 +101,7 @@ Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i
   </tr>
   <tr>
     <td><span class="version-badge">V6 (Huilian)</span></td>
+    <td style="white-space: nowrap;">$43–45</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov6hl">Websted</a>
@@ -117,6 +125,7 @@ Replikaer af AirPods Pro 3 er den nyeste in-ear-model med de nyeste funktioner i
   </tr>
   <tr>
     <td><span class="version-badge">V5.5</span></td>
+    <td style="white-space: nowrap;">$27–28</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/eprov55">Websted</a>

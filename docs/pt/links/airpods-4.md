@@ -11,12 +11,14 @@ As réplicas de AirPods 4 apresentam um design de orelha aberta, com ANC nas ver
 <table>
   <tr>
     <th>Versão</th>
+    <th>Preço</th>
     <th>Earhive</th>
     <th>HiCity</th>
     <th>Jenny</th>
   </tr>
    <tr>
-    <td><span class="version-badge">V3 TB</span></td>
+    <td><span class="version-badge">V3 TB</span><br>Melhor AirPods 4</td>
+    <td style="white-space: nowrap;">$52–53</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v3tb">Site</a>
@@ -40,6 +42,7 @@ As réplicas de AirPods 4 apresentam um design de orelha aberta, com ANC nas ver
   </tr>
   <tr>
     <td><span class="version-badge">V2 TB</span></td>
+    <td style="white-space: nowrap;">$29–30</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2tb">Site</a>
@@ -62,7 +65,8 @@ As réplicas de AirPods 4 apresentam um design de orelha aberta, com ANC nas ver
     </td>
   </tr>
     <tr>
-    <td><span class="version-badge">V2 Huilian</span></td>
+    <td><span class="version-badge">V2 Huilian</span><br>Escolha iCloud</td>
+    <td style="white-space: nowrap;">$39–42</td>
     <td>
       <div class="link-column">
         <a href="https://airreps.link/e4v2hl">Site</a>

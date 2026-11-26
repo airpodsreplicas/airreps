@@ -16,9 +16,12 @@ Aşağıda, indirebileceğiniz uygulamalar ve destekledikleri replika sürümler
 |---|---|
 | [![CloudCC (Android)](/app_icon/cloudcc.png)](https://airreps.link/cloudcc) CloudCC (Android)<br><span class="app-download-action"><a class="app-download" href="https://airreps.link/cloudcc" aria-label="CloudCC (Android) APK dosyasını indir" target="_blank" rel="noreferrer">APK dosyasını indir</a></span> | ![Airoha156x (Android)](/app_icon/airoha156x.png) Airoha156x (Android) — İndirme kullanılamıyor |
 
-:::warning TigerBuilder, OTA işlevini FlyCC'ye entegre ettiğinden **CloudCC** kullanımdan kaldırılmıştır. Yalnızca depolama izni sorunuyla karşılaşırsanız geçici bir çözüm olarak kullanılmalıdır.
+::: warning CloudCC kullanımdan kaldırıldı
+TigerBuilder, OTA işlevini FlyCC'ye entegre ettiğinden **CloudCC** kullanımdan kaldırılmıştır. Yalnızca depolama izni sorunuyla karşılaşırsanız geçici bir çözüm olarak kullanılmalıdır.
 :::
-:::tip Airoha156x yalnızca AirPods Max V2 (Airoha 1561M) ve V3 (Airoha 1562AE) üzerindeki ekolayzır ayarlarını değiştirmek için kullanılmalıdır.
+
+::: tip Airoha156x (AirPods Max EQ)
+Airoha156x yalnızca AirPods Max V2 (Airoha 1561M) ve V3 (Airoha 1562AE) üzerindeki ekolayzır ayarlarını değiştirmek için kullanılmalıdır.
 :::
 
 ## **BES**
