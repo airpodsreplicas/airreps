@@ -1,83 +1,83 @@
 ---
-title: 'Imitação dos AirPods Max: O que você ganha e abre mão'
-description: 'Guia honesto de réplicas dos AirPods Max: estruturas de alumínio usinadas por CNC versus plástico, preços de US$ 85–US$ 127, ANC híbrido com quatro microfones e se os clones intra-auriculares oferecem melhor custo-benefício.'
+title: 'Imitação do AirPods Max: o que você ganha e abre mão'
+description: 'Guia honesto sobre réplicas do AirPods Max: estruturas de alumínio CNC versus plástico, preços de US$ 85 a US$ 127, ANC híbrido com quatro microfones e se as imitações intra-auriculares têm melhor custo-benefício.'
 category: Compras
 order: 12
 ---
-# Imitação dos AirPods Max: o que você ganha e o que perde
+# Réplique des AirPods Max : ce que vous obtenez et ce à quoi vous renoncez
 
-Uma imitação dos AirPods Max é uma réplica dos fones de ouvido circum-auriculares da Apple: copia o visual de alumínio, a haste de malha, a Digital Crown e o comportamento no iOS. E sim — ela aciona o mesmo aviso de emparelhamento e se conecta como um par genuíno ao iPhone. O que ela não consegue fazer é igualar o som, o ANC e o refinamento do ecossistema do produto original. Este artigo ajuda você a decidir se vale a compra; para ver as versões e especificações atuais, leia a [página de versões dos AirPods Max](/pt/version-info/airpods-max).
+Une réplique des AirPods Max est une copie du casque circum-auriculaire d’Apple : elle reprend l’aspect en aluminium, l’arceau en mesh, la Digital Crown et le comportement sous iOS. Et oui — elle déclenche la même fenêtre d’appairage et se connecte comme une véritable paire sur iPhone. En revanche, elle ne peut pas égaler le son, la réduction active du bruit (ANC) et la finition de l’écosystème du modèle vendu au détail. Cet article vous aide à décider si l’achat en vaut la peine ; pour connaître les versions et caractéristiques actuelles, consultez la [page des versions des AirPods Max](/pt/version-info/airpods-max).
 
-> **Resposta rápida:** A réplica topo de linha dos AirPods Max (V3 Metal / Max V3 TB, US$ 126–127) oferece conchas genuínas de alumínio anodizado, Digital Crown funcional, rastreamento de movimentos da cabeça e a animação de emparelhamento do iOS por menos de um quarto do preço de varejo de US$ 549 da Apple. O que você abre mão é do ANC computacional líder da categoria da Apple, da transferência perfeita pelo iCloud Connect e do rastreamento pela rede Buscar.
+> **Réponse rapide :** la meilleure réplique des AirPods Max en 2026 est le modèle haut de gamme **V3 Metal / Max V3 TB** (126–127 $, Airoha 1562AE), avec des coques d’oreille en aluminium anodisé usinées par CNC (~384 g), une Digital Crown fonctionnelle, une ANC hybride à quatre micros, le suivi de la tête et l’animation d’appairage iOS, pour moins du quart du prix de vente Apple (549 $). Le modèle à petit budget est le **V3P**, à 85–94 $, en plastique et acier. Ce à quoi vous renoncez : l’ANC computationnelle de premier plan d’Apple, le basculement fluide via iCloud Connect et le suivi sur le réseau Localiser. Pour éviter les fausses boutiques qui imitent les vendeurs, consultez les liens vérifiés sur la [page des liens des AirPods Max](/pt/links/airpods-max) ou comparez-les aux modèles intra-auriculaires avec le [quiz d’une minute](/pt/quiz).
 
-::: tip Os preços variam
-Os preços das réplicas oscilam conforme os lotes e as promoções. Considere todos os valores aqui como típicos, não fixos, e consulte a [página de links](/pt/links/airpods-max) para ver o que está disponível agora.
+::: tip Les prix varient
+Les prix des répliques fluctuent selon les lots et les promotions. Considérez chaque prix indiqué ici comme une valeur habituelle, et non fixe, et consultez la [page des liens](/pt/links/airpods-max) pour voir ce qui est en stock actuellement.
 :::
 
-## O que é, de fato, uma imitação dos Max
+## Ce qu’est réellement une réplique des Max
 
-As réplicas circum-auriculares são feitas, em linhas gerais, de duas formas. As versões de plástico reproduzem o formato e os controles, mas não o acabamento. As versões de metal vão além — a V3 topo de linha usa conchas de metal revestidas e uma haste de metal, o que faz com que pareça original à distância. Para muitos compradores, o visual de alumínio é justamente o grande atrativo dessa categoria.
+Les répliques circum-auriculaires se déclinent en deux grandes catégories. Les modèles en plastique reproduisent la forme et les commandes, mais pas les finitions. Les modèles en métal vont plus loin : le V3 haut de gamme possède des coques d’oreille en métal moelleux et un arceau en métal, ce qui lui permet de passer pour le vrai à distance. Pour beaucoup d’acheteurs, c’est précisément l’aspect aluminium qui fait tout l’intérêt de cette catégorie.
 
-Além da construção, a experiência no iOS também é bem imitada. A animação de emparelhamento aparece, é possível mudar o nome, e a [análise da qualidade de construção](/pt/introduction/build-quality) da comunidade explica como as dobradiças, as inscrições e o peso se comparam aos originais (em resumo: todas as réplicas vendidas pelo guia usam dobradiças de metal, e a precisão das inscrições varia conforme o vendedor). As versões atuais também incluem Digital Crown e detecção no ouvido.
+La partie logicielle iOS est également bien imitée. L’animation d’appairage s’affiche, le changement de nom fonctionne, et l’[analyse de la qualité de fabrication](/pt/introduction/build-quality) de la communauté compare les charnières, les inscriptions et le poids aux modèles originaux (en bref : toutes les répliques présentées dans le guide ont des charnières en métal, et la fidélité des inscriptions varie selon le vendeur). Les versions actuelles disposent aussi de la Digital Crown et de la détection sur la tête.
 
-## O que você realmente perde em relação ao produto original
+## Ce à quoi vous renoncez réellement par rapport au modèle vendu au détail
 
-O guia não esconde as diferenças, e nós também não. Em comparação com os AirPods Max originais, a réplica não oferece:
+Le guide ne mâche pas ses mots sur les lacunes, et nous non plus. Par rapport à de véritables AirPods Max, la réplique fait l’impasse sur :
 
-- **Transferência pelo iCloud Connect** — embora a V3 Metal seja compatível com multiponto Bluetooth padrão entre 2 dispositivos, ela não alterna automaticamente entre dispositivos usando o iCloud da Apple ID como o produto original ou os fones de ouvido baseados em Huilian (e a V3P, mais barata, conecta-se a 1 dispositivo por vez).
-- **ANC no nível do produto original** — o cancelamento de ruído funciona e é híbrido (veja a [explicação sobre ANC](/pt/introduction/anc-explained)), mas não chega ao nível da Apple.
-- **Modo Transparência melhor** — funciona, mas não é tão natural quanto no produto original.
-- **Os detalhes mais sutis** — aqueles toques de acabamento, ajuste e comportamento que você só percebe ao comparar os dois lado a lado.
+- **Le basculement iCloud Connect** — le V3 Metal prend en charge le multipoint Bluetooth standard sur 2 appareils, mais ne propose pas le basculement automatique entre appareils via l’identifiant Apple et iCloud, contrairement aux modèles vendus au détail ou aux écouteurs à base de Huilian (le V3P, moins cher, ne se connecte qu’à 1 appareil à la fois).
+- **Une ANC de niveau équivalent au modèle vendu au détail** — la réduction du bruit fonctionne et est hybride (voir l’[explication de l’ANC](/pt/introduction/anc-explained)), mais elle n’atteint pas le niveau d’Apple.
+- **Un mode Transparence supérieur** — il fonctionne, mais semble moins naturel que celui du modèle vendu au détail.
+- **Les détails plus subtils** — les petites différences de finition, de confort et de comportement qu’on ne remarque qu’en les comparant côte à côte.
 
-E, como todas as réplicas do guia, ela **não tem acesso à rede Buscar**. Se rastrear um fone perdido é importante para você, o original pode valer a compra. A [comparação entre réplica e original](/pt/articles/airpods-replicas-vs-real) analisa cada recurso.
+Et, comme toutes les répliques présentées dans le guide, elle n’a **pas accès au réseau Localiser**. Si le suivi d’un casque perdu est important pour vous, c’est un vrai achat. La [comparaison entre réplique et modèle original](/pt/articles/airpods-replicas-vs-real) détaille cette fonctionnalité point par point.
 
-A forma mais honesta de resumir: uma imitação dos AirPods Max é **mais um produto de estilo do que um produto para audiófilos**. Você compra o visual, a silhueta e o comportamento no iOS. Não compra um som de referência.
+Pour être honnête : une réplique des AirPods Max est **davantage un produit axé sur le style qu’un produit pour audiophiles**. Vous achetez l’apparence, la silhouette et le comportement sous iOS. Vous n’achetez pas un son de référence.
 
-## Faixa de preço em comparação com o original
+## Fourchette de prix par rapport au modèle vendu au détail
 
-Os AirPods Max de réplica dos [vendedores confiáveis](/pt/links/info) do guia costumam custar cerca de **US$ 85–127**, dependendo da versão e da construção (V3P por US$ 85–94, V3 Metal / Max V3 TB por US$ 126–127). Para comparar, isso fica na mesma faixa dos AirPods padrão originais, enquanto os Max originais da Apple custam muito mais. Portanto, o custo-benefício é real — mas só se você valorizar o que a réplica de fato oferece.
+Chez les [vendeurs de confiance](/pt/links/info) du guide, les répliques des AirPods Max coûtent généralement **entre 85 et 127 $**, selon la version et la fabrication (85–94 $ pour le V3P, 126–127 $ pour le V3 Metal / Max V3 TB). À titre de comparaison, c’est dans la même gamme de prix que les AirPods standard authentiques, tandis que les vrais Max d’Apple coûtent beaucoup plus cher. L’avantage est donc réel — mais uniquement si vous accordez de l’importance à ce que la réplique offre vraiment.
 
-## A parte incômoda: os modelos circum-auriculares oferecem menos por esse preço
+## Le point délicat : les circum-auriculaires sont moins avantageux
 
-Eis o que as páginas de venda não contam. Para ter apenas boa qualidade de som e cancelamento de ruído, **as réplicas intra-auriculares são a melhor compra**. As réplicas atuais dos AirPods Pro e dos modelos sem Pro recebem avaliações em torno de 8–9/10 em comparação com seus equivalentes originais, e as linhas Pro chegam bem perto no ANC. A réplica dos Max tenta reproduzir algo mais difícil — um driver maior, uma câmara acústica mais ampla e a afinação circum-auricular da Apple — e acaba ficando mais distante do equivalente original do que as réplicas intra-auriculares ficam dos seus.
+Voici ce que les pages de vente passent sous silence. Si vous recherchez avant tout la qualité sonore et la réduction du bruit, **les répliques intra-auriculaires sont un meilleur achat**. Les répliques actuelles des AirPods Pro et des modèles sans Pro obtiennent environ 8 à 9/10 face à leurs équivalents vendus au détail, et les gammes Pro s’approchent réellement de leur ANC. La réplique des Max vise une cible plus difficile — un transducteur plus grand, une chambre acoustique plus vaste et le réglage audio circum-auriculaire d’Apple — et s’éloigne davantage de son équivalent vendu au détail que les répliques intra-auriculaires des leurs.
 
-Em termos simples: você obtém uma experiência mais próxima da original por dólar com uma réplica dos Pro 2 ou Pro 3. A imitação dos Max ganha no formato e no visual, não no áudio. Se o som de referência é sua prioridade, compre os intra-auriculares. Se você quer o visual circum-auricular e o comportamento no iOS, os Max são uma opção razoável — desde que você tenha essa expectativa.
+En clair, une réplique des Pro 2 ou Pro 3 vous offre davantage de l’expérience authentique pour chaque dollar dépensé. La réplique des Max l’emporte par son format et son apparence, pas par son rendu audio. Si vous privilégiez un son de référence, choisissez les modèles intra-auriculaires. Si vous voulez le look circum-auriculaire et le comportement sous iOS, les Max font l’affaire — à condition de savoir à quoi vous attendre.
 
-## Para quem é indicada
+## À qui s’adresse ce produit
 
-- Para quem quer o visual dos Max na mesa, em fotos ou no trajeto, mas não quer pagar o preço da Apple.
-- Para quem valoriza mais o aviso de emparelhamento do iOS e os controles da Digital Crown do que uma afinação de referência.
-- Para quem aceita as diferenças de ANC e Transparência como parte da compra.
+- À quelqu’un qui veut afficher le look des Max sur son bureau, sur des photos ou pendant ses trajets sans payer le prix Apple.
+- À quelqu’un qui accorde plus d’importance à la fenêtre d’appairage iOS et aux commandes de la Digital Crown qu’à un rendu sonore de référence.
+- À quelqu’un qui accepte les compromis sur l’ANC et le mode Transparence.
 
-**Não** é indicada para quem busca som de topo de linha, precisa da transferência pelo iCloud Connect ou depende da rede Buscar.
+Il ne convient **pas** à ceux qui recherchent un son haut de gamme, ont besoin du basculement iCloud Connect ou comptent sur le réseau Localiser.
 
-## Onde comprar
+## Où acheter
 
-As réplicas dos AirPods Max são vendidas pelos vendedores confiáveis verificados pelo guia — Earhive, HiCity e Jenny oferecem a V3 Metal (Max V3 TB), enquanto Earhive e Jenny também têm a V3P. Os links de compra de cada versão estão na [página de links dos AirPods Max](/pt/links/airpods-max), ou faça o [quiz](/pt/quiz) se estiver decidindo entre modelos circum-auriculares e intra-auriculares. O conselho habitual da comunidade também vale aqui: compre de um [vendedor confiável](/pt/links/info), não de um anúncio aleatório em um marketplace, porque a versão que você recebe importa mais do que o preço pago. O mesmo anúncio de três vendedores corresponde ao mesmo produto — as principais diferenças estão no suporte, no envio e nas formas de pagamento.
+Les répliques des AirPods Max sont vendues par les vendeurs de confiance vérifiés par le guide. Earhive, HiCity et Jenny proposent tous le V3 Metal (Max V3 TB), tandis qu’Earhive et Jenny proposent aussi le V3P. Les liens d’achat pour chaque version se trouvent sur la [page des liens des AirPods Max](/pt/links/airpods-max), ou répondez au [quiz](/pt/quiz) si vous hésitez entre un modèle circum-auriculaire et un modèle intra-auriculaire. Le conseil habituel de la communauté s’applique ici aussi : achetez auprès d’un [vendeur de confiance](/pt/links/info), et non dans une annonce quelconque sur une place de marché, car la version reçue compte davantage que le prix payé. La même annonce chez trois vendeurs correspond au même produit — les différences portent surtout sur l’assistance, l’expédition et les moyens de paiement.
 
-<span class="pick-buy">Compre a V3 Metal na [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span> <span class="pick-buy">V3P na [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
+<span class="pick-buy">Acheter le V3 Metal chez [Earhive](https://airreps.link/emaxv3tb) [HiCity](https://airreps.link/hcmaxv3tb) [Jenny](https://airreps.link/jmaxv3tb)</span> <span class="pick-buy">V3P chez [Earhive](https://airreps.link/emaxv3p) [Jenny](https://airreps.link/jmaxv3p)</span>
 
-Leituras e comparações relacionadas:
-- Está em dúvida entre a versão de metal e a de plástico? Leia [AirPods Max V3 vs V3P](/pt/articles/airpods-max-v3-vs-v3p).
-- Réplicas intra-auriculares ou circum-auriculares? Confira [Melhores réplicas de AirPods por menos de US$ 50](/pt/articles/best-airpods-replicas-under-50).
-- AirPods originais ou réplicas, recurso por recurso: leia [AirPods de réplica vs AirPods originais](/pt/articles/airpods-replicas-vs-real).
-- Preocupado com atrasos na encomenda? Veja [Alfândega e IVA em réplicas de AirPods](/pt/articles/airpods-replica-customs-and-vat).
-- Quer verificar um par usado? Siga o guia [Como saber se os AirPods são falsos](/pt/articles/how-to-spot-fake-airpods).
+Articles et comparaisons associés :
+- Vous hésitez entre les modèles en métal et en plastique ? Consultez [AirPods Max V3 vs V3P](/pt/articles/airpods-max-v3-vs-v3p).
+- Répliques intra-auriculaires ou répliques circum-auriculaires ? Découvrez les [meilleures répliques d’AirPods à moins de 50 $](/pt/articles/best-airpods-replicas-under-50).
+- AirPods authentiques et répliques, fonctionnalité par fonctionnalité : consultez [AirPods répliques vs AirPods authentiques](/pt/articles/airpods-replicas-vs-real).
+- Vous craignez que votre colis soit bloqué ? Consultez [Douane et TVA sur les répliques d’AirPods](/pt/articles/airpods-replica-customs-and-vat).
+- Vous voulez vérifier une paire d’occasion ? Suivez le guide [Comment savoir si des AirPods sont des contrefaçons](/pt/articles/how-to-spot-fake-airpods).
 
-## Perguntas frequentes
+## FAQ
 
-::: details Vale a pena comprar réplicas dos AirPods Max?
-Para ter o visual e o comportamento no iOS, sim — se é isso que você procura. Para som e ANC, as réplicas intra-auriculares oferecem melhor custo-benefício. Decida qual desses dois aspectos é mais importante antes de fazer o pedido.
+::: details Les répliques des AirPods Max en valent-elles la peine ?
+Pour l’apparence et le comportement sous iOS, oui — si c’est ce que vous recherchez. Pour le son et l’ANC, les répliques intra-auriculaires offrent un meilleur rapport qualité-prix. Décidez lequel de ces deux aspects vous recherchez avant de commander.
 :::
 
-::: details Dá para perceber que uma imitação dos AirPods Max é falsa?
-Visualmente, a V3 de metal chega perto, e é justamente por isso que os golpes com produtos de segunda mão funcionam. Os sinais aparecem quando você tem o dispositivo em mãos: falta da rede Buscar, ANC que não chega ao nível do produto original e detalhes de acabamento mais sutis. Veja [como saber se os AirPods são falsos](/pt/articles/how-to-spot-fake-airpods) para conferir.
+::: details Peut-on voir qu’une réplique des AirPods Max est fausse ?
+Visuellement, le V3 en métal s’en approche, ce qui explique précisément pourquoi les arnaques d’occasion fonctionnent. Les signes révélateurs nécessitent d’avoir l’appareil en main : l’absence de Localiser, une ANC qui n’atteint pas le niveau du modèle vendu au détail et les détails de finition plus subtils. Consultez le guide [Comment savoir si des AirPods sont des contrefaçons](/pt/articles/how-to-spot-fake-airpods) pour effectuer les vérifications.
 :::
 
-::: details As réplicas dos Max exibem o aviso do iOS?
-Sim. A animação de emparelhamento, a alteração do nome, a exibição do GPS e os controles funcionam; as versões atuais também incluem Digital Crown e detecção quando estão na cabeça. A V3 Metal é compatível com multiponto Bluetooth para 2 dispositivos, mas não tem iCloud Connect nem ANC ou Transparência no nível do produto original.
+::: details Les répliques des Max affichent-elles la fenêtre iOS ?
+Oui. L’animation d’appairage, le changement de nom, l’affichage du GPS et les commandes fonctionnent, et les versions actuelles ajoutent la Digital Crown et la détection sur la tête. Le V3 Metal prend en charge le multipoint Bluetooth sur 2 appareils, mais ne propose ni iCloud Connect, ni une ANC et un mode Transparence de qualité équivalente au modèle vendu au détail.
 :::
 
-::: details Quanto deve custar uma imitação dos AirPods Max?
-Em geral, cerca de US$ 85–127 em um vendedor confiável (US$ 85–94 pela V3P, US$ 126–127 pela V3 Metal), dependendo da versão e da construção. Compare as opções na [página de versões](/pt/version-info/airpods-max) antes de comprar.
+::: details Combien coûte une réplique des AirPods Max ?
+En général, entre 85 et 127 $ auprès d’un vendeur de confiance (85–94 $ pour le V3P, 126–127 $ pour le V3 Metal), selon la version et la fabrication. Comparez-les sur la [page des versions](/pt/version-info/airpods-max) avant d’acheter.
 :::

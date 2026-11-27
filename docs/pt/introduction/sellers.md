@@ -1,45 +1,49 @@
 ---
-title: Vendedores Confiáveis de Réplicas de AirPods
+title: Vendedores confiáveis de réplicas de AirPods
 description: Comprar de vendedores verificados vs. não verificados. Por que vendedores confiáveis oferecem transações mais seguras.
 ---
 # Vendedores
 
-## Entendendo os vendedores
+## Conociendo a los vendedores
 
-Comprar réplicas de Apple AirPods significa lidar com vendedores de terceiros que se especializam em réplicas de alta qualidade. Nossos vendedores confiáveis verificados pela comunidade oferecem uma experiência de compra muito boa com produtos confiáveis, atendimento ao cliente responsivo e controle de qualidade. Embora a experiência possa não ser idêntica à compra diretamente da Apple, os vendedores confiáveis estão comprometidos em garantir a satisfação do cliente e construíram reputações sólidas dentro da comunidade AirReps.
+Comprar réplicas de Apple AirPods implica tratar con vendedores externos especializados en réplicas de alta calidad. Nuestros vendedores de confianza, verificados por la comunidad, ofrecen una muy buena experiencia de compra, con productos fiables, atención al cliente rápida y control de calidad. Aunque la experiencia quizá no sea idéntica a comprar directamente a Apple, los vendedores de confianza se comprometen a garantizar la satisfacción de sus clientes y se han labrado una sólida reputación en la comunidad de AirReps.
 
-## Vendedores verificados vs. não verificados
+## Vendedores verificados y no verificados
 
-Existem muitos vendedores de réplicas de AirPods disponíveis, mas a melhor experiência vem dos nossos vendedores confiáveis avaliados pela comunidade. Esses vendedores foram testados minuciosamente pela nossa comunidade e demonstraram práticas comerciais excepcionais. Testamos muitos vendedores, e estes são os melhores. Eles têm avaliações verificadas em plataformas como o subreddit [r/AirReps](https://airreps.link/reddit) e no nosso [Discord](https://airreps.link/discord), e consistentemente entregam produtos de qualidade e fornecem excelente atendimento ao cliente.
+Hay muchos vendedores de réplicas de AirPods, pero la mejor experiencia se consigue con los vendedores de confianza seleccionados por nuestra comunidad. La comunidad ha probado exhaustivamente a estos vendedores, que han demostrado tener prácticas comerciales excelentes. Hemos probado a muchos vendedores y estos son los mejores. Tienen reseñas verificadas en plataformas como el subreddit [r/AirReps](https://airreps.link/reddit) y nuestro [Discord](https://airreps.link/discord), y ofrecen productos de calidad y una atención al cliente excelente de forma constante.
 
-Embora você possa encontrar vendedores em sites de comércio eletrônico chineses como AliExpress ou DHgate, as avaliações nessas plataformas podem nem sempre ser imparciais ou legítimas. Comprar de vendedores não verificados acarreta mais risco, pois a qualidade do produto e o atendimento ao cliente podem variar significativamente. Se você comprar de um vendedor não verificado e encontrar problemas, por favor compartilhe sua experiência com nossa equipe.
+Aunque puedes encontrar vendedores en sitios chinos de comercio electrónico como AliExpress o DHgate, es posible que las reseñas de estas plataformas no siempre sean imparciales o legítimas. Comprar a vendedores no verificados conlleva más riesgos, ya que la calidad de los productos y la atención al cliente pueden variar mucho. Si compras a un vendedor no verificado y tienes algún problema, comparte tu experiencia con nuestro equipo.
+
+::: warning Cuidado con los sitios web de vendedores impostores
+Los dominios falsos que imitan a **Earhive**, **HiCity** y **Jenny** aparecen con frecuencia en los resultados de búsqueda y en anuncios. No intentes adivinar de memoria la URL de un vendedor ni confíes en enlaces aleatorios: abre siempre directamente los enlaces verificados de las [ofertas de compra de AirReps](/pt/links/info) o empieza con el [cuestionario de 1 minuto](/pt/quiz).
+:::
 
 ::: tip Lista de vendedores verificados
-Encontre uma [lista de vendedores verificados pela comunidade e reputáveis aqui](/pt/links/info). Alguns links de vendedores e agentes de compras podem gerar comissão para o AirReps.
+Consulta aquí la [lista de vendedores reputados y verificados por la comunidad](/pt/links/info). Algunos enlaces de vendedores y agentes de compra pueden generar una comisión para AirReps.
 :::
 
-::: tip Compre de vendedores confiáveis
-Para a melhor experiência, recomendamos fortemente comprar com nossos [vendedores confiáveis verificados pela comunidade](/pt/links/info). Eles têm histórico comprovado e fornecem produtos confiáveis com bom atendimento ao cliente.
+::: tip Compra a vendedores de confianza
+Para disfrutar de la mejor experiencia, recomendamos encarecidamente comprar a nuestros [vendedores de confianza verificados por la comunidad](/pt/links/info). Han demostrado tener una trayectoria sólida y ofrecen productos fiables con una buena atención al cliente.
 :::
 
-## Revendedores e suas práticas
+## Revendedores y sus prácticas
 
-Alguns revendedores oferecem réplicas de AirPods a preços mais altos, às vezes com serviços adicionais como garantias, proteção ao comprador ou envio expresso. No entanto, esses serviços têm um custo adicional, e um preço mais alto não garante necessariamente um produto melhor. Os vendedores confiáveis que recomendamos normalmente oferecem os mesmos produtos ou melhores com preços mais competitivos. Para um guia passo a passo sobre como fazer um pedido, veja [como comprar](/pt/ordering/how-to-buy).
+Algunos revendedores ofrecen réplicas de AirPods a precios más altos, a veces con servicios adicionales como garantías, protección al comprador o envío urgente. Sin embargo, estos servicios tienen un coste adicional, y un precio más alto no garantiza necesariamente un producto mejor. Los vendedores de confianza que recomendamos suelen ofrecer productos de la misma calidad o mejores a precios más competitivos. Para ver una guía paso a paso para hacer un pedido, consulta [cómo comprar](/pt/ordering/how-to-buy).
 
-::: tip Vendedores confiáveis vs. revendedores
-Nossos vendedores confiáveis recomendados oferecem excelente custo-benefício e qualidade. Embora os revendedores possam oferecer serviços adicionais, muitas vezes você pode obter os mesmos produtos diretamente dos vendedores confiáveis por preços melhores.
+::: tip Vendedores de confianza y revendedores
+Los vendedores de confianza que recomendamos ofrecen una excelente relación calidad-precio. Aunque los revendedores pueden ofrecer servicios adicionales, a menudo puedes conseguir los mismos productos directamente de vendedores de confianza a mejores precios.
 :::
 
 ::: warning
-Tenha cautela ao comprar de revendedores, especialmente aqueles não listados na nossa seção de vendedores confiáveis. Alguns podem cobrar preços excessivos ou adotar práticas questionáveis. Um preço mais alto não garante melhor qualidade.
+Ten cuidado al comprar a revendedores, especialmente a los que no figuran en nuestra sección de vendedores de confianza. Algunos pueden inflar los precios o recurrir a prácticas cuestionables. Un precio más alto no garantiza una calidad superior.
 :::
 
-## Perguntas frequentes
+## Preguntas frecuentes
 
-::: details Qual é o melhor vendedor de réplicas de AirPods?
-Não existe um único melhor vendedor — os vendedores confiáveis (Earhive, HiCity e Jenny) frequentemente têm as mesmas versões, então a escolha certa depende das suas prioridades. Earhive tende a ter os melhores preços, Jenny o envio mais rápido e HiCity a maior variedade de métodos de pagamento e suporte. Compare-os e seus produtos na página de [links de compra](/pt/links/info).
+::: details ¿Cuál es el mejor vendedor de réplicas de AirPods?
+No hay un único vendedor que sea el mejor: los vendedores de confianza (Earhive, HiCity y Jenny) suelen ofrecer las mismas versiones, así que la opción adecuada depende de tus prioridades. Earhive suele tener los mejores precios, Jenny ofrece el envío más rápido y HiCity cuenta con la mayor variedad de métodos de pago y opciones de asistencia. Compáralos y consulta sus productos en la página de [enlaces de compra](/pt/links/info).
 :::
 
-::: details Como sei se um vendedor é confiável?
-Siga os vendedores verificados listados neste guia. Eles foram avaliados pela comunidade AirReps ao longo do tempo quanto à qualidade do produto, envio confiável e suporte. Evite vendedores não listados e anúncios em marketplaces que pareçam incomumente baratos — um preço mais baixo muitas vezes significa uma versão mais antiga ou uma experiência pior, e você perde o histórico da comunidade como rede de segurança.
+::: details ¿Cómo sé si un vendedor es de confianza?
+Limítate a los vendedores verificados que aparecen en esta guía. La comunidad de AirReps los ha evaluado a lo largo del tiempo en cuanto a calidad de los productos, fiabilidad de los envíos y asistencia. Evita a los vendedores que no figuran en la lista y las publicaciones en plataformas de compraventa con precios inusualmente bajos: un precio menor suele indicar una versión más antigua o una experiencia peor, y no contarás con el historial de la comunidad como respaldo.
 :::
