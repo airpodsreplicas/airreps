@@ -1,45 +1,49 @@
 ---
-title: Güvenilir AirPods Replika Satıcıları
-description: Doğrulanmış vs. doğrulanmamış satıcılardan satın alma. Neden güvenilir satıcılar daha güvenli işlemler sunar.
+title: Güvenilir AirPods Taklit Ürün Satıcıları
+description: Onaylı ve onaysız satıcılardan alışveriş yapmak. Güvenilir satıcılar neden daha güvenli işlemler sunar.
 ---
 # Satıcılar
 
-## Satıcıları anlama
+## Satıcıları anlamak
 
-Apple AirPods replika satın almak, yüksek kaliteli replikalara uzmanlaşmış üçüncü taraf satıcılarla çalışmak anlamına gelir. Topluluk tarafından doğrulanmış güvenilir satıcılarımız, güvenilir ürünler, duyarlı müşteri hizmetleri ve kalite kontrol ile çok iyi bir satın alma deneyimi sunar. Deneyim Apple'dan doğrudan satın almakla tamamen aynı olmayabilir, ancak güvenilir satıcılar müşteri memnuniyetini sağlamaya kararlıdır ve AirReps topluluğu içinde güçlü bir itibar edinmişlerdir.
+Apple AirPods replikaları satın almak, yüksek kaliteli replikalar konusunda uzmanlaşmış üçüncü taraf satıcılarla çalışmak anlamına gelir. Topluluğumuz tarafından doğrulanmış güvenilir satıcılar; güvenilir ürünler, hızlı yanıt veren müşteri hizmetleri ve kalite kontrolüyle çok iyi bir alışveriş deneyimi sunar. Deneyim doğrudan Apple'dan alışveriş yapmakla aynı olmayabilir, ancak güvenilir satıcılar müşteri memnuniyetini sağlamaya kararlıdır ve AirReps topluluğunda güçlü bir itibar kazanmıştır.
 
 ## Doğrulanmış ve doğrulanmamış satıcılar
 
-Birçok AirPods replika satıcısı mevcut, ancak en iyi deneyim topluluk tarafından incelenmiş güvenilir satıcılarımızdan gelir. Bu satıcılar topluluğumuz tarafından kapsamlı şekilde test edildi ve olağanüstü ticari uygulamalar sergilediler. Birçok satıcıyı test ettik ve bunlar en iyileri. [r/AirReps](https://airreps.link/reddit) subreddit'i gibi platformlarda ve bizim [Discord](https://airreps.link/discord) sunucumuzda doğrulanmış incelemeleri var; sürekli olarak kaliteli ürünler sağlıyor ve mükemmel müşteri hizmeti sunuyorlar.
+Pek çok AirPods replikası satıcısı vardır, ancak en iyi deneyimi topluluğumuzun inceleyip onayladığı güvenilir satıcılar sunar. Bu satıcılar topluluğumuz tarafından kapsamlı biçimde test edilmiş ve üstün iş uygulamaları sergilemiştir. Birçok satıcıyı test ettik ve bunlar en iyileri. [r/AirReps](https://airreps.link/reddit) alt dizini ve [Discord](https://airreps.link/discord) sunucumuz gibi platformlarda doğrulanmış yorumları bulunur; düzenli olarak kaliteli ürünler teslim eder ve mükemmel müşteri hizmeti sunarlar.
 
-AliExpress veya DHgate gibi Çin e-ticaret sitelerinde satıcılar bulabilirsiniz, ancak bu platformlardaki incelemeler her zaman tarafsız veya meşru olmayabilir. Doğrulanmamış satıcılardan satın almak daha fazla risk taşır; ürün kalitesi ve müşteri hizmetleri önemli ölçüde değişkenlik gösterebilir. Eğer doğrulanmamış bir satıcıdan satın alır ve sorun yaşarsanız, lütfen deneyiminizi personel ekibimizle paylaşın.
+AliExpress veya DHgate gibi Çin e-ticaret sitelerinde satıcılar bulabilirsiniz, ancak bu platformlardaki yorumlar her zaman tarafsız veya gerçek olmayabilir. Doğrulanmamış satıcılardan alışveriş yapmak daha risklidir; ürün kalitesi ve müşteri hizmetleri büyük ölçüde değişebilir. Doğrulanmamış bir satıcıdan alışveriş yapar ve sorun yaşarsanız lütfen deneyiminizi ekibimizle paylaşın.
+
+::: warning Taklitçi satıcı sitelerine dikkat edin
+Sahte benzer alan adları, arama sonuçlarında ve reklamlarda düzenli olarak **Earhive**, **HiCity** ve **Jenny** markalarını taklit eder. Bir satıcının URL'sini hafızanızdan tahmin etmeyin veya rastgele bağlantılara güvenmeyin — doğrulanmış mağaza bağlantılarını her zaman doğrudan [AirReps Satın Alma Bağlantıları dizininden](/tr/links/info) açın ya da [1 dakikalık testle](/tr/quiz) başlayın.
+:::
 
 ::: tip Doğrulanmış satıcı listesi
-Topluluk tarafından doğrulanmış ve saygın satıcıların [listesini burada bulun](/tr/links/info). Bazı satıcı ve alışveriş aracısı bağlantıları AirReps'e komisyon kazandırabilir.
+Topluluk tarafından doğrulanmış ve saygın satıcıların [listesini burada bulabilirsiniz](/tr/links/info). Bazı satıcı ve alışveriş aracısı bağlantıları AirReps'e komisyon kazandırabilir.
 :::
 
-::: tip Güvenilir satıcılardan satın alın
-En iyi deneyim için, [topluluk tarafından doğrulanmış güvenilir satıcılarımızdan](/tr/links/info) satın almanızı şiddetle tavsiye ederiz. Kanıtlanmış bir sicile sahipler ve iyi müşteri hizmeti ile güvenilir ürünler sunuyorlar.
+::: tip Güvenilir satıcılardan alışveriş yapın
+En iyi deneyim için [topluluk tarafından doğrulanmış güvenilir satıcılarımızdan](/tr/links/info) alışveriş yapmanızı önemle tavsiye ederiz. Güvenilir bir geçmişe sahip olduklarını kanıtlamışlardır ve iyi müşteri hizmetleriyle güvenilir ürünler sunarlar.
 :::
 
-## Aracı satıcılar ve uygulamaları
+## Yeniden satıcılar ve uygulamaları
 
-Bazı aracı satıcılar AirPods replikalarını daha yüksek fiyatlarla sunar; bazen garanti, alıcı koruması veya hızlandırılmış kargo gibi ek hizmetlerle birlikte. Ancak bu hizmetler ek ücret gerektirir ve daha yüksek bir fiyat mutlaka daha iyi bir ürün garantisi vermez. Önerdiğimiz güvenilir satıcılar genellikle aynı veya daha iyi kalite ürünleri daha rekabetçi fiyatlarla sunar. Sipariş verme konusunda adım adım rehber için [nasıl satın alınır](/tr/ordering/how-to-buy) sayfasına bakın.
+Bazı yeniden satıcılar AirPods replikalarını daha yüksek fiyatlara sunar; bazen garanti, alıcı koruması veya hızlı kargo gibi ek hizmetler de sağlarlar. Ancak bu hizmetlerin ek bir maliyeti vardır ve daha yüksek bir fiyat mutlaka daha iyi bir ürün anlamına gelmez. Önerdiğimiz güvenilir satıcılar genellikle aynı veya daha kaliteli ürünleri daha rekabetçi fiyatlarla sunar. Sipariş verme adımlarını anlatan bir kılavuz için [nasıl satın alınır](/tr/ordering/how-to-buy) sayfasına bakın.
 
-::: tip Güvenilir satıcılar ve aracı satıcılar
-Önerdiğimiz güvenilir satıcılar mükemmel fiyat-değer dengesi ve kalite sağlar. Aracı satıcılar ek hizmetler sunabilir, ancak genellikle aynı ürünleri güvenilir satıcılardan daha iyi fiyatlarla doğrudan alabilirsiniz.
+::: tip Güvenilir satıcılar ve yeniden satıcılar
+Önerdiğimiz güvenilir satıcılar mükemmel fiyat-performans ve kalite sunar. Yeniden satıcılar ek hizmetler sunsa da, çoğu zaman aynı ürünleri doğrudan güvenilir satıcılardan daha iyi fiyatlarla alabilirsiniz.
 :::
 
 ::: warning
-Aracı satıcılardan satın alırken dikkatli olun, özellikle güvenilir satıcılar bölümümüzde listelenmeyenlerden. Bazıları ürünleri fazla fiyatlandırabilir veya şüpheli uygulamalara girebilir. Daha yüksek bir fiyat daha iyi kalite garantisi vermez.
+Özellikle güvenilir satıcılar bölümümüzde listelenmeyen yeniden satıcılardan alışveriş yaparken dikkatli olun. Bazıları ürünleri yüksek fiyatlara satabilir veya şüpheli uygulamalarda bulunabilir. Daha yüksek bir fiyat, daha iyi kaliteyi garanti etmez.
 :::
 
 ## Sıkça sorulan sorular
 
-::: details Hangi AirPods replika satıcısı en iyisidir?
-Tek bir en iyi satıcı yok — güvenilir satıcılar (Earhive, HiCity ve Jenny) sıklıkla aynı versiyonları bulundurur, bu yüzden doğru seçim önceliklerinize bağlıdır. Earhive genellikle en iyi fiyatlara, Jenny en hızlı gönderime ve HiCity en geniş ödeme yöntemleri ve desteğe sahiptir. Onları ve ürünlerini [satın alma bağlantıları](/tr/links/info) sayfasında karşılaştırın.
+::: details En iyi AirPods replikası satıcısı hangisi?
+Tek bir en iyi satıcı yok — güvenilir satıcılar (Earhive, HiCity ve Jenny) genellikle aynı sürümleri sattığından doğru tercih önceliklerinize bağlıdır. Earhive genellikle en iyi fiyatları, Jenny en hızlı kargoyu, HiCity ise en geniş ödeme yöntemi ve destek seçeneklerini sunar. Satıcıları ve ürünlerini [satın alma bağlantıları](/tr/links/info) sayfasında karşılaştırın.
 :::
 
 ::: details Bir satıcının güvenilir olduğunu nasıl anlarım?
-Bu rehberde listelenen doğrulanmış satıcılara bağlı kalın. Zaman içinde ürün kalitesi, güvenilir gönderim ve destek açısından AirReps topluluğu tarafından incelenip onaylandılar. Listelenmemiş satıcılardan ve olağandan çok daha ucuz görünen pazar yeri ilanlarından kaçının — daha düşük fiyat sıklıkla daha eski bir sürüm veya daha kötü bir deneyim anlamına gelir ve topluluğun geçmiş performansını güvenlik ağı olarak kaybedersiniz.
+Bu kılavuzda listelenen doğrulanmış satıcıları tercih edin. Ürün kalitesi, güvenilir kargo ve destek açısından AirReps topluluğu tarafından zaman içinde incelenmişlerdir. Listelenmeyen satıcılardan ve olağan dışı derecede ucuz görünen pazar yeri ilanlarından kaçının — düşük fiyat çoğu zaman eski bir sürüm ya da daha kötü bir deneyim anlamına gelir ve güvence olarak topluluğun geçmiş performansına dayanma olanağınızı kaybedersiniz.
 :::
